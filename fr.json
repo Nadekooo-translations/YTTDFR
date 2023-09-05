@@ -1,1 +1,21 @@
-{}
+{
+    "map34": {
+        "1-1-message": [
+            "\"..........\"",
+            "\\.\\C[3]Nao est assise aux côtés du professeur, abasourdie."
+        ],
+        "2-1-message": [
+            "\\.\\C[3]Le professeur Mishima... baignant dans une\nmarre de sang.",
+            "\\.\\C[3]... J'ai peur de m'en approcher."
+        ],
+        "3-1-message": [
+            "\"...\"",
+            "\\.\\C[4](Keiji est plongé dans ses pensées...)"
+        ]
+    },
+    "map33": {
+        "29-1-message": [
+            "\\C[3]Une boîte avec une note disant \"Utilisez-moi comme vous\nle souhaitez.\" À l'intérieur est inscrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3].\""
+        ]
+    }
+}
