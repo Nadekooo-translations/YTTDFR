@@ -21,11 +21,31 @@
     "map1": {
         "1-1-message": [
             "...",
-            null,
+            "\\.\"Heeeeeyyy...\"",
             "\"Salut.\"",
-            "\\.\"J'ai une petite question,\n sait-tu ce qu'est un \\C[2]vote à la majorité\\C[0] ?\"",
+            "\\.\"J'ai une petite question,\n Tu sais ce que c'est un \\C[2]vote à la majorité\\C[0] ?\"",
             "\\.\"Ahaha, ne t'énerve pas.\nC'est toujours utile de commencer ses discussions\npar une question simple.\"",
-            "\\.\"Comme c'est étrange !\""
+            "\\.\"Comme c'est étrange !\"",
+            "\\.\"Tu sais, c'est quand des gens votent pour décider\n de quelque chose et c'est ce qui a le plus de vote\n qui devient ce qu'on choisit...\"",
+            "\\.\"Tiens ? On dirait que nous ne sommes pas seuls.\"",
+            "\\.\"J'adore les votes à la majorité ! Ils représentent\n la démocratie et suivent la volonté du peuple !\n C'est une méthode qui réduit les conflits !\"",
+            "\\.\"Je hais les votes à la majorité !\n Ils font taire les minorités et ne font que\n croître les ombres dans les ténèbres !\"",
+            "\"Ahh... On dirait que cette dispute est plutôt\n tendue.\"",
+            "\\.\"Juste par curiosité, quelle opinion supportes-tu ?\n Celle de Mr. Bleu, ou celle de Mme. Rouge ?\"",
+            "\"Ohh... Elle est morte.\"",
+            "\\.\"Mais tant mieux pour toi !\n Ton opinion était la plus supportée !\"",
+            "\\.\"Au final, la majorité est absolue !\n C'est comme ça que ça marche en société !\"",
+            "\"Ohh... Il est mort.\"",
+            "\\.\"Mais tant mieux pour toi !\n Ton opinion était la plus supportée !\"",
+            "\\.\"C'est avec cette expérience que vous découvrez\n la terreur que peuvent apporter les votes à la majorité.\"",
+            "\\.\"Hein...?\"",
+            "\\.\"Mais si c'est votre choix qui a été pris, ne\n devriez-vous pas reconnaître l'intérêt de ces votes, du coup ?\"",
+            "\\.\"... Eh bah, c'est compliqué tout ça.\"",
+            "\\.\"... Hmm ? C'est quoi ce regard ?\n \\! Si t'avais su que l'autre personne allait mourir,\n alors tu n'aurais pas voté ?\""
+        ],
+        "1-1-choice": [
+            null,
+            "Mr. Bleu\nMme. Rouge"
         ]
     }
 }
