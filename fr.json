@@ -41,10 +41,12 @@
             "\\.\"Hein...?\"",
             "\\.\"Mais si c'est votre choix qui a été pris, ne\n devriez-vous pas reconnaître l'intérêt de ces votes, du coup ?\"",
             "\\.\"... Eh bah, c'est compliqué tout ça.\"",
-            "\\.\"... Hmm ? C'est quoi ce regard ?\n \\! Si t'avais su que l'autre personne allait mourir,\n alors tu n'aurais pas voté ?\""
+            "\\.\"... Hmm ? C'est quoi ce regard ?\n \\! Si t'avais su que l'autre personne allait mourir,\n alors tu n'aurais pas voté ?\"",
+            "\\.\"Pfft... Ça t'amènera nul part, tu sais ?\n Je suis sûr que ce sera ça, notre jeu.\"",
+            "\\.\"... Ça n'a pas l'air de te convaincre.\""
         ],
         "1-1-choice": [
-            null,
+            "None",
             "Mr. Bleu\nMme. Rouge"
         ]
     }
