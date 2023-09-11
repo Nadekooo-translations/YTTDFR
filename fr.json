@@ -31,7 +31,7 @@
             "\\.\"J'adore les votes à la majorité ! Ils représentent\n la démocratie et suivent la volonté du peuple !\n C'est une méthode qui réduit les conflits !\"",
             "\\.\"Je hais les votes à la majorité !\n Ils font taire les minorités et ne font que\n croître les ombres dans les ténèbres !\"",
             "\"Ahh... On dirait que cette dispute est plutôt\n tendue.\"",
-            "\\.\"Juste par curiosité, quelle opinion supportes-tu ?\n Celle de Mr. Bleu, ou celle de Mme. Rouge ?\"",
+            "\\.\"Juste par curiosité, quelle opinion supportes-tu ?\n Celle de M. Bleu, ou celle de Mme. Rouge ?\"",
             "\"Ohh... Elle est morte.\"",
             "\\.\"Mais tant mieux pour toi !\n Ton opinion était la plus supportée !\"",
             "\\.\"Au final, la majorité est absolue !\n C'est comme ça que ça marche en société !\"",
@@ -47,7 +47,7 @@
         ],
         "1-1-choice": [
             "Évidemment\nAucune idée",
-            "Mr. Bleu\nMme. Rouge"
+            "M. Bleu\nMme. Rouge"
         ]
     },
     "items-18": {
