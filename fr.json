@@ -46,8 +46,56 @@
             "\\.\"... Ça n'a pas l'air de te convaincre.\""
         ],
         "1-1-choice": [
-            "None",
+            "Évidemment\nAucune idée",
             "Mr. Bleu\nMme. Rouge"
         ]
+    },
+    "items-18": {
+        "name": "????????????????????"
+    },
+    "terms": {
+        "gameend": "Quitter",
+        "itemmenu": "Inventaire",
+        "options": "Paramètres",
+        "save": "Sauvegarder",
+        "totitle": "Écran titre",
+        "cancel": "Annuler",
+        "file": "Fichier"
+    },
+    "extra": {
+        "languageoptionname": "Langue",
+        "nameentrytables": "FR",
+        "name_ジョー": "Joe",
+        "name_ジョー？": "Joe ?",
+        "name_リョーコ": "Ryoko",
+        "name_スーツ姿の男": "Homme en costume",
+        "name_スーツの男": "Homme en costume",
+        "name_ミシマ": "Mishima",
+        "name_ミシマ？": "Mishima ?",
+        "name_パンクな女": "Femme Punk",
+        "name_レコ": "Reko",
+        "name_レコの声": "Voix de Reko",
+        "name_カイ": "Kai",
+        "name_金髪の男": "Homme blond",
+        "name_ケイジ": "Keiji",
+        "name_ケイジ？": "Keiji ?",
+        "name_ケイジの声": "Voix de Keiji",
+        "name_メグミ": "Megumi",
+        "name_怯えた女の子": "Fille effrayée",
+        "name_カンナ": "Kanna",
+        "name_エプロンの男": "Homme au tablier",
+        "name_？？": "??",
+        "languagedisplayname": "Français",
+        "name_サラ": "Sara",
+        "name_\\c[10]サラ": "\\C[10]Sara",
+        "name_ミシマの声": "Voix de Mishima",
+        "name_怯えた女": "Fille effrayée",
+        "name_？？？": "???"
+    },
+    "items-16": {
+        "name": "??????????????"
+    },
+    "items-20": {
+        "name": "?????????"
     }
 }
