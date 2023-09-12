@@ -1,0 +1,54 @@
+name: Build
+
+on:
+  push:
+    branches: [ "main" ]
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v3
+
+      - name: Downloading English YTTD build
+        run: curl -Lo yttd.zip https://cdn.vinceh121.me/YourTurnToDie-2023-09-12-01f89eddf5a0e204422984ab574a631c25f3b098fda068bb3eaaa77155e932ac.zip
+
+      - name: Unzipping English YTTD build
+        run: unzip yttd.zip -d yttd
+
+      - name: Installing required JavaScript dependencies
+        run: npm i
+        working-directory: tools
+
+      - name: Compressing fr.json into FR.cte
+        run: node tools/compress.js
+
+      - name: Moving FR.cte in yttd/www/languages/
+        run: mv FR.cte yttd/www/languages/
+
+      - name: Patching plugins.js
+        run: |
+          sed -i 's/"LanguageCodes":"\[/"LanguageCodes":"[\\"FR\\",/' yttd/www/js/plugins.js
+          sed -i 's/"DefaultLanguage":"EN"/"DefaultLanguage":"FR"/' yttd/www/js/plugins.js
+
+      - name: Uploading build artefacts
+        uses: actions/upload-pages-artifact@v2
+        with:
+          path: yttd/www
+
+  deploy:
+    runs-on: ubuntu-latest
+    needs: build
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Deploying to Github Pages
+        id: deployment
+        run: actions/deploy-pages@v2
+  
