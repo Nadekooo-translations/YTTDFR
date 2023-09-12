@@ -50,5 +50,5 @@ jobs:
     steps:
       - name: Deploying to Github Pages
         id: deployment
-        run: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v2
   
