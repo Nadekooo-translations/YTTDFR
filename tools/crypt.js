@@ -1,10 +1,12 @@
 const path = require("node:path");
-const { readFileSync, writeFileSync, readdirSync, statSync, copyFileSync, mkdirSync } = require("node:fs");
+const { readFileSync, writeFileSync, readdirSync, statSync, copyFileSync, mkdirSync, openSync, writeSync } = require("node:fs");
 const { Encrypter } = require("rpgmaker-mv-crypt");
 
 const ignoreCrypt = new Set([path.join("img", "system", "Loading.png")]);
 
 const enc = new Encrypter("d41d8cd98f00b204e9800998ecf8427e");
+
+const translatedImages = openSync(path.join("yttd", "www", "languages", "TranslatedImages.txt"), "a");
 
 const distPath = (pngPath) => {
 	const encPathComponents = path.parse(path.join("yttd", "www", pngPath));
@@ -24,6 +26,8 @@ const encrypt = (pngPath) => {
 	} catch (e) { } // ignore "already exists" errors
 
 	writeFileSync(encPath, encFile);
+
+	writeSync(translatedImages, pngPath.replace("img/", "").replace(".png", "") + "\r\n");
 };
 
 const move = (pngPath) => {
@@ -51,4 +55,5 @@ const recurse = (folder) => {
 	}
 };
 
+writeSync(translatedImages, "::FR\r\n");
 recurse("img");
