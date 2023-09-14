@@ -12,6 +12,9 @@
   "homepage": "https://github.com/Nadekooo/YTTDFR#readme",
   "dependencies": {
     "lz-string": "^1.5.0",
-    "rpgmaker-mv-crypt": "^0.0.0"
+    "rpgmaker-mv-crypt": "^0.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.6.0"
   }
 }
