@@ -35,6 +35,9 @@ jobs:
           sed -i 's/"LanguageCodes":"\[/"LanguageCodes":"[\\"FR\\",/' yttd/www/js/plugins.js
           sed -i 's/"DefaultLanguage":"EN"/"DefaultLanguage":"FR"/' yttd/www/js/plugins.js
 
+      - name: Patching images
+        run: node tools/crypt.js
+
       - name: Uploading build artefacts
         uses: actions/upload-pages-artifact@v2
         with:
