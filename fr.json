@@ -550,5 +550,10 @@
     },
     "items-70": {
         "description": "Une carte. Il y est écrit \"Ceci est la clé de la sortie.\nVous mourez si qui que ce soit\napprends l'existence de cette carte.\""
+    },
+    "map193": {
+        "24-1-message": [
+            "\\C[3]Le cercueil où \\N[4] reposait."
+        ]
     }
 }
