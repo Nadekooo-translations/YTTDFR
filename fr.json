@@ -281,10 +281,11 @@
     },
     "map4": {
         "1-1-message": [
-            "None",
+            "\"Et puis, Ryoko et moi nous sommes enfin...\"",
             "None",
             "\\.\"Tu écoutes ?! On a fait beaucoup de progrès !\"",
-            "\\.\\C[4](Ce mec est tellement lourd...)"
+            "\\.\\C[4](Ce mec est tellement lourd...)",
+            "\"Roulement de tambour... On s'est tenu la main...!\n C'est pas génial ?\""
         ]
     },
     "map73": {
