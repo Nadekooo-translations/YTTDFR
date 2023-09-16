@@ -1305,7 +1305,35 @@
             "\\C[3]Il y a de nombreuses sorties.",
             "\\C[3]En les examinant, on remarque que la plupart\nne mènent qu'à des impasses.",
             "\"Tu vois ces énormes coussins, au fond des impasses ?\"",
-            "\\.\"Je me demande si en atterrissant,\n je suis tombée sur l'un d'eux...\""
+            "\\.\"Je me demande si en atterrissant,\n je suis tombée sur l'un d'eux...\"",
+            "\\.\"Moi aussi.\n Je parie qu'on est tous tombés de la même manière.\"",
+            "\\.\"Joe était arrivé en te portant depuis ce couloir.\"",
+            "\\.\"Je ne pensais pas que vous étiez amis.\""
+        ],
+        "11-3-message": [
+            "\\C[3]Il y a de nombreuses sorties."
+        ],
+        "12-1-message": [
+            "\\C[3]Un revolver.\nUne arme qui tire des balles. Elle peut en\ncharger jusqu'à 9 dans sa chambre circulaire.\nÀ quoi peut bien servir le trou en son centre...?",
+            "\\.\\C[3]Peut être combiné avec un autre objet.",
+            "La Fléchette est insérée dans le trou\nau centre du Revolver.",
+            "\\C[3]\\C[2]Fléchette\\C[3] combinée avec le \\C[2]Revolver\\C[3] !",
+            "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
+        ],
+        "12-1-choice": [
+            "Combiner\nAnnuler"
+        ],
+        "13-1-message": [
+            "\\C[3]Des fausses balles. J'en ai 6. Quand elles sont\ntirées, elles ne font que du bruit."
+        ],
+        "14-1-message": [
+            "\\C[3]Des vraies balles. J'en ai 3.\nPeuvent être chargées dans un pistolet.\nExtrêmement léthales."
+        ],
+        "15-1-message": [
+            "\\C[3]Un cigare de haute qualité."
+        ],
+        "11-2-message": [
+            "\\C[3]Il y a de nombreuses sorties."
         ]
     }
 }
