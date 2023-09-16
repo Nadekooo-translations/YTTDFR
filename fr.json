@@ -54,7 +54,7 @@
         "4-1-message": [
             "\\.\"Bonjour.\n Félicitations pour avoir fini le jeu !\"",
             "\\.\"Pour l'instant, seulement la Partie Une (ici)\n est disponible.\"",
-            "None",
+            "\\.\"Des mises à jour sont prévues pour\n ajouter un scénario Partie Deux, corriger la Partie Un,\n et graduellement améliorer des évènements.\"",
             "None",
             "None",
             "None",
@@ -1188,7 +1188,15 @@
         "1-1-message": [
             "\"Hehem... Donc du coup, je pense qu'il faudrait qu'on\n se connaisse un minimum.\"",
             "\\.\"Et mia-lors? Ma maman m'a dit de pas parler\n aux étrangers, wouf !\"",
-            "\\.\"Prodigieux ! Un jeune enfant réfléchi qui fait\n ce que ses parents lui apprennent !\""
+            "\\.\"Prodigieux ! Un jeune enfant réfléchi qui fait\n ce que ses parents lui apprennent !\"",
+            "\\.\"Tout de même, nous sommes dans une situation\n particulièrement préoccupante... Hrmmm.\"",
+            "\\.\"Ainsi, nous, les adultes, devrons prouver que\n nous ne représentons aucun danger... Mwahaha...\"",
+            "\\.\"Ouah... Super suspect, wouf.\"",
+            "\\.\"Rien à redire. Bien, par où commencer ?\""
+        ],
+        "1-3-message": [
+            "\\.\"Ah... Je devrais me présenter aussi.\"",
+            "\\.\"Bon... bah quand faut y aller, faut y aller, wouf !\n C'est, genre, une réponse d'adulte, miaou !\""
         ]
     },
     "map28": {
@@ -1283,6 +1291,21 @@
             "None",
             "None",
             "\\.\\C[4](Est-ce vraiment lui... mon harceleur...?)"
+        ]
+    },
+    "map16": {
+        "2-1-message": [
+            "\\C[3]Nao et Reko s'occupent de Kanna.",
+            "\"Sara, ramène-toi ici si t'es en danger, okay ?\n Tu peux laisser le plus lourd aux hommes.\"",
+            "\\.\"Bon après, le gars au bonnet a pas l'air bien\n robuste non plus... Tu devrais aussi t'enfuir avec elle si ça arrive, petit.\"",
+            "\"U... Une remarque blessante... Ahaha.\"",
+            "\"Bonne chance à tous...!\""
+        ],
+        "11-1-message": [
+            "\\C[3]Il y a de nombreuses sorties.",
+            "\\C[3]En les examinant, on remarque que la plupart\nne mènent qu'à des impasses.",
+            "\"Tu vois ces énormes coussins, au fond des impasses ?\"",
+            "\\.\"Je me demande si en atterrissant,\n je suis tombée sur l'un d'eux...\""
         ]
     }
 }
