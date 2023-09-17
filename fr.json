@@ -11,11 +11,17 @@
         "3-1-message": [
             "\"...\"",
             "\\.\\C[4](Keiji est plongé dans ses pensées...)"
+        ],
+        "6-1-message": [
+            "\\C[3]Un briquet Zippo chic."
         ]
     },
     "map33": {
         "29-1-message": [
             "\\C[3]Une boîte avec une note disant \"Utilisez-moi comme vous\nle souhaitez.\" À l'intérieur est inscrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3].\""
+        ],
+        "4-1-message": [
+            "\\C[3]Un briquet Zippo chic."
         ]
     },
     "map1": {
@@ -1276,6 +1282,15 @@
             "None",
             "None",
             "\\.\\C[3]Mon \\C[10]stalker\\C[3]..."
+        ],
+        "23-1-choice": [
+            "Combiner\nAnnuler"
+        ],
+        "27-1-choice": [
+            "Combiner\nAnnuler"
+        ],
+        "26-1-message": [
+            "\\C[3]Un briquet Zippo chic."
         ]
     },
     "map36": {
@@ -1291,6 +1306,9 @@
             "None",
             "None",
             "\\.\\C[4](Est-ce vraiment lui... mon harceleur...?)"
+        ],
+        "5-1-message": [
+            "\\C[3]Un briquet Zippo chic."
         ]
     },
     "map16": {
@@ -1334,6 +1352,410 @@
         ],
         "11-2-message": [
             "\\C[3]Il y a de nombreuses sorties."
+        ],
+        "16-1-message": [
+            "\\C[3]Un briquet Zippo chic."
+        ],
+        "17-1-message": [
+            "\\C[3]Un coupe-cigare.\nUn outil pour couper les cigares et les fumer."
+        ],
+        "18-1-message": [
+            "\\C[3]Un billet de 1000 yens.\nUne monnaie utilisable au Japon.\n1000 yens équivalent à un peu plus de 8 euros."
+        ],
+        "19-1-message": [
+            "\\C[3]Une jolie fléchette.\nElle est très solide.",
+            "\\.\\C[3]Peut être combiné avec un autre objet.",
+            "La Fléchette est insérée dans le trou\nau centre du Revolver.",
+            "\\C[3]\\C[2]Fléchette\\C[3] combinée avec le \\C[2]Revolver\\C[3] !",
+            "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
+        ],
+        "19-1-choice": [
+            "Combiner\nAnnuler"
+        ]
+    },
+    "map18": {
+        "2-1-message": [
+            "\"On dirait que... c'est un bar.\"",
+            "\\.\"Il y a beaucoup d'alcool, par ici...\n Tu es mineure, Sara, tu ne devrais pas boire.\"",
+            "\\.\"Tu ferais mieux de ne pas boire dans cette\n situation non plus, Sou.\"",
+            "\\.\"Au contraire, certains pourraient dire\n qu'il n'y a pas meilleur moment pour s'y mettre.\""
+        ],
+        "3-1-message": [
+            "\\C[3]Le professeur Mishima inspecte chaque recoin\nde la pièce.",
+            "\\.\"Dites-moi si vous avez besoin de quoi\n que ce soit, Sara.\"",
+            "\\C[3]Le professeur Mishima inspecte chaque recoin\nde la pièce.",
+            "\"Oh... Sara.\"",
+            "\\.\"Avez-vous rencontré le moindre danger ?\n Je vous prie de faire preuve de prudence...\"",
+            "\\.\"Hmm ! Qu'est-ce que cela ?!\"",
+            "\\.\"Hein...?\"",
+            "\\.\"Ce cigare !\n Un mineur ne devrait pouvoir s'en procurer un !\"",
+            "\\.\"Je n'allais pas le fumer !\n Je me suis dit que ça pouvait être un indice...\"",
+            "\\.\"Je vois... Mes excuses pour avoir douté de vous.\"",
+            "\\.\"Hm... On dirait que je ne peux m'empêcher\n de faire les professeurs en présence d'étudiants.\"",
+            "\\.\"Toutefois... Eum, eh bien... Voyons voir...\n Ah, oui, pouvez-vous me le donner ?\"",
+            "\\.\\C[4](Je vous dis que je ne le fumerai pas...)",
+            "\\.\\C[3]Le cigare a été remis au professeur Mishima.",
+            "\\.\"Oh, oh ? Mais qu'est-ce donc?\"",
+            "\\.\"Hein...? Vous parlez du coupe-cigare ?\"",
+            "\\.\"Précisément. C'est un objet qui permet\n de fumer des cigares.\"",
+            "\\.\"... Vous n'aviez pas l'intention\n d'en fumer, j'espère.\"",
+            "\\.\"M-Mais non ! Bien évidemment...!\"",
+            "\\.\"Ah, eh bien... Dans ce cas... um...\n Pouvez-vous me le remettre ?\"",
+            "\\.\"Euh... Professeur Mishima,\n comptez-vous fumer le cigare ?\"",
+            "\\.\"L-L-La question ne se pose même pas !\n Qu'un professeur fume...!\"",
+            "\\.\\C[4](Moi, je pense que c'est bon, tant qu'on est adulte...)",
+            "\\.\\C[3]Le coupe-cigare a été remis au professeur Mishima.",
+            "\\.\"Hm... Mais qu'est-ce que vous avez là ?\"",
+            "\\.\"Hmm...? Vous parlez de ce briquet ?\"",
+            "\\.\"En effet. Où l'avez-vous trouvé ?\"",
+            "\\.\"Ah, il était à la cafétéria.\"",
+            "\\.\"Peut-être... Sara, alliez-vous allumer...\"",
+            "\\.\"... Quoi ?! Non, je n'allais pas fumer !\"",
+            "\\.\"Hm... Alors... Eum... Puis-je l'avoir ?\"",
+            "\\.\\C[4](Il est étrangement appréhensif des mineurs\n qui fument...)",
+            "\\.\\C[3]Le briquet a été remis au professeur Mishima."
+        ],
+        "3-2-message": [
+            "\\C[3]Le professeur a le sourire jusqu'aux oreilles.",
+            "\"Oh... Sara.\"",
+            "\\.\"Professeur Mishima, pourquoi êtes-vous si content ?\"",
+            "\\.\"D-D-D-De quoi parlez-vous ?!\n Je n'ai rien...! En effet...!\"",
+            "\\.\"Peut-être que... Vous êtes content pour le cigare ?\"",
+            "\\.\"Ooghhh...!\n Un professeur tel que moi ne fumerait jamais...!\"",
+            "\\.\\C[4](... Il a vraiment envie de fumer.)",
+            "\"Ce cigare a du coûter cher, vous ne pensez pas?\"",
+            "\\.\"En effet...\"",
+            "\\.\"Des cigares de ce genre, on n'en trouve\n pas beaucoup au Japon...\"",
+            "\\.\"Hrmmm...\"",
+            "\\.\"Peut-être qu'on devrait le remettre là\n où on l'a trouvé ?\"",
+            "\\.\"Vous rendez-vous compte de ce que vous dites ?!\n ... Ah, euh... hem...\"",
+            "\\.\"Je sais ! Ce serait une meilleure idée d'inspecter\n le cigare d'abord ! C'est bien cela !\"",
+            "\\.\"C'est juste que... je me demande si ce cigare\n nous a juste été donné pour notre confort.\"",
+            "\\.\"Que voulez-vous dire ?\"",
+            "\\.\"Peut-être qu'il sert à quelque chose.\"",
+            "\\.\"Pouvez-vous me laisser l'examiner un peu ?\"",
+            "\\.\"Bien sûr... Je comprends.\n Nous devrions l'inspecter minutieusement.\"",
+            "\\.\"Hmm... Essayons d'utiliser le coupe-cigare.\"",
+            "\\.\\C[3]Le professeur Mishima le coupe avec grande expertise.",
+            "\\.\"Oh...?\n Qu'est-ce que cela ?\"",
+            "\\.\\C[3]Étonamment, il y avait un billet dans le cigare.",
+            "\\.\\C[3]Billet de 1000 yens obtenu.",
+            "\\.\"Aha...! Il semblerait que ce n'était pas un\n véritable cigare, finalement !\"",
+            "\\.\"Quel soulagement. Après tout, il n'est pas sain\n de fumer.\"",
+            "\\.\"Ahh, dieu merci, dieu merci...\"",
+            "\\.\"..........\"",
+            "\\.\\C[4](Il est visiblement très déçu...)",
+            "\\.\"Sara, je vous prie de bien vouloir conserver le\n briquet inutilisé ainsi que le billet de 1000 yens.\"",
+            "\\.\"En y réfléchissant bien, vous avez plus bien\n plus de chance de leur trouver une utilité que moi.\"",
+            "\\.\\C[3]Briquet obtenu.",
+            "\\.\\C[4](... Alors il comptait bien utiliser le briquet.)"
+        ],
+        "3-2-choice": [
+            "L'inciter\nJe voudrais examiner le cigare"
+        ],
+        "3-3-message": [
+            "\\C[3]Le professeur Mishima a l'air découragé.",
+            "\"Demandez-moi tout ce que vous voulez, Sara.\""
+        ],
+        "4-1-message": [
+            "\\C[3]Gin examine le bas des étagères.",
+            "\"Y a que de l'alcool dans les bars, miaou.\"",
+            "\\.\"Je hais l'alcool, wouf !\n Et je hais encore plus mon ivrogne de père, miaou !\"",
+            "\\.\"...\"",
+            "\\.\"Hein...? T'es tout silencieux, wouf.\"",
+            "\\.\"... Nan, c'est rien !\"",
+            "\\.\"Hey, quand on sera sortis d'ici,\n ça te dit qu'on joue ensemble, Gin ?\"",
+            "\\.\"Humpf ! Alors j'te battrai aux jeux vidéos\n jusqu'à c'que t'en pleures, wouf !\"",
+            "\\.\"Ton père est alcoolique ?\"",
+            "\\.\"Il est agaçant, wouf !\"",
+            "\\.\"Quand on boit, il ne faut pas se faire\n engloutir par l'alcool.\"",
+            "\\.\"Je suis majeur... Je me dois d'être prudent.\""
+        ],
+        "4-2-message": [
+            "\\C[3]Gin examine le bas des étagères.",
+            "\"Je hais l'alcool, wouf !\n Et je hais mon ivrogne de père encore plus, miaou !\"",
+            "\\.\"Ah, ouais, grande soeur Sara.\n T'as essayé de combiner des objets, miaou ?\"",
+            "\\.\"Combiner ?\"",
+            "\\.\"Oui, mettre des objets ensemble et\n les utiliser, wouf !\"",
+            "\\.\"Maintenant que j'y pense, j'ai dû bien\n examiner la clé rouge durant la Première Épreuve.\n T'pourrais peut-être faire une découverte capitale !\"",
+            "\\.\\C[4](Peut-être que je devrais revoir mes objets...?)"
+        ],
+        "5-1-message": [
+            "\\C[3]Une jolie fléchette.\nElle est très solide.",
+            "\\.\\C[3]Peut être combiné avec un autre objet.",
+            "La Fléchette est insérée dans le trou\nau centre du Revolver.",
+            "\\C[3]\\C[2]Fléchette\\C[3] combinée avec le \\C[2]Revolver\\C[3] !",
+            "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
+        ],
+        "5-1-choice": [
+            "Combiner\nAnnuler"
+        ],
+        "6-1-message": [
+            "\\C[3]Un coupe-cigare.\nUn outil pour couper les cigares et les fumer."
+        ],
+        "7-1-message": [
+            "\\C[3]Un cigare de haute qualité."
+        ],
+        "8-1-message": [
+            "\\C[3]Un briquet Zippo chic."
+        ],
+        "9-1-message": [
+            "\\C[3]Un revolver.\nUne arme qui tire des balles. Elle peut en\ncharger jusqu'à 9 dans sa chambre circulaire.\nÀ quoi peut bien servir le trou en son centre...?",
+            "\\.\\C[3]Peut être combiné avec un autre objet.",
+            "La Fléchette est insérée dans le trou\nau centre du Revolver.",
+            "\\C[3]\\C[2]Fléchette\\C[3] combinée avec le \\C[2]Revolver\\C[3] !",
+            "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
+        ],
+        "10-1-message": [
+            "\\C[3]Des fausses balles. J'en ai 6. Quand elles sont\ntirées, elles ne font que du bruit."
+        ],
+        "11-1-message": [
+            "\\C[3]Des vraies balles. J'en ai 3.\nPeuvent être chargées dans un pistolet.\nExtrêmement léthales."
+        ],
+        "12-1-message": [
+            "\\C[3]Un billet de 1000 yens.\nUne monnaie utilisable au Japon.\n1000 yens équivalent à un peu plus de 8 euros."
+        ],
+        "13-1-message": [
+            "\\C[3]Il y a des noms inscrits sur le tableau.",
+            "\\.\\C[3][Peuvent boire]\nAlice, Kai, Kazumi, Keiji, Shunsuke,\nSou, Naomichi, Mai, Megumi, Reko, Q-taro",
+            "\\.\\C[3][Ne peuvent pas boire]\nAnzu, Kanna, Gin, Kugie, Sara, Joe,\nNao, Hinako, Ranmaru",
+            "\\.\\C[4](Nos noms...! Et ceux d'autres personnes !)",
+            "\\.\\C[4](Ne me dites pas que...\n Les personnes que l'on ne connaît pas sont...)"
+        ],
+        "13-2-message": [
+            "\\C[3]Il y a des noms inscrits sur le tableau.",
+            "\\.\\C[3][Peuvent boire]\nAlice, Kai, Kazumi, Keiji, Shunsuke,\nSou, Naomichi, Mai, Megumi, Reko, Q-taro",
+            "\\.\\C[3][Ne peuvent pas boire]\nAnzu, Kanna, Gin, Kugie, Sara, Joe,\nNao, Hinako, Ranmaru"
+        ],
+        "21-1-message": [
+            "\\C[3]Une variété de boissons alcoolisées.",
+            "\\.\\C[4](Elles n'ont rien de particulier.)"
+        ],
+        "65-1-message": [
+            "\\C[3]J'ai l'impression qu'il y a quelque chose ici...",
+            "\\C[3]... Un placard !"
+        ],
+        "65-2-message": [
+            "\\C[3]Il y a un placard incrusté dans le comptoir.",
+            "\\.\"Okay, laisse-moi faire !\"",
+            "\\C[3]La porte coulissante s'est ouverte !",
+            "\\.\"Fiou... Elle était dure celle-là !\"",
+            "\\.\"Essayons de l'ouvrir.\"",
+            "\\.\"... Hiyah !\"",
+            "\\.\"... Hmrgh !\"",
+            "\\.\"... Elle veut pas s'ouvrir...!\n ... Gah !\"",
+            "\\.\"... Huf... Hah... Urgh... Je suis trop faible...\n Je doute vraiment que je réussisse à l'ouvrir...\""
+        ],
+        "65-2-choice": [
+            "Ouvrir\nAnnuler"
+        ],
+        "65-3-message": [
+            "\\C[3]Le placard est plongé dans l'obscurité.",
+            "\\.\"Peut-être qu'y a un indice à l'intérieur !\"",
+            "\\.\\C[3]Joe plongea sa main dans les ténèbres.",
+            "\\.\"Hmm...? C'est quoi ça ?\"",
+            "\\.\\C[3]Coupe-cigare obtenu !",
+            "\\.\"J'en ai déjà vu sur Internet...\n C'est un outil qui sert à couper les\n cigares pour les fumer.\"",
+            "\\.\"... Pourquoi tu cherchais ça sur Internet ?\n T'as pas intêret à fumer, Sara !\"",
+            "\\.\\C[4](J'ai l'air d'être du genre à fumer, pour toi...?)",
+            "\\.\"...Oh ! Plus important, y a autre chose de\n plus gros au fond ! Voyons, qu'est-ce que c'est ?\"",
+            "\\.\\C[3]\\C[10]Jambe Droite\\C[3] obtenue.",
+            "\\.\"Weeeaaagh ?!\"",
+            "\\.\"On dirait que c'est un membre de la poupée.\n Prends-la, Joe.\"",
+            "\\.\"C... Comment tu fais pour rester aussi calme...?\""
+        ],
+        "9-1-choice": [
+            "Combiner\nAnnuler"
+        ],
+        "65-1-choice": [
+            "Déplacer le tabouret\nAnuuler"
+        ]
+    },
+    "map19": {
+        "8-1-choice": [
+            "Combiner\nAnnuler"
+        ],
+        "7-1-message": [
+            "\\C[3]Un briquet Zippo chic."
+        ],
+        "4-1-choice": [
+            "Combiner\nAnnuler"
+        ]
+    },
+    "map20": {
+        "8-1-choice": [
+            "Combiner\nAnnuler"
+        ],
+        "11-1-message": [
+            "\\C[3]Un briquet Zippo chic."
+        ],
+        "12-1-choice": [
+            "Combiner\nAnnuler"
+        ]
+    },
+    "map21": {
+        "7-1-message": [
+            "\\C[3]Un briquet Zippo chic."
+        ],
+        "4-1-choice": [
+            "Combiner\nAnnuler"
+        ],
+        "8-1-choice": [
+            "Combiner\nAnnuler"
+        ]
+    },
+    "map22": {
+        "8-1-message": [
+            "\\C[3]Un briquet Zippo chic."
+        ],
+        "9-1-choice": [
+            "Combiner\nAnnuler"
+        ],
+        "5-1-choice": [
+            "Combiner\nAnnuler"
+        ]
+    },
+    "map24": {
+        "1-1-choice": [
+            "Combiner\nAnnuler"
+        ],
+        "5-1-message": [
+            "\\C[3]Un briquet Zippo chic."
+        ],
+        "6-1-choice": [
+            "Combiner\nAnnuler"
+        ]
+    },
+    "map25": {
+        "7-1-choice": [
+            "Combiner\nAnnuler"
+        ],
+        "6-1-message": [
+            "\\C[3]Un briquet Zippo chic."
+        ],
+        "3-1-choice": [
+            "Combiner\nAnnuler"
+        ]
+    },
+    "map26": {
+        "15-1-choice": [
+            "Combiner\nAnnuler"
+        ],
+        "14-1-message": [
+            "\\C[3]Un briquet Zippo chic."
+        ],
+        "11-1-choice": [
+            "Combiner\nAnnuler"
+        ]
+    },
+    "map29": {
+        "16-1-message": [
+            "\\C[3]Un briquet Zippo chic."
+        ],
+        "12-1-choice": [
+            "Combiner\nAnnuler"
+        ],
+        "19-1-choice": [
+            "Combiner\nAnnuler"
+        ]
+    },
+    "map42": {
+        "5-1-message": [
+            "\\C[3]Un briquet Zippo chic."
+        ]
+    },
+    "map48": {
+        "19-3-message": [
+            "\\C[3]Un briquet Zippo chic."
+        ]
+    },
+    "map23": {
+        "5-1-choice": [
+            "Combiner\nAnnuler"
+        ],
+        "9-1-choice": [
+            "Combiner\nAnnuler"
+        ],
+        "8-1-message": [
+            "\\C[3]Un briquet Zippo chic."
+        ]
+    },
+    "map30": {
+        "9-1-choice": [
+            "Combiner\nAnnuler"
+        ],
+        "8-1-message": [
+            "\\C[3]Un briquet Zippo chic."
+        ]
+    },
+    "map32": {
+        "6-1-message": [
+            "\\C[3]Un briquet Zippo chic."
+        ]
+    },
+    "map35": {
+        "3-1-message": [
+            "\\C[3]Un briquet Zippo chic."
+        ]
+    },
+    "map37": {
+        "4-1-message": [
+            "\\C[3]Un briquet Zippo chic."
+        ]
+    },
+    "map38": {
+        "2-1-message": [
+            "\\C[3]Un briquet Zippo chic."
+        ]
+    },
+    "map39": {
+        "5-1-message": [
+            "\\C[3]Un briquet Zippo chic."
+        ]
+    },
+    "map40": {
+        "4-1-message": [
+            "\\C[3]Un briquet Zippo chic."
+        ]
+    },
+    "map41": {
+        "18-3-message": [
+            "\\C[3]Un briquet Zippo chic."
+        ]
+    },
+    "map45": {
+        "6-1-message": [
+            "\\C[3]Un briquet Zippo chic."
+        ]
+    },
+    "map46": {
+        "5-1-message": [
+            "\\C[3]Un briquet Zippo chic."
+        ]
+    },
+    "map47": {
+        "6-1-message": [
+            "\\C[3]Un briquet Zippo chic."
+        ]
+    },
+    "map49": {
+        "7-1-message": [
+            "\\C[3]Un briquet Zippo chic."
+        ]
+    },
+    "map50": {
+        "6-1-message": [
+            "\\C[3]Un briquet Zippo chic."
+        ]
+    },
+    "map51": {
+        "31-1-message": [
+            "\\C[3]Un briquet Zippo chic."
+        ]
+    },
+    "map68": {
+        "3-1-message": [
+            "\\C[3]Un briquet Zippo chic."
         ]
     }
 }
