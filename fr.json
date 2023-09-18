@@ -288,14 +288,18 @@
     "map4": {
         "1-1-message": [
             "\"Et puis, Ryoko et moi nous sommes enfin...\"",
-            "None",
+            "\\.\\C[4](Elle est longue son histoire...)",
             "\\.\"Tu écoutes ?! On a fait beaucoup de progrès !\"",
             "\\.\\C[4](Ce mec est tellement lourd...)",
-            "\"Roulement de tambour... On s'est tenu la main...!\n C'est pas génial ?\""
+            "\"Roulement de tambour... On s'est tenu la main...!\n C'est pas génial ?\"",
+            "\"S'embr...?! Dit pas ça !\"",
+            "\\.\"Faire ça au premier rancard...\n C'est juste monstrueux !\"",
+            "\\.\"On s'est tenu les mains !\n Énorme progrès, hein ?!\"",
+            "\\.\"Je veux dire... C'était surtout que je suis tombé\n dans un fossé et elle m'aidait, mais...!\""
         ],
         "1-3-message": [
-            "None",
-            "None",
+            "\\.\\C[4](J'ai rarement marché à la maison à cette heure...\n Il fait très sombre...)",
+            "\"Qu'est-ce qu'il y a ? Tu veux qu'on se tienne les mains ?\"",
             "None",
             "None",
             "None",
@@ -331,6 +335,9 @@
         ],
         "3-1-message": [
             "\\C[3]Un faible lampadaire illumine la rue."
+        ],
+        "1-1-choice": [
+            "Je m'en fous.\nVous vous êtes embrassés ou quoi ?"
         ]
     },
     "map73": {
@@ -1569,6 +1576,9 @@
         ],
         "65-1-choice": [
             "Déplacer le tabouret\nAnuuler"
+        ],
+        "65-4-message": [
+            "\\C[3]Le placard est vide."
         ]
     },
     "map19": {
@@ -1580,6 +1590,30 @@
         ],
         "4-1-choice": [
             "Combiner\nAnnuler"
+        ],
+        "1-1-message": [
+            "\"Il y a un distributeur vert, par ici.\"",
+            "\\.\"Il vend des boissons, mais...\n Je n'ai pas d'argent sur moi.\""
+        ],
+        "4-1-message": [
+            "\\C[3]Une jolie fléchette.\nElle est très solide.",
+            "\\.\\C[3]Peut être combiné avec un autre objet.",
+            "La Fléchette est insérée dans le trou\nau centre du Revolver.",
+            "\\C[3]\\C[2]Fléchette\\C[3] combinée avec le \\C[2]Revolver\\C[3] !",
+            "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
+        ],
+        "5-1-message": [
+            "\\C[3]Un coupe-cigare.\nUn outil pour couper les cigares et les fumer."
+        ],
+        "6-1-message": [
+            "\\C[3]Un cigare de haute qualité."
+        ],
+        "8-1-message": [
+            "\\C[3]Un revolver.\nUne arme qui tire des balles. Elle peut en\ncharger jusqu'à 9 dans sa chambre circulaire.\nÀ quoi peut bien servir le trou en son centre...?",
+            "\\.\\C[3]Peut être combiné avec un autre objet.",
+            "La Fléchette est insérée dans le trou\nau centre du Revolver.",
+            "\\C[3]\\C[2]Fléchette\\C[3] combinée avec le \\C[2]Revolver\\C[3] !",
+            "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ]
     },
     "map20": {
