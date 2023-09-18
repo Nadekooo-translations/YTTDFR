@@ -27,10 +27,10 @@
     "map1": {
         "1-1-message": [
             "...",
-            "\\.\"Héééééé...\"",
+            "\\.\"Héééééééé...\"",
             "\"Salut.\"",
             "\\.\"Juste une petite question...\n Tu sais ce que c'est un \\C[2]vote à la majorité\\C[0] ?\"",
-            "\\.\"Ahaha, ne t'énerve pas.\nC'est toujours utile de commencer ses discussions\npar une question simple.\"",
+            "\\.\"Ahaha, ne t'énerve pas.\n C'est toujours utile de commencer ses discussions\n par une question simple.\"",
             "\\.\"Comme c'est étrange !\"",
             "\\.\"Tu sais, c'est quand des gens votent pour décider\n de quelque chose et c'est ce qui a le plus de vote\n qui devient ce qu'on choisit...\"",
             "\\.\"Tiens ? On dirait que nous ne sommes pas seuls.\"",
@@ -43,13 +43,13 @@
             "\\.\"Au final, la majorité est absolue !\n C'est comme ça que ça marche en société !\"",
             "\"Ohh... Il est mort.\"",
             "\\.\"Mais tant mieux pour toi !\n Ton opinion était la plus supportée !\"",
-            "\\.\"C'est avec cette expérience que vous découvrez\n la terreur que peuvent apporter les votes à la majorité.\"",
+            "\\.\"C'est avec cette expérience que vous découvrez la\n terreur que peuvent apporter les votes à la majorité.\"",
             "\\.\"Hein...?\"",
-            "\\.\"Mais si c'est votre choix qui a été pris, ne\n devriez-vous pas reconnaître l'intérêt de ces votes, du coup ?\"",
-            "\\.\"... Eh bah, c'est compliqué tout ça.\"",
-            "\\.\"... Hmm ? C'est quoi ce regard ?\n \\ ! Si t'avais su que l'autre personne allait mourir,\n alors tu n'aurais pas voté ?\"",
-            "\\.\"Pfft... Ça t'amènera nul part, tu sais ?\n Je suis sûr que ce sera ça, notre jeu.\"",
-            "\\.\"... Ça n'a pas l'air de te convaincre.\"",
+            "\\.\"Mais si c'est votre choix qui a été pris, ne\n devriez-vous pas reconnaître\n l'intérêt de ces votes, du coup ?\"",
+            "\\.\"... Hé bah, c'est compliqué tout ça.\"",
+            "\\.\"... Hmm ? C'est quoi ce regard ?\n \\! Si t'avais su que l'autre personne allait mourir,\n alors tu n'aurais pas voté ?\"",
+            "\\.\"Allons... Ça t'amènera nul part, tu sais ?\n C'est le sujet même de ce jeu...\"",
+            "\\.\"... Ça n'a pas l'air de te convaincre, hein ?\"",
             "\\.\"Très bien, si tu insistes... alors votons !\n Ton opinion contre la mienne !\"",
             "\\.\"Okay, alors... c'est parti.\""
         ],
@@ -356,7 +356,7 @@
         ],
         "14-1-message": [
             "\\C[3]La mare du campus.",
-            "\\.\\C[3]La rumeur dit que si quelqu'un regarde dans\n l'eau à minuit, son reflet se mettra à parler.",
+            "\\.\\C[3]La rumeur dit que si quelqu'un regarde dans\nl'eau à minuit, son reflet se mettra à parler.",
             "\\.\\C[4](... Ça pourrait être une bonne chose pour un asocial.)"
         ],
         "16-1-message": [
@@ -382,10 +382,10 @@
             "\\.\"Merci... ? Mais pourquoi...?\"",
             "\\.\"Oh, tu sais ! Tu nous as présentés, pas vrai ?!\n Moi et Ryoko !\"",
             "\\.\"C'est vrai...\"",
-            "\\.\"C'est une fille tellement sympa ! Je suis carrément ému !\"",
+            "\\.\"C'est une fille tellement sympa !\n Je suis carrément ému !\"",
             "\\.\"Mignonne, hein ?\"",
             "\\.\"Adorable, même !\"",
-            "\\.\"Et je l'ai vue avaler un kebab tout entier d'une seule bouchée !\n C'est vraiment un morfal !\"",
+            "\\.\"Et je l'ai vue avaler un kebab tout entier\n d'une seule bouchée ! C'est vraiment un morfal !\"",
             "\\.\"Un kebab tout entier...\"",
             "\\.\"Attends... Vous étiez en rencard ?!\"",
             "\\.\"Mouahaha... J'en sors tout juste à peine !\"",
@@ -2091,5 +2091,11 @@
             "\\.\"Hein...?!\"",
             "\\.\"...je vois...\""
         ]
+    },
+    "items-21": {
+        "name": "Cafétéria"
+    },
+    "items-1": {
+        "name": "Intérieur de la Maison"
     }
 }
