@@ -336,7 +336,8 @@
         "name": "??????????????"
     },
     "items-20": {
-        "name": "?????????"
+        "name": "?????????",
+        "description": "Ma maison.\nLes lumière sont éteintes, donc il fait totalement noir."
     },
     "map2": {
         "1-1-message": [
@@ -2093,9 +2094,59 @@
         ]
     },
     "items-21": {
-        "name": "Cafétéria"
+        "name": "Cafétéria",
+        "description": "Ma maison.\nLes lumière sont éteintes, donc il fait totalement noir."
     },
     "items-1": {
-        "name": "Intérieur de la Maison"
+        "name": "Intérieur de la Maison",
+        "description": "Ma maison.\nLes lumière sont éteintes, donc il fait totalement noir."
+    },
+    "items-2": {
+        "name": "Couloir",
+        "description": "Les lumières ne sont pas allumées.\nUne plante s'est faite renverser."
+    },
+    "items-3": {
+        "name": "Salon",
+        "description": "Le salon.\nNormalement, mes parents m'accueilleraient ici."
+    },
+    "items-4": {
+        "name": "Salle du 1er Étage",
+        "description": "Ma chambre."
+    },
+    "items-5": {
+        "name": "Chemin de la Maison",
+        "description": "Le chemin que je prends pour aller à l'école."
+    },
+    "items-8": {
+        "description": "Pour trier.",
+        "name": "Salle Centrale"
+    },
+    "items-9": {
+        "name": "Salle Cachée",
+        "description": "Ma maison.\nLes lumière sont éteintes, donc il fait totalement noir."
+    },
+    "items-10": {
+        "description": "Ma maison.\nLes lumière sont éteintes, donc il fait totalement noir.",
+        "name": "Salle Rouge"
+    },
+    "items-11": {
+        "description": "Ma maison.\nLes lumière sont éteintes, donc il fait totalement noir.",
+        "name": "Salle Bleue"
+    },
+    "items-13": {
+        "description": "Ma maison.\nLes lumière sont éteintes, donc il fait totalement noir.",
+        "name": "Arrière de la Cafétéria"
+    },
+    "items-14": {
+        "description": "Ma maison.\nLes lumière sont éteintes, donc il fait totalement noir.",
+        "name": "Salle Rose"
+    },
+    "items-15": {
+        "description": "Ma maison.\nLes lumière sont éteintes, donc il fait totalement noir.",
+        "name": "Salle de Jeu"
+    },
+    "items-12": {
+        "name": "Bar",
+        "description": "Ma maison.\nLes lumière sont éteintes, donc il fait totalement noir."
     }
 }
