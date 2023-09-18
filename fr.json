@@ -376,7 +376,7 @@
             "\\C[10]Il y a quelqu'un...\\|\\.\\.\\^",
             "\"Quess' tu fais, Sara ?\"",
             "\\.\"Joe...!\"",
-            "\\C[2]Jou Tazuna\\C[0], plus connu sous le nom de \\C[2]Joe\\C[0].\nMon camarade de classe à l'école.\nOn s'est souvent retrouvés ensemble.",
+            "\\C[2]Jou Tazuna\\C[0], plus connu sous le nom de \\C[2]Joe\\C[0].\nMon camarade de classe en cours.\nOn s'est souvent retrouvés ensemble.",
             "\"T'es restée aussi tard juste pour les clubs ?!\n Je commençais à m'atrophier à force d'attendre !\"",
             "\"Bon, t'inquiète pas pour ça ! Écoute un peu !\n J'ai un truc à t'raconter !\"",
             "\\.\"Un truc à me raconter ?\"",
@@ -416,10 +416,10 @@
             "\\.\"On s'est tenus la main !\n Scandaleux progrès, pas vrai ?!\"",
             "\\.\"Après... C'était surtout parce que je suis tombé\n dans un fossé et qu'elle m'aidait, mais...!\"",
             "\\.\"Pour quelqu'un qui a l'air d'un dragueur,\n t'es terriblement timide...\"",
-            "\\.\"Hein ?! D'où j'ai l'air d'un \"dragueur\" ?!\"",
+            "\\.\"Hein ?! D'où j'ai l'air d'un 'dragueur' ?!\"",
             "\\.\"J'suis vexé, meuf... Ça me blesse sérieusement...\"",
             "\\.\"Merde... Peut-être que je devrais me recoiffer\n les cheveux en brosse comme j'avais au collège...\"",
-            "\\.\\C[4](Et maintenant il se morfond.)"
+            "\\.\\C[4](Et maintenant, il broie du noir.)"
         ],
         "1-3-message": [
             "\\.\\C[4](J'ai rarement marché jusqu'à chez moi à cette heure...\n Il fait vraiment sombre...)",
@@ -438,7 +438,7 @@
             "\\.\"Je le disais pas comme une excuse...\"",
             "\\.\"Pour quoi, meuf ?! Bon, si t'es d'humeur\n reconnaissante, je vais pas t'arrêter !\"",
             "\\.\"Hihi...\"",
-            "\\.\"Héhé ! Prépare-toi à être embêtée, jour après jour !\"",
+            "\\.\"Hé hé ! Prépare-toi à être embêtée, jour après jour !\"",
             "\\.\"Hihi...\"",
             "\\.\"Bon aller... Continuons d'avancer.\"",
             "\\.\"Tes parents vont être inquiets si tu tardes.\"",
@@ -850,7 +850,7 @@
         "2-1-message": [
             "\\C[3]L'interrupteur.",
             "\\C[4](J'ai un mauvais pressentiment...)",
-            "\\C[4](... Okay, je les allume !)",
+            "\\C[4](... Aller, je l'allume !)",
             "\\sp[20]\\at[2]\"... M... Maman...?\"\\.\\.",
             "\\.\"Maman !!\"",
             "\\.\"Maman ! Maman !!\""
@@ -1699,7 +1699,7 @@
             "Combiner\nAnnuler"
         ],
         "65-1-choice": [
-            "Déplacer le tabouret\nAnuuler"
+            "Déplacer le tabouret\nAnnuler"
         ],
         "65-4-message": [
             "\\C[3]Le placard est vide."
@@ -2111,7 +2111,7 @@
         "description": "Le salon.\nNormalement, mes parents m'accueilleraient ici."
     },
     "items-4": {
-        "name": "Salle du 1er Étage",
+        "name": "Chambre du 1er Étage",
         "description": "Ma chambre."
     },
     "items-5": {
