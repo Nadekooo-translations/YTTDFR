@@ -2055,5 +2055,40 @@
             null,
             "Aller à l'écran titre\nRechoisir"
         ]
+    },
+    "map107": {
+        "5-1-message": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.\"...je vois...\""
+        ]
     }
 }
