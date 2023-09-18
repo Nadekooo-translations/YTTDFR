@@ -1921,7 +1921,8 @@
         "name": "Billet de 1000 yens"
     },
     "system": {
-        "currency": "yen"
+        "currency": "yen",
+        "title": "Your Turn To Die"
     },
     "map62": {
         "1-1-choice": [
