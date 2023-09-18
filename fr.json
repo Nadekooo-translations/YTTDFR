@@ -27,7 +27,7 @@
     "map1": {
         "1-1-message": [
             "...",
-            "\\.\"Heeeeeyyy...\"",
+            "\\.\"Héééééé...\"",
             "\"Salut.\"",
             "\\.\"Juste une petite question...\n Tu sais ce que c'est un \\C[2]vote à la majorité\\C[0] ?\"",
             "\\.\"Ahaha, ne t'énerve pas.\nC'est toujours utile de commencer ses discussions\npar une question simple.\"",
@@ -47,7 +47,7 @@
             "\\.\"Hein...?\"",
             "\\.\"Mais si c'est votre choix qui a été pris, ne\n devriez-vous pas reconnaître l'intérêt de ces votes, du coup ?\"",
             "\\.\"... Eh bah, c'est compliqué tout ça.\"",
-            "\\.\"... Hmm ? C'est quoi ce regard ?\n \\! Si t'avais su que l'autre personne allait mourir,\n alors tu n'aurais pas voté ?\"",
+            "\\.\"... Hmm ? C'est quoi ce regard ?\n \\ ! Si t'avais su que l'autre personne allait mourir,\n alors tu n'aurais pas voté ?\"",
             "\\.\"Pfft... Ça t'amènera nul part, tu sais ?\n Je suis sûr que ce sera ça, notre jeu.\"",
             "\\.\"... Ça n'a pas l'air de te convaincre.\"",
             "\\.\"Très bien, si tu insistes... alors votons !\n Ton opinion contre la mienne !\"",
@@ -81,7 +81,7 @@
         "itemmenu": "Inventaire",
         "options": "Paramètres",
         "save": "Sauvegarder",
-        "totitle": "Écran titre",
+        "totitle": "Écran Titre",
         "cancel": "Annuler",
         "file": "Fichier",
         "bgmvolume": "Volume de la musique",
@@ -107,20 +107,20 @@
         "name_レコ": "Reko",
         "name_レコの声": "Voix de Reko",
         "name_カイ": "Kai",
-        "name_金髪の男": "Homme blond",
+        "name_金髪の男": "Homme Blond",
         "name_ケイジ": "Keiji",
         "name_ケイジ？": "Keiji ?",
         "name_ケイジの声": "Voix de Keiji",
         "name_メグミ": "Megumi",
-        "name_怯えた女の子": "Fille effrayée",
+        "name_怯えた女の子": "Fille Effrayée",
         "name_カンナ": "Kanna",
-        "name_エプロンの男": "Homme au tablier",
+        "name_エプロンの男": "Homme au Tablier",
         "name_？？": "??",
         "languagedisplayname": "Français",
         "name_サラ": "Sara",
         "name_\\c[10]サラ": "\\C[10]Sara",
         "name_ミシマの声": "Voix de Mishima",
-        "name_怯えた女": "Fille effrayée",
+        "name_怯えた女": "Fille Effrayée",
         "name_？？？": "???",
         "midori_ヒヨリ": "hiyori",
         "midori_ソウ": "sou",
@@ -160,25 +160,25 @@
         "midori_キヅチ": "kizuchi",
         "midori_バーガーバーグ": "burgerberg",
         "midori_イブシギン": "ginibushi",
-        "backlogpagenumber": "##Journal, Page {0}##",
+        "backlogpagenumber": "##Registre, Page {0}##",
         "name_パソコン": "Ordinateur",
-        "name_１通目のメール": "1er Email",
-        "name_２通目のメール": "2d Email",
-        "name_４通目のメール": "4e Email",
-        "name_送信メール①": "Email envoyé 1",
-        "name_送信メール②": "Email envoyé 2",
-        "name_送信メール③": "Email envoyé 3",
-        "name_送信メール④": "Email envoyé 4",
-        "name_受信メール": "Email reçu",
-        "name_送信メール": "Email envoyé",
+        "name_１通目のメール": "1er Émail",
+        "name_２通目のメール": "2ème Émail",
+        "name_４通目のメール": "4ème Émail",
+        "name_送信メール①": "Émail Envoyé 1",
+        "name_送信メール②": "Émail Envoyé 2",
+        "name_送信メール③": "Émail Envoyé 3",
+        "name_送信メール④": "Émail Envoyé 4",
+        "name_受信メール": "Émail Reçu",
+        "name_送信メール": "Émail Envoyé",
         "name_タブレット": "Tablette",
-        "name_ドアからの声": "Voix venant de la porte",
+        "name_ドアからの声": "Voix Venant de la Porte",
         "name_規約": "Règles",
         "name_絵画？": "Peinture ?",
         "name_モニター": "Écran",
         "name_音声": "Voix",
-        "name_緑の本": "Livre vert",
-        "name_取扱説明書": "Manuel",
+        "name_緑の本": "Livre Vert",
+        "name_取扱説明書": "Manuel d'Instructions",
         "name_機械": "Machine",
         "itemextradesc84": "À quoi sert ce grand trou au milieu...?",
         "glossarycommand": "Inventaire",
@@ -194,7 +194,7 @@
         "itemdesc73": "Le portrait d'un homme de profil.",
         "itemdesc75": "Des outils qui servent à retirer des vis entre autres.",
         "itemdesc79": "Une monnaie pas utilisable au Japon.",
-        "itemdesc81": "Une monnaie utilisable au Japon.\n1000 yens équivalent à un peu plus de 8 euros.",
+        "itemdesc81": "Une monnaie utilisable au Japon.\n1000 yens équivalent à un peu plus de 6 euros.",
         "itemdesc83": "Une bonne fléchette. Elle est très solide.",
         "itemdesc85": "Une arme qui tire des balles. Peut-être chargé\\njusqu'à 9 balles dans sa chambre circulaire.",
         "itemdesc89": "Peuvent être chargées dans un pistolet.\\nExtrêmement léthales.",
@@ -205,15 +205,132 @@
         "itemdesc99": "La clé de la chambre à Sara.",
         "optiontouchpadmode": "Mode tactile",
         "name_資料": "Documents",
-        "name_３通目のメール": "3e Email",
-        "name_背後の声": "Voix de derrière",
+        "name_３通目のメール": "3ème Émail",
+        "name_背後の声": "Voix de Derrière",
         "name_変なおっさん": "Homme étrange",
         "itemextradesc42": "Sage : Grâce à une sainte divination, il sait qui est le Maître des Clefs,\\nmais ne peut mentir sur le résultat d'une divination.",
         "itemdesc59": "Le portrait d'une personne tenant un pistolet.\\nIl y a un autre portrait derrière.",
         "itemdesc61": "Un outil pour vaporiser le liquide à l'intérieur.\\nDes gouttelettes d'eau s'y collent.",
         "itemdesc71": "Une carte. Il y est écrit \"Ceci est la clé de la sortie.\\nVous mourez si qui que ce soit\\napprends l'existence de cette carte.\"",
         "itemdesc77": "Une note avec des noms inscrits, incluant celui de\\nMishima. Il y a aussi le nom Alice Yabusame.",
-        "itemdesc87": "De fausses balles. Si vous les tirez, il ne se produit qu'un son."
+        "itemdesc87": "De fausses balles. Si vous les tirez, il ne se produit qu'un son.",
+        "dtext_発言力：": "Influence : ",
+        "name_サラ（モニター）": "Sara (Écran)",
+        "firsttrialcode": "3141",
+        "dtext_精神：": "Esprit : ",
+        "name_左のレコ": "Reko de gauche",
+        "name_右のレコ": "Reko de droite",
+        "name_カンナのai": "IA de Kanna",
+        "name_クギエ": "Kugie",
+        "name_ニット帽の男": "Homme au Bonnet",
+        "name_ソウ": "Sou",
+        "name_ソウ？": "Sou ?",
+        "name_ナオ": "Nao",
+        "name_赤髪の巨漢": "Géant aux Cheveux Rouges",
+        "name_巨漢": "Géant",
+        "name_qタロウ": "Q-taro",
+        "name_qタロウさん": "Q-taro",
+        "name_qタロウの声": "Voix de Q-taro",
+        "name_qタロウのai": "IA de Q-taro",
+        "name_変わった子供": "Enfant Étrange",
+        "name_ギン": "Gin",
+        "name_シマシマの男": "Homme aux Rayures",
+        "name_ゴンベエ": "Gonbee",
+        "name_ゴンゾウ": "Gonbee",
+        "name_アリスの声": "Voix d'Alice",
+        "name_アリスのai": "IA d'Alice",
+        "name_\\c[2]アリス": "\\C[2]Alice",
+        "name_人形": "Poupée",
+        "name_ホエミー": "Déaire",
+        "name_ホエミー？": "Déaire ?",
+        "name_ノエル": "Arranger",
+        "name_ノエルの頭部": "Tête d'Arranger",
+        "name_ガシュー": "Gashu",
+        "name_緑髪の男性": "Homme aux Cheveux Verts",
+        "name_緑髪の男": "Homme aux Cheveux Verts",
+        "name_ヒヨリソウ": "Sou Hiyori",
+        "name_\\n[4]": "\\N[4]",
+        "name_\\n[4]の声": "Voix de \\N[4]",
+        "name_フードの女の子": "Fille Encapuchonnée",
+        "name_アンズ": "Anzu",
+        "name_学ランの男子": "Garçon en Uniforme",
+        "name_学ランの男の子": "Garçon en Uniforme",
+        "name_ランマル": "Ranmaru",
+        "name_青髪の男性": "Homme aux Cheveux Bleus",
+        "name_クルマダ": "Kurumada",
+        "name_クルマダの声": "Voix de Kurumada",
+        "name_マイ": "Mai",
+        "name_メガネの男性": "Homme avec des Lunettes",
+        "name_ハヤサカ": "Hayasaka",
+        "name_ピンク髪の女子": "Fille aux Cheveux Roses",
+        "name_ヒナコ": "Hinako",
+        "name_シン": "Shin",
+        "name_シンのai": "IA de Shin",
+        "name_青い人": "M. Bleu",
+        "name_変な男": "Homme Étrange",
+        "name_アルジー": "Meister",
+        "name_漂流者": "Naufragé",
+        "name_トウコ": "Touko",
+        "name_ジン": "Jin",
+        "name_声": "Voix",
+        "name_男性の声": "Voix d'Homme",
+        "name_女性の声": "Voix de Femme",
+        "name_男の声": "Voix d'Homme",
+        "name_女の声": "Voix de Femme",
+        "name_男性": "Homme",
+        "name_女の人": "Femme",
+        "name_男": "Homme",
+        "name_女": "Femme",
+        "name_少年": "Garçon",
+        "name_女の子": "Fille",
+        "name_女の子？": "Fille ?",
+        "name_赤い人": "Mme. Rouge",
+        "name_像": "Statue",
+        "name_みんな": "Tous",
+        "name_モニターの男": "Homme à l'Écran",
+        "name_母": "Maman",
+        "name_父": "Papa",
+        "name_ガキ": "Morveux",
+        "name_記憶の声": "Mémoire",
+        "name_自分の影": "Propre Ombre",
+        "name_人工知能": "IA",
+        "name_映像の男性": "Homme dans la Vidéo",
+        "name_怪物": "Monstre",
+        "name_おまわりさん": "M. le Policier",
+        "name_警察官": "Policier",
+        "name_犯人": "Criminel",
+        "name_影": "Ombre",
+        "name_怒りのai": "IA Énervée",
+        "name_あざ笑うai": "IA Méprisante",
+        "name_あざ笑うai（ニセミシマ）": "IA Méprisante",
+        "name_悲しむai": "IA Triste",
+        "name_怯えたai": "IA Apeurée",
+        "name_怯えたai（シン）": "IA Apeurée",
+        "name_看護師": "Infirmier",
+        "name_案内人": "Guide",
+        "name_怪鳥": "Oiseau Étrange",
+        "name_原住民": "Habitant",
+        "name_ファイル": "Fichier",
+        "name_紙": "Papier",
+        "name_ガレキの文字": "Inscription sur les Débris",
+        "name_引き抜きリスト": "Liste de Recrutement",
+        "name_張り紙": "Affiche",
+        "name_\\c[3]メモ用紙": "\\C[3]Note",
+        "name_プレイヤー": "Joueur",
+        "name_先生": "Professeur",
+        "name_ヘンなヤツ": "Mec Bizarre",
+        "name_スピーカー音": "Haut-Parleur",
+        "name_赤い男": "Homme Rouge",
+        "name_書き置き": "Note",
+        "name_作業着の女": "Femme en Salopette",
+        "name_アリス": "Alice",
+        "name_ハンナキー": "Moyant",
+        "name_受付人形": "Poupée de la Réception",
+        "name_フードの女子": "Fille Encapuchonnée",
+        "name_大きな帽子の女性": "Femme au Gros Chapeau",
+        "name_怪物？": "Monstre ?",
+        "name_女性": "Femme",
+        "name_モニターの女": "Femme à l'Écran"
     },
     "items-16": {
         "name": "??????????????"
@@ -296,41 +413,45 @@
             "\\.\"Faire ça au premier rancard...\n C'est juste monstrueux !\"",
             "\\.\"On s'est tenus les mains !\n Scandaleux progrès, pas vrai ?!\"",
             "\\.\"Après... C'était surtout parce que je suis tombé\n dans un fossé et qu'elle m'aidait, mais...!\"",
-            "testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttestv"
+            "\\.\"Pour quelqu'un qui a l'air d'un dragueur,\nt'es terriblement timide...\"",
+            "\\.\"Hein ?! D'où j'ai l'air d'un \"dragueur\" ?!\"",
+            "\\.\"J'suis vexé, meuf... Ça me blesse sérieusement...\"",
+            "\\.\"Merde... Peut-être que je devrais retourner\naux cheveux en brosse comme j'avais au collège...\"",
+            "\\.\\C[4](Et maintenant il se morfond.)"
         ],
         "1-3-message": [
-            "\\.\\C[4](J'ai rarement marché à la maison à cette heure...\n Il fait très sombre...)",
-            "\"Qu'est-ce qu'il y a ? Tu veux qu'on se tienne les mains ?\"",
-            "None",
-            "None",
-            "None",
-            "None",
-            "None",
+            "\\.\\C[4](J'ai rarement marché jusqu'à chez moi à cette heure...\n Il fait vraiment sombre...)",
+            "\"Qu'est-ce qui t'arrive ? Tu veux qu'on se tienne la main ?\"",
+            "\\.\"Heiin...?\"",
+            "\"Réflexion faite, tu me broierais la main avec\nta poigne incroyable.\nNan, oublie, Sara !\"",
+            "\\.\\C[4](C'est pas comme si je m'en vantais...)",
+            "\"Je rigole ! T'énerve pas.\"",
+            "\\.\"Mais plus sérieusement...\n Ça te faciliterait pas les choses d'avoir un petit ami ?\"",
             "\\.\"...\"",
             "\\.\"...\"",
-            "\\.\"...T'arrive pas à dormir c'est ça ?\n À cause de ton \\C[2]stalker\\C[0]...\"",
-            "\"Est-ce que... c'est pour ça que tu m'accompagnes tout le temps ?\"",
-            "None",
-            "None",
-            "None",
-            "None",
-            "None",
-            "None",
-            "None",
-            "None",
-            "None",
-            "\\.\"Oui...\""
+            "\\.\"... T'arrives pas à dormir, pas vrai ?\n À cause de ton \\C[2]stalker\\C[0]...\"",
+            "\"Est-ce que... c'est pour ça que tu m'accompagnes\ntout le temps jusqu'à chez moi ?\"",
+            "\\.\"A... Andouille... Je voulais juste me vanter...\"",
+            "\\.\"... T'as aucune raison de t'excuser.\n Parce que je t'ai dit que c'est pas pour ça !\"",
+            "\\.\"Je le disais pas comme une excuse...\"",
+            "\\.\"Pour quoi, meuf ?! Bon, si t'es d'humeur\n reconnaissante, je vais pas t'arrêter !\"",
+            "\\.\"Hihi...\"",
+            "\\.\"Héhé ! Prépare-toi à être embêtée, jour après jour !\"",
+            "\\.\"Hihi...\"",
+            "\\.\"Bon aller... Continuons d'avancer.\"",
+            "\\.\"Tes parents vont être inquiets si tu tardes.\"",
+            "\\.\"C'est vrai...\""
         ],
         "1-3-choice": [
             "Oui\nNon",
-            "Désolé\nMerci\nC'est gênant"
+            "Désolé\nMerci\nÇa m'embête"
         ],
         "2-1-message": [
-            "None",
+            "\\C[3]Une affiche de prévention avertissant\nde faire attention aux inconnus.",
             "\"...\""
         ],
         "4-1-message": [
-            "        \\fs[60]\\C[10]Je dois partir...!\\|\\^",
+            "        \\fs[60]\\C[10]Je dois m'enfuir...!\\|\\^",
             "\"Joe ! Cours !\"",
             "\\.\"Hein...?!\""
         ],
@@ -338,7 +459,7 @@
             "\\C[3]Un faible lampadaire illumine la rue."
         ],
         "1-1-choice": [
-            "Je m'en fous.\nVous vous êtes embrassés ou quoi ?"
+            "Je m'en fiche\nVous vous êtes embrassés ou quoi ?"
         ]
     },
     "map73": {
@@ -613,19 +734,19 @@
     "map5": {
         "1-1-message": [
             "\"Hah...\\. Hah...\\. Hah...\"",
-            "\\.\"Hahh... Fiouu...\"",
+            "\\.\"Hahh... Fiou...\"",
             "\\.\"On a réussi à atteindre ta maison...\"",
             "\\.\"...\"",
-            "\\.\"C'est- C'est bon.\n Ça devrait bien aller maintenant qu'on est là.\"",
+            "\\.\"C-C'est bon.\n Ça devrait aller maintenant qu'on est là.\"",
             "\\.\"Joe...\"",
             "\\.\"Je suis soulagée...\n Si j'étais rentrée seule...\"",
-            "\\.\"Héhé...\"",
+            "\\.\"Hé hé...\"",
             "\\.\"J'ai peur...\"",
             "\\.\"J'ai tellement peur... Est-ce que je vais...\"",
-            "\\.\"Et si il finit par me tuer, un jour...?\"",
+            "\\.\"Et s'il finit par me tuer, un jour...?\"",
             "\\.\"Je ne le laisserai pas faire, okay ?!\"",
             "\\.\"Joe...\"",
-            "\\.\"Appelle-moi ! Quand tu veux !\"",
+            "\\.\"Appelle-moi ! N'importe quand !\"",
             "\\.\"Je m'ramènerai avec une cargaison de\n premières années !\"",
             "\\.\"...\"",
             "\\.\\C[4](Ce gars me fixait...)",
@@ -633,19 +754,19 @@
             "\\.\\C[4](Qu'il essayait de me parler...?)",
             "\"Bon, tes parents t'attendent, Sara !\"",
             "\\.\"... Ouais.\"",
-            "None",
+            "\\.\"Hé, Joe...\"",
             "\"Y a pas de quoi !\"",
             "\"... Ouais !\"",
             "\"On se voit demain...\n Au lycée !\"",
-            "\\C[3]Toutefois... Ils ne se verraient pas au lycée.",
-            "\\.\\C[3]Cette nuit, l'un d'entre eux s'est retrouvé\nimpliqué dans un incident majeur...",
+            "\\C[3]Cependant... Ils ne se reverraient pas au lycée.",
+            "\\.\\C[3]Cette nuit-là, ils se sont tous les deux retrouvés\nimpliqué dans un grave incident...",
             "\\.\\C[3]À suivre dans le Jeu de la Mort à la Majorité...",
-            "None",
-            "None",
-            "None",
+            "\\.Ainsi, après tout cela, vous trouvez vos parents\ninconscients, vous faites face au stalker dans\nvotre chambre et vous vous réveillez dans un lieu\ninconnu, un Jeu Mortel... Ce genre de chose.",
+            "\\.Dans ce Jeu Mortel :\n1. Vous rassemblez des objets durant la partie exploration.\n2. Vous tenez des débats avec les personnages en utilisant\n   le système de discussion pour progresser dans l'histoire.",
+            "\\.Cette version d'essai vous permets justement de faire\n l'expérience du système de discussion, donc venez\n sur le terrain.",
             "Bienvenue !",
-            "\\.Très bien, à présent, vous pouvez y aller.",
-            "\"Okay... J'y vais...\"",
+            "\\.Maintenant, vous pouvez y aller.",
+            "\"Okay... Je rentre...\"",
             "\\.\"... Hm ?\"",
             "\\.\"Les lumières sont éteintes...?\""
         ],
@@ -666,15 +787,15 @@
         ],
         "22-1-message": [
             "\\C[3]Ma bonne vieille porte.",
-            "\\.\\C[3]... Elle est ouverte...!"
+            "\\.\\C[3]... Elle est ouverte... !"
         ]
     },
     "map6": {
         "1-1-message": [
             "\"Yo !\"",
-            "\\.\"Okay, commençons cette discussion.\"",
-            "\\.\"Pour cet essai, essayons de\n voir comment se sent ce système.\"",
-            "\\.\"Tout d'abord, nous avons besoin d'un topic.\""
+            "\\.\"Okay, commençons une discussion.\"",
+            "\\.\"Durant cet essai, essayons de discuter\n pour comprendre comment le système fonctionne.\"",
+            "\\.\"Tout d'abord, nous avons besoin d'un sujet.\""
         ]
     },
     "map8": {
@@ -687,11 +808,11 @@
             "\\.\"Joe !\"",
             "\\.\"Je t'en supplie, aide-moi !\n Ma mère est inconsciente !\"",
             "\\.\"Calme-toi ! T'as appelé les urgences, les flics ?!\"",
-            "\\.\"Pas encore...!\n Il faut... Il faut que je les appelle...\"",
+            "\\.\"Pas encore... !\n Il faut... Il faut que je les appelle...\"",
             "\\.\"Je m'en occupe !\n Écoute, Sara ! Il faut que tu restes calme !\"",
-            "\\C[3]Joe appelle les secours.",
-            "\\C[4](Qu'est-ce que je fais...?\n Je suis complètement paniquée...)",
-            "\\C[4](Il faut que je fasse quelque chose...\n Quoi que ce soit...)"
+            "\\C[3]Joe a commencé à passer des appels.",
+            "\\C[4](Qu'est-ce que je fais... ?\n Je suis complètement paniquée...)",
+            "\\C[4](Il faut que je fasse quelque chose...\n Quelque chose...)"
         ],
         "2-1-message": [
             "\\C[3]La plante est renversée...",
@@ -701,11 +822,11 @@
             "\\C[3]La clé de la chambre à Sara."
         ],
         "13-1-message": [
-            "\\C[3]Ici se trouve la salle de bain."
+            "\\C[3]Par ici se trouve la salle de bain."
         ],
         "14-1-message": [
             "\\C[3]Le salon.",
-            "\\C[3]Normalement, Maman devrait être en train de\nregarder la télé en m'attendant..."
+            "\\C[3]Normalement, Maman serait en train de\nregarder la télé en m'attendant..."
         ],
         "14-2-message": [
             "\\C[3]Le salon.",
@@ -715,7 +836,7 @@
             "\\C[3]Les escaliers qui montent au premier étage.\nMa chambre est par là."
         ],
         "15-1-message": [
-            "\\C[3]La porte de la chambre parentale."
+            "\\C[3]Là se trouve la porte de la chambre de mes parents."
         ]
     },
     "map9": {
@@ -727,7 +848,7 @@
         "2-1-message": [
             "\\C[3]L'interrupteur.",
             "\\C[4](J'ai un mauvais pressentiment...)",
-            "\\C[4](... Okay, j'y vais !)",
+            "\\C[4](... Okay, je les allume !)",
             "\\sp[20]\\at[2]\"... M... Maman...?\"\\.\\.",
             "\\.\"Maman !!\"",
             "\\.\"Maman ! Maman !!\""
@@ -742,12 +863,12 @@
         "3-1-message": [
             "\"Maman ! Tiens bon !\"",
             "\\.\\C[3]... Elle respire encore.\nOn dirait qu'elle a juste perdu connaissance.",
-            "\\.\"Réfléchis, réfléchis...!\n Qu'est-ce que tu peux faire...?\""
+            "\\.\"Qu'est-ce que je peux faire,\n qu'est-ce que je faire... !\""
         ],
         "4-1-message": [
             "\\C[3]Il y a une clé par terre.",
             "\\.\\C[2]Clé de la Chambre\\C[3] obtenue.",
-            "\"Mais qu'est-ce qu'elle fait là...?\""
+            "\"Qu'est-ce qu'elle fait là...?\""
         ],
         "6-1-message": [
             "\\C[3]La clé de la chambre à Sara."
@@ -762,7 +883,7 @@
             "\\C[3]... Je n'arrive pas à voir quoi que ce soit."
         ],
         "26-2-message": [
-            "\\.\\C[3]Une photo de mon voyage à Hokkaido."
+            "\\.\\C[3]Une photo de mon voyage en Hokkaido."
         ],
         "27-1-message": [
             "\\C[3]... Je n'arrive pas à voir quoi que ce soit."
@@ -777,7 +898,7 @@
             "\\C[3]... Je n'arrive pas à voir quoi que ce soit."
         ],
         "37-2-message": [
-            "\\.\\C[3]Une bouteille neuve, à sa place."
+            "\\.\\C[3]Une bouteille neuve, à sa place habituelle."
         ],
         "42-1-message": [
             "\\C[3]... Je n'arrive pas à voir quoi que ce soit."
@@ -786,13 +907,13 @@
             "\\.\\C[3]La porte qui amène au couloir."
         ],
         "12-1-message": [
-            "\\C[3]... Je n'arrive pas à voir quoi que ce soit."
+            "\\C[3]... Il fait trop noir pour voir quoi que ce soit."
         ],
         "25-2-message": [
-            "\\.\\C[3]Une photo de mon grand-père mort quand j'étais petite."
+            "\\.\\C[3]Une photo de mon grand-père décédé quand j'étais petite."
         ],
         "27-2-message": [
-            "\\.\\C[3]Des étagères avec les livres compliqués de mon père,\ndes mangas et des magazines en désordre total."
+            "\\.\\C[3]Des étagères. Des livres compliqués de mon père\njusqu'aux mangas et aux magazines, ils ne sont pas\ndu tout organisés."
         ],
         "42-2-message": [
             "\\.\\C[3]Une porte qui amène à la chambre de mes parents."
@@ -809,13 +930,13 @@
         ],
         "2-2-message": [
             "\"Papa ?! Papa, tu es là ?!\"",
-            "\\.\"Maman s'est évanouie !\n Papa... Où es...\"",
+            "\\.\"Maman a perdu connaissance !\n Papa... Où es...\"",
             "\\|\\|\\^",
             "\\|\\^",
             "\\|\\.\\.\\^",
             "\\|\\|\\|\\^",
             "       \\SP[8]Your Turn To Die -Jeu de la Mort à la Majorité-\\|\\|\\|\\^",
-            "                 \\SP[8]Présenté par Nankidai\n                  Traduit par Nadeko\\|\\|\\|\\^",
+            "                 \\SP[8]Présenté par Nankidai\\|\\|\\|\\^",
             "\\|\\|\\|\\|\\|\\^"
         ],
         "3-1-message": [
@@ -824,61 +945,61 @@
     },
     "map11": {
         "1-1-message": [
-            "\\C[3]Argh...",
-            "\\.\\C[3]Où suis-je...?",
-            "\\.\\C[3]Le plafond...?",
-            "\\.\\C[3]Qu'est-ce que je fais ici...?",
-            "\\.\\C[4](Euuh... Il me semble que je rentrais chez moi...)",
+            "\\C[3]Urgh...",
+            "\\.\\C[3]Où suis-je... ?",
+            "\\.\\C[3]C'est le plafond que je vois... ?",
+            "\\.\\C[3]Pourquoi est-ce que je dormais ici... ?",
+            "\\.\\C[4](Euuh... Je crois que je suis rentrée chez moi...)",
             "\\.\\C[4](Ah, et Maman était...!)",
-            "\\.\\C[4](Je suis \\C[2]Sara\\C[4].\n Une lycéenne incroyablement normale...)",
-            "\\.\\C[4](Bien... il faut commencer par les bases.)",
+            "\\.\\C[4](Je suis \\C[2]Sara\\C[4].\n Une... lycéenne incroyablement normale...)",
+            "\\.\\C[4](Bien... Commence par ce que tu connais le mieux.)",
             "\\.\"Maman !\"",
             "\\.\\C[3]J'essayais rapidement de me lever, en vain.",
-            "\\.\\C[3]Quelque chose est fixé sur ma tête...?",
-            "\\C[3]Je touchais peureusement mon visage...",
+            "\\.\\C[3]Quelque chose est fixé sur ma tête... ?",
+            "\\C[3]Je touchais craintivement ma tête...",
             "\\.\\C[3]Il y a une sorte de ceinture... ou de machine...",
             "\\.\\C[4](Voyons... On dirait que je suis couchée sur le dos.)",
             "\\.\\C[4](Sur un lit... peut-être ?)",
             "\\.\\C[4](C'est quoi ce truc sur mon front...?)",
             ".\\C[4](Est-ce que je suis attachée...?)",
             ".\\C[4](C'est comme une sorte de ceinture...)",
-            "\\.\"Quoi... Agh... Qu'est-ce que ça veut dire ?!\"",
-            "\\.\\C[3]Je sens ma température augmenter...",
+            "\\.\"Non... Agh... Qu'est-ce que ça veut dire ?!\"",
+            "\\.\\C[3]Ma température s'éleva...",
             "\\.\\C[3]Et soudainement, la peur s'éveilla en moi.",
             "\\.\"Non !! Où suis-je ?! Il y a quelqu'un ?!\"",
-            "\\.\\C[3]Je n'ai aucune liberté de mouvement.",
-            "\\.\\C[3]... ma tête, mon bras gauche, mon torse et\n mes jambes sont restreintes.",
-            "\\.\\C[3]Je ne peux bouger que mon bras droit.",
+            "\\.\\C[3]Je n'avais aucune liberté de mouvement.",
+            "\\.\\C[3]En plus de ma tête, mon bras gauche, mon torse et\n mes jambes étaient aussi ligotées.",
+            "\\.\\C[3]Je ne pouvais bouger que mon bras droit.",
             "\\.\"Que quelqu'un...!\"",
-            "\\.\\C[3]Je m'apprêtais à hurler, mais je devins silencieuse.",
+            "\\.\\C[3]Je m'apprêtais à hurler, puis je devins silencieuse.",
             "\\.\\C[3]Ce stalker.",
-            "\\.\\C[3]Il a... blessé ma mère...",
-            "\\.\\C[3]Et m'a piégée ici...",
+            "\\.\\C[3]Il avait... blessé ma mère...",
+            "\\.\\C[3]Et il m'a piégée ici...",
             "\\.\\C[4](Je me demande, est-ce que je vais...)",
             "\\.\\C[4](... me faire... tuer...?)",
-            "\"Sara ! C'est toi ?!\"",
+            "\"Sara ! T'es là ?!\"",
             "\\.\\C[4](Cette voix...)",
-            "\\.\"Joe ! C'est bien toi, à ma droite...?!\"",
-            "\\.\"Ouais...! Mais j'peux pas bouger !\n Tu peux pas faire quelque chose ?!\"",
+            "\\.\"Joe ! C'est bien toi, à côté de moi...?!\"",
+            "\\.\"Ouais... ! Mais j'peux pas bouger !\n Tu peux pas faire quelque chose ? !\"",
             "\\.\\C[4](Joe est dans la même situation ?!)",
             "\\.\"Un téléphone...?\"",
             "\\C[3]J'ai fouillé dans ma poche avec ma main libre,\nmais je n'ai rien trouvé.",
-            "\"Joe ! C'est toi qui l'as ?!\"",
+            "\"Joe ! C'est le tien qui sonne ?!\"",
             "\\.\"Hein...?\"",
             "\\.\"T'as raison... Y a quelque chose dans ma poche...!\"",
-            "\\.\"C'est bon...!\"",
+            "\\.\"Voilà...!\"",
             "\\.\"Allô ?! J'vous en supplie ! Aidez-nous !\"",
             "\\.\"... Démarrage du guide vocal.\"",
             "\\.\"Hein...?\"",
             "\\.\"La Première Épreuve va à présent débuter.\"",
-            "\\.\"Sara, et, Joe.\n Trouvez la \\C[2]clé\\C[0] cachée dans cette pièce.\n\\! Puis, retirez vos entraves.\"",
+            "\\.\"Sara, et, Joe.\n Trouvez la \\C[2]clé\\C[0] cachée dans cette pièce.\n\\ ! Puis, retirez vos entraves.\"",
             "\\.\"Si vous échouez et que le temps limite est écoulé,\n l'appareil sur vos lits s'actionnera...\"",
             "\\.\"Et vous serez broyés à mort.\"",
             "\\.\"À présent, nous vous prions d'apprécier ce frisson\n et ce, avec corps et âmes.\"",
             "\\.\"Le temps limite est de 5 bonnes minutes.\"",
-            "\\.\"Notez qu'\\C[2]une seule\\C[0] clé est à votre disposition.\n Ainsi, nous vous prions de débattre sur qui l'utilisera.\"",
-            "\\C[3]Qu'est-ce que c'est... que ces conneries...",
-            "\\.\\C[3]La Première Épreuve...?",
+            "\\.\"Notez qu'\\C[2]une seule\\C[0] clé est à votre disposition.\n Ainsi, nous vous prions de débattre à propos de qui l'utilisera.\"",
+            "\\C[3]Qu'est-ce que c'est... que ça...",
+            "\\.\\C[3]La Première Épreuve... ?",
             "\\.\\C[3]On va mourir... dans 5 minutes ?",
             "\\.\"Nwaaaaa ?! On fait quoi ?!\"",
             "\\.\\C[4](On a pas le temps de s'inquiéter...!)",
@@ -968,7 +1089,7 @@
             "\\C[3]Une clé rouge. J'ai retiré mes restreintes avec."
         ],
         "6-2-message": [
-            "\\C[3]Une clé rouge. J'ai retiré mes restreintes avec.",
+            "\\C[3]Une clé rouge.\nJ'ai désactivé le dispositif de retenue avec.",
             "\\.\\C[4](Hm...? Un bout de la clé s'est écorchée ?)",
             "\\.\\C[3]Il y a un peu de vert qui sort d'un côté.",
             "\\.\\C[4](J'ai compris... \\C[2]Au début c'était une clé verte\\C[4],\n et de la résine rouge s'est collée par-dessus !)",
@@ -1088,7 +1209,7 @@
             "\"Vous êtes qui, vous ?!\n Et c'est quoi, cet endroit ?!\"",
             "\\.\"Comme si on l'savait !\n Alors calme-toi, miss !\"",
             "\\.\"N'y a-t'il donc personne ici qui\n pourrait nous expliquer ?!\"",
-            "\\.\"Mais que se passe-t-il...? Comme c'est troublant...\"",
+            "\\.\"Mais que se passe-t-il... ? Comme c'est troublant...\"",
             "\\.\\C[3]Ils sont trop distraits pour me remarquer.",
             "\\.\\C[4](Mais... qu'est-ce qu'il se passe ?)"
         ],
@@ -1124,7 +1245,7 @@
             "\\.\"Ouf... Tu es sain et sauf.\"",
             "\\.\"Joe !\"",
             "\\.\"OWW !!\"",
-            "\\.\"C'était peut-être un peu trop fort, mais...\n\\! Joe ! Tu vas bien !\"",
+            "\\.\"C'était peut-être un peu trop fort, mais...\n\\ ! Joe ! Tu vas bien !\"",
             "\\.\"...\"",
             "\\.\"... T'es qui ?\"\\.",
             "\\.\"Qu...!!\"\\.\\.",
@@ -1368,7 +1489,7 @@
             "\\C[3]Un coupe-cigare.\nUn outil pour couper les cigares et les fumer."
         ],
         "18-1-message": [
-            "\\C[3]Un billet de 1000 yens.\nUne monnaie utilisable au Japon.\n1000 yens équivalent à un peu plus de 8 euros."
+            "\\C[3]Un billet de 1000 yens.\nUne monnaie utilisable au Japon.\n1000 yens équivalent à un peu plus de 6 euros."
         ],
         "19-1-message": [
             "\\C[3]Une jolie fléchette.\nElle est très solide.",
@@ -1801,5 +1922,138 @@
     },
     "system": {
         "currency": "yen"
+    },
+    "map62": {
+        "1-1-choice": [
+            "Oui\nNon (Écran Titre)\nSauvegarder",
+            "Retourner à l'écran titre\nY repenser"
+        ],
+        "1-1-message": [
+            null,
+            "Êtes-vous sûr de vouloir retourner à l'écran titre ?"
+        ]
+    },
+    "map215": {
+        "50-3-choice": [
+            null,
+            null,
+            "Continuer\nRetourner à l'écran titre"
+        ],
+        "50-3-message": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\C[3]Êtes-vous sûr de vouloir retourner à l'écran titre ?"
+        ]
+    },
+    "map180": {
+        "1-1-choice": [
+            "Écouter\nPartir (Retour à l'écran titre)"
+        ]
+    },
+    "commonevents": {
+        "290-0-message": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "Retourner à l'écran titre ?"
+        ],
+        "290-0-choice": [
+            null,
+            "Aller à l'écran titre\nRechoisir"
+        ]
     }
 }
