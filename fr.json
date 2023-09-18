@@ -295,7 +295,8 @@
             "\"Embr...?! Sois pas bête !\"",
             "\\.\"Faire ça au premier rancard...\n C'est juste monstrueux !\"",
             "\\.\"On s'est tenus les mains !\n Scandaleux progrès, pas vrai ?!\"",
-            "\\.\"Après... C'était surtout parce que je suis tombé\n dans un fossé et qu'elle m'aidait, mais...!\""
+            "\\.\"Après... C'était surtout parce que je suis tombé\n dans un fossé et qu'elle m'aidait, mais...!\"",
+            "testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttestv"
         ],
         "1-3-message": [
             "\\.\\C[4](J'ai rarement marché à la maison à cette heure...\n Il fait très sombre...)",
@@ -1791,5 +1792,14 @@
         "3-1-message": [
             "\\C[3]Un briquet Zippo chic."
         ]
+    },
+    "items-81": {
+        "name": "Billet de 1000 yens"
+    },
+    "items-80": {
+        "name": "Billet de 1000 yens"
+    },
+    "system": {
+        "currency": "yen"
     }
 }
