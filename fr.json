@@ -2326,5 +2326,8 @@
     "items-150": {
         "description": "Annule la sélection.",
         "name": "Annuler"
+    },
+    "items-166": {
+        "name": "Essence"
     }
 }
