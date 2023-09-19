@@ -2341,5 +2341,23 @@
     },
     "items-180": {
         "name": "Livre Rouge"
+    },
+    "items-185": {
+        "name": "\\I[16]Livre Vert"
+    },
+    "items-187": {
+        "name": "Livre Jaune"
+    },
+    "items-188": {
+        "name": "Livre Jaune"
+    },
+    "items-189": {
+        "name": "Livre Bleu"
+    },
+    "items-190": {
+        "name": "Livre Bleu"
+    },
+    "items-186": {
+        "name": "Livre Vert"
     }
 }
