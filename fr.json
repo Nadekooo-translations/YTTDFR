@@ -2304,5 +2304,23 @@
     },
     "items-36": {
         "name": "Terrain du Jeu Principal"
+    },
+    "items-96": {
+        "name": "Clé Rouge",
+        "description": "Une clé de couleur rouge."
+    },
+    "items-97": {
+        "name": "Clé Rouge"
+    },
+    "items-98": {
+        "name": "Clé de la Chambre",
+        "description": "La clé de la chambre à Sara."
+    },
+    "items-99": {
+        "name": "Clé de la Chambre"
+    },
+    "items-100": {
+        "name": "Annuler",
+        "description": "Annule la sélection."
     }
 }
