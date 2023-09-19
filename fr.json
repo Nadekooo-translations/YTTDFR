@@ -2359,5 +2359,21 @@
     },
     "items-186": {
         "name": "Livre Vert"
+    },
+    "items-200": {
+        "name": "Annuler",
+        "description": "Annule la sélection."
+    },
+    "items-206": {
+        "name": "\\I[26]Tête de \\N[4]"
+    },
+    "items-207": {
+        "name": "Tête de \\N[4]"
+    },
+    "items-208": {
+        "name": "\\I[25]Petite Clé"
+    },
+    "items-209": {
+        "name": "Petite Clé"
     }
 }
