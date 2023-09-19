@@ -1432,7 +1432,7 @@
             null,
             null,
             null,
-            null,
+            "\\.\"...\"",
             null,
             null,
             null,
@@ -1855,6 +1855,18 @@
     "map35": {
         "3-1-message": [
             "\\C[3]Un briquet Zippo chic."
+        ],
+        "14-3-message": [
+            "\\C[3]Une bouteille servant à transporter des liquides."
+        ],
+        "15-1-message": [
+            "\\C[3]La fleur d'un vase."
+        ],
+        "14-1-message": [
+            "\\C[3]Une bouteille servant à transporter des liquides."
+        ],
+        "14-2-message": [
+            "\\C[3]Une bouteille servant à transporter des liquides."
         ]
     },
     "map37": {
