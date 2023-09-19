@@ -74,7 +74,8 @@
         ]
     },
     "items-18": {
-        "name": "????????????????????"
+        "name": "????????????????????",
+        "description": "Un couloir avec une salle pour les fumeurs."
     },
     "terms": {
         "gameend": "Quitter",
@@ -394,7 +395,7 @@
             "\\.\"J'suis revenu au lycée spécialement\n pour m'en vanter auprès de toi !\"",
             "\\.\"Tu aurais dû rentrer chez toi...\"",
             "\\.\"Parfait ! Mission accomplie...!\"",
-            "\\.\"Rentrons chez nous, Sara !\""
+            "\\.\"Rentrons, Sara !\""
         ],
         "1-1-message": [
             "\"Ouah, on voit presque rien dehors...\"",
@@ -2153,5 +2154,92 @@
     "items-17": {
         "name": "Couloir du Bar",
         "description": "Le couloir amenant au bar."
+    },
+    "items-19": {
+        "name": "Couloir de l'Espace Fumeurs",
+        "description": "Un couloir avec une salle pour les fumeurs."
+    },
+    "items-22": {
+        "name": "Salle Centrale",
+        "description": "La salle où nous nous sommes tous rencontrés."
+    },
+    "items-23": {
+        "name": "Cuisine",
+        "description": "La salle où nous nous sommes tous rencontrés."
+    },
+    "items-24": {
+        "name": "Chambre de Déaire",
+        "description": "La salle où nous nous sommes tous rencontrés."
+    },
+    "items-25": {
+        "name": "Salle Rose",
+        "description": "Pour réarranger."
+    },
+    "items-26": {
+        "name": "Salle Cachée",
+        "description": "Pour trier."
+    },
+    "items-27": {
+        "name": "Salle Noire",
+        "description": "La salle où nous nous sommes tous rencontrés."
+    },
+    "items-28": {
+        "name": "Salle Blanche",
+        "description": "La salle où nous nous sommes tous rencontrés."
+    },
+    "items-29": {
+        "name": "Couloir Arrière du 1er Étage",
+        "description": "La salle où nous nous sommes tous rencontrés."
+    },
+    "items-30": {
+        "name": "Pied de l'Échelle"
+    },
+    "items-32": {
+        "name": "Salle \"Ro\""
+    },
+    "items-33": {
+        "name": "Salle \"Mir\""
+    },
+    "items-34": {
+        "name": "Salle \"Sp\" (Jaune)"
+    },
+    "items-35": {
+        "name": "Terrain du 1er Étage"
+    },
+    "items-39": {
+        "name": "Règlement 1"
+    },
+    "items-40": {
+        "name": "Annuler",
+        "description": "Annule la sélection."
+    },
+    "items-50": {
+        "name": "Clé de la Cuisine",
+        "description": "La clé de la cuisine."
+    },
+    "items-51": {
+        "name": "Clé de la Cuisine"
+    },
+    "items-52": {
+        "name": "Poupée de Sara"
+    },
+    "items-53": {
+        "name": "Poupée de Sara"
+    },
+    "items-64": {
+        "name": "Fleur",
+        "description": "La fleur d'un vase."
+    },
+    "items-65": {
+        "name": "Fleur"
+    },
+    "items-73": {
+        "name": "Peinture"
+    },
+    "items-31": {
+        "name": "Salle \"Sp\" (Rouge)"
+    },
+    "items-36": {
+        "name": "Terrain du Jeu Principal"
     }
 }
