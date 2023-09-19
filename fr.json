@@ -2322,5 +2322,9 @@
     "items-100": {
         "name": "Annuler",
         "description": "Annule la sélection."
+    },
+    "items-150": {
+        "description": "Annule la sélection.",
+        "name": "Annuler"
     }
 }
