@@ -47,7 +47,7 @@
             "\\.\"Hein...?\"",
             "\\.\"Mais si c'est votre choix qui a été pris, ne\n devriez-vous pas reconnaître l'intérêt de\n ces votes, du coup ?\"",
             "\\.\"... Hé bah, c'est compliqué tout ça.\"",
-            "\\.\"... Hmm ? C'est quoi ce regard ?\n \\!Si t'avais su que l'autre personne allait mourir,\n alors tu n'aurais pas voté ?\"",
+            "\\.\"... Hmm ? C'est quoi ce regard ?\n \\!Si tu avais su que l'autre personne allait mourir,\n alors tu n'aurais pas voté ?\"",
             "\\.\"Allons... Ça ne t'amènera nul part, tu sais ?\n C'est le sujet même de ce jeu...\"",
             "\\.\"... Ça n'a pas l'air de te convaincre, hein ?\"",
             "\\.\"Très bien, si tu insistes... alors votons !\n Ton opinion contre la mienne !\"",
@@ -360,7 +360,7 @@
         "14-1-message": [
             "\\C[3]La mare du campus.",
             "\\.\\C[3]La rumeur dit que si quelqu'un regarde dans\nl'eau à minuit, son reflet se mettra à parler.",
-            "\\.\\C[4](... Ça pourrait être une bonne chose pour un asocial.)"
+            "\\.\\C[4](... Ça pourrait être vraiment bien pour un asocial.)"
         ],
         "16-1-message": [
             "\\C[3]Les lumières sont allumées.\nC'est peut-être le garde de nuit.",
@@ -442,7 +442,7 @@
             "\\.\"Hé hé ! Prépare-toi à être embêtée, jour après jour !\"",
             "\\.\"Hihi...\"",
             "\\.\"Bon aller... Continuons d'avancer.\"",
-            "\\.\"Tes parents vont être inquiets si tu tardes.\"",
+            "\\.\"Tes parents vont être inquiets si tu tardes trop.\"",
             "\\.\"C'est vrai...\""
         ],
         "1-3-choice": [
@@ -450,7 +450,7 @@
             "Désolé\nMerci\nÇa m'embête"
         ],
         "2-1-message": [
-            "\\C[3]Une affiche de prévention avertissant\nde faire attention aux inconnus.",
+            "\\C[3]Une affiche de prévention avertissant de\nfaire attention avec les inconnus.",
             "\"...\""
         ],
         "4-1-message": [
@@ -468,7 +468,7 @@
     "map73": {
         "1-1-choice": [
             "\\C[2]Chapitre Final, Partie Une (B) (Nouveau !)",
-            "Chapitre Final, Partie Une\nChapitre 2, Partie Deux\nChapitre 2, Partie Une\nChapitre 1, Partie Deux\nChapitre 1, Partie Une\nAnnuler"
+            "Chapitre Final, Partie Une (A)\nChapitre 2, Partie Deux\nChapitre 2, Partie Une\nChapitre 1, Partie Deux\nChapitre 1, Partie Une\nAnnuler"
         ],
         "1-1-message": [
             "\\.Choisissez un chapitre où commencer."
@@ -927,7 +927,7 @@
             "\\C[3]C'est fermé à clé.",
             "\\C[4](Je l'ouvre...)",
             "\\.\\C[4](Qui a bien pu fermer la porte de ma chambre...?)",
-            "\\.\\C[4](Pas mon père, quand même... si ?)",
+            "\\.\\C[4](Pas mon père... si ?)",
             "\\C[2]Clé de la chambre à Sara\\C[3] utilisée.",
             "\\C[3]La porte s'ouvre."
         ],
@@ -974,7 +974,7 @@
             "\\.\\C[3]En plus de ma tête, mon bras gauche, mon torse et\nmes jambes étaient aussi ligotées.",
             "\\.\\C[3]Je ne pouvais bouger que mon bras droit.",
             "\\.\"Que quelqu'un...!\"",
-            "\\.\\C[3]Je m'apprêtais à hurler, puis je devins silencieuse.",
+            "\\.\\C[3]Je m'apprêtais à hurler, mais je devins silencieuse.",
             "\\.\\C[3]Ce stalker.",
             "\\.\\C[3]Il avait... blessé ma mère...",
             "\\.\\C[3]Et il m'a piégée ici...",
@@ -984,7 +984,7 @@
             "\\.\\C[4](Cette voix...)",
             "\\.\"Joe ! C'est bien toi, à côté de moi...?!\"",
             "\\.\"Ouais... ! Mais j'peux pas bouger !\n Tu peux pas faire quelque chose ? !\"",
-            "\\.\\C[4](Joe est dans la même situation ?!)",
+            "\\.\\C[4](Joe est dans la même situation que moi ?!)",
             "\\.\"Un téléphone...?\"",
             "\\C[3]J'ai fouillé dans ma poche avec ma main libre,\nmais je n'ai rien trouvé.",
             "\"Joe ! C'est le tien qui sonne ?!\"",
@@ -995,9 +995,9 @@
             "\\.\"... Démarrage du guide vocal.\"",
             "\\.\"Hein...?\"",
             "\\.\"La Première Épreuve va à présent débuter.\"",
-            "\\.\"Sara, et, Joe.\n Trouvez la \\C[2]clé\\C[0] cachée dans cette pièce.\n\\!Puis, retirez vos entraves.\"",
+            "\\.\"Sara, et, Joe.\n Trouvez la \\C[2]clé\\C[0] cachée dans cette pièce.\n \\!Puis, retirez vos entraves.\"",
             "\\.\"Si vous échouez et que le temps limite est écoulé,\n l'appareil sur vos lits s'actionnera...\"",
-            "\\.\"Et vous serez broyés à mort.\"",
+            "\\.\"Et vos corps seront brutalement broyés à mort.\"",
             "\\.\"À présent, nous vous prions d'apprécier ce frisson\n et ce, avec corps et âmes.\"",
             "\\.\"Le temps limite est de 5 bonnes minutes.\"",
             "\\.\"Notez qu'\\C[2]une seule\\C[0] clé est à votre disposition.\n Ainsi, nous vous prions de débattre de qui l'utilisera.\"",
@@ -1009,7 +1009,7 @@
             "\\C[3]J'ai fouillé dans ma poche avec ma main libre,\nmais je n'ai rien trouvé.",
             "\"Joe ! Cherche dans tes habits !\"",
             "\\.\"Oh, oh...\"",
-            "\\.\"Je crois qu'en prenant le téléphone...\n j'ai fait tombé \\C[2]quelqu'chose\\C[0]...!\"",
+            "\\.\"Quand j'ai sorti le téléphone de ma poche...\n J'ai peut-être fait tomber \\C[2]quelqu'chose\\C[0]...!\"",
             "\\.\"N-Non ! Ramasse-la !\"",
             "\\.\"D'accord...!\"",
             "\\.\\SP[50]\"..........\"",
@@ -1017,7 +1017,7 @@
             "\\.\"Parfait !\"",
             "\\.\"Dépêche-toi de te délivrer !\"",
             "\\.\"T'es sûre...?! Si je fais ça, tu vas...\"",
-            "\\.\\C[4](Si cette voix dit la vérité...\n Je pourrais mourir...!)",
+            "\\.\\C[4](Si cette voix disait la vérité...\n Je pourrais mourir...!)",
             "\\.\\C[4](Mais...!)",
             "\\.\"Joe, je suis sûre que tu trouveras un moyen\n de me sortir de là !\"",
             "\\.\"...\"",
@@ -1026,10 +1026,10 @@
             "\\.\"Et après j'te sauverai !! Tu verras !!\"",
             "\\.\\C[4](Merde... On a perdu trop de temps !\n Faut que j'aide Sara à sortir de là !)",
             "\\.\"Joe ! Donne-moi la clé !\"",
-            "\\.\"Q... qu'est-c'que tu racontes...?\"",
+            "\\.\"Q... Qu'est-c'que tu racontes...?\"",
             "\\.\"Y a qu'une seule clé...\"",
             "\\.\"Ah...\"",
-            "\\.\\C[4](L'un de nous doit mourir...?)"
+            "\\.\\C[4](L'un de nous va mourir...?)"
         ],
         "1-1-choice": [
             "Se rappeler de la situation\nSe rappeler de soi",
@@ -1047,7 +1047,7 @@
         "3-1-message": [
             "\\C[3]Un digicode où l'on peut entrer un\nnombre à quatre chiffres.",
             "\\.\\C[4](Est-ce que j'devrais toucher à ça...?)",
-            "\\.\\C[4](... Vraiment, ça fait qu'un son...?\n Mais c'est inutile en fait ?!)"
+            "\\.\\C[4](... Ça fait vraiment juste un son...?\n À quoi ça sert ?!)"
         ],
         "3-1-choice": [
             "Oui\nNon"
@@ -1058,8 +1058,8 @@
             "\\.\\SP[8]..........",
             "\\.\\C[4](J'ai enlevé la résine rouge,\n et une clé verte plus fine en sort !)",
             "\\.\\C[4](À quoi ça sert ...?!)",
-            "\\.\\C[4](Rien à faire ! J'ai tout examiné dans cette pièce...\n Et j'ai toujours aucune idée!)",
-            "\\.\\C[4](Mais pourquoi est-ce que cette clé ne rentre pas ?!\n Je devrais réexaminer la clé alors...?)",
+            "\\.\\C[4](Rien à faire ! J'ai tout examiné dans cette pièce...\n Et j'ai toujours aucune idée !)",
+            "\\.\\C[4](Mais pourquoi cette clé ne rentre pas ?!\n Je devrais peut-être la réexaminer...?)",
             "\\.\\C[4](Mais à quoi ça peut bien servir...?!)",
             "\\.\\C[4](Mais à quoi ça peut bien servir...?!)",
             "\\.\\C[4](Mais à quoi ça peut bien servir...?!)",
@@ -1071,44 +1071,44 @@
         ],
         "5-1-message": [
             "\\C[3]Un cadenas vert.",
-            "\\.\\C[4](Avec quoi je peux m'en servir ?!)",
+            "\\.\\C[4](Qu'est-ce que je devrais faire ?!)",
             "\\C[3]La clé est trop grosse pour rentrer.",
-            "\\.\\C[4](Stupide clé... Elle fait vraiment rien ?!)",
+            "\\.\\C[4](Stupide clé... Elle sert vraiment à rien ?!)",
             "\\.\"C'est bon !!\"",
             "\\.\"Vraiment ?!\"",
             "\\.\"Je les retire tout de suite !\"",
             "\"Haa... Haa... Merci... Joe...\"",
             "\\.\"... T'arrives à te lever ?\"",
             "\\.\"Il y a une porte...\n Alors sortons d'ici pronto !\"",
-            "\\.\"Ah, Joe ! Attends-moi !\"",
+            "\\.\"Ah, Joe ! Attends !\"",
             "\\C[3]La clé est trop grosse pour rentrer.",
             "\\C[3]La clé est trop grosse pour rentrer.",
             "\\.\\C[4](Hm...? Un bout de la clé s'est écorchée ?)",
             "\\.\\C[3]Il y a un peu de vert qui sort d'un côté.",
-            "\\.\\C[4](J'ai compris... \\C[2]Au début c'était une clé verte\\C[4],\n et de la résine rouge s'est collée par-dessus !)",
-            "\\.\\C[4](Si seulement j'avais \\C[2]quelque chose pour la gratter\\C[4],\n peut-être que je pourrais faire sortir la clé verte !)"
+            "\\.\\C[4](J'ai compris... \\C[2]Au début c'était une clé verte\\C[4],\n et de la résine rouge est collée par-dessus !)",
+            "\\.\\C[4](Si j'avais \\C[2]quelque chose pour la gratter\\C[4],\n peut-être que je pourrais faire sortir la clé verte !)"
         ],
         "6-1-message": [
-            "\\C[3]Une clé rouge. J'ai retiré mes restreintes avec."
+            "\\C[3]Une clé rouge.\nJ'ai désactivé le dispositif de retenue avec."
         ],
         "6-2-message": [
             "\\C[3]Une clé rouge.\nJ'ai désactivé le dispositif de retenue avec.",
             "\\.\\C[4](Hm...? Un bout de la clé s'est écorchée ?)",
             "\\.\\C[3]Il y a un peu de vert qui sort d'un côté.",
-            "\\.\\C[4](J'ai compris... \\C[2]Au début c'était une clé verte\\C[4],\n et de la résine rouge s'est collée par-dessus !)",
+            "\\.\\C[4](J'ai compris... \\C[2]Au début c'était une clé verte\\C[4],\n et de la résine rouge est collée par-dessus !)",
             "\\.\\C[4](Si seulement j'avais \\C[2]quelque chose pour la gratter\\C[4],\n peut-être que je pourrais faire sortir la clé verte !)"
         ],
         "6-3-message": [
-            "\\C[3]Une clé rouge. J'ai retiré mes restreintes avec.",
+            "\\C[3]Une clé rouge.\nJ'ai désactivé le dispositif de retenue avec.",
             "\\.\\C[4](Hm...? Un bout de la clé s'est écorchée ?)",
             "\\.\\C[3]Il y a une peu de vert qui sort d'un côté.",
             "\\.\\C[4](J'ai compris... \\C[2]Au début c'était une clé verte\\C[4],\n et de la résine rouge s'est collée par-dessus !)",
             "\\.\\C[4](Si seulement j'avais \\C[2]quelque chose pour la gratter\\C[4],\n peut-être que je pourrais faire sortir la clé verte !)"
         ],
         "6-4-message": [
-            "\\C[3]Une clé rouge. J'ai retiré mes restreintes avec.",
+            "\\C[3]Une clé rouge.\nJ'ai désactivé le dispositif de retenue avec.",
             "\\.\\C[4](Hm...? Un bout de la clé s'est écorchée ?)",
-            "\\.\\C[3]Il y a une peu de vert qui sort d'un côté.",
+            "\\.\\C[3]Il y a un peu de vert qui sort d'un côté.",
             "\\.\\C[4](J'ai compris... \\C[2]Au début c'était une clé verte\\C[4],\n et de la résine rouge s'est collée par-dessus !)",
             "\\.\\C[4](Si seulement j'avais \\C[2]quelque chose pour la gratter\\C[4],\n peut-être que je pourrais faire sortir la clé verte !)"
         ],
@@ -1117,9 +1117,9 @@
         ],
         "7-2-message": [
             "\\.\"... Le temps est écoulé.\"",
-            "\\.\"H... Hey, attendez une seconde!!\"",
+            "\\.\"H... Hé, attendez une seconde !!\"",
             "\\.\"Joe...!\"",
-            "\\.\"Je t'en prie... Sara...\"",
+            "\\.\"Je vous en supplie... Sara...\"",
             "\\.\"... Début de l'exécution.\"",
             "\\.\"Au secours, Joe !\"",
             "\\SP[10]..........",
@@ -1128,7 +1128,7 @@
         ],
         "20-1-message": [
             "\\C[3]Ma meilleure amie Sara restreinte par\ndes ceintures vertes.",
-            "\\.\"C... C'est pas trop le moment de me scruter !\""
+            "\\.\"C... C'est vraiment un bon moment pour me scruter ?\""
         ],
         "42-1-message": [
             "\\C[3]Une porte en acier.",
@@ -1136,9 +1136,9 @@
         ],
         "85-2-message": [
             "\\.\"... Le temps est écoulé.\"",
-            "\\.\"H... Hey, attendez une seconde!!\"",
+            "\\.\"H... Hé, attendez une seconde !!\"",
             "\\.\"Joe...!\"",
-            "\\.\"Je t'en prie... Sara...\"",
+            "\\.\"Je vous en supplie... Sara...\"",
             "\\.\"... Début de l'exécution.\"",
             "\\.\"Au secours, Joe !\"",
             "\\SP[10]..........",
@@ -1146,50 +1146,50 @@
             "\\.\\SP[10]\"Sara... aaaaa...\""
         ],
         "58-1-message": [
-            "\\C[3]Les restreintes entourent le lit.\nOn ne peut pas les enlever par la force."
+            "\\C[3]Des ceintures entourent le lit.\nOn ne peut pas les enlever de force."
         ]
     },
     "map13": {
         "1-1-message": [
             "\"Merde... On voit vraiment que dalle !\"",
             "\\.\"Je ne vois rien...\"",
-            "\"À gauche y a une impasse...\n Obligé d'aller à droite.\"",
-            "\"C... C'est pas le moment de plaisanter, Sara !\n On s'est enfuis mais ils pourraient nous rattraper !\"",
-            "\\.\\C[4](Joe est plutôt agité...)",
-            "\\.\"J'le pense vraiment, Sara.\n On doit pas se séparer.\"",
+            "\"À gauche il y a une impasse...\n On dirait qu'on est obligés d'aller à droite.\"",
+            "\"C... C'est pas le moment de plaisanter, Sara !\n On s'est échappés, mais ils pourraient nous rattraper !\"",
+            "\\.\\C[4](Joe a l'air assez inquiet...)",
+            "\\.\"Je le pense vraiment, Sara.\n On doit pas se faire séparer.\"",
             "\\.\"Oui...\"",
-            "\\.\\C[3]Nous continuions d'avancer...",
-            "\\.\\C[3]... Mais peu importe la distance qu'on a parcourue,\nnous n'avons aperçu aucune lumière.",
+            "\\.\\C[3]Nous avons continué d'avancer...",
+            "\\.\\C[3]... Mais malgré tout ce que nous avons marché,\nnous avons aperçu aucune lumière.",
             "\\.\\C[3]On aurait dit un très... très long couloir.\nOu peut-être que nous n'avancions presque pas du tout...",
             "\\.\"Joe...\"",
-            "\"Le téléphone de tout à l'heure...\n Tu pourrais essayer de l'allumer ?\"",
-            "\\.\"Ah, ouais ! Pas bête, Sara !\"",
-            "\\.\"Tu l'as sur toi ?\"",
+            "\"Le téléphone de tout à l'heure...\n Tu pourrais essayer de l'allumer pour avoir de la lumière ?\"",
+            "\\.\"Pas bête, Sara ! Ce que t'es intelligente !\"",
+            "\\.\"Tu l'as pris avec toi ?\"",
             "\\.\"Ah... Je l'ai laissé là-bas...\"",
             "\\.\"... Tant pis, alors.\"",
             "\\.\"Hmm... Qu'est-ce qui pourrait nous éclairer...?\"",
-            "\\.\\C[3]Nous commençions à chercher, quand soudainement...",
-            "\"Je n'entends personne dans les environs.\n Ne devrions-nous pas courir avant que quelqu'un ne vienne ?\"",
-            "\\.\"... Je suis pas hyper fan, mais...\n Si tu le fais, j'te suis !\"",
+            "\\.\\C[3]Nous commencions à chercher, quand soudainement...",
+            "\"Je n'entends personne dans les environs.\n Ça serait pas une bonne idée de courir avant que quelqu'un n'arrive ?\"",
+            "\\.\"... Je suis pas hyper fan, mais...\n Si tu le fais, je te suis !\"",
             "\\.\"Mais je peux te demander quelque chose ?\"",
             "\\.\"Quoi ?\"",
             "\\.\"T'es plus rapide que moi, pas vrai...?\"",
-            "\\.\"... Je ne t'abandonnerai pas.\"",
+            "\\.\"... Je ne t'abandonnerais pas.\"",
             "\\.\"Alors on y va...!\"",
             "\\.\"Un, deux, et...\"",
-            "\\.\\C[3]À l'instant même où nous nous apprêtions à courir...",
+            "\\.\\C[3]Au moment même où nous nous apprêtions\nà courir, soudainement...",
             "\\.\"Que... Ouah ?!\"",
-            "\\.\"... Waaah ?!\"",
+            "\\.\"... Ouaaah ?!\"",
             "\\.\\C[3]Du vent souffle d'en dessous...?!",
             "\\.\\C[3]Mes pieds ne touchent plus le sol.",
             "\\.\\C[3]Je suis en l'air...?",
             "\\.\"Non !! On est en train de... tomber ?!\"",
-            "\\.\\C[3]Le sol a cédé...!",
+            "\\.\\C[3]Le sol a cédé... !",
             "\\.\"Hii...!\"",
             "\\.\\C[3]Combien de temps...?",
             "\\.\\C[3]Quelle hauteur...?",
-            "\\.\\C[3]De quelle hauteur chutons-nous...?",
-            "\\.\\C[3]Je sens... ma conscience se dissiper...",
+            "\\.\\C[3]De quelle hauteur chutons-nous... ?",
+            "\\.\\C[3]Je sens... mes sens se dissiper...",
             "\\.\"Hey. Debout.\""
         ],
         "1-1-choice": [
@@ -1200,62 +1200,62 @@
     "map14": {
         "1-1-message": [
             "\"Allô ?\"",
-            "\\.\"J'espère que vous ne comptiez pas passer\n toute la journée à dormir, madame.\"",
+            "\\.\"J'espère que vous ne comptiez pas passer\n toute la journée abasourdie comme ça, madame.\"",
             "\\.\"Hein...?\"",
             "\\.\"Où suis-je...?\"",
             "\\.\"Bonne question...\"",
             "\\.\"Ah...\"",
             "\\.\"...\"",
-            "\\.\\C[3]Je suis en vie...",
-            "\\.\\C[3]Et je n'ai pas une seule égratignure...",
+            "\\.\\C[3]Je suis vivante...",
+            "\\.\\C[3]Je n'ai même pas une seule égratignure...",
             "\\.\\C[4](!! Des gens...!)",
             "\"Vous êtes qui, vous ?!\n Et c'est quoi, cet endroit ?!\"",
-            "\\.\"Comme si on l'savait !\n Alors calme-toi, miss !\"",
-            "\\.\"N'y a-t'il donc personne ici qui\n pourrait nous expliquer ?!\"",
+            "\\.\"Comme si on l'savait !\n Calme-toi, miss !\"",
+            "\\.\"N'y a-t'il donc personne ici qui pourrait nous\n expliquer ce qu'il se passe?!\"",
             "\\.\"Mais que se passe-t-il... ? Comme c'est troublant...\"",
-            "\\.\\C[3]Ils sont trop distraits pour me remarquer.",
-            "\\.\\C[4](Mais... qu'est-ce qu'il se passe ?)"
+            "\\.\\C[3]On dirait qu'ils sont trop distraits\npour me remarquer.",
+            "\\.\\C[4](Mais... Qu'est-ce qu'il se passe ?)"
         ],
         "2-1-message": [
-            "\\C[3]Au milieu, une discussion mouvementée est\ncentrée autour d'un homme.",
+            "\\C[3]Au milieu, il y a une discussion\nmouvementée et centrée autour d'un homme.",
             "\"Attendez une seconde, du calme !\n Nous devrions passer en revue ce que chacun de nous sait.\"",
             "\"C'est bien beau tout ça...\n Mais je ne sais même pas quel est cet endroit !\"",
-            "\"J'ai vécu à l'instant une expérience horrifiante...\n Il semblerait que je ne parvienne donc pas à maintenir mon calme... Mouaha.\"",
+            "\"J'ai vécu à l'instant une expérience horrifiante...\n Il semblerait que je ne parvienne donc pas à\n maintenir mon calme... Mouahaha.\"",
             "\\.\\C[3]Ils ont l'air plutôt désorientés.",
             "\\.\\C[4](Hein...?)",
             "\\C[4](Joe...?)",
             "\\.\\C[4](Il porte aussi... un de ces \\C[2]colliers\\C[4]...)",
             "\\.\\C[3]Tout en frémissant, je touchais ma nuque.",
-            "\\.\\C[3]Il y a... quelque chose...",
+            "\\.\\C[3]Il y avait... quelque chose...",
             "\\.\\C[4](Un collier...?!)",
             "\\.\\C[4](Je n'arrive pas... à l'enlever...!)",
-            "\\.\\C[3]Des colliers ont été administrés à\nchacun d'entre nous...!"
+            "\\.\\C[3]Des colliers ont été administrés à chacun d'entre nous... !"
         ],
         "2-2-message": [
             "\\C[3]La discussion centrée autour de\nl'homme blond continue.",
-            "\\.\\C[4](Joe est là, mais il n'arrive pas à s'imposer.)"
+            "\\.\\C[4](Joe est là aussi, mais il n'arrive pas à s'imposer.)"
         ],
         "2-3-message": [
-            "\\C[3]Leur discussion continue.",
-            "\\.\\C[3]Mon esprit commence enfin à s'éclaircir.",
+            "\\C[3]Leur discussion continue encore.",
+            "\\.\\C[3]Je commençais enfin à reprendre mes esprits.",
             "\\.\\C[4](Il y a \\C[2]11 personnes\\C[4] ici en m'incluant...)",
             "\\.\\C[4](Et nous portons tous des \\C[2]colliers\\C[4]...)",
             "\\.\\C[4](...)",
-            "\\.\\C[4](... Mais pourquoi est-ce que Joe ne vient donc pas\n me voir ?)",
+            "\\.\\C[4](... Mais pourquoi est-ce que Joe ne vient-il donc pas\n me voir ?)",
             "\\.\\C[4](N'a-t'il pas remarqué que je suis éveillée ?)",
             "\\.\"Joe !\"",
             "\\.\"...\"",
             "\\.\"Ouf... Tu es sain et sauf.\"",
             "\\.\"Joe !\"",
-            "\\.\"OWW !!\"",
-            "\\.\"C'était peut-être un peu trop fort, mais...\n\\ ! Joe ! Tu vas bien !\"",
+            "\\.\"OUUILLE !!\"",
+            "\\.\"C'était peut-être un peu trop fort...\n\\ ! Joe ! Tu vas bien !\"",
             "\\.\"...\"",
             "\\.\"... T'es qui ?\"\\.",
             "\\.\"Qu...!!\"\\.\\.",
-            "\\.\\C[3]C'est une blague...",
+            "\\.\\C[3]C'est quoi cette blague...",
             "\\.\"Qu'est-ce que tu racontes ?!\n C'est moi, Sara !\n T'as oublié à quoi ressemble ta propre amie ?!\"",
             "\\.\"...\"",
-            "\\.\\C[4](Ne me dites pas... qu'il est sérieux quand\n il dit qu'il ne me reconnaît pas...)",
+            "\\.\\C[4](Ne me dites pas... qu'il est vraiment sérieux quand\n il dit qu'il ne me reconnaît pas...)",
             "\\.\"...\"",
             "\\.\"T'serais pas la Sara qui nage terriblement mal,\n par hasard ?\"",
             "\\.\"Kwe...\"",
@@ -1263,30 +1263,30 @@
             "\\.\"C'était plus fort que moi, désolé ! Hahaha !\"",
             "\"Hmm...\"",
             "\\.\"Joe et Sara, hein...\"",
-            "\\.\"... Vous vous connaissez ?\"",
+            "\\.\"... Vous êtes amis ?\"",
             "\\.\"Hein...?\"",
             "\\.\"O... Oui, on est amis...\"",
-            "\\.\"Je te remercie.\n Joe ne parlait pas beaucoup, tu comprends...\"",
-            "\\.\"Il voulait sûrement rester prudent...\n Il refusait même de dire son nom.\"",
+            "\\.\"Je te remercie.\n Joe ne parlait pas beaucoup, vois-tu...\"",
+            "\\.\"Il devait être méfiant...\n Il refusait même de me donner son nom.\"",
             "\\.\"...\"",
-            "\\.\"Bon, tout le monde, écoutez-moi.\"",
-            "\\.\"Je parie qu'on pense tous à la même chose.\"",
+            "\\.\"Bon aller, tout le monde, écoutez-moi.\"",
+            "\\.\"Je parie qu'on pense tous la même chose.\"",
             "\\.\"Où est-ce que je suis ?\n Pourquoi m'a-t-on emmené ici ?\"",
             "\\.\"Et tout ce que vous savez, c'est qui vous êtes.\"",
             "\\.\"Où voulez-vous en venir...?\"",
-            "\\.\"Pourquoi ne pas nous \\C[2]présenter\\C[0] ?\n Ça devrait au moins nous rendre moins suspicieux.\"",
+            "\\.\"Pourquoi ne pas nous \\C[2]présenter\\C[0] ?\n Ça devrait nous rendre un peu moins suspicieux.\"",
             "\\.\"Des présentations, vous dites ?\"",
             "\\.\"On peut pas faire grand chose d'autre.\"",
             "\\.\"Pas vrai, Sara ?\"",
             "\\.\"Hein...? C'est à moi que tu le demandes ?\"",
-            "\\.\"Oui... J'aimerais éclaircir la situation.\"",
+            "\\.\"Oui... J'aimerais éclaircir notre situation.\"",
             "\\.\"... Vous voyez, les personnes calmes savent\n comment agir.\"",
             "\\.\"Je préférerais que tu ne sois pas\n si familier avec moi...\"",
             "\\.\"Raison de plus pour nous présenter.\n Sinon je ne saurai pas comment m'y prendre.\"",
-            "\\.\"Okay, on commencera quand tu seras prête.\n Fais-moi signe quand c'est bon, Sara.\""
+            "\\.\"Okay, quand tu seras prête, on se présentera.\n Fais-moi signe quand c'est bon, Sara.\""
         ],
         "2-3-choice": [
-            "Appeler Joe\nRun up and punch Joe",
+            "Appeler Joe\nCourir et frapper Joe",
             "Je suis du même avis\nNe sois pas si amical avec moi"
         ],
         "2-4-choice": [
@@ -1294,47 +1294,48 @@
         ],
         "3-1-message": [
             "\\C[3]En regardant à droite, je remarque une femme\nparticulièrement énervée.",
-            "\"Graaah !! On s'est fait enlever !\n Et par des gros cinglés !!\"",
-            "\\.\"Moins fort, miaou !!\n Crie pas dans mes oreilles, wouf !!\"",
-            "\\.\"A... Allons... Se battre n'amènera rien.\"",
-            "\\.\\C[3]Je peux sentir la tension dans l'air.",
-            "\\.\\C[4](Il y a même des collégiens, ici...?)"
+            "\"Graaah !! On s'est fait enlever !\n Par des gros cinglés !!\"",
+            "\\.\"Moins fort, miaou !!\n Crie pas dans mes oreilles, ouaf !!\"",
+            "\\.\"A... Allons... Se battre n'amènera à rien.\"",
+            "\\.\\C[3]Je pouvais sentir la tension dans l'air.",
+            "\\.\\C[4](Il y a même des enfants d'école primaire, ici...?)"
         ],
         "3-2-message": [
             "\\C[3]Je peux sentir la tension dans l'air.",
-            "\\.\\C[4](Je suis de plus en plus mal à l'aise...)"
+            "\\.\\C[4](Je suis moi-même de plus en plus mal à l'aise...)"
         ],
         "4-1-message": [
             "\\C[3]Des personnes un peu plus calmes discutent\nsur la gauche.",
-            "\"Y s'passe quoi...?\n On dirait qu'on est dans le pétrin, là.\"",
-            "\"En effet... On dirait bien.\"",
-            "\\.\\C[4](Tiens... Ai-je déjà rencontré cet homme\n quelque part...?)",
+            "\"Y s'passe quoi...?\n On dirait qu'on est dans un sacré pétrin, là.\"",
+            "\"En effet... Il semblerait bien.\"",
+            "\\.\\C[4](Tiens... Ai-je déjà rencontré cet homme\n auparavant...?)",
             "\"... Ooooh...\"",
             "\\.\\C[3]La petite fille assise a l'air terriblement effrayée.",
-            "\\.\\C[4](Peut-être qu'il lui est arrivé quelque chose...?!)"
+            "\\.\\C[4](Lui est-il arrivé quelque chose...?!)"
         ],
         "4-2-message": [
-            "\\C[3]Il y a ces deux hommes surveillant les environs de\nmanière vigilante...",
+            "\\C[3]Il y a deux hommes surveillant les environs de\nmanière vigilante...",
             "\\C[3]Et une petite fille terrifiée.",
             "\\.\\C[4](Ce n'est clairement pas une peur ordinaire...)"
         ],
         "2-4-message": [
-            "\"Très bien. On peut commencer les présentations ?\""
+            "\"Très bien. On peut commencer les présentations ?\"",
+            "\"C'est parti.\""
         ]
     },
     "map15": {
         "1-1-message": [
-            "\"Hehem... Donc du coup, je pense qu'il faudrait qu'on\n se connaisse un minimum.\"",
-            "\\.\"Et mia-lors? Ma maman m'a dit de pas parler\n aux étrangers, wouf !\"",
+            "\"Hehem... Donc du coup, je pense qu'on devrait\n tous se connaître un peu plus.\"",
+            "\\.\"Et mia-lors? Maman m'a dit de pas donner d'infos\n personnelles aux gens bizarres que je connais pas, ouaf !\"",
             "\\.\"Prodigieux ! Un jeune enfant réfléchi qui fait\n ce que ses parents lui apprennent !\"",
-            "\\.\"Tout de même, nous sommes dans une situation\n particulièrement préoccupante... Hrmmm.\"",
-            "\\.\"Ainsi, nous, les adultes, devrons prouver que\n nous ne représentons aucun danger... Mwahaha...\"",
-            "\\.\"Ouah... Super suspect, wouf.\"",
-            "\\.\"Rien à redire. Bien, par où commencer ?\""
+            "\\.\"Tout de même, nous sommes là dans une situation\n particulièrement urgente... Hrmmm.\"",
+            "\\.\"Dans ce cas, nous, les adultes, devrons prouver que\n nous sommes pas suspicieux... Mouahaha...\"",
+            "\\.\"Ouah... Super suspect, ouaf.\"",
+            "\\.\"Rien à redire. Bien, par où commencons-nous ?\""
         ],
         "1-3-message": [
-            "\\.\"Ah... Je devrais me présenter aussi.\"",
-            "\\.\"Bon... bah quand faut y aller, faut y aller, wouf !\n C'est, genre, une réponse d'adulte, miaou !\""
+            "\\.\"Ah... Je devrais bientôt me présenter aussi.\"",
+            "\\.\"Bon... Quand faut y aller, faut y aller, ouaf !\n C'est, vous savez, la chose mature à faire, miaou !\""
         ]
     },
     "map28": {
@@ -1445,20 +1446,20 @@
     },
     "map16": {
         "2-1-message": [
-            "\\C[3]Nao et Reko s'occupent de Kanna.",
-            "\"Sara, ramène-toi ici si t'es en danger, okay ?\n Tu peux laisser le plus lourd aux hommes.\"",
-            "\\.\"Bon après, le gars au bonnet a pas l'air bien\n robuste non plus... Tu devrais aussi t'enfuir avec elle si ça arrive, petit.\"",
-            "\"U... Une remarque blessante... Ahaha.\"",
+            "\\C[3]Nao et Reko s'occupent de Kanna qui a perdu connaissance.",
+            "\"Sara, ramène-toi ici si t'es en danger, okay ?\n Hésite pas à laisser le plus difficile aux mecs.\"",
+            "\\.\"Bon après, le gars frêle au bonnet a pas l'air bien\n robuste non plus... Tu devrais aussi t'enfuir\n avec elle si ça arrive, petit.\"",
+            "\"Qu... Quelle remarque blessante... Ahaha.\"",
             "\"Bonne chance à tous...!\""
         ],
         "11-1-message": [
             "\\C[3]Il y a de nombreuses sorties.",
-            "\\C[3]En les examinant, on remarque que la plupart\nne mènent qu'à des impasses.",
+            "\\C[3]Quand on regarde dedans, on remarque que\nla plupart ne mènent qu'à des impasses.",
             "\"Tu vois ces énormes coussins, au fond des impasses ?\"",
             "\\.\"Je me demande si en atterrissant,\n je suis tombée sur l'un d'eux...\"",
             "\\.\"Moi aussi.\n Je parie qu'on est tous tombés de la même manière.\"",
             "\\.\"Joe était arrivé en te portant depuis ce couloir.\"",
-            "\\.\"Je ne pensais pas que vous étiez amis.\""
+            "\\.\"Je ne pensais pas que vous seriez amis, par contre.\""
         ],
         "11-3-message": [
             "\\C[3]Il y a de nombreuses sorties."
@@ -2375,5 +2376,11 @@
     },
     "items-209": {
         "name": "Petite Clé"
+    },
+    "items-78": {
+        "name": "??? de la Cuisine"
+    },
+    "items-79": {
+        "name": "??? de la Cuisine"
     }
 }
