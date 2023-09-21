@@ -47,7 +47,7 @@
             "\\.\"Hein...?\"",
             "\\.\"Mais si c'est votre choix qui a été pris, ne\n devriez-vous pas reconnaître l'intérêt de\n ces votes, du coup ?\"",
             "\\.\"... Hé bah, c'est compliqué tout ça.\"",
-            "\\.\"... Hmm ? C'est quoi ce regard ?\n \\!Si tu avais su que l'autre personne allait mourir,\n alors tu n'aurais pas voté ?\"",
+            "\\.\"... Hmm ? C'est quoi ce regard ?\n \\!Si tu avais su que l'autre personne allait mourir,\n alors tu n'aurais pas voté ?\"",
             "\\.\"Allons... Ça ne t'amènera nul part, tu sais ?\n C'est le sujet même de ce jeu...\"",
             "\\.\"... Ça n'a pas l'air de te convaincre, hein ?\"",
             "\\.\"Très bien, si tu insistes... alors votons !\n Ton opinion contre la mienne !\"",
@@ -2248,7 +2248,17 @@
             "\"Ough... Sniff...\"",
             ".\\C[4](Elle n'est pas en état de parler...)",
             "\\.\"Aaaaa... oooouh...\"",
-            "\\.\\C[4](Sans surprise, impossible pour l'instant.)"
+            "\\.\\C[4](Sans surprise, impossible pour l'instant.)",
+            "\\.\"Tu vas bien...?\"",
+            "\\.\"Aaaaa... oooouh...\"",
+            "\\.\"N'aie pas peur. Je ne te ferai aucun mal...\"",
+            "\\.\\C[3]Je place doucement ma main sur son dos tremblant...",
+            "\\.\"Aah... ?\"",
+            "\\.\"...\"",
+            "\\.\"..........\"",
+            "\\.\"Sniff... M-Merci beaucoup...\"",
+            "\\.\\C[3]Il semblerait qu'elle se soit un peu calmée.",
+            ".\\C[4](Je vais essayer de lui parler à nouveau...)"
         ],
         "1630-0-choice": [
             "Choisir ce sujet\nAnnuler",
@@ -2283,6 +2293,59 @@
         ],
         "1631-0-choice": [
             "Choisir ce sujet\nAnnuler"
+        ],
+        "42-0-choice": [
+            "Demander quand même\nEt après que vous soyez arrivées ici ?",
+            "Lui demander son nom\nLa calmer gentiment\nNe rien faire"
+        ],
+        "43-0-message": [
+            "\"J'suis Q-taro Burgerberg !\n Un joueur de baseball !\"",
+            "\"Ça arrive pas souvent du tout.\n Même avec toute ma force, j'arrive pas à\n retirer c'maudit collier...\"",
+            "\"Ouais, j'suis un sportif, mais si t'en fais trop et\n qu'tu t'fais mal, t'atteindras jamais les ligues.\"",
+            "\\.\\C[4](Même comparé au groupe,\n ce gars se démarque pas mal...)",
+            "\"J'pas la moindre idée d'où je suis né non plus !\n J'avais des parents mais ils sont partis avant\n même qu'j'puisse m'en rappeler.\"",
+            "\\.\"J'suis quand même d'nationalité Japonaise !\n ... J'sais pas pour l'dialecte, mais c'est un mélange.\"",
+            "\"Sans blaguer, c'est une bonne question.\n J'ai grandi dans un orphelinat bizarre,\n donc c'est sûrement un mélange.\"",
+            "\\.\"Mais c'était au Japon, donc c'est ma nationalité !\n ... Mes parents sont partis quand j'étais petiot,\n donc j'sais pas où j'suis né.\"",
+            "\\.\"J'suis sûr qu'tout peut s'résoudre par le dialogue !\"",
+            "\\.\"Par curiosité, je crois qu'il y a des positions\n au baseball, non...?\"",
+            "\\.\"J'suis lanceur. J'suis confiant en receveur,\n aussi, et j'ai eu même la chance d'pouvoir\n aller en Ligue Centrale.\"",
+            "\\.\"Je ne te suis pas vraiment, mais...\n Ça veut dire que tu es bon pour lancer et\n renvoyer la balle avec la batte, c'est ça ?\"",
+            "\\.\"... B-Ben... Ouaip, c'ça.\"",
+            "\\.\\C[4](Je ne connais rien en baseball non plus,\n mais il a l'air plutôt fier de sa \\C[2]force\\C[4].)",
+            "\\.\"J'étais tout content après un énorme comeback\n en fin de jeu alors j'suis allé boire un coup,\n et après j'me rappelle plus d'rien.\"",
+            "Puis, quand je me suis réveillé, j'avais un collier ici.\nComme si j'étais un chien !\"",
+            "\\.\"C'tellement décevant !\n J'arrive pas à croire que j'peux pas l'enlever !\"",
+            "\\.\\C[4](Même avec sa force, il n'arrive pas à le retirer...)"
+        ],
+        "43-0-choice": [
+            "De quel pays viens-tu ?\nQuel est ce dialecte ?"
+        ],
+        "44-0-message": [
+            "\"... Reko Yabusame.\n Je suis chanteuse et auteur-compositeur.\"",
+            "\"Si les kidnappeurs ont jeté mon équipement...\n Je vais leur botter le cul !\"",
+            "\"Comme l'a dit l'autre dragueur, mon groupe\n est devenu assez connu, au point\n d'apparaître dans des magazines.\"",
+            "\\.\"M'appelle pas \"l'autre dragueur\"...\"",
+            "\\.\"On avait enfin réussi à se faire connaître.\n Un futur brillant s'étendait devant nous...\"",
+            "\\.\"Euh... ce maquillage... c'est pour tes concerts ?\"",
+            "\\.\"T'es folle ! Mes fans pleureraient\n si je faisais des concerts aussi naturellement.\"",
+            "\\.\\C[4](C'est ça, \"naturel\", pour toi ?)",
+            "\\.\"Je venais de finir une nouvelle chanson, alors\n j'avais prévu d'aller voir le reste du groupe...\n et puis cette merde m'arrive !!\"",
+            "\\.\\C[4](Pour une séance musicale, j'imagine...?)",
+            "\\.\"... Sûrement.\n Merde... Perdre quelque chose d'aussi important...\"",
+            "\\.\"Mes précieux bongos...!\"",
+            "\\.\\C[4](Des bongos...)",
+            "\"... Bien évidemment, tout mon équipement a disparu.\"",
+            "\\.\"Mes précieux bongos, mon téléphone, ma perruque...\n Tout a disparu !\"",
+            "\\.\\C[4](Des bongos...)",
+            "\\.\"Putain de kidnappeurs ! Si vous avez jeté mes trucs,\n j'vais tellement vous enculer...!\"",
+            "\\.\"E-Est-ce vraiment le moment pour s'inquiéter de ça...?\"",
+            "\\.\"Certains de ces trucs sont plus importants\n que ma propre vie !!\"",
+            "\\.\"E-Excuse-moi !!\"",
+            "\\.\\C[4](Tout son équipement a disparu, hein...)"
+        ],
+        "44-0-choice": [
+            "Ton instrument, a-t-il été pris ?\nNe peux-tu pas les contacter ?"
         ]
     },
     "map107": {
