@@ -27,7 +27,7 @@
     "map1": {
         "1-1-message": [
             "...",
-            "\\.\"Héééééé Ea incidunt consequatur eaque et fugiat cumque quas ab. Sed id voluptas accusamus necessitatibus totam provident in dolore. Qui aperiam dolores quisquam consequatur. Sit aliquam qui labore et perferendis....\"",
+            "\\.\"Héééééé...\"",
             "\"Salut.\"",
             "\\.\"Juste une petite question...\n Tu sais ce que c'est un \\C[2]vote à la majorité\\C[0] ?\"",
             "\\.\"Ahaha, ne t'énerve pas.\n C'est toujours utile de commencer ses discussions\n par une question simple.\"",
@@ -1211,14 +1211,14 @@
             "\\.\\C[4](!! Des gens...!)",
             "\"Vous êtes qui, vous ?!\n Et c'est quoi, cet endroit ?!\"",
             "\\.\"Comme si on l'savait ! Calme-toi, la miss !\"",
-            "\\.\"N'y a-t'il donc personne ici qui pourrait nous\n expliquer ce qu'il se passe ?!\"",
+            "\\.\"N'il a-t'il donc personne ici qui pourrait nous\n expliquer ce qu'il se passe ?!\"",
             "\\.\"Mais que se passe-t-il... ? Comme c'est troublant...\"",
             "\\.\\C[3]On dirait qu'ils sont trop distraits\npour me remarquer.",
             "\\.\\C[4](Mais... Qu'est-ce qu'il se passe ?)"
         ],
         "2-1-message": [
             "\\C[3]Au milieu, il y a une discussion\nmouvementée et centrée autour d'un homme.",
-            "\"Attendez une seconde, du calme !\n Nous devrions passer en revue ce que chacun de nous sait.\"",
+            "\"Attendez une seconde, du calme !\n Nous devrions passer en revue ce\n que chacun de nous sait.\"",
             "\"C'est bien beau tout ça...\n Mais je ne sais même pas quel est cet endroit !\"",
             "\"J'ai vécu à l'instant une expérience horrifiante...\n Il semblerait que je ne parvienne donc pas à\n maintenir mon calme... Mouahaha.\"",
             "\\.\\C[3]Ils ont l'air plutôt désorientés.",
@@ -1229,7 +1229,7 @@
             "\\.\\C[3]Il y avait... quelque chose...",
             "\\.\\C[4](Un collier...?!)",
             "\\.\\C[4](Je n'arrive pas... à l'enlever...!)",
-            "\\.\\C[3]Des colliers ont été administrés à chacun d'entre nous... !"
+            "\\.\\C[3]Des colliers ont été administrés\nà chacun d'entre nous... !"
         ],
         "2-2-message": [
             "\\C[3]La discussion centrée autour de\nl'homme blond continue.",
@@ -1241,21 +1241,21 @@
             "\\.\\C[4](Il y a \\C[2]11 personnes\\C[4] ici en m'incluant...)",
             "\\.\\C[4](Et nous portons tous des \\C[2]colliers\\C[4]...)",
             "\\.\\C[4](...)",
-            "\\.\\C[4](... Mais pourquoi est-ce que Joe ne vient-il donc pas\n me voir ?)",
+            "\\.\\C[4](... Mais pourquoi est-ce que Joe\n ne vient-il donc pas me voir ?)",
             "\\.\\C[4](N'a-t'il pas remarqué que je suis éveillée ?)",
             "\\.\"Joe !\"",
             "\\.\"...\"",
             "\\.\"Ouf... Tu es sain et sauf.\"",
             "\\.\"Joe !\"",
             "\\.\"OUUILLE !!\"",
-            "\\.\"C'était peut-être un peu trop fort...\n\\ ! Joe ! Tu vas bien !\"",
+            "\\.\"C'était peut-être un peu trop fort...\n\\! Joe ! Tu vas bien !\"",
             "\\.\"...\"",
             "\\.\"... T'es qui ?\"\\.",
             "\\.\"Qu...!!\"\\.\\.",
             "\\.\\C[3]C'est quoi cette blague...",
-            "\\.\"Qu'est-ce que tu racontes ?!\n C'est moi, Sara !\n T'as oublié à quoi ressemble ta propre amie ?!\"",
+            "\\.\"Qu'est-ce que tu racontes ?! C'est moi, Sara !\n T'as oublié à quoi ressemble ta propre amie ?!\"",
             "\\.\"...\"",
-            "\\.\\C[4](Ne me dites pas... qu'il est vraiment sérieux quand\n il dit qu'il ne me reconnaît pas...)",
+            "\\.\\C[4](Ne me dites pas... qu'il est vraiment sérieux\n quand il dit qu'il ne me reconnaît pas...)",
             "\\.\"...\"",
             "\\.\"T'serais pas la Sara qui nage terriblement mal,\n par hasard ?\"",
             "\\.\"Kwe...\"",
@@ -1280,7 +1280,7 @@
             "\\.\"Pas vrai, Sara ?\"",
             "\\.\"Hein...? C'est à moi que tu le demandes ?\"",
             "\\.\"Oui... J'aimerais éclaircir notre situation.\"",
-            "\\.\"... Vous voyez, les personnes calmes savent\n comment agir.\"",
+            "\\.\"... Vous voyez, les personnes calmes\n savent comment agir.\"",
             "\\.\"Je préférerais que tu ne sois pas\n si familier avec moi...\"",
             "\\.\"Raison de plus pour nous présenter.\n Sinon je ne saurai pas comment m'y prendre.\"",
             "\\.\"Okay, quand tu seras prête, on se présentera.\n Fais-moi signe quand c'est bon, Sara.\""
@@ -1326,7 +1326,7 @@
     "map15": {
         "1-1-message": [
             "\"Hehem... Donc du coup, je pense qu'on devrait\n tous se connaître un peu plus.\"",
-            "\\.\"Et mia-lors? Maman m'a dit de pas donner d'infos\n personnelles aux gens bizarres que je connais pas, ouaf !\"",
+            "\\.\"Et mia-lors? Maman m'a dit de pas donne\n d'infos personnelles aux gens bizarres\n que je connais pas, ouaf !\"",
             "\\.\"Prodigieux ! Un jeune enfant réfléchi qui fait\n ce que ses parents lui apprennent !\"",
             "\\.\"Tout de même, nous sommes là dans une situation\n particulièrement urgente... Hrmmm.\"",
             "\\.\"Dans ce cas, nous, les adultes, devrons prouver que\n nous sommes pas suspicieux... Mouahaha...\"",
@@ -2122,6 +2122,167 @@
         "290-0-choice": [
             null,
             "Aller à l'écran titre\nRechoisir"
+        ],
+        "40-0-message": [
+            "\"Hé, vous pouvez faire simple.\n Nom et profession... Faites juste chacun votre tour.\"",
+            "\"C'est la meilleure chose à faire.\"",
+            "\\.\"...\"",
+            "\\.\"Mmmm, je comprends. Les méfiants peuvent attendre.\n Levez la main si ça vous gêne pas de papoter.\"",
+            "\"Bonjour, je suis \\C[2]Kazumi Mishima\\C[0].\n J'enseigne dans un certain lycée... Mouahaha...\"",
+            "\\.\"Heiin... ? T'es professeur, ouaf ?\n Le monde a plus autant de chien qu'avant, miaou.\"",
+            "\\.\"Bouhouhou...\"",
+            "\"... Moi c'est \\C[2]Reko Yabusame\\C[0].\n Je suis chanteuse et auteur-compositeur.\"",
+            "\\.\"Oh ! Je crois que je t'ai déjà vue dans des magazines !\n C'est toi LA Reko Yabusame ?!\"",
+            "\\.\"... Mec. C'est le moment, là ?\"",
+            "\\.\"Désolé...\"",
+            "\"... Je suis \\C[2]Kai Satou\\C[0].\n Je suis un assistant ménager assez banal.\"",
+            "\\.\"C'est quoi ce que t'as derrière ton dos...?\"",
+            "\\.\"Ce sont une poêle... une louche... et une spatule.\"",
+            "\\.\"C... C'est pas ce que je voulais dire...\"",
+            "\"\\C[2]Q-taro Burgerberg\\C[0] !\n J'suis un joueur de baseball !\n J'suis qu'remplaçant, par contre !\"",
+            "\\.\"Ouaaah... C'est pour ça que t'es si grand !\"",
+            "\\.\"1 mètre 93 de haut ! Et en plus j'suis musclé !\"",
+            "\"... On dirait que personne d'autre veut s'exprimer.\"",
+            "\\.\"Bon, Sara, et si t'essayais de leur\n poser des questions ?\"",
+            "\\.\"M-Moi ?\"",
+            "\\.\"Ouaip. Contrairement à moi, ils ne se\n méfient pas de toi, pas vrai ?\"",
+            "\\.\"Je comprends.\"",
+            "\\C[4](J'ai bien envie de les questionner, mais...)",
+            "\\C[4](Je suis un peu inquiète pour cette fille...)",
+            "\\.\\C[4](Je commencerai par ce qui me préoccupe le plus.)",
+            "Contrôles",
+            "\\.Touchez le visage d'une personne pour\nécouter leur témoignage.",
+            "\\.En touchant \\C[2]Extraire\\C[0] puis en parlant à\nquelqu'un, vous pouvez extraire des\ndéclarations supplémentaires."
+        ],
+        "40-0-choice": [
+            "Choisir ce sujet\nAnnuler"
+        ],
+        "41-0-message": [
+            "\"Hein ? Je me suis pas déjà présenté ?\"",
+            "\"Je suis \\C[2]Keiji Shinogi\\C[0.]\nJe travaille en tant que policier.\"",
+            "\\.\"Toi et Joe êtes amis, c'est ça ?\n Si seulement je connaissais quelqu'un, ici...\"",
+            "\"Je m'appelle \\C[2]Keiji Shinogi\\C[0].\n J'suis policier.\"",
+            "\\.\"Hein ?! T'es policier ?!\"",
+            "\\.\"C'est bien ça. Et tu ferais mieux de pas m'embêter.\n ... Enfin, non pas que je sois vraiment ce type de flic.\"",
+            "\\.\"M... Mais t'aurais du le dire plus tôt !\"",
+            "\\.\"Je me suis fait enlever au beau milieu d'une enquête.\n Je pouvais pas juste le cracher comme ça.\"",
+            "\\.\"J'aurais pas dû être méfiant... Merde...\"",
+            "\"... Je me demande si on s'est fait attraper par\n cette organisation criminelle.\"",
+            "\\.\"...\"",
+            "\"Un groupe de petits voleurs. Pour être honnête,\n je doute qu'ils aient un lien avec tout ça.\"",
+            "\"J'étais avec ma partenai.. enfin, une collègue.\n Mais je me suis retrouvé seul juste une seconde,\n je me suis fait assommer, et me voilà.\"",
+            "\\.\"Et aucun de tes collègues est ici ?\"",
+            "\\.\"Pas un seul.\"",
+            "\\.\\C[4](Alors tout le monde n'est pas arrivé par pair...)"
+        ],
+        "41-0-choice": [
+            "Une organisation criminelle ?\nTu enquêtais seul ?"
+        ],
+        "42-0-message": [
+            "*tremble tremble tremble*...",
+            "\"..........\"",
+            "\\.\"Tu vas bien...?\"",
+            "\\.\"Si tu t'es calmée, tu pourrais me parler ?\"",
+            "\\.\"... Eum...\"",
+            "\\.\"Je dirai juste... que je suis \\C[2]Kanna Kizuchi\\C[0]...\"",
+            "\\.\\C[4](Elle arrive à s'exprimer maintenant...)",
+            "\\.\"Kanna... Tu pourrais m'en dire plus à ton sujet ?\"",
+            "\\.\"... D'accord...\"",
+            "\\.\"... Euh... Je suis... au collège...\n Et... eum, euh...\"",
+            "\\.\"Ça va aller, tu peux prendre ton temps.\"",
+            "\\.\"... Je rentrais à la maison... avec ma grande soeur...\n On mangeait des glaces...\"",
+            "\\.\"On marchait et on parlait...\n de ce qu'on aurait au dîner..\"",
+            "\\.\"... D'un coup... d'effrayantes personnes sont\n sorties d'une voiture noire garée sur la route...\"",
+            "\\.\"Je vois... Ça a dû être effrayant.\"",
+            "\\.\"Oui...\"",
+            "\\.\\C[4](Sa sœur...)",
+            "\\.\\C[4](De la manière dont elle le raconte, on dirait\n qu'elles se sont toutes les deux faites enlevées, pourtant...)",
+            "\\.\\C[4](Il n'y a que Kanna, ici...)",
+            "\\.\\C[4](J'ai un mauvais pressentiment... je pense\n que je ne devrais pas lui demander maintenant.)",
+            "\\.\"... Tu n'étais pas avec ta sœur ?\"",
+            "\\.\"... Avec... elle...\"",
+            "\\.\"J'étais avec elle...\"",
+            "\\.\"... Sœurette...\"",
+            "\\.\"... Ma sœur...\"",
+            "\\.\"... Tu pourrais m'en dire plus sur ce qu'il\n s'est passé après que tu sois arrivée ici ?\"",
+            "\\.\"... Ici ?\"",
+            "\\.\"Après... mon arrivée ici...\"",
+            "\\.\"... Ma ... sœur.\"",
+            "\\.\"... Ma sœur...\"",
+            "\\.\"...\"",
+            "\\.\"... Ahhhhh...\"",
+            "\\.\\SP[12]\\C[10]\"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHHHHHH !!\"",
+            "\\.\"Elle est morte !!\"\\.\\.\\^",
+            "\\.\"Ma sœur !\"\\.\\.\\^",
+            "\\.\"Pourquoi ?!\"\\.\\^",
+            "\\.\"Comment ?!\"\\.\\.\\^",
+            "\\.\"C'est de ma faute !\\. Ma sœur !!\"\\.\\.\\^",
+            "\\.\\SP[15]\\C[10]\"OUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHHH !!\"",
+            "\\.\"Sara.\n Comment va Kanna...?\"",
+            "\\.\"On dirait qu'elle s'est évanouie...\"",
+            "\\.\"Merde, c'est vraiment un truc de taré !\n Elle est MORTE...?!\"",
+            ".\\\" Elle a fait quoi cette pauvre fille, hein !?\nIl a pas de cœur, le coupable, ou quoi ?!\"",
+            "\\.\"On dirait... que ce n'est pas juste\n une mauvaise blague.\"",
+            "\\.\"J... Je n'aime pas ça...\n C'est juste... juste horrible...\"",
+            "\\.\"Allons, tout le monde, gardez votre calme.\n Vous avez votre ami le policier avec vous.\"",
+            "\\.\"Hey, Keiji ! C'est toi le gars de confiance, ici !\n On devrait faire quoi ?!\"",
+            "\\.\"... T'as vite changé de ton.\"",
+            "\\.\"Hé bien, commençons par le commencement.\n Pourquoi ne pas revenir sur ce que chacun\n de nous a trouvé ici ?\"",
+            "\\.\"Ça m'a l'air d'être une bonne idée.\"",
+            "\\.\"C'exactement ce qu'j'voulais dire !\n Là, j'ai ramassé c'truc.\"",
+            "\\.\"C'est une boîte énorme, miaou !\"",
+            "\\.\"Je parie qu'une pastèque pourrait rentrer dedans...\"",
+            "\\.\"Tu l'as trouvée... durant la Première Épreuve ?\"",
+            "\\.\"Ouaip. J'veux dire, porter cette boîte\n était l'objectif même de ma Première Épreuve...\"",
+            "\\.\"Attends, quoi ?!\n On a pas tous eu les même Premières Épreuves ?\"",
+            "\\.\"On peut en discuter plus tard.\n D'abord, ouvrons cette boîte.\"",
+            "\\.\"On peut pas. Regarde, elle a des serrures.\"",
+            "\\.\"Sara, t'as une idée ?\"",
+            "\\.\"Que... ! Moi ?\"",
+            "\\.\"J'aime juste te prendre par surprise.\"",
+            "\\.\\C[4](Quelle raison pourrie...)",
+            "Contrôles",
+            "Touchez un \\C[2]objet\\C[0] en votre possession,\net vous pourrez l'utiliser sur quelqu'un\nou quelque chose.",
+            "\"..........\"",
+            "\\.\\C[4](Elle n'est toujours pas en condition de parler...)",
+            "\"Ough... Sniff...\"",
+            ".\\C[4](Elle n'est pas en état de parler...)",
+            "\\.\"Aaaaa... oooouh...\"",
+            "\\.\\C[4](Sans surprise, impossible pour l'instant.)"
+        ],
+        "1630-0-choice": [
+            "Choisir ce sujet\nAnnuler",
+            "Choisir ce sujet\nAnnuler"
+        ],
+        "30-0-choice": [
+            "Choisir ce sujet\nAnnuler"
+        ],
+        "57-0-choice": [
+            "Choisir ce sujet\nAnnuler"
+        ],
+        "124-0-choice": [
+            "Choisir ce sujet\nAnnuler"
+        ],
+        "125-0-choice": [
+            "Choisir ce sujet\nAnnuler"
+        ],
+        "126-0-choice": [
+            "Choisir ce sujet\nAnnuler"
+        ],
+        "163-0-choice": [
+            "Choisir ce sujet\nAnnuler"
+        ],
+        "239-0-choice": [
+            "Choisir ce sujet\nAnnuler"
+        ],
+        "473-0-choice": [
+            "Choisir ce sujet\nAnnuler"
+        ],
+        "981-0-choice": [
+            "Choisir ce sujet\nAnnuler"
+        ],
+        "1631-0-choice": [
+            "Choisir ce sujet\nAnnuler"
         ]
     },
     "map107": {
@@ -2382,5 +2543,24 @@
     },
     "items-79": {
         "name": "??? de la Cuisine"
+    },
+    "map137": {
+        "1-1-message": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            ""
+        ]
     }
 }
