@@ -188,7 +188,7 @@
         "itemdesc53": "Un mannequin qui me ressemble spectaculairement.",
         "itemdesc55": "Un bouchon trouvé au fond d'un bain.\\nLourd mais petit.",
         "itemdesc57": "Le portrait d'une personne tenant un pistolet.",
-        "itemdesc63": "Une ampoule qui permet d'illuminer des pièces.",
+        "itemdesc63": "Une ampoule qui permet d'illuminer une pièce.",
         "itemdesc65": "La fleur d'un vase.",
         "itemdesc67": "Une grande aiguille et une petite aiguille.\\nPas assez pointues pour percer quoi que ce soit.",
         "itemdesc69": "Une bouteille servant à transporter des liquides.",
@@ -196,9 +196,9 @@
         "itemdesc75": "Des outils qui servent à retirer des vis entre autres.",
         "itemdesc79": "Une monnaie pas utilisable au Japon.",
         "itemdesc81": "Une monnaie utilisable au Japon.\n1000 yens équivalent à un peu plus de 6 euros.",
-        "itemdesc83": "Une bonne fléchette. Elle est très solide.",
+        "itemdesc83": "Une jolie fléchette. Elle est très solide.",
         "itemdesc85": "Une arme qui tire des balles. Peut-être chargé\\njusqu'à 9 balles dans sa chambre circulaire.",
-        "itemdesc89": "Peuvent être chargées dans un pistolet.\\nExtrêmement léthales.",
+        "itemdesc89": "Peuvent être chargées dans un pistolet puis tirées.\\nExtrêmement létales.",
         "itemdesc91": "Un outil pour couper les cigares et les fumer.",
         "itemdesc93": "Un cigare de haute qualité.",
         "itemdesc95": "Un briquet Zippo chic.",
@@ -211,10 +211,10 @@
         "name_変なおっさん": "Homme étrange",
         "itemextradesc42": "Sage : Grâce à une sainte divination, il sait qui est le Maître des Clefs,\\nmais ne peut mentir sur le résultat d'une divination.",
         "itemdesc59": "Le portrait d'une personne tenant un pistolet.\\nIl y a un autre portrait derrière.",
-        "itemdesc61": "Un outil pour vaporiser le liquide à l'intérieur.\\nDes gouttelettes d'eau s'y collent.",
+        "itemdesc61": "Un outil servant à vaporiser le liquide qu'il\\n\ncontient. Des gouttelettes d'eau y sont collées.",
         "itemdesc71": "Une carte. Il y est écrit \"Ceci est la clé de la sortie.\\nVous mourez si qui que ce soit\\napprends l'existence de cette carte.\"",
-        "itemdesc77": "Une note avec des noms inscrits, incluant celui de\\nMishima. Il y a aussi le nom Alice Yabusame.",
-        "itemdesc87": "De fausses balles. Si vous les tirez, il ne se produit qu'un son.",
+        "itemdesc77": "Une note avec des noms inscrits dessus, incluant\\ncelui de Mishima. Il y a aussi le nom Alice Yabusame.",
+        "itemdesc87": "De fausses balles.\\nQuand on les tire, elles ne font qu'un son.",
         "dtext_発言力：": "Influence : ",
         "name_サラ（モニター）": "Sara (Écran)",
         "firsttrialcode": "3141",
@@ -480,6 +480,9 @@
     "map114": {
         "1-1-message": [
             "Voir le résumé du Chapitre 1 ?"
+        ],
+        "1-1-choice": [
+            "Oui\nNon"
         ]
     },
     "map172": {
@@ -1335,7 +1338,7 @@
         ],
         "1-3-message": [
             "\\.\"Ah... Je devrais bientôt me présenter aussi.\"",
-            "\\.\"Bon... Quand faut y aller, faut y aller, ouaf !\n C'est, vous savez, la chose mature à faire, miaou !\""
+            "\\.\"Bon, d'accord... J'ai compris, ouaf !\n C'est, vous savez, la chose mature à faire, miaou !\""
         ]
     },
     "map28": {
@@ -1424,6 +1427,57 @@
         ],
         "26-1-message": [
             "\\C[3]Un briquet Zippo chic."
+        ],
+        "4-1-choice": [
+            "Oui\nNon",
+            "Oui\nNon"
+        ],
+        "5-3-choice": [
+            "Oui\nNon"
+        ],
+        "6-3-choice": [
+            "Oui\nNon"
+        ],
+        "7-3-choice": [
+            "Oui\nNon"
+        ],
+        "9-3-choice": [
+            "Oui\nNon"
+        ],
+        "11-3-choice": [
+            "Oui\nNon"
+        ],
+        "17-3-choice": [
+            "Oui\nNon"
+        ],
+        "18-3-choice": [
+            "Oui\nNon"
+        ],
+        "19-3-choice": [
+            "Oui\nNon"
+        ],
+        "24-1-message": [
+            "\\C[3]Un coupe-cigare.\nUn outil coupant les cigares afin de les fumer."
+        ],
+        "25-1-message": [
+            "\\C[3]Un cigare dans un emballage de haute qualité."
+        ],
+        "29-1-message": [
+            "\\C[3]Des vraies balles. J'en ai 3.\nPeuvent être chargées dans un pistolet puis tirées.\nExtrêmement létales."
+        ],
+        "27-1-message": [
+            "\\C[3]Un revolver.\nUne arme qui tire des balles. Elle peut en\ncharger jusqu'à 9 dans sa chambre circulaire.\nÀ quoi peut bien servir le trou en son centre... ?",
+            "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet."
+        ],
+        "28-1-message": [
+            "\\C[3]Des fausses balles. J'en ai 6. Si on les tire,\nelles ne font que du bruit."
+        ],
+        "8-3-choice": [
+            "Oui\nNon"
+        ],
+        "23-1-message": [
+            null,
+            "\\.\\C[3]Devrait pouvoir être combinée avec un autre objet."
         ]
     },
     "map36": {
@@ -1465,8 +1519,8 @@
             "\\C[3]Il y a de nombreuses sorties."
         ],
         "12-1-message": [
-            "\\C[3]Un revolver.\nUne arme qui tire des balles. Elle peut en\ncharger jusqu'à 9 dans sa chambre circulaire.\nÀ quoi peut bien servir le trou en son centre...?",
-            "\\.\\C[3]Peut être combiné avec un autre objet.",
+            "\\C[3]Un revolver.\nUne arme qui tire des balles. Elle peut en\ncharger jusqu'à 9 dans sa chambre circulaire.\nÀ quoi peut bien servir le trou en son centre... ?",
+            "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet.",
             "La Fléchette est insérée dans le trou\nau centre du Revolver.",
             "\\C[3]\\C[2]Fléchette\\C[3] combinée avec le \\C[2]Revolver\\C[3] !",
             "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
@@ -1475,13 +1529,13 @@
             "Combiner\nAnnuler"
         ],
         "13-1-message": [
-            "\\C[3]Des fausses balles. J'en ai 6. Quand elles sont\ntirées, elles ne font que du bruit."
+            "\\C[3]Des fausses balles. J'en ai 6. Si on les tire,\nelles ne font que du bruit."
         ],
         "14-1-message": [
-            "\\C[3]Des vraies balles. J'en ai 3.\nPeuvent être chargées dans un pistolet.\nExtrêmement léthales."
+            "\\C[3]Des vraies balles. J'en ai 3.\nPeuvent être chargées dans un pistolet puis tirées.\nExtrêmement létales."
         ],
         "15-1-message": [
-            "\\C[3]Un cigare de haute qualité."
+            "\\C[3]Un cigare dans un emballage de haute qualité."
         ],
         "11-2-message": [
             "\\C[3]Il y a de nombreuses sorties."
@@ -1490,14 +1544,14 @@
             "\\C[3]Un briquet Zippo chic."
         ],
         "17-1-message": [
-            "\\C[3]Un coupe-cigare.\nUn outil pour couper les cigares et les fumer."
+            "\\C[3]Un coupe-cigare.\nUn outil coupant les cigares afin de les fumer."
         ],
         "18-1-message": [
             "\\C[3]Un billet de 1000 yens.\nUne monnaie utilisable au Japon.\n1000 yens équivalent à un peu plus de 6 euros."
         ],
         "19-1-message": [
             "\\C[3]Une jolie fléchette.\nElle est très solide.",
-            "\\.\\C[3]Peut être combiné avec un autre objet.",
+            "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet.",
             "La Fléchette est insérée dans le trou\nau centre du Revolver.",
             "\\C[3]\\C[2]Fléchette\\C[3] combinée avec le \\C[2]Revolver\\C[3] !",
             "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
@@ -1615,7 +1669,7 @@
         ],
         "5-1-message": [
             "\\C[3]Une jolie fléchette.\nElle est très solide.",
-            "\\.\\C[3]Peut être combiné avec un autre objet.",
+            "\\.\\C[3]Devrait pouvoir être combinée avec un autre objet.",
             "La Fléchette est insérée dans le trou\nau centre du Revolver.",
             "\\C[3]\\C[2]Fléchette\\C[3] combinée avec le \\C[2]Revolver\\C[3] !",
             "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
@@ -1624,26 +1678,26 @@
             "Combiner\nAnnuler"
         ],
         "6-1-message": [
-            "\\C[3]Un coupe-cigare.\nUn outil pour couper les cigares et les fumer."
+            "\\C[3]Un coupe-cigare.\nUn outil coupant les cigares afin de les fumer."
         ],
         "7-1-message": [
-            "\\C[3]Un cigare de haute qualité."
+            "\\C[3]Un cigare dans un emballage de haute qualité."
         ],
         "8-1-message": [
             "\\C[3]Un briquet Zippo chic."
         ],
         "9-1-message": [
-            "\\C[3]Un revolver.\nUne arme qui tire des balles. Elle peut en\ncharger jusqu'à 9 dans sa chambre circulaire.\nÀ quoi peut bien servir le trou en son centre...?",
-            "\\.\\C[3]Peut être combiné avec un autre objet.",
+            "\\C[3]Un revolver.\nUne arme qui tire des balles. Elle peut en\ncharger jusqu'à 9 dans sa chambre circulaire.\nÀ quoi peut bien servir le trou en son centre... ?",
+            "\\.\\C[3]Devrait pouvoir être combinée avec un autre objet.",
             "La Fléchette est insérée dans le trou\nau centre du Revolver.",
             "\\C[3]\\C[2]Fléchette\\C[3] combinée avec le \\C[2]Revolver\\C[3] !",
             "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
         "10-1-message": [
-            "\\C[3]Des fausses balles. J'en ai 6. Quand elles sont\ntirées, elles ne font que du bruit."
+            "\\C[3]Des fausses balles. J'en ai 6. Si on les tire,\nelles ne font que du bruit."
         ],
         "11-1-message": [
-            "\\C[3]Des vraies balles. J'en ai 3.\nPeuvent être chargées dans un pistolet.\nExtrêmement léthales."
+            "\\C[3]Des vraies balles. J'en ai 3.\nPeuvent être chargées dans un pistolet puis tirées.\nExtrêmement létales."
         ],
         "12-1-message": [
             "\\C[3]Un billet de 1000 yens.\nUne monnaie utilisable au Japon.\n1000 yens équivalent à un peu plus de 8 euros."
@@ -1723,23 +1777,47 @@
         ],
         "4-1-message": [
             "\\C[3]Une jolie fléchette.\nElle est très solide.",
-            "\\.\\C[3]Peut être combiné avec un autre objet.",
+            "\\.\\C[3]Devrait pouvoir être combinée avec un autre objet.",
             "La Fléchette est insérée dans le trou\nau centre du Revolver.",
             "\\C[3]\\C[2]Fléchette\\C[3] combinée avec le \\C[2]Revolver\\C[3] !",
             "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
         "5-1-message": [
-            "\\C[3]Un coupe-cigare.\nUn outil pour couper les cigares et les fumer."
+            "\\C[3]Un coupe-cigare.\nUn outil coupant les cigares afin de les fumer."
         ],
         "6-1-message": [
-            "\\C[3]Un cigare de haute qualité."
+            "\\C[3]Un cigare dans un emballage de haute qualité."
         ],
         "8-1-message": [
-            "\\C[3]Un revolver.\nUne arme qui tire des balles. Elle peut en\ncharger jusqu'à 9 dans sa chambre circulaire.\nÀ quoi peut bien servir le trou en son centre...?",
-            "\\.\\C[3]Peut être combiné avec un autre objet.",
+            "\\C[3]Un revolver.\nUne arme qui tire des balles. Elle peut en\ncharger jusqu'à 9 dans sa chambre circulaire.\nÀ quoi peut bien servir le trou en son centre... ?",
+            "\\.\\C[3]Devrait pouvoir être combinée avec un autre objet.",
             "La Fléchette est insérée dans le trou\nau centre du Revolver.",
             "\\C[3]\\C[2]Fléchette\\C[3] combinée avec le \\C[2]Revolver\\C[3] !",
             "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
+        ],
+        "9-1-message": [
+            "\\C[3]Des fausses balles. J'en ai 6. Si on les tire,\nelles ne font que du bruit."
+        ],
+        "10-1-message": [
+            "\\C[3]Des vraies balles. J'en ai 3.\nPeuvent être chargées dans un pistolet puis tirées.\nExtrêmement létales."
+        ],
+        "12-2-message": [
+            "\\C[3]Un distributeur aux prix élevés."
+        ],
+        "12-1-message": [
+            "\\C[3]Un distributeur aux prix élevés.",
+            "\"L'eau et les sodas coûtent 1000 yens ?!\n Ouah ! Je me demande le goût que ça a !\"",
+            "\"De l'eau et des sodas... Les deux coûtent 1000 yens.\n Ça, c'est du gonflement de prix.\"",
+            "\\.\\C[4](Devrais-je insérer le billet de 1000 yens ?)",
+            "\\C[10]Bras Gauche\\C[3] obtenu.",
+            "\"Ouah...!\"",
+            "\"... ! C'est un bras de poupée, ça ? !\"",
+            "\\.\"Il est beaucoup trop réaliste...\n J'aimerais bien qu'ils arrêtent de faire ça...\"",
+            "\\.\"Oh, laisse-moi le porter, Sara.\n Sois reconnaissante !\"",
+            "\"De l'eau et des sodas... Les deux coûtent 1000 yens.\n Ça, c'est du gonflement de prix.\""
+        ],
+        "12-1-choice": [
+            "Oui\nNon"
         ]
     },
     "map20": {
@@ -1751,6 +1829,60 @@
         ],
         "12-1-choice": [
             "Combiner\nAnnuler"
+        ],
+        "1-1-message": [
+            "\"On dirait qu'ici c'est... une cafétéria.\"",
+            "\\.\"Je me demande si nos kidnappeurs\n nous disent de manger ici.\"",
+            "\\.\"...\""
+        ],
+        "2-1-message": [
+            "\\C[3]Il y a quelque chose sur la table.",
+            "\\.\\C[3]Briquet obtenu.",
+            "\"Ce briquet Zippo a l'air de coûter cher.\""
+        ],
+        "2-2-message": [
+            "\\C[3]Il y a quelque chose sur la table.",
+            "\\.\\C[3]Briquet obtenu.",
+            "\"Cool ! Un briquet Zippo stylé !\"",
+            "\\.\"... Ne l'ouvre pas aussi rapidement comme ça.\""
+        ],
+        "4-1-message": [
+            "\\C[3]Il y a quelque chose sur la table.",
+            "\\.\\C[3]Une petite Fléchette a été obtenue.",
+            "\"Elle est petite, mais elle a l'air jolie.\n Fais attention, elle est pointue.\""
+        ],
+        "4-2-message": [
+            "\\C[3]Il y a quelque chose sur la table.",
+            "\\.\\C[3]Une petite Fléchette a été obtenue.",
+            "\"Ah ! Y avait une cible quelque part par ici, pas vrai ?\n On peut y jouer ?!\"",
+            "\\.\\C[4](Il veut y jouer...?)"
+        ],
+        "4-4-message": [
+            "\\C[3]Il y a de nouveau une fléchette sur la table.",
+            "\\.\\C[3]Une petite Fléchette a été obtenue."
+        ],
+        "8-1-message": [
+            "\\C[3]Une jolie fléchette.\nElle est très solide.",
+            "\\.\\C[3]Devrait pouvoir être combinée avec un autre objet.",
+            "La Fléchette a été insérée dans le trou\nau centre du Revolver.",
+            "\\C[2]Fléchette\\C[3] combinée avec le \\C[2]Revolver\\C[3] !",
+            "\\.\\C[4](On peut toujours essayer...\n Peut-être que maintenant je peux tirer la\n fléchette avec le pistolet...?)"
+        ],
+        "9-1-message": [
+            "\\C[3]Un coupe-cigare.\nUn outil coupant les cigares afin de les fumer."
+        ],
+        "10-1-message": [
+            "\\C[3]Un cigare dans un emballage de haute qualité."
+        ],
+        "14-1-message": [
+            "\\C[3]Des vraies balles. J'en ai 3.\nPeuvent être chargées dans un pistolet puis tirées.\nExtrêmement létales."
+        ],
+        "12-1-message": [
+            "\\C[3]Un revolver.\nUne arme qui tire des balles. Elle peut en\ncharger jusqu'à 9 dans sa chambre circulaire.\nÀ quoi peut bien servir le trou en son centre... ?",
+            "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet."
+        ],
+        "13-1-message": [
+            "\\C[3]Des fausses balles. J'en ai 6. Si on les tire,\nelles ne font que du bruit."
         ]
     },
     "map21": {
@@ -1762,6 +1894,32 @@
         ],
         "8-1-choice": [
             "Combiner\nAnnuler"
+        ],
+        "3-1-choice": [
+            "Oui\nNon"
+        ],
+        "3-2-choice": [
+            "Oui\nNon"
+        ],
+        "5-1-message": [
+            "\\C[3]Un coupe-cigare.\nUn outil coupant les cigares afin de les fumer."
+        ],
+        "6-1-message": [
+            "\\C[3]Un cigare dans un emballage de haute qualité."
+        ],
+        "4-1-message": [
+            null,
+            "\\.\\C[3]Devrait pouvoir être combinée avec un autre objet."
+        ],
+        "8-1-message": [
+            "\\C[3]Un revolver.\nUne arme qui tire des balles. Elle peut en\ncharger jusqu'à 9 dans sa chambre circulaire.\nÀ quoi peut bien servir le trou en son centre... ?",
+            "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet."
+        ],
+        "10-1-message": [
+            "\\C[3]Des vraies balles. J'en ai 3.\nPeuvent être chargées dans un pistolet puis tirées.\nExtrêmement létales."
+        ],
+        "9-1-message": [
+            "\\C[3]Des fausses balles. J'en ai 6. Si on les tire,\nelles ne font que du bruit."
         ]
     },
     "map22": {
@@ -1773,6 +1931,32 @@
         ],
         "5-1-choice": [
             "Combiner\nAnnuler"
+        ],
+        "3-1-choice": [
+            "Oui\nNon"
+        ],
+        "6-1-message": [
+            "\\C[3]Un coupe-cigare.\nUn outil coupant les cigares afin de les fumer."
+        ],
+        "5-1-message": [
+            null,
+            "\\.\\C[3]Devrait pouvoir être combinée avec un autre objet."
+        ],
+        "10-1-message": [
+            "\\C[3]Des fausses balles. J'en ai 6. Si on les tire,\nelles ne font que du bruit."
+        ],
+        "9-1-message": [
+            "\\C[3]Un revolver.\nUne arme qui tire des balles. Elle peut en\ncharger jusqu'à 9 dans sa chambre circulaire.\nÀ quoi peut bien servir le trou en son centre... ?",
+            "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet."
+        ],
+        "11-1-message": [
+            "\\C[3]Des vraies balles. J'en ai 3.\nPeuvent être chargées dans un pistolet puis tirées.\nExtrêmement létales."
+        ],
+        "3-2-choice": [
+            "Oui\nNon"
+        ],
+        "7-1-message": [
+            "\\C[3]Un cigare dans un emballage de haute qualité."
         ]
     },
     "map24": {
@@ -1784,6 +1968,26 @@
         ],
         "6-1-choice": [
             "Combiner\nAnnuler"
+        ],
+        "3-1-message": [
+            "\\C[3]Un coupe-cigare.\nUn outil coupant les cigares afin de les fumer."
+        ],
+        "4-1-message": [
+            "\\C[3]Un cigare dans un emballage de haute qualité."
+        ],
+        "1-1-message": [
+            null,
+            "\\.\\C[3]Devrait pouvoir être combinée avec un autre objet."
+        ],
+        "8-1-message": [
+            "\\C[3]Des vraies balles. J'en ai 3.\nPeuvent être chargées dans un pistolet puis tirées.\nExtrêmement létales."
+        ],
+        "6-1-message": [
+            "\\C[3]Un revolver.\nUne arme qui tire des balles. Elle peut en\ncharger jusqu'à 9 dans sa chambre circulaire.\nÀ quoi peut bien servir le trou en son centre... ?",
+            "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet."
+        ],
+        "7-1-message": [
+            "\\C[3]Des fausses balles. J'en ai 6. Si on les tire,\nelles ne font que du bruit."
         ]
     },
     "map25": {
@@ -1795,6 +1999,26 @@
         ],
         "3-1-choice": [
             "Combiner\nAnnuler"
+        ],
+        "8-1-message": [
+            "\\C[3]Des fausses balles. J'en ai 6. Si on les tire,\nelles ne font que du bruit."
+        ],
+        "4-1-message": [
+            "\\C[3]Un coupe-cigare.\nUn outil coupant les cigares afin de les fumer."
+        ],
+        "5-1-message": [
+            "\\C[3]Un cigare dans un emballage de haute qualité."
+        ],
+        "7-1-message": [
+            "\\C[3]Un revolver.\nUne arme qui tire des balles. Elle peut en\ncharger jusqu'à 9 dans sa chambre circulaire.\nÀ quoi peut bien servir le trou en son centre... ?",
+            "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet."
+        ],
+        "9-1-message": [
+            "\\C[3]Des vraies balles. J'en ai 3.\nPeuvent être chargées dans un pistolet puis tirées.\nExtrêmement létales."
+        ],
+        "3-1-message": [
+            null,
+            "\\.\\C[3]Devrait pouvoir être combinée avec un autre objet."
         ]
     },
     "map26": {
@@ -1806,6 +2030,26 @@
         ],
         "11-1-choice": [
             "Combiner\nAnnuler"
+        ],
+        "16-1-message": [
+            "\\C[3]Des fausses balles. J'en ai 6. Si on les tire,\nelles ne font que du bruit."
+        ],
+        "12-1-message": [
+            "\\C[3]Un coupe-cigare.\nUn outil coupant les cigares afin de les fumer."
+        ],
+        "13-1-message": [
+            "\\C[3]Un cigare dans un emballage de haute qualité."
+        ],
+        "15-1-message": [
+            "\\C[3]Un revolver.\nUne arme qui tire des balles. Elle peut en\ncharger jusqu'à 9 dans sa chambre circulaire.\nÀ quoi peut bien servir le trou en son centre... ?",
+            "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet."
+        ],
+        "17-1-message": [
+            "\\C[3]Des vraies balles. J'en ai 3.\nPeuvent être chargées dans un pistolet puis tirées.\nExtrêmement létales."
+        ],
+        "11-1-message": [
+            null,
+            "\\.\\C[3]Devrait pouvoir être combinée avec un autre objet."
         ]
     },
     "map29": {
@@ -1817,6 +2061,26 @@
         ],
         "19-1-choice": [
             "Combiner\nAnnuler"
+        ],
+        "14-1-message": [
+            "\\C[3]Des vraies balles. J'en ai 3.\nPeuvent être chargées dans un pistolet puis tirées.\nExtrêmement létales."
+        ],
+        "17-1-message": [
+            "\\C[3]Un coupe-cigare.\nUn outil coupant les cigares afin de les fumer."
+        ],
+        "15-1-message": [
+            "\\C[3]Un cigare dans un emballage de haute qualité."
+        ],
+        "12-1-message": [
+            "\\C[3]Un revolver.\nUne arme qui tire des balles. Elle peut en\ncharger jusqu'à 9 dans sa chambre circulaire.\nÀ quoi peut bien servir le trou en son centre... ?",
+            "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet."
+        ],
+        "19-1-message": [
+            null,
+            "\\.\\C[3]Devrait pouvoir être combinée avec un autre objet."
+        ],
+        "13-1-message": [
+            "\\C[3]Des fausses balles. J'en ai 6. Si on les tire,\nelles ne font que du bruit."
         ]
     },
     "map42": {
@@ -1838,6 +2102,26 @@
         ],
         "8-1-message": [
             "\\C[3]Un briquet Zippo chic."
+        ],
+        "6-1-message": [
+            "\\C[3]Un coupe-cigare.\nUn outil coupant les cigares afin de les fumer."
+        ],
+        "7-1-message": [
+            "\\C[3]Un cigare dans un emballage de haute qualité."
+        ],
+        "10-1-message": [
+            "\\C[3]Des fausses balles. J'en ai 6. Si on les tire,\nelles ne font que du bruit."
+        ],
+        "9-1-message": [
+            "\\C[3]Un revolver.\nUne arme qui tire des balles. Elle peut en\ncharger jusqu'à 9 dans sa chambre circulaire.\nÀ quoi peut bien servir le trou en son centre... ?",
+            "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet."
+        ],
+        "11-1-message": [
+            "\\C[3]Des vraies balles. J'en ai 3.\nPeuvent être chargées dans un pistolet puis tirées.\nExtrêmement létales."
+        ],
+        "5-1-message": [
+            null,
+            "\\.\\C[3]Devrait pouvoir être combinée avec un autre objet."
         ]
     },
     "map30": {
@@ -1846,6 +2130,10 @@
         ],
         "8-1-message": [
             "\\C[3]Un briquet Zippo chic."
+        ],
+        "9-1-message": [
+            "\\C[3]Un revolver.\nUne arme qui tire des balles. Elle peut en\ncharger jusqu'à 9 dans sa chambre circulaire.\nÀ quoi peut bien servir le trou en son centre... ?",
+            "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet."
         ]
     },
     "map32": {
@@ -1919,6 +2207,9 @@
             "\\.\"Pourquoi j'ai insulté Mishima de prof à la noix...?\"",
             "\\.\"Reko...\"",
             "\\.\"J'imagine que c'est injuste de le juger\n juste parce que c'est un homme...\""
+        ],
+        "17-1-message": [
+            "\\C[3]Un distributeur aux prix élevés."
         ]
     },
     "map37": {
@@ -1944,6 +2235,9 @@
     "map41": {
         "18-3-message": [
             "\\C[3]Un briquet Zippo chic."
+        ],
+        "15-1-choice": [
+            "Oui\nNon"
         ]
     },
     "map45": {
@@ -2120,14 +2414,14 @@
             "Retourner à l'écran titre ?"
         ],
         "290-0-choice": [
-            null,
+            "Oui\nNon (Quitter le jeu)\nQu'est-ce que la Salle de l'Achèvement ?",
             "Aller à l'écran titre\nRechoisir"
         ],
         "40-0-message": [
             "\"Hé, vous pouvez faire simple.\n Nom et profession... Faites juste chacun votre tour.\"",
             "\"C'est la meilleure chose à faire.\"",
             "\\.\"...\"",
-            "\\.\"Mmmm, je comprends. Les méfiants peuvent attendre.\n Levez la main si ça vous gêne pas de papoter.\"",
+            "\\.\"Mmmm, je comprends. Ceux qui sont méfiants\n peuvent attendre. Levez la main si ça vous gêne\n pas de papoter.\"",
             "\"Bonjour, je suis \\C[2]Kazumi Mishima\\C[0].\n J'enseigne dans un certain lycée... Mouahaha...\"",
             "\\.\"Heiin... ? T'es professeur, ouaf ?\n Le monde a plus autant de chien qu'avant, miaou.\"",
             "\\.\"Bouhouhou...\"",
@@ -2136,7 +2430,7 @@
             "\\.\"... Mec. C'est le moment, là ?\"",
             "\\.\"Désolé...\"",
             "\"... Je suis \\C[2]Kai Satou\\C[0].\n Je suis un assistant ménager assez banal.\"",
-            "\\.\"C'est quoi ce que t'as derrière ton dos...?\"",
+            "\\.\"C'est quoi ce que tu as derrière ton dos...?\"",
             "\\.\"Ce sont une poêle... une louche... et une spatule.\"",
             "\\.\"C... C'est pas ce que je voulais dire...\"",
             "\"\\C[2]Q-taro Burgerberg\\C[0] !\n J'suis un joueur de baseball !\n J'suis qu'remplaçant, par contre !\"",
@@ -2163,20 +2457,20 @@
             "\\.\"Toi et Joe êtes amis, c'est ça ?\n Si seulement je connaissais quelqu'un, ici...\"",
             "\"Je m'appelle \\C[2]Keiji Shinogi\\C[0].\n J'suis policier.\"",
             "\\.\"Hein ?! T'es policier ?!\"",
-            "\\.\"C'est bien ça. Et tu ferais mieux de pas m'embêter.\n ... Enfin, non pas que je sois vraiment ce type de flic.\"",
+            "\\.\"C'est bien ça. Alors t'as pas intérêt à m'embêter.\n ... Enfin, non pas que je sois vraiment ce type de flic.\"",
             "\\.\"M... Mais t'aurais du le dire plus tôt !\"",
             "\\.\"Je me suis fait enlever au beau milieu d'une enquête.\n Je pouvais pas juste le cracher comme ça.\"",
             "\\.\"J'aurais pas dû être méfiant... Merde...\"",
             "\"... Je me demande si on s'est fait attraper par\n cette organisation criminelle.\"",
             "\\.\"...\"",
             "\"Un groupe de petits voleurs. Pour être honnête,\n je doute qu'ils aient un lien avec tout ça.\"",
-            "\"J'étais avec ma partenai.. enfin, une collègue.\n Mais je me suis retrouvé seul juste une seconde,\n je me suis fait assommer, et me voilà.\"",
+            "\"J'étais avec ma partenai.. enfin, une collègue.\n Mais je me suis retrouvé seul juste une seconde,\n je me suis fait assommer, et voilà où j'en suis.\"",
             "\\.\"Et aucun de tes collègues est ici ?\"",
             "\\.\"Pas un seul.\"",
             "\\.\\C[4](Alors tout le monde n'est pas arrivé par pair...)"
         ],
         "41-0-choice": [
-            "Une organisation criminelle ?\nTu enquêtais seul ?"
+            "Une organisation criminelle ?\nTu enquêtais tout seul ?"
         ],
         "42-0-message": [
             "*tremble tremble tremble*...",
@@ -2191,7 +2485,7 @@
             "\\.\"... Euh... Je suis... au collège...\n Et... eum, euh...\"",
             "\\.\"Ça va aller, tu peux prendre ton temps.\"",
             "\\.\"... Je rentrais à la maison... avec ma grande soeur...\n On mangeait des glaces...\"",
-            "\\.\"On marchait et on parlait...\n de ce qu'on aurait au dîner..\"",
+            "\\.\"On marchait et on parlait...\n de ce qu'on aurait pour le dîner..\"",
             "\\.\"... D'un coup... d'effrayantes personnes sont\n sorties d'une voiture noire garée sur la route...\"",
             "\\.\"Je vois... Ça a dû être effrayant.\"",
             "\\.\"Oui...\"",
@@ -2252,7 +2546,7 @@
             "\\.\"Tu vas bien...?\"",
             "\\.\"Aaaaa... oooouh...\"",
             "\\.\"N'aie pas peur. Je ne te ferai aucun mal...\"",
-            "\\.\\C[3]Je place doucement ma main sur son dos tremblant...",
+            "\\.\\C[3]Je place gentiment ma main sur son dos tremblant...",
             "\\.\"Aah... ?\"",
             "\\.\"...\"",
             "\\.\"..........\"",
@@ -2305,16 +2599,16 @@
             "\\.\\C[4](Même comparé au groupe,\n ce gars se démarque pas mal...)",
             "\"J'pas la moindre idée d'où je suis né non plus !\n J'avais des parents mais ils sont partis avant\n même qu'j'puisse m'en rappeler.\"",
             "\\.\"J'suis quand même d'nationalité Japonaise !\n ... J'sais pas pour l'dialecte, mais c'est un mélange.\"",
-            "\"Sans blaguer, c'est une bonne question.\n J'ai grandi dans un orphelinat bizarre,\n donc c'est sûrement un mélange.\"",
-            "\\.\"Mais c'était au Japon, donc c'est ma nationalité !\n ... Mes parents sont partis quand j'étais petiot,\n donc j'sais pas où j'suis né.\"",
+            "\"Sans blaguer, c'une bonne question.\n J'ai grandi dans un orphelinat bizarre,\n donc c'est sûrement un mélange.\"",
+            "\\.\"Mais c'était au Japon, donc c'ma nationalité !\n ... Mes parents sont partis quand j'étais petiot,\n donc j'sais pas où j'suis né.\"",
             "\\.\"J'suis sûr qu'tout peut s'résoudre par le dialogue !\"",
             "\\.\"Par curiosité, je crois qu'il y a des positions\n au baseball, non...?\"",
             "\\.\"J'suis lanceur. J'suis confiant en receveur,\n aussi, et j'ai eu même la chance d'pouvoir\n aller en Ligue Centrale.\"",
             "\\.\"Je ne te suis pas vraiment, mais...\n Ça veut dire que tu es bon pour lancer et\n renvoyer la balle avec la batte, c'est ça ?\"",
             "\\.\"... B-Ben... Ouaip, c'ça.\"",
-            "\\.\\C[4](Je ne connais rien en baseball non plus,\n mais il a l'air plutôt fier de sa \\C[2]force\\C[4].)",
+            "\\.\\C[4](Je ne connais rien en baseball non plus,\n mais il semble plutôt fier de sa \\C[2]force\\C[4].)",
             "\\.\"J'étais tout content après un énorme comeback\n en fin de jeu alors j'suis allé boire un coup,\n et après j'me rappelle plus d'rien.\"",
-            "Puis, quand je me suis réveillé, j'avais un collier ici.\nComme si j'étais un chien !\"",
+            "Puis, quand je m'suis réveillé, j'avais un collier ici.\nComme si j'étais un chien !\"",
             "\\.\"C'tellement décevant !\n J'arrive pas à croire que j'peux pas l'enlever !\"",
             "\\.\\C[4](Même avec sa force, il n'arrive pas à le retirer...)"
         ],
@@ -2359,7 +2653,7 @@
             "\\.\\C[4](J'ai l'impression... d'avoir déjà rencontré\n cette personne.)",
             "\"...?\"",
             "\\.\"...\"",
-            "\\.\"Ah, c'est pas grave...\n Si tu ne t'en rappelles pas, c'est que\n je dois me tromper...\"",
+            "\\.\"Ah, ce n'est pas grave...\n Si tu ne t'en rappelles pas, c'est que\n je dois me tromper...\"",
             "\\.\"... Madame Sara...?\"",
             "\\.\"Hein ?! Tu me connais bel et bien, alors ?\"",
             "\\.\"J'ai simplement entendu votre nom plus tôt.\"",
@@ -2386,23 +2680,707 @@
             "\"Je suis Kazumi Mishima.\n J'enseigne dans un certain lycée...\n Mouahaha...\"",
             "\"Grâce à notre collaboration,\n nous avons pu surmonter la Première Épreuve...\"",
             "\\.\"Quelle bonne élève j'ai, oui...\"",
-            "\"Justement, je professe le Japonais et l'art...\n Mouaha...\"",
+            "\"D'ailleurs, je professe le Japonais et l'art...\n Mouaha...\"",
             "\\.\"Hein, t'es enseignant ? J'ai du mal à me l'imaginer.\"",
             "\\.\"En effet, c'est ce qu'on me dit souvent...\"",
-            "\\.\"Je suis mal placé pour le dire,\n mais tu es suspect de tous les angles.\"",
+            "\\.\"Je suis mal placé pour le dire,\n mais t'es suspect sous tous les angles.\"",
             "\\.\"Tu es vraiment mal placé pour le dire !\n Je te prie de demander pardon auprès du\n professeur immédiatement !\"",
             "\\.\"Ouh là. Qu'est-ce que vous avez, petite dame ?\"",
             "\\.\"Pardon...\n Voyez-vous, c'est une de mes anciennes élèves.\n Je vous prie de bien vouloir la pardonner...\"",
-            "\\.\"Il est un très bon professeur !\n Ne vous fiez pas aux apparences !\"",
+            "\\.\"C'est un très bon professeur !\n Ne vous fiez pas aux apparences !\"",
             "\\.\"Je suppose que mon apparence est étrange\n après tout... Comme c'est bouleversant.\"",
             "\\.\"Hé bien, je ne peux pas me baser sur\n quoi que ce soit d'autre... J'en sais\n pas beaucoup sur toi non plus, petite dame.\"",
             "\\.\"Je vais me présenter... !\n Nous sommes parfaitement innocents !\"",
             "\\.\"... Autant pour moi, alors. Je m'excuse.\"",
-            "\\.\"Oui, il faut se calmer...\"",
+            "\\.\"Oui, il est temps de se calmer...\"",
             "\\.\\C[4](Devrais-je demander quelque chose\n au Professeur Mishima ?)",
             "\"Hrrrmmmmm...\n Je ne... me rappelle pas avoir attiré\n le courroux de quiconque...\"",
             "\\.\"Je vois...\"",
-            "\\.\"Bien sûr, il y eût des fois où certains\n étudiants ne m'apprécièrent guère... mais...\""
+            "\\.\"Bien sûr, il y eût des fois où des étudiants\n ne m'apprécièrent guère... mais...\"",
+            "\\.\"...\"",
+            "\\.\"Non, aucun étudiant ne causerait un incident pareil...\n Ou du moins, c'est ce que j'aimerais croire...\"",
+            ".\\\" Puisque après tout, comme vous pouvez le voir, j'ai\nmême des étudiants qui viennent me voir après qu'ils\naient reçu leurs diplômes. Mouahaha.\"",
+            "\\.\"Je pense aussi que nous avons survécu à la\n \\C[2]Première Épreuve\\C[0] grâce à nos\n sagesses combinées.\"",
+            "\"C'était un jour joyeux.\n Mes élèves voulaient apprendre à peindre à l'huile,\n j'ai donc tenu une leçon à mon atelier secret...\"",
+            "\\.\"Tout le monde adore le professeur !\"",
+            "\\\".J'ai aussi raccompagné tout le monde chez eux...\n Tandis que je me dirigeais vers la dernière maison,\n il y avait un poste de contrôle de sécurité.\"",
+            "\"Après que je m'y sois arrêté...\n Il semble que j'ai perdu connaissance.\"",
+            "\\.\"À mon réveil, la \\C[2]Première Épreuve\\C[0] débuta.\"",
+            "\\.\"!\"",
+            "\\.\"Nous nous en sommes échappés sains et saufs grâce\n à nos esprits combinés. Sauvé par ma propre disciple...\"",
+            "\\.\\C[4](La Première Épreuve...?!)"
+        ],
+        "46-0-choice": [
+            "Idées à propos de cet incident\nSouvenirs d'avant être arrivé ici"
+        ],
+        "47-0-message": [
+            "\"Moi et Sara sommes camarades de classe.\"",
+            "\"Pardon... J'essaie pas de t'effrayer, Sara.\"",
+            "\\.\"Je voulais juste souligner le fait qu'il\n pourrait y avoir un collaborateur...\"",
+            "\"Sara se faisait harceler par un stalker, alors\n je l'ai raccompagnée chez elle ce jour-là.\"",
+            "\\.\"Puis il y a eu un incident alors\n j'ai appelé la police, mais...\"",
+            "\\.\"J'ai entendu Sara crier, donc j'ai couru\n et j'ai monté les escaliers.\"",
+            "\\.\"Et là se tenait \\C[2]ce satané stalker\\C[0] !\"",
+            "\\.\\C[4](Hein ?!)",
+            "\\.\"C'est la première fois que j'entends parler de ça !\"",
+            "\\.\"Héhéhé... Pas eu l'opportunité de le mentionner.\"",
+            "\\.\"Du coup après, j'ai rassemblé tout mon courage\n pour frapper le gars.\"",
+            "\\.\"Après, j'suis nul en lutte, donc...\n Vu que je me rappelle pas avoir gagné,\n j'imagine que j'ai perdu.\"",
+            "\\.\"C'est pourquoi... je sais que ce gars\n est le coupable de cette affaire.\"",
+            "\\.\"... Intéressant. Continue.\"",
+            "\\.\"Désolé, mais c'est tout ce que je sais.\n Vu que j'ai perdu connaissance...\"",
+            "\\.\"Après... Pas moyen que ce soit le coup\n d'un seul petit stalker à la con.\"",
+            "\\.\"C'est un crime organisé. Pas vrai, monsieur le flic ?\"",
+            "\\.\"... Ça se pourrait.\"",
+            "\\.\"...\"",
+            "\\.\"Je me demande si parmi nous...\"",
+            "\\.\"Il y aurait quelqu'un qui collabore avec le coupable,\n quelqu'un qui jouerait à la victime pour se cacher...!\"",
+            "\\.\"... Hein ?!\"",
+            "\\.\\C[3]En entendant Joe dire ça... Je compris.",
+            "\\.\\C[3]Pourquoi il était méfiant...\nEt pourquoi il se comportait si bizarrement.",
+            "\\.\"Ha ha haaa !\"",
+            "\\.\"Qu'est-ce qu'il y a ?!\n Pourquoi tu ris ?!\n Tu peux pas dire qu'il y en a pas...\"",
+            "\\.\"Ce que t'es drôle ! Ha ha ha !\"",
+            "\\.\"Je le hais...!\"",
+            "\\.\\C[4](Un collaborateur aux côtés du coupable...?)",
+            "\\.\\C[4](Peut-être qu'il pourrait y avoir\n quelque chose comme ça...)"
+        ],
+        "48-0-message": [
+            "\"J-Je suis une ancienne élève du professeur Mishima !\n Je suis désormais dans une université d'art !\"",
+            "\"La Première Épreuve... C'était terrifiant...\n On avait qu'une clé... mais on l'a poncée,\n et on a réussi à s'échapper...\"",
+            "\"Je m'appelle \\C[2]Nao Egokoro\\C[0] !\n C'est grâce au professeur Mishima que\n j'étudie en université d'art, maintenant !\"",
+            "\\.\"Le professeur est une bonne personne !\n Je vous en supplie, croyez-moi ! Saraaaaa !!\"",
+            "\\.\"J-Je n'en doute pas spécialement...\"",
+            "\\.\"Ouaip, y avait que Monsieur le Policier\n qui le suspectait.\"",
+            "\\.\"Alors repens-toi, s'il te plaît !\"",
+            "\\.\"D'accord. Le Professeur Mishima est pas suspect.\"",
+            "\\.\"A... Alors tu comprends... !\n Dans ce cas, j'ai accompli mon devoir...\"",
+            "\\.\\C[4](Je devrais demander quelque chose à Nao aussi.)",
+            "\"La Première Épreuve ? C'était terrifiant...\"",
+            "\"Mes souvenirs d'être amenée ici...\"",
+            "\\.\"Désolée... C'est la même histoire que celle du\n professeur. Je me suis évanouie dans la voiture\n au poste de contrôle...\"",
+            "\\.\"À part ça... Tout ce dont je me rappelle,\n c'est la Première Épreuve.\"",
+            "\\.\"C'était un jeu où nous étions attachés à des lits...\n et nous devions nous échapper avec une seule clé...\"",
+            "\\.\\C[4](C'est la même chose que nous...!)",
+            "\\.\"Je... Le professeur Mishima m'a dit\n d'utiliser le papier abrasif sur la clé...\n et j'ai ensuite retiré ses liens.\"",
+            "\\.\"Honnêtement...\n C'est grâce à lui que j'ai pu rester calme...\"",
+            "\\.\\C[4](La confiance...)",
+            "\\.\\C[4](Était-ce un jeu qui évaluait la confiance...?)",
+            "\\.\\C[4](Mais pourquoi... le coupable ferait-il ça ?)",
+            "\\.\\C[4](...)",
+            "\\.\\C[4](... Est-ce qu'il nous observaient ?)",
+            "\\.\\C[4](Regarder un jeu ignoble...\n qui joue avec les vies des gens...!!)",
+            "\\.\"Sara... Tu vas bien ?\n Tu as l'air énervée...\"",
+            "\\.\"Ah... Je vais bien...\"",
+            "\\.\"... Je n'aime pas Keiji, mais toi, je t'apprécie, Sara.\"",
+            "\\.\"... Je n'aime pas le policier mais toi,\n je t'apprécie, Sara.\"",
+            "\\.\"Hein...?\"",
+            "\\.\"Je te prie de prendre bien soin de ton ami...!\""
+        ],
+        "48-0-choice": [
+            "À propos de la Première Épreuve\nSouvenirs d'avoir été amenée ici"
+        ],
+        "49-0-message": [
+            "\"Très bien, puis-je me présenter aussi ?\"",
+            "\"Je suis \\C[2]Sou Hiyori\\C[0].\n Je ne me rappelle pas de quoi que ce soit\n de grave en particulier...\"",
+            "\"Je m'appelle \\C[2]Sou Hiyori\\C[0].\n Euh... Hé bien...\nJ'enchaîne juste les petits boulots. Ahaha...\"",
+            "\\.\"Donc tu vis de la main à la bouche, miaou ?\"",
+            "\\.\"H... Hé, ne le dis pas comme ça...\n Je n'en ai pas beaucoup, mais j'ai des économies.\"",
+            "\\.\"Pourquoi ne voulais-tu pas te\n présenter initialement ?\"",
+            "\\.\"Évidemment, je voulais rester prudent,\n comme Joe...\"",
+            "\\.\"En plus, dire que je n'ai pas de vraie profession...\n C'est un peu embarrassant. Ahaha...\"",
+            "\\.\"T'as qu'à mentir, miaou !\n T'es beaucoup trop honnête, ouaf !\"",
+            "\\.\"H... Hé, je ne pense pas que ce soit une bonne idée...\n On ne peut pas faire confiance aux personnes\n comme ça, si ?\"",
+            "\\.\\C[4](Il sourit tout le temps...\n Il a l'air gentil... ou peut-être plus timide.)",
+            "\\.\"Ahaha... A-Allons bon...\n Ne me regarde pas aussi pitoyablement...\"",
+            "\\.\"Sara, tu as l'air inébranlable et forte.\n Je suis jaloux.\"",
+            "\\.\"D'ailleurs, je voulais te demander quelque chose...\"",
+            "\\.\"La vache... Tu demandes ça sans\npasser par quatre chemin.\"",
+            "\\.\"Des idées, hein... Je n'en ai aucune.\"",
+            "\\.\"Je m'excuse sur le champ après chaque dispute...\n Je ne laisse même pas suffisamment d'impression\n sur quiconque pour être haï.\"",
+            "\\.\"Parfois, je me dis que je ne suis pas\n suffisamment reconnaissant envers\n mes parents, mais...\"",
+            "\\.\"Ils me gâtent tellement... Ah là là...\nIl faut vraiment que devienne indépendant...\"",
+            "\\.\"La vache... Tu demandes ça sans\npasser par quatre chemin.\"",
+            "\\.\"J'étais sur le chemin de la supérette pour mon\n travail à temps partiel comme à mon habitude.\"",
+            "\\.\"C'est dans des quartiers violents de la ville...\n et j'étais conscient d'à quel point il pouvait\n être dangereux d'être dehors de nuit...\"",
+            "\\.\"Mais les salaires de nuit sont bons... du coup...\"",
+            "\\.\"Puis tout d'un coup, quelqu'un m'a attaqué.\n Je ne me rappelle de rien suivant ça.\"",
+            "\\.\"Euh, désolé...\n Je ne me rappelle pas de grand chose.\"",
+            "\\.\"... Hé bien, nous non plus.\"",
+            "\\.\"... C'est vrai.\"",
+            "\\.\"T'en fais pas !\"",
+            "\\.\"Quand tu seras chez toi,\n trouve-toi un travail, miaou !\"",
+            "\\.\"Argh... Recherche d'emploi... Travail régulier...\"",
+            "\\.\\C[4](On dirait qu'il est non seulement écrasé par la\n peur immédiate, mais aussi par un futur incertain...)"
+        ],
+        "49-0-choice": [
+            "Idées à propos de cet incident\nSouvenirs d'avant être arrivé ici"
+        ],
+        "50-0-message": [
+            "\"J'ai compris, je me présente aussi, miaou !\"",
+            "\"Je m'appelle \\C[2]Gin Ibushi\\C[0] ! Ouaf !\"",
+            "\\.\"Hmm... Je pense pouvoir faire confiance à\n grande sœur Sara, miaou !\"",
+            "\"Je m'appelle \\C[2]Gin Ibushi\\C[0], ouaf !\n Je suis en sixième, miaou !\"",
+            "\\.\"Super présentation, gamin.\"",
+            "\\.\"Me traite pas de gamin !\n Je me suis présenté juste parce que vous\n avez pas l'air bien méchant, ouaf !\"",
+            "\\.\"Tu te rappelles de quoi que ce soit\n concernant la raison ton enlèvement ?\"",
+            "\\.\"Ouaf... nan.\""
+        ],
+        "100-0-choice": [
+            "Oui\nNon"
+        ],
+        "110-0-choice": [
+            "Oui\nNon"
+        ],
+        "111-0-choice": [
+            "Oui\nNon"
+        ],
+        "113-0-choice": [
+            "Oui\nNon"
+        ],
+        "114-0-choice": [
+            "Oui\nNon"
+        ],
+        "115-0-choice": [
+            "Oui\nNon"
+        ],
+        "116-0-choice": [
+            "Oui\nNon"
+        ],
+        "117-0-choice": [
+            "Oui\nNon"
+        ],
+        "119-0-choice": [
+            "Oui\nNon"
+        ],
+        "120-0-choice": [
+            "Oui\nNon"
+        ],
+        "143-0-choice": [
+            null,
+            "Oui\nNon",
+            "Oui\nNon",
+            "Oui\nNon"
+        ],
+        "185-0-choice": [
+            "Oui\nNon"
+        ],
+        "187-0-choice": [
+            "Oui\nNon"
+        ],
+        "188-0-choice": [
+            "Oui\nNon"
+        ],
+        "189-0-choice": [
+            "Oui\nNon"
+        ],
+        "190-0-choice": [
+            "Oui\nNon"
+        ],
+        "191-0-choice": [
+            "Oui\nNon"
+        ],
+        "192-0-choice": [
+            "Oui\nNon"
+        ],
+        "228-0-choice": [
+            "Oui\nNon"
+        ],
+        "229-0-choice": [
+            "Oui\nNon"
+        ],
+        "230-0-choice": [
+            "Oui\nNon"
+        ],
+        "231-0-choice": [
+            "Oui\nNon"
+        ],
+        "232-0-choice": [
+            "Oui\nNon"
+        ],
+        "233-0-choice": [
+            "Oui\nNon"
+        ],
+        "236-0-choice": [
+            "Oui\nNon"
+        ],
+        "237-0-choice": [
+            "Oui\nNon"
+        ],
+        "268-0-choice": [
+            "Oui\nNon"
+        ],
+        "269-0-choice": [
+            "Oui\nNon"
+        ],
+        "271-0-choice": [
+            "Oui\nNon"
+        ],
+        "550-0-choice": [
+            "Oui\nNon",
+            "Oui\nNon"
+        ],
+        "621-0-choice": [
+            "Oui\nNon"
+        ],
+        "623-0-choice": [
+            "Oui\nNon"
+        ],
+        "624-0-choice": [
+            "Oui\nNon"
+        ],
+        "625-0-choice": [
+            "Oui\nNon"
+        ],
+        "827-0-choice": [
+            "Oui\nNon",
+            "Oui\nNon",
+            "Oui\nNon"
+        ],
+        "828-0-choice": [
+            "Oui\nNon"
+        ],
+        "829-0-choice": [
+            "Oui\nNon",
+            "Oui\nNon",
+            "Oui\nNon"
+        ],
+        "830-0-choice": [
+            "Oui\nNon",
+            "Oui\nNon",
+            "Oui\nNon"
+        ],
+        "831-0-choice": [
+            "Oui\nNon",
+            "Oui\nNon",
+            "Oui\nNon"
+        ],
+        "832-0-choice": [
+            "Oui\nNon",
+            "Oui\nNon",
+            "Oui\nNon"
+        ],
+        "833-0-choice": [
+            "Oui\nNon",
+            "Oui\nNon",
+            "Oui\nNon"
+        ],
+        "834-0-choice": [
+            "Oui\nNon",
+            "Oui\nNon",
+            "Oui\nNon"
+        ],
+        "835-0-choice": [
+            "Oui\nNon"
+        ],
+        "836-0-choice": [
+            "Oui\nNon",
+            "Oui\nNon",
+            "Oui\nNon"
+        ],
+        "837-0-choice": [
+            "Oui\nNon",
+            "Oui\nNon",
+            "Oui\nNon"
+        ],
+        "840-0-choice": [
+            "Oui\nNon",
+            "Oui\nNon",
+            "Oui\nNon"
+        ],
+        "841-0-choice": [
+            "Oui\nNon",
+            "Oui\nNon",
+            "Oui\nNon"
+        ],
+        "1018-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1020-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1022-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1023-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1024-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1025-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1026-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1027-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1029-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1030-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1031-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1060-0-choice": [
+            "Oui\nNon",
+            "Oui\nNon",
+            "Oui\nNon",
+            "Oui\nNon",
+            "Oui\nNon"
+        ],
+        "1061-0-choice": [
+            "Oui\nNon",
+            "Oui\nNon",
+            "Oui\nNon",
+            "Oui\nNon",
+            "Oui\nNon"
+        ],
+        "1409-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1410-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1411-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1412-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1413-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1414-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1423-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1426-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1427-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1428-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1429-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1430-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1431-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1432-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1433-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1445-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1446-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1447-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1457-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1458-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1459-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1461-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1462-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1464-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1465-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1466-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1467-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1468-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1469-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1470-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1471-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1484-0-choice": [
+            "Exécuter\nAnnuler",
+            "Exécuter\nAnnuler"
+        ],
+        "1485-0-choice": [
+            "Exécuter\nAnnuler",
+            "Exécuter\nAnnuler"
+        ],
+        "1492-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1494-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1495-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1496-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1497-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1498-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1500-0-choice": [
+            "Exécuter\nAnnuler",
+            "Exécuter\nAnnuler"
+        ],
+        "1501-0-choice": [
+            "Exécuter\nAnnuler",
+            "Exécuter\nAnnuler"
+        ],
+        "1502-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1515-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1516-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1517-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1518-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1520-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1521-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1522-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1523-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1524-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1532-0-choice": [
+            "Oui\nNon"
+        ],
+        "1533-0-choice": [
+            "Oui\nNon"
+        ],
+        "1537-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1539-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1536-0-choice": [
+            "Exécuter\nSauvegarder\nAnnuler"
+        ],
+        "1540-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1541-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1542-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1543-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1544-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1547-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1548-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "55-0-choice": [
+            "Oui\nNon"
+        ],
+        "68-0-choice": [
+            "Oui\nNon"
+        ],
+        "112-0-choice": [
+            "Oui\nNon"
+        ],
+        "118-0-choice": [
+            "Oui\nNon"
+        ],
+        "155-0-choice": [
+            "Oui\nNon"
+        ],
+        "184-0-choice": [
+            "Oui\nNon"
+        ],
+        "186-0-choice": [
+            "Oui\nNon"
+        ],
+        "193-0-choice": [
+            "Oui\nNon"
+        ],
+        "227-0-choice": [
+            "Oui\nNon"
+        ],
+        "234-0-choice": [
+            "Oui\nNon"
+        ],
+        "235-0-choice": [
+            "Oui\nNon"
+        ],
+        "242-0-choice": [
+            null,
+            null,
+            null,
+            null,
+            "Oui\nNon"
+        ],
+        "267-0-choice": [
+            "Oui\nNon"
+        ],
+        "270-0-choice": [
+            "Oui\nNon"
+        ],
+        "287-0-choice": [
+            "Oui\nNon"
+        ],
+        "373-0-choice": [
+            "Oui\nNon"
+        ],
+        "506-0-choice": [
+            "Oui\nNon"
+        ],
+        "507-0-choice": [
+            "Oui\nNon"
+        ],
+        "620-0-choice": [
+            "Oui\nNon"
+        ],
+        "622-0-choice": [
+            "Oui\nNon"
+        ],
+        "1420-0-choice": [
+            null,
+            "Oui\nNon"
+        ],
+        "1531-0-choice": [
+            "Oui\nNon"
+        ],
+        "1534-0-choice": [
+            "Oui\nNon"
+        ],
+        "1535-0-choice": [
+            "Oui\nNon"
+        ],
+        "1021-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1028-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1032-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1407-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1408-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1422-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1424-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1425-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1434-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1444-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1456-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1460-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1463-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1472-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1491-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1493-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1499-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1513-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1514-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1519-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1538-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1545-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1546-0-choice": [
+            "Exécuter\nAnnuler"
+        ],
+        "1559-0-choice": [
+            "Exécuter\nSauvegarder\nAnnuler"
         ]
     },
     "map107": {
@@ -2681,6 +3659,101 @@
             null,
             null,
             ""
+        ]
+    },
+    "map31": {
+        "1-1-choice": [
+            "Oui\nNon",
+            "Oui\nNon"
+        ]
+    },
+    "map80": {
+        "4-2-choice": [
+            "Oui\nNon"
+        ],
+        "5-2-choice": [
+            "Oui\nNon"
+        ],
+        "6-2-choice": [
+            "Oui\nNon"
+        ],
+        "7-2-choice": [
+            "Oui\nNon"
+        ],
+        "8-2-choice": [
+            "Oui\nNon"
+        ],
+        "9-2-choice": [
+            "Oui\nNon"
+        ],
+        "10-2-choice": [
+            "Oui\nNon"
+        ],
+        "11-2-choice": [
+            "Oui\nNon"
+        ],
+        "12-2-choice": [
+            "Oui\nNon"
+        ],
+        "13-2-choice": [
+            "Oui\nNon"
+        ],
+        "14-2-choice": [
+            "Oui\nNon"
+        ],
+        "71-2-choice": [
+            "Oui\nNon"
+        ],
+        "75-2-choice": [
+            "Oui\nNon"
+        ],
+        "79-2-choice": [
+            "Oui\nNon"
+        ]
+    },
+    "map182": {
+        "5-1-choice": [
+            "Oui\nNon",
+            null,
+            "Oui\nNon"
+        ],
+        "1-1-choice": [
+            "Oui\nNon"
+        ],
+        "6-1-choice": [
+            "Oui\nNon"
+        ]
+    },
+    "map44": {
+        "3-1-choice": [
+            "Oui\nNon"
+        ]
+    },
+    "map110": {
+        "15-1-choice": [
+            "Oui\nNon",
+            "Oui\nNon"
+        ]
+    },
+    "map123": {
+        "6-3-choice": [
+            "Oui\nNon"
+        ]
+    },
+    "map135": {
+        "1-1-choice": [
+            "Oui\nNon\nLa ferme"
+        ]
+    },
+    "map214": {
+        "22-3-choice": [
+            null,
+            "Oui\nNon"
+        ]
+    },
+    "map222": {
+        "3-5-choice": [
+            "Oui\nNon"
         ]
     }
 }
