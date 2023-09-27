@@ -2824,7 +2824,31 @@
             "\\.\"Super présentation, gamin.\"",
             "\\.\"Me traite pas de gamin !\n Je me suis présenté juste parce que vous\n avez pas l'air bien méchant, ouaf !\"",
             "\\.\"Tu te rappelles de quoi que ce soit\n concernant la raison ton enlèvement ?\"",
-            "\\.\"Ouaf... nan.\""
+            "\\.\"Ouaf... nan.\"",
+            "\\.\"Il se faisait tard mais Maman était pas à la maison,\n donc je suis resté debout pour l'attendre...\n Puis j'ai entendu l'interphone sonner, donc...\"",
+            "\\.\"J'ai cru qu'elle était rentrée alors j'ai ouvert la\n porte mais un adulte différent était là, miaou !\n ... Je me rappelle de rien d'autre, ouaf.\"",
+            "\\.\"Je vois...\"",
+            "\\.\"Gin...\"",
+            "\\.\"Me regardez pas comme ça, ouaf !\n Je suis un grand garçon, miaou !\"",
+            "\\.\\C[4](Il fait son dur, mais il doit avoir peur...)",
+            "\\.\"... Mia...\"",
+            "\\.\"Collaborer...?\n Ouaf ouaf...\"",
+            "\\.\"C'est vrai.\n Tous les adultes ne sont pas mauvais, Gin.\"",
+            "\\.\"... C'est vrai, miaou ?\"",
+            "\\.\"Bien sûr !\"",
+            "\\.\"... Je ferai confiance qu'à toi,\n grande sœur Sara ! Ouaf !\"",
+            "\"Bien sûr, miaou !\n Imaginez pas que je suis qu'un\n enfant ordinaire, ouaf !\"",
+            "\\.\"Je les ferai payer ces kidnappeurs pour sûr, miaou !\"",
+            "\\.\"Hm... Il se pourrait que tu ais raison, Gin.\"",
+            "\\.\"On les fera payer pour ce qu'ils ont fait.\"",
+            "\\.\\C[3]Je lui caresse doucement la tête.",
+            "\\.\"Mia...\"",
+            "\\.\"...\"",
+            "\\.\"... Ouaf ! T'as l'air gentille, grande sœur Sara !\n Je veux bien te faire confiance, miaou !\"",
+            "\\.\"G-Grande sœur...?!\"",
+            "\\.\"... Hein ? C'est pas grand frère, si, ouaf ?\n\\! Peut-être que je me suis totalement trompé, miaou...\"",
+            "\\.\"Ce n'est pas le problème !\"",
+            "\\.\\C[4](Si j'avais un petit frère, je me\n demande s'il me parlerait comme ça...)"
         ],
         "100-0-choice": [
             "Oui\nNon"
@@ -3381,6 +3405,1608 @@
         ],
         "1559-0-choice": [
             "Exécuter\nSauvegarder\nAnnuler"
+        ],
+        "31-0-message": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            "(Mince... ! C'était une erreur !)\n\n\n* PV diminués",
+            null,
+            null,
+            null,
+            null,
+            null,
+            "(Mince... ! C'était une erreur !)\n\n\n* PV diminués"
+        ],
+        "32-0-message": [
+            null,
+            null,
+            null,
+            "(Mince... ! C'était une erreur !)\n\n\n* PV diminués",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "(Mince... ! C'était une erreur !)\n\n\n* PV diminués"
+        ],
+        "50-0-choice": [
+            "Collaborons pour rentrer chez nous\nT'es un dur"
+        ],
+        "53-0-message": [
+            "\\C[3]Une grosse boîte, suffisamment\n large pour contenir une pastèque.",
+            "\\C[3]La clé rentre parfaitement dans la serrure.",
+            "\\.\\C[4](Il y a 3 serrures. Ce qui veut dire...)",
+            "\"Peut-on utiliser notre clé aussi ?!\"",
+            "\\.\"Essayons !\"",
+            "\\.\"Ah... Et je me demande si Kanna...\"",
+            "\\C[3]A pris une clé rouge des habits de Kanna.",
+            "\\.\\C[4](Elle n'est pas affinée, mais on peut tenter !)",
+            "\\C[3]Les deux autres clés rentrent parfaitement.",
+            "\\.\"Bon, ça pourrait être dangereux,\n donc laissez faire le policier.\"",
+            "\\.\"Et c'est ouvert.\"",
+            "\\.\"Qu'est-ce-qu'il y a à l'intérieur ?\"",
+            "\\.\"Ahh... Tu devrais peut-être pas regarder.\"",
+            "\\.\\C[3]Malheureusement, je l'ai vue avant\n que Keiji ait le temps de parler.",
+            "\\.\\C[3]À l'intérieur se trouvait...",
+            "\\.\\C[10]Une \\|\\se[warning2,90,100,0] tête...\\|\\|",
+            "\\.\"Ouaaah !!\"",
+            "\"Noooooon !!\"",
+            "\\.\"S-Sérieux...?!\"",
+            "\\.\"...!\"",
+            "\\.\"Attendez... Ne serait-ce pas juste une poupée ?\"",
+            "\\.\"Hein...?!\"",
+            "\\.\"Oh, tu as raison.\"",
+            "\\.\"Hmm ? Une lettre ?\"",
+            "\\.Trouvez mon corps\nRamenez-moi\nCar je n'ai ni bras ni jambes",
+            "\\.\"Trouver son \\C[2]corps\\C[0]...?\"",
+            "\\.\"Où pourrait-il bien être ?\"",
+            "\\.\"On est vraiment obligés de le trouver, miaou ?\n Ça pourrait être un piège, ouaf !\"",
+            "\\.\"C'est vrai. Je ne pense qu'il soit\n nécessaire de suivre les instructions\n de cette lettre...\"",
+            "\\.\"Vous pensez pas qu'il est temps qu'on examine\n ce qu'il y a en dehors de cette pièce ?\"",
+            "\\.\"N... N'est-ce pas dangereux ?\"",
+            "\\.\"J'ai envie d'rentrer chez moi...\n J'peux pas juste rester ici à attendre.\"",
+            "\\.\"S-Séparons-nous en groupes !\"",
+            "\\.\"Pour que personne ne puisse faire quoi que\n ce soit de suspect... C'est ça ?\"",
+            "\\.\"...\"",
+            "\\.\"Sniff... J'ai peur... Et si il y avait d'autres machines\n horribles comme dans la Première Épreuve...?\"",
+            "\\.\"Moi et Nao, on peut surveiller Kanna.\n Si vous êtes en danger, ramenez vos culs ici.\"",
+            "\\.\\C[4](Très bien... Avec qui devrais-je aller ?)",
+            "\"Joe, viens avec moi.\"",
+            "\\.\"Désolé, meuf ! J'suis déjà avec Keiji.\"",
+            "\\.\"Hein ?\n J-Je vois...\"",
+            "\\.\\C[4](Pourquoi avec Keiji...?)",
+            ".\\C[4]( Voyons voir... Q-taro est puissant...\nEt Nao peut se porter garant du Professeur Mishima...\nPeut-être Gin, vu qu'il n'est qu'un enfant..?)",
+            "\\.\\C[4](... Ils tous l'air vraiment suspicieux, par contre.)",
+            "\\.\\C[4](Voyons voir... Kai agit très bizarrement...\n Je n'arrive pas à me fier totalement à Keiji...\n Et Q-taro n'a pas l'air d'être mauvais, mais...)",
+            "\\.\\C[4](... Raisonner comme ça ne va que me faire tout soupçonner.)",
+            "\\.\\C[4](Je ne suis pas très bonne en travail d'équipe...\n J'ai juste envie d'explorer seule...)",
+            "\\.\"Hé, Sara, on pourrait chercher ensemble ?\"",
+            "\\.\"Hein ?\"",
+            "\\.\"D-Désolé !\n Si tu ne peux pas me faire confiance...\n Ce n'est pas grave...\"",
+            "\\.\"Non, ce n'est pas du tout ça, c'est juste que...\"",
+            "\\.\"Oh, je suis ravi de l'entendre.\n J'ai confiance en toi aussi, Sara.\"",
+            "\\.\"... Mais parler sans arrêt de \"confiance\"\n ne fait que me rendre plus suspect, hein...\"",
+            "\\.\"Non, non... Ce n'est pas comme si je me\n méfiais vraiment de toi, Sou.\"",
+            "\\.\"Bon, commençons à chercher.\n Ne gaffez pas, les gars...\"",
+            "Et assurez-vous de partager toutes les informations que vous trouvez.\"",
+            "\"Très bien, Sara. Peut-on y aller ?\"",
+            "\\.\\C[4](La Première Épreuve... Une tête de poupée...\n et un corps...)",
+            "\\.\\C[4](Essayons de trouver une sorte d'indice...!)",
+            "\"C'est quoi ça ?! Ça va pas marcher sur moi !\"",
+            "(Mince... ! C'était une erreur !)\n\n\n* PV diminués"
+        ],
+        "137-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "138-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "139-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "142-0-message": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "166-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "167-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "170-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "172-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "173-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "174-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "175-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "195-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "196-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "197-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "204-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "205-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "206-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "207-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "221-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "241-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "243-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "244-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "245-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "246-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "247-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "248-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "249-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "250-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "253-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "254-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "255-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "256-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "257-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "471-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "475-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "509-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "513-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "515-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "518-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "519-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "520-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "522-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "525-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "526-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "527-0-message": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "528-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "529-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "534-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "535-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "536-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "537-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "543-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "547-0-message": [
+            null,
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "553-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "554-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "555-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "556-0-message": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "557-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "558-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "561-0-message": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "615-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "652-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "654-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "655-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "656-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "657-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "658-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "663-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "665-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "669-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "671-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "672-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "674-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "675-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "676-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "697-0-message": [
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "717-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "719-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "720-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "723-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "724-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "726-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "728-0-message": [
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "730-0-message": [
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "741-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "743-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "744-0-message": [
+            null,
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "749-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "750-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "751-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "752-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "753-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "754-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "755-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "759-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "760-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "761-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "762-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "765-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "766-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "768-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "769-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "770-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "772-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "775-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "778-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "779-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "780-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "781-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "782-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "783-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "788-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "789-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "792-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "795-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "796-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "797-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "798-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "799-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "800-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "803-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "804-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "805-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "806-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "807-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "809-0-message": [
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "817-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "818-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "819-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "820-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "821-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "822-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "823-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "824-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "983-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "984-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "986-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "988-0-message": [
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "993-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "998-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "208-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "220-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "242-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "258-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "476-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "510-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "514-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "521-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "532-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "533-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "562-0-message": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "614-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "616-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "653-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "659-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "662-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "664-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "666-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "670-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "673-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "678-0-message": [
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "718-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "725-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "740-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "742-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "745-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "758-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "767-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "771-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "784-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "787-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "790-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "791-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "985-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "992-0-message": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "994-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "996-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "997-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "1616-0-message": [
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "1665-0-message": [
+            null,
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "1676-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "33-0-message": [
+            null,
+            null,
+            null,
+            null,
+            "(Mince... ! C'était une erreur !)\n\n\n* PV diminués",
+            null,
+            null,
+            "(Mince... ! C'était une erreur !)\n\n\n* PV diminués"
+        ],
+        "130-0-message": [
+            null,
+            null,
+            null,
+            "(Mince... ! C'était une erreur !)\n\n\n* PV diminués"
+        ],
+        "133-0-message": [
+            null,
+            null,
+            null,
+            "(Mince... ! C'était une erreur !)\n\n\n* PV diminués"
+        ],
+        "165-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "200-0-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "201-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Mince... ! C'était une erreur !)"
         ]
     },
     "map107": {
