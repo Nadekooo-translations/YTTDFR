@@ -739,7 +739,7 @@
     },
     "map5": {
         "1-1-message": [
-            "\"Hah...\\. Hah...\\. Hah...\"",
+            "\"*Halètements*...\"",
             "\\.\"Hahh... Fiou...\"",
             "\\.\"On a réussi à atteindre ta maison...\"",
             "\\.\"...\"",
@@ -1478,6 +1478,9 @@
         "23-1-message": [
             null,
             "\\.\\C[3]Devrait pouvoir être combinée avec un autre objet."
+        ],
+        "30-1-message": [
+            "\\C[3]Un billet de 1000 yens.\nDe l'argent liquide utilisable au Japon."
         ]
     },
     "map36": {
@@ -1522,7 +1525,7 @@
             "\\C[3]Un revolver.\nUne arme qui tire des balles. Elle peut en\ncharger jusqu'à 9 dans sa chambre circulaire.\nÀ quoi peut bien servir le trou en son centre... ?",
             "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet.",
             "La Fléchette a été insérée dans le trou\nau centre du Revolver.",
-            "\\C[3]\\C[2]Fléchette\\C[3] combinée avec le \\C[2]Revolver\\C[3] !",
+            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Revolver\\C[3] !",
             "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
         "12-1-choice": [
@@ -1547,13 +1550,13 @@
             "\\C[3]Un coupe-cigare.\nUn outil coupant les cigares afin de les fumer."
         ],
         "18-1-message": [
-            "\\C[3]Un billet de 1000 yens.\nUne monnaie utilisable au Japon.\n1000 yens équivalent à un peu plus de 6 euros."
+            "\\C[3]Un billet de 1000 yens.\nDe l'argent liquide utilisable au Japon."
         ],
         "19-1-message": [
             "\\C[3]Une jolie fléchette.\nElle est très solide.",
             "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet.",
             "La Fléchette a été insérée dans le trou\nau centre du Revolver.",
-            "\\C[3]\\C[2]Fléchette\\C[3] combinée avec le \\C[2]Revolver\\C[3] !",
+            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Revolver\\C[3] !",
             "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
         "19-1-choice": [
@@ -1671,7 +1674,7 @@
             "\\C[3]Une jolie fléchette.\nElle est très solide.",
             "\\.\\C[3]Devrait pouvoir être combinée avec un autre objet.",
             "La Fléchette a été insérée dans le trou\nau centre du Revolver.",
-            "\\C[3]\\C[2]Fléchette\\C[3] combinée avec le \\C[2]Revolver\\C[3] !",
+            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Revolver\\C[3] !",
             "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
         "5-1-choice": [
@@ -1690,7 +1693,7 @@
             "\\C[3]Un revolver.\nUne arme qui tire des balles. Elle peut en\ncharger jusqu'à 9 dans sa chambre circulaire.\nÀ quoi peut bien servir le trou en son centre... ?",
             "\\.\\C[3]Devrait pouvoir être combinée avec un autre objet.",
             "La Fléchette a été insérée dans le trou\nau centre du Revolver.",
-            "\\C[3]\\C[2]Fléchette\\C[3] combinée avec le \\C[2]Revolver\\C[3] !",
+            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Revolver\\C[3] !",
             "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
         "10-1-message": [
@@ -1700,7 +1703,7 @@
             "\\C[3]Des vraies balles. J'en ai 3.\nPeuvent être chargées dans un pistolet puis tirées.\nExtrêmement létales."
         ],
         "12-1-message": [
-            "\\C[3]Un billet de 1000 yens.\nUne monnaie utilisable au Japon.\n1000 yens équivalent à un peu plus de 8 euros."
+            "\\C[3]Un billet de 1000 yens.\nDe l'argent liquide utilisable au Japon."
         ],
         "13-1-message": [
             "\\C[3]Il y a des noms inscrits sur le tableau.",
@@ -1779,7 +1782,7 @@
             "\\C[3]Une jolie fléchette.\nElle est très solide.",
             "\\.\\C[3]Devrait pouvoir être combinée avec un autre objet.",
             "La Fléchette a été insérée dans le trou\nau centre du Revolver.",
-            "\\C[3]\\C[2]Fléchette\\C[3] combinée avec le \\C[2]Revolver\\C[3] !",
+            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Revolver\\C[3] !",
             "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
         "5-1-message": [
@@ -1792,7 +1795,7 @@
             "\\C[3]Un revolver.\nUne arme qui tire des balles. Elle peut en\ncharger jusqu'à 9 dans sa chambre circulaire.\nÀ quoi peut bien servir le trou en son centre... ?",
             "\\.\\C[3]Devrait pouvoir être combinée avec un autre objet.",
             "La Fléchette a été insérée dans le trou\nau centre du Revolver.",
-            "\\C[3]\\C[2]Fléchette\\C[3] combinée avec le \\C[2]Revolver\\C[3] !",
+            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Revolver\\C[3] !",
             "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
         "9-1-message": [
@@ -1818,6 +1821,9 @@
         ],
         "12-1-choice": [
             "Oui\nNon"
+        ],
+        "11-1-message": [
+            "\\C[3]Un billet de 1000 yens.\nDe l'argent liquide utilisable au Japon."
         ]
     },
     "map20": {
@@ -1865,7 +1871,7 @@
             "\\C[3]Une jolie fléchette.\nElle est très solide.",
             "\\.\\C[3]Devrait pouvoir être combinée avec un autre objet.",
             "La Fléchette a été insérée dans le trou\nau centre du Revolver.",
-            "\\C[2]Fléchette\\C[3] combinée avec le \\C[2]Revolver\\C[3] !",
+            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Revolver\\C[3] !",
             "\\.\\C[4](On peut toujours essayer...\n Peut-être que maintenant je peux tirer la\n fléchette avec le pistolet...?)"
         ],
         "9-1-message": [
@@ -1881,7 +1887,7 @@
             "\\C[3]Un revolver.\nUne arme qui tire des balles. Elle peut en\ncharger jusqu'à 9 dans sa chambre circulaire.\nÀ quoi peut bien servir le trou en son centre... ?",
             "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet.",
             "La Fléchette a été insérée dans le trou\nau centre du Revolver.",
-            "\\C[2]Fléchette\\C[3] combinée avec le \\C[2]Revolver\\C[3] !",
+            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Revolver\\C[3] !",
             "\\.\\C[4](On peut toujours essayer...\n Peut-être que maintenant je peux tirer la\n fléchette avec le pistolet...?)"
         ],
         "13-1-message": [
@@ -1898,6 +1904,9 @@
         ],
         "40-1-message": [
             "\\C[3]Il y a une zone très sombre à\nl'arrière de la cafétéria."
+        ],
+        "15-1-message": [
+            "\\C[3]Un billet de 1000 yens.\nDe l'argent liquide utilisable au Japon."
         ]
     },
     "map21": {
@@ -1926,14 +1935,14 @@
             "\\C[3]Une jolie fléchette.\nElle est très solide.",
             "\\.\\C[3]Devrait pouvoir être combinée avec un autre objet.",
             "La Fléchette a été insérée dans le trou\nau centre du Revolver.",
-            "\\C[2]Fléchette\\C[3] combinée avec le \\C[2]Revolver\\C[3] !",
+            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Revolver\\C[3] !",
             "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
         "8-1-message": [
             "\\C[3]Un revolver.\nUne arme qui tire des balles. Elle peut en\ncharger jusqu'à 9 dans sa chambre circulaire.\nÀ quoi peut bien servir le trou en son centre... ?",
             "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet.",
             "La Fléchette a été insérée dans le trou\nau centre du Revolver.",
-            "\\C[2]Fléchette\\C[3] combinée avec le \\C[2]Revolver\\C[3] !",
+            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Revolver\\C[3] !",
             "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
         "10-1-message": [
@@ -1969,6 +1978,9 @@
         ],
         "17-1-message": [
             "\\C[3]Une lampe rouge illumine sinistrement la porte."
+        ],
+        "11-1-message": [
+            "\\C[3]Un billet de 1000 yens.\nDe l'argent liquide utilisable au Japon."
         ]
     },
     "map22": {
@@ -1991,7 +2003,7 @@
             "\\C[3]Une jolie fléchette.\nElle est très solide.",
             "\\.\\C[3]Devrait pouvoir être combinée avec un autre objet.",
             "La Fléchette a été insérée dans le trou\nau centre du Revolver.",
-            "\\C[2]Fléchette\\C[3] combinée avec le \\C[2]Revolver\\C[3] !",
+            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Revolver\\C[3] !",
             "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
         "10-1-message": [
@@ -2000,7 +2012,9 @@
         "9-1-message": [
             "\\C[3]Un revolver.\nUne arme qui tire des balles. Elle peut en\ncharger jusqu'à 9 dans sa chambre circulaire.\nÀ quoi peut bien servir le trou en son centre... ?",
             "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet.",
-            "La Fléchette a été insérée dans le trou\nau centre du Revolver."
+            "La Fléchette a été insérée dans le trou\nau centre du Revolver.",
+            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Revolver\\C[3] !",
+            "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
         "11-1-message": [
             "\\C[3]Des vraies balles. J'en ai 3.\nPeuvent être chargées dans un pistolet puis tirées.\nExtrêmement létales."
@@ -2071,6 +2085,19 @@
         ],
         "3-3-choice": [
             "Tirer sur la cible avec le revolver\nAnnuler"
+        ],
+        "12-1-message": [
+            "\\C[3]Un billet de 1000 yens.\nDe l'argent liquide utilisable au Japon."
+        ],
+        "58-1-message": [
+            "\\C[3]Ici se trouve un trou très profond.",
+            "\"Fais attention à pas glisser !\"",
+            "\"Houlà... Alors ça, c'est profond.\"",
+            "\\.\"On dirait que du vent souffle...\""
+        ],
+        "77-1-message": [
+            "\\C[3]La porte rouge est fermement verrouillée.",
+            "\"Elle s'ouvre pas, hein...\""
         ]
     },
     "map24": {
@@ -2093,7 +2120,7 @@
             null,
             "\\.\\C[3]Devrait pouvoir être combinée avec un autre objet.",
             null,
-            "\\C[2]Fléchette\\C[3] combinée avec le \\C[2]Revolver\\C[3] !",
+            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Revolver\\C[3] !",
             "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
         "8-1-message": [
@@ -2105,6 +2132,9 @@
         ],
         "7-1-message": [
             "\\C[3]Des fausses balles. J'en ai 6. Si on les tire,\nelles ne font que du bruit."
+        ],
+        "9-1-message": [
+            "\\C[3]Un billet de 1000 yens.\nDe l'argent liquide utilisable au Japon."
         ]
     },
     "map25": {
@@ -2136,6 +2166,9 @@
         "3-1-message": [
             null,
             "\\.\\C[3]Devrait pouvoir être combinée avec un autre objet."
+        ],
+        "10-1-message": [
+            "\\C[3]Un billet de 1000 yens.\nDe l'argent liquide utilisable au Japon."
         ]
     },
     "map26": {
@@ -2167,6 +2200,9 @@
         "11-1-message": [
             null,
             "\\.\\C[3]Devrait pouvoir être combinée avec un autre objet."
+        ],
+        "18-1-message": [
+            "\\C[3]Un billet de 1000 yens.\nDe l'argent liquide utilisable au Japon."
         ]
     },
     "map29": {
@@ -2198,6 +2234,9 @@
         ],
         "13-1-message": [
             "\\C[3]Des fausses balles. J'en ai 6. Si on les tire,\nelles ne font que du bruit."
+        ],
+        "18-1-message": [
+            "\\C[3]Un billet de 1000 yens.\nDe l'argent liquide utilisable au Japon."
         ]
     },
     "map42": {
@@ -2239,6 +2278,9 @@
         "5-1-message": [
             null,
             "\\.\\C[3]Devrait pouvoir être combinée avec un autre objet."
+        ],
+        "12-1-message": [
+            "\\C[3]Un billet de 1000 yens.\nDe l'argent liquide utilisable au Japon."
         ]
     },
     "map30": {
@@ -2342,6 +2384,15 @@
     "map39": {
         "5-1-message": [
             "\\C[3]Un briquet Zippo chic."
+        ],
+        "9-1-message": [
+            "\\C[3]La porte rouge est fermement verrouillée."
+        ],
+        "1-1-message": [
+            "\\C[3]La porte rouge est fermement verrouillée."
+        ],
+        "3-1-message": [
+            "\\C[3]La porte rouge est fermement verrouillée."
         ]
     },
     "map40": {
@@ -5138,7 +5189,8 @@
             "Utiliser l'objet sélectionné\nAnnuler"
         ],
         "53-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Joe\nQuelqu'un de confiance\nQuelqu'un à surveiller\nRester seule"
         ],
         "137-0-choice": [
             "Utiliser l'objet sélectionné\nAnnuler"
@@ -5718,6 +5770,11 @@
         ],
         "864-0-choice": [
             "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "55-0-message": [
+            "\\.\"Prête pour le débat ?\"",
+            "\"Je serai toujours de ton côté.\"",
+            "\"Alors je patiente un peu plus.\""
         ]
     },
     "map107": {
@@ -6091,6 +6148,17 @@
     "map222": {
         "3-5-choice": [
             "Oui\nNon"
+        ]
+    },
+    "map150": {
+        "5-1-message": [
+            "\\C[3]La porte rouge est fermement verrouillée."
+        ],
+        "6-1-message": [
+            "\\C[3]La porte rouge est fermement verrouillée."
+        ],
+        "1-1-message": [
+            "\\C[3]La porte rouge est fermement verrouillée."
         ]
     }
 }
