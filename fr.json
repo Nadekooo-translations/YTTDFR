@@ -1521,7 +1521,7 @@
         "12-1-message": [
             "\\C[3]Un revolver.\nUne arme qui tire des balles. Elle peut en\ncharger jusqu'à 9 dans sa chambre circulaire.\nÀ quoi peut bien servir le trou en son centre... ?",
             "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet.",
-            "La Fléchette est insérée dans le trou\nau centre du Revolver.",
+            "La Fléchette a été insérée dans le trou\nau centre du Revolver.",
             "\\C[3]\\C[2]Fléchette\\C[3] combinée avec le \\C[2]Revolver\\C[3] !",
             "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
@@ -1552,7 +1552,7 @@
         "19-1-message": [
             "\\C[3]Une jolie fléchette.\nElle est très solide.",
             "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet.",
-            "La Fléchette est insérée dans le trou\nau centre du Revolver.",
+            "La Fléchette a été insérée dans le trou\nau centre du Revolver.",
             "\\C[3]\\C[2]Fléchette\\C[3] combinée avec le \\C[2]Revolver\\C[3] !",
             "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
@@ -1670,7 +1670,7 @@
         "5-1-message": [
             "\\C[3]Une jolie fléchette.\nElle est très solide.",
             "\\.\\C[3]Devrait pouvoir être combinée avec un autre objet.",
-            "La Fléchette est insérée dans le trou\nau centre du Revolver.",
+            "La Fléchette a été insérée dans le trou\nau centre du Revolver.",
             "\\C[3]\\C[2]Fléchette\\C[3] combinée avec le \\C[2]Revolver\\C[3] !",
             "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
@@ -1689,7 +1689,7 @@
         "9-1-message": [
             "\\C[3]Un revolver.\nUne arme qui tire des balles. Elle peut en\ncharger jusqu'à 9 dans sa chambre circulaire.\nÀ quoi peut bien servir le trou en son centre... ?",
             "\\.\\C[3]Devrait pouvoir être combinée avec un autre objet.",
-            "La Fléchette est insérée dans le trou\nau centre du Revolver.",
+            "La Fléchette a été insérée dans le trou\nau centre du Revolver.",
             "\\C[3]\\C[2]Fléchette\\C[3] combinée avec le \\C[2]Revolver\\C[3] !",
             "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
@@ -1778,7 +1778,7 @@
         "4-1-message": [
             "\\C[3]Une jolie fléchette.\nElle est très solide.",
             "\\.\\C[3]Devrait pouvoir être combinée avec un autre objet.",
-            "La Fléchette est insérée dans le trou\nau centre du Revolver.",
+            "La Fléchette a été insérée dans le trou\nau centre du Revolver.",
             "\\C[3]\\C[2]Fléchette\\C[3] combinée avec le \\C[2]Revolver\\C[3] !",
             "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
@@ -1791,7 +1791,7 @@
         "8-1-message": [
             "\\C[3]Un revolver.\nUne arme qui tire des balles. Elle peut en\ncharger jusqu'à 9 dans sa chambre circulaire.\nÀ quoi peut bien servir le trou en son centre... ?",
             "\\.\\C[3]Devrait pouvoir être combinée avec un autre objet.",
-            "La Fléchette est insérée dans le trou\nau centre du Revolver.",
+            "La Fléchette a été insérée dans le trou\nau centre du Revolver.",
             "\\C[3]\\C[2]Fléchette\\C[3] combinée avec le \\C[2]Revolver\\C[3] !",
             "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
@@ -1879,10 +1879,25 @@
         ],
         "12-1-message": [
             "\\C[3]Un revolver.\nUne arme qui tire des balles. Elle peut en\ncharger jusqu'à 9 dans sa chambre circulaire.\nÀ quoi peut bien servir le trou en son centre... ?",
-            "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet."
+            "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet.",
+            "La Fléchette a été insérée dans le trou\nau centre du Revolver.",
+            "\\C[2]Fléchette\\C[3] combinée avec le \\C[2]Revolver\\C[3] !",
+            "\\.\\C[4](On peut toujours essayer...\n Peut-être que maintenant je peux tirer la\n fléchette avec le pistolet...?)"
         ],
         "13-1-message": [
             "\\C[3]Des fausses balles. J'en ai 6. Si on les tire,\nelles ne font que du bruit."
+        ],
+        "16-1-message": [
+            "\\C[3]La porte de la cuisine est fermée à clé."
+        ],
+        "22-1-message": [
+            "\\C[3]Je peux voir la cuisine à travers la vitre."
+        ],
+        "31-1-message": [
+            "\\C[3]Un élégant chandelier."
+        ],
+        "40-1-message": [
+            "\\C[3]Il y a une zone très sombre à\nl'arrière de la cafétéria."
         ]
     },
     "map21": {
@@ -1908,18 +1923,52 @@
             "\\C[3]Un cigare dans un emballage de haute qualité."
         ],
         "4-1-message": [
-            null,
-            "\\.\\C[3]Devrait pouvoir être combinée avec un autre objet."
+            "\\C[3]Une jolie fléchette.\nElle est très solide.",
+            "\\.\\C[3]Devrait pouvoir être combinée avec un autre objet.",
+            "La Fléchette a été insérée dans le trou\nau centre du Revolver.",
+            "\\C[2]Fléchette\\C[3] combinée avec le \\C[2]Revolver\\C[3] !",
+            "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
         "8-1-message": [
             "\\C[3]Un revolver.\nUne arme qui tire des balles. Elle peut en\ncharger jusqu'à 9 dans sa chambre circulaire.\nÀ quoi peut bien servir le trou en son centre... ?",
-            "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet."
+            "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet.",
+            "La Fléchette a été insérée dans le trou\nau centre du Revolver.",
+            "\\C[2]Fléchette\\C[3] combinée avec le \\C[2]Revolver\\C[3] !",
+            "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
         "10-1-message": [
             "\\C[3]Des vraies balles. J'en ai 3.\nPeuvent être chargées dans un pistolet puis tirées.\nExtrêmement létales."
         ],
         "9-1-message": [
             "\\C[3]Des fausses balles. J'en ai 6. Si on les tire,\nelles ne font que du bruit."
+        ],
+        "1-1-message": [
+            "\"Quelle atmosphère imposante...\"",
+            "\\.\"Cette lampe rouge est sinistre.\n Je ne pense pas avoir le courage\n d'ouvrir cette porte...\""
+        ],
+        "1-2-message": [
+            "\"Il fait noir...\"",
+            "\\.\"Cette salle... Examinons-la, Sara.\""
+        ],
+        "3-1-message": [
+            "\\C[3]C'est ouvert...",
+            "\\C[3]C'est ouvert...",
+            "\"Ouah ! Elle n'est pas fermée à clé...\"",
+            "\\.\"Q-Que devrions-nous faire, Sara... ?\n ... On rentre ?\"",
+            "\"Ahh, ouf...\"",
+            "\"C'est parti...!\""
+        ],
+        "3-2-message": [
+            "\"Cette porte me donne un mauvais pressentiment...\"",
+            "\\.\"Tu rentres, Sara ?\"",
+            "\"On ferait mieux de pas le faire...\"",
+            "\"Ouvre-la...!\""
+        ],
+        "3-3-message": [
+            "\\C[3]C'est ouvert..."
+        ],
+        "17-1-message": [
+            "\\C[3]Une lampe rouge illumine sinistrement la porte."
         ]
     },
     "map22": {
@@ -1939,15 +1988,19 @@
             "\\C[3]Un coupe-cigare.\nUn outil coupant les cigares afin de les fumer."
         ],
         "5-1-message": [
-            null,
-            "\\.\\C[3]Devrait pouvoir être combinée avec un autre objet."
+            "\\C[3]Une jolie fléchette.\nElle est très solide.",
+            "\\.\\C[3]Devrait pouvoir être combinée avec un autre objet.",
+            "La Fléchette a été insérée dans le trou\nau centre du Revolver.",
+            "\\C[2]Fléchette\\C[3] combinée avec le \\C[2]Revolver\\C[3] !",
+            "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
         "10-1-message": [
             "\\C[3]Des fausses balles. J'en ai 6. Si on les tire,\nelles ne font que du bruit."
         ],
         "9-1-message": [
             "\\C[3]Un revolver.\nUne arme qui tire des balles. Elle peut en\ncharger jusqu'à 9 dans sa chambre circulaire.\nÀ quoi peut bien servir le trou en son centre... ?",
-            "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet."
+            "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet.",
+            "La Fléchette a été insérée dans le trou\nau centre du Revolver."
         ],
         "11-1-message": [
             "\\C[3]Des vraies balles. J'en ai 3.\nPeuvent être chargées dans un pistolet puis tirées.\nExtrêmement létales."
@@ -1957,6 +2010,67 @@
         ],
         "7-1-message": [
             "\\C[3]Un cigare dans un emballage de haute qualité."
+        ],
+        "1-1-message": [
+            "\"Ne serait-ce pas... une salle de jeu ?\"",
+            "\\.\"... Plutôt désertée, au final.\"",
+            "\\.\"J'ai l'impression qu'il y a une sorte\n d'énigme ou de puzzle à cet endroit.\"",
+            "\\.\"Je compte sur ta perspicacité, Sara...\""
+        ],
+        "3-1-message": [
+            "\"C'est une cible.\"",
+            "\\.\"Comme c'est lugubre...\n M'amuser ici me ferait juste sentir seul.\"",
+            "\\.\\C[4](Devrais-je jeter la fléchette que\n j'ai en ma possession...?)",
+            "\\.\"Yaaaaah !!\"",
+            "\\.\\C[3]Je jette puissamment la fléchette vers la cible.",
+            "\\.\\C[3]Soudainement, un vent puissant venant d'en haut\nse mit à souffler et la fléchette sombra dans les ténèbres.",
+            "\\.\\C[3]La Fléchette a été perdue !",
+            "\"Comme c'est dommage ! Zéro points.\""
+        ],
+        "3-2-message": [
+            "\"Oh ! On peut jouer aux fléchettes ici !\"",
+            "\\.\"Les fléchettes et le billard c'est trop cool, pas vrai ?!\"",
+            "\\.\\C[4](Devrais-je jeter la fléchette que\n j'ai en ma possession...?)",
+            "\\.\"Yaaaaah !!\"",
+            "\\.\\C[3]Je jette puissamment la fléchette vers la cible.",
+            "\\.\\C[3]Soudainement, un vent puissant venant d'en haut\nse mit à souffler et la fléchette sombra dans les ténèbres.",
+            "\\.\\C[3]La Fléchette a été perdue !",
+            "\"H-Hé, c'est pas un peu grave ?\n Ça aurait pu être... un indice, nan...?\""
+        ],
+        "3-3-message": [
+            "\"C'est une cible.\"",
+            "\\.\"Comme c'est lugubre...\n M'amuser ici me ferait juste sentir seul.\"",
+            "\"Oh ! On peut jouer aux fléchettes ici !\"",
+            "\\.\"Les fléchettes et le billard c'est trop cool, nan ?!\"",
+            "\\.\\C[4](Je sais... ! Je peux utiliser le revolver pour\n tirer la fléchette sur la cible !)",
+            "\\.\"...!\"",
+            "\"Félicitations ! Félicitations !\n En plein dans le mille !\"\\|\\|",
+            "\\.\"Pour avoir tiré au centre de la cible,\n vous obtenez un merveilleux cadeau !\"",
+            "\\.\"Nous vous prions de bien vouloir\n regarder dans le trou !\"",
+            "\\.\\C[3]En regardant prudemment dans\nla crevasse autour de la cible...",
+            "\\.\\C[3]Je vis quelque chose à portée de main.",
+            "\\.\\\\C[10]Jambe Gauche\\C[3] obtenue.",
+            "\\.\"Argh... C'est atroce...!\"",
+            "\\.\"... Hm ?\"",
+            "\\.\"Oh... En regardant d'un peu plus près...\n Ce n'est qu'une jambe de poupée.\"",
+            "\\.\"Comme c'est méchant de nous faire le même\n tour en boucle... Je vais la porter.\"",
+            "\"Yaah ! ! C'est r...\\! C'est rien !\n J'ai pas peur du tout !\"",
+            "\\.\"Agh... Toutes ces mises en scènes sont\n incompréhensibles. C'est juste une fausse, hein ?\"",
+            "\\.\"Je vais la porter. Elle est lourde, hein ?\""
+        ],
+        "3-4-message": [
+            "\\C[3]La mystérieuse cible demeure\n suspicieusement immobile."
+        ],
+        "4-1-message": [
+            "\"Qu'est-ce que c'est, la chose qu'il y a\n au-dessus de la cible ?\"",
+            "\\.\"Une brise semble passer...\""
+        ],
+        "4-2-message": [
+            "\"Tu sens pas une brise souffler\n d'en haut de la cible ?\"",
+            "\\.\"Il semblerait pas que ce soit une climatisation.\""
+        ],
+        "3-3-choice": [
+            "Tirer sur la cible avec le revolver\nAnnuler"
         ]
     },
     "map24": {
@@ -1977,7 +2091,10 @@
         ],
         "1-1-message": [
             null,
-            "\\.\\C[3]Devrait pouvoir être combinée avec un autre objet."
+            "\\.\\C[3]Devrait pouvoir être combinée avec un autre objet.",
+            null,
+            "\\C[2]Fléchette\\C[3] combinée avec le \\C[2]Revolver\\C[3] !",
+            "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
         "8-1-message": [
             "\\C[3]Des vraies balles. J'en ai 3.\nPeuvent être chargées dans un pistolet puis tirées.\nExtrêmement létales."
