@@ -930,7 +930,7 @@
             "\\C[3]C'est fermé à clé.",
             "\\C[4](Je l'ouvre...)",
             "\\.\\C[4](Qui a bien pu fermer la porte de ma chambre...?)",
-            "\\.\\C[4](Pas mon père... si ?)",
+            "\\.\\C[4](Pas Papa... Si ?)",
             "\\C[2]Clé de la chambre à Sara\\C[3] utilisée.",
             "\\C[3]La porte s'ouvre."
         ],
@@ -967,7 +967,7 @@
             "\\.\\C[4](Voyons... On dirait que je suis couchée sur le dos.)",
             "\\.\\C[4](Sur un lit... peut-être ?)",
             "\\.\\C[4](C'est quoi ce truc sur mon front...?)",
-            "\\.\\C[4](Est-ce que je suis attachée...?)",
+            "\\.\\C[4](Je suis attachée...?)",
             "\\.\\C[4](C'est comme une sorte de ceinture...)",
             "\\.\"Non... Agh... Qu'est-ce que ça veut dire ?!\"",
             "\\.\\C[3]Ma température s'éleva...",
@@ -1003,7 +1003,7 @@
             "\\.\"Et vos corps seront brutalement broyés à mort.\"",
             "\\.\"À présent, nous vous prions d'apprécier ce frisson\n et ce, avec corps et âmes.\"",
             "\\.\"Le temps limite est de 5 bonnes minutes.\"",
-            "\\.\"Notez qu'\\C[2]une seule\\C[0] clé est à votre disposition.\n Ainsi, nous vous prions de débattre de qui l'utilisera.\"",
+            "\\.\"Notez qu'\\C[2]une seule\\C[0] clé est à votre disposition.\n Ainsi, nous vous prions de débattre de\n qui l'utilisera.\"",
             "\\C[3]Qu'est-ce que c'est... que ça...",
             "\\.\\C[3]La Première Épreuve... ?",
             "\\.\\C[3]On va mourir... dans 5 minutes ?",
@@ -1086,7 +1086,7 @@
             "\\.\"Ah, Joe ! Attends !\"",
             "\\C[3]La clé est trop grosse pour rentrer.",
             "\\C[3]La clé est trop grosse pour rentrer.",
-            "\\.\\C[4](Hm...? Un bout de la clé s'est écorchée ?)",
+            "\\.\\C[4](Hm...? Un bout de la clé s'est écorché...)",
             "\\.\\C[3]Il y a un peu de vert qui sort d'un côté.",
             "\\.\\C[4](J'ai compris... \\C[2]Au début c'était une clé verte\\C[4],\n et de la résine rouge est collée par-dessus !)",
             "\\.\\C[4](Si j'avais \\C[2]quelque chose pour la gratter\\C[4],\n peut-être que je pourrais faire sortir la clé verte !)"
@@ -1096,21 +1096,21 @@
         ],
         "6-2-message": [
             "\\C[3]Une clé rouge.\nJ'ai désactivé mon dispositif de retenue avec.",
-            "\\.\\C[4](Hm...? Un bout de la clé s'est écorchée ?)",
+            "\\.\\C[4](Hm...? Un bout de la clé s'est écorché...)",
             "\\.\\C[3]Il y a un peu de vert qui sort d'un côté.",
             "\\.\\C[4](J'ai compris... \\C[2]Au début c'était une clé verte\\C[4],\n et de la résine rouge est collée par-dessus !)",
             "\\.\\C[4](Si seulement j'avais \\C[2]quelque chose pour la gratter\\C[4],\n peut-être que je pourrais faire sortir la clé verte !)"
         ],
         "6-3-message": [
             "\\C[3]Une clé rouge.\nJ'ai désactivé mon dispositif de retenue avec.",
-            "\\.\\C[4](Hm...? Un bout de la clé s'est écorchée ?)",
+            "\\.\\C[4](Hm...? Un bout de la clé s'est écorché...)",
             "\\.\\C[3]Il y a une peu de vert qui sort d'un côté.",
             "\\.\\C[4](J'ai compris... \\C[2]Au début c'était une clé verte\\C[4],\n et de la résine rouge s'est collée par-dessus !)",
             "\\.\\C[4](Si seulement j'avais \\C[2]quelque chose pour la gratter\\C[4],\n peut-être que je pourrais faire sortir la clé verte !)"
         ],
         "6-4-message": [
             "\\C[3]Une clé rouge.\nJ'ai désactivé mon dispositif de retenue avec.",
-            "\\.\\C[4](Hm...? Un bout de la clé s'est écorchée ?)",
+            "\\.\\C[4](Hm...? Un bout de la clé s'est écorché...)",
             "\\.\\C[3]Il y a un peu de vert qui sort d'un côté.",
             "\\.\\C[4](J'ai compris... \\C[2]Au début c'était une clé verte\\C[4],\n et de la résine rouge s'est collée par-dessus !)",
             "\\.\\C[4](Si seulement j'avais \\C[2]quelque chose pour la gratter\\C[4],\n peut-être que je pourrais faire sortir la clé verte !)"
@@ -1135,7 +1135,7 @@
         ],
         "42-1-message": [
             "\\C[3]Une porte en acier.",
-            "\\.\\C[4](La porte n'est pas verrouillée...\n Mais je ne peux pas abandonner Sara !)"
+            "\\.\\C[4](La porte est pas verrouillée...\n Mais je peux pas abandonner Sara !)"
         ],
         "85-2-message": [
             "\\.\"... Le temps est écoulé.\"",
@@ -1162,7 +1162,7 @@
             "\\.\"Je le pense vraiment, Sara.\n On doit pas se faire séparer.\"",
             "\\.\"Oui...\"",
             "\\.\\C[3]Nous avons continué d'avancer...",
-            "\\.\\C[3]... Mais malgré tout ce que nous avons marché,\nnous avons aperçu aucune lumière.",
+            "\\.\\C[3]... Mais malgré tout ce que nous avons marché,\nnous n'avons aperçu aucune lumière.",
             "\\.\\C[3]On aurait dit un très... très long couloir.\nOu peut-être que nous n'avancions presque pas du tout...",
             "\\.\"Joe...\"",
             "\"Le téléphone de tout à l'heure...\n Tu pourrais essayer de l'allumer\n pour avoir de la lumière ?\"",
@@ -1214,7 +1214,7 @@
             "\\.\\C[4](!! Des gens...!)",
             "\"Vous êtes qui, vous ?!\n Et c'est quoi, cet endroit ?!\"",
             "\\.\"Comme si on l'savait ! Calme-toi, la miss !\"",
-            "\\.\"N'il a-t'il donc personne ici qui pourrait nous\n expliquer ce qu'il se passe ?!\"",
+            "\\.\"N'y a-t'il donc personne ici qui pourrait nous\n expliquer ce qu'il se passe ?!\"",
             "\\.\"Mais que se passe-t-il... ? Comme c'est troublant...\"",
             "\\.\\C[3]On dirait qu'ils sont trop distraits\npour me remarquer.",
             "\\.\\C[4](Mais... Qu'est-ce qu'il se passe ?)"
@@ -1251,7 +1251,7 @@
             "\\.\"Ouf... Tu es sain et sauf.\"",
             "\\.\"Joe !\"",
             "\\.\"OUUILLE !!\"",
-            "\\.\"C'était peut-être un peu trop fort...\n\\! Joe ! Tu vas bien !\"",
+            "\\.\"C'était peut-être un peu trop fort...\n\\! Joe ! Tu vas bien !\"",
             "\\.\"...\"",
             "\\.\"... T'es qui ?\"\\.",
             "\\.\"Qu...!!\"\\.\\.",
@@ -1277,8 +1277,8 @@
             "\\.\"Où est-ce que je suis ?\n Pourquoi m'a-t-on emmené ici ?\"",
             "\\.\"Et tout ce que vous savez, c'est qui vous êtes.\"",
             "\\.\"Où voulez-vous en venir...?\"",
-            "\\.\"Pourquoi ne pas nous \\C[2]présenter\\C[0] ?\n Ça devrait nous rendre un peu moins suspicieux.\"",
-            "\\.\"Des présentations, vous dites ?\"",
+            "\\.\"Pourquoi pas nous \\C[2]présenter\\C[0] ?\n Ça devrait nous rendre un peu moins suspicieux.\"",
+            "\\.\"Des présentations, dites-vous ?\"",
             "\\.\"On peut pas faire grand chose d'autre.\"",
             "\\.\"Pas vrai, Sara ?\"",
             "\\.\"Hein...? C'est à moi que tu le demandes ?\"",
@@ -1286,7 +1286,7 @@
             "\\.\"... Vous voyez, les personnes calmes\n savent comment agir.\"",
             "\\.\"Je préférerais que tu ne sois pas\n si familier avec moi...\"",
             "\\.\"Raison de plus pour nous présenter.\n Sinon je ne saurai pas comment m'y prendre.\"",
-            "\\.\"Okay, quand tu seras prête, on se présentera.\n Fais-moi signe quand c'est bon, Sara.\""
+            "\\.\"Okay, quand t'es prête, on se présentera.\n Fais-moi signe quand c'est bon, Sara.\""
         ],
         "2-3-choice": [
             "Appeler Joe\nCourir et frapper Joe",
@@ -1301,7 +1301,7 @@
             "\\.\"Moins fort, miaou !!\n Crie pas dans mes oreilles, ouaf !!\"",
             "\\.\"A... Allons... Se battre n'amènera à rien.\"",
             "\\.\\C[3]Je pouvais sentir la tension dans l'air.",
-            "\\.\\C[4](Il y a même des enfants d'école primaire, ici...?)"
+            "\\.\\C[4](Il y a même des collégiens, ici...?)"
         ],
         "3-2-message": [
             "\\C[3]Je peux sentir la tension dans l'air.",
@@ -1329,7 +1329,7 @@
     "map15": {
         "1-1-message": [
             "\"Hehem... Donc du coup, je pense qu'on devrait\n tous se connaître un peu plus.\"",
-            "\\.\"Et mia-lors? Maman m'a dit de pas donne\n d'infos personnelles aux gens bizarres\n que je connais pas, ouaf !\"",
+            "\\.\"Et mia-lors? Maman m'a dit de pas donner\n d'infos personnelles aux gens étranges\n que je connais pas, ouaf !\"",
             "\\.\"Prodigieux ! Un jeune enfant réfléchi qui fait\n ce que ses parents lui apprennent !\"",
             "\\.\"Tout de même, nous sommes là dans une situation\n particulièrement urgente... Hrmmm.\"",
             "\\.\"Dans ce cas, nous, les adultes, devrons prouver que\n nous sommes pas suspicieux... Mouahaha...\"",
@@ -1661,7 +1661,7 @@
         "4-2-message": [
             "\\C[3]Gin examine le bas des étagères.",
             "\"Je hais l'alcool, wouf !\n Et je hais mon ivrogne de père encore plus, miaou !\"",
-            "\\.\"Ah, ouais, grande soeur Sara.\n T'as essayé de combiner des objets, miaou ?\"",
+            "\\.\"Ah, ouais, grande sœur Sara.\n T'as essayé de combiner des objets, miaou ?\"",
             "\\.\"Combiner ?\"",
             "\\.\"Oui, mettre des objets ensemble et\n les utiliser, wouf !\"",
             "\\.\"Maintenant que j'y pense, j'ai dû bien\n examiner la clé rouge durant la Première Épreuve.\n T'pourrais peut-être faire une découverte capitale !\"",
@@ -2432,10 +2432,10 @@
             "\"... Je suis \\C[2]Kai Satou\\C[0].\n Je suis un assistant ménager assez banal.\"",
             "\\.\"C'est quoi ce que tu as derrière ton dos...?\"",
             "\\.\"Ce sont une poêle... une louche... et une spatule.\"",
-            "\\.\"C... C'est pas ce que je voulais dire...\"",
+            "\\.\"C... Ce n'est pas ce que je voulais dire...\"",
             "\"\\C[2]Q-taro Burgerberg\\C[0] !\n J'suis un joueur de baseball !\n J'suis qu'remplaçant, par contre !\"",
             "\\.\"Ouaaah... C'est pour ça que t'es si grand !\"",
-            "\\.\"1 mètre 93 de haut ! Et en plus j'suis musclé !\"",
+            "\\.\"1 mètre 93 de haut !\n Et d'surplus j'suis musclé, t'entends !\"",
             "\"... On dirait que personne d'autre veut s'exprimer.\"",
             "\\.\"Bon, Sara, et si t'essayais de leur\n poser des questions ?\"",
             "\\.\"M-Moi ?\"",
@@ -2453,11 +2453,11 @@
         ],
         "41-0-message": [
             "\"Hein ? Je me suis pas déjà présenté ?\"",
-            "\"Je suis \\C[2]Keiji Shinogi\\C[0.]\nJe travaille en tant que policier.\"",
+            "\"Je suis \\C[2]Keiji Shinogi\\C[0].\nJe travaille en tant que policier.\"",
             "\\.\"Toi et Joe êtes amis, c'est ça ?\n Si seulement je connaissais quelqu'un, ici...\"",
             "\"Je m'appelle \\C[2]Keiji Shinogi\\C[0].\n J'suis policier.\"",
             "\\.\"Hein ?! T'es policier ?!\"",
-            "\\.\"C'est bien ça. Alors t'as pas intérêt à m'embêter.\n ... Enfin, non pas que je sois vraiment ce type de flic.\"",
+            "\\.\"C'est bien ça. Alors t'as pas intérêt à m'embêter.\n ... Enfin, non pas que je sois vraiment\n ce type de flic.\"",
             "\\.\"M... Mais t'aurais du le dire plus tôt !\"",
             "\\.\"Je me suis fait enlever au beau milieu d'une enquête.\n Je pouvais pas juste le cracher comme ça.\"",
             "\\.\"J'aurais pas dû être méfiant... Merde...\"",
@@ -2465,7 +2465,7 @@
             "\\.\"...\"",
             "\"Un groupe de petits voleurs. Pour être honnête,\n je doute qu'ils aient un lien avec tout ça.\"",
             "\"J'étais avec ma partenai.. enfin, une collègue.\n Mais je me suis retrouvé seul juste une seconde,\n je me suis fait assommer, et voilà où j'en suis.\"",
-            "\\.\"Et aucun de tes collègues est ici ?\"",
+            "\\.\"Et aucun de tes collègues n'est ici ?\"",
             "\\.\"Pas un seul.\"",
             "\\.\\C[4](Alors tout le monde n'est pas arrivé par pair...)"
         ],
@@ -2484,13 +2484,13 @@
             "\\.\"... D'accord...\"",
             "\\.\"... Euh... Je suis... au collège...\n Et... eum, euh...\"",
             "\\.\"Ça va aller, tu peux prendre ton temps.\"",
-            "\\.\"... Je rentrais à la maison... avec ma grande soeur...\n On mangeait des glaces...\"",
+            "\\.\"... Je rentrais à la maison... avec ma grande sœur...\n On mangeait des glaces...\"",
             "\\.\"On marchait et on parlait...\n de ce qu'on aurait pour le dîner..\"",
             "\\.\"... D'un coup... d'effrayantes personnes sont\n sorties d'une voiture noire garée sur la route...\"",
             "\\.\"Je vois... Ça a dû être effrayant.\"",
             "\\.\"Oui...\"",
             "\\.\\C[4](Sa sœur...)",
-            "\\.\\C[4](De la manière dont elle le raconte, on dirait\n qu'elles se sont toutes les deux faites enlevées, pourtant...)",
+            "\\.\\C[4](De la manière dont elle le raconte,\n on dirait qu'elles se sont toutes les deux\n faites enlevées, pourtant...)",
             "\\.\\C[4](Il n'y a que Kanna, ici...)",
             "\\.\\C[4](J'ai un mauvais pressentiment... je pense\n que je ne devrais pas lui demander maintenant.)",
             "\\.\"... Tu n'étais pas avec ta sœur ?\"",
@@ -2515,20 +2515,20 @@
             "\\.\"Sara.\n Comment va Kanna...?\"",
             "\\.\"On dirait qu'elle s'est évanouie...\"",
             "\\.\"Merde, c'est vraiment un truc de taré !\n Elle est MORTE...?!\"",
-            ".\\\" Elle a fait quoi cette pauvre fille, hein !?\nIl a pas de cœur, le coupable, ou quoi ?!\"",
+            "\\.\"Elle a fait quoi cette pauvre fille, hein !?\nIl a pas de cœur, le coupable, ou quoi ?!\"",
             "\\.\"On dirait... que ce n'est pas juste\n une mauvaise blague.\"",
             "\\.\"J... Je n'aime pas ça...\n C'est juste... juste horrible...\"",
             "\\.\"Allons, tout le monde, gardez votre calme.\n Vous avez votre ami le policier avec vous.\"",
             "\\.\"Hey, Keiji ! C'est toi le gars de confiance, ici !\n On devrait faire quoi ?!\"",
             "\\.\"... T'as vite changé de ton.\"",
             "\\.\"Hé bien, commençons par le commencement.\n Pourquoi ne pas revenir sur ce que chacun\n de nous a trouvé ici ?\"",
-            "\\.\"Ça m'a l'air d'être une bonne idée.\"",
+            "\\.\"Cela m'a l'air d'être une bonne idée.\"",
             "\\.\"C'exactement ce qu'j'voulais dire !\n Là, j'ai ramassé c'truc.\"",
             "\\.\"C'est une boîte énorme, miaou !\"",
             "\\.\"Je parie qu'une pastèque pourrait rentrer dedans...\"",
             "\\.\"Tu l'as trouvée... durant la Première Épreuve ?\"",
             "\\.\"Ouaip. J'veux dire, porter cette boîte\n était l'objectif même de ma Première Épreuve...\"",
-            "\\.\"Attends, quoi ?!\n On a pas tous eu les même Premières Épreuves ?\"",
+            "\\.\"Attends, quoi ?!\n On a pas tous eu les mêmes Premières Épreuves ?\"",
             "\\.\"On peut en discuter plus tard.\n D'abord, ouvrons cette boîte.\"",
             "\\.\"On peut pas. Regarde, elle a des serrures.\"",
             "\\.\"Sara, t'as une idée ?\"",
@@ -2540,7 +2540,7 @@
             "\"..........\"",
             "\\.\\C[4](Elle n'est toujours pas en condition de parler...)",
             "\"Ough... Sniff...\"",
-            ".\\C[4](Elle n'est pas en état de parler...)",
+            "\\.\\C[4](Elle n'est pas en état de parler...)",
             "\\.\"Aaaaa... oooouh...\"",
             "\\.\\C[4](Sans surprise, impossible pour l'instant.)",
             "\\.\"Tu vas bien...?\"",
@@ -2552,7 +2552,7 @@
             "\\.\"..........\"",
             "\\.\"Sniff... M-Merci beaucoup...\"",
             "\\.\\C[3]Il semblerait qu'elle se soit un peu calmée.",
-            ".\\C[4](Je vais essayer de lui parler à nouveau...)"
+            "\\.\\C[4](Je vais essayer de lui parler à nouveau...)"
         ],
         "1630-0-choice": [
             "Choisir ce sujet\nAnnuler",
@@ -2617,7 +2617,7 @@
         ],
         "44-0-message": [
             "\"... Reko Yabusame.\n Je suis chanteuse et auteur-compositeur.\"",
-            "\"Si les kidnappeurs ont jeté mon équipement...\n Je vais leur botter le cul !\"",
+            "\"Si les kidnappeurs ont jeté mon équipement...\n Je vais défoncer leurs culs !\"",
             "\"Comme l'a dit l'autre dragueur, mon groupe\n est devenu assez connu, au point\n d'apparaître dans des magazines.\"",
             "\\.\"M'appelle pas \"l'autre dragueur\"...\"",
             "\\.\"On avait enfin réussi à se faire connaître.\n Un futur brillant s'étendait devant nous...\"",
@@ -2642,7 +2642,7 @@
             "Ton instrument, a-t-il été pris ?\nNe peux-tu pas les contacter ?"
         ],
         "45-0-message": [
-            "\"Je me nomme Kai Satou.\n Un assistant ménage assez banal.\"",
+            "\"Je me nomme Kai Satou.\n Un assistant ménager assez banal.\"",
             "\"Il est assez préoccupant d'avoir été enlevé tandis\n que le linge est encore étendu...\"",
             "\\.\\C[4](Ouaip, je m'en rappellerais si j'avais\n rencontré un énergumène pareil...)",
             "\"Hm... Les Œufs Bénédictes est le plat que\n je cuisine le mieux.\"",
@@ -2660,10 +2660,10 @@
             "\\.\"Alors c'est bien notre première rencontre au final...\"",
             "\"Oh, la poêle et etcetera.\n Je les ai trouvés dans une salle où j'étais plus tôt.\"",
             "\\.\"Donc, tu les as trouvés après être arrivé ici.\"",
-            ". \"Oui, c'est exact.\nJe me suis dis qu'ils pouvaient servir de protection.\"",
+            "\\.\"Oui, c'est exact.\n Je me suis dis qu'ils pouvaient servir de protection.\"",
             "\\.\"Ah...\"",
             "\\.\"Je n'y avais pas pensé.\n En... voulez-vous un ?\"",
-            "\\.\"Hein... ? Pour me protéger ?\"",
+            "\\.\"Hein... ? Pour me protéger ?\"",
             "\\.\"Oui, je vous offre tout sauf la poêle...\"",
             "\\.\"Alors je passe.\"",
             "\\.\\C[4](Je croyais l'avoir déjà vu quelque part...\n Mais en lui parlant, je n'en ai pas l'impression\n du tout.)",
@@ -2682,7 +2682,7 @@
             "\\.\"Quelle bonne élève j'ai, oui...\"",
             "\"D'ailleurs, je professe le Japonais et l'art...\n Mouaha...\"",
             "\\.\"Hein, t'es enseignant ? J'ai du mal à me l'imaginer.\"",
-            "\\.\"En effet, c'est ce qu'on me dit souvent...\"",
+            "\\.\"En effet, c'est ce que l'on me dit souvent...\"",
             "\\.\"Je suis mal placé pour le dire,\n mais t'es suspect sous tous les angles.\"",
             "\\.\"Tu es vraiment mal placé pour le dire !\n Je te prie de demander pardon auprès du\n professeur immédiatement !\"",
             "\\.\"Ouh là. Qu'est-ce que vous avez, petite dame ?\"",
@@ -2694,13 +2694,13 @@
             "\\.\"... Autant pour moi, alors. Je m'excuse.\"",
             "\\.\"Oui, il est temps de se calmer...\"",
             "\\.\\C[4](Devrais-je demander quelque chose\n au Professeur Mishima ?)",
-            "\"Hrrrmmmmm...\n Je ne... me rappelle pas avoir attiré\n le courroux de quiconque...\"",
+            "\"Hrrrmmmmm...\n Je ne... me rappelle pas m'être attiré\n le courroux de quiconque...\"",
             "\\.\"Je vois...\"",
             "\\.\"Bien sûr, il y eût des fois où des étudiants\n ne m'apprécièrent guère... mais...\"",
             "\\.\"...\"",
-            "\\.\"Non, aucun étudiant ne causerait un incident pareil...\n Ou du moins, c'est ce que j'aimerais croire...\"",
-            ".\\\" Puisque après tout, comme vous pouvez le voir, j'ai\nmême des étudiants qui viennent me voir après qu'ils\naient reçu leurs diplômes. Mouahaha.\"",
-            "\\.\"Je pense aussi que nous avons survécu à la\n \\C[2]Première Épreuve\\C[0] grâce à nos\n sagesses combinées.\"",
+            "\\.\"Non, aucun étudiant ne causerait un tel incident...\n Ou du moins, c'est ce que j'aimerais croire...\"",
+            "\\.\"Puisque après tout, comme vous pouvez le voir, j'ai\nmême des étudiants qui viennent me voir après qu'ils\naient reçu leurs diplômes. Mouahaha.\"",
+            "\\.\"Je pense aussi que nous avons survécu à la\n \\C[2]Première Épreuve\\C[0] grâce à nos sagesses combinées.\"",
             "\"C'était un jour joyeux.\n Mes élèves voulaient apprendre à peindre à l'huile,\n j'ai donc tenu une leçon à mon atelier secret...\"",
             "\\.\"Tout le monde adore le professeur !\"",
             "\\\".J'ai aussi raccompagné tout le monde chez eux...\n Tandis que je me dirigeais vers la dernière maison,\n il y avait un poste de contrôle de sécurité.\"",
@@ -2719,18 +2719,18 @@
             "\\.\"Je voulais juste souligner le fait qu'il\n pourrait y avoir un collaborateur...\"",
             "\"Sara se faisait harceler par un stalker, alors\n je l'ai raccompagnée chez elle ce jour-là.\"",
             "\\.\"Puis il y a eu un incident alors\n j'ai appelé la police, mais...\"",
-            "\\.\"J'ai entendu Sara crier, donc j'ai couru\n et j'ai monté les escaliers.\"",
+            "\\.\"J'ai entendu Sara crier, donc j'ai accouru\n pour monter les escaliers.\"",
             "\\.\"Et là se tenait \\C[2]ce satané stalker\\C[0] !\"",
             "\\.\\C[4](Hein ?!)",
             "\\.\"C'est la première fois que j'entends parler de ça !\"",
             "\\.\"Héhéhé... Pas eu l'opportunité de le mentionner.\"",
             "\\.\"Du coup après, j'ai rassemblé tout mon courage\n pour frapper le gars.\"",
             "\\.\"Après, j'suis nul en lutte, donc...\n Vu que je me rappelle pas avoir gagné,\n j'imagine que j'ai perdu.\"",
-            "\\.\"C'est pourquoi... je sais que ce gars\n est le coupable de cette affaire.\"",
+            "\\.\"C'est pourquoi... je sais que ce gars\n est le coupable dans cette affaire.\"",
             "\\.\"... Intéressant. Continue.\"",
             "\\.\"Désolé, mais c'est tout ce que je sais.\n Vu que j'ai perdu connaissance...\"",
             "\\.\"Après... Pas moyen que ce soit le coup\n d'un seul petit stalker à la con.\"",
-            "\\.\"C'est un crime organisé. Pas vrai, monsieur le flic ?\"",
+            "\\.\"C'est un crime organisé. Pas vrai, Monsieur le flic ?\"",
             "\\.\"... Ça se pourrait.\"",
             "\\.\"...\"",
             "\\.\"Je me demande si parmi nous...\"",
@@ -2746,7 +2746,7 @@
             "\\.\\C[4](Peut-être qu'il pourrait y avoir\n quelque chose comme ça...)"
         ],
         "48-0-message": [
-            "\"J-Je suis une ancienne élève du professeur Mishima !\n Je suis désormais dans une université d'art !\"",
+            "\"J-Je suis une ancienne élève du professeur Mishima !\n Je suis désormais en université d'art !\"",
             "\"La Première Épreuve... C'était terrifiant...\n On avait qu'une clé... mais on l'a poncée,\n et on a réussi à s'échapper...\"",
             "\"Je m'appelle \\C[2]Nao Egokoro\\C[0] !\n C'est grâce au professeur Mishima que\n j'étudie en université d'art, maintenant !\"",
             "\\.\"Le professeur est une bonne personne !\n Je vous en supplie, croyez-moi ! Saraaaaa !!\"",
@@ -2762,20 +2762,21 @@
             "\\.\"À part ça... Tout ce dont je me rappelle,\n c'est la Première Épreuve.\"",
             "\\.\"C'était un jeu où nous étions attachés à des lits...\n et nous devions nous échapper avec une seule clé...\"",
             "\\.\\C[4](C'est la même chose que nous...!)",
-            "\\.\"Je... Le professeur Mishima m'a dit\n d'utiliser le papier abrasif sur la clé...\n et j'ai ensuite retiré ses liens.\"",
+            "\\.\"Je... Le professeur Mishima m'a dit\n d'utiliser le papier abrasif sur la clé...\n et j'ai ensuite retiré ses liens avec.\"",
             "\\.\"Honnêtement...\n C'est grâce à lui que j'ai pu rester calme...\"",
             "\\.\\C[4](La confiance...)",
             "\\.\\C[4](Était-ce un jeu qui évaluait la confiance...?)",
             "\\.\\C[4](Mais pourquoi... le coupable ferait-il ça ?)",
             "\\.\\C[4](...)",
-            "\\.\\C[4](... Est-ce qu'il nous observaient ?)",
+            "\\.\\C[4](... Nous observaient-ils ?)",
             "\\.\\C[4](Regarder un jeu ignoble...\n qui joue avec les vies des gens...!!)",
             "\\.\"Sara... Tu vas bien ?\n Tu as l'air énervée...\"",
             "\\.\"Ah... Je vais bien...\"",
-            "\\.\"... Je n'aime pas Keiji, mais toi, je t'apprécie, Sara.\"",
+            "\\.\"... Je n'aime pas Keiji, mais toi,\n je t'apprécie, Sara.\"",
             "\\.\"... Je n'aime pas le policier mais toi,\n je t'apprécie, Sara.\"",
             "\\.\"Hein...?\"",
-            "\\.\"Je te prie de prendre bien soin de ton ami...!\""
+            "\\.\"Je te prie de bien prendre soin de ton ami...!\"",
+            "\\.\"... *soupir*...\""
         ],
         "48-0-choice": [
             "À propos de la Première Épreuve\nSouvenirs d'avoir été amenée ici"
@@ -2783,7 +2784,7 @@
         "49-0-message": [
             "\"Très bien, puis-je me présenter aussi ?\"",
             "\"Je suis \\C[2]Sou Hiyori\\C[0].\n Je ne me rappelle pas de quoi que ce soit\n de grave en particulier...\"",
-            "\"Je m'appelle \\C[2]Sou Hiyori\\C[0].\n Euh... Hé bien...\nJ'enchaîne juste les petits boulots. Ahaha...\"",
+            "\"Je m'appelle \\C[2]Sou Hiyori\\C[0].\n Euh... Hé bien...\n J'enchaîne juste les petits boulots. Ahaha...\"",
             "\\.\"Donc tu vis de la main à la bouche, miaou ?\"",
             "\\.\"H... Hé, ne le dis pas comme ça...\n Je n'en ai pas beaucoup, mais j'ai des économies.\"",
             "\\.\"Pourquoi ne voulais-tu pas te\n présenter initialement ?\"",
@@ -2795,15 +2796,15 @@
             "\\.\"Ahaha... A-Allons bon...\n Ne me regarde pas aussi pitoyablement...\"",
             "\\.\"Sara, tu as l'air inébranlable et forte.\n Je suis jaloux.\"",
             "\\.\"D'ailleurs, je voulais te demander quelque chose...\"",
-            "\\.\"La vache... Tu demandes ça sans\npasser par quatre chemin.\"",
+            "\\.\"La vache... Tu demandes ça sans\n passer par quatre chemins.\"",
             "\\.\"Des idées, hein... Je n'en ai aucune.\"",
             "\\.\"Je m'excuse sur le champ après chaque dispute...\n Je ne laisse même pas suffisamment d'impression\n sur quiconque pour être haï.\"",
             "\\.\"Parfois, je me dis que je ne suis pas\n suffisamment reconnaissant envers\n mes parents, mais...\"",
             "\\.\"Ils me gâtent tellement... Ah là là...\nIl faut vraiment que devienne indépendant...\"",
-            "\\.\"La vache... Tu demandes ça sans\npasser par quatre chemin.\"",
+            "\\.\"La vache... Tu demandes ça sans\n passer par quatre chemins.\"",
             "\\.\"J'étais sur le chemin de la supérette pour mon\n travail à temps partiel comme à mon habitude.\"",
             "\\.\"C'est dans des quartiers violents de la ville...\n et j'étais conscient d'à quel point il pouvait\n être dangereux d'être dehors de nuit...\"",
-            "\\.\"Mais les salaires de nuit sont bons... du coup...\"",
+            "\\.\"Mais les salaires de nuit sont bons... Alors...\"",
             "\\.\"Puis tout d'un coup, quelqu'un m'a attaqué.\n Je ne me rappelle de rien suivant ça.\"",
             "\\.\"Euh, désolé...\n Je ne me rappelle pas de grand chose.\"",
             "\\.\"... Hé bien, nous non plus.\"",
@@ -2822,7 +2823,7 @@
             "\\.\"Hmm... Je pense pouvoir faire confiance à\n grande sœur Sara, miaou !\"",
             "\"Je m'appelle \\C[2]Gin Ibushi\\C[0], ouaf !\n Je suis en sixième, miaou !\"",
             "\\.\"Super présentation, gamin.\"",
-            "\\.\"Me traite pas de gamin !\n Je me suis présenté juste parce que vous\n avez pas l'air bien méchant, ouaf !\"",
+            "\\.\"Me traite pas de gamin !\n Je me suis présenté juste parce que vous\n avez pas l'air bien méchants, ouaf !\"",
             "\\.\"Tu te rappelles de quoi que ce soit\n concernant la raison ton enlèvement ?\"",
             "\\.\"Ouaf... nan.\"",
             "\\.\"Il se faisait tard mais Maman était pas à la maison,\n donc je suis resté debout pour l'attendre...\n Puis j'ai entendu l'interphone sonner, donc...\"",
@@ -2846,7 +2847,7 @@
             "\\.\"...\"",
             "\\.\"... Ouaf ! T'as l'air gentille, grande sœur Sara !\n Je veux bien te faire confiance, miaou !\"",
             "\\.\"G-Grande sœur...?!\"",
-            "\\.\"... Hein ? C'est pas grand frère, si, ouaf ?\n\\! Peut-être que je me suis totalement trompé, miaou...\"",
+            "\\.\"... Hein ? C'est pas grand frère, si, ouaf ?\n\\! Peut-être que je me trompe sur toute la mise, miaou...\"",
             "\\.\"Ce n'est pas le problème !\"",
             "\\.\\C[4](Si j'avais un petit frère, je me\n demande s'il me parlerait comme ça...)"
         ],
@@ -3291,7 +3292,7 @@
             "Oui\nNon"
         ],
         "242-0-choice": [
-            null,
+            "Utiliser l'objet sélectionné\nAnnuler",
             null,
             null,
             null,
@@ -3437,7 +3438,7 @@
             "Collaborons pour rentrer chez nous\nT'es un dur"
         ],
         "53-0-message": [
-            "\\C[3]Une grosse boîte, suffisamment\n large pour contenir une pastèque.",
+            "\\C[3]Une grosse boîte, suffisamment\nlarge pour contenir une pastèque.",
             "\\C[3]La clé rentre parfaitement dans la serrure.",
             "\\.\\C[4](Il y a 3 serrures. Ce qui veut dire...)",
             "\"Peut-on utiliser notre clé aussi ?!\"",
@@ -3497,7 +3498,9 @@
             "\\.\\C[4](La Première Épreuve... Une tête de poupée...\n et un corps...)",
             "\\.\\C[4](Essayons de trouver une sorte d'indice...!)",
             "\"C'est quoi ça ?! Ça va pas marcher sur moi !\"",
-            "(Mince... ! C'était une erreur !)\n\n\n* PV diminués"
+            "(Mince... ! C'était une erreur !)\n\n\n* PV diminués",
+            "\\.\\C[4](Elle est plutôt lourde...\n 20 ou 30 kilogrammes, peut-être ?)",
+            "\\.\\C[4](Et il y a 3 serrures...!)"
         ],
         "137-0-message": [
             null,
@@ -5007,6 +5010,597 @@
             null,
             null,
             "\\.\\C[4](Mince... ! C'était une erreur !)"
+        ],
+        "31-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "32-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "33-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "53-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "137-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "138-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "139-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "142-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "164-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "165-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "166-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "167-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "170-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "172-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "173-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "174-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "195-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "196-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "197-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "200-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "201-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "204-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "205-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "206-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "207-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "220-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "221-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "241-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "243-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "244-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "245-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "246-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "247-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "248-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "249-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "250-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "253-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "254-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "255-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "256-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "257-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "258-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "262-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "264-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "471-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "475-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "509-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "510-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "513-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "514-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "515-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "518-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "519-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "521-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "525-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "526-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "527-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "528-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "529-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "532-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "533-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "534-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "535-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "536-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "543-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "553-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "554-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "557-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "558-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "614-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "615-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "652-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "653-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "654-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "655-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "656-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "657-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "658-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "659-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "662-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "663-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "664-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "665-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "669-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "670-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "671-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "672-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "673-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "674-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "675-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "676-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "678-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "697-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "717-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "718-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "719-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "720-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "723-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "724-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "725-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "726-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "728-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "730-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "740-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "741-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "742-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "743-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "744-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "745-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "749-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "750-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "751-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "752-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "754-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "758-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "759-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "760-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "761-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "762-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "765-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "766-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "767-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "768-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "769-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "770-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "771-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "775-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "778-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "779-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "781-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "782-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "783-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "784-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "787-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "788-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "789-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "790-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "791-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "795-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "796-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "797-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "798-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "799-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "803-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "804-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "805-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "806-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "807-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "809-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "817-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "818-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "819-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "821-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "822-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "823-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "863-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "865-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "983-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "984-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "985-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "986-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "988-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "992-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "993-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "994-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "996-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "997-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "998-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "130-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "133-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "175-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "208-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "211-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "212-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "261-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "263-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "476-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "520-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "522-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "537-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "547-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "555-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "556-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "561-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "562-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "616-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "666-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "753-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "755-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "772-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "780-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "792-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "800-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "820-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "824-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "862-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
+        ],
+        "864-0-choice": [
+            "Utiliser l'objet sélectionné\nAnnuler"
         ]
     },
     "map107": {
