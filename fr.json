@@ -2281,6 +2281,28 @@
         ],
         "12-1-message": [
             "\\C[3]Un billet de 1000 yens.\nDe l'argent liquide utilisable au Japon."
+        ],
+        "3-2-message": [
+            "\\C[3]De sinistres animaux en peluche."
+        ],
+        "4-1-message": [
+            "\\C[3]Un torse de poupée est posé contre le mur.",
+            "\\.\"I... Il ne va pas bouger, hein...?\"",
+            "\\.\"Je me demande si c'est...\"",
+            "\\.\"Tu te rappelles de la note que Keiji avait lu ?\""
+        ],
+        "3-1-message": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.\\C[4](J'espère qu'elles pourront nous donner\n un indice sur les kidnappeurs...)"
         ]
     },
     "map30": {
