@@ -2123,9 +2123,9 @@
             "\\C[3]Un cigare dans un emballage de haute qualité."
         ],
         "1-1-message": [
-            null,
+            "\\C[3]Une jolie fléchette.\nElle est très solide.",
             "\\.\\C[3]Devrait pouvoir être combinée avec un autre objet.",
-            null,
+            "La Fléchette est insérée dans le trou\nau centre du Revolver.",
             "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Revolver\\C[3] !",
             "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
@@ -2134,7 +2134,10 @@
         ],
         "6-1-message": [
             "\\C[3]Un revolver.\nUne arme qui tire des balles. Elle peut en\ncharger jusqu'à 9 dans sa chambre circulaire.\nÀ quoi peut bien servir le trou en son centre... ?",
-            "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet."
+            "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet.",
+            "La Fléchette est insérée dans le trou\nau centre du Revolver.",
+            "La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Revolver\\C[3] !",
+            "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
         "7-1-message": [
             "\\C[3]Des fausses balles. J'en ai 6. Si on les tire,\nelles ne font que du bruit."
@@ -2164,17 +2167,161 @@
         ],
         "7-1-message": [
             "\\C[3]Un revolver.\nUne arme qui tire des balles. Elle peut en\ncharger jusqu'à 9 dans sa chambre circulaire.\nÀ quoi peut bien servir le trou en son centre... ?",
-            "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet."
+            "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet.",
+            "La Fléchette a été insérée dans le trou\nau centre du Revolver.",
+            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Revolver\\C[3] !",
+            "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
         "9-1-message": [
             "\\C[3]Des vraies balles. J'en ai 3.\nPeuvent être chargées dans un pistolet puis tirées.\nExtrêmement létales."
         ],
         "3-1-message": [
-            null,
-            "\\.\\C[3]Devrait pouvoir être combinée avec un autre objet."
+            "\\C[3]Une jolie fléchette.\nElle est très solide.",
+            "\\.\\C[3]Devrait pouvoir être combinée avec un autre objet.",
+            "La Fléchette est insérée dans le trou\nau centre du Revolver.",
+            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Revolver\\C[3] !",
+            "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
         "10-1-message": [
             "\\C[3]Un billet de 1000 yens.\nDe l'argent liquide utilisable au Japon."
+        ],
+        "1-1-message": [
+            "\"Il y a un distributeur rouge de ce côté.\"",
+            "\\.\"Il ne vend que des cigarettes.\n J'imagine qu'au fond, ce doit être un fumoir...\"",
+            "\\.\"Tu ne devrais pas en acheter si tu es mineure.\n Je ne voudrais pas que tu deviennes une délinquante.\"",
+            "\\.\\C[4](Tous les délinquants ne fument pas, mais bon...)"
+        ],
+        "1-3-message": [
+            "\"... Sara...\"",
+            "\\.\"Kanna...!\"",
+            "\\.\"H-Hey, tu devrais pas rester couchée ?\"",
+            "\\.\"... J... Je...\"",
+            "\\.\\C[4](Qu'est-ce qu'elle a...?)",
+            "\\.\"Non... C'est pas ça...\"",
+            "\\.\"C'est juste que... je voulais vraiment te demander...\"",
+            "\\.\"Pour ma soeur...\"",
+            "\\.\"...!\"",
+            "\\.\"S'il te plaît... réponds-moi...\"",
+            "\\.\"Là-bas... est-ce que Kanna aurait vraiment pu...\n\\! sauver sa soeur...?\"",
+            "\\.\"..........\"",
+            "\\.\"J'étais perdue...\n Je n'ai pas entendu ce que les autres ont dit.\"",
+            "\\.\"Mais toi et Joe... Et Mishima et Nao...\n Vous avez tous eu la même chose, c'est ça...?\"",
+            "\\.\"Kanna...\"",
+            "\\.\"... Est-ce que Kanna... aurait pu la sauver ?\"",
+            "\\.\"..........\"",
+            "\\C[3]J'étais sur le point de dire la vérité quand...",
+            "\\C[3]J'étais sur le point de mentir pour la soulager,\nquand...",
+            "\\.\"K-Kanna... Écoute...\"",
+            "\\C[3]Joe était sur le point de dire quelque chose, quand...",
+            "\\.\"Eh bien, Kanna.\n Reko et Nao vous cherchent, vous savez ?\"",
+            "\\.\"... Ah...\"",
+            "\\.\"Je vous ai entendu discuter, alors je\n suis venu vous chercher.\"",
+            "\\.\"..........\"",
+            "\\.\"Monsieur Mishima...\"",
+            "\\.\"...\"",
+            "\\.\"Je vous en prie, dites-moi... Je...\"",
+            "\\.\"... Vous n'avez pas eu de chance, Kanna.\"",
+            "\\.\"Hein...?\"",
+            "\\.\"Puisque nous n'avions qu'une clé, nous...\"",
+            "\\.\"Nous avons dû nous libérer \\C[2]par la force\\C[0].\"",
+            "\\.\"...!\"",
+            "\\.\"... Heureusement, Nao m'avait à ses côtés,\n et Sara avait Joe.\"",
+            "\\.\"Puisque nous avions chacun un \\C[2]homme\\C[0] parmi nous,\n nous avons pu nous échapper de justesse.\"",
+            "\\.\"N... Non...! Vous mentez...\n C'est impossible...\"",
+            "\\.\"C... Ce n'est pas un mensonge !\n C'est la vérité, Kanna !\"",
+            "\\.\"Je suppose que c'était une épreuve de...\n force et de capacité à évaluer la situation.\"",
+            "\\.\"Pour vous et votre soeur...\n Vous n'aviez presque aucune chance de réussite...\"",
+            "\\.\"J... Je ne vous crois pas !\n Vous mentez...\"",
+            "\\.\"C'est la vérité, Kanna.\"",
+            "\\.\"S... Sara...\"",
+            "\\.\"M... Même si on dirait que c'est un mensonge...\n C'est la réalité...\"",
+            "\\.\"On te dit tous... la vérité...\"",
+            "\\.\"..........\"",
+            "\\.\"Kanna... Vous avez des regrets, correct ?\"",
+            "\\.\"J'ai... Kanna...\"",
+            "\\.\"... a tué sa soeur...!\"",
+            "\\.\"Sa soeur essayait frénétiquement de l'aider et\n de la guider mais Kanna est une idiote...\n Elle ne l'a pas écoutée...!!\"",
+            "\\.\"Dites-moi, comment était votre soeur...?\"",
+            "\\.\"..........\"",
+            "\\.\"... Soeurette...\"",
+            "\\.\"..........\"",
+            "\\.\"Ma soeur était... gentille...\"",
+            "\\.\"Même quand on se disputait... elle n'était\n jamais cruelle...!\"",
+            "\\.\"Elle pensait toujours à Kanna...!\"",
+            "\\.\"...!\"",
+            "\\.\"Pourquoi... est-ce qu'elle n'a pas gardé la clé...?!\"",
+            "\\.\"Peut-être était-ce parce que votre existence même\n rendait votre soeur heureuse ?\"",
+            "\\.\"...!\"",
+            "\\.\"Kanna, je peux sentir que vous avez été aimée\n comme si c'était dans l'air.\"",
+            "\\.\"Il est certain que... vous avez été élevée\n avec une extrême attention, n'est-ce pas ?\"",
+            "\\.\"Je suis sûr que c'était une soeur formidable.\"",
+            "\\.\"... Ah...\"",
+            "\\.\"... Aah... Sniff...\"",
+            "\\.\"Sara, si vous étiez sa soeur,\n que lui diriez-vous ?\"",
+            "\\.\\C[4](Si... j'étais elle...?)",
+            "\\.\"..........\"",
+            "\\.\"Kanna...\"",
+            "\\.\"Quand tu es à mes côtés...\n plus rien ne peut m'arrêter.\"",
+            "\\.\"Je suis sûre que... même séparées,\n je serai toujours quelque part dans ton coeur. Alors...\"",
+            "\\.\"Accroche-toi...!\"",
+            "\\.\"..........\"",
+            "\\.\"Kanna...\"",
+            "\\.\"Quand tu souris, ça me rend heureuse,\n et quand tu pleures, ça me rend triste.\"",
+            "\\.\"En tant que grande soeur...\n Laisse-moi protéger la petite soeur que je chéris tant.\"",
+            "\\.\"C'est te voir vivre... qui me rend heureuse !\"",
+            "\\.\"... Soeu... rette...\"",
+            "\\.\"Tu me manques tellement... grande soeur...\"",
+            "\\.\"Il n'est plus temps de vous faire des reproches.\n Votre soeur vous observe d'un endroit meilleur.\"",
+            "\\.\"..........\"",
+            "\\.\"...Kanna...\"",
+            "\\.\"Kanna ne se laissera pas faire...!\"",
+            "\\.\"Parce que... sa soeur la regarde...!\"",
+            "\\.\"Kanna !!\"",
+            "\\.\"Reko...\"",
+            "\\.\"Merde ! Hey, le prof' à la noix !\n Je vous avais pas dit de \"crier quand\n vous l'avez trouvé\" ?!\"",
+            "\\.\"Ah là là, il semblerait que je me fasse sermonner.\"",
+            "\\.\"Ce n'est pas ça, Reko. C'est que, eum...\n Allons-y, je vous expliquerai en marchant, d'accord ?\"",
+            "\\.\"... Hein ? S-Sérieux...?\n Ouais, okay...\"",
+            "\\.\"De même, je vais retourner à mes recherches.\"",
+            "\\.\"Le Professeurr Mishima...\"",
+            "\\.\"Non, c'est moi qui suis reconnaissant envers vous...\"",
+            "\\.\"Vous pensez ?\n ... Quel adulte désespéré je suis devenu...\"",
+            "\\.\"C'est grâce à votre coopération que\n j'ai pu intervenir.\"",
+            "\\.\"Nan, j'ai rien pu faire...\"",
+            "\\.\"Sara. Comprenez-vous la raison pour laquelle\n Kanna vous a posé cette question ?\"",
+            "\\.\"Hein...?\"",
+            "\\.\"Parce que vous ressemblez probablement à sa soeur.\n Ce qui expliquerait pourquoi elle voulait\n vous l'entendre dire.\"",
+            "\\.\"... Ah bon...?\"",
+            "\\.\"Sara...\"",
+            "\\.\"Jusqu'à ce que nous nous échappions...\n Je vous prie de jouer le rôle de la grande\n soeur de Kanna.\"",
+            "\\.\"...!\"",
+            "\\.\"Et pour Joe, celui du petit frère.\"",
+            "\\.\"Sérieux, pourquoi j'suis pas l'grand frère ?!\"",
+            "\\.\"Hahaha... Très bien, sur ce...\"",
+            "\\.\\C[4](Moi, devenir une grande soeur pour Kanna ?)",
+            "\\.\\C[4](Je ne sais pas... si je peux faire\n une chose pareille...)"
+        ],
+        "1-3-choice": [
+            "Tu veux me dire quelque chose ?\nIl s'est passé quelque chose ?",
+            "Tu aurais pu la sauver\nTu n'aurais pas pu la sauver\nDemander à Joe",
+            "L'encourager\nLui montrer de l'affection",
+            "Merci beaucoup\nVous êtes un bon menteur"
+        ],
+        "11-1-message": [
+            "\\C[3]Le distributeur est remplit de cigarettes.",
+            "\\C[3]Il y a quelque chose dans la fente...",
+            "\\.\\C[3]Cigare obtenu.",
+            "\"Il est énorme ce cigare ! Genre, comme ceux des\n boss des mafias et tout !\"",
+            "\"Il a la classe pour un cigare, hein ?\""
+        ],
+        "38-1-message": [
+            "\\C[3]La zone au fond semble être un fumoir."
+        ],
+        "54-1-message": [
+            "\\C[3]Une pancarte avec \"JEU\" inscrit."
+        ],
+        "11-2-message": [
+            "\\C[3]Le distributeur est remplit de cigarettes."
         ]
     },
     "map26": {
@@ -2276,14 +2423,20 @@
         ],
         "9-1-message": [
             "\\C[3]Un revolver.\nUne arme qui tire des balles. Elle peut en\ncharger jusqu'à 9 dans sa chambre circulaire.\nÀ quoi peut bien servir le trou en son centre... ?",
-            "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet."
+            "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet.",
+            "La Fléchette est insérée dans le trou\nau centre du Revolver.",
+            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Revolver\\C[3] !",
+            "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
         "11-1-message": [
             "\\C[3]Des vraies balles. J'en ai 3.\nPeuvent être chargées dans un pistolet puis tirées.\nExtrêmement létales."
         ],
         "5-1-message": [
-            null,
-            "\\.\\C[3]Devrait pouvoir être combinée avec un autre objet."
+            "\\C[3]Une jolie fléchette.\nElle est très solide.",
+            "\\.\\C[3]Devrait pouvoir être combinée avec un autre objet.",
+            "La Fléchette a été insérée dans le trou\nau centre du Revolver.",
+            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Revolver\\C[3] !",
+            "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
         "12-1-message": [
             "\\C[3]Un billet de 1000 yens.\nDe l'argent liquide utilisable au Japon."
@@ -2295,19 +2448,28 @@
             "\\C[3]Un torse de poupée est posé contre le mur.",
             "\\.\"I... Il ne va pas bouger, hein...?\"",
             "\\.\"Je me demande si c'est...\"",
-            "\\.\"Tu te rappelles de la note que Keiji avait lu ?\""
+            "\\.\"Tu te rappelles de la note que Keiji avait lu ?\"",
+            "\\.\"Trouver le \\C[2]corps\\C[0]...!\n C'est vrai, il y avait la note.\"",
+            "\"Ton imagination est particulière... voir délirante.\"",
+            "\\.\"Délirante...?\"",
+            "\\.\"P-Plus important... Tu ne penses pas qu'il\n serait lié à la tête qu'il y avait dans la boîte ?\"",
+            "\\.\"Trouver le \\C[2]corps\\C[0]...!\n C'est vrai, il y avait la note.\"",
+            "\\.\"Je me demande si la tête de la boîte\n peut être combinée avec ce torse...\"",
+            "\\.\"Tu penses que ça provoquera quelque chose ?\"",
+            "\\.\"Ça se pourrait. Ce qui est un peu effrayant...\"",
+            "\\.\"O-Oui, tu as raison ! On devrait fouiller un peu\n plus les environs, d'abord ! A... Ahaha...\""
         ],
         "3-1-message": [
             "\\C[3]Quelque chose est posé à côté des peluches.",
             "\\.\\C[3]Balles obtenues.",
             "\\.\\C[4](Elles sont plutôt légères...)",
             "\"Hé... Laisse-moi y jeter un coup d'œil.\"",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\.\"... Ahh, je vois.\n Ce sont des fausses.\"",
+            "\\.\"Des fausses ?\"",
+            "\\.\"Tu sais, comme des jouets.\n Quand on les tire avec un pistolet,\n elles ne font qu'un bruit.\"",
+            "\\.\"Alors ce ne sont pas des vraies.\"",
+            "\\.\"C'est ça. Elles sont inoffensives.\"",
+            "\\.\"J'ai une idée. Demandons à Keiji.\n Il devrait avoir plus d'expérience que nous, alors\n il pourra peut-être trouver quelque chose.\"",
             "\\.\\C[4](J'espère qu'elles pourront nous donner\n un indice sur les kidnappeurs...)"
         ],
         "1-1-message": [
@@ -2318,6 +2480,50 @@
         "1-2-message": [
             "\"Ouah... Cette salle est bizarre.\"",
             "\\.\"... Soyons prudents.\""
+        ],
+        "4-1-choice": [
+            "Lié à la tête dans la boîte ?\nUtilisable comme objet contondant ?"
+        ],
+        "4-2-message": [
+            "\\C[3]Un torse de poupée est posé contre le mur.",
+            "\"On peut le laisser là pour l'instant, non...?\n Non ?\""
+        ],
+        "4-3-message": [
+            "\\C[3]Un torse de poupée est posé contre le mur.",
+            "\"C'est quoi ce truc...?!\"",
+            "\\.\"Je me demande si c'est...\"",
+            "\\.\"Tu te rappelles de la note que Keiji avait lu ?\"",
+            "\\.\"Trouver le \\C[2]corps\\C[0]...!\n Ouais, la note...!\"",
+            "\"Euh... Sara ? Parfois t'as des idées... incroyables...\"",
+            "\\.\"Je plaisante, Joe.\"",
+            "\\.\"T'étais obligée de plaisanter sur ça ?!\n En tout cas, tu penses pas qu'ça pourrait être\n en lien avec la tête qu'on a trouvé ?\"",
+            "\\.\"Trouver le \\C[2]corps\\C[0]...\n Y avait la note aussi, tu t'en rappelles ?\"",
+            "\\.\"Je me demande si la tête de la boîte\n peut être combinée avec ce torse...\"",
+            "\\.\"Combinée...?! Je suis sûr que ça fera quelque chose !\"",
+            "\\.\"Okay, on essaiera de le faire quand on aura\n entièrement fini d'examiner cet endroit.\"",
+            "\\.\"D'accord ! Allons chercher ailleurs !\""
+        ],
+        "4-3-choice": [
+            "Lié à la tête dans la boîte ?\nUtilisable comme objet contondant ?"
+        ],
+        "4-4-message": [
+            "\\C[3]Un torse de poupée est posé contre le mur.",
+            "\\C[4](Tête, bras gauche, bras droit, jambe gauche\n et jambe droite... Il ne me manque rien.)",
+            "\\C[4](Devrais-je... les combiner ?)",
+            "\"Allons chercher ailleurs d'abord, Sara.\"",
+            "\"... Ah, attends...!\n Je vais chercher les autres !\""
+        ],
+        "4-4-choice": [
+            "Attacher les membres\nMe préparer (Annuler)"
+        ],
+        "23-1-message": [
+            "\\C[3]De sinistres animaux en peluche."
+        ],
+        "31-1-message": [
+            "\\C[3]C'est une fente d'aération en forme de coeur."
+        ],
+        "39-1-message": [
+            "\\C[3]Les étagères sont vides."
         ]
     },
     "map30": {
