@@ -2356,6 +2356,24 @@
         ],
         "18-1-message": [
             "\\C[3]Un billet de 1000 yens.\nDe l'argent liquide utilisable au Japon."
+        ],
+        "1-3-message": [
+            "\"Hé, Sara. Tu as trouvé quelque chose ?\"",
+            "\\.\"Non... Il y a encore trop de zones d'ombre.\"",
+            "\\.\"Ce qui m'embête le plus,\n c'est ce revolver et ces balles présents dans la pièce.\"",
+            "\\.\"Pourquoi est-ce qu'on nous\n aurait donné une arme... ?\"",
+            "\\.\"...\"",
+            "\\.\"Peut-être pour créer la zizanie.\"",
+            "\\.\"La zizanie ?\"",
+            null,
+            null,
+            null,
+            "\\.\"...Pourquoi vous me faites autant confiance ?\""
+        ],
+        "1-1-message": [
+            "\"Eh, qu'est-ce que c'est ?\"",
+            "Des silhouettes humaines sont assises sur les fauteuils.",
+            "\"Allons voir ça de plus près...\""
         ]
     },
     "map29": {
