@@ -6189,7 +6189,7 @@
     },
     "items-40": {
         "name": "Annuler",
-        "description": "Annule la sélection."
+        "description": "Annuler la sélection."
     },
     "items-50": {
         "name": "Clé de la Cuisine",
@@ -6236,10 +6236,10 @@
     },
     "items-100": {
         "name": "Annuler",
-        "description": "Annule la sélection."
+        "description": "Annuler la sélection."
     },
     "items-150": {
-        "description": "Annule la sélection.",
+        "description": "Annuler la sélection.",
         "name": "Annuler"
     },
     "items-166": {
@@ -6277,7 +6277,7 @@
     },
     "items-200": {
         "name": "Annuler",
-        "description": "Annule la sélection."
+        "description": "Annuler la sélection."
     },
     "items-206": {
         "name": "\\I[26]Tête de \\N[4]"
