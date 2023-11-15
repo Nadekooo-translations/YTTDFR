@@ -1481,6 +1481,31 @@
         ],
         "30-1-message": [
             "\\C[3]Un billet de 1000 yens.\nDe l'argent liquide utilisable au Japon."
+        ],
+        "17-3-message": [
+            "\\C[3]Tirer sur le mannequin ?",
+            "\\.\\C[3]La tête du mannequin s'est envolée.",
+            "\\.\\C[3]Il ne s'est rien passé."
+        ],
+        "9-3-message": [
+            null,
+            null,
+            "\\.\\C[3]Il ne s'est rien passé."
+        ],
+        "11-3-message": [
+            null,
+            null,
+            "\\.\\C[3]Il ne s'est rien passé."
+        ],
+        "18-3-message": [
+            null,
+            null,
+            "\\.\\C[3]Il ne s'est rien passé."
+        ],
+        "19-3-message": [
+            null,
+            null,
+            "\\.\\C[3]Il ne s'est rien passé."
         ]
     },
     "map36": {
@@ -2367,7 +2392,7 @@
             "\\.\"La zizanie ?\"",
             null,
             null,
-            null,
+            "\\.\"Heureusement qu'on a notre bonne vieille Sara\n avec nous. On ne se fera pas avoir comme ça.\"",
             "\\.\"...Pourquoi vous me faites autant confiance ?\""
         ],
         "1-1-message": [
@@ -2616,6 +2641,60 @@
         "9-1-message": [
             "\\C[3]Un revolver.\nUne arme qui tire des balles. Elle peut en\ncharger jusqu'à 9 dans sa chambre circulaire.\nÀ quoi peut bien servir le trou en son centre... ?",
             "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet."
+        ],
+        "1-1-message": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.\"Ahaha ! Comme vous êtes sérieux ! Ahaha !\"",
+            "\\.\"Arrête de te marrer, connasse !!\n Tu veux qu'on te bute ?!\"",
+            "\\.\"Hihi... Non, je préfèrerais rester en vie...\n Je n'aimerais pas être encore en morceaux...\"",
+            "\\.\"Éhé... hihi... Je sais...\n Je n'ai qu'à vous mettre en morceaux en premier...\"",
+            "\\.\"Nous mettre en morceaux...?!\"",
+            "\\.\"Ahahaha. C'est bien ça, en guise d'avertissement...\""
         ]
     },
     "map32": {
