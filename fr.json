@@ -93,7 +93,7 @@
             "\\.\"Tiens ? On dirait que nous ne sommes pas seuls.\"",
             "\\.\"J'adore les votes à la majorité ! Ils représentent comment\n la démocratie devrait être, suivant la volonté du peuple !\n C'est une méthode qui réduit les conflits !\"",
             "\\.\"Je hais les votes à la majorité !\n Ils font taire les minorités et ne font que\n renforcer les ténèbres tapies dans l'ombre !\"",
-            "\"Ahh... On dirait que cette dispute est plutôt tendue.\"",
+            "\"Haa... On dirait que cette dispute est plutôt tendue.\"",
             "\\.\"Juste par curiosité, quelle opinion soutiens-tu ?\n Celle de M. Bleu, ou celle de Mme. Rouge ?\"",
             "\"Ohh... Elle est morte.\"",
             "\\.\"Mais tant mieux pour toi !\n Ton opinion était la plus supportée !\"",
@@ -102,10 +102,10 @@
             "\\.\"Mais tant mieux pour toi !\n Ton opinion était la plus supportée !\"",
             "\\.\"C'est avec cette expérience que vous découvrez la\n terreur que peuvent apporter les votes à la majorité.\"",
             "\\.\"Hein...?\"",
-            "\\.\"Mais si c'est votre choix qui a été pris, ne\n devriez-vous pas reconnaître l'intérêt de\n ces votes, du coup ?\"",
+            "\\.\"Mais si ce résultat vous satisfait, ne\n devriez-vous pas reconnaître l'intérêt\n des votes à la majorité, du coup ?\"",
             "\\.\"... Hé bah, c'est compliqué tout ça.\"",
-            "\\.\"... Hmm ? C'est quoi ce regard ?\n\\! Si tu avais su que l'autre personne allait mourir,\n alors tu n'aurais pas voté ?\"",
-            "\\.\"Allons... Ça ne t'amènera nul part, tu sais ?\n C'est le sujet même de ce jeu...\"",
+            "\\.\"... Hmm ? C'est quoi ce regard ?\n\\! Si tu avais su que l'autre personne allait mourir,\n alors, tu n'aurais pas voté ?\"",
+            "\\.\"Allons... Ça ne t'amènera nulle part, tu sais ?\n C'est le principe même de ce jeu...\"",
             "\\.\"...Hmm, ça n'a pas l'air de te satisfaire...\"",
             "\\.\"Très bien, si tu insistes... alors votons !\n Ton opinion contre la mienne !\"",
             "\\.\"Okay, alors... c'est parti.\""
@@ -120,7 +120,7 @@
             "\\.\"Des mises à jour sont prévues pour\n ajouter une deuxième partie, corriger la première,\n et graduellement améliorer les évènements.\"",
             "\\.\"Aussi, sachez que les données de sauvegardes\ndatant d'avant les mises à jour pourraient ne plus\nfonctionner à cause des modifications.\"",
             "\\.\"Par ailleurs, je crois que si vous sauvegardez ici,\nvous pourrez directement commencer la Partie Deux\nquand elle sera ajoutée ! ... Voulez-vous sauvegarder ?\"",
-            "\\.\"Si vous en avez l'envie, il serait aimable que vous\nreportiez les erreurs que vous avez rencontrés ou vos avis.\nMerci d'avance !\"",
+            "\\.\"Si vous en avez l'envie, il serait aimable que vous\nreportiez les erreurs que vous avez rencontrées ou vos avis.\nMerci d'avance !\"",
             "\\.* PS : \"Grâce à votre aide, plusieurs erreurs\n graves ont été réparées ! Merci beaucoup !\n Étant un projet personnel, la progression est lente, mais\npouvoir voir vos prédictions de l'histoire est une bénédiction.\"",
             "\\.\"À présent, vous allez retourner à l'écran titre.\n Cela vous va-t-il ?\"",
             "\\.\"Merci d'avoir joué jusqu'ici.\""
@@ -403,20 +403,20 @@
             "Argh...",
             "\\.J'ai fait un rêve bizarre...",
             "\\.J'ai mal à la mâchoire...",
-            "\\.Parce que je dormais sur la table...",
-            "\\.Il est déjà si tard... ? Je dois rentrer chez moi...",
-            "\\.... Je devrais me dépêcher..."
+            "\\.Parce que je dormais la tête sur la table...",
+            "\\.Il est déjà si tard… ? Je dois rentrer chez moi...",
+            "\\.... Je ferais mieux de me dépêcher..."
         ]
     },
     "map3": {
         "1-3-message": [
             "\\.\\C[4](Voir l'école plongée dans l'obscurité...\n L'ambiance est totalement différente de nuit.)",
             "\\.\\C[4](Les lumières...)",
-            "\\.\\C[4](... Je dois rentrer à pied alors qu'il\n fait si sombre...?)"
+            "\\.\\C[4](... Je dois rentrer à pied alors qu'il\n fait si sombre... ?)"
         ],
         "14-1-message": [
             "\\C[3]La mare du campus.",
-            "\\.\\C[3]La rumeur dit que si quelqu'un regarde dans\nl'eau à minuit, son reflet se mettra à parler.",
+            "\\.\\C[3]La rumeur dit que si quelqu'un regarde dedans\n à minuit, son reflet se mettra à parler.",
             "\\.\\C[4](... Ça pourrait être vraiment bien pour un asocial.)"
         ],
         "16-1-message": [
@@ -431,7 +431,7 @@
             "\\.\\C[4](Je... n'ai pas très envie de partir pour l'instant.)"
         ],
         "17-3-message": [
-            "\\C[10]Il y a quelqu'un...\\|\\.\\.\\^",
+            "\\C[10]Il y a quelqu'un... \\|\\.\\.\\^",
             "\"Quess' tu fais, Sara ?\"",
             "\\.\"Joe...!\"",
             "\\C[2]Jou Tazuna\\C[0], plus connu sous le nom de \\C[2]Joe\\C[0].\nMon camarade de classe en cours.\nOn s'est souvent retrouvés ensemble.",
@@ -439,7 +439,7 @@
             "\"Bon, t'inquiète pas pour ça ! Écoute un peu !\n J'ai un truc à t'raconter !\"",
             "\\.\"Un truc à me raconter ?\"",
             "\\.\"Merci !\"",
-            "\\.\"Merci... ? Mais pourquoi...?\"",
+            "\\.\"Merci… ? Mais pourquoi… ?\"",
             "\\.\"Oh, tu sais ! Tu nous as présentés, pas vrai ?!\n Moi et Ryoko !\"",
             "\\.\"C'est vrai...\"",
             "\\.\"C'est une fille tellement sympa !\n Je suis carrément ému !\"",
@@ -455,7 +455,7 @@
             "\\.\"Rentrons, Sara !\""
         ],
         "1-1-message": [
-            "\"Ouah, on voit presque rien dehors...\"",
+            "\"Ouah, on ne voit presque rien dehors...\"",
             "Touchez les endroits intéressants pour les examiner."
         ],
         "17-1-message": [
