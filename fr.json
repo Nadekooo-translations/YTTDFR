@@ -2522,7 +2522,10 @@
             "\\.\"...Pourquoi vous me faites autant confiance ?\"",
             null,
             null,
-            "\\.\\C[4](Je me demande pourquoi... ?)"
+            "\\.\\C[4](Je me demande pourquoi... ?)",
+            null,
+            "\\.\"Ah oui, Keiji.\n J'ai trouvé ces balles à blanc dans la cafétéria.\"",
+            "\\.\"...Qu'est-ce que c'est ?\""
         ],
         "1-1-message": [
             "\"Eh, qu'est-ce que c'est ?\"",
