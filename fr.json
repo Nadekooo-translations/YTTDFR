@@ -91,8 +91,8 @@
             "\\.\"Comme c'est étrange !\"",
             "\\.\"Tu sais, c'est quand des gens votent pour décider\n de quelque chose et c'est la proposition qui obtient\n le plus de vote qui devient celle que l'on choisit...\"",
             "\\.\"Tiens ? On dirait que nous ne sommes pas seuls.\"",
-            "\\.\"J'adore les votes à la majorité ! Ils représentent\n la démocratie et suivent la volonté du peuple !\n C'est une méthode qui réduit les conflits !\"",
-            "\\.\"Je hais les votes à la majorité !\n Ils font taire les minorités et ne font que\n croître les ombres dans les ténèbres !\"",
+            "\\.\"J'adore les votes à la majorité ! Ils représentent comment\n la démocratie devrait être, suivant la volonté du peuple !\n C'est une méthode qui réduit les conflits !\"",
+            "\\.\"Je hais les votes à la majorité !\n Ils font taire les minorités et ne font que\n renforcer les ténèbres tapies dans l'ombre !\"",
             "\"Ahh... On dirait que cette dispute est plutôt tendue.\"",
             "\\.\"Juste par curiosité, quelle opinion soutiens-tu ?\n Celle de M. Bleu, ou celle de Mme. Rouge ?\"",
             "\"Ohh... Elle est morte.\"",
@@ -106,7 +106,7 @@
             "\\.\"... Hé bah, c'est compliqué tout ça.\"",
             "\\.\"... Hmm ? C'est quoi ce regard ?\n\\! Si tu avais su que l'autre personne allait mourir,\n alors tu n'aurais pas voté ?\"",
             "\\.\"Allons... Ça ne t'amènera nul part, tu sais ?\n C'est le sujet même de ce jeu...\"",
-            "\\.\"... Ça n'a pas l'air de te convaincre, hein ?\"",
+            "\\.\"...Hmm, ça n'a pas l'air de te satisfaire...\"",
             "\\.\"Très bien, si tu insistes... alors votons !\n Ton opinion contre la mienne !\"",
             "\\.\"Okay, alors... c'est parti.\""
         ],
@@ -117,7 +117,7 @@
         "4-1-message": [
             "\\.\"Bonjour.\n Félicitations pour avoir fini le jeu !\"",
             "\\.\"Pour l'instant, seulement la Partie Une (ici)\n est disponible.\"",
-            "\\.\"Des mises à jour sont prévues pour\n ajouter un scénario Partie Deux, corriger la Partie Un,\n et graduellement améliorer des évènements.\"",
+            "\\.\"Des mises à jour sont prévues pour\n ajouter une deuxième partie, corriger la première,\n et graduellement améliorer les évènements.\"",
             "\\.\"Aussi, sachez que les données de sauvegardes\ndatant d'avant les mises à jour pourraient ne plus\nfonctionner à cause des modifications.\"",
             "\\.\"Par ailleurs, je crois que si vous sauvegardez ici,\nvous pourrez directement commencer la Partie Deux\nquand elle sera ajoutée ! ... Voulez-vous sauvegarder ?\"",
             "\\.\"Si vous en avez l'envie, il serait aimable que vous\nreportiez les erreurs que vous avez rencontrés ou vos avis.\nMerci d'avance !\"",
