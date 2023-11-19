@@ -2595,14 +2595,17 @@
             "\\.\"...\""
         ],
         "5-1-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\"...\""
+            "\"Il semblerait que ce soit une sorte de poupée.\"",
+            "\\.\"Je pense qu'elle n'a pas été placée ici pour rien.\"",
+            "\\.\"Sa tête est plutôt lourde.\"",
+            "\\.\"Quand je la secoue, j'entends... un liquide qui\n se renverse à l'intérieur.\"",
+            "\\.\"Un liquide...?\"",
+            "\\.\"Peut-être que les kidnappeurs comptent nous faire\n utiliser des pailles afin de nous réhydrater\n lorsque nous avons soif.\"",
+            "\\.\"Mais elles sont plutôt solides.\"",
+            "\\.\"...\"",
+            "\\.\"... Mes excuses.\n J'essayais de raconter une blague.\"",
+            "\\.\"Dans une situation pareille...?\"",
+            "\\.\"Je suis vraiment désolé...\""
         ],
         "6-1-message": [
             null,
@@ -2615,9 +2618,9 @@
             null,
             null,
             null,
-            null,
-            null,
-            null,
+            "\\.\\C[3]Il semblerait qu'il soit fixée à la chaise\npour qu'il ne puisse pas être déplacé.",
+            "\\.\"Une chose est sûre, ils ne les ont pas placés\n ici par hasard.\"",
+            "\\.\"En tout cas, je suis rassuré.\n Je ne sais pas ce que j'aurais fait si ils\n s'étaient mis à nous attaquer !\"",
             null,
             null,
             null,
@@ -2640,6 +2643,12 @@
             null,
             null,
             "\\.\"...\""
+        ],
+        "4-2-message": [
+            null,
+            null,
+            "\"Bien... J'ai intêret à être un bon policier et à\n continuer d'examiner les alentours.\"",
+            "\\.\"Continuez aussi, vous deux.\""
         ]
     },
     "map29": {
