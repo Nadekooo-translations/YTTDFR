@@ -2587,13 +2587,17 @@
             "\\.\\C[4](Joe...)",
             null,
             null,
-            null,
+            "\\.\\C[4](Je ne peux pas lui dire que je\n ne suis pas confiante !!)",
             "\\.\"...\"",
             null,
             "\\.\"...\"",
+            "\\.\"Pas moyen. J'ne l'accepte pas.\"",
+            "\\.\"C'pas que j'te fais pas confiance...\n Ne l'prends pas mal.\"",
+            "\\.\"...\"",
+            "\\.\"... Il faudra s'en tenir à \\C[2]un vote\\C[0]...\"\\|",
             null,
             null,
-            "\\.\"...\""
+            "\\.\"Ouais... C'est sûrement la seule solution.\""
         ],
         "5-1-message": [
             "\"Il semblerait que ce soit une sorte de poupée.\"",
