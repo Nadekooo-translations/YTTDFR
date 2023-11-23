@@ -787,7 +787,8 @@
         ]
     },
     "items-70": {
-        "description": "Une carte. Il y est écrit \"Ceci est la clé de la sortie.\nVous mourez si qui que ce soit\napprends l'existence de cette carte.\""
+        "description": "Une carte. Il y est écrit \"Ceci est la clé vers la sortie.\nVous mourrez si qui que se soit\napprend l'existence de cette carte.\"",
+        "name": "Carte du M. des Clés"
     },
     "map193": {
         "24-1-message": [
@@ -8136,7 +8137,7 @@
         "name": "Fleur"
     },
     "items-73": {
-        "name": "Peinture"
+        "name": "Portrait"
     },
     "items-31": {
         "name": "Salle \"Sp\" (Rouge)"
@@ -14581,5 +14582,75 @@
     },
     "items-95": {
         "name": "Briquet"
+    },
+    "items-57": {
+        "name": "Peinture Gauche"
+    },
+    "items-58": {
+        "name": "Peinture Droite"
+    },
+    "items-59": {
+        "name": "Peinture Droite"
+    },
+    "items-66": {
+        "name": "Deux Aiguilles"
+    },
+    "items-68": {
+        "name": "Bouteille"
+    },
+    "items-69": {
+        "name": "Bouteille"
+    },
+    "items-72": {
+        "name": "Portrait",
+        "description": "Le portrait d'un homme vu de profil."
+    },
+    "items-74": {
+        "name": "Outils"
+    },
+    "items-75": {
+        "name": "Outils"
+    },
+    "items-76": {
+        "name": "Papier Déchiré"
+    },
+    "items-77": {
+        "name": "Papier Déchiré"
+    },
+    "items-82": {
+        "name": "Fléchette"
+    },
+    "items-83": {
+        "name": "Fléchette"
+    },
+    "items-86": {
+        "name": "Balles à blanc"
+    },
+    "items-87": {
+        "name": "Balles à blanc"
+    },
+    "items-90": {
+        "name": "Coupe-cigare"
+    },
+    "items-94": {
+        "name": "Briquet"
+    },
+    "items-67": {
+        "name": "Deux Aiguilles"
+    },
+    "items-56": {
+        "name": "Peinture Gauche"
+    },
+    "items-91": {
+        "name": "Coupe-cigare"
+    },
+    "items-92": {
+        "name": "Cigare"
+    },
+    "items-93": {
+        "name": "Cigare"
+    },
+    "items-71": {
+        "name": "Carte du M. des Clés"
     }
 }
