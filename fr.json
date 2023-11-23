@@ -2655,6 +2655,13 @@
             null,
             "\"Bien... J'ai intêret à être un bon policier et à\n continuer d'examiner les alentours.\"",
             "\\.\"Continuez aussi, vous deux.\""
+        ],
+        "3-1-message": [
+            "\"Je m'demande à quoi sert cette énorme peinture.\"",
+            "\\.\"Tu trouves qu'elle a quelque chose de louche ?\""
+        ],
+        "2-2-message": [
+            "\"Bon... On dirait qu'y a pas d'caméras.\""
         ]
     },
     "map29": {
