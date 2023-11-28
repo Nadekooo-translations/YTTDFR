@@ -2503,8 +2503,10 @@
             "\\C[3]Des vraies balles. J'en ai 3.\nPeuvent être chargées dans un pistolet puis tirées.\nExtrêmement létales."
         ],
         "11-1-message": [
-            null,
-            "\\.\\C[3]Devrait pouvoir être combinée avec un autre objet."
+            "\\C[3]Une jolie fléchette.\nElle est très solide.",
+            "\\.\\C[3]Devrait pouvoir être combinée avec un autre objet.",
+            "La Fléchette est insérée dans le trou\nau centre du Revolver.",
+            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Revolver\\C[3] !"
         ],
         "18-1-message": [
             "\\C[3]Un billet de 1000 yens.\nDe l'argent liquide utilisable au Japon."
@@ -2675,7 +2677,14 @@
             null,
             null,
             "\\.\"Ça pourrait être dangereux de le toucher.\n Restons prudents et ne le touchons pas.\"",
-            "\\.\"Tu as raison.\""
+            "\\.\"Tu as raison.\"",
+            null,
+            null,
+            "\\.\"Une chose est sûre, ils ne les ont pas placés\n ici par hasard.\"",
+            "\\.\"En tout cas, je suis rassuré.\n Je ne sais pas ce que j'aurais fait si ils\n s'étaient mis à nous attaquer !\""
+        ],
+        "7-1-choice": [
+            "Inspectons-le de plus près\nOn ne devrait pas le toucher"
         ]
     },
     "map29": {
