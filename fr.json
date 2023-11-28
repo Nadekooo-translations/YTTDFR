@@ -2665,6 +2665,17 @@
         ],
         "2-2-message": [
             "\"Bon... On dirait qu'y a pas d'caméras.\""
+        ],
+        "7-1-message": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.\"Ça pourrait être dangereux de le toucher.\n Restons prudents et ne le touchons pas.\"",
+            "\\.\"Tu as raison.\""
         ]
     },
     "map29": {
@@ -14666,7 +14677,8 @@
     "variables": {
         "3": {
             "緑の本": "Livre Vert",
-            "灯ろう": "Lanterne"
+            "灯ろう": "Lanterne",
+            "何かのメモ": "Note"
         }
     }
 }
