@@ -14662,5 +14662,11 @@
     },
     "items-71": {
         "name": "Carte du M. des Clés"
+    },
+    "variables": {
+        "3": {
+            "緑の本": "Livre Vert",
+            "灯ろう": "Lanterne"
+        }
     }
 }
