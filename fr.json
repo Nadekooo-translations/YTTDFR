@@ -2658,7 +2658,10 @@
         ],
         "3-1-message": [
             "\"Je m'demande à quoi sert cette énorme peinture.\"",
-            "\\.\"Tu trouves qu'elle a quelque chose de louche ?\""
+            "\\.\"Tu trouves qu'elle a quelque chose de louche ?\"",
+            null,
+            null,
+            "\\.\"J'pense que j'vais d'abord m'occuper des\n trucs simples, genre ces chaises.\""
         ],
         "2-2-message": [
             "\"Bon... On dirait qu'y a pas d'caméras.\""
