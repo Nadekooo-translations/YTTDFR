@@ -2497,7 +2497,10 @@
         ],
         "15-1-message": [
             "\\C[3]Un revolver.\nUne arme qui tire des balles. Elle peut en\ncharger jusqu'à 9 dans sa chambre circulaire.\nÀ quoi peut bien servir le trou en son centre... ?",
-            "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet."
+            "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet.",
+            "La Fléchette a été insérée dans le trou\nau centre du Revolver.",
+            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Revolver\\C[3] !",
+            "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
         "17-1-message": [
             "\\C[3]Des vraies balles. J'en ai 3.\nPeuvent être chargées dans un pistolet puis tirées.\nExtrêmement létales."
@@ -2506,7 +2509,8 @@
             "\\C[3]Une jolie fléchette.\nElle est très solide.",
             "\\.\\C[3]Devrait pouvoir être combinée avec un autre objet.",
             "La Fléchette est insérée dans le trou\nau centre du Revolver.",
-            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Revolver\\C[3] !"
+            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Revolver\\C[3] !",
+            "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
         "18-1-message": [
             "\\C[3]Un billet de 1000 yens.\nDe l'argent liquide utilisable au Japon."
@@ -8517,7 +8521,7 @@
     },
     "map27": {
         "1-1-message": [
-            null,
+            "\"Bon, discutons d'qui devrait être\n le Concurrent.\"",
             null,
             null,
             null,
