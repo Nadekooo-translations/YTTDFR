@@ -421,7 +421,7 @@
         ],
         "16-1-message": [
             "\\C[3]Les lumières sont allumées.\nC'est peut-être le garde de nuit.",
-            "\\.\\C[4](Merci pour votre infatigable service.)"
+            "\\.\\C[4](Merci pour votre inlassable service.)"
         ],
         "16-2-message": [
             "\\C[3]Les lumières sont éteintes."
