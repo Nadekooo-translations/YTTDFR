@@ -8587,6 +8587,19 @@
             "\\.\"Et je suis déterminée à tous nous sauver !\"",
             "\\.\"...!\"",
             "\"J'en suis consciente !\""
+        ],
+        "3-5-message": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.\"Alors laisse moi être le Concurrent !\"",
+            "\\.\"Non, je veux dire...!\"",
+            "\\.\"Les actes valent plus qu'les mots !\"",
+            "\\.\\C[4](Je me suis trompée...!)",
+            "\"Oui !\""
         ]
     },
     "map43": {
