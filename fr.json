@@ -2689,6 +2689,13 @@
         ],
         "7-1-choice": [
             "Inspectons-le de plus près\nOn ne devrait pas le toucher"
+        ],
+        "1-5-choice": [
+            "Je suis prête\nPas encore"
+        ],
+        "2-1-message": [
+            null,
+            "\\.\"Qu'est-ce que tu fais, Q-taro ?\""
         ]
     },
     "map29": {
