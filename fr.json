@@ -2525,7 +2525,7 @@
             "\\.\"Peut-être qu'ils veulent semer la zizanie.\"",
             "\\.\"La zizanie ?\"",
             "\\.\"La présence d'une arme crée un rapport de force...\n Qui accepterait d'être en position de faiblesse ?\"",
-            null,
+            "\\.\\C[4](Une lutte pour obtenir l'arme...\n Ouais, c'est possible.)",
             "\\.\"Heureusement qu'on a notre bonne vieille Sara\n avec nous. On ne se fera pas avoir comme ça.\"",
             "\\.\"... Pourquoi me fais-tu autant confiance ?\"",
             null,
