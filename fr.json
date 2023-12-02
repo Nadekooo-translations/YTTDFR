@@ -2669,9 +2669,14 @@
         "3-1-message": [
             "\"Je m'demande à quoi sert cette énorme peinture.\"",
             "\\.\"Tu trouves qu'elle a quelque chose de louche ?\"",
-            null,
-            null,
-            "\\.\"J'pense que j'vais d'abord m'occuper des\n trucs simples, genre ces chaises.\""
+            "\\.\"Ouais...\"",
+            "\\.\"Essaie de la décrocher du mur pour voir.\"",
+            "\\.\"J'pense que j'vais d'abord m'occuper des\n trucs simples, genre ces chaises.\"",
+            "\\.\"Mais dis-moi, Sara, c'est que t'es \n trop petite pour l'atteindre, hein ?\"",
+            "\\.\"Hey, j'ai pris un centimètre l'année dernière.\n Me prends pas à la légère !\"",
+            "\\.\"M... Meuf, me rabaisse pas...\"",
+            "\\.\"Je vais finir par t'appeler \"minus\" un de ces jours.\"",
+            "\\.\"Argh...!\""
         ],
         "2-2-message": [
             "\"Bon... On dirait qu'y a pas d'caméras.\""
@@ -2699,7 +2704,12 @@
         ],
         "2-1-message": [
             "\"J'vous l'dit, ça c'est un endroit pour\n l'moins suspect.\"",
-            "\\.\"Qu'est-ce que tu fais, Q-taro ?\""
+            "\\.\"Qu'est-ce que tu fais, Q-taro ?\"",
+            "\\.\"J'regarde juste la salle dans son ensemble.\"",
+            "\\.\"Mais ces gars... Ils examinent chaque recoin\n sans aucune hésitation... Ils ont pas peur d'tomber\n sur des pièges, et tout ?\""
+        ],
+        "3-2-message": [
+            "\"Euhh... Sou, c'est ça ?\""
         ]
     },
     "map29": {
