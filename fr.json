@@ -2709,7 +2709,13 @@
             "\\.\"Mais ces gars... Ils examinent chaque recoin\n sans aucune hésitation... Ils ont pas peur d'tomber\n sur des pièges, et tout ?\""
         ],
         "3-2-message": [
-            "\"Euhh... Sou, c'est ça ?\""
+            "\"Euhh... Sou, c'est ça ?\"",
+            "\"Ahaha, heureux que tu te sois rappelé de mon nom.\"",
+            "\\.\"T'inquiète, mec !\n Occupe-toi de Sara pour moi !\"",
+            "\\.\"... Ahaha. Je pense que je devrais plus\n m'inquiéter à ne pas la ralentir qu'autre chose.\""
+        ],
+        "3-3-message": [
+            "\"J'ai essayé de décrocher la peinture tout à l'heure...\""
         ]
     },
     "map29": {
