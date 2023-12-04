@@ -2625,7 +2625,7 @@
         ],
         "6-1-message": [
             null,
-            null,
+            "\\C[3]Une drôle de chose est assise ici.",
             null,
             null,
             null,
@@ -2661,8 +2661,8 @@
             "\\.\"...\""
         ],
         "4-2-message": [
-            null,
-            null,
+            "\"Je vais regarder ces balles à blanc de plus près.\"",
+            "\\.\"Donne-moi juste un peu de temps.\"",
             "\"Bien... J'ai intêret à être un bon policier et à\n continuer d'examiner les alentours.\"",
             "\\.\"Continuez aussi, vous deux.\""
         ],
@@ -2729,7 +2729,11 @@
             "\\.\"Sûrement. Elles sont dangereuses.\n Tu pourrais les prendre ?\"",
             "\\.\"Pourquoi moi...?\"",
             "\\.\"Joe sera mort d'angoisse si je les garde.\"",
-            "\\.\"Cela dit, je ne peux pas les lui donner non plus.\""
+            "\\.\"Cela dit, je ne peux pas les lui donner non plus.\"",
+            "\\.\"Du coup je compte sur toi, Sara.\""
+        ],
+        "5-2-message": [
+            "\"Je continue mes recherches avec diligence.\""
         ]
     },
     "map29": {
