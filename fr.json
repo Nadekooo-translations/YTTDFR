@@ -2715,7 +2715,21 @@
             "\\.\"... Ahaha. Je pense que je devrais plus\n m'inquiéter à ne pas la ralentir qu'autre chose.\""
         ],
         "3-3-message": [
-            "\"J'ai essayé de décrocher la peinture tout à l'heure...\""
+            "\"J'ai essayé de décrocher la peinture tout à l'heure...\"",
+            "\\.\"Mais elle est bien fixée au mur, pas d'chance.\"",
+            "\\.\"On ne peut rien faire d'autre avec, hein...\""
+        ],
+        "4-1-message": [
+            "\"Hey, Sara. Passe-moi ta main.\"",
+            "\\.\"Eum...\"",
+            "\\.\\C[3]Obtenu 3 Balles.",
+            "\\.\"Attends, ce sont...\"",
+            "\\.\"Non, ce ne sont pas les miennes.\n Je les ai trouvés en examinant les sièges.\"",
+            "\\.\"Je... n'en avais jamais vu de mes propres yeux.\n Ce sont des vraies ?\"",
+            "\\.\"Sûrement. Elles sont dangereuses.\n Tu pourrais les prendre ?\"",
+            "\\.\"Pourquoi moi...?\"",
+            "\\.\"Joe sera mort d'angoisse si je les garde.\"",
+            "\\.\"Cela dit, je ne peux pas les lui donner non plus.\""
         ]
     },
     "map29": {
