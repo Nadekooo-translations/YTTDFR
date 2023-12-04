@@ -885,7 +885,7 @@
             "\\.\"Hé, Joe...\"",
             "\"Y a pas de quoi !\"",
             "\"... Ouais !\"",
-            "\"On se voit demain...\n Au lycée !\"",
+            "\\.\"On se voit demain...\n Au lycée !\"",
             "\\C[3]Cependant... Ils ne se reverraient pas au lycée.",
             "\\.\\C[3]Cette nuit-là, ils se sont tous les deux retrouvés\nimpliqué dans un grave incident...",
             "",
@@ -939,8 +939,8 @@
             "\\.\"Pas encore... !\n Il faut... Il faut que je les appelle...\"",
             "\\.\"Je m'en occupe !\n Écoute, Sara ! Il faut que tu restes calme !\"",
             "\\C[3]Joe a commencé à passer des appels.",
-            "\\C[4](Qu'est-ce que je fais... ?\n Je suis complètement paniquée...)",
-            "\\C[4](Il faut que je fasse quelque chose...\n Quelque chose...)"
+            "\\.\\C[4](Qu'est-ce que je fais... ?\n Je suis complètement paniquée...)",
+            "\\.\\C[4](Il faut que je fasse quelque chose...\n Quelque chose...)"
         ],
         "2-1-message": [
             "\\C[3]La plante est renversée...",
@@ -954,7 +954,7 @@
         ],
         "14-1-message": [
             "\\C[3]Le salon.",
-            "\\C[3]Normalement, Maman serait en train de\nregarder la télé en m'attendant..."
+            "\\.\\C[3]Normalement, Maman serait en train de\nregarder la télé en m'attendant..."
         ],
         "14-2-message": [
             "\\C[3]Le salon.",
@@ -996,7 +996,7 @@
         "4-1-message": [
             "\\C[3]Il y a une clé par terre.",
             "\\.\\C[2]Clé de la Chambre\\C[3] obtenue.",
-            "\"Qu'est-ce qu'elle fait là...?\""
+            "\\.\"Qu'est-ce qu'elle fait là...?\""
         ],
         "6-1-message": [
             "\\C[3]La clé de la chambre à Sara."
@@ -2216,7 +2216,7 @@
             "\\.\"Nous vous prions de bien vouloir\n regarder dans le trou !\"",
             "\\.\\C[3]En regardant prudemment dans\nla crevasse autour de la cible...",
             "\\.\\C[3]Je vis quelque chose à portée de main.",
-            "\\.\\\\C[10]Jambe Gauche\\C[3] obtenue.",
+            "\\.\\C[10]Jambe Gauche\\C[3] obtenue.",
             "\\.\"Argh... C'est atroce...!\"",
             "\\.\"... Hm ?\"",
             "\\.\"Oh... En regardant d'un peu plus près...\n Ce n'est qu'une jambe de poupée.\"",
@@ -2289,7 +2289,7 @@
             "\\C[3]Un revolver.\nUne arme qui tire des balles. Elle peut en\ncharger jusqu'à 9 dans sa chambre circulaire.\nÀ quoi peut bien servir le trou en son centre... ?",
             "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet.",
             "La Fléchette est insérée dans le trou\nau centre du Revolver.",
-            "La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Revolver\\C[3] !",
+            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Revolver\\C[3] !",
             "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
         "7-1-message": [
@@ -2640,17 +2640,17 @@
             null,
             null,
             null,
-            null,
-            null,
-            null,
+            "\\.\\C[3]Revolver obtenu.",
+            "\\.\"... T'as l'intention de faire quoi avec ça ?\"",
+            "\\.\"Hein...?\"",
             "\\.\"...\"",
-            null,
-            null,
+            "\\.\"Ahh, pardon, Sara.\"",
+            "\\.\"Dis, tu pourrais me le donner ?\"",
             "\\.\"...\"",
             "\\.\"...\"",
-            null,
+            "\\.\"... Ahaha. Donner une arme à un étranger...\n Tu n'as pas peur ?\"",
             "\\.\"...\"",
-            null,
+            "\\.\"Tu penses être en sécurité juste parce que\n je n'ai pas de balles ?\"",
             null,
             null,
             null,
@@ -4193,8 +4193,8 @@
             "\\.\"Je pense aussi que nous avons survécu à la\n \\C[2]Première Épreuve\\C[0] grâce à nos sagesses combinées.\"",
             "\"C'était un jour joyeux.\n Mes élèves voulaient apprendre à peindre à l'huile,\n j'ai donc tenu une leçon à mon atelier secret...\"",
             "\\.\"Tout le monde adore le professeur !\"",
-            "\\\".J'ai aussi raccompagné tout le monde chez eux...\n Tandis que je me dirigeais vers la dernière maison,\n il y avait un poste de contrôle de sécurité.\"",
-            "\"Après que je m'y sois arrêté...\n Il semble que j'ai perdu connaissance.\"",
+            "\\.\"J'ai aussi raccompagné tout le monde chez eux...\n Tandis que je me dirigeais vers la dernière maison,\n il y avait un poste de contrôle de sécurité.\"",
+            "\\.\"Après que je m'y suis arrêté...\n Il semble que j'ai perdu connaissance.\"",
             "\\.\"À mon réveil, la \\C[2]Première Épreuve\\C[0] débuta.\"",
             "\\.\"!\"",
             "\\.\"Nous nous en sommes échappés sains et saufs grâce\n à nos esprits combinés. Sauvé par ma propre disciple...\"",
@@ -4970,7 +4970,7 @@
             "\\.\"Désolé, meuf ! J'suis déjà avec Keiji.\"",
             "\\.\"Hein ?\n J-Je vois...\"",
             "\\.\\C[4](Pourquoi avec Keiji...?)",
-            ".\\C[4]( Voyons voir... Q-taro est puissant...\nEt Nao peut se porter garant du Professeur Mishima...\nPeut-être Gin, vu qu'il n'est qu'un enfant..?)",
+            "\\.\\C[4]( Voyons voir... Q-taro est puissant...\nEt Nao peut se porter garant du Professeur Mishima...\nPeut-être Gin, vu qu'il n'est qu'un enfant..?)",
             "\\.\\C[4](... Ils tous l'air vraiment suspicieux, par contre.)",
             "\\.\\C[4](Voyons voir... Kai agit très bizarrement...\n Je n'arrive pas à me fier totalement à Keiji...\n Et Q-taro n'a pas l'air d'être mauvais, mais...)",
             "\\.\\C[4](... Raisonner comme ça ne va que me faire tout soupçonner.)",
