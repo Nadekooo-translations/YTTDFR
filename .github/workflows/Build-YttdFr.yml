@@ -68,6 +68,7 @@ jobs:
       - run: |
           echo "YTTD_FOLDER=yttd-${{ matrix.platform }}" >> $GITHUB_ENV
 
+      - uses: actions/checkout@v3
       - name: Download artefacts
         uses: actions/download-artifact@v3
       - name: Downloading nwjs
