@@ -59,10 +59,15 @@ jobs:
             archive_ext: zip
     env:
       NWJS_VERSION: v0.82.0
-      NWJS_FOLDER: nwjs-${{ env.NWJS_VERSION }}-${{ matrix.platform }}
-      NWJS_ARCHIVE: ${{ env.NWJS_FOLDER }}.${{ matrix.archive_ext }}
-      YTTD_FOLDER: yttd-${{ matrix.platform }}
     steps:
+      # GHA can't self-reference a single envvar map https://stackoverflow.com/a/75433159
+      - run: |
+          echo "NWJS_FOLDER=nwjs-${{ env.NWJS_VERSION }}-${{ matrix.platform }}" >> $GITHUB_ENV
+      - run: |
+          echo "NWJS_ARCHIVE=${{ env.NWJS_FOLDER }}.${{ matrix.archive_ext }}" >> $GITHUB_ENV
+      - run: |
+          echo "YTTD_FOLDER=yttd-${{ matrix.platform }}" >> $GITHUB_ENV
+
       - name: Download artefacts
         uses: actions/download-artifact@v3
       - name: Downloading nwjs
