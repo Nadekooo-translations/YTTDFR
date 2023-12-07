@@ -2529,7 +2529,7 @@
             "\\.\"Heureusement qu'on a notre bonne vieille Sara\n avec nous. On ne se fera pas avoir comme ça.\"",
             "\\.\"... Pourquoi me fais-tu autant confiance ?\"",
             "\\.\"Parce que t'es juste trop meugnonne.\"",
-            "\\.\\C[4](...Keiji s'est arrangé pour que tout le monde me fasse confiance.)",
+            "\\.\\C[4](...Keiji s'est arrangé pour que tout le monde me\n fasse confiance.)",
             "\\.\\C[4](Je me demande pourquoi... ?)",
             null,
             "\\.\"Ah oui, Keiji.\n J'ai trouvé ces balles à blanc dans la cafétéria.\"",
