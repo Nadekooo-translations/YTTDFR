@@ -2559,7 +2559,7 @@
             "\\.\"Merde, c'est un piège !\n Qui sait c'qui pourrait arriver !\n Restez sur vos gardes !\"",
             "\\.\\sw[99]\"Allons, détendez-vous.\"\\sw[100]",
             "\\.\"Quoi ?! Qui a dit ça ?!\"",
-            null,
+            "\\.\\sw[99]\"Ha ha ha.\n Restons sur l'essentiel.\"\\sw[100]",
             null,
             "\\.\\sw[99]\"Bon... pour aller droit au but, je\n vais vous expliquer les règles du prochain jeu.\"\\sw[100]",
             "\\.\"L... Les règles... ?\"",
