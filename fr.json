@@ -2561,7 +2561,7 @@
             "\\.\"Quoi ?! Qui a dit ça ?!\"",
             null,
             null,
-            null,
+            "\\.\\sw[99]\"Bon... pour aller droit au but, je\n vais vous expliquer les règles du prochain jeu.\"\\sw[100]",
             "\\.\"L... Les règles... ?\"",
             null,
             null,
