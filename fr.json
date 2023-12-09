@@ -8712,7 +8712,10 @@
             null,
             null,
             null,
-            "\\.\"...\""
+            "\\.\"...\"",
+            null,
+            null,
+            "\\.\"... Qu'est-c'que t'es cheloue comme lycéenne !\""
         ],
         "1-13-message": [
             "\"Ahh, argh... J'suis épuisé...\"",
@@ -8790,6 +8793,22 @@
             null,
             null,
             "\\.\"Ti es une lycéenne bien zarbi toi-même!\""
+        ],
+        "4-2-message": [
+            "\"On dirait qu't'as rien à dire !\"",
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
+        ],
+        "4-4-message": [
+            "\"On dirait qu't'as rien à dire !\"",
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
+        ],
+        "4-6-message": [
+            "\"On dirait qu't'as rien à dire !\"",
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
+        ],
+        "4-8-message": [
+            "\"On dirait qu't'as rien à dire !\"",
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ]
     },
     "map43": {
