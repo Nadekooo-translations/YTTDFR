@@ -2569,7 +2569,7 @@
             null,
             "\\.\\sw[99]\"L'un de vous sera le Concurrent,\n tandis que les quatre autres s’assiéront\n pour servir de cibles.\"\\sw[100]",
             "\\.\"Des cibles...? Des cibles de quoi ?!\"",
-            null,
+            "\\.\\sw[99]\"Hé bien, je vous ai laissé une super\n arme dans cette salle, pas vrai ?\"\\sw[100]",
             "\\.\"O... On va être les cibles d'un revolver ?!\"",
             "\\.\"Et donc ? Quelles sont les règles ?\n On peut sûrement gagner sans aucun sacrifice.\"",
             "\\.\\sw[99]\"Ha ha ha ! Mais naturellement !\n Un piège mortel ça fait juste vieux, vous voyez\n ce que je veux dire ?\"\\sw[100]",
