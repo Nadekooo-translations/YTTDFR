@@ -2567,7 +2567,7 @@
             null,
             null,
             null,
-            "\\.\\sw[99]\"L'un de vous sera le Challenger,\n tandis que les quatre autres s’assiéront pour servir de cibles.\"\\sw[100]",
+            "\\.\\sw[99]\"L'un de vous sera le Concurrent,\n tandis que les quatre autres s’assiéront\n pour servir de cibles.\"\\sw[100]",
             "\\.\"Des cibles...? Des cibles de quoi ?!\"",
             null,
             "\\.\"O... On va être les cibles d'un revolver ?!\"",
@@ -2624,22 +2624,22 @@
             "\\.\"Je suis vraiment désolé...\""
         ],
         "6-1-message": [
-            null,
+            "\\C[3]Une étrange figure est assise dans la chaise.",
             "\\C[3]Une drôle de chose est assise ici.",
             null,
             null,
             "\\.\"Sortons-le du siège et inspectons-le.\"",
             "\\.\"Tiens...? Il est collé au fauteuil.\"",
-            null,
-            null,
-            null,
+            "\\.\"Une chose est sûre, ils ne les ont pas placés\n ici par hasard.\"",
+            "\\.\"Ça pourrait être dangereux de le toucher.\n Restons prudents et ne le touchons pas.\"",
+            "\\.\"Tu as raison.\"",
             null,
             "\\.\\C[3]Il semblerait qu'il soit fixée à la chaise\npour qu'il ne puisse pas être déplacé.",
             "\\.\"Une chose est sûre, ils ne les ont pas placés\n ici par hasard.\"",
             "\\.\"En tout cas, je suis rassuré.\n Je ne sais pas ce que j'aurais fait si ils\n s'étaient mis à nous attaquer !\"",
+            "\\.\\C[4](Hein...?)",
             null,
-            null,
-            null,
+            "\\.\\C[4](C'est... un \\C[2]pistolet\\C[4] ?)",
             "\\.\\C[3]Revolver obtenu.",
             "\\.\"... T'as l'intention de faire quoi avec ça ?\"",
             "\\.\"Hein...?\"",
@@ -2651,13 +2651,13 @@
             "\\.\"... Ahaha. Donner une arme à un étranger...\n Tu n'as pas peur ?\"",
             "\\.\"...\"",
             "\\.\"Tu penses être en sécurité juste parce que\n je n'ai pas de balles ?\"",
-            null,
-            null,
-            null,
+            "\\.\"Je passe, Sara. Tu peux le garder.\n Tu ne devrais pas le lâcher aussi facilement.\"",
+            "\\.\"Je comprends...\"",
+            "\\.\"Content que tu me fasses confiance en tout cas.\n Ahaha.\"",
             "\\.\"...\"",
-            null,
-            null,
-            null,
+            "\\.\"Ahaha, tu as raison.\n Tu ne devrais pas le quitter du regard.\"",
+            "\\.\"Il n'a pas l'air d'être chargé, mais...\n Tu devrais le garder en ta possession.\"",
+            "\\.\"D'accord...\"",
             "\\.\"...\""
         ],
         "4-2-message": [
@@ -2683,16 +2683,16 @@
         ],
         "7-1-message": [
             null,
+            "\\C[3]Une drôle de chose est assise ici.",
             null,
             null,
+            "\\.\"Sortons-le du siège et inspectons-le.\"",
             null,
-            null,
-            null,
-            null,
+            "\\.\"Une chose est sûre, ils ne les ont pas placés\n ici par hasard.\"",
             "\\.\"Ça pourrait être dangereux de le toucher.\n Restons prudents et ne le touchons pas.\"",
             "\\.\"Tu as raison.\"",
             null,
-            null,
+            "\\.\\C[3]Il semblerait qu'il soit fixée à la chaise\npour qu'il ne puisse pas être déplacé.",
             "\\.\"Une chose est sûre, ils ne les ont pas placés\n ici par hasard.\"",
             "\\.\"En tout cas, je suis rassuré.\n Je ne sais pas ce que j'aurais fait si ils\n s'étaient mis à nous attaquer !\""
         ],
@@ -2734,6 +2734,28 @@
         ],
         "5-2-message": [
             "\"Je continue mes recherches avec diligence.\""
+        ],
+        "6-1-choice": [
+            "Inspectons-le de plus près\nOn ne devrait pas le toucher",
+            "Donner le pistolet à Sou\nNe pas lui donner"
+        ],
+        "6-2-message": [
+            null,
+            "\\C[3]Une drôle de chose est assise ici.",
+            null,
+            null,
+            "\\.\"Sortons-le du siège et inspectons-le.\"",
+            "\\.\"Tiens...? Il est collé au fauteuil.\"",
+            "\\.\"Une chose est sûre, ils ne les ont pas placés\n ici par hasard.\"",
+            "\\.\"Ça pourrait être dangereux de le toucher.\n Restons prudents et ne le touchons pas.\"",
+            "\\.\"Tu as raison.\"",
+            null,
+            "\\.\\C[3]Il semblerait qu'il soit fixée à la chaise\npour qu'il ne puisse pas être déplacé.",
+            "\\.\"Une chose est sûre, ils ne les ont pas placés\n ici par hasard.\"",
+            "\\.\"En tout cas, je suis rassuré.\n Je ne sais pas ce que j'aurais fait si ils\n s'étaient mis à nous attaquer !\""
+        ],
+        "6-2-choice": [
+            "Inspectons-le de plus près\nOn ne devrait pas le toucher"
         ]
     },
     "map29": {
@@ -8669,9 +8691,9 @@
     "map27": {
         "1-1-message": [
             "\"Bon, discutons d'qui devrait être\n le Concurrent.\"",
-            null,
-            null,
-            null,
+            "\\.\"Lorsque nous aurons tous décidé de nos opinions,\n nous pourrons voter.\"",
+            "\\.\"Sara...\"",
+            "\\.\"Tu sais ce qu'il te reste à faire !\n Montre à Q-taro que t'es de confiance !\"",
             "\\.\"...\""
         ],
         "3-9-message": [
@@ -8693,23 +8715,23 @@
             "\\.\"...\""
         ],
         "1-13-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\"Ahh, argh... J'suis épuisé...\"",
+            "\\.\\C[4](Moi aussi...\n Je n'avais jamais autant forcé sur ma voix.)",
+            "\\.\"Mais être honnête et s'disputer, c'est\n plutôt rafraichissant, en fait.\"",
+            "\\.\"Hein...?\"",
+            "\\.\"Bien, la discussion semble être revenue à la normale.\n S'il n'y a plus d'objections, pouvons-nous\n débuter le vote ?\"",
+            "\\.\"Oui. Désolé, je sais que vous deux devez être\n fatigués après ça, mais on devrait commencer.\"",
+            "\\>    Sara : 4 votes                    Q-taro : 1 vote\\<\\|",
+            "\\>    Sara : 3 votes                    Q-taro : 2 votes\\<\\|",
             "\"Bon... Bah on dirait qu'c'est décidé.\"",
             "\\.\"Vous n'avez rien à ajouter ?\"",
             "\\.\"Hahaha ! Bien sûr que non !\"",
             "\\.\"Sara, des gamins qui arrivent à être aussi clairs\n qu'toi, y en a pas beaucoup.\"",
             "\\.\"J'sens que j'pourrais même parier sur toi !\"",
-            null,
+            "\\.\"Hahaha ! Je n'y peux rien !\"",
             "\\.\"Sara, j'dois avouer qu'je n'pouvais\n pas croire des masses de c'que t'eusses dit...\"",
-            null,
-            null,
+            "\\.\"Mais t'as deux gars qui croient en toi.\"",
+            "\\.\"Alors n'les laissez pas tomber !\n Fais ça pour moi, et j'te ferai confiance aussi !\"",
             "\\.\"Q-taro...!\"",
             "\\.\"De la manière dont tu l'as dit, c'était cool.\"",
             "\\.\"Merde, à côté de vous j'ai l'impression\n d'être un gros égoïste.\"",
@@ -8733,7 +8755,11 @@
             "\\.\"Je n'ai peut-être pas d'expérience, mais je peux\n garder mon sang-froid !\"",
             "\\.\"Et je suis déterminée à tous nous sauver !\"",
             "\\.\"...!\"",
-            "\"J'en suis consciente !\""
+            "\"J'en suis consciente !\"",
+            "\\.\"J'me l'demande !\n On peut dire c'qu'on veut après tout !\"",
+            "\\.\"Non, je veux dire...!\"",
+            "\\.\\C[4](On... On ne peut pas expliquer ce genre de choses !)",
+            "\\.\\C[4](C'est un échec...!)"
         ],
         "3-5-message": [
             null,
@@ -8749,10 +8775,10 @@
             "\"Oui !\""
         ],
         "3-3-message": [
-            null,
-            null,
-            null,
-            null,
+            "\"À cause de son traumatisme, Keiji est incapable\n de viser quelqu'un au pistolet !\"",
+            "\\.\"Oui... mais...\"",
+            "\\.\"Alors tu mettrais ta vie entre les mains d'une\n personne qui ne se fait pas confiance à elle-même ?!\"",
+            "\\.\"...!\"",
             null,
             null,
             null,
