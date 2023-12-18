@@ -419,7 +419,7 @@
         "14-1-message": [
             "\\C[3]La mare du campus.",
             "\\.\\C[3]La rumeur dit que si quelqu'un regarde dedans\n à minuit, son reflet se mettra à parler.",
-            "\\.\\C[4](... Ça pourrait être vraiment bien pour un asocial.)"
+            "\\.\\C[4](... Ça pourrait être pas mal pour un solitaire.)"
         ],
         "16-1-message": [
             "\\C[3]Les lumières sont allumées.\nC'est peut-être le garde de nuit.",
@@ -436,8 +436,8 @@
             "\\C[10]Il y a quelqu'un... \\|\\.\\.\\^",
             "\"Quess' tu fais, Sara ?\"",
             "\\.\"Joe...!\"",
-            "\\C[2]Jou Tazuna\\C[0], plus connu sous le nom de \\C[2]Joe\\C[0].\nMon camarade de classe en cours.\nOn s'est souvent retrouvés ensemble.",
-            "\"T'es restée aussi tard juste pour les clubs ?!\n Je commençais à m'atrophier à force d'attendre !\"",
+            "\\C[2]Jou Tazuna\\C[0], plus connu sous le nom de \\C[2]Joe\\C[0].\nMon camarade de classe au lycée.\nOn s'est souvent retrouvés ensemble.",
+            "\"T'es restée aussi tard juste pour les clubs ?!\n Je commençais à dessécher à force d'attendre !\"",
             "\"Bon, t'inquiète pas pour ça ! Écoute un peu !\n J'ai un truc à t'raconter !\"",
             "\\.\"Un truc à me raconter ?\"",
             "\\.\"Merci !\"",
