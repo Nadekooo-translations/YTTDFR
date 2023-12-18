@@ -2565,7 +2565,7 @@
             "\\.\"L... Les règles... ?\"",
             null,
             null,
-            null,
+            "\\.\\sw[99]\"Il est simple celui-là ! À l'heure actuelle,\n vous êtes \\C[2]cinq\\C[0] humains dans\n cette salle, vous voyez ?\"\\sw[100]",
             "\\.\\sw[99]\"Jetez un œil autour de vous... !\n Il y a \\C[2]quatre\\C[0] sièges vides.\"\\sw[100]",
             "\\.\\sw[99]\"L'un de vous sera le Concurrent,\n tandis que les quatre autres s’assiéront\n pour servir de cibles.\"\\sw[100]",
             "\\.\"Des cibles...? Des cibles de quoi ?!\"",
