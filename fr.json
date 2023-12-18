@@ -8505,6 +8505,13 @@
         ],
         "6-1-choice": [
             "Oui\nNon"
+        ],
+        "6-5-message": [
+            null,
+            null,
+            null,
+            null,
+            "La prochaine victime fut\nl'intérimaire \\C[2]Sou Hiyori\\C[0]."
         ]
     },
     "map44": {
