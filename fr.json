@@ -389,7 +389,8 @@
         "name_怪物？": "Monstre ?",
         "name_女性": "Femme",
         "name_モニターの女": "Femme à l'Écran",
-        "midori_ハンナキー": "moyante"
+        "midori_ハンナキー": "moyante",
+        "name_ボイスデータ": "Données vocales"
     },
     "items-16": {
         "name": "??????????????",
@@ -2568,7 +2569,7 @@
             "\\.\"L... Les règles... ?\"",
             "\\.\\sw[99]\"Évidemment ! Tu comptais jouer ta vie\n sans même connaître les règles ?!\n T'es un sacré personnage !\"\\sw[100]",
             "\\.\"Jouer... ma vie ?\"",
-            "\\.\\sw[99]\"Il est simple celui-là ! À l'heure actuelle,\n vous êtes \\C[2]cinq\\C[0] humains dans\n cette salle, vous voyez ?\"\\sw[100]",
+            "\\.\\sw[99]\"C'est simple ! À l'heure actuelle,\n vous êtes \\C[2]cinq\\C[0] humains dans\n cette salle, vous voyez ?\"\\sw[100]",
             "\\.\\sw[99]\"Jetez un œil autour de vous... !\n Il y a \\C[2]quatre\\C[0] sièges vides.\"\\sw[100]",
             "\\.\\sw[99]\"L'un de vous sera le Concurrent,\n tandis que les quatre autres s’assiéront\n pour servir de cibles.\"\\sw[100]",
             "\\.\"Des cibles...? Des cibles de quoi ?!\"",
