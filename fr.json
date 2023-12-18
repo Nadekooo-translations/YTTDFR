@@ -2534,7 +2534,9 @@
             "\\.\"Je m'attendais pas à ce que tu répondes à un\n compliment avec un regard aussi douteux.\"",
             "\\.\"Ah oui, Keiji.\n J'ai trouvé ces balles à blanc dans la cafétéria.\"",
             "\\.\"...Qu'est-ce que c'est ?\"",
-            "\\.\\C[3]Fausses Balles remises à Keiji."
+            "\\.\\C[3]Fausses Balles remises à Keiji.",
+            null,
+            "\\.\"... Je vais les regarder de plus près.\""
         ],
         "1-1-message": [
             "\"Ouah, qu'est-ce que c'est ?\"",
@@ -2543,7 +2545,7 @@
         ],
         "1-5-message": [
             null,
-            null,
+            "\"Oh, Sara. Attends une petite minute...\"",
             "\\.\"Oui ?\"",
             "\\.\\C[3]Avant de sortir de la salle je me suis retournée, et...",
             "\"Hein ? Sara, tu ne viens pas ?\"",
@@ -3002,7 +3004,7 @@
             "\"Ton imagination a d'excentriques particularités.\"",
             "\\.\"D'excentriques particularités...?\"",
             "\\.\"P-Plus important... Tu ne penses pas qu'il\n serait lié à la tête qu'il y avait dans la boîte ?\"",
-            "\\.\"Trouver le \\C[2]corps\\C[0]...\n Il y avait cette note, c'est ça ?\"",
+            "\\.\"Trouver le \\C[2]corps\\C[0]...\n Il y avait une note, tu te rappelles ?\"",
             "\\.\"Je me demande si la tête de la boîte\n peut être combinée avec ce torse...\"",
             "\\.\"Tu penses que ça provoquera quelque chose ?\"",
             "\\.\"Ça se pourrait. Ce qui est un peu effrayant...\"",
