@@ -477,7 +477,7 @@
             "\\.\"Pour quelqu'un qui a l'air d'un dragueur,\n t'es terriblement timide...\"",
             "\\.\"Hein ?! D'où j'ai l'air d'un 'dragueur' ?!\"",
             "\\.\"J'suis vexé, meuf... Ça me blesse sérieusement...\"",
-            "\\.\"Merde... Peut-être que je devrais me recoiffer\n les cheveux en brosse comme j'avais au collège...\"",
+            "\\.\"Merde... Peut-être que je devrais me recoiffer\n les cheveux en brosse comme ce que j'avais au collège...\"",
             "\\.\\C[4](Et maintenant, il broie du noir.)"
         ],
         "1-3-message": [
@@ -2535,8 +2535,9 @@
             "\\.\"Ah oui, Keiji.\n J'ai trouvé ces balles à blanc dans la cafétéria.\"",
             "\\.\"...Qu'est-ce que c'est ?\"",
             "\\.\\C[3]Fausses Balles remises à Keiji.",
-            null,
-            "\\.\"... Je vais les regarder de plus près.\""
+            "\\.\"Est-ce qu'elles seraient un indice ?\"",
+            "\\.\"... Je vais les regarder de plus près.\"",
+            "\\C[3]Bon... Que faire pendant qu'il enquête ?"
         ],
         "1-1-message": [
             "\"Ouah, qu'est-ce que c'est ?\"",
@@ -2544,7 +2545,7 @@
             "\"Allons voir ça de plus près...\""
         ],
         "1-5-message": [
-            null,
+            "\\C[4](Je suppose que je vais aller chercher ailleurs...)",
             "\"Oh, Sara. Attends une petite minute...\"",
             "\\.\"Oui ?\"",
             "\\.\\C[3]Avant de sortir de la salle je me suis retournée, et...",
@@ -2563,10 +2564,10 @@
             "\\.\"Quoi ?! Qui a dit ça ?!\"",
             "\\.\\sw[99]\"Ha ha ha.\n Restons sur l'essentiel.\"\\sw[100]",
             null,
-            "\\.\\sw[99]\"Bon... pour aller droit au but, je\n vais vous expliquer les règles du prochain jeu.\"\\sw[100]",
+            "\\.\\sw[99]\"À présent, allons droit au but,\n et laissez-moi vous expliquer les règles du jeu suivant.\"\\sw[100]",
             "\\.\"L... Les règles... ?\"",
-            null,
-            null,
+            "\\.\\sw[99]\"Évidemment ! Tu comptais jouer ta vie\n sans même connaître les règles ?!\n T'es un sacré personnage !\"\\sw[100]",
+            "\\.\"Jouer... ma vie ?\"",
             "\\.\\sw[99]\"Il est simple celui-là ! À l'heure actuelle,\n vous êtes \\C[2]cinq\\C[0] humains dans\n cette salle, vous voyez ?\"\\sw[100]",
             "\\.\\sw[99]\"Jetez un œil autour de vous... !\n Il y a \\C[2]quatre\\C[0] sièges vides.\"\\sw[100]",
             "\\.\\sw[99]\"L'un de vous sera le Concurrent,\n tandis que les quatre autres s’assiéront\n pour servir de cibles.\"\\sw[100]",
