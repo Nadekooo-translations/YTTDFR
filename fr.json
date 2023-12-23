@@ -1546,7 +1546,21 @@
             "\\.\\C[3]Je n'arrive pas à parler...",
             "\\.\\C[3]Je ne peux pas le laisser suspecter de quelque chose.\nJe ne peux pas le laisser réaliser...",
             "\\.\\sp[8]\\C[3]Mais qui est cette personne...?",
-            "\\.\"...\""
+            "\\.\"...\"",
+            "\\.\"... Madame Sara.\"",
+            "\\.\"Sara ! Ça va ?!\"",
+            "\\.\"Joe...\"",
+            "\\.\"Ne t'inquiète pas... J'ai juste eu un\n coup de fatigue...\"",
+            "\\.\"N'en fais pas trop ! Appuies-toi sur mon épaule,\n on va se reposer.\"",
+            "\\.\"Allons faire un tour...\n Je sens que marcher va me calmer...\"",
+            "\\.\"D'accord...!\"",
+            "\\.\"Sara...\"",
+            "\\.\"... Ça va mieux, maintenant.\"",
+            "\\.\"Vraiment ?\"",
+            "\\.\"Oui...\"",
+            "\\.\"En échange... Dès que je me plains...\n Tu ferais mieux de venir m'aider.\"",
+            "\\.\"... Alors comme ça, t'as assez d'énergie pour\n donner des ordres aux gens.\n\\! Pas de problème, tu peux y aller !\"",
+            "\\.\\C[4](Je... ne peux pas le dire à Joe pour l'instant.)"
         ],
         "23-1-choice": [
             "Combiner\nAnnuler"
@@ -1596,7 +1610,10 @@
         ],
         "27-1-message": [
             "\\C[3]Un revolver.\nUne arme qui tire des balles. Elle peut en\ncharger jusqu'à 9 dans sa chambre circulaire.\nÀ quoi peut bien servir le trou en son centre... ?",
-            "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet."
+            "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet.",
+            "La Fléchette est insérée dans le trou\nau centre du Révolver.",
+            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Revolver\\C[3] !",
+            "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
         "28-1-message": [
             "\\C[3]Des fausses balles. J'en ai 6. Si on les tire,\nelles ne font que du bruit."
@@ -1605,8 +1622,11 @@
             "Oui\nNon"
         ],
         "23-1-message": [
-            null,
-            "\\.\\C[3]Devrait pouvoir être combinée avec un autre objet."
+            "\\C[3]Une jolie fléchette.\nElle est très solide.",
+            "\\.\\C[3]Devrait pouvoir être combinée avec un autre objet.",
+            "La Fléchette est insérée dans le trou\nau centre du Révolver.",
+            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Révolver\\C[3] !",
+            "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
         "30-1-message": [
             "\\C[3]Un billet de 1000 yens.\nDe l'argent liquide utilisable au Japon."
@@ -1617,24 +1637,125 @@
             "\\.\\C[3]Il ne s'est rien passé."
         ],
         "9-3-message": [
-            null,
-            null,
+            "\\C[3]Tirer sur le mannequin ?",
+            "\\.\\C[3]La tête du mannequin s'est envolée.",
             "\\.\\C[3]Il ne s'est rien passé."
         ],
         "11-3-message": [
-            null,
-            null,
+            "\\C[3]Tirer sur le mannequin ?",
+            "\\.\\C[3]La tête du mannequin s'est envolée.",
             "\\.\\C[3]Il ne s'est rien passé."
         ],
         "18-3-message": [
-            null,
-            null,
+            "\\C[3]Tirer sur le mannequin ?",
+            "\\.\\C[3]La tête du mannequin s'est envolée.",
             "\\.\\C[3]Il ne s'est rien passé."
         ],
         "19-3-message": [
-            null,
-            null,
+            "\\C[3]Tirer sur le mannequin ?",
+            "\\.\\C[3]La tête du mannequin s'est envolée.",
             "\\.\\C[3]Il ne s'est rien passé."
+        ],
+        "3-4-choice": [
+            "Merci\nJ'aurais préféré Keiji\nJ'aurais préféré Q-taro\nJ'aurais préféré Kai",
+            "N'en parle pas\nC'est normal"
+        ],
+        "4-1-message": [
+            "\\sw[99]\"Yo. Vous en avez mis, du temps.\"\\sw[100]",
+            "\\.\\sw[99]\"Je peux vous expliquer les règles, maintenant ?\"\\sw[100]",
+            "\\.\\sw[99]\"Vous avez trouvé un pistolet et des balles dans\n cette salle un peu plus tôt, vous vous souvenez ?\"\\sw[100]",
+            "\\.\\sw[99]\"Vous avez aussi trouvé des balles à blanc\n dans une autre pièce.\"\\sw[100]",
+            "\\.\\sw[99]\"Vous avez \\C[2]3 vraies balles\\C[0] et \\C[3]6 balles à blanc\\C[0].\"\\sw[100]",
+            "\\.\\sw[99]\"En tout, vous pouvez charger 9 balles\n dans ce revolver.\"\\sw[100]",
+            "\\.\\sw[99]\"Tu dois tirer toutes les 9 balles sur tout le monde -\n un \\C[2]humain\\C[0] ou un \\C[2]mannequin\\C[0] dans \\C[2]l'ordre que tu veux\\C[0].\"\\sw[100]",
+            "\\.\\sw[99]\"D'ailleurs, les balles sont tirées \\C[2]dans le sens\n des aiguilles d'une montre\\C[0]...\"\\sw[100]",
+            "\\.\\sw[99]\"Une fois chargée, tu feras tourner la chambre !\n Ce qui veut dire que \\C[2]tu ne sais pas avec quelle\n balle tu vas commencer\\C[0] !\"\\sw[100]",
+            "\\.\\sw[99]\"Si tu as tiré toutes les balles et que\n les gens sont encore en vie, tu as gagné !\"\\sw[100]",
+            "\\.\\sw[99]\"C'est ce que j'appelle la \\C[2]Roulette Russe \\C[0]!\n\\! ... Parce que c'est ce que c'est.\"\\sw[100]",
+            "\\.\\sw[99]\"Tu veux un résumé de tout ça ?\"\\sw[100]",
+            "\\.\\sw[99]\"Charge les 3 vraies balles et les 6 balles à blanc\n dans le pistolet dans l'ordre que tu veux.\"\\sw[100]",
+            "\\.\\sw[99]\"Les balles sont tirées dans l'ordre des aiguilles\n d'une montre, mais tu ne sais pas\n par laquelle tu commences..\"\\sw[100]",
+            "\\.\\sw[99]\"Ensuite, tu tires sur un mannequin ou un de tes amis !\n Si tous les humains survivent, tu gagnes !\"\\sw[100]",
+            "\\.\\sw[99]\"Parfait ! Alors commençons !\"\\sw[100]",
+            "\\.\\sw[99]\"D'abord, charge le pistolet comme tu l'envisages !\"\\sw[100]"
+        ],
+        "5-1-message": [
+            "\"J'aimerais bien ne pas mourir, si possible,\n alors bonne chance.\""
+        ],
+        "5-3-message": [
+            "\\C[3]Tirer sur Keiji ?",
+            "\\sp[12]\"Aaaaa... ahhhhhhhhhhhhhhh...\"\\|\\|\\^",
+            "\"Fiou... Je suis tout engourdi.\"",
+            "\\.\\C[3]Keiji a survécu."
+        ],
+        "5-4-message": [
+            "\"Ton ami le policier est avec toi.\""
+        ],
+        "6-3-message": [
+            "\\C[3]Tirer sur Q-taro ?",
+            "\\sp[12]\"Aaaaa... ahhhhhhhhhhhhhhh...\"\\|\\|\\^",
+            "\"Ouf... J'suis en sécurité maintenant.\"",
+            "\\.\\C[3]Q-taro a survécu."
+        ],
+        "6-4-message": [
+            "\"Tout l'monde va s'en sortir ?\""
+        ],
+        "7-3-message": [
+            "\\C[3]Tirer sur Kai ?",
+            "\\sp[12]\"Aaaaa... ahhhhhhhhhhhhhhh...\"\\|\\|\\^",
+            "\"Bravo...\"",
+            "\\.\\C[3]Kai a survécu."
+        ],
+        "7-4-message": [
+            "\"Comme on pouvait l'attendre de vous, madame Sara.\""
+        ],
+        "8-3-message": [
+            "\\C[3]Tirer sur Joe ?",
+            "\\sp[12]\"Aaaaa... ahhhhhhhhhhhhhhh...\"\\|\\|\\^",
+            "\"Héhéhé... Mon coeur était sur le point d'exploser.\"",
+            "\\.\\C[3]Joe a survécu."
+        ],
+        "9-1-message": [
+            "\\C[3]Le mannequin est avachi sur le fauteuil."
+        ],
+        "9-4-message": [
+            "\\C[3]Ce mannequin a déjà été sélectionné."
+        ],
+        "11-1-message": [
+            "\\C[3]Le mannequin est avachi sur le fauteuil."
+        ],
+        "11-4-message": [
+            "\\C[3]Ce mannequin a déjà été sélectionné."
+        ],
+        "17-1-message": [
+            "\\C[3]Le mannequin est avachi sur le fauteuil."
+        ],
+        "17-4-message": [
+            "\\C[3]Ce mannequin a déjà été sélectionné."
+        ],
+        "18-4-message": [
+            "\\C[3]Ce mannequin a déjà été sélectionné."
+        ],
+        "19-1-message": [
+            "\\C[3]Le mannequin est avachi sur le fauteuil."
+        ],
+        "6-1-message": [
+            "\"J'compte sur toi, Sara!\n J'suis sûr qu'tu peux l'faire !\""
+        ],
+        "7-1-message": [
+            "\"Il est inutile de paniquer sur\n des choses importantes.\""
+        ],
+        "8-1-message": [
+            "\"La vache, j'ai l'coeur qui bat à cent à l'heure !\n J'crois en toi, Sara!\""
+        ],
+        "8-4-message": [
+            "\"J'suis un peu à bout... Héhéhé.\""
+        ],
+        "18-1-message": [
+            "\\C[3]Le mannequin est avachi sur le fauteuil."
+        ],
+        "19-4-message": [
+            "\\C[3]Ce mannequin a déjà été sélectionné."
         ]
     },
     "map36": {
@@ -2783,17 +2904,46 @@
         ],
         "12-1-message": [
             "\\C[3]Un revolver.\nUne arme qui tire des balles. Elle peut en\ncharger jusqu'à 9 dans sa chambre circulaire.\nÀ quoi peut bien servir le trou en son centre... ?",
-            "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet."
+            "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet.",
+            "La Fléchette a été insérée dans le trou\nau centre du Revolver.",
+            "\\C[3]\\C[2]Fléchette\\C[3] combinée avec le \\C[2]Revolver\\C[3] !",
+            "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
         "19-1-message": [
-            null,
-            "\\.\\C[3]Devrait pouvoir être combinée avec un autre objet."
+            "\\C[3]Une jolie fléchette.\nElle est très solide.",
+            "\\.\\C[3]Devrait pouvoir être combinée avec un autre objet.",
+            "La Fléchette est insérée dans le trou\nau centre du Révolver.",
+            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Revolver\\C[3] !",
+            "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
         "13-1-message": [
             "\\C[3]Des fausses balles. J'en ai 6. Si on les tire,\nelles ne font que du bruit."
         ],
         "18-1-message": [
             "\\C[3]Un billet de 1000 yens.\nDe l'argent liquide utilisable au Japon."
+        ],
+        "2-1-message": [
+            "\\C[3]Elles discutent calmement.",
+            "\"Heureuse de te voir en forme, Kanna.\"",
+            "\"Je vous remercie... Désolée de vous avoir inquiétée.\"",
+            "\"Les gosses comme vous ont pas à être si formels !\n Exprime tes émotions comme tu le sens.\"",
+            "\"O... Oui ! Merci beaucoup !\"",
+            "\"Reko... Tu t'amuses bien, on dirait.\""
+        ],
+        "11-1-message": [
+            "\\C[3]Il y a de nombreuses sorties.",
+            "\\C[3]En les examinant, on remarque que la plupart\nne mènent qu'à des impasses.",
+            "\"Tu vois ces énormes coussins, au fond des impasses ?\"",
+            "\\.\"Je me demande si en atterrissant,\n je suis tombée sur l'un d'eux...\"",
+            "\\.\"Moi aussi.\n Je parie qu'on est tous tombés de la même manière.\"",
+            "\\.\"Joe était arrivé en te portant depuis ce couloir.\"",
+            "\\.\"Je ne pensais pas que vous étiez amis.\""
+        ],
+        "11-2-message": [
+            "\\C[3]Il y a de nombreuses sorties."
+        ],
+        "11-3-message": [
+            "\\C[3]Il y a de nombreuses sorties."
         ]
     },
     "map42": {
@@ -3091,11 +3241,11 @@
             "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet."
         ],
         "1-1-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\"Alors... Il semblerait qu'il soit enfin temps.\"",
+            "\\.\"Hey, au fait... T'étais passé où, toi ?\"",
+            "\\.\"Oh, j'ai juste... trouvé une salle secrète.\"",
+            "\\.\"Sou...! Tu vas bien !\"",
+            "\\.\"C'est ma ligne !\n ... Parfait, tout le monde est sain et sauf.\"",
             null,
             null,
             null,
