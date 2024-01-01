@@ -274,7 +274,7 @@
         "itemdesc87": "De fausses balles.\\nQuand on les tire, elles ne font qu'un son.",
         "dtext_発言力：": "Influence : ",
         "name_サラ（モニター）": "Sara (Écran)",
-        "firsttrialcode": "3141",
+        "firsttrialcode": "1620",
         "dtext_精神：": "Esprit : ",
         "name_左のレコ": "Reko de gauche",
         "name_右のレコ": "Reko de droite",
@@ -1167,7 +1167,7 @@
     },
     "map12": {
         "2-1-message": [
-            "\\C[3]\"3141\" est écrit sur le mur.",
+            "\\C[3]\"1620\" est écrit sur le mur.",
             "\\.\\C[4](C'est quoi ces chiffres...?)"
         ],
         "3-1-message": [
@@ -8318,6 +8318,9 @@
             null,
             null,
             "\"Chuis jouasse qu't'ailles bien. Tu peux t'lever ?\""
+        ],
+        "1314-0-message": [
+            "\\C[3]Il n'y a rien à l'intérieur."
         ]
     },
     "map107": {
@@ -9108,7 +9111,9 @@
             null,
             null,
             null,
-            "\\.\"...\""
+            "\\.\"...\"",
+            null,
+            "\\.\"Ce...\\.\\. ce tablier...\""
         ]
     },
     "map67": {
@@ -11998,7 +12003,7 @@
             null,
             null,
             null,
-            null,
+            "\\.\"Le mot-de-passe... est 1620...\"",
             null,
             null,
             null,
