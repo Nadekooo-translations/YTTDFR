@@ -91,7 +91,7 @@
             "\\.\"Comme c'est étrange !\"",
             "\\.\"Tu sais, c'est quand des gens votent pour décider\n de quelque chose et c'est la proposition qui obtient\n le plus de vote qui devient celle que l'on choisit...\"",
             "\\.\"Tiens ? On dirait que nous ne sommes pas seuls.\"",
-            "\\.\"J'adore les votes à la majorité ! Ils représentent ce que\n la démocratie devrait être : suivre la volonté du peuple !\n C'est une façon de réduire les conflits !\"",
+            "\\.\"J'adore les votes à la majorité ! Ils représentent\n ce que la démocratie devrait être : suivre\n la volonté du peuple !\n C'est une façon de réduire les conflits !\"",
             "\\.\"Je hais les votes à la majorité !\n Ils font taire les minorités et ne font que\n renforcer les ténèbres tapies dans l'ombre !\"",
             "\"Haa... On dirait que cette dispute est plutôt tendue.\"",
             "\\.\"Juste par curiosité, quelle opinion soutiens-tu ?\n Celle de M. Bleu, ou celle de Mme. Rouge ?\"",
@@ -120,8 +120,8 @@
             "\\.\"Des mises à jour sont prévues pour\n ajouter une deuxième partie, corriger la première,\n et graduellement améliorer les évènements.\"",
             "\\.\"Aussi, sachez que les données de sauvegardes\ndatant d'avant les mises à jour pourraient ne plus\nfonctionner à cause des modifications.\"",
             "\\.\"Par ailleurs, je crois que si vous sauvegardez ici,\nvous pourrez directement commencer la Partie Deux\nquand elle sera ajoutée ! ... Voulez-vous sauvegarder ?\"",
-            "\\.\"Si vous en avez l'envie, il serait aimable que vous\nreportiez les erreurs que vous avez rencontrées ou vos avis.\nMerci d'avance !\"",
-            "\\.* PS : \"Grâce à votre aide, plusieurs erreurs\n graves ont été réparées ! Merci beaucoup !\n Étant un projet personnel, la progression est lente, mais\npouvoir voir vos prédictions de l'histoire est une bénédiction.\"",
+            "\\.\"Si vous en avez l'envie, il serait aimable que vous\nreportiez les erreurs que vous avez rencontrées\nou vos avis.\nMerci d'avance !\"",
+            "\\.* PS : \"Grâce à votre aide, plusieurs erreurs\n graves ont été réparées ! Merci beaucoup !\n Étant un projet personnel, la progression est lente,\nmais pouvoir voir vos prédictions de l'histoire\nest une bénédiction.\"",
             "\\.\"À présent, vous allez retourner à l'écran titre.\n Cela vous va-t-il ?\"",
             "\\.\"Merci d'avoir joué jusqu'ici.\""
         ],
@@ -478,7 +478,7 @@
             "\\.\"Pour quelqu'un qui a l'air d'un dragueur,\n t'es terriblement timide...\"",
             "\\.\"Hein ?! D'où j'ai l'air d'un 'dragueur' ?!\"",
             "\\.\"J'suis vexé, meuf... Ça me blesse sérieusement...\"",
-            "\\.\"Merde... Peut-être que je devrais me recoiffer\n les cheveux en brosse comme ce que j'avais au collège...\"",
+            "\\.\"Merde... Peut-être que je devrais me recoiffer\n les cheveux en brosse comme ce que\n j'avais au collège...\"",
             "\\.\\C[4](Et maintenant, il broie du noir.)"
         ],
         "1-3-message": [
@@ -789,7 +789,7 @@
         ]
     },
     "items-70": {
-        "description": "Une carte. Il y est écrit \"Ceci est la clé vers la sortie.\nVous mourrez si qui que se soit\napprend l'existence de cette carte.\"",
+        "description": "Une carte. Il y est écrit \"Ceci est la clé vers la\nsortie.\nVous mourrez si qui que se soit\napprend l'existence de cette carte.\"",
         "name": "Carte du M. des Clés"
     },
     "map193": {
@@ -891,7 +891,7 @@
             "\\.\\C[3]Cette nuit-là, ils se sont tous les deux retrouvés\nimpliqué dans un grave incident...",
             "\\.\\C[3]À suivre dans la Démocratie Mortelle...",
             "\\.Ainsi, après tout cela, vous trouvez vos parents\ninconscients, vous faites face au stalker dans\nvotre chambre et vous vous réveillez dans un lieu\ninconnu, un Jeu Mortel... Ce genre de chose.",
-            "\\.Dans ce Jeu Mortel :\n1. Vous rassemblez des objets durant la partie exploration.\n2. Vous tenez des débats avec les personnages en utilisant\n    le système de discussion pour progresser dans l'histoire.",
+            "\\.Dans ce Jeu Mortel :\n1. Vous rassemblez des objets durant la partie\n   exploration.\n2. Vous tenez des débats avec les personnages en\n   utilisant le système de discussion pour progresser\n   dans l'histoire.",
             "\\.Cette version d'essai vous permets justement de faire\n l'expérience du système de discussion, donc venez\n sur le terrain.",
             "Bienvenue !",
             "\\.Maintenant, vous pouvez y aller.",
@@ -2312,17 +2312,17 @@
             "\\.\\C[4](Devrais-je jeter la fléchette que\n j'ai en ma possession...?)",
             "\\.\"Yaaaaah !!\"",
             "\\.\\C[3]Je jette puissamment la fléchette vers la cible.",
-            "\\.\\C[3]Soudainement, un vent puissant venant d'en haut\nse mit à souffler et la fléchette sombra dans les ténèbres.",
+            "\\.\\C[3]Soudainement, un vent puissant venant d'en haut\nse mit à souffler et la fléchette sombra dans les\nténèbres.",
             "\\.\\C[3]La Fléchette a été perdue !",
             "\"Comme c'est dommage ! Zéro points.\""
         ],
         "3-2-message": [
             "\"Oh ! On peut jouer aux fléchettes ici !\"",
-            "\\.\"Les fléchettes et le billard c'est trop cool, pas vrai ?!\"",
+            "\\.\"Les fléchettes et le billard c'est trop cool,\npas vrai ?!\"",
             "\\.\\C[4](Devrais-je jeter la fléchette que\n j'ai en ma possession...?)",
             "\\.\"Yaaaaah !!\"",
             "\\.\\C[3]Je jette puissamment la fléchette vers la cible.",
-            "\\.\\C[3]Soudainement, un vent puissant venant d'en haut\nse mit à souffler et la fléchette sombra dans les ténèbres.",
+            "\\.\\C[3]Soudainement, un vent puissant venant d'en haut\nse mit à souffler et la fléchette sombra dans les\nténèbres.",
             "\\.\\C[3]La Fléchette a été perdue !",
             "\"H-Hé, c'est pas un peu grave ?\n Ça aurait pu être... un indice, nan...?\""
         ],
@@ -2663,7 +2663,7 @@
         ],
         "1-1-message": [
             "\"Ouah, qu'est-ce que c'est ?\"",
-            "Des silhouettes humanoïdes sont assises sur les fauteuils.",
+            "Des silhouettes humanoïdes sont assises sur les\nfauteuils.",
             "\"Allons voir ça de plus près...\""
         ],
         "1-5-message": [
@@ -2686,7 +2686,7 @@
             "\\.\"Quoi ?! Qui a dit ça ?!\"",
             "\\.\\sw[99]\"Ha ha ha.\n Restons sur l'essentiel.\"\\sw[100]",
             "\\.\\sw[99]\"Je suis le maitre de cette pièce.\n Vous pouvez m'appeler Le Parrain.\"\\sw[100]",
-            "\\.\\sw[99]\"À présent, allons droit au but,\n et laissez-moi vous expliquer les règles du jeu suivant.\"\\sw[100]",
+            "\\.\\sw[99]\"À présent, allons droit au but,\n et laissez-moi vous expliquer les règles du jeu\n suivant.\"\\sw[100]",
             "\\.\"L... Les règles... ?\"",
             "\\.\\sw[99]\"Évidemment ! Tu comptais jouer ta vie\n sans même connaître les règles ?!\n T'es un sacré personnage !\"\\sw[100]",
             "\\.\"Jouer... ma vie ?\"",
@@ -3393,7 +3393,7 @@
             "\\.\\C[10]\"Espèce de tueuse de sœur.\"",
             "\\.\\C[3]Arrête.",
             "\\.\"Je... je...\"",
-            "\\.\\C[10]\"Hahaha, j'ai tout vu.\n À quel point tu étais misérable dans ta Première épreuve, Kanna.\"",
+            "\\.\\C[10]\"Hahaha, j'ai tout vu.\n À quel point tu étais misérable dans\n ta Première épreuve, Kanna.\"",
             null,
             null,
             null,
@@ -5199,7 +5199,7 @@
             "\\.\\C[4]( Voyons voir... Q-taro est puissant...\nEt Nao peut se porter garant du Professeur Mishima...\nPeut-être Gin, vu qu'il n'est qu'un enfant..?)",
             "\\.\\C[4](... Ils tous l'air vraiment suspicieux, par contre.)",
             "\\.\\C[4](Voyons voir... Kai agit très bizarrement...\n Je n'arrive pas à me fier totalement à Keiji...\n Et Q-taro n'a pas l'air d'être mauvais, mais...)",
-            "\\.\\C[4](... Raisonner comme ça ne va que me faire tout soupçonner.)",
+            "\\.\\C[4](... Raisonner comme ça ne va que me faire tout\nsoupçonner.)",
             "\\.\\C[4](Je ne suis pas très bonne en travail d'équipe...\n J'ai juste envie d'explorer seule...)",
             "\\.\"Hé, Sara, pourrais-je t'accompagner ?\"",
             "\\.\"Hein ?\"",
