@@ -3318,7 +3318,7 @@
             null,
             "\\.\"Elle est complètement folle, miaou...\"",
             "\\.\\C[4](Complètement folle... ou juste pas humaine ?)",
-            null,
+            "\\.\\C[4](Mais... il semblerait qu'on doivent l'écouter...!)",
             "\\.\"Éhéhé... Tu ne sais pas, n'est-ce pas...\""
         ],
         "1-3-message": [
