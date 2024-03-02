@@ -99,14 +99,14 @@
             "\\.\"Mais tant mieux pour toi !\n Ton opinion était la plus soutenue !\"",
             "\\.\"Au final, la majorité est absolue !\n C'est comme ça que ça marche en société !\"",
             "\"Ohh... Il est mort.\"",
-            "\\.\"Mais tant mieux pour toi !\n Ton opinion était la plus supportée !\"",
+            "\\.\"Mais tant mieux pour toi !\n Ton opinion était la plus soutenue !\"",
             "\\.\"C'est avec cette expérience que vous découvrez la\n terreur que peuvent apporter les votes à la majorité.\"",
             "\\.\"Hein...?\"",
-            "\\.\"Mais si ça te rends heureux, ne devrais-tu\n pas reconnaître l'intérêt des votes à la majorité ?\"",
+            "\\.\"Mais si ça te rend heureux, ne devrais-tu\n pas reconnaître l'intérêt des votes à la majorité ?\"",
             "\\.\"... Hé bah, c'est compliqué tout ça.\"",
             "\\.\"... Hmm ? C'est quoi ce regard ?\n\\! Si tu avais su que l'autre personne allait mourir,\n alors, tu n'aurais pas voté ?\"",
             "\\.\"Allons... Ça ne t'amènera nulle part, tu sais ?\n C'est le principe même de ce jeu...\"",
-            "\\.\"...Hmm, ça n'a pas l'air de te satisfaire...\"",
+            "\\.\"... Hmm, ça n'a pas l'air de te satisfaire...\"",
             "\\.\"Très bien, si tu insistes... alors votons !\n Ton opinion contre la mienne !\"",
             "\\.\"Okay, alors... c'est parti.\""
         ],
@@ -115,10 +115,10 @@
             "M. Bleu\nMme. Rouge"
         ],
         "4-1-message": [
-            "\\.\"Bonjour.\n Félicitations pour avoir fini le jeu !\"",
+            "\\.\"Bonjour.\n Félicitations pour avoir atteint la\n fin actuelle du jeu !\"",
             "\\.\"Pour l'instant, seulement la Partie Une (ici)\n est disponible.\"",
-            "\\.\"Des mises à jour sont prévues pour\n ajouter une deuxième partie, corriger la première,\n et graduellement améliorer les évènements.\"",
-            "\\.\"Aussi, sachez que les données de sauvegardes\ndatant d'avant les mises à jour pourraient ne plus\nfonctionner à cause des modifications.\"",
+            "\\.\"Des mises à jour sont prévues pour\n ajouter une deuxième partie, corriger la première,\n et améliorer les évènements au fur et à mesure.\"",
+            "\\.\"Aussi, sachez que les données de sauvegardes\ndatant de mises à jour précédentes pourraient ne\nplus fonctionner suite à des modifications.\"",
             "\\.\"Par ailleurs, je crois que si vous sauvegardez ici,\nvous pourrez directement commencer la Partie Deux\nquand elle sera ajoutée ! ... Voulez-vous sauvegarder ?\"",
             "\\.\"Si vous en avez l'envie, il serait aimable que vous\nreportiez les erreurs que vous avez rencontrées\nou vos avis.\nMerci d'avance !\"",
             "\\.* PS : \"Grâce à votre aide, plusieurs erreurs\n graves ont été réparées ! Merci beaucoup !\n Étant un projet personnel, la progression est lente,\nmais pouvoir voir vos prédictions de l'histoire\nest une bénédiction.\"",
@@ -423,7 +423,7 @@
         "14-1-message": [
             "\\C[3]La mare du campus.",
             "\\.\\C[3]La rumeur dit que si quelqu'un regarde dedans\n à minuit, son reflet se mettra à parler.",
-            "\\.\\C[4](... Ça pourrait être pas mal pour un solitaire.)"
+            "\\.\\C[4](... Ça pourrait être pas mal pour un asocial.)"
         ],
         "16-1-message": [
             "\\C[3]Les lumières sont allumées.\nC'est peut-être le garde de nuit.",
