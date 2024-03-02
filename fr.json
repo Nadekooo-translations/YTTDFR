@@ -441,7 +441,7 @@
             "\"Quess' tu fais, Sara ?\"",
             "\\.\"Joe...!\"",
             "\\C[2]Jou Tazuna\\C[0], plus connu sous le nom de \\C[2]Joe\\C[0].\nMon camarade de classe au lycée.\nOn s'est souvent retrouvés ensemble.",
-            "\"T'es restée aussi tard juste pour les clubs ?!\n Je commençais à dessécher à force d'attendre !\"",
+            "\"T'es restée aussi tard juste pour les clubs ?!\n Je commençais à me dessécher à force d'attendre !\"",
             "\"Bon, t'inquiète pas pour ça ! Écoute un peu !\n J'ai un truc à t'raconter !\"",
             "\\.\"Un truc à me raconter ?\"",
             "\\.\"Merci !\"",
@@ -476,13 +476,13 @@
             "\\.\\C[4](Ce mec est tellement lourd...)",
             "\"Roulements de tambour... On s'est tenus la main... !\n C'est pas génial ?\"",
             "\"Embr...?! Sois pas bête !\"",
-            "\\.\"Faire ça au premier rancard...\n C'est juste monstrueux !\"",
+            "\\.\"Faire ça au premier rencard...\n C'est juste monstrueux !\"",
             "\\.\"On s'est tenus la main !\n Scandaleux progrès, pas vrai ?!\"",
-            "\\.\"Après... C'était surtout parce que je suis tombé\n dans un fossé et qu'elle m'aidait, mais...!\"",
+            "\\.\"Après... C'était surtout parce que j'étais tombé\n dans un fossé et qu'elle m'aidait, mais...!\"",
             "\\.\"Pour quelqu'un qui a l'air d'un dragueur,\n t'es terriblement timide...\"",
             "\\.\"Hein ?! D'où j'ai l'air d'un 'dragueur' ?!\"",
             "\\.\"J'suis vexé, meuf... Ça me blesse sérieusement...\"",
-            "\\.\"Merde... Peut-être que je devrais me recoiffer\n les cheveux en brosse comme ce que\n j'avais au collège...\"",
+            "\\.\"Merde... Peut-être que je devrais me recoiffer\n les cheveux en brosse comme je les avais au collège...\"",
             "\\.\\C[4](Et maintenant, il broie du noir.)"
         ],
         "1-3-message": [
@@ -866,7 +866,7 @@
     },
     "map5": {
         "1-1-message": [
-            "\"*Halètements*...\"",
+            "\"Haa...\\. Haa...\\. Haa...\"",
             "\\.\"Hahh... Fiou...\"",
             "\\.\"On a réussi à atteindre ta maison...\"",
             "\\.\"...\"",
