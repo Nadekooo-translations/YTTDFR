@@ -3308,18 +3308,45 @@
             "\\.\"H... Hein ?! Impossible...?! Qu...?!\"",
             "\\.\"Gh... Enlevez-moi... Enlevez-moi ce truc...!!\"",
             "\\.\"Ahaha ! Attention, écartez-vous ! C'est dangereeeux !\"",
-            null,
+            "\\.\"Hahh...\\. Hahh...\\. Hahh...\"",
             "\\.\"... C'était une blague, bien évidemment.\n Éhéhé... Ça vous a plu ?\"",
             "\\.\"Une... Une blague...\"",
             "\\.\\C[3]Les jambes de Joe lâchèrent et il s'écroula au sol.",
             "\\.\"Ce collier \\C[2]ne peut pas vraiment exploser\\C[0], après tout.\"",
             "\\.\"... Espèce d'enfoirée...!!\"",
             "\\.\"Hahahahahahahahahahahahahahahahahaha !!\"",
-            null,
+            "\\.\"Héhé, c'est tellement drôle que, ahah, je n'arrive,\n hihi, même pas à parler, mouihihihi...\"",
             "\\.\"Elle est complètement folle, miaou...\"",
             "\\.\\C[4](Complètement folle... ou juste pas humaine ?)",
-            "\\.\\C[4](Mais... il semblerait qu'on doivent l'écouter...!)",
-            "\\.\"Éhéhé... Tu ne sais pas, n'est-ce pas...\""
+            "\\.\\C[4](Mais... Il semblerait que l'on doive lui obéir...!)",
+            "\\.\"Éhéhé... Vous ne le savez pas, n'est-ce pas...?\"",
+            "\\.\"Hihihi. Ce que je suis sur le point de vous expliquer...\n Concerne la bataille que vous allez livrer, ahahah,\n pour saisir votre propre destinée.\"",
+            "\\.\"Hihihi. 20 personnes ont été sélectionnées...\n Ou plutôt...\"",
+            "\\.\"Ahaha... N'êtes-vous pas plus que 12, maintenant ?\n Ohoho.\"",
+            "\\.\"Éhéhé... Vous ne le savez pas, n'est-ce pas...?\"",
+            "\\.\"Hihihi. Ce que je suis sur le point de vous expliquer...\n Concerne la bataille que vous allez livrer, ahahah,\n pour saisir votre propre destinée.\"",
+            "\\.\"Vous allez bientôt traverser une épreuve\nmajeure afin de vous échapper.\"",
+            "\\.\"Comme il l'a été établi auparavant, les plus forts\n vivront, et les plus faibles mourront.\n Elle est loin d'être facile.\"",
+            "\\.\"Une personne parmi vous... mourra avec certitude.\"",
+            "\\.\"Et celle qui mourra...\"",
+            "\\.\"... Sera désignée par votre propre \\C[2]vote à la majorité\\C[0].\"",
+            "\\.\"Hein...?\"",
+            "\\.\"Je vous dis que vous la choisirez vous-même.\"",
+            "\\.\"La personne la moins nécessaire, la plus détestée,\n et la plus convenable à sacrifier.\"",
+            "\\.\"Arrête de dire n'importe quoi...!!\n On ferait jamais une chose pareille !!\"",
+            "\\.\"Ahahah. Dans ce cas, je vous en prie,\n laissez-vous mourir de faim.\"",
+            "\\.\"Ouah, c'était direct.\"",
+            "\\.\\C[4](Désigner... une personne parmi nous...?)",
+            "\\.\\C[4](Mais... Qu'est-ce qu'elle raconte ?\n Je n'arrive pas à comprendre...)",
+            "\\.\\C[3]Plus personne n'arrivait à parler.",
+            "\\.\\C[3]Nous tuerions l'une des personnes avec lesquelles\n nous sommes coincées ? Une personne que l'on avait\n considérée une alliée ?",
+            "\\.\\C[3]Ou sinon... Ce seraient eux qui nous tueraient...?",
+            "\\.\\C[3]Pourquoi... est-ce que rien de tout ça n'a l'air réel ?",
+            "\\.\"Ahahah, ne soyez pas si pâle, tout le monde !\n J'ai un petit quelque chose à vous distribuer !\"",
+            "\\.\\C[3]Un petit quelque chose...?",
+            "\\.\\C[3]Ma tête ne fonctionne pas...\nJe peine à comprendre ce qu'elle dit...",
+            "\\.\"Ahahah. Tenez, Sara Chidouin, prenez cette tablette.\"",
+            "\\.\\C[3]Tablette de Vote obtenue."
         ],
         "1-3-message": [
             null,
@@ -3327,7 +3354,7 @@
             null,
             null,
             null,
-            "Jeo : 2 votes",
+            "Joe : 2 votes",
             "Joe :",
             null,
             null,
@@ -3428,6 +3455,9 @@
             null,
             "\\.\"Pardonnez-moi. Ma main avec la poêle à frire\n a dû déraper.\"",
             "\\.\"Espèce de petit...!!\""
+        ],
+        "1-1-choice": [
+            "Lui parler calmement\nLui parler violemment"
         ]
     },
     "map32": {
@@ -8968,7 +8998,8 @@
             "\"Oui !\"",
             "\\.\"Je le dis haut et fort !\n Je suis sûre de pouvoir tous nous sauver !\"",
             "\\.\"...!\"",
-            "\\.\"... Ça servirait à rien de confier sa vie\n à quelqu'un d'inconfiant.\""
+            "\\.\"... Ça servirait à rien de confier sa vie\n à quelqu'un d'inconfiant.\"",
+            "\\.\"Si même après tout ça t'as pas la trouille,\n j'devrais pas te prendre à la légère !\""
         ],
         "3-3-message": [
             "\"À cause de son traumatisme, Keiji est incapable\n de viser quelqu'un au pistolet !\"",
