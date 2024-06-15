@@ -3552,6 +3552,13 @@
         ],
         "2-1-choice": [
             "Le terrain de Jeu Principal ?\nUne sortie ?"
+        ],
+        "2-2-message": [
+            "\"On montera ces escaliers...\n quand tout le monde sera réuni.\"",
+            "\\.\"J'ai du mal à croire qu'on pourra\n faire copain-copain comme avant, cela dit...\""
+        ],
+        "2-3-message": [
+            "\"Hey! C'est quoi son problème?!\""
         ]
     },
     "map35": {
