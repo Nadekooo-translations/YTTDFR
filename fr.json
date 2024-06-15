@@ -8698,7 +8698,8 @@
             "Oui\nNon"
         ],
         "1-1-message": [
-            "\\.\"Bonjour.\n Bravo d'avoir battu le jeu pour le moment!\""
+            "\\.\"Bonjour.\n Félicitations pour avoir fini le jeu !\"",
+            "\\.\"Pour l'instant, seulement la Partie Une (ici)\n est disponible.\""
         ]
     },
     "map80": {
