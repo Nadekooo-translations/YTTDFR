@@ -3549,6 +3549,9 @@
         ],
         "1-6-choice": [
             "Je vais aller voir\nS'il-te-plaît, va voir à ma place"
+        ],
+        "2-1-choice": [
+            "Le terrain de Jeu Principal?\nUne sortie?"
         ]
     },
     "map35": {
