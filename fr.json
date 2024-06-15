@@ -3513,7 +3513,8 @@
             "\\C[4](Q-taro n'est pas ici...!)",
             "\\.\"Est-ce qu'il est monté au deuxième étage ?!\"",
             "\\.\\C[4](Qu'est-ce qu'on fait ?!)",
-            "\\.\"Bon, Joe.\n Je peux te confier le premier étage ?\""
+            "\\.\"Bon, Joe.\n Je peux te confier le premier étage ?\"",
+            "\\.\"Hein?!\n Ça ne va pas être dangereux avec seulement vous deux?!\""
         ]
     },
     "map35": {
