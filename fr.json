@@ -3500,9 +3500,10 @@
             "\\.\"...Tout le monde est sur les nerfs maintenant...\n Si on y va, on devrait d'abord rassembler\n tout le monde.\"",
             "\\.\"..........\"",
             "\\.\"...Mais tu as eu vent du Jeu Principal... pas vrai ?\n On va devoir... sacrifier l'un d'entre nous...?\"",
-            null,
-            null,
-            "\\.\"...\""
+            "\\.\"Bien sûr que je veux pas participer.\n Mais... comment on pourrait se sentir unis...?\"",
+            "\\.\"Tu... as peut-être raison, mais...\"",
+            "\\.\"...\"",
+            "\\.\"...Mince!\""
         ],
         "1-1-message": [
             "\\C[4](Qu'est-ce que c'est...?!)",
