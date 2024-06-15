@@ -8696,6 +8696,9 @@
         "1-1-choice": [
             "Oui\nNon",
             "Oui\nNon"
+        ],
+        "1-1-message": [
+            "\\.\"Bonjour.\n Bravo d'avoir battu le jeu pour le moment!\""
         ]
     },
     "map80": {
