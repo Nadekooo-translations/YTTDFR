@@ -3242,7 +3242,9 @@
         ],
         "9-1-message": [
             "\\C[3]Un revolver.\nUne arme qui tire des balles. Elle peut en\ncharger jusqu'à 9 dans sa chambre circulaire.\nÀ quoi peut bien servir le trou en son centre... ?",
-            "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet."
+            "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet.",
+            "Fléchette enfoncée dans le grand trou\nau centre du Révolver.",
+            "\\C[3]La\\C[2]Fléchette\\C[3] et le\\C[2]Révolver\\C[3] ont été combinés!"
         ],
         "1-1-message": [
             "\"Alors... Il semblerait qu'il soit enfin temps.\"",
@@ -3465,7 +3467,19 @@
             "\\.\"Je te ferai payer d'avoir joué avec la vie des gens.\"",
             "\\.\"Bon sang !! Bon sang !!\n Je m'en souviendrai !!\"",
             "\\.\"Je vous attendrai...\n sur le terrain du Jeu Principal...!\"",
-            "\\.\"Tu vas bien ?\""
+            "\\.\"Tu vas bien ?\"",
+            "\\.\\C[3]Je ne comprends pas...",
+            "\\.\\C[3]La mort du professeur Mishima...",
+            "\\.\\C[3]Ni qui est Kai.",
+            "\\.\\C[3]...",
+            "\\.\\C[3]..........",
+            "\\.\\C[3]Mais...",
+            "\\.\\C[3]...Oui... Même si ce qui nous attend\nest que l'on va s'entretuer par vote à la majorité...",
+            "\\.\\C[3]Peu importe à quel point ce futur est cruel...",
+            "\\.\\C[3]...Je ne peux pas...",
+            "\\.\\C[3]Je ne peux pas mourir maintenant...!",
+            "\\SP[8]Your Turn To Die -Démocratie Mortelle-",
+            "\\SP[8]Chapitre 1, Partie Une\\>                      \\<\\!Fin\\."
         ],
         "1-1-choice": [
             "Lui parler calmement\nLui parler violemment",
