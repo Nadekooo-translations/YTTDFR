@@ -3244,7 +3244,7 @@
             "\\C[3]Un revolver.\nUne arme qui tire des balles. Elle peut en\ncharger jusqu'à 9 dans sa chambre circulaire.\nÀ quoi peut bien servir le trou en son centre... ?",
             "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet.",
             "Fléchette enfoncée dans le grand trou\nau centre du Révolver.",
-            "\\C[3]La\\C[2]Fléchette\\C[3] et le\\C[2]Révolver\\C[3] ont été combinés!",
+            "\\C[3]La \\C[2]Fléchette\\C[3] et le \\C[2]Révolver\\C[3] ont été combinés !",
             "\\.\\C[4](Tout vaut le coup d'être tenté...\n Est-ce que je peux tirer la fléchette avec ça?)"
         ],
         "1-1-message": [
