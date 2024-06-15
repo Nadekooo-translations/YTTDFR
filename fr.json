@@ -3456,9 +3456,10 @@
             "\\.\\C[3]Sur les paroles qu'il lui a laissé.",
             "\\.\\C[10]\"Tes actes ont tué ta sœur.\"",
             "\\.\\C[3]Ne piétine pas sur le cœur de Kanna!!!",
-            null,
+            "\\.\"Gah...\"",
             "\\.\"Pardonnez-moi. Ma main avec la poêle à frire\n a dû déraper.\"",
-            "\\.\"Espèce de petit...!!\""
+            "\\.\"Espèce de petit...!!\"",
+            "\\.\"Alors même les poupées ont le sang rouge.\""
         ],
         "1-1-choice": [
             "Lui parler calmement\nLui parler violemment",
