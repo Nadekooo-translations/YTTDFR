@@ -3563,7 +3563,12 @@
             "\\.\"J'en sais rien !\nTrouve quelqu'un qui saurait pour l'examiner !\""
         ],
         "3-1-message": [
-            "\"Regardez, mademoiselle Sara ! Il y a des escaliers ici\ndésormais.\""
+            "\"Regardez, mademoiselle Sara ! Il y a des escaliers ici\ndésormais.\"",
+            "\\.\"Je me demande où ils mènent...\"",
+            "\\.\"Je ne sais pas... Mais...\"",
+            "\\.\"Rillante a laissé des tâches de sang.\n Je suis sûr qu'elle est montée.\"",
+            "\\.\"...Rillante...!!\"",
+            "\\.\"Je viens juste d'arriver, donc je sais pas...\nIl manque quelqu'un?\""
         ]
     },
     "map35": {
