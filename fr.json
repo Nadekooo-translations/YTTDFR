@@ -3533,7 +3533,12 @@
             "Séparons-nous et cherchons\nQue tout le monde fouille le second étage"
         ],
         "1-6-message": [
-            "\\.\"Ahem, Sara Chidouin.\n Il y a eu du bruit au deuxième étage... Que s'est-il passé?\""
+            "\\.\"Ahem, Sara Chidouin.\n Il y a eu du bruit au deuxième étage... Que s'est-il passé?\"",
+            "\\.\"Hein...?!\"",
+            "\\.\"Je vais voir! Gonbee, tu...\"",
+            "\\.\"Hmph... Je vais rester ici...!\"",
+            "\\.\\C[4](Laissons-le seul...)",
+            "\\.\"Je t'en prie! Va vérifier pour moi!\""
         ]
     },
     "map35": {
