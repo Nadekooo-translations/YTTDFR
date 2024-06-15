@@ -3463,7 +3463,9 @@
             "\\.\"...Ne crois pas que tu peux faire ça...\n et t'en tirer sans conséquence...!!\"",
             "\\.\"Au contraire... Je te demande de ne pas croire\n que tu vas t'en tirer aussi facilement que ça.\"",
             "\\.\"Je te ferai payer d'avoir joué avec la vie des gens.\"",
-            "\\.\"Bon sang!! Bon sang!!\n Je m'en souviendrai!!\""
+            "\\.\"Bon sang!! Bon sang!!\n Je m'en souviendrai!!\"",
+            "\\.\"Je vous attendrai...\n sur le terrain du Jeu Principal...!\"",
+            "\\.\"Tu vas bien?\""
         ],
         "1-1-choice": [
             "Lui parler calmement\nLui parler violemment",
