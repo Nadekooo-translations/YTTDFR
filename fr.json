@@ -3521,7 +3521,8 @@
             "\\.\"Je vais aller voir là-bas, et vous montez chercher \nen haut !\n Je t'en prie, Keiji !\"",
             "\\.\"Ça roule.\"",
             "\\.\"Reviens immédiatement si tu la trouves, Sara !\"",
-            "\\.\\C[4](Dépêchons-nous !)"
+            "\\.\\C[4](Dépêchons-nous !)",
+            "\\.\"C'est ça le second étage, eh?\n ...Un tas de portes.\""
         ]
     },
     "map35": {
