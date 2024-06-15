@@ -3503,6 +3503,15 @@
             null,
             null,
             "\\.\"...\""
+        ],
+        "1-1-message": [
+            "\\C[4](Qu'est-ce que c'est...?!)",
+            "\\.\\C[3]Là où il n'y avait rien auparavant,\nse trouvent désormais des escaliers.",
+            "\\.\\C[4](Est-ce que c'est un autre piège...?)"
+        ],
+        "1-3-message": [
+            "\\C[4](Q-taro n'est pas ici...!)",
+            "\\.\"Est-ce qu'il est monté au deuxième étage?!\""
         ]
     },
     "map35": {
@@ -8705,7 +8714,12 @@
             "\\.\"Par ailleurs, je pense que si vous sauvegardez ici,\nvous pourrez accéder directement à la Partie Deux\nune fois ajoutée !\n ...Voulez-vous sauvegarder ?\"",
             "\\.\"Si vous le souhaitez, ce serait utile de nous\n communiquer des erreurs que vous auriez\n repérées ou de votre opinion.\n Merci d'avance!\"",
             "\\.* PS: \"Grâce à votre aide, de nombreuses erreurs\nont été corrigées ! Merci énormément !\nS'agissant d'un projet personnel, il avance lentement\nmais c'est un plaisir de voir vos prédictions.\"",
-            "\\.\"Bien, vous allez désormais être renvoyé à l'écran principal.\nCela vous convient ?\""
+            "\\.\"Bien, vous allez désormais être renvoyé à l'écran principal.\nCela vous convient ?\"",
+            "\\.\"Merci d'avoir joué jusqu'à la fin.\""
+        ],
+        "3-1-message": [
+            "\\C[3]...Passons au résumé du Chapitre 1, Partie Une...",
+            "\\C[3].........."
         ]
     },
     "map80": {
