@@ -3522,7 +3522,14 @@
             "\\.\"Ça roule.\"",
             "\\.\"Reviens immédiatement si tu la trouves, Sara !\"",
             "\\.\\C[4](Dépêchons-nous !)",
-            "\\.\"C'est ça le second étage, eh?\n ...Un tas de portes.\""
+            "\\.\"C'est ça le second étage, eh?\n ...Un tas de portes.\"",
+            "\\.\\C[4](Où peut-elle bien être...?!)"
+        ],
+        "1-4-message": [
+            "\\.\"Huh... Les lumières sont éteintes?\""
+        ],
+        "1-3-choice": [
+            "Séparons-nous et cherchons\nQue tout le monde fouille le second étage"
         ]
     },
     "map35": {
