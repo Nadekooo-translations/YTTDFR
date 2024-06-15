@@ -3561,6 +3561,9 @@
             "\"Hey ! C'est quoi son problème ?!\"",
             "\\.\"Il a perdu connaissance...!\"",
             "\\.\"J'en sais rien !\nTrouve quelqu'un qui saurait pour l'examiner !\""
+        ],
+        "3-1-message": [
+            "\"Regardez, mademoiselle Sara! Il y a des escaliers ici\ndésormais.\""
         ]
     },
     "map35": {
