@@ -8700,7 +8700,7 @@
         "1-1-message": [
             "\\.\"Bonjour.\n Félicitations pour avoir fini le jeu !\"",
             "\\.\"Pour l'instant, seulement la Partie Une (ici)\n est disponible.\"",
-            "\\.\"Il est prévu dans de futures mises à jour\n d'ajouter une Partie deux au scénario, de corriger la Partie Une,\n et d'améliorer progressivement les évènements.\"",
+            "\\.\"Il est prévu dans de futures mises à jour\n d'ajouter une Partie deux au scénario,\n de corriger la Partie Une, et d'améliorer\n progressivement les évènements.\"",
             "\\.\"De plus, soyez conscient que les données antérieures \nà la mise à jour pourraient cesser de fonctionner.\"",
             "\\.\"Par ailleurs, je pense que si vous sauvegardez ici, vous \npourrez accéder directement à la Partie Deux une fois ajoutée!\n ...Voulez-vous sauvegarder?\""
         ]
