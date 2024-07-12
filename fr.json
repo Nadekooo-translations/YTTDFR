@@ -3572,9 +3572,11 @@
             "\\.\"C'est trop imprudent !\n Si tu échoues... Elle te tuera avec ton collier.\"",
             "\\.\"Pourvu que personne ne s'énerve et ne la pourchasse...\n Je ne supporterais pas d'avoir la responsabilité\n collective du meurtre de quelqu'un.\"",
             "\\.\\C[4](J'imagine que personne n'oserait\n monter ces escaliers tout seul, mais...)",
-            "\\.\"Tu n'as pas l'intention de monter, hein, Sara?\"",
+            "\\.\"Tu n'as pas l'intention de monter, hein, Sara ?\"",
             "\\.\"Je dis ça dans ton interêt...\n Tu devrais t'abstenir pour l'instant.\"",
-            "\\.\"...Mais surtout,\n j'aimerais te montrer quelque chose.\""
+            "\\.\"...Mais surtout,\n j'aimerais te montrer quelque chose.\"",
+            "\\.\"Hein...?\"",
+            "\\.\"Rendez-vous à l'arrière de la cafétéria.\n ...S'il te plaît.\""
         ]
     },
     "map35": {
