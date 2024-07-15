@@ -3576,7 +3576,18 @@
             "\\.\"Je dis ça dans ton interêt...\n Tu devrais t'abstenir pour l'instant.\"",
             "\\.\"...Mais surtout,\n j'aimerais te montrer quelque chose.\"",
             "\\.\"Hein...?\"",
-            "\\.\"Rendez-vous à l'arrière de la cafétéria.\n ...S'il te plaît.\""
+            "\\.\"Rejoins-moi à l'arrière de la cafétéria.\n ...S'il te plaît.\"",
+            "\\.\"Ah, Sou...!\"",
+            "\\.\\C[4](Je me demande ce qu'il veut me montrer...)"
+        ],
+        "3-1-choice": [
+            "Quelqu'un d'autre est monté ?\nAllons la rattraper"
+        ],
+        "5-1-message": [
+            "\\C[3]Une carte portant l'inscription Maître des clés.\nElle indique : \"Voici une clé vers la sortie.\nVous mourrez si quelqu'un apprend l'existence de cette carte.\""
+        ],
+        "7-1-message": [
+            ""
         ]
     },
     "map35": {
