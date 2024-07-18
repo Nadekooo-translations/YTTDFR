@@ -3587,7 +3587,7 @@
             "\\C[3]Une carte portant l'inscription Maître des clés.\nElle indique : \"Voici une clé vers la sortie.\nVous mourrez si quelqu'un apprend l'existence de cette carte.\""
         ],
         "7-1-message": [
-            ""
+            "\\C[3]Un révolver.\nUne arme à feu. Il peut être chargé\njusqu'à 9 balles dans sa chambre cylindrique."
         ]
     },
     "map35": {
