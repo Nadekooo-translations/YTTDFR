@@ -3609,6 +3609,9 @@
         ],
         "7-1-message": [
             "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles."
+        ],
+        "16-1-message": [
+            "\\C[3]Une note contenant quelques noms,\ndont celui du professeur Mishima.\nIl y aussi le nom d'lice Yabusame."
         ]
     },
     "map35": {
