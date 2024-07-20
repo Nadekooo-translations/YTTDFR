@@ -98,7 +98,7 @@
             "\\.\"Juste une petite question...\n Tu sais ce que c'est, un \\C[2]vote à la majorité\\C[0] ?\"",
             "\\.\"Ahaha, pas la peine de s'énerver.\n C'est toujours utile de commencer ses discussions\n par une question simple.\"",
             "\\.\"Comme c'est étrange !\"",
-            "\\.\"Tu sais, c'est quand des gens votent pour décider\n de quelque chose et c'est la proposition qui obtient\n le plus de vote qui devient celle que l'on choisit...\"",
+            "\\.\"Tu sais, c'est quand des gens votent pour décider\n de quelque chose et c'est la proposition qui obtient\n le plus de votes qui devient celle que l'on choisit...\"",
             "\\.\"Tiens ? On dirait que nous ne sommes pas seuls.\"",
             "\\.\"J'adore les votes à la majorité ! Ils représentent\n ce que la démocratie devrait être : suivre\n la volonté du peuple !\n C'est une façon de réduire les conflits !\"",
             "\\.\"Je hais les votes à la majorité !\n Ils font taire les minorités et ne font que\n renforcer les ténèbres tapies dans l'ombre !\"",
@@ -431,7 +431,7 @@
         ],
         "14-1-message": [
             "\\C[3]La mare du campus.",
-            "\\.\\C[3]La rumeur dit que si quelqu'un regarde dedans\n à minuit, son reflet se mettra à parler.",
+            "\\.\\C[3]La rumeur dit que si quelqu'un regarde dedans\nà minuit, son reflet se mettra à parler.",
             "\\.\\C[4](... Ça pourrait être pas mal pour un asocial.)"
         ],
         "16-1-message": [
