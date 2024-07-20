@@ -88,6 +88,10 @@
         ],
         "5-1-message": [
             "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles."
+        ],
+        "2-1-message": [
+            "\\C[4](Bon... Sou m'a dit de venir ici, mais...)",
+            "\\.\"...Sara. Par ici, par ici.\n Je suis là...\""
         ]
     },
     "map1": {
@@ -3633,6 +3637,9 @@
         ],
         "63-1-message": [
             "\\C[3]J'aperçois l'entrée du premier étage."
+        ],
+        "48-1-message": [
+            "\\C[3]Un grand escalier qui monte."
         ]
     },
     "map35": {
