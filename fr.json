@@ -59,7 +59,28 @@
             "\\.\"... Il y en avait peut-être une.\"",
             "\\.\"Une annonce pour ceux qui se trouvent dans cette pièce.\"",
             "\\.\"...!\"",
-            "\\.\"Nous vous prions de quitter cette salle\n rapidement afin de permettre la\n récupération du corps.\""
+            "\\.\"Nous vous prions de quitter cette salle\n rapidement afin de permettre la\n récupération du corps.\"",
+            "\\.\"La récupération... du corps ?\"",
+            "\\.\"..........\"",
+            "\\.\"... S...\"",
+            "\\.\"Soyez pas ridicules !!\"",
+            "\\.\"Je... Je ne donnerai le professeur à personne !!\"",
+            "\\.\"Le refus d'obtempérer ne sera pas toléré.\"",
+            "\\.\"Propagation de gaz en cours.\"",
+            "\\.\"Encore... ce gaz...!\"",
+            "\\.\"Non...!\\.\\. Arrêtez !!\\.\\. Je vous en prie, arrêtez !!\"",
+            "\\.\"Le professeur... n'est pas mort du tout...!!\"",
+            "\\.\\C[3]Sur ces mots, Nao attrapa une partie de Mishima...",
+            "\\.\\C[3]et la mis...\\.\\. dans la boîte que Q-taro avait rapporté.",
+            "\\.\"M-Mais qu'est-ce que tu fabriques, miaou ?!\n Tu devrais pas faire ça, ouaf !!\"",
+            "\\.\"Sortez de mon chemin !!\"",
+            "\\.\\C[3]Nao balaya le reste du groupe et s'enfuit en courant.",
+            "\\.\"Attends, miaou !!\"",
+            "\\.\"Gin, non !! Attends !!\"",
+            "\\.\"Alors ça, c'est pas bon...\n Sara, Joe, poursuivons-les.\"",
+            "\\.\"Nao a perdu son sang-froid !\n Je vous en prie, soyez prudents avec elle !!\"",
+            "\"Hein ?! Elle est passée où ?!\"",
+            "\\.\\C[4](Non... Elle est \\C[2]montée au premier étage\\C[4] ?!)"
         ],
         "7-1-message": [
             "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles."
@@ -88,6 +109,20 @@
             "\\.\"... J-Juste encore un peu, miaou...\"",
             "\\.\"C'était pas pendant longtemps... mais...\n On a fait des recherches ensemble, ouaf...\"",
             "\\.\\C[4](Gin...)"
+        ],
+        "8-1-choice": [
+            "Aha ! Il est avec nous !\nAttachons-le",
+            "Tu ne devrais pas prendre l'air ?\nTu voudrais l'examiner ?"
+        ],
+        "8-3-message": [
+            "\\.\"... Quelle couleur vitriolique.\"",
+            "\\.\"Hmph... Si vous voulez examiner les alentours,\n faites-vous plaisir. Je ne vous assisterai pas,\n mais je ne vous perturberai pas non plus...\""
+        ],
+        "49-1-message": [
+            "\\C[3]Une ampoule pour éclairer une pièce."
+        ],
+        "51-1-message": [
+            "\\C[3]La fleur d'un vase."
         ]
     },
     "map33": {
@@ -3757,18 +3792,18 @@
             "\\C[3]Une bouteille pour transporter des liquides."
         ],
         "2-2-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\"...\"",
+            "\\.\"Sara, t'as trouvé quelque chose\n que Kanna pourrait porter ?\"",
+            "\\.\"... J'ai trouvé ça dans la Salle Bleue.\"",
+            "\\.\"Qu...! C'est exactement le même uniforme !\"",
+            "\\.\"Ça fait flipper...\n Pourquoi ils ont des trucs comme ça\n préparés à l'avance ?\"",
+            "\\.\"... Merci beaucoup...\"",
+            "\\.\\C[4](Kanna... Elle a l'air d'être encore plus fébrile...)",
+            "\\.\"... Kanna.\"",
+            "\\.\"?!\"",
+            "\\.\\C[3]Kanna s'éloigna de moi d'un sursaut.",
+            "\\.\"... Kanna.\"",
+            "\\.\"?!\"",
             null,
             null,
             "\\.\"...\"",
@@ -3818,6 +3853,20 @@
         ],
         "16-1-message": [
             "\\C[3]Une poupée qui me ressemble remarquablement."
+        ],
+        "2-1-message": [
+            "\"Tiens... Essuie-toi avec ça.\"",
+            "\\.\"... Merci beaucoup...\"",
+            "\\.\"Tsk, putain de poupée...\n T'as même pas d'habits de rechange.\"",
+            "\\.\"Vous deux...\"",
+            "\\.\"...!\"",
+            "\\.\\C[3]Kanna me regardait avec des yeux pleins d'étonnement.",
+            "\\.\\C[3]Ce n'était pas le regard confiant qu'elle\n m'avait donné auparavant.",
+            "\\.\\C[4](... J'ai... menti à Kanna.)",
+            "\\.\\C[4](À cause de ça...\n J'ai profondément blessé le coeur de Kanna.)",
+            "\\.\\C[4](\\C[10]\"Espèce de tueuse de soeur\"\\C[4]...\n Tout ça, c'est parce que Miley lui a dit\n cette chose horrible...!)",
+            "\\.\"Hé, Sara, tu penses que tu pourrais trouver\n quelque chose que Kanna pourrait porter ?\"",
+            "\\.\"Pas de problème.\""
         ]
     },
     "map37": {
