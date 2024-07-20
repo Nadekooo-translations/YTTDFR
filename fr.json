@@ -5,53 +5,61 @@
             "\\.\\C[3]Nao est assise aux côtés du professeur, abasourdie."
         ],
         "2-1-message": [
-            "\\.\\C[3]Le professeur Mishima... baignant dans une\nmarre de sang.",
+            "\\.\\C[3]Le professeur Mishima... baignant dans une\nmare de sang.",
             "\\.\\C[3]... J'ai peur de m'en approcher."
         ],
         "3-1-message": [
             "\"...\"",
-            "\\.\\C[4](Keiji est plongé dans ses pensées...)"
+            "\\.\\C[4](Keiji est plongé dans ses pensées...)",
+            "\\.\"..........\"",
+            "\\.\"Ils ont tous besoin de temps pour réfléchir, là.\"",
+            "\\.\"Toi aussi, Sara...\n Et moi de même, bien évidemment.\"",
+            "\\.\"... Je suis sûr que tout le monde reviendra.\""
         ],
         "6-1-message": [
             "\\C[3]Un briquet Zippo chic."
         ],
         "8-1-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\"Hm...? Sara... C'est...\"",
+            "\\.\"O-Ouahhhhh...?!\"",
+            "\\.\"C-C'est quoi ça ?\n Ce mec sur ton épaule...?!\"",
+            "\\.\"Donnez-moi un coup de main, s'il vous plaît !\n En fait...!\"",
+            "\\.\\C[3]Je leur ai expliqué ce qu'il s'est\npassé dans la Salle Rouge.",
+            "\\.\"..........\"",
+            "\\.\"Du calme. Il s'est juste évanoui.\"",
+            "\\.\"Mais c'est qui ce gars...?\"",
+            "\\.\"... Il porte un collier.\"",
+            "\\.\\C[4](Un collier...!)",
+            "\\.\"... Ce serait sympa.\n Mais en tant que gentil policier du coin,\n je me méfie du fait qu'on l'ait pas vu plus tôt.\"",
+            "\\.\\C[4](C'est vrai...\n Était-il dans la Salle Rouge depuis tout ce temps ?)",
+            "\\.\"Ahh, rien t'échappes, Sara.\"",
+            "\\.\"... On va le restreindre avec ce qu'on a sous la main.\"",
+            "\\.\\C[4](Difficile de savoir ce qu'il lui ait arrivé\n tant qu'il ne reprend pas connaissance...)",
+            "\\.\"Tant qu'il bouge pas, ça devrait aller.\n Quand il aura repris ses esprits, on le\n questionnera tranquillement.\"",
+            "\\.\\C[4](...)",
+            "\\.\\C[3]Alors que je ressentais un léger soulagement,\nmon attention s'est inévitablement tournée vers\nle reste de la salle.",
+            "\\.\"Euhh... Keiji.\n Nao et Gin, ils sont encore...?\"",
+            "\\.\"... Ouais.\n Comme toujours.\"",
+            "\\.\"Ils ont pas bougé d'un centimètre.\n ... C'est dur à regarder, en plus.\"",
+            "\\.\"Keiji...\"",
+            "\\.\"Non merci.\"",
+            "\\.\"Écoute, quelqu'un devra bien examiner Mishima.\n J'ai pas raison ?\"",
+            "\\.\"Et même moi je suis pas un sergent au point de\n demander à quelqu'un d'autre de le faire.\"",
+            "\\.\"... Pas besoin d'épuiser quelqu'un d'autre,\n puisqu'il se trouve qu'on a un pro parmi nous.\"",
+            "\\.\"... Bah, ouais.\"",
+            "\\.\"C'est dur, mais il faut bien que quelqu'un le fasse...\n Et il se trouve que je suis un pro.\"",
+            "\\.\"... Par contre c'est la première fois que j'examine\n un corps à qui j'avais parlé.\"",
+            "\\.\"..........\"",
+            "\\.\"C'est... difficile pour toi au final, hein ?\"",
+            "\\.\"... T'es bête.\n C'est mille fois pire pour Nao.\"",
+            "\\.\"Perdre une personne qu'elle respecte... La vache...\"",
             "\\.\"...\"",
-            null,
-            "\\.\"...\""
+            "\\.\"...E-Eum !\n Y a-t-il une personne que tu respectes, Keiji ?\"",
+            "\\.\"...\"",
+            "\\.\"... Il y en avait peut-être une.\"",
+            "\\.\"Une annonce pour ceux qui se trouvent dans cette pièce.\"",
+            "\\.\"...!\"",
+            "\\.\"Nous vous prions de quitter cette salle\n rapidement afin de permettre la\n récupération du corps.\""
         ],
         "7-1-message": [
             "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles."
@@ -70,6 +78,16 @@
         ],
         "52-1-message": [
             "\\C[3]Une poupée qui me ressemble remarquablement."
+        ],
+        "3-1-choice": [
+            "Tout le monde est parti, hein\nNe rien dire"
+        ],
+        "4-1-message": [
+            "\"...\"",
+            "\\.\"Gin, je sais ce que tu ressens,\n mais tu ne devrais pas être là...\"",
+            "\\.\"... J-Juste encore un peu, miaou...\"",
+            "\\.\"C'était pas pendant longtemps... mais...\n On a fait des recherches ensemble, ouaf...\"",
+            "\\.\\C[4](Gin...)"
         ]
     },
     "map33": {
@@ -9571,6 +9589,9 @@
             "\\.\"...\"",
             null,
             "\\.\"...\""
+        ],
+        "6-1-message": [
+            "\\.\\C[3]Le professeur Mishima... baignant dans une\nmare de sang."
         ]
     },
     "map53": {
