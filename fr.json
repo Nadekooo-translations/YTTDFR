@@ -58,6 +58,18 @@
         ],
         "53-1-message": [
             "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"À utiliser comme vous le souhaitez.\"\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3].\""
+        ],
+        "50-1-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "50-2-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "50-3-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "52-1-message": [
+            "\\C[3]Une poupée qui me ressemble remarquablement."
         ]
     },
     "map33": {
@@ -73,25 +85,60 @@
             "\\.\"... Ah...\"",
             "\\C[4]\\.(Kanna...!)",
             "\\.\"..........\"",
-            "\\.\\C[3]Kanna se mit à courir vers la cafétéria,\n presque comme pour s'échapper.",
+            "\\.\\C[3]Kanna se mit à courir vers la cafétéria,\npresque comme si elle s'échappait de quelque chose.",
             "\\C[4]\\.(Kanna...)",
             "\\.\"Sara.\"",
             "\\C[4]\\.\"Ah... Sou. Qu'est-ce qu'il y a ?\n Pourquoi tu tiens ton épaule comme ça ?\"",
-            null,
-            null,
-            null,
+            "\\.\"Euh... Ahaha...\n C'est qui qui vient de passer en courant ?\n Je me suis un peu cognée... Aïe...\"",
+            "\\.\"Plus important... Qu'est-ce qu'il s'est passé ?\nVous vous êtes disputés ?\"",
+            "\\.\"J'ai... menti à Kanna...\n Je l'ai blessée de la pire des manières...\"",
             "\\.\"...\"",
-            null,
+            "\\.\"... Tu le regrettes ?\"",
             "\\.\"...\"",
-            null,
-            "\\.\"...\""
+            "\\.\"Je suis certain que tu ne lui voulais que\n du bien, Sara.\"",
+            "\\.\"...\"",
+            "\\.\"Tu parles de... Kanna ?\"",
+            "\\.\"...!\"",
+            "\\.\"On dirait que j'ai bien deviné.\"",
+            "\\.\"Je ne sais pas ce qu'il s'est passé, mais...\n C'est dangereux de la laisser seule...\"",
+            "\\.\"... Relax.\n Je m'en occupe.\"",
+            "\\.\\C[3]Avec ça, Sou partit à la poursuite de Kanna."
         ],
         "5-1-message": [
             "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles."
         ],
         "2-1-message": [
             "\\C[4](Bon... Sou m'a dit de venir ici, mais...)",
-            "\\.\"...Sara. Par ici, par ici.\n Je suis là...\""
+            "\\.\"... Sara. Par ici, par ici.\n Je suis là...\"",
+            "\\.\"Quoi...? Sou, c'est toi ?\"",
+            "\\.\\C[3]Je leva le briquet dans la direction de sa voix.",
+            "\\.\\C[4](Une porte...?!)",
+            "\\.\\C[4](Dire qu'une porte était là...)"
+        ],
+        "2-3-choice": [
+            "J'ai fait du mal à Kanna\nC'est rien"
+        ],
+        "3-1-message": [
+            "\\C[3]Il y a une porte dans les ténèbres.",
+            "\\.\\C[4](Je ne pense pas qu'il y ait d'autres\n portes cachées ici...)"
+        ],
+        "24-1-message": [
+            "\\C[3]Une ampoule pour éclairer une pièce."
+        ],
+        "25-1-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "25-2-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "25-3-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "27-1-message": [
+            "\\C[3]Une poupée qui me ressemble remarquablement."
+        ],
+        "28-2-message": [
+            "\\C[3]C'est ouvert..."
         ]
     },
     "map1": {
@@ -261,7 +308,7 @@
         "itemdesc63": "Une ampoule qui permet d'illuminer une pièce.",
         "itemdesc65": "La fleur d'un vase.",
         "itemdesc67": "Une grande aiguille et une petite aiguille.\\nPas assez pointues pour percer quoi que ce soit.",
-        "itemdesc69": "Une bouteille servant à transporter des liquides.",
+        "itemdesc69": "Une bouteille pour transporter des liquides.",
         "itemdesc73": "Le portrait d'un homme de profil.",
         "itemdesc75": "Des outils qui servent à retirer des vis entre autres.",
         "itemdesc79": "Une monnaie pas utilisable au Japon.",
@@ -1797,6 +1844,18 @@
         ],
         "51-1-message": [
             "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"À utiliser comme vous le souhaitez.\"\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3].\""
+        ],
+        "27-1-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "27-2-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "27-3-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "29-1-message": [
+            "\\C[3]Une poupée qui me ressemble remarquablement."
         ]
     },
     "map16": {
@@ -3124,6 +3183,18 @@
         ],
         "3-1-message": [
             "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles."
+        ],
+        "31-1-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "31-2-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "31-3-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "33-1-message": [
+            "\\C[3]Une poupée qui me ressemble remarquablement."
         ]
     },
     "map48": {
@@ -3132,6 +3203,15 @@
         ],
         "20-3-message": [
             "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles."
+        ],
+        "16-5-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "16-6-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "33-3-message": [
+            "\\C[3]Une poupée qui me ressemble remarquablement."
         ]
     },
     "map23": {
@@ -3647,16 +3727,16 @@
             "\\C[3]Un briquet Zippo chic."
         ],
         "14-3-message": [
-            "\\C[3]Une bouteille servant à transporter des liquides."
+            "\\C[3]Une bouteille pour transporter des liquides."
         ],
         "15-1-message": [
             "\\C[3]La fleur d'un vase."
         ],
         "14-1-message": [
-            "\\C[3]Une bouteille servant à transporter des liquides."
+            "\\C[3]Une bouteille pour transporter des liquides."
         ],
         "14-2-message": [
-            "\\C[3]Une bouteille servant à transporter des liquides."
+            "\\C[3]Une bouteille pour transporter des liquides."
         ],
         "2-2-message": [
             null,
@@ -3717,6 +3797,9 @@
         ],
         "48-1-message": [
             "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"À utiliser comme vous le souhaitez.\"\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3].\""
+        ],
+        "16-1-message": [
+            "\\C[3]Une poupée qui me ressemble remarquablement."
         ]
     },
     "map37": {
@@ -3825,6 +3908,18 @@
         ],
         "75-1-message": [
             "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"À utiliser comme vous le souhaitez.\"\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3].\""
+        ],
+        "45-1-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "45-2-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "45-3-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "47-1-message": [
+            "\\C[3]Une poupée qui me ressemble remarquablement."
         ]
     },
     "map38": {
@@ -3842,6 +3937,18 @@
         ],
         "57-1-message": [
             "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"À utiliser comme vous le souhaitez.\"\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3].\""
+        ],
+        "12-1-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "12-2-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "12-3-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "14-1-message": [
+            "\\C[3]Une poupée qui me ressemble remarquablement."
         ]
     },
     "map39": {
@@ -3862,6 +3969,18 @@
         ],
         "68-1-message": [
             "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"À utiliser comme vous le souhaitez.\"\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3].\""
+        ],
+        "16-1-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "16-2-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "16-3-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "18-1-message": [
+            "\\C[3]Une poupée qui me ressemble remarquablement."
         ]
     },
     "map40": {
@@ -3897,6 +4016,18 @@
         ],
         "49-1-message": [
             "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"À utiliser comme vous le souhaitez.\"\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3].\""
+        ],
+        "18-1-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "18-2-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "18-3-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "20-1-message": [
+            "\\C[3]Une poupée qui me ressemble remarquablement."
         ]
     },
     "map41": {
@@ -3917,6 +4048,15 @@
         ],
         "76-1-message": [
             "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"À utiliser comme vous le souhaitez.\"\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3].\""
+        ],
+        "20-5-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "20-6-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "75-1-message": [
+            "\\C[3]Une poupée qui me ressemble remarquablement."
         ]
     },
     "map45": {
@@ -4027,6 +4167,18 @@
         ],
         "4-1-message": [
             "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles."
+        ],
+        "31-1-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "31-2-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "31-3-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "33-1-message": [
+            "\\C[3]Une poupée qui me ressemble remarquablement."
         ]
     },
     "map46": {
@@ -4039,6 +4191,18 @@
         ],
         "3-1-message": [
             "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles."
+        ],
+        "40-1-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "40-2-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "40-3-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "42-1-message": [
+            "\\C[3]Une poupée qui me ressemble remarquablement."
         ]
     },
     "map47": {
@@ -4051,6 +4215,18 @@
         ],
         "4-1-message": [
             "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles."
+        ],
+        "38-1-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "38-2-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "38-3-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "40-1-message": [
+            "\\C[3]Une poupée qui me ressemble remarquablement."
         ]
     },
     "map49": {
@@ -4101,6 +4277,18 @@
         ],
         "8-1-message": [
             "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles."
+        ],
+        "24-1-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "24-2-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "24-3-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "26-1-message": [
+            "\\C[3]Une poupée qui me ressemble remarquablement."
         ]
     },
     "map50": {
@@ -4129,6 +4317,18 @@
         ],
         "28-1-message": [
             "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"À utiliser comme vous le souhaitez.\"\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3].\""
+        ],
+        "15-1-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "15-2-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "15-3-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "17-1-message": [
+            "\\C[3]Une poupée qui me ressemble remarquablement."
         ]
     },
     "map51": {
@@ -4147,6 +4347,18 @@
         ],
         "29-1-message": [
             "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles."
+        ],
+        "51-1-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "51-2-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "51-3-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "53-1-message": [
+            "\\C[3]Une poupée qui me ressemble remarquablement."
         ]
     },
     "map68": {
@@ -4155,6 +4367,18 @@
         ],
         "5-1-message": [
             "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles."
+        ],
+        "14-3-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "14-1-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "14-2-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "16-1-message": [
+            "\\C[3]Une poupée qui me ressemble remarquablement."
         ]
     },
     "items-81": {
@@ -9364,6 +9588,15 @@
         ],
         "1-1-message": [
             "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles."
+        ],
+        "6-1-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "6-2-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "6-3-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
         ]
     },
     "map60": {
@@ -9378,6 +9611,15 @@
         ],
         "5-1-message": [
             "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles."
+        ],
+        "3-1-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "3-2-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "3-3-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
         ]
     },
     "map65": {
@@ -10694,6 +10936,15 @@
         ],
         "3-1-message": [
             "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles."
+        ],
+        "6-1-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "6-2-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "6-3-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
         ]
     },
     "map66": {
@@ -15514,7 +15765,8 @@
         "name": "Deux Aiguilles"
     },
     "items-68": {
-        "name": "Bouteille"
+        "name": "Bouteille",
+        "description": "Une bouteille pour transporter des liquides."
     },
     "items-69": {
         "name": "Bouteille"
@@ -15672,11 +15924,29 @@
     "map52": {
         "3-1-message": [
             "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles."
+        ],
+        "12-1-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "12-2-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "12-3-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
         ]
     },
     "map59": {
         "38-1-message": [
             "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles."
+        ],
+        "4-1-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "4-2-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "4-3-message": [
+            "\\C[3]Une bouteille pour transporter des liquides."
         ]
     }
 }
