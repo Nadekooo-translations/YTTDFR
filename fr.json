@@ -3626,7 +3626,13 @@
             "\\C[3]Une bouteille pour transporter des liquides."
         ],
         "21-1-message": [
-            "\\C[3]Une poupée qui me ressemble beaucoup."
+            "\\C[3]Une poupée qui me ressemble remarquablement."
+        ],
+        "62-1-message": [
+            "\\C[3]J'aperçois l'entrée du premier étage."
+        ],
+        "63-1-message": [
+            "\\C[3]J'aperçois l'entrée du premier étage."
         ]
     },
     "map35": {
