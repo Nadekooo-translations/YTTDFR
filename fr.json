@@ -3612,6 +3612,12 @@
         ],
         "16-1-message": [
             "\\C[3]Une note contenant quelques noms,\ndont celui du professeur Mishima.\nIl y aussi le nom d'Alice Yabusame."
+        ],
+        "18-1-message": [
+            "\\C[3]Une ampoule pour éclairer une pièce."
+        ],
+        "19-1-message": [
+            "\\C[3]Une bouteille pour transporter du liquide."
         ]
     },
     "map35": {
