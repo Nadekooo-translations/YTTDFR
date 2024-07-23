@@ -123,6 +123,9 @@
         ],
         "51-1-message": [
             "\\C[3]La fleur d'un vase."
+        ],
+        "44-1-message": [
+            "\\C[3]Le portait d'une personne tenant un pistolet.\nIl y a une autre peinture au verso."
         ]
     },
     "map33": {
@@ -192,6 +195,9 @@
         ],
         "28-2-message": [
             "\\C[3]C'est ouvert..."
+        ],
+        "19-1-message": [
+            "\\C[3]Le portait d'une personne tenant un pistolet.\nIl y a une autre peinture au verso."
         ]
     },
     "map1": {
@@ -3773,6 +3779,9 @@
         ],
         "48-1-message": [
             "\\C[3]Un grand escalier qui monte."
+        ],
+        "13-1-message": [
+            "\\C[3]Le portait d'une personne tenant un pistolet.\nIl y a une autre peinture au verso."
         ]
     },
     "map35": {
