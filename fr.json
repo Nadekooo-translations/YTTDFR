@@ -670,16 +670,16 @@
             "Soudainement, un stalkeur est apparu...\nOn s'est enfuis de peur d'être attaqués,\npuis on est arrivés chez moi.",
             "Mais quelqu'un était caché, et il nous a assommés.",
             "Nous nous sommes réveillés dans une salle inconnue.",
-            "Restreints sur des lits et avec des colliers, nous avons\nété obligés de résoudre un puzzle au péril de nos vies.\n\nC'était... la \\C[2]Première Épreuve\\C[0].",
+            "Restreints sur des lits et avec des colliers, nous\navons été forcés de résoudre un puzzle\nau péril de nos vies.\n\nC'était... la \\C[2]Première Épreuve\\C[0].",
             "Après avoir traversé cette épreuve, 9 personnes d'âge,\nde genre et de professions différents nous attendaient.",
-            "N'étant sûrs de rien, nous avons tous collaboré\npour nous échapper de cet endroit et nous avons\névité des pièges mis en place pour prendre nos vies.",
+            "N'étant sûrs de rien, nous avons tous collaboré\npour nous échapper de cet endroit et nous avons\névité des pièges mis en place pour nous tuer.",
             "Mais...",
-            "À cause d'un coup cruel du Maître d'Étage qui apparut\nsubitement (\\C[2]Sue Rillante, la Poupée Rieuse\\C[0])...",
+            "À cause d'un coup cruel de \\C[2]Sue Rillante la Poupée Rieuse\\C[0],\nle Maître d'Étage qui apparut subitement...",
             "Le professeur \\C[2]Kazumi Mishima\\C[0]... est mort.",
-            "Nous avons aussi rencontré un meurtrier qui\ns'était caché, \\C[2]Alice Yabusame\\C[0]...",
+            "Nous avons aussi rencontré un meurtrier qui\nétait resté caché \\C[2]Alice Yabusame\\C[0]...",
             "Et nous avons commencé un vote mettant\nnos vies en jeu...\n\nLe \\C[2]Jeu Principal\\C[0].",
             "Deux cartes ont scellé nos sorts...\nLe \\C[3]Sage\\C[0], et le \\C[10]Sacrifice\\C[0].",
-            "Leurs détenteurs étaient...\n\n\\C[2]Kai Satou\\C[0], mon stalkeur qui semblait détenir\nune sorte d'élément clé de ces jeux mortels, et...",
+            "Leurs détenteurs étaient...\n\n\\C[2]Kai Satou\\C[0], mon stalkeur qui semblait détenir\nune sorte d'élément clé à ces jeux mortels, et...",
             "Mon meilleur ami... Joe.",
             "Et c'est ainsi que Joe fut tué... de la\nplus cruelle des manières.",
             "Dans l'effondrement de mon coeur...\nRésonne la voix de quelqu'un.",
@@ -1570,7 +1570,7 @@
             "\\.\"Moins fort, miaou !!\n Crie pas dans mes oreilles, ouaf !!\"",
             "\\.\"A... Allons... Se battre n'amènera à rien.\"",
             "\\.\\C[3]Je pouvais sentir la tension dans l'air.",
-            "\\.\\C[4](Il y a même des collégiens, ici...?)"
+            "\\.\\C[4](Il y a même un collégien, ici...?)"
         ],
         "3-2-message": [
             "\\C[3]Je peux sentir la tension dans l'air.",
@@ -4956,7 +4956,7 @@
             "\\.\"M'appelle pas \"l'autre dragueur\"...\"",
             "\\.\"On avait enfin réussi à se faire connaître.\n Un futur brillant s'étendait devant nous...\"",
             "\\.\"Euh... ce maquillage... c'est pour tes concerts ?\"",
-            "\\.\"T'es folle ! Mes fans pleureraient\n si je faisais des concerts aussi naturellement.\"",
+            "\\.\"T'es folle ! Mes fans pleureraient\n si je faisais des concerts aussi peu maquillée.\"",
             "\\.\\C[4](C'est ça, \"naturel\", pour toi ?)",
             "\\.\"Je venais de finir une nouvelle chanson, alors\n j'avais prévu d'aller voir le reste du groupe...\n et puis cette merde m'arrive !!\"",
             "\\.\\C[4](Pour une séance musicale, j'imagine...?)",
@@ -4979,7 +4979,7 @@
             "\"Je me nomme Kai Satou.\n Un assistant ménager assez banal.\"",
             "\"Il est assez préoccupant d'avoir été enlevé tandis\n que le linge est encore étendu...\"",
             "\\.\\C[4](Ouaip, je m'en rappellerais si j'avais\n rencontré un énergumène pareil...)",
-            "\"Hm... Les Œufs Bénédictes est le plat que\n je cuisine le mieux.\"",
+            "\"Hm... Les œufs Bénédicte sont le plat que\n je cuisine le mieux.\"",
             "\\.\"Alors t'es un chef, hein ?\"",
             "\\.\"Non, non pas un chef, mais un assistant ménager.\n Similairement à un homme de ménage.\"",
             "\\.\"C'est pareil si les deux font de la bonne bouffe.\"",
@@ -5004,7 +5004,7 @@
             "\\.\\C[4](Est-ce vraiment juste mon imagination...?)",
             "\\.\"Peut-être que... je devrais me débarrasser\n de mon équipement de cuisine, finalement.\"",
             "\\.\"Hmm... Mais il pourrait toujours servir.\"",
-            "\\.\"Je parie que je pourrais au moins\n préparer des Œufs Bénédictes.\"",
+            "\\.\"Je parie que je pourrais au moins\n préparer des œufs Bénédicte.\"",
             "\\.\\C[4](Ouais... je m'en rappellerais si j'avais rencontré\n un énergumène pareil...)"
         ],
         "45-0-choice": [
@@ -8984,6 +8984,54 @@
             null,
             "\\.\"Je te les confie...!\"",
             "\\.\"Nos regrets...!! Nos espoirs...!!\""
+        ],
+        "276-0-message": [
+            "Sara Chidouin\nC'est moi. Je me fais suivre par un stalkeur\nces derniers temps...",
+            "\\.Sur le chemin du retour du lycée avec Joe, j'ai\nrencontré mon stalkeur. Quand je suis rentrée\nchez moi... ma mère avait perdu connaissance.\nAprès ça... Je ne me rappelle de rien.",
+            "\\.Après avoir réussi la Roulette Russe, les autres m'ont\nplus accordé leur confiance. Ça me fait plaisir, mais...\nC'est difficile d'être traitée comme un leader."
+        ],
+        "277-0-message": [
+            "Jou Tazuna (Joe)\nMon camarade de classe, un ami enjoué et bienveillant.\nIl a récemment commencé à sortir avec ma meilleure amie\nRyoko.",
+            "\\.Depuis qu'il a réalisé que je me faisais suivre,\nil est attentionné avec moi... à sa manière.\nC'est le seul que je connaisse ici.",
+            "\\.Joe m'a fait confiance lors de la Première Épreuve et\nde la Roulette Russe. Peut-être que la raison pour\nlaquelle j'arrive à garder mon calme, c'est ce gars."
+        ],
+        "278-0-message": [
+            "Keiji Shinogi\nNotre soi-disant \"ami le policier\"...\nIl semblerait qu'il soit flic.",
+            "\\.Son allure décontractée semble inexplicablement louche.\nOn dirait qu'il essaie d'inciter les autres à me faire\nconfiance.",
+            "\\.Mais... Juste avant la Roulette Russe, il a avoué\navoir tiré sur quelqu'un. Il ne serait apparemment\nplus capable d'utiliser d'armes à feu depuis."
+        ],
+        "279-0-message": [
+            "Kanna Kizuchi\nUne collégienne. Lors de la Première Épreuve...\nElle aurait perdu sa grande soeur...",
+            "\\.Pleine de regrets, elle m'a interrogée à propos de la\nPremière Épreuve. Le professeur Mishima qui passait\npar là par hasard à ce moment lui a menti par inquiétude.\nJ'ai joué le jeu.",
+            "\\.J'ai caché la vérité... car elle était cruelle.\nMais Rillante a insulté Kanna de tueuse de soeur...!\nPeut-être que Kanna m'en veut de lui avoir caché la\nvérité... Même si elle retrouve sa soeur en moi..."
+        ],
+        "280-0-message": [
+            "Q-taro Burgerberg\nUn joueur de baseball qui serait sur le point de\n faire un comeback... apparemment.",
+            "\\.Malgré sa figure gigantesque et tape-à-l'oeil, il est\ntrès méfiant. Il aurait apparemment été élevé dans\nun orphelinat étrange, ce qui explique pourquoi\nson jargon part dans tous les sens.",
+            "\\.Nous avons eu un conflit lors de la Roulette Russe, mais\nil s'est retiré et il semble qu'il me fasse confiance\ndepuis. Il a l'air d'être un bonhomme honnête\net pragmatique."
+        ],
+        "281-0-message": [
+            "Sou Hiyori\nIl se décrit comme un intérimaire.\nUn homme timide qui parle en souriant.",
+            "\\.Il est mince et il se pourrait qu'il soit plutôt faible\nétant donné qu'il n'a même pas réussi à ouvrir une\nporte coulissante. D'un autre côté, son comportement\na changé subitement quand j'ai ramassé le revolver...\nC'était un peu effrayant.",
+            "\\.Lors de la Roulette Russe, Sou était coincé à l'extérieur\nde la salle. Je suis curieuse de la \"salle secrète\" qu'il\ndit avoir trouvé pendant qu'on était enfermés."
+        ],
+        "282-0-message": [
+            "Reko Yabusame\nUne chanteuse et auteure-compositrice qui\nest connue au point d'apparaître dans des\nmagazines.",
+            "\\.Elle est membre d'un groupe au look très voyant.\nElle est inquiète pour ses bongos. Apparemment,\nlà, elle est \"peu\" maquillée.\nElle est sévère avec les hommes.",
+            "\\.En parallèle, elle est super gentille avec moi, Nao,\net Kanna. Elle a montré de l'inquiétude envers Sou,\ndonc peut-être plutôt qu'elle est attentionnée\nenvers les faibles et difficile avec les forts..."
+        ],
+        "283-0-message": [
+            "Nao Egokoro\nUne étudiante d'art en université. Il semblerait qu'elle\nrespecte énormément son professeur de lycée, Mishima.",
+            "\\.Elle s'est échappée de la Première Épreuve en coopérant\navec lui. Ils comptent l'un sur l'autre, et j'ai vu\nNao s'énerver avec ceux qui parlent du mal de lui.",
+            "\\.Mais... le professeur Mishima... s'est fait tuer\npar Rillante.\n... Je suis inquiète pour Nao."
+        ],
+        "284-0-message": [
+            "Kai Satou\nIl dit être un assistant ménager.\nUn énergumène obsédé par les œufs Bénédicte.",
+            "\\.Il est perché et il dit des choses qui pourraient autant\nêtre interprétées comme une blague que sérieusement.\nDurant la Roulette Russe, il n'a pas voté pour moi,\nmais il m'a acceptée.",
+            "\\.Mais... C'est mon stalkeur. Il se pourrait qu'il ait\nquelque chose à voir avec les kidnappings. Ou du\nmoins c'est ce que je pensais, car il a donné un\nsacré coup à Rillante. C'est un mystère..."
+        ],
+        "285-0-message": [
+            "Gin Ibushi\nUn collégien quelque peu insolent qui\nfinit ses phrases avec \"ouaf\" et \"miaou\".\""
         ]
     },
     "map107": {
