@@ -546,7 +546,7 @@
         ],
         "16-1-message": [
             "\\C[3]Les lumières sont allumées.\nC'est peut-être le garde de nuit.",
-            "\\.\\C[4](Merci pour votre inlassable service.)"
+            "\\.\\C[4](Merci de votre inlassable service.)"
         ],
         "16-2-message": [
             "\\C[3]Les lumières sont éteintes."
@@ -9012,7 +9012,7 @@
         ],
         "281-0-message": [
             "Sou Hiyori\nIl se décrit comme un intérimaire.\nUn homme timide qui parle en souriant.",
-            "\\.Il est mince et faible étant donné qu'il n'a même\npas réussi à ouvrir une porte coulissante. D'un autre\ncôté, son comportement a changé subitement\nquand j'ai ramassé le revolver... J'ai eu un peu peur.",
+            "\\.Il est mince et faible étant donné qu'il n'a même\npas réussi à ouvrir une porte coulissante. D'un autre\ncôté, son comportement a changé subitement quand\nj'ai ramassé le revolver... J'ai eu un peu peur.",
             "\\.Lors de la Roulette Russe, Sou était coincé à\nl'extérieur de la salle. Je suis intriguée par la\n\"salle secrète\" qu'il dit avoir trouvé pendant\nqu'on était enfermés."
         ],
         "282-0-message": [
