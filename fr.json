@@ -4470,11 +4470,12 @@
     "map62": {
         "1-1-choice": [
             "Oui\nNon (Écran Titre)\nSauvegarder",
-            "Retourner à l'écran titre\nY repenser"
+            "Retourner à l'écran titre\nAnnuler"
         ],
         "1-1-message": [
-            null,
-            "Êtes-vous sûr de vouloir retourner à l'écran titre ?"
+            "Commencer la seconde partie ?",
+            "Êtes-vous sûr de vouloir retourner à l'écran titre ?",
+            "Merci d'avoir joué jusqu'ici."
         ]
     },
     "map215": {
@@ -5802,7 +5803,7 @@
             "\\.\"Oh, je suis ravi de l'entendre.\n J'ai confiance en toi aussi, Sara.\"",
             "\\.\"... Mais parler sans arrêt de \"confiance\"\n ne fait que me rendre plus suspect, hein...\"",
             "\\.\"Non, non... Ce n'est pas comme si je me\n méfiais vraiment de toi, Sou.\"",
-            "\\.\"Bon, commençons à chercher.\n Ne gaffez pas, les gars...\"",
+            "\\.\"Bon, commençons à chercher.\n Gaffez pas, les gars...\"",
             "\\.\"... Et assurez-vous de partager toutes les\n informations que vous trouvez.\"",
             "\"Très bien, Sara. Peut-on y aller ?\"",
             "\\.\\C[4](La Première Épreuve... Une tête de poupée...\n Et un corps...)",
@@ -9703,7 +9704,7 @@
     },
     "map65": {
         "1-1-message": [
-            null,
+            "\"Excusez-moi.\"",
             null,
             null,
             null,
@@ -16026,6 +16027,32 @@
         ],
         "4-3-message": [
             "\\C[3]Une bouteille pour transporter des liquides."
+        ]
+    },
+    "map63": {
+        "2-1-message": [
+            "Touchez un personnage pour consulter les\nfaits et informations qui le concernent\nantérieurs au Chapitre 2.",
+            "\\.Cliquez sur la porte \\C[2]EXIT\\C[0] pour commencer l'histoire."
+        ]
+    },
+    "map64": {
+        "1-1-message": [
+            "\\C[3]Il était une fois une lycéenne appelée Sara\nqui était très cool.",
+            "\\!\\C[3]En rentrant chez elle accompagnée de son meilleur ami\nJoe, ils se sont échappés d'un très, très effrayant\nstalkeur...",
+            "\\!\\C[3]Elle s'est ensuite rendu compte que sa mère avait\nperdu connaissance, que son père avait disparu, que\nsa maison était en désordre... Sara était perdue.",
+            "\\!\\C[3]Quand elle reprit connaissance, elle était dans une\nsalle étrange. 10 personnes qu'elle ne connaissait pas\nétaient avec elle.",
+            "\\!\\C[3]Keiji, un policier qui a tiré sur\nquelqu'un dans le passé.\n\nQ-taro, un joueur de baseball professionnel\nmusclé comme un gorille.",
+            "\\!\\C[3]Sou, un intérimaire fébrile et asocial sur les bords.\n\nReko, une musicienne au maquillage frappant.",
+            "\\!\\C[3]Mishima, un professeur terriblement suspicieux.\n\nNao, son ancienne étudiante.",
+            "\\!\\C[3]Kai, un étrange homme de ménage excentrique.\n\nGin, un collégien qui miaule et qui aboie.",
+            "\\!\\C[3]Et Kanna, une fillette qui a perdu sa grande\nsoeur dans la Première Épreuve.",
+            "\\!\\C[3]Sara coopérait avec tout le monde pour surmonter diverses épreuves.",
+            "\\!\\C[3]Mais Sara réalisa que son stalkeur était Kai,\nl'homme de ménage.",
+            "\\!\\C[3]Puis Mishima mourut lors d'un test à cause\ndu vote de quelqu'un.",
+            "\\!\\C[3]Sou se fît frapper à la tête.",
+            "\\!\\C[3]Alice, le meurtrier qui apparut subitement,\navoua être le frère de Reko.",
+            "\\!\\C[3]Malgré tout, ils travaillèrent main dans la\nmain pour progresser, mais...",
+            "\\!\\C[3]Joe, son meilleur ami, et Kai, qui possédait\nde précieuses informations, moururent."
         ]
     }
 }
