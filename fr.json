@@ -680,7 +680,7 @@
             "Et nous avons commencé un vote mettant\nnos vies en jeu...\n\nLe \\C[2]Jeu Principal\\C[0].",
             "Deux cartes ont scellé nos sorts...\nLe \\C[3]Sage\\C[0], et le \\C[10]Sacrifice\\C[0].",
             "Leurs détenteurs étaient...\n\n\\C[2]Kai Satou\\C[0], mon stalkeur qui semblait détenir\nune sorte d'élément clé à ces jeux mortels, et...",
-            "Et mon meilleur ami... Joe.",
+            "Mon meilleur ami... Joe.",
             "Et c'est ainsi que Joe fut tué... de la\nplus cruelle des manières.",
             "Dans l'effondrement de mon coeur...\nRésonne la voix de quelqu'un.",
             "\\C[4]\"Je te les confie... Nos regrets, nos espoirs.\"",
@@ -9002,26 +9002,26 @@
         ],
         "279-0-message": [
             "Kanna Kizuchi\nUne collégienne. Lors de la Première Épreuve...\nElle aurait perdu sa grande soeur...",
-            "\\.Pleine de regrets, elle m'a interrogée à propos de la\nPremière Épreuve. Le professeur Mishima qui passait\npar là par hasard à ce moment lui a menti par inquiétude.\nJ'ai joué le jeu.",
+            "\\.Pleine de regrets, elle m'a interrogée à propos de\nla Première Épreuve. Le professeur Mishima qui passait\npar là par hasard à ce moment lui a menti par\ninquiétude. J'ai joué le jeu.",
             "\\.J'ai caché la vérité... car elle était cruelle.\nMais Rillante a insulté Kanna de tueuse de soeur...!\nPeut-être que Kanna m'en veut de lui avoir caché la\nvérité... Même si elle retrouve sa soeur en moi..."
         ],
         "280-0-message": [
-            "Q-taro Burgerberg\nUn joueur de baseball qui serait sur le point de\n faire un comeback... apparemment.",
-            "\\.Malgré sa figure gigantesque et tape-à-l'oeil, il est\ntrès méfiant. Il aurait apparemment été élevé dans\nun orphelinat étrange, ce qui explique pourquoi\nson jargon part dans tous les sens.",
-            "\\.Nous avons eu un conflit lors de la Roulette Russe, mais\nil s'est retiré et il semble qu'il me fasse confiance\ndepuis. Il a l'air d'être un bonhomme honnête\net pragmatique."
+            "Q-taro Burgerberg\nUn joueur de baseball qui serait sur le point de\nfaire un comeback... apparemment.",
+            "\\.Malgré sa figure gigantesque et tape-à-l'oeil, il est\ntrès méfiant. Il aurait apparemment grandi dans\nun orphelinat étrange, ce qui explique pourquoi\nson jargon part dans tous les sens.",
+            "\\.Nous avons eu un conflit lors de la Roulette Russe,\nmais il s'est retiré et il semble qu'il me fasse\nconfiance depuis. Il a l'air d'être un bonhomme\nhonnête et pragmatique."
         ],
         "281-0-message": [
             "Sou Hiyori\nIl se décrit comme un intérimaire.\nUn homme timide qui parle en souriant.",
-            "\\.Il est mince et il se pourrait qu'il soit plutôt faible\nétant donné qu'il n'a même pas réussi à ouvrir une\nporte coulissante. D'un autre côté, son comportement\na changé subitement quand j'ai ramassé le revolver...\nC'était un peu effrayant.",
+            "\\.Il est mince et faible étant donné qu'il n'a même\npas réussi à ouvrir une porte coulissante. D'un autre\ncôté, son comportement a changé subitement\nquand j'ai ramassé le revolver... J'ai eu un peu peur.",
             "\\.Lors de la Roulette Russe, Sou était coincé à\nl'extérieur de la salle. Je suis intriguée par la\n\"salle secrète\" qu'il dit avoir trouvé pendant\nqu'on était enfermés."
         ],
         "282-0-message": [
             "Reko Yabusame\nUne chanteuse et auteure-compositrice qui\nest connue au point d'apparaître dans des\nmagazines.",
-            "\\.Elle est membre d'un groupe au look très voyant.\nElle est inquiète pour ses bongos. Apparemment,\nlà, elle est \"peu\" maquillée.\nElle est sévère avec les hommes.",
+            "\\.Elle est membre d'un groupe au look très voyant.\nElle est inquiète pour ses bongos.\nApparemment, là, elle est \"peu\" maquillée.\nElle est sévère avec les hommes.",
             "\\.En parallèle, elle est super gentille avec moi, Nao,\net Kanna. Elle a montré de l'inquiétude envers Sou,\ndonc peut-être plutôt qu'elle est attentionnée\nenvers les faibles et difficile avec les forts..."
         ],
         "283-0-message": [
-            "Nao Egokoro\nUne étudiante d'art en université. Il semblerait qu'elle\nrespecte énormément son professeur de lycée, Mishima.",
+            "Nao Egokoro\nUne étudiante d'art en université. Il semblerait\nqu'elle respecte énormément son professeur\nde lycée, Mishima.",
             "\\.Elle s'est échappée de la Première Épreuve en coopérant\navec lui. Ils comptent l'un sur l'autre, et j'ai vu\nNao s'énerver avec ceux qui parlent du mal de lui.",
             "\\.Mais... le professeur Mishima... s'est fait tuer\npar Rillante.\n... Je suis inquiète pour Nao."
         ],
@@ -9033,15 +9033,15 @@
         "285-0-message": [
             "Gin Ibushi\nUn collégien quelque peu insolent qui\nfinit ses phrases par \"ouaf\" et \"miaou\".\"",
             "\\.On dirait qu'il tient à moi, il m'appelle sa \"grande\nsœur Sara\". Son optimisme dans cette situation\ndésagréable n'est pas celle d'un collégien.",
-            "\\.Mais je ne sais pas comment l'état mental de Gin pourrait\névoluer après avoir vu une tragédie d'aussi près.\n... Même moi, je n'avais jamais vu une chose aussi\nhorrible auparavant."
+            "\\.Mais je ne sais pas comment l'état mental de Gin\npourrait évoluer après avoir vu une tragédie\nd'aussi près. ... Même moi, je n'avais jamais vu\nune chose aussi horrible auparavant."
         ],
         "286-0-message": [
-            "Kazumi Mishima\nUn professeur de lycée qui a l'air très suspicieux, mais\nqui est en vérité un homme au personnage très noble.",
+            "Kazumi Mishima\nUn professeur de lycée qui a l'air très suspicieux,\nmais qui est en vérité un homme au personnage\ntrès noble.",
             "\\.Il a réussi la Première Épreuve avec Nao, et il\nse faisait du souci pour tout le monde.\nIl aimait sûrement fumer, malgré son déni.\nIl a menti à Kanna pour son bien.",
-            "\\.Le professeur Mishima... est mort.\nLe vote que Rillante a exigé, qui était censé être\nun test... l'a tué.\nÊtre brûlé vif par son collier a dû être douloureux.\nJe... Je le ferai payer à Rillante."
+            "\\.Le professeur Mishima... est mort.\nLe vote que Rillante a exigé, qui était censé être\nun test... l'a tué. Être brûlé vif par son collier a dû\nêtre douloureux. Je... Je le ferai payer à Rillante."
         ],
         "287-0-message": [
-            "Conclure les résumés ?"
+            "Conclure les rappels ?"
         ],
         "289-0-message": [
             "\\C[10]                       9 Restants"
@@ -11173,7 +11173,7 @@
             "\"Hé... Sara... Sara...\"",
             "\\.\"... Qu'est-ce qu'il y a, Joe ?\n Retourne-toi, on est en cours.\"",
             "\\.\"J'ai entendu dire qu'un super bon kebab a ouvert !\n Allons-y sur le chemin du retour, je t'invite !\"",
-            "\\.\"Bon, d'accord !\n\\! ... Tu fais tellement de bruit.\n Ce n'est pas le moment de parler.\"",
+            "\\.\"Bon, d'accord !\n\\! ... T'es tellement bruyant.\n Ce n'est pas le moment de parler.\"",
             "\\.\"Oh, et hé, en échange...\"",
             "\\.\"... J'ai compris. Je ramène Ryoko.\"",
             "\\.\"Hein, sérieux ?!\n\\! ... Non, c'est pas ce que je voulais !\"",
@@ -11187,7 +11187,7 @@
             "\\.\"Faire ses devoirs chez soi... Vas-y, pas envie...\"",
             "\\.\"Et de toute façon, je suis mort.\"\\.",
             "\\.\"... Hein...?\"",
-            "\\.\"Je suis mort, car tu m'as remis en question, tu sais.\"",
+            "\\.\"Je suis mort car tu m'as remis en question, tu sais.\"",
             "\\.\"Tu te sens pas responsable ?\"",
             "\\.\"...\"",
             "\\.\"C'est que j'ai souffert longtemps par ta\n faute aussi, tu sais ?\"",
