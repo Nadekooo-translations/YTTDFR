@@ -9755,7 +9755,11 @@
             "\\.\"Je l'utiliserai avec affection...\\.\\.\n Je le conserverai précieusement...!\"",
             "\"Ta fonction...?\"",
             "\\.\\C[10]\"Je compte peut-être sur toi pour elle...\n Mais je te donnerai jamais ma fille... Jamais...\"",
-            "\\.\"... E-Euh, maître ?\""
+            "\\.\"... E-Euh, maître ?\"",
+            "\\.\\C[10]\"Ma fille... Ma fille...\"",
+            "\\.\\C[4](... Quand il s'agit de Madame Sara...\n Il perd bel et bien de vue tout le reste.)",
+            "\\.\\C[4](De cet angle-là aussi...\n Je dois continuer de veiller sur Madame Sara.)",
+            "\\.\\C[4](Je me demande si elle est concentrée sur ces\n études, en ce moment-même...?)"
         ]
     },
     "map67": {
@@ -9768,6 +9772,10 @@
             null,
             null,
             "\\.\"...\""
+        ],
+        "2-1-message": [
+            "\"... Mmh...\"",
+            "\"Hééé...\""
         ]
     },
     "map69": {
@@ -11033,26 +11041,47 @@
     },
     "map66": {
         "1-1-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\"...\""
+            "\"Hé... Sara... Sara...\"",
+            "\\.\"... Qu'est-ce qu'il y a, Joe ?\n Retourne-toi, on est en cours.\"",
+            "\\.\"J'ai entendu dire qu'un super bon kebab a ouvert !\n Allons-y sur le chemin du retour, je t'invite !\"",
+            "\\.\"Bon, d'accord !\n\\! ... Tu fais tellement de bruit.\n Ce n'est pas le moment de parler.\"",
+            "\\.\"Oh, et hé, en échange...\"",
+            "\\.\"... J'ai compris. Je ramène Ryoko.\"",
+            "\\.\"Hein, sérieux ?!\n\\! ... Non, c'est pas ce que je voulais !\"",
+            "\\.\"Sérieusement, fais moins de bruit...!!\n Qu'est-ce que tu voulais dire ?\"",
+            "\\.\"... Je vous en prie, montrez-moi vos réponses,\n Seigneure Sara...\"",
+            "\\.\"O... On est en cours, tu sais ?\n Bien évidemment que je ne vais pas te les donner.\"",
+            "\\.\"Juste pour une seconde !! Je recopie vite !\"",
+            "\\.\"Ce n'est pas une compétence qui\n mérite d'être félicitée...\"",
+            "\\.\"Désolée, mais je ne peux pas.\n Ça s'appelle des devoirs maison.\n C'est ta faute si tu ne les fais pas chez toi.\"",
+            "\\.\"Argh... T'as raison, mais...!\"",
+            "\\.\"Faire des devoirs chez soi... Vas-y, pas envie...\"",
+            "\\.\"Et de toute façon, je suis mort.\"\\.",
+            "\\.\"... Hein...?\"",
+            "\\.\"Je suis mort, car tu m'as remis en question, tu sais.\"",
+            "\\.\"Tu te sens pas responsable ?\"",
+            "\\.\"...\"",
+            "\\.\"C'est que j'ai souffert longtemps par ta\n faute aussi, tu sais ?\"",
+            "\\.\"T'as quelque chose à dire à ce sujet ?\"",
+            "\\.\"Je... Je...\"",
+            "\\.\"Hahaha, mais pourquoi tu t'excuses ?\"",
+            "\\.\"Hahaha ! Pas besoin de garder le silence.\"",
+            "\\.\\C[10]\"T'es qu'une sale tueuse !\"",
+            "\\.\"... Non...! Je...!!\"",
+            "\\.\"J'étais... juste obligée d'aller de l'avant...!!\"",
+            "\\.\"J'ai fait... tout ce que j'ai pu...!\"",
+            "\\.\\C[10]\"Et c'est comme ça que les choses ont fini ?\"",
+            "\\.\"Je les ai tous protégés...! C'est vrai...!!\"",
+            "\\.\\C[10]\"Mais je suis mort.\\! Kai est mort, aussi.\"",
+            "\\.\"Mais... Mais...!!\"",
+            "\\.\"Arrête, Joe !!\"",
+            "\\.\"Je t'en supplie... Je t'en supplie...!!\"",
+            "\\.\\C[10]\"Tu veux pas voir les choses en face ?\"",
+            "\\>         \\{\\{\\C[10]REGARDE-MOI DANS LES YEUX...\\<\\|\\.\\.\\^",
+            "\\.\"OUAAAAAAAAAAaaaaaahhhhh...!!!!\""
+        ],
+        "1-1-choice": [
+            "Désolée...\n.........."
         ]
     },
     "map112": {
