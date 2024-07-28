@@ -528,7 +528,7 @@
             "Argh...",
             "\\.J'ai fait un rêve bizarre...",
             "\\.J'ai mal à la mâchoire...",
-            "\\.Parce que je dormais la tête sur la table...",
+            "\\.Vu que je dormais la tête sur la table...",
             "\\.Il est déjà si tard... ? Je dois rentrer chez moi...",
             "\\.... Je ferais mieux de me dépêcher..."
         ]
@@ -546,7 +546,7 @@
         ],
         "16-1-message": [
             "\\C[3]Les lumières sont allumées.\nC'est peut-être le garde de nuit.",
-            "\\.\\C[4](Merci de votre inlassable service.)"
+            "\\.\\C[4](Merci pour votre inlassable service.)"
         ],
         "16-2-message": [
             "\\C[3]Les lumières sont éteintes."
@@ -629,7 +629,7 @@
         ],
         "1-3-choice": [
             "Oui\nNon",
-            "Désolé\nMerci\nÇa m'embête"
+            "Désolée\nMerci\nÇa m'embête"
         ],
         "2-1-message": [
             "\\C[3]Une affiche de prévention avertissant de\nfaire attention avec les inconnus.",
@@ -641,7 +641,7 @@
             "\\.\"Hein...?!\""
         ],
         "3-1-message": [
-            "\\C[3]Un faible lampadaire illumine la rue."
+            "\\C[3]La faible lumière du lampadaire illumine la rue."
         ],
         "1-1-choice": [
             "Je m'en fiche\nVous vous êtes embrassés ou quoi ?"
