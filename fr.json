@@ -570,12 +570,12 @@
             "\\.\"C'est une fille tellement sympa !\n Je suis carrément ému !\"",
             "\\.\"Mignonne, hein ?\"",
             "\\.\"Adorable, même !\"",
-            "\\.\"Et je l'ai vue avaler un kebab tout entier d'une\nseule bouchée tout à l'heure !\nC'est vraiment un morfal !\"",
+            "\\.\"Et je l'ai vue avaler un kebab tout entier d'une\n seule bouchée tout à l'heure !\n C'est vraiment un morfal !\"",
             "\\.\"Un kebab tout entier...\"",
             "\\.\"Attends... Vous étiez en rencard ?!\"",
             "\\.\"Mouahaha... J'en sors tout juste !\"",
             "\\.\"J'suis revenu au lycée spécialement\n pour m'en vanter auprès de toi !\"",
-            "\\.\"Tu aurais juste dû rentrer chez toi...\"",
+            "\\.\"Tu aurais dû juste rentrer chez toi...\"",
             "\\.\"Parfait ! Vantardise accomplie...!\"",
             "\\.\"Rentrons, Sara !\""
         ],
@@ -641,7 +641,7 @@
             "\\.\"Hein...?!\""
         ],
         "3-1-message": [
-            "\\C[3]La faible lumière du lampadaire illumine la rue."
+            "\\C[3]La faible lueur du lampadaire illumine la rue."
         ],
         "1-1-choice": [
             "Je m'en fiche\nVous vous êtes embrassés ou quoi ?"
@@ -1022,7 +1022,7 @@
             "\\.\"Je ne le laisserai pas faire, okay ?!\"",
             "\\.\"Joe...\"",
             "\\.\"Appelle-moi ! N'importe quand !\"",
-            "\\.\"Je m'ramènerai avec une cargaison de\n premières années !\"",
+            "\\.\"Je m'ramènerai avec une cargaison d'étudiants\n de première année !\"",
             "\\.\"...\"",
             "\\.\\C[4](Ce gars me fixait...)",
             "\\.\\C[4](Et... On aurait dit...)",
@@ -1277,10 +1277,10 @@
             "\\.\\C[3]La Première Épreuve... ?",
             "\\.\\C[3]On va mourir... dans 5 minutes ?",
             "\\.\"Nwaaaaa ?! On fait quoi ?!\"",
-            "\\.\\C[4](On a pas le temps de s'inquiéter...!)",
+            "\\.\\C[4](On a pas le temps de s'en tracasser...!)",
             "\\C[3]J'ai fouillé dans ma poche avec ma main libre,\nmais je n'ai rien trouvé.",
             "\"Joe ! Regarde dans tes poches !\"",
-            "\\.\"Oh, oh...\"",
+            "\\.\"Oh-oh...\"",
             "\\.\"Quand j'ai sorti le téléphone de ma poche...\n J'ai peut-être fait tomber \\C[2]quelqu'chose\\C[0]...!\"",
             "\\.\"N-Non ! Ramasse-la !\"",
             "\\.\"D'accord...!\"",
@@ -1404,7 +1404,7 @@
         ],
         "42-1-message": [
             "\\C[3]Une porte en acier.",
-            "\\.\\C[4](La porte est pas verrouillée...\n Mais je peux pas abandonner Sara !)"
+            "\\.\\C[4](La porte est pas fermée...\n Mais j'peux pas abandonner Sara !)"
         ],
         "85-2-message": [
             "\\.\"... Le temps est écoulé.\"",
@@ -1425,10 +1425,10 @@
         "1-1-message": [
             "\"Merde... On voit vraiment que dalle !\"",
             "\\.\"Je ne vois rien...\"",
-            "\"À gauche il y a une impasse...\n On dirait qu'on est obligés d'aller à droite.\"",
+            "\"À gauche, il y a une impasse...\n On dirait qu'on est obligés d'aller à droite.\"",
             "\"C... C'est pas le moment de plaisanter, Sara !\n On s'est échappés, mais ils\n pourraient nous rattraper !\"",
             "\\.\\C[4](Joe a l'air assez inquiet...)",
-            "\\.\"Je le pense vraiment, Sara.\n On doit pas se faire séparer.\"",
+            "\\.\"Je suis sérieux, Sara.\n On doit pas se séparer.\"",
             "\\.\"Oui...\"",
             "\\.\\C[3]Nous avons continué d'avancer...",
             "\\.\\C[3]... Mais malgré tout ce que nous avons marché,\nnous n'avons aperçu aucune lumière.",
@@ -1442,8 +1442,8 @@
             "\\.\"Hmm... Qu'est-ce qui pourrait nous éclairer...?\"",
             "\\.\\C[3]Nous commencions à chercher, quand soudainement...",
             "\"Je n'entends personne dans les environs.\n Ne serait-ce pas une bonne idée de courir\n avant que quelqu'un n'arrive ?\"",
-            "\\.\"... Je suis pas hyper fan, mais...\n Si tu le fais, je te suis !\"",
-            "\\.\"Mais je peux te demander quelque chose ?\"",
+            "\\.\"... J'suis pas hyper fan, mais...\n Si tu le fais, je te suis !\"",
+            "\\.\"Mais je peux te demander un truc ?\"",
             "\\.\"Quoi ?\"",
             "\\.\"T'es plus rapide que moi, pas vrai...?\"",
             "\\.\"... Je ne t'abandonnerais pas.\"",
@@ -1489,8 +1489,8 @@
             "\\.\\C[4](Mais... Qu'est-ce qu'il se passe ?)"
         ],
         "2-1-message": [
-            "\\C[3]Au milieu, il y a une discussion\nmouvementée et centrée autour d'un homme.",
-            "\"Attendez une seconde, du calme !\n Nous devrions passer en revue ce\n que chacun de nous sait.\"",
+            "\\C[3]Au centre, il y a une discussion mouvementée\net centrée autour d'un homme.",
+            "\"Une seconde, du calme !\n Nous devrions passer en revue ce\n que chacun d'entre nous sait.\"",
             "\"C'est bien beau tout ça...\n Mais je ne sais même pas quel est cet endroit !\"",
             "\"J'ai vécu à l'instant une expérience horrifiante...\n Il semblerait que je ne parvienne donc pas à\n maintenir mon calme... Mouahaha.\"",
             "\\.\\C[3]Ils ont l'air plutôt désorientés.",
@@ -1554,7 +1554,7 @@
             "\\.\"Oui... J'aimerais éclaircir notre situation.\"",
             "\\.\"... Vous voyez, les personnes calmes\n savent comment agir.\"",
             "\\.\"Je préférerais que tu ne sois pas\n si familier avec moi...\"",
-            "\\.\"Raison de plus pour nous présenter.\n Sinon je ne saurai pas comment m'y prendre.\"",
+            "\\.\"Raison de plus pour nous présenter.\n Sinon je saurai pas comment m'y prendre.\"",
             "\\.\"Okay, quand t'es prête, on se présentera.\n Fais-moi signe quand c'est bon, Sara.\""
         ],
         "2-3-choice": [
@@ -1565,10 +1565,10 @@
             "Oui\nNon"
         ],
         "3-1-message": [
-            "\\C[3]En regardant à droite, je remarque une femme\nparticulièrement énervée.",
+            "\\C[3]En regardant à droite, je remarque une dame\nparticulièrement énervée.",
             "\"Graaah !! On s'est fait enlever !\n Par des gros cinglés !!\"",
             "\\.\"Moins fort, miaou !!\n Crie pas dans mes oreilles, ouaf !!\"",
-            "\\.\"A... Allons... Se battre n'amènera à rien.\"",
+            "\\.\"A... Allons... Se battre ne mènera à rien.\"",
             "\\.\\C[3]Je pouvais sentir la tension dans l'air.",
             "\\.\\C[4](Il y a même un collégien, ici...?)"
         ],
@@ -1597,7 +1597,7 @@
     },
     "map15": {
         "1-1-message": [
-            "\"Hehem... Donc du coup, je pense qu'on devrait\n tous se connaître un peu plus.\"",
+            "\"Héhém... Alors, je pense qu'on devrait apprendre\nà se connaître un peu plus.\"",
             "\\.\"Et mia-lors? Maman m'a dit de pas donner\n d'infos personnelles aux gens étranges\n que je connais pas, ouaf !\"",
             "\\.\"Prodigieux ! Un jeune enfant réfléchi qui fait\n ce que ses parents lui apprennent !\"",
             "\\.\"Tout de même, nous sommes là dans une situation\n particulièrement urgente... Hrmmm.\"",
@@ -4787,11 +4787,11 @@
         ],
         "41-0-message": [
             "\"Hein ? Je me suis pas déjà présenté ?\"",
-            "\"Je suis \\C[2]Keiji Shinogi\\C[0].\n Je travaille en tant que policier.\"",
+            "\"Je suis \\C[2]Keiji Shinogi\\C[0].\n Mon métier, c'est policier.\"",
             "\\.\"Toi et Joe êtes amis, c'est ça ?\n Si seulement je connaissais quelqu'un, ici...\"",
             "\"Je m'appelle \\C[2]Keiji Shinogi\\C[0].\n J'suis policier.\"",
             "\\.\"Hein ?! T'es policier ?!\"",
-            "\\.\"C'est bien ça. Alors t'as pas intérêt à m'embêter.\n ... Enfin, non pas que je sois vraiment\n ce type de flic.\"",
+            "\\.\"C'est bien ça, alors t'as pas intérêt à m'embêter.\n ... Enfin, non pas que je sois vraiment\n ce genre de flic.\"",
             "\\.\"M... Mais t'aurais dû le dire plus tôt !\"",
             "\\.\"Je me suis fait enlever au beau milieu d'une enquête.\n Je pouvais pas juste le cracher comme ça.\"",
             "\\.\"J'aurais pas dû être méfiant... Merde...\"",
@@ -4928,7 +4928,7 @@
         ],
         "43-0-message": [
             "\"J'suis Q-taro Burgerberg !\n Un joueur de baseball !\"",
-            "\"Ça arrive pas souvent du tout.\n Même avec toute ma force, j'arrive pas à\n retirer c'maudit collier...\"",
+            "\"Ça arrive pas souvent du tout.\n Même avec ma force, j'arrive pas à\n retirer c'maudit collier...\"",
             "\"Ouais, j'suis un sportif, mais si t'en fais trop et\n qu'tu t'fais mal, t'atteindras jamais les ligues.\"",
             "\\.\\C[4](Même comparé au groupe, ce gars se démarque pas mal...)",
             "\"J'pas la moindre idée d'où je suis né non plus !\n J'avais des parents mais ils sont partis avant\n même qu'j'puisse m'en rappeler.\"",
@@ -4942,8 +4942,8 @@
             "\\.\"... B-Ben... Ouaip, c'ça.\"",
             "\\.\\C[4](Je ne connais rien en baseball non plus,\n mais il semble être plutôt fier de sa \\C[2]force\\C[4].)",
             "\\.\"J'étais tout content après un énorme comeback\n en fin de jeu alors j'suis allé boire un coup,\n et après j'me rappelle plus d'rien.\"",
-            "\\.\"Puis, quand je m'suis réveillé, j'avais un collier là.\nComme si j'étais un chien !\"",
-            "\\.\"C'tellement décevant !\n J'arrive pas à croire que j'peux pas l'enlever !\"",
+            "\\.\"Puis, quand je m'suis réveillé, j'avais un collier là.\n Comme si j'étais un chien !\"",
+            "\\.\"C'tellement décevant !\n J'arrive pas à croire que j'puisse pas l'enlever !\"",
             "\\.\\C[4](Même avec sa force, il n'arrive pas à le retirer...)"
         ],
         "43-0-choice": [
@@ -4952,13 +4952,13 @@
         "44-0-message": [
             "\"... Reko Yabusame.\n Je suis chanteuse et auteure-compositrice.\"",
             "\"Si les kidnappeurs ont jeté mon équipement...\n Je vais défoncer leurs culs !\"",
-            "\"Comme l'a dit l'autre dragueur, mon groupe\n est devenu assez connu, au point\n d'apparaître dans des magazines.\"",
+            "\"Comme l'a dit l'autre dragueur, mon groupe est\n devenu assez connu, au point d'apparaître\n dans des magazines.\"",
             "\\.\"M'appelle pas \"l'autre dragueur\"...\"",
             "\\.\"On avait enfin réussi à se faire connaître.\n Un futur brillant s'étendait devant nous...\"",
             "\\.\"Euh... ce maquillage... c'est pour tes concerts ?\"",
-            "\\.\"T'es folle ! Mes fans pleureraient\n si je faisais des concerts aussi peu maquillée.\"",
-            "\\.\\C[4](C'est ça, \"naturel\", pour toi ?)",
-            "\\.\"Je venais de finir une nouvelle chanson, alors\n j'avais prévu d'aller voir le reste du groupe...\n et puis cette merde m'arrive !!\"",
+            "\\.\"T'es folle ! Mes fans seraient en larmes si je\n faisais des concerts aussi peu maquillée.\"",
+            "\\.\\C[4](C'est \"peu maquillé\", ça, pour toi ?)",
+            "\\.\"Je venais de finir une nouvelle chanson, alors\n j'avais prévu d'aller voir le reste du groupe...\n Et voilà que cette merde m'arrive !!\"",
             "\\.\\C[4](Pour une séance musicale, j'imagine...?)",
             "\\.\"... Sûrement.\n Merde... Perdre quelque chose d'aussi important...\"",
             "\\.\"Mes précieux bongos...!\"",
@@ -4969,7 +4969,7 @@
             "\\.\"Putain de kidnappeurs ! Si vous avez jeté mes trucs,\n j'vais tellement vous enculer...!\"",
             "\\.\"E-Est-ce vraiment le moment pour s'inquiéter de ça...?\"",
             "\\.\"Certains de ces trucs sont plus importants\n que ma propre vie !!\"",
-            "\\.\"E-Excuse-moi !!\"",
+            "\\.\"P-Pardon !!\"",
             "\\.\\C[4](Tout son équipement a disparu, hein...)"
         ],
         "44-0-choice": [
@@ -4978,7 +4978,7 @@
         "45-0-message": [
             "\"Je me nomme Kai Satou.\n Un assistant ménager assez banal.\"",
             "\"Il est assez préoccupant d'avoir été enlevé tandis\n que le linge est encore étendu...\"",
-            "\\.\\C[4](Ouaip, je m'en rappellerais si j'avais\n rencontré un énergumène pareil...)",
+            "\\.\\C[4](Ouaip, je m'en serais rappelé si j'avais\nrencontré un énergumène pareil...)",
             "\"Hm... Les œufs Bénédicte sont le plat que\n je cuisine le mieux.\"",
             "\\.\"Alors t'es un chef, hein ?\"",
             "\\.\"Non, non pas un chef, mais un assistant ménager.\n Similairement à un homme de ménage.\"",
@@ -4989,7 +4989,7 @@
             "\\.\"...\"",
             "\\.\"Ah, ce n'est pas grave...\n Si tu ne t'en rappelles pas, c'est que\n je dois me tromper...\"",
             "\\.\"... Madame Sara...?\"",
-            "\\.\"Hein ?! Tu me connais bel et bien, alors ?\"",
+            "\\.\"Hein ?! On se connaît bel et bien, alors ?\"",
             "\\.\"J'ai simplement entendu votre nom plus tôt.\"",
             "\\.\"Alors c'est bien notre première rencontre au final...\"",
             "\"Oh, la poêle et etcetera.\n Je les ai trouvés dans une salle où j'étais plus tôt.\"",
@@ -5005,14 +5005,14 @@
             "\\.\"Peut-être que... je devrais me débarrasser\n de mon équipement de cuisine, finalement.\"",
             "\\.\"Hmm... Mais il pourrait toujours servir.\"",
             "\\.\"Je parie que je pourrais au moins\n préparer des œufs Bénédicte.\"",
-            "\\.\\C[4](Ouais... je m'en rappellerais si j'avais rencontré\n un énergumène pareil...)"
+            "\\.\\C[4](Ouais... Je m'en serais rappelé si j'avais\nrencontré un énergumène pareil...)"
         ],
         "45-0-choice": [
             "On se connaît ?\nOù as-tu trouvé ces ustensiles ?"
         ],
         "46-0-message": [
             "\"Je suis Kazumi Mishima.\n J'enseigne dans un certain lycée...\n Mouahaha...\"",
-            "\"Grâce à notre collaboration,\n nous avons pu surmonter la Première Épreuve...\"",
+            "\"Grâce à notre collaboration, nous avons\n pu surmonter la Première Épreuve...\"",
             "\\.\"Quelle bonne élève j'ai, oui...\"",
             "\"D'ailleurs, je professe le Japonais et l'art...\n Mouaha...\"",
             "\\.\"Hein, t'es enseignant ? J'ai du mal à me l'imaginer.\"",
@@ -5023,7 +5023,7 @@
             "\\.\"Pardon...\n Voyez-vous, c'est une de mes anciennes élèves.\n Je vous prie de bien vouloir la pardonner...\"",
             "\\.\"C'est un très bon professeur !\n Ne vous fiez pas aux apparences !\"",
             "\\.\"Je suppose que mon apparence est étrange\n après tout... Comme c'est bouleversant.\"",
-            "\\.\"Hé bien, je ne peux pas me baser sur\n quoi que ce soit d'autre... J'en sais\n pas beaucoup sur toi non plus, petite dame.\"",
+            "\\.\"Hé bien, je ne peux pas me baser sur quoi que ce\n soit d'autre... J'en sais pas beaucoup sur toi\n non plus, petite dame.\"",
             "\\.\"Je vais me présenter... !\n Nous sommes parfaitement innocents !\"",
             "\\.\"... Autant pour moi, alors. Je m'excuse.\"",
             "\\.\"Oui, il est temps de se calmer...\"",
@@ -5041,7 +5041,7 @@
             "\\.\"Après que je m'y suis arrêté...\n Il semble que j'ai perdu connaissance.\"",
             "\\.\"À mon réveil, la \\C[2]Première Épreuve\\C[0] débuta.\"",
             "\\.\"!\"",
-            "\\.\"Nous nous en sommes échappés sains et saufs grâce\n à nos esprits combinés. Sauvé par ma propre disciple...\"",
+            "\\.\"Nous nous en sommes échappés sains et saufs grâce\n à notre intelligence combinée. Sauvé par ma\n propre disciple...\"",
             "\\.\\C[4](La Première Épreuve...?!)"
         ],
         "46-0-choice": [
@@ -5049,10 +5049,10 @@
         ],
         "47-0-message": [
             "\"Moi et Sara sommes camarades de classe.\"",
-            "\"Pardon... J'essaie pas de t'effrayer, Sara.\"",
+            "\"Pardon... J'essaie pas de te faire peur, Sara.\"",
             "\\.\"Je voulais juste souligner le fait qu'il\n pourrait y avoir un collaborateur...\"",
             "\"Sara se faisait harceler par un stalker, alors\n je l'ai raccompagnée chez elle ce jour-là.\"",
-            "\\.\"Puis il y a eu un incident alors\n j'ai appelé la police, mais...\"",
+            "\\.\"Après, il y a eu un accident, donc\n j'ai appelé la police mais...\"",
             "\\.\"J'ai entendu Sara crier, donc j'ai accouru\n pour monter les escaliers.\"",
             "\\.\"Et là se tenait \\C[2]ce satané stalker\\C[0] !\"",
             "\\.\\C[4](Hein ?!)",
@@ -5094,7 +5094,7 @@
             "\"Mes souvenirs d'être amenée ici...\"",
             "\\.\"Désolée... C'est la même histoire que celle du\n professeur. Je me suis évanouie dans la voiture\n au poste de contrôle...\"",
             "\\.\"À part ça... Tout ce dont je me rappelle,\n c'est la Première Épreuve.\"",
-            "\\.\"C'était un jeu où nous étions attachés à des lits...\n et nous devions nous échapper avec une seule clé...\"",
+            "\\.\"C'était un jeu où nous étions attachés à des lits...\n Et nous devions nous échapper avec une seule clé...\"",
             "\\.\\C[4](C'est la même chose que nous...!)",
             "\\.\"Je... Le professeur Mishima m'a dit\n d'utiliser le papier abrasif sur la clé...\n Et j'ai ensuite retiré ses liens avec.\"",
             "\\.\"Honnêtement...\n C'est grâce à lui que j'ai pu rester calme...\"",
@@ -5127,10 +5127,10 @@
             "\\.\"T'as qu'à mentir, miaou !\n T'es beaucoup trop honnête, ouaf !\"",
             "\\.\"H... Hé, je ne pense pas que ce soit une bonne idée...\n On ne peut pas faire confiance aux personnes\n de ce genre, si ?\"",
             "\\.\\C[4](Il sourit tout le temps...\n Il a l'air gentil... ou peut-être plus timide.)",
-            "\\.\"Ahaha... A-Allons bon...\n Ne me regarde pas aussi pitoyablement...\"",
+            "\\.\"Ahaha... A-Allons bon...\n Ne me regarde pas comme si j'étais pitoyable...\"",
             "\\.\"Sara, tu as l'air inébranlable et forte.\n Je suis jaloux.\"",
             "\\.\"D'ailleurs, je voulais te demander quelque chose...\"",
-            "\\.\"La vache... Tu demandes ça sans\n passer par quatre chemins.\"",
+            "\\.\"La vache...\n T'as pas l'air de passer par quatre chemins.\"",
             "\\.\"Des idées, hein... Je n'en ai aucune.\"",
             "\\.\"Je m'excuse sur le champ après chaque dispute...\n Je ne laisse même pas suffisamment d'impression\n sur quiconque pour être haï.\"",
             "\\.\"Parfois, je me dis que je ne suis pas\n suffisamment reconnaissant envers\n mes parents, mais...\"",
