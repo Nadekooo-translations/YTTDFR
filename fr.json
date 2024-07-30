@@ -125,7 +125,19 @@
             "\\C[3]La fleur d'un vase."
         ],
         "44-1-message": [
-            "\\C[3]Le portait d'une personne tenant un pistolet.\nIl y a une autre peinture au verso."
+            "\\C[3]Le portrait d'une personne tenant un pistolet.\nIl y a une autre peinture au dos."
+        ],
+        "10-1-message": [
+            "\\C[3]Un bouchon trouvé au fond du bassin.\nIl est petit et lourd."
+        ],
+        "45-1-message": [
+            "\\C[3]Le portrait d'une personne tenant un pistolet."
+        ],
+        "48-1-message": [
+            "\\C[3]Le portrait d'un homme de profil."
+        ],
+        "46-1-message": [
+            "\\C[3]Un vaporisateur.\nDes gouttelettes d'eau y sont collées."
         ]
     },
     "map33": {
@@ -197,7 +209,22 @@
             "\\C[3]C'est ouvert..."
         ],
         "19-1-message": [
-            "\\C[3]Le portait d'une personne tenant un pistolet.\nIl y a une autre peinture au verso."
+            "\\C[3]Le portrait d'une personne tenant un pistolet.\nIl y a une autre peinture au dos."
+        ],
+        "7-1-message": [
+            "\\C[3]Un bouchon trouvé au fond du bassin.\nIl est petit et lourd."
+        ],
+        "20-1-message": [
+            "\\C[3]Le portrait d'une personne tenant un pistolet."
+        ],
+        "23-1-message": [
+            "\\C[3]Le portrait d'un homme de profil."
+        ],
+        "26-1-message": [
+            "\\C[3]La fleur d'un vase."
+        ],
+        "21-1-message": [
+            "\\C[3]Un vaporisateur.\nDes gouttelettes d'eau y sont collées."
         ]
     },
     "map1": {
@@ -542,7 +569,7 @@
         "14-1-message": [
             "\\C[3]La mare du campus.",
             "\\.\\C[3]La rumeur dit que si quelqu'un regarde dedans\nà minuit, son reflet se mettra à parler.",
-            "\\.\\C[4](... Ça pourrait être pas mal pour un asocial.)"
+            "\\.\\C[4](... Ça pourrait être pas mal pour un taciturne.)"
         ],
         "16-1-message": [
             "\\C[3]Les lumières sont allumées.\nC'est peut-être le garde de nuit.",
@@ -1938,6 +1965,24 @@
         ],
         "29-1-message": [
             "\\C[3]Une poupée qui me ressemble remarquablement."
+        ],
+        "9-1-message": [
+            "\\C[3]Un bouchon trouvé au fond du bassin.\nIl est petit et lourd."
+        ],
+        "21-1-message": [
+            "\\C[3]Le portrait d'une personne tenant un pistolet.\nIl y a une autre peinture au dos."
+        ],
+        "22-1-message": [
+            "\\C[3]Le portrait d'une personne tenant un pistolet."
+        ],
+        "25-1-message": [
+            "\\C[3]Le portrait d'un homme de profil."
+        ],
+        "28-1-message": [
+            "\\C[3]La fleur d'un vase."
+        ],
+        "23-1-message": [
+            "\\C[3]Un vaporisateur.\nDes gouttelettes d'eau y sont collées."
         ]
     },
     "map16": {
@@ -1949,7 +1994,7 @@
             "\"Bonne chance à tous...!\""
         ],
         "11-1-message": [
-            "\\C[3]Il y a de nombreuses sorties.",
+            "\\C[3]Cette pièce a de nombreuses sorties.",
             "\\C[3]Quand on regarde dedans, on remarque que\nla plupart ne mènent qu'à des impasses.",
             "\"Tu vois ces énormes coussins, au fond des impasses ?\"",
             "\\.\"Je me demande si en atterrissant,\n je suis tombée sur l'un d'eux...\"",
@@ -1958,7 +2003,7 @@
             "\\.\"Je ne pensais pas que vous seriez amis, par contre.\""
         ],
         "11-3-message": [
-            "\\C[3]Il y a de nombreuses sorties."
+            "\\C[3]Cette pièce a de nombreuses sorties."
         ],
         "12-1-message": [
             "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles.\nÀ quoi peut bien servir le trou en son centre... ?",
@@ -1980,7 +2025,7 @@
             "\\C[3]Un cigare dans un emballage de haute qualité."
         ],
         "11-2-message": [
-            "\\C[3]Il y a de nombreuses sorties."
+            "\\C[3]Cette pièce a de nombreuses sorties."
         ],
         "16-1-message": [
             "\\C[3]Un briquet Zippo chic."
@@ -3095,7 +3140,7 @@
             "\"Reko... Tu t'amuses bien, on dirait.\""
         ],
         "11-1-message": [
-            "\\C[3]Il y a de nombreuses sorties.",
+            "\\C[3]Cette pièce a de nombreuses sorties.",
             "\\C[3]En les examinant, on remarque que la plupart\nne mènent qu'à des impasses.",
             "\"Tu vois ces énormes coussins, au fond des impasses ?\"",
             "\\.\"Je me demande si en atterrissant,\n je suis tombée sur l'un d'eux...\"",
@@ -3104,10 +3149,10 @@
             "\\.\"Je ne pensais pas que vous étiez amis.\""
         ],
         "11-2-message": [
-            "\\C[3]Il y a de nombreuses sorties."
+            "\\C[3]Cette pièce a de nombreuses sorties."
         ],
         "11-3-message": [
-            "\\C[3]Il y a de nombreuses sorties."
+            "\\C[3]Cette pièce a de nombreuses sorties."
         ]
     },
     "map42": {
@@ -3277,6 +3322,24 @@
         ],
         "33-1-message": [
             "\\C[3]Une poupée qui me ressemble remarquablement."
+        ],
+        "7-1-message": [
+            "\\C[3]Un bouchon trouvé au fond du bassin.\nIl est petit et lourd."
+        ],
+        "25-1-message": [
+            "\\C[3]Le portrait d'une personne tenant un pistolet.\nIl y a une autre peinture au dos."
+        ],
+        "26-1-message": [
+            "\\C[3]Le portrait d'une personne tenant un pistolet."
+        ],
+        "29-1-message": [
+            "\\C[3]Le portrait d'un homme de profil."
+        ],
+        "32-1-message": [
+            "\\C[3]La fleur d'un vase."
+        ],
+        "27-1-message": [
+            "\\C[3]Un vaporisateur.\nDes gouttelettes d'eau y sont collées."
         ]
     },
     "map48": {
@@ -3294,6 +3357,24 @@
         ],
         "33-3-message": [
             "\\C[3]Une poupée qui me ressemble remarquablement."
+        ],
+        "30-3-message": [
+            "\\C[3]Le portrait d'une personne tenant un pistolet."
+        ],
+        "18-3-message": [
+            "\\C[3]Le portrait d'un homme de profil."
+        ],
+        "23-3-message": [
+            "\\C[3]La fleur d'un vase."
+        ],
+        "21-3-message": [
+            "\\C[3]Un vaporisateur.\nDes gouttelettes d'eau y sont collées."
+        ],
+        "32-3-message": [
+            "\\C[3]Un bouchon trouvé au fond du bassin.\nIl est petit et lourd."
+        ],
+        "31-3-message": [
+            "\\C[3]Le portrait d'une personne tenant un pistolet.\nIl y a une autre peinture au dos."
         ]
     },
     "map23": {
@@ -3804,7 +3885,25 @@
             "\\C[3]Un grand escalier qui monte."
         ],
         "13-1-message": [
-            "\\C[3]Le portait d'une personne tenant un pistolet.\nIl y a une autre peinture au verso."
+            "\\C[3]Le portrait d'une personne tenant un pistolet.\nIl y a une autre peinture au dos."
+        ],
+        "12-1-message": [
+            "\\C[3]Un bouchon trouvé au fond du bassin.\nIl est petit et lourd."
+        ],
+        "14-1-message": [
+            "\\C[3]Le portrait d'une personne tenant un pistolet."
+        ],
+        "15-1-message": [
+            "\\C[3]Un vaporisateur.\nDes gouttelettes d'eau y sont collées."
+        ],
+        "17-1-message": [
+            "\\C[3]Le portrait d'un homme de profil."
+        ],
+        "20-1-message": [
+            "\\C[3]La fleur d'un vase."
+        ],
+        "22-1-message": [
+            "\\C[3]Cette pièce a de nombreuses sorties."
         ]
     },
     "map35": {
@@ -3899,6 +3998,21 @@
             "\\.\\C[4](\\C[10]\"Espèce de tueuse de soeur\"\\C[4]...\n Tout ça, c'est parce que Miley lui a dit\n cette chose horrible...!)",
             "\\.\"Hé, Sara, tu penses que tu pourrais trouver\n quelque chose que Kanna pourrait porter ?\"",
             "\\.\"Pas de problème.\""
+        ],
+        "6-1-message": [
+            "\\C[3]Un bouchon trouvé au fond du bassin.\nIl est petit et lourd."
+        ],
+        "9-1-message": [
+            "\\C[3]Le portrait d'une personne tenant un pistolet."
+        ],
+        "8-1-message": [
+            "\\C[3]Le portrait d'une personne tenant un pistolet.\nIl y a une autre peinture au dos."
+        ],
+        "12-1-message": [
+            "\\C[3]Le portrait d'un homme de profil."
+        ],
+        "10-1-message": [
+            "\\C[3]Un vaporisateur.\nDes gouttelettes d'eau y sont collées."
         ]
     },
     "map37": {
@@ -4019,6 +4133,24 @@
         ],
         "47-1-message": [
             "\\C[3]Une poupée qui me ressemble remarquablement."
+        ],
+        "8-1-message": [
+            "\\C[3]Un bouchon trouvé au fond du bassin.\nIl est petit et lourd."
+        ],
+        "39-1-message": [
+            "\\C[3]Le portrait d'une personne tenant un pistolet.\nIl y a une autre peinture au dos."
+        ],
+        "40-1-message": [
+            "\\C[3]Le portrait d'une personne tenant un pistolet."
+        ],
+        "43-1-message": [
+            "\\C[3]Le portrait d'un homme de profil."
+        ],
+        "46-1-message": [
+            "\\C[3]La fleur d'un vase."
+        ],
+        "41-1-message": [
+            "\\C[3]Un vaporisateur.\nDes gouttelettes d'eau y sont collées."
         ]
     },
     "map38": {
@@ -4048,6 +4180,24 @@
         ],
         "14-1-message": [
             "\\C[3]Une poupée qui me ressemble remarquablement."
+        ],
+        "5-1-message": [
+            "\\C[3]Un bouchon trouvé au fond du bassin.\nIl est petit et lourd."
+        ],
+        "6-1-message": [
+            "\\C[3]Le portrait d'une personne tenant un pistolet.\nIl y a une autre peinture au dos."
+        ],
+        "7-1-message": [
+            "\\C[3]Le portrait d'une personne tenant un pistolet."
+        ],
+        "10-1-message": [
+            "\\C[3]Le portrait d'un homme de profil."
+        ],
+        "13-1-message": [
+            "\\C[3]La fleur d'un vase."
+        ],
+        "8-1-message": [
+            "\\C[3]Un vaporisateur.\nDes gouttelettes d'eau y sont collées."
         ]
     },
     "map39": {
@@ -4080,6 +4230,24 @@
         ],
         "18-1-message": [
             "\\C[3]Une poupée qui me ressemble remarquablement."
+        ],
+        "8-1-message": [
+            "\\C[3]Un bouchon trouvé au fond du bassin.\nIl est petit et lourd."
+        ],
+        "10-1-message": [
+            "\\C[3]Le portrait d'une personne tenant un pistolet.\nIl y a une autre peinture au dos."
+        ],
+        "11-1-message": [
+            "\\C[3]Le portrait d'une personne tenant un pistolet."
+        ],
+        "14-1-message": [
+            "\\C[3]Le portrait d'un homme de profil."
+        ],
+        "17-1-message": [
+            "\\C[3]La fleur d'un vase."
+        ],
+        "12-1-message": [
+            "\\C[3]Un vaporisateur.\nDes gouttelettes d'eau y sont collées."
         ]
     },
     "map40": {
@@ -4127,6 +4295,24 @@
         ],
         "20-1-message": [
             "\\C[3]Une poupée qui me ressemble remarquablement."
+        ],
+        "7-1-message": [
+            "\\C[3]Un bouchon trouvé au fond du bassin.\nIl est petit et lourd."
+        ],
+        "10-1-message": [
+            "\\C[3]Le portrait d'une personne tenant un pistolet.\nIl y a une autre peinture au dos."
+        ],
+        "13-1-message": [
+            "\\C[3]Le portrait d'une personne tenant un pistolet."
+        ],
+        "16-1-message": [
+            "\\C[3]Le portrait d'un homme de profil."
+        ],
+        "19-1-message": [
+            "\\C[3]La fleur d'un vase."
+        ],
+        "14-1-message": [
+            "\\C[3]Un vaporisateur.\nDes gouttelettes d'eau y sont collées."
         ]
     },
     "map41": {
@@ -4156,6 +4342,24 @@
         ],
         "75-1-message": [
             "\\C[3]Une poupée qui me ressemble remarquablement."
+        ],
+        "34-4-message": [
+            "\\C[3]Le portrait d'une personne tenant un pistolet."
+        ],
+        "22-3-message": [
+            "\\C[3]Le portrait d'un homme de profil."
+        ],
+        "23-4-message": [
+            "\\C[3]Un vaporisateur.\nDes gouttelettes d'eau y sont collées."
+        ],
+        "36-1-message": [
+            "\\C[3]Un bouchon trouvé au fond du bassin.\nIl est petit et lourd."
+        ],
+        "72-1-message": [
+            "\\C[3]Le portrait d'une personne tenant un pistolet.\nIl y a une autre peinture au dos."
+        ],
+        "74-1-message": [
+            "\\C[3]La fleur d'un vase."
         ]
     },
     "map45": {
@@ -4278,6 +4482,24 @@
         ],
         "33-1-message": [
             "\\C[3]Une poupée qui me ressemble remarquablement."
+        ],
+        "7-1-message": [
+            "\\C[3]Un bouchon trouvé au fond du bassin.\nIl est petit et lourd."
+        ],
+        "25-1-message": [
+            "\\C[3]Le portrait d'une personne tenant un pistolet.\nIl y a une autre peinture au dos."
+        ],
+        "26-1-message": [
+            "\\C[3]Le portrait d'une personne tenant un pistolet."
+        ],
+        "29-1-message": [
+            "\\C[3]Le portrait d'un homme de profil."
+        ],
+        "27-1-message": [
+            "\\C[3]Un vaporisateur.\nDes gouttelettes d'eau y sont collées."
+        ],
+        "32-1-message": [
+            "\\C[3]La fleur d'un vase."
         ]
     },
     "map46": {
@@ -4302,6 +4524,24 @@
         ],
         "42-1-message": [
             "\\C[3]Une poupée qui me ressemble remarquablement."
+        ],
+        "33-1-message": [
+            "\\C[3]Un bouchon trouvé au fond du bassin.\nIl est petit et lourd."
+        ],
+        "34-1-message": [
+            "\\C[3]Le portrait d'une personne tenant un pistolet.\nIl y a une autre peinture au dos."
+        ],
+        "35-1-message": [
+            "\\C[3]Le portrait d'une personne tenant un pistolet."
+        ],
+        "38-1-message": [
+            "\\C[3]Le portrait d'un homme de profil."
+        ],
+        "41-1-message": [
+            "\\C[3]La fleur d'un vase."
+        ],
+        "36-1-message": [
+            "\\C[3]Un vaporisateur.\nDes gouttelettes d'eau y sont collées."
         ]
     },
     "map47": {
@@ -4326,6 +4566,24 @@
         ],
         "40-1-message": [
             "\\C[3]Une poupée qui me ressemble remarquablement."
+        ],
+        "8-1-message": [
+            "\\C[3]Un bouchon trouvé au fond du bassin.\nIl est petit et lourd."
+        ],
+        "32-1-message": [
+            "\\C[3]Le portrait d'une personne tenant un pistolet.\nIl y a une autre peinture au dos."
+        ],
+        "33-1-message": [
+            "\\C[3]Le portrait d'une personne tenant un pistolet."
+        ],
+        "34-1-message": [
+            "\\C[3]Un vaporisateur.\nDes gouttelettes d'eau y sont collées."
+        ],
+        "36-1-message": [
+            "\\C[3]Le portrait d'un homme de profil."
+        ],
+        "39-1-message": [
+            "\\C[3]La fleur d'un vase."
         ]
     },
     "map49": {
@@ -4388,6 +4646,24 @@
         ],
         "26-1-message": [
             "\\C[3]Une poupée qui me ressemble remarquablement."
+        ],
+        "9-1-message": [
+            "\\C[3]Un bouchon trouvé au fond du bassin.\nIl est petit et lourd."
+        ],
+        "19-1-message": [
+            "\\C[3]Le portrait d'une personne tenant un pistolet."
+        ],
+        "18-1-message": [
+            "\\C[3]Le portrait d'une personne tenant un pistolet.\nIl y a une autre peinture au dos."
+        ],
+        "22-1-message": [
+            "\\C[3]Le portrait d'un homme de profil."
+        ],
+        "25-1-message": [
+            "\\C[3]La fleur d'un vase."
+        ],
+        "20-1-message": [
+            "\\C[3]Un vaporisateur.\nDes gouttelettes d'eau y sont collées."
         ]
     },
     "map50": {
@@ -4428,6 +4704,24 @@
         ],
         "17-1-message": [
             "\\C[3]Une poupée qui me ressemble remarquablement."
+        ],
+        "8-1-message": [
+            "\\C[3]Un bouchon trouvé au fond du bassin.\nIl est petit et lourd."
+        ],
+        "9-1-message": [
+            "\\C[3]Le portrait d'une personne tenant un pistolet.\nIl y a une autre peinture au dos."
+        ],
+        "10-1-message": [
+            "\\C[3]Le portrait d'une personne tenant un pistolet."
+        ],
+        "13-1-message": [
+            "\\C[3]Le portrait d'un homme de profil."
+        ],
+        "16-1-message": [
+            "\\C[3]La fleur d'un vase."
+        ],
+        "11-1-message": [
+            "\\C[3]Un vaporisateur.\nDes gouttelettes d'eau y sont collées."
         ]
     },
     "map51": {
@@ -4458,6 +4752,24 @@
         ],
         "53-1-message": [
             "\\C[3]Une poupée qui me ressemble remarquablement."
+        ],
+        "33-1-message": [
+            "\\C[3]Un bouchon trouvé au fond du bassin.\nIl est petit et lourd."
+        ],
+        "45-1-message": [
+            "\\C[3]Le portrait d'une personne tenant un pistolet.\nIl y a une autre peinture au dos."
+        ],
+        "46-1-message": [
+            "\\C[3]Le portrait d'une personne tenant un pistolet."
+        ],
+        "47-1-message": [
+            "\\C[3]Un vaporisateur.\nDes gouttelettes d'eau y sont collées."
+        ],
+        "49-1-message": [
+            "\\C[3]Le portrait d'un homme de profil."
+        ],
+        "52-1-message": [
+            "\\C[3]La fleur d'un vase."
         ]
     },
     "map68": {
@@ -4478,6 +4790,24 @@
         ],
         "16-1-message": [
             "\\C[3]Une poupée qui me ressemble remarquablement."
+        ],
+        "6-1-message": [
+            "\\C[3]Un bouchon trouvé au fond du bassin.\nIl est petit et lourd."
+        ],
+        "8-1-message": [
+            "\\C[3]Le portrait d'une personne tenant un pistolet.\nIl y a une autre peinture au dos."
+        ],
+        "9-1-message": [
+            "\\C[3]Le portrait d'une personne tenant un pistolet."
+        ],
+        "12-1-message": [
+            "\\C[3]Le portrait d'un homme de profil."
+        ],
+        "15-1-message": [
+            "\\C[3]La fleur d'un vase."
+        ],
+        "10-1-message": [
+            "\\C[3]Un vaporisateur.\nDes gouttelettes d'eau y sont collées."
         ]
     },
     "items-81": {
@@ -5118,7 +5448,7 @@
         "49-0-message": [
             "\"Très bien, puis-je me présenter aussi ?\"",
             "\"Je suis \\C[2]Sou Hiyori\\C[0].\n Je ne me rappelle pas de quoi que ce soit\n d'important en particulier...\"",
-            "\"Je m'appelle \\C[2]Sou Hiyori\\C[0].\n Euh... Hé bien...\n J'enchaîne juste les petits boulots. Ahaha...\"",
+            "\"Je m'appelle \\C[2]Sou Hiyori\\C[0].\n Euh... Hé bien...\n Je suis juste un intérimaire. Ahaha...\"",
             "\\.\"Donc tu vis de la main à la bouche, miaou ?\"",
             "\\.\"H... Hé, ne le phrase pas comme ça...\n Je n'en ai pas beaucoup, mais j'ai des économies.\"",
             "\\.\"Pourquoi ne voulais-tu pas te\n présenter initialement ?\"",
@@ -16015,7 +16345,7 @@
     },
     "items-72": {
         "name": "Portrait",
-        "description": "Le portrait d'un homme vu de profil."
+        "description": "Le portrait d'un homme de profil."
     },
     "items-74": {
         "name": "Outils"
@@ -16216,5 +16546,16 @@
             "\\!\\C[3]Malgré tout, ils travaillèrent main dans la\nmain pour progresser, mais...",
             "\\!\\C[3]Joe, son meilleur ami, et Kai, qui possédait\nde précieuses informations, moururent."
         ]
+    },
+    "map141": {
+        "9-1-message": [
+            "\\C[3]Cette pièce a de nombreuses sorties."
+        ]
+    },
+    "items-54": {
+        "description": "Un bouchon trouvé au fond du bassin.\nIl est petit et lourd."
+    },
+    "items-60": {
+        "description": "Un vaporisateur.\nDes gouttelettes d'eau y sont collées."
     }
 }
