@@ -44,7 +44,7 @@
             "\\.\"Keiji...\"",
             "\\.\"Non merci.\"",
             "\\.\"Écoute, quelqu'un devra bien examiner Mishima.\n J'ai pas raison ?\"",
-            "\\.\"Et même moi je suis pas un sergent au point de\n demander à quelqu'un d'autre de le faire.\"",
+            "\\.\"Et même moi, je suis pas un sergent, je vais pas\n demander à quelqu'un d'autre de le faire.\"",
             "\\.\"... Pas besoin d'épuiser quelqu'un d'autre,\n puisqu'il se trouve qu'on a un pro parmi nous.\"",
             "\\.\"... Bah, ouais.\"",
             "\\.\"C'est dur, mais il faut bien que quelqu'un le fasse...\n Et il se trouve que je suis un pro.\"",
@@ -62,8 +62,8 @@
             "\\.\"Nous vous prions de quitter cette salle\n rapidement afin de permettre la\n récupération du corps.\"",
             "\\.\"La récupération... du corps ?\"",
             "\\.\"..........\"",
-            "\\.\"... S...\"",
-            "\\.\"Soyez pas ridicules !!\"",
+            "\\.\"... N...\"",
+            "\\.\"Ne dites pas n'importe quoi !!\"",
             "\\.\"Je... Je ne donnerai le professeur à personne !!\"",
             "\\.\"Le refus d'obtempérer ne sera pas toléré.\"",
             "\\.\"Propagation de gaz en cours.\"",
@@ -119,7 +119,7 @@
             "\\.\"Hmph... Si vous voulez examiner les alentours,\n faites-vous plaisir. Je ne vous assisterai pas,\n mais je ne vous perturberai pas non plus...\""
         ],
         "49-1-message": [
-            "\\C[3]Une ampoule pour éclairer une pièce."
+            "\\C[3]Une ampoule pour illuminer une pièce."
         ],
         "51-1-message": [
             "\\C[3]La fleur d'un vase."
@@ -138,6 +138,9 @@
         ],
         "46-1-message": [
             "\\C[3]Un vaporisateur.\nDes gouttelettes d'eau y sont collées."
+        ],
+        "47-1-message": [
+            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
         ]
     },
     "map33": {
@@ -191,7 +194,7 @@
             "\\.\\C[4](Je ne pense pas qu'il y ait d'autres\n portes cachées ici...)"
         ],
         "24-1-message": [
-            "\\C[3]Une ampoule pour éclairer une pièce."
+            "\\C[3]Une ampoule pour illuminer une pièce."
         ],
         "25-1-message": [
             "\\C[3]Une bouteille pour transporter des liquides."
@@ -225,6 +228,9 @@
         ],
         "21-1-message": [
             "\\C[3]Un vaporisateur.\nDes gouttelettes d'eau y sont collées."
+        ],
+        "22-1-message": [
+            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
         ]
     },
     "map1": {
@@ -384,16 +390,16 @@
         "name_緑の本": "Livre Vert",
         "name_取扱説明書": "Manuel d'Instructions",
         "name_機械": "Machine",
-        "itemextradesc84": "À quoi sert ce grand trou au milieu...?",
+        "itemextradesc84": "À quoi peut bien servir le trou en son centre...?",
         "glossarycommand": "Inventaire",
         "glossaryhelp": "Sélectionnez un objet.",
         "itemdesc51": "La clé de la cuisine.",
-        "itemdesc53": "Un mannequin qui me ressemble spectaculairement.",
+        "itemdesc53": "Une poupée qui me ressemble remarquablement.",
         "itemdesc55": "Un bouchon trouvé au fond d'un bain.\\nLourd mais petit.",
         "itemdesc57": "Le portrait d'une personne tenant un pistolet.",
-        "itemdesc63": "Une ampoule qui permet d'illuminer une pièce.",
+        "itemdesc63": "Une ampoule pour illuminer une pièce.",
         "itemdesc65": "La fleur d'un vase.",
-        "itemdesc67": "Une grande aiguille et une petite aiguille.\\nPas assez pointues pour percer quoi que ce soit.",
+        "itemdesc67": "Une longue et une petite aiguille.\\nPas suffisamment pointues pour pouvoir\\npercer quoi que ce soit.",
         "itemdesc69": "Une bouteille pour transporter des liquides.",
         "itemdesc73": "Le portrait d'un homme de profil.",
         "itemdesc75": "Des outils qui servent à retirer des vis entre autres.",
@@ -411,12 +417,12 @@
         "name_資料": "Documents",
         "name_３通目のメール": "3ème Émail",
         "name_背後の声": "Voix de Derrière",
-        "name_変なおっさん": "Homme étrange",
+        "name_変なおっさん": "Homme Étrange",
         "itemextradesc42": "Sage : Grâce à une sainte divination, il sait qui est le Maître des Clefs,\\nmais ne peut mentir sur le résultat d'une divination.",
-        "itemdesc59": "Le portrait d'une personne tenant un pistolet.\\nIl y a un autre portrait derrière.",
-        "itemdesc61": "Un outil servant à vaporiser le liquide qu'il\\n\ncontient. Des gouttelettes d'eau y sont collées.",
-        "itemdesc71": "Une carte. Il y est écrit \"Ceci est la clé de la sortie.\\nVous mourez si qui que ce soit\\napprends l'existence de cette carte.\"",
-        "itemdesc77": "Une note avec des noms inscrits dessus, incluant\\ncelui de Mishima. Il y a aussi le nom Alice Yabusame.",
+        "itemdesc59": "Le portrait d'une personne tenant un pistolet.\\nIl y a une autre peinture au dos.",
+        "itemdesc61": "Un vaporisateur.\\nDes gouttelettes d'eau y sont collées.",
+        "itemdesc71": "",
+        "itemdesc77": "Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\".",
         "itemdesc87": "De fausses balles.\\nQuand on les tire, elles ne font qu'un son.",
         "dtext_発言力：": "Influence : ",
         "name_サラ（モニター）": "Sara (Écran)",
@@ -962,7 +968,7 @@
         ]
     },
     "items-70": {
-        "description": "Une carte. Il y est écrit \"Ceci est la clé vers la\nsortie.\nVous mourrez si qui que se soit\napprend l'existence de cette carte.\"",
+        "description": "",
         "name": "Carte du M. des Clés"
     },
     "map193": {
@@ -1272,7 +1278,7 @@
             "\\.\\C[3]Je n'avais aucune liberté de mouvement.",
             "\\.\\C[3]En plus de ma tête... Mon bras gauche, mon torse\net mes jambes étaient aussi ligotés.",
             "\\.\\C[3]Je ne pouvais bouger que mon bras droit.",
-            "\\.\"Au sec...!\"",
+            "\\.\"Au sec-\"",
             "\\.\\C[3]Je m'apprêtais à hurler, mais je devins silencieuse.",
             "\\.\\C[3]Ce stalkeur.",
             "\\.\\C[3]Il a... attaqué ma mère...",
@@ -1782,7 +1788,7 @@
             "\\C[3]Des vraies balles. J'en ai 3.\nPeuvent être chargées dans un pistolet puis tirées.\nExtrêmement létales."
         ],
         "27-1-message": [
-            "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles.\nÀ quoi peut bien servir le trou en son centre... ?",
+            "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles.\nÀ quoi peut bien servir le trou en son centre...?",
             "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet.",
             "La Fléchette est insérée dans le trou\nau centre du Révolver.",
             "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Revolver\\C[3] !",
@@ -1983,6 +1989,12 @@
         ],
         "23-1-message": [
             "\\C[3]Un vaporisateur.\nDes gouttelettes d'eau y sont collées."
+        ],
+        "24-1-message": [
+            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
+        ],
+        "26-1-message": [
+            "\\C[3]Une ampoule pour illuminer une pièce."
         ]
     },
     "map16": {
@@ -2174,7 +2186,7 @@
             "\\C[3]Un briquet Zippo chic."
         ],
         "9-1-message": [
-            "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles.\nÀ quoi peut bien servir le trou en son centre... ?",
+            "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles.\nÀ quoi peut bien servir le trou en son centre...?",
             "\\.\\C[3]Devrait pouvoir être combinée avec un autre objet.",
             "La Fléchette a été insérée dans le trou\nau centre du Revolver.",
             "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Revolver\\C[3] !",
@@ -2276,7 +2288,7 @@
             "\\C[3]Un cigare dans un emballage de haute qualité."
         ],
         "8-1-message": [
-            "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles.\nÀ quoi peut bien servir le trou en son centre... ?",
+            "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles.\nÀ quoi peut bien servir le trou en son centre...?",
             "\\.\\C[3]Devrait pouvoir être combinée avec un autre objet.",
             "La Fléchette a été insérée dans le trou\nau centre du Revolver.",
             "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Revolver\\C[3] !",
@@ -2368,7 +2380,7 @@
             "\\C[3]Des vraies balles. J'en ai 3.\nPeuvent être chargées dans un pistolet puis tirées.\nExtrêmement létales."
         ],
         "12-1-message": [
-            "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles.\nÀ quoi peut bien servir le trou en son centre... ?",
+            "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles.\nÀ quoi peut bien servir le trou en son centre...?",
             "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet.",
             "La Fléchette a été insérée dans le trou\nau centre du Revolver.",
             "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Revolver\\C[3] !",
@@ -2423,7 +2435,7 @@
             "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
         "8-1-message": [
-            "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles.\nÀ quoi peut bien servir le trou en son centre... ?",
+            "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles.\nÀ quoi peut bien servir le trou en son centre...?",
             "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet.",
             "La Fléchette a été insérée dans le trou\nau centre du Revolver.",
             "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Revolver\\C[3] !",
@@ -2494,7 +2506,7 @@
             "\\C[3]Des fausses balles. J'en ai 6. Si on les tire,\nelles ne font que du bruit."
         ],
         "9-1-message": [
-            "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles.\nÀ quoi peut bien servir le trou en son centre... ?",
+            "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles.\nÀ quoi peut bien servir le trou en son centre...?",
             "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet.",
             "La Fléchette a été insérée dans le trou\nau centre du Revolver.",
             "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Revolver\\C[3] !",
@@ -2617,7 +2629,7 @@
             "\\C[3]Des vraies balles. J'en ai 3.\nPeuvent être chargées dans un pistolet puis tirées.\nExtrêmement létales."
         ],
         "6-1-message": [
-            "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles.\nÀ quoi peut bien servir le trou en son centre... ?",
+            "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles.\nÀ quoi peut bien servir le trou en son centre...?",
             "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet.",
             "La Fléchette est insérée dans le trou\nau centre du Revolver.",
             "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Revolver\\C[3] !",
@@ -2650,7 +2662,7 @@
             "\\C[3]Un cigare dans un emballage de haute qualité."
         ],
         "7-1-message": [
-            "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles.\nÀ quoi peut bien servir le trou en son centre... ?",
+            "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles.\nÀ quoi peut bien servir le trou en son centre...?",
             "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet.",
             "La Fléchette a été insérée dans le trou\nau centre du Revolver.",
             "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Revolver\\C[3] !",
@@ -2828,7 +2840,7 @@
             "\\C[3]Un cigare dans un emballage de haute qualité."
         ],
         "15-1-message": [
-            "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles.\nÀ quoi peut bien servir le trou en son centre... ?",
+            "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles.\nÀ quoi peut bien servir le trou en son centre...?",
             "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet.",
             "La Fléchette a été insérée dans le trou\nau centre du Revolver.",
             "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Revolver\\C[3] !",
@@ -3112,7 +3124,7 @@
             "\\C[3]Un cigare dans un emballage de haute qualité."
         ],
         "12-1-message": [
-            "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles.\nÀ quoi peut bien servir le trou en son centre... ?",
+            "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles.\nÀ quoi peut bien servir le trou en son centre...?",
             "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet.",
             "La Fléchette a été insérée dans le trou\nau centre du Revolver.",
             "\\C[3]\\C[2]Fléchette\\C[3] combinée avec le \\C[2]Revolver\\C[3] !",
@@ -3340,6 +3352,12 @@
         ],
         "27-1-message": [
             "\\C[3]Un vaporisateur.\nDes gouttelettes d'eau y sont collées."
+        ],
+        "28-1-message": [
+            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
+        ],
+        "30-1-message": [
+            "\\C[3]Une ampoule pour illuminer une pièce."
         ]
     },
     "map48": {
@@ -3375,6 +3393,12 @@
         ],
         "31-3-message": [
             "\\C[3]Le portrait d'une personne tenant un pistolet.\nIl y a une autre peinture au dos."
+        ],
+        "17-3-message": [
+            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
+        ],
+        "22-3-message": [
+            "\\C[3]Une ampoule pour illuminer une pièce."
         ]
     },
     "map23": {
@@ -3397,7 +3421,7 @@
             "\\C[3]Des fausses balles. J'en ai 6. Si on les tire,\nelles ne font que du bruit."
         ],
         "9-1-message": [
-            "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles.\nÀ quoi peut bien servir le trou en son centre... ?",
+            "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles.\nÀ quoi peut bien servir le trou en son centre...?",
             "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet.",
             "La Fléchette est insérée dans le trou\nau centre du Revolver.",
             "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Revolver\\C[3] !",
@@ -3509,7 +3533,7 @@
             "\\C[3]Un briquet Zippo chic."
         ],
         "9-1-message": [
-            "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles.\nÀ quoi peut bien servir le trou en son centre... ?",
+            "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles.\nÀ quoi peut bien servir le trou en son centre...?",
             "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet.",
             "Fléchette enfoncée dans le grand trou\nau centre du Révolver.",
             "\\C[3]La \\C[2]Fléchette\\C[3] et le \\C[2]Révolver\\C[3] ont été combinés !",
@@ -3858,10 +3882,10 @@
             "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles."
         ],
         "16-1-message": [
-            "\\C[3]Une note contenant quelques noms,\ndont celui du professeur Mishima.\nIl y aussi le nom d'Alice Yabusame."
+            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
         ],
         "18-1-message": [
-            "\\C[3]Une ampoule pour éclairer une pièce."
+            "\\C[3]Une ampoule pour illuminer une pièce."
         ],
         "19-1-message": [
             "\\C[3]Une bouteille pour transporter des liquides."
@@ -3950,7 +3974,7 @@
             "\\.\\C[4](Mais je...)",
             "\\.\\C[4](... À quoi bon lui dire ?\n Est-ce que ça aidera Kanna...?)",
             "\\.\\C[4](... Non, ce n'est pas ça le problème.)",
-            "\\.\\C[4](En réalité, je suis effrayée.\n J'ai peur qu'elle me dise que j'aurais\n dû dire la vérité...)",
+            "\\.\\C[4](En réalité, j'ai peur.\n J'ai peur qu'elle me dise que j'aurais\n dû dire la vérité...)",
             "\\.\"Sara, regarde-moi dans les yeux.\n ... Reste pas là à ruminer dans ton coin.\"",
             "\\.\"Hein...?\"",
             "\\.\"Parle-moi.\n Ou alors c'est que tu m'écoutes juste pas ?\"",
@@ -4013,6 +4037,12 @@
         ],
         "10-1-message": [
             "\\C[3]Un vaporisateur.\nDes gouttelettes d'eau y sont collées."
+        ],
+        "11-1-message": [
+            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
+        ],
+        "13-1-message": [
+            "\\C[3]Une ampoule pour illuminer une pièce."
         ]
     },
     "map37": {
@@ -4151,6 +4181,12 @@
         ],
         "41-1-message": [
             "\\C[3]Un vaporisateur.\nDes gouttelettes d'eau y sont collées."
+        ],
+        "42-1-message": [
+            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
+        ],
+        "44-1-message": [
+            "\\C[3]Une ampoule pour illuminer une pièce."
         ]
     },
     "map38": {
@@ -4198,6 +4234,12 @@
         ],
         "8-1-message": [
             "\\C[3]Un vaporisateur.\nDes gouttelettes d'eau y sont collées."
+        ],
+        "9-1-message": [
+            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
+        ],
+        "11-1-message": [
+            "\\C[3]Une ampoule pour illuminer une pièce."
         ]
     },
     "map39": {
@@ -4248,6 +4290,12 @@
         ],
         "12-1-message": [
             "\\C[3]Un vaporisateur.\nDes gouttelettes d'eau y sont collées."
+        ],
+        "13-1-message": [
+            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
+        ],
+        "15-1-message": [
+            "\\C[3]Une ampoule pour illuminer une pièce."
         ]
     },
     "map40": {
@@ -4313,6 +4361,12 @@
         ],
         "14-1-message": [
             "\\C[3]Un vaporisateur.\nDes gouttelettes d'eau y sont collées."
+        ],
+        "15-1-message": [
+            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
+        ],
+        "17-1-message": [
+            "\\C[3]Une ampoule pour illuminer une pièce."
         ]
     },
     "map41": {
@@ -4360,6 +4414,15 @@
         ],
         "74-1-message": [
             "\\C[3]La fleur d'un vase."
+        ],
+        "21-5-message": [
+            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
+        ],
+        "23-3-message": [
+            "\\C[3]Une longue et une petite aiguille.\nPas suffisamment pointues pour pouvoir\npercer quoi que ce soit."
+        ],
+        "73-1-message": [
+            "\\C[3]Une ampoule pour illuminer une pièce."
         ]
     },
     "map45": {
@@ -4500,6 +4563,12 @@
         ],
         "32-1-message": [
             "\\C[3]La fleur d'un vase."
+        ],
+        "28-1-message": [
+            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
+        ],
+        "30-1-message": [
+            "\\C[3]Une ampoule pour illuminer une pièce."
         ]
     },
     "map46": {
@@ -4542,6 +4611,12 @@
         ],
         "36-1-message": [
             "\\C[3]Un vaporisateur.\nDes gouttelettes d'eau y sont collées."
+        ],
+        "37-1-message": [
+            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
+        ],
+        "39-1-message": [
+            "\\C[3]Une ampoule pour illuminer une pièce."
         ]
     },
     "map47": {
@@ -4584,6 +4659,12 @@
         ],
         "39-1-message": [
             "\\C[3]La fleur d'un vase."
+        ],
+        "35-1-message": [
+            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
+        ],
+        "37-1-message": [
+            "\\C[3]Une ampoule pour illuminer une pièce."
         ]
     },
     "map49": {
@@ -4664,6 +4745,12 @@
         ],
         "20-1-message": [
             "\\C[3]Un vaporisateur.\nDes gouttelettes d'eau y sont collées."
+        ],
+        "21-1-message": [
+            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
+        ],
+        "23-1-message": [
+            "\\C[3]Une ampoule pour illuminer une pièce."
         ]
     },
     "map50": {
@@ -4722,6 +4809,12 @@
         ],
         "11-1-message": [
             "\\C[3]Un vaporisateur.\nDes gouttelettes d'eau y sont collées."
+        ],
+        "12-1-message": [
+            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
+        ],
+        "14-1-message": [
+            "\\C[3]Une ampoule pour illuminer une pièce."
         ]
     },
     "map51": {
@@ -4770,6 +4863,12 @@
         ],
         "52-1-message": [
             "\\C[3]La fleur d'un vase."
+        ],
+        "48-1-message": [
+            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
+        ],
+        "50-1-message": [
+            "\\C[3]Une ampoule pour illuminer une pièce."
         ]
     },
     "map68": {
@@ -4808,6 +4907,12 @@
         ],
         "10-1-message": [
             "\\C[3]Un vaporisateur.\nDes gouttelettes d'eau y sont collées."
+        ],
+        "11-1-message": [
+            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
+        ],
+        "13-1-message": [
+            "\\C[3]Une ampoule pour illuminer une pièce."
         ]
     },
     "items-81": {
@@ -9538,7 +9643,8 @@
         "name": "Clé de la Cuisine"
     },
     "items-52": {
-        "name": "Poupée de Sara"
+        "name": "Poupée de Sara",
+        "description": "Une poupée qui me ressemble remarquablement."
     },
     "items-53": {
         "name": "Poupée de Sara"
@@ -10136,6 +10242,9 @@
         ],
         "6-3-message": [
             "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "3-1-message": [
+            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
         ]
     },
     "map60": {
@@ -10159,6 +10268,9 @@
         ],
         "3-3-message": [
             "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "6-1-message": [
+            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
         ]
     },
     "map65": {
@@ -11496,6 +11608,9 @@
         ],
         "6-3-message": [
             "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "5-1-message": [
+            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
         ]
     },
     "map66": {
@@ -16334,7 +16449,8 @@
         "name": "Peinture Droite"
     },
     "items-66": {
-        "name": "Deux Aiguilles"
+        "name": "Deux Aiguilles",
+        "description": "Une longue et une petite aiguille.\nPas suffisamment pointues pour pouvoir\npercer quoi que ce soit."
     },
     "items-68": {
         "name": "Bouteille",
@@ -16354,7 +16470,8 @@
         "name": "Outils"
     },
     "items-76": {
-        "name": "Papier Déchiré"
+        "name": "Papier Déchiré",
+        "description": "Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
     },
     "items-77": {
         "name": "Papier Déchiré"
@@ -16505,6 +16622,9 @@
         ],
         "12-3-message": [
             "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "5-1-message": [
+            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
         ]
     },
     "map59": {
@@ -16519,6 +16639,9 @@
         ],
         "4-3-message": [
             "\\C[3]Une bouteille pour transporter des liquides."
+        ],
+        "39-1-message": [
+            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
         ]
     },
     "map63": {
@@ -16557,5 +16680,8 @@
     },
     "items-60": {
         "description": "Un vaporisateur.\nDes gouttelettes d'eau y sont collées."
+    },
+    "items-62": {
+        "description": "Une ampoule pour illuminer une pièce."
     }
 }
