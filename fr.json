@@ -429,7 +429,7 @@
         "itemdesc61": "Un vaporisateur.\\nDes gouttelettes d'eau y sont collées.",
         "itemdesc71": "Une carte qui indique :\\n\"Il s'agit d'une clé vers la sortie.\"\\nJe mourrai si quelqu'un apprend qu'elle existe.",
         "itemdesc77": "Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\".",
-        "itemdesc87": "De fausses balles.\\nQuand on les tire, elles ne font qu'un son.",
+        "itemdesc87": "Des balles à blanc. J'en ai 6.\\nElles ne font qu'un bruit quand elles sont tirées.",
         "dtext_発言力：": "Influence : ",
         "name_サラ（モニター）": "Sara (Écran)",
         "firsttrialcode": "1620",
@@ -1801,7 +1801,7 @@
             "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
         "28-1-message": [
-            "\\C[3]Des fausses balles. J'en ai 6. Si on les tire,\nelles ne font que du bruit."
+            "\\C[3]Des balles à blanc. J'en ai 6.\nElles ne font qu'un bruit quand elles sont tirées."
         ],
         "8-3-choice": [
             "Oui\nNon"
@@ -1851,7 +1851,7 @@
             "\\.\\sw[99]\"Vous avez trouvé un pistolet et des balles dans\n cette salle un peu plus tôt, vous vous souvenez ?\"\\sw[100]",
             "\\.\\sw[99]\"Vous avez aussi trouvé des balles à blanc\n dans une autre pièce.\"\\sw[100]",
             "\\.\\sw[99]\"Vous avez \\C[2]3 vraies balles\\C[0] et \\C[3]6 balles à blanc\\C[0].\"\\sw[100]",
-            "\\.\\sw[99]\"En tout, vous pouvez charger 9 balles\n dans ce revolver.\"\\sw[100]",
+            "\\.\\sw[99]\"En tout, vous pouvez charger 9 balles\n dans ce révolver.\"\\sw[100]",
             "\\.\\sw[99]\"Tu dois tirer toutes les 9 balles sur tout le monde -\n un \\C[2]humain\\C[0] ou un \\C[2]mannequin\\C[0] dans \\C[2]l'ordre que tu veux\\C[0].\"\\sw[100]",
             "\\.\\sw[99]\"D'ailleurs, les balles sont tirées \\C[2]dans le sens\n des aiguilles d'une montre\\C[0]...\"\\sw[100]",
             "\\.\\sw[99]\"Une fois chargée, tu feras tourner la chambre !\n Ce qui veut dire que \\C[2]tu ne sais pas avec quelle\n balle tu vas commencer\\C[0] !\"\\sw[100]",
@@ -2047,7 +2047,7 @@
             "Combiner\nAnnuler"
         ],
         "13-1-message": [
-            "\\C[3]Des fausses balles. J'en ai 6. Si on les tire,\nelles ne font que du bruit."
+            "\\C[3]Des balles à blanc. J'en ai 6.\nElles ne font qu'un bruit quand elles sont tirées."
         ],
         "14-1-message": [
             "\\C[3]Des vraies balles. J'en ai 3.\nPeuvent être chargées dans un pistolet puis tirées.\nExtrêmement létales."
@@ -2080,15 +2080,15 @@
     },
     "map18": {
         "2-1-message": [
-            "\"On dirait que... c'est un bar.\"",
+            "\"Ici se trouve... un bar.\"",
             "\\.\"Il y a beaucoup d'alcool, par ici...\n Tu es mineure, Sara, tu ne devrais pas boire.\"",
             "\\.\"Tu ferais mieux de ne pas boire dans cette\n situation non plus, Sou.\"",
             "\\.\"Au contraire, certains pourraient dire\n qu'il n'y a pas meilleur moment pour s'y mettre.\""
         ],
         "3-1-message": [
-            "\\C[3]Le professeur Mishima inspecte chaque recoin\nde la pièce.",
+            "\\C[3]Le Professeur Mishima inspecte chaque recoin\nde la pièce.",
             "\\.\"Dites-moi si vous avez besoin de quoi\n que ce soit, Sara.\"",
-            "\\C[3]Le professeur Mishima inspecte chaque recoin\nde la pièce.",
+            "\\C[3]Le Professeur Mishima inspecte chaque recoin\nde la pièce.",
             "\"Oh... Sara.\"",
             "\\.\"Avez-vous rencontré le moindre danger ?\n Je vous prie de faire preuve de prudence...\"",
             "\\.\"Hmm ! Qu'est-ce que cela ?!\"",
@@ -2096,8 +2096,8 @@
             "\\.\"Ce cigare !\n Un mineur ne devrait pouvoir s'en procurer un !\"",
             "\\.\"Je n'allais pas le fumer !\n Je me suis dit que ça pouvait être un indice...\"",
             "\\.\"Je vois... Mes excuses pour avoir douté de vous.\"",
-            "\\.\"Hm... On dirait que je ne peux m'empêcher\n de faire les professeurs en présence d'étudiants.\"",
-            "\\.\"Toutefois... Eum, eh bien... Voyons voir...\n Ah, oui, pouvez-vous me le donner ?\"",
+            "\\.\"Hm... On dirait que je ne peux m'empêcher de\n faire le professeur en présence d'étudiants.\"",
+            "\\.\"Toutefois... Eum, hé bien... Voyons voir...\n Oui, pouvez-vous me le laisser ?\"",
             "\\.\\C[4](Je vous dis que je ne le fumerai pas...)",
             "\\.\\C[3]Le cigare a été remis au professeur Mishima.",
             "\\.\"Oh, oh ? Mais qu'est-ce donc?\"",
@@ -2165,23 +2165,23 @@
         "4-1-message": [
             "\\C[3]Gin examine le bas des étagères.",
             "\"Y a que de l'alcool dans les bars, miaou.\"",
-            "\\.\"Je hais l'alcool, wouf !\n Et je hais encore plus mon ivrogne de père, miaou !\"",
+            "\\.\"Je hais l'alcool, ouaf !\n Et je hais encore plus mon ivrogne de père, miaou !\"",
             "\\.\"...\"",
-            "\\.\"Hein...? T'es tout silencieux, wouf.\"",
+            "\\.\"Hein...? T'es tout silencieux, ouaf.\"",
             "\\.\"... Nan, c'est rien !\"",
             "\\.\"Hé, quand on sera sortis d'ici,\n ça te dit qu'on joue ensemble, Gin ?\"",
-            "\\.\"Humpf ! Alors j'te battrai aux jeux vidéos\n jusqu'à c'que t'en pleures, wouf !\"",
+            "\\.\"Humpf ! Alors j'te battrai aux jeux vidéos\n jusqu'à c'que t'en pleures, ouaf !\"",
             "\\.\"Ton père est alcoolique ?\"",
-            "\\.\"Il est agaçant, wouf !\"",
+            "\\.\"Il est agaçant, ouaf !\"",
             "\\.\"Quand on boit, il ne faut pas se faire\n engloutir par l'alcool.\"",
-            "\\.\"Je suis majeur... Je me dois d'être prudent.\""
+            "\\.\"Je suis majeur... J'ai intérêt à être prudent.\""
         ],
         "4-2-message": [
             "\\C[3]Gin examine le bas des étagères.",
-            "\"Je hais l'alcool, wouf !\n Et je hais mon ivrogne de père encore plus, miaou !\"",
+            "\"Je hais l'alcool, ouaf !\n Et je hais mon ivrogne de père encore plus, miaou !\"",
             "\\.\"Ah, ouais, grande sœur Sara.\n T'as essayé de combiner des objets, miaou ?\"",
             "\\.\"Combiner ?\"",
-            "\\.\"Oui, mettre des objets ensemble et\n les utiliser, wouf !\"",
+            "\\.\"Oui, mettre des objets ensemble et\n les utiliser, ouaf !\"",
             "\\.\"Maintenant que j'y pense, j'ai dû bien\n examiner la clé rouge durant la Première Épreuve.\n T'pourrais peut-être faire une découverte capitale !\"",
             "\\.\\C[4](Peut-être que je devrais revoir mes objets...?)"
         ],
@@ -2212,7 +2212,7 @@
             "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
         "10-1-message": [
-            "\\C[3]Des fausses balles. J'en ai 6. Si on les tire,\nelles ne font que du bruit."
+            "\\C[3]Des balles à blanc. J'en ai 6.\nElles ne font qu'un bruit quand elles sont tirées."
         ],
         "11-1-message": [
             "\\C[3]Des vraies balles. J'en ai 3.\nPeuvent être chargées dans un pistolet puis tirées.\nExtrêmement létales."
@@ -2241,7 +2241,7 @@
             "\\C[3]... Un placard !"
         ],
         "65-2-message": [
-            "\\C[3]Il y a un placard incrusté dans le comptoir.",
+            "\\C[3]Il y a un placard dans le comptoir.",
             "\\.\"Okay, laisse-moi faire !\"",
             "\\C[3]La porte coulissante s'est ouverte !",
             "\\.\"Fiou... Elle était dure celle-là !\"",
@@ -2314,7 +2314,7 @@
             "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
         "9-1-message": [
-            "\\C[3]Des fausses balles. J'en ai 6. Si on les tire,\nelles ne font que du bruit."
+            "\\C[3]Des balles à blanc. J'en ai 6.\nElles ne font qu'un bruit quand elles sont tirées."
         ],
         "10-1-message": [
             "\\C[3]Des vraies balles. J'en ai 3.\nPeuvent être chargées dans un pistolet puis tirées.\nExtrêmement létales."
@@ -2353,13 +2353,13 @@
         ],
         "1-1-message": [
             "\"On dirait qu'ici c'est... une cafétéria.\"",
-            "\\.\"Je me demande si nos kidnappeurs\n nous disent de manger ici.\"",
+            "\\.\"Je me demande si nos kidnappeurs nous\n disent de manger ici.\"",
             "\\.\"...\""
         ],
         "2-1-message": [
             "\\C[3]Il y a quelque chose sur la table.",
             "\\.\\C[3]Briquet obtenu.",
-            "\"Ce briquet Zippo a l'air de coûter cher.\""
+            "\"Ce briquet Zippo a l'air d'avoir coûté cher.\""
         ],
         "2-2-message": [
             "\\C[3]Il y a quelque chose sur la table.",
@@ -2406,7 +2406,7 @@
             "\\.\\C[4](On peut toujours essayer...\n Peut-être que maintenant je peux tirer la\n fléchette avec le pistolet...?)"
         ],
         "13-1-message": [
-            "\\C[3]Des fausses balles. J'en ai 6. Si on les tire,\nelles ne font que du bruit."
+            "\\C[3]Des balles à blanc. J'en ai 6.\nElles ne font qu'un bruit quand elles sont tirées."
         ],
         "16-1-message": [
             "\\C[3]La porte de la cuisine est fermée à clé."
@@ -2464,11 +2464,11 @@
             "\\C[3]Des vraies balles. J'en ai 3.\nPeuvent être chargées dans un pistolet puis tirées.\nExtrêmement létales."
         ],
         "9-1-message": [
-            "\\C[3]Des fausses balles. J'en ai 6. Si on les tire,\nelles ne font que du bruit."
+            "\\C[3]Des balles à blanc. J'en ai 6.\nElles ne font qu'un bruit quand elles sont tirées."
         ],
         "1-1-message": [
             "\"Quelle atmosphère imposante...\"",
-            "\\.\"Cette lampe rouge est sinistre.\n Je ne pense pas avoir le courage\n d'ouvrir cette porte...\""
+            "\\.\"Cette lumière rouge est sinistre.\n Je ne pense pas avoir le courage\n d'ouvrir cette porte...\""
         ],
         "1-2-message": [
             "\"Il fait noir...\"",
@@ -2492,7 +2492,7 @@
             "\\C[3]C'est ouvert..."
         ],
         "17-1-message": [
-            "\\C[3]Une lampe rouge illumine sinistrement la porte."
+            "\\C[3]Une LED rouge sinistre illumine la porte."
         ],
         "11-1-message": [
             "\\C[3]Un billet de 1000 yens.\nDe l'argent liquide utilisable au Japon."
@@ -2522,7 +2522,7 @@
             "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
         "10-1-message": [
-            "\\C[3]Des fausses balles. J'en ai 6. Si on les tire,\nelles ne font que du bruit."
+            "\\C[3]Des balles à blanc. J'en ai 6.\nElles ne font qu'un bruit quand elles sont tirées."
         ],
         "9-1-message": [
             "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles.\nÀ quoi peut bien servir le trou en son centre...?",
@@ -2571,7 +2571,7 @@
             "\\.\"Comme c'est lugubre...\n M'amuser ici me ferait juste me sentir seul.\"",
             "\"Oh ! On peut jouer aux fléchettes ici !\"",
             "\\.\"Les fléchettes et le billard c'est trop cool, nan ?!\"",
-            "\\.\\C[4](Je sais... ! Je peux utiliser le revolver pour\n tirer la fléchette sur la cible !)",
+            "\\.\\C[4](Je sais... ! Je peux utiliser le révolver pour\n tirer la fléchette sur la cible !)",
             "\\.\"...!\"",
             "\"Félicitations ! Félicitations !\n En plein dans le mille !\"\\|\\|",
             "\\.\"Pour avoir tiré au centre de la cible,\n vous obtenez un merveilleux cadeau !\"",
@@ -2599,7 +2599,7 @@
             "\\.\"Il semblerait pas que ce soit une climatisation.\""
         ],
         "3-3-choice": [
-            "Tirer sur la cible avec le revolver\nAnnuler"
+            "Tirer sur la cible avec le révolver\nAnnuler"
         ],
         "12-1-message": [
             "\\C[3]Un billet de 1000 yens.\nDe l'argent liquide utilisable au Japon."
@@ -2618,7 +2618,7 @@
         "82-1-message": [
             "\\C[3]La porte bleue semble s'ouvrir facilement.",
             "\"C'est ici que l'on a joué à la Roulette Russe.\"",
-            "\"Il semblerait que nous puissions rentrer\n quand bon nous semble.\""
+            "\"On dirait qu'on peut entrer librement.\""
         ]
     },
     "map24": {
@@ -2655,7 +2655,7 @@
             "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
         "7-1-message": [
-            "\\C[3]Des fausses balles. J'en ai 6. Si on les tire,\nelles ne font que du bruit."
+            "\\C[3]Des balles à blanc. J'en ai 6.\nElles ne font qu'un bruit quand elles sont tirées."
         ],
         "9-1-message": [
             "\\C[3]Un billet de 1000 yens.\nDe l'argent liquide utilisable au Japon."
@@ -2672,7 +2672,7 @@
             "Combiner\nAnnuler"
         ],
         "8-1-message": [
-            "\\C[3]Des fausses balles. J'en ai 6. Si on les tire,\nelles ne font que du bruit."
+            "\\C[3]Des balles à blanc. J'en ai 6.\nElles ne font qu'un bruit quand elles sont tirées."
         ],
         "4-1-message": [
             "\\C[3]Un coupe-cigare.\nUn outil coupant les cigares afin de les fumer."
@@ -2850,7 +2850,7 @@
             "Combiner\nAnnuler"
         ],
         "16-1-message": [
-            "\\C[3]Des fausses balles. J'en ai 6. Si on les tire,\nelles ne font que du bruit."
+            "\\C[3]Des balles à blanc. J'en ai 6.\nElles ne font qu'un bruit quand elles sont tirées."
         ],
         "12-1-message": [
             "\\C[3]Un coupe-cigare.\nUn outil coupant les cigares afin de les fumer."
@@ -2879,27 +2879,27 @@
             "\\C[3]Un billet de 1000 yens.\nDe l'argent liquide utilisable au Japon."
         ],
         "1-3-message": [
-            "\"Hé, Sara. Tu as trouvé quelque chose ?\"",
+            "\"Hé, Sara. T'as trouvé quelque chose ?\"",
             "\\.\"Non... Il y a encore trop de zones d'ombre.\"",
             "\\.\"Ce que je trouve vraiment étrange, c'est que l'on\n ait trouvé un pistolet et des balles dans cette salle.\"",
-            "\\.\"Pourquoi les kidnappeurs nous\n auraient-ils donné une arme... ?\"",
+            "\\.\"Pourquoi les kidnappeurs nous auraient-ils\n donné une arme... ?\"",
             "\\.\"...\"",
-            "\\.\"Peut-être qu'ils veulent semer la zizanie.\"",
-            "\\.\"La zizanie ?\"",
+            "\\.\"Peut-être qu'ils veulent semer le chaos.\"",
+            "\\.\"Le chaos ?\"",
             "\\.\"La présence d'une arme crée un rapport de force...\n Qui accepterait d'être en position de faiblesse ?\"",
-            "\\.\\C[4](Une lutte pour obtenir l'arme...\n Ouais, c'est possible.)",
+            "\\.\\C[4](Une lutte pour la possession de l'arme...\n C'est vrai, c'est logique.)",
             "\\.\"Heureusement qu'on a notre bonne vieille Sara\n avec nous. On ne se fera pas avoir comme ça.\"",
             "\\.\"... Pourquoi me fais-tu autant confiance ?\"",
             "\\.\"Parce que t'es juste trop meugnonne.\"",
-            "\\.\\C[4](...Keiji s'est arrangé pour que tout le monde me\n fasse confiance.)",
-            "\\.\\C[4](Je me demande pourquoi... ?)",
-            "\\.\"Je m'attendais pas à ce que tu répondes à un\n compliment avec un regard aussi douteux.\"",
+            "\\.\\C[4](... Keiji incite intentionnellement tout le\n monde à me faire confiance.)",
+            "\\.\\C[4](Je me demande pourquoi...?)",
+            "\\.\"Je m'attendais pas à ce que tu répondes à un\n compliment avec un regard aussi plein de soupçon.\"",
             "\\.\"Ah oui, Keiji.\n J'ai trouvé ces balles à blanc dans la cafétéria.\"",
-            "\\.\"...Qu'est-ce que c'est ?\"",
-            "\\.\\C[3]Fausses Balles remises à Keiji.",
+            "\\.\"... Qu'est-ce que c'est ?\"",
+            "\\.\\C[3]Balles à blanc remises à Keiji.",
             "\\.\"Est-ce qu'elles seraient un indice ?\"",
             "\\.\"... Je vais les regarder de plus près.\"",
-            "\\C[3]Bon... Que faire pendant qu'il enquête ?"
+            "\\C[3]Bon... Que faire pendant qu'il les examine ?"
         ],
         "1-1-message": [
             "\"Ouah, qu'est-ce que c'est ?\"",
@@ -2910,7 +2910,7 @@
             "\\C[4](Je suppose que je vais aller chercher ailleurs...)",
             "\"Oh, Sara. Attends une petite minute...\"",
             "\\.\"Oui ?\"",
-            "\\.\\C[3]Avant de sortir de la salle je me suis retournée, et...",
+            "\\.\\C[3]Avant de sortir de la salle, je me suis retournée, et...",
             "\"Hein ? Sara, tu ne viens pas ?\"",
             "\"Ouah...!\\.\\.\n Mais qu-?!\"",
             "\\.\"Sara ! Tout va bien ?!\"",
@@ -2925,17 +2925,17 @@
             "\\.\\sw[99]\"Allons, détendez-vous.\"\\sw[100]",
             "\\.\"Quoi ?! Qui a dit ça ?!\"",
             "\\.\\sw[99]\"Ha ha ha.\n Restons sur l'essentiel.\"\\sw[100]",
-            "\\.\\sw[99]\"Je suis le maitre de cette pièce.\n Vous pouvez m'appeler Le Parrain.\"\\sw[100]",
-            "\\.\\sw[99]\"À présent, allons droit au but,\n et laissez-moi vous expliquer les règles du jeu\n suivant.\"\\sw[100]",
-            "\\.\"L... Les règles... ?\"",
-            "\\.\\sw[99]\"Évidemment ! Tu comptais jouer ta vie\n sans même connaître les règles ?!\n T'es un sacré personnage !\"\\sw[100]",
-            "\\.\"Jouer... ma vie ?\"",
-            "\\.\\sw[99]\"C'est simple ! À l'heure actuelle,\n vous êtes \\C[2]cinq\\C[0] humains dans\n cette salle, vous voyez ?\"\\sw[100]",
-            "\\.\\sw[99]\"Jetez un œil autour de vous... !\n Il y a \\C[2]quatre\\C[0] sièges vides.\"\\sw[100]",
-            "\\.\\sw[99]\"L'un de vous sera le Concurrent,\n tandis que les quatre autres s’assiéront\n pour servir de cibles.\"\\sw[100]",
+            "\\.\\sw[99]\"Je suis le maître de cette pièce.\n Vous pouvez m'appeler Le Parrain.\"\\sw[100]",
+            "\\.\\sw[99]\"À présent, allons droit au but et laissez-moi\n vous expliquer les règles du jeu suivant.\"\\sw[100]",
+            "\\.\"L... Les règles...?\"",
+            "\\.\\sw[99]\"Bah, bien sûr ! Tu comptais mettre ta vie\n en jeu sans même connaître les règles ?!\n T'es un sacré bonhomme, toi !\"\\sw[100]",
+            "\\.\"Mettre... ma vie en jeu ?\"",
+            "\\.\\sw[99]\"C'est simple ! À l'heure actuelle, vous êtes \\C[2]cinq\\C[0]\n humains dans cette salle, vous voyez ?\"\\sw[100]",
+            "\\.\\sw[99]\"Regardez autour de vous...!\n Il y a \\C[2]quatre\\C[0] sièges vides.\"\\sw[100]",
+            "\\.\\sw[99]\"L'un de vous sera le Concurrent, tandis que les\n quatre autres s’assiéront pour servir de cibles.\"\\sw[100]",
             "\\.\"Des cibles...? Des cibles de quoi ?!\"",
-            "\\.\\sw[99]\"Hé bien, je vous ai laissé une super\n arme dans cette salle, pas vrai ?\"\\sw[100]",
-            "\\.\"O... On va être les cibles d'un revolver ?!\"",
+            "\\.\\sw[99]\"Hé bien, je vous ai laissé une super arme\n dans cette salle, vous voyez de quoi je veux parler ?\"\\sw[100]",
+            "\\.\"O... On va être les cibles d'un révolver ?!\"",
             "\\.\"Et donc ? Quelles sont les règles ?\n On peut sûrement gagner sans aucun sacrifice.\"",
             "\\.\\sw[99]\"Ha ha ha ! Mais naturellement !\n Un piège mortel ça fait juste vieux, vous voyez\n ce que je veux dire ?\"\\sw[100]",
             "\\.\\sw[99]\"Tout d'abord... Vous allez décider qui sera\n \\C[2]le Concurrent\\C[0].\"\\sw[100]",
@@ -2999,11 +2999,11 @@
             "\\.\"Ça pourrait être dangereux de le toucher.\n Restons prudents et ne le touchons pas.\"",
             "\\.\"Tu as raison.\"",
             "\\.\\C[3]Je regarde le mannequin de plus près.",
-            "\\.\\C[3]Il semblerait qu'il soit fixée à la chaise\npour qu'il ne puisse pas être déplacé.",
+            "\\.\\C[3]Il semblerait qu'il soit fixé à la chaise\npour qu'il ne puisse pas être déplacé.",
             "\\.\"Une chose est sûre, ils ne les ont pas placés\n ici par hasard.\"",
-            "\\.\"En tout cas, je suis rassuré.\n Je ne sais pas ce que j'aurais fait si ils\n s'étaient mis à nous attaquer !\"",
+            "\\.\"En tout cas, je suis rassuré.\n Je ne sais pas ce que j'aurais fait s'ils\n s'étaient mis à nous attaquer !\"",
             "\\.\\C[4](Hein...?)",
-            "\\.\\C[3]En regardant de plus près, il y a\nquelque chose entre la figure et le fauteuil.",
+            "\\.\\C[3]En regardant de plus près, il y a quelque chose\nentre la figure et le fauteuil.",
             "\\.\\C[4](C'est... un \\C[2]pistolet\\C[4] ?)",
             "\\.\\C[3]Revolver obtenu.",
             "\\.\"... T'as l'intention de faire quoi avec ça ?\"",
@@ -3017,7 +3017,7 @@
             "\\.\"...\"",
             "\\.\"Tu penses être en sécurité juste parce que\n je n'ai pas de balles ?\"",
             "\\.\"Je passe, Sara. Tu peux le garder.\n Tu ne devrais pas le lâcher aussi facilement.\"",
-            "\\.\"Je comprends...\"",
+            "\\.\"D'accord...\"",
             "\\.\"Content que tu me fasses confiance en tout cas.\n Ahaha.\"",
             "\\.\"...\"",
             "\\.\"Ahaha, tu as raison.\n Tu ne devrais pas le quitter du regard.\"",
@@ -3037,8 +3037,8 @@
             "\\.\"Ouais...\"",
             "\\.\"Essaie de la décrocher du mur pour voir.\"",
             "\\.\"J'pense que j'vais d'abord m'occuper des\n trucs simples, genre ces chaises.\"",
-            "\\.\"Mais dis-moi, Sara, c'est que t'es \n trop petite pour l'atteindre, hein ?\"",
-            "\\.\"Hé, j'ai pris un centimètre l'année dernière.\n Me prends pas à la légère !\"",
+            "\\.\"Mais dis-moi, Sara, c'est que t'es trop\n petite pour l'atteindre, hein ?\"",
+            "\\.\"Hé, j'ai pris un centimètre l'année dernière.\n Ne me prends pas à la légère !\"",
             "\\.\"M... Meuf, me rabaisse pas...\"",
             "\\.\"Je vais finir par t'appeler \"minus\" un de ces jours.\"",
             "\\.\"Argh...!\""
@@ -3057,9 +3057,9 @@
             "\\.\"Ça pourrait être dangereux de le toucher.\n Restons prudents et ne le touchons pas.\"",
             "\\.\"Tu as raison.\"",
             "\\.\\C[3]Je regarde le mannequin de plus près.",
-            "\\.\\C[3]Il semblerait qu'il soit fixée à la chaise\npour qu'il ne puisse pas être déplacé.",
+            "\\.\\C[3]Il semblerait qu'il soit fixé à la chaise\npour qu'il ne puisse pas être déplacé.",
             "\\.\"Une chose est sûre, ils ne les ont pas placés\n ici par hasard.\"",
-            "\\.\"En tout cas, je suis rassuré.\n Je ne sais pas ce que j'aurais fait si ils\n s'étaient mis à nous attaquer !\""
+            "\\.\"En tout cas, je suis rassuré.\n Je ne sais pas ce que j'aurais fait s'ils\n s'étaient mis à nous attaquer !\""
         ],
         "7-1-choice": [
             "Inspectons-le de plus près\nOn ne devrait pas le toucher"
@@ -3071,13 +3071,13 @@
             "\"J'vous l'dit, ça c'est un endroit pour\n l'moins suspect.\"",
             "\\.\"Qu'est-ce que tu fais, Q-taro ?\"",
             "\\.\"J'regarde juste la salle dans son ensemble.\"",
-            "\\.\"Mais ces gars... Ils examinent chaque recoin\n sans aucune hésitation... Ils ont pas peur d'tomber\n sur des pièges, et tout ?\""
+            "\\.\"Mais ces gars, là...\n Ils examinent chaque recoin sans broncher...\n Z'ont pas peur d'tomber sur des pièges ?\""
         ],
         "3-2-message": [
             "\"Euhh... Sou, c'est ça ?\"",
             "\"Ahaha, heureux que tu te sois rappelé de mon nom.\"",
-            "\\.\"T'inquiète, mec !\n Occupe-toi de Sara pour moi !\"",
-            "\\.\"... Ahaha. Je pense que je devrais plus\n m'inquiéter à ne pas la ralentir qu'autre chose.\""
+            "\\.\"T'inquiète, mec !\n Garde un œil sur Sara pour moi !\"",
+            "\\.\"... Ahaha. Je pense que je devrais plutôt\n m'inquiéter de ne pas la ralentir.\""
         ],
         "3-3-message": [
             "\"J'ai essayé de décrocher la peinture tout à l'heure...\"",
@@ -3087,15 +3087,15 @@
         "4-1-message": [
             "\"Hé, Sara. Passe-moi ta main.\"",
             "\\.\"Eum...\"",
-            "\\.\\C[3]Obtenu 3 Balles.",
+            "\\.\\C[3]Vous obtenez 3 balles.",
             "\\.\"Attends, ce sont...\"",
             "\\.\"Non, ce ne sont pas les miennes.\n Je les ai trouvés en examinant les sièges.\"",
             "\\.\"Je... n'en avais jamais vu de mes propres yeux.\n Ce sont des vraies ?\"",
             "\\.\"Sûrement. Elles sont dangereuses.\n Tu pourrais les prendre ?\"",
             "\\.\"Pourquoi moi...?\"",
             "\\.\"Joe sera mort d'angoisse si je les garde.\"",
-            "\\.\"Cela dit, je ne peux pas les lui donner non plus.\"",
-            "\\.\"Du coup je compte sur toi, Sara.\""
+            "\\.\"Cela dit, je peux pas les lui donner non plus.\"",
+            "\\.\"Du coup, je compte sur toi, Sara.\""
         ],
         "5-2-message": [
             "\"Je continue mes recherches avec diligence.\""
@@ -3115,9 +3115,9 @@
             "\\.\"Ça pourrait être dangereux de le toucher.\n Restons prudents et ne le touchons pas.\"",
             "\\.\"Tu as raison.\"",
             "\\.\\C[3]Je regarde le mannequin de plus près.",
-            "\\.\\C[3]Il semblerait qu'il soit fixée à la chaise\npour qu'il ne puisse pas être déplacé.",
+            "\\.\\C[3]Il semblerait qu'il soit fixé à la chaise\npour qu'il ne puisse pas être déplacé.",
             "\\.\"Une chose est sûre, ils ne les ont pas placés\n ici par hasard.\"",
-            "\\.\"En tout cas, je suis rassuré.\n Je ne sais pas ce que j'aurais fait si ils\n s'étaient mis à nous attaquer !\""
+            "\\.\"En tout cas, je suis rassuré.\n Je ne sais pas ce que j'aurais fait s'ils\n s'étaient mis à nous attaquer !\""
         ],
         "6-2-choice": [
             "Inspectons-le de plus près\nOn ne devrait pas le toucher"
@@ -3157,7 +3157,7 @@
             "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
         "13-1-message": [
-            "\\C[3]Des fausses balles. J'en ai 6. Si on les tire,\nelles ne font que du bruit."
+            "\\C[3]Des balles à blanc. J'en ai 6.\nElles ne font qu'un bruit quand elles sont tirées."
         ],
         "18-1-message": [
             "\\C[3]Un billet de 1000 yens.\nDe l'argent liquide utilisable au Japon."
@@ -3443,7 +3443,7 @@
             "\\C[3]Un cigare dans un emballage de haute qualité."
         ],
         "10-1-message": [
-            "\\C[3]Des fausses balles. J'en ai 6. Si on les tire,\nelles ne font que du bruit."
+            "\\C[3]Des balles à blanc. J'en ai 6.\nElles ne font qu'un bruit quand elles sont tirées."
         ],
         "9-1-message": [
             "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles.\nÀ quoi peut bien servir le trou en son centre...?",
@@ -3470,16 +3470,16 @@
         ],
         "4-1-message": [
             "\\C[3]Un torse de poupée est posé contre le mur.",
-            "\\.\"I... Il ne va pas bouger, hein...?\"",
+            "\\.\"I... Il ne va pas se mettre à bouger, hein...?\"",
             "\\.\"Je me demande si c'est...\"",
             "\\.\"Tu te rappelles de la note que Keiji avait lu ?\"",
             "\\.\"Trouver le \\C[2]corps\\C[0]... !\n C'est vrai, il y avait une note là-dedans.\"",
-            "\"Ton imagination a d'excentriques particularités.\"",
-            "\\.\"D'excentriques particularités...?\"",
-            "\\.\"P-Plus important... Tu ne penses pas qu'il\n serait lié à la tête qu'il y avait dans la boîte ?\"",
-            "\\.\"Trouver le \\C[2]corps\\C[0]...\n Il y avait une note, tu te rappelles ?\"",
+            "\"Ton imagination est incroyablement,\n sauvagement tordue.\"",
+            "\\.\"Sauvagement tordue...?\"",
+            "\\.\"P-Plus important... Tu ne penses pas qu'il\n est lié à la tête qu'on a trouvée dans la boîte ?\"",
+            "\\.\"Trouver le \\C[2]corps\\C[0]...\n Tu te souviens de la note ?\"",
             "\\.\"Je me demande si la tête de la boîte\n peut être combinée avec ce torse...\"",
-            "\\.\"Tu penses que ça provoquera quelque chose ?\"",
+            "\\.\"Tu penses que ça fera quelque chose ?\"",
             "\\.\"Ça se pourrait. Ce qui est un peu effrayant...\"",
             "\\.\"O-Oui, tu as raison ! On devrait fouiller un peu\n plus les environs, d'abord ! A... Ahaha...\""
         ],
@@ -3493,7 +3493,7 @@
             "\\.\"Tu sais, comme des jouets.\n Quand on les tire avec un pistolet,\n elles ne font qu'un bruit.\"",
             "\\.\"Alors ce ne sont pas des vraies.\"",
             "\\.\"C'est ça. Elles sont inoffensives.\"",
-            "\\.\"J'ai une idée. Demandons à Keiji.\n Il devrait avoir plus d'expérience que nous, alors\n il pourra peut-être trouver quelque chose.\"",
+            "\\.\"J'ai une idée. Demandons à Keiji de les examiner.\n Il devrait plus s'y connaître que nous, donc\n peut-être qu'il trouvera quelque chose.\"",
             "\\.\\C[4](J'espère qu'elles pourront nous donner\n un indice sur les kidnappeurs...)"
         ],
         "1-1-message": [
@@ -3510,7 +3510,7 @@
         ],
         "4-2-message": [
             "\\C[3]Un torse de poupée est posé contre le mur.",
-            "\"On peut le laisser là pour l'instant, non...?\n Non ?\""
+            "\"On peut remettre ça à plus tard, pas vrai...?\n Pas vrai ?\""
         ],
         "4-3-message": [
             "\\C[3]Un torse de poupée est posé contre le mur.",
@@ -4333,6 +4333,15 @@
         ],
         "6-1-message": [
             "\\C[3]Une carte portant l'inscription \"Maître des Clés\".\nElle indique : \"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe."
+        ],
+        "1-3-message": [
+            "\\C[3]La porte rouge est maintenant ouverte."
+        ],
+        "3-2-message": [
+            "\\C[3]La porte rouge est maintenant ouverte."
+        ],
+        "9-2-message": [
+            "\\C[3]La porte rouge est maintenant ouverte."
         ]
     },
     "map40": {
@@ -4618,6 +4627,9 @@
         ],
         "5-1-message": [
             "\\C[3]Une carte portant l'inscription \"Maître des Clés\".\nElle indique : \"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe."
+        ],
+        "34-1-message": [
+            "\\C[3]Une porte rouge \"Sp\"."
         ]
     },
     "map46": {
@@ -9514,7 +9526,7 @@
         ],
         "281-0-message": [
             "Sou Hiyori\nIl se décrit comme un intérimaire.\nUn homme timide qui parle en souriant.",
-            "\\.Il est mince et faible étant donné qu'il n'a même\npas réussi à ouvrir une porte coulissante. D'un autre\ncôté, son comportement a changé subitement quand\nj'ai ramassé le revolver... J'ai eu un peu peur.",
+            "\\.Il est mince et faible étant donné qu'il n'a même\npas réussi à ouvrir une porte coulissante. D'un autre\ncôté, son comportement a changé subitement quand\nj'ai ramassé le révolver... J'ai eu un peu peur.",
             "\\.Lors de la Roulette Russe, Sou était coincé à\nl'extérieur de la salle. Je suis intriguée par la\n\"salle secrète\" qu'il dit avoir trouvé pendant\nqu'on était enfermés."
         ],
         "282-0-message": [
@@ -9547,6 +9559,35 @@
         ],
         "289-0-message": [
             "\\C[10]                       9 Restants"
+        ],
+        "9-0-message": [
+            "\\C[3]La porte rouge est fermement verrouillée."
+        ],
+        "20-0-message": [
+            "\\C[3]La porte rouge est fermement verrouillée."
+        ],
+        "22-0-message": [
+            "\\C[3]La porte rouge est fermement verrouillée."
+        ],
+        "122-0-message": [
+            null,
+            "\\C[3]La porte rouge est fermement verrouillée."
+        ],
+        "960-0-message": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\C[3]La porte rouge est fermement verrouillée."
+        ],
+        "1012-0-message": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\C[3]La porte rouge est fermement verrouillée."
         ]
     },
     "map107": {
@@ -9645,7 +9686,7 @@
         "description": "Le couloir amenant au bar."
     },
     "items-19": {
-        "name": "Couloir de l'Espace Fumeurs",
+        "name": "Couloir de l'E. Fumeur",
         "description": "Un couloir avec une salle pour les fumeurs."
     },
     "items-22": {
@@ -12926,6 +12967,9 @@
             null,
             null,
             "\\.\"...\""
+        ],
+        "14-1-message": [
+            "\\C[3]Une LED rouge sinistre illumine la porte."
         ]
     },
     "map167": {
@@ -16704,6 +16748,15 @@
         ],
         "4-1-message": [
             "\\C[3]Une carte portant l'inscription \"Maître des Clés\".\nElle indique : \"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe."
+        ],
+        "7-1-message": [
+            "\\C[3]Il y a une grande porte rouge au centre."
+        ],
+        "7-2-message": [
+            "\\C[3]Il y a une grande porte rouge au centre."
+        ],
+        "8-5-message": [
+            "\\C[3]La porte rouge est ouverte, éclairant les environs\nd'une vive lumière blanche."
         ]
     },
     "map59": {
