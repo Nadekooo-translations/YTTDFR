@@ -260,9 +260,9 @@
             "\\.\"Mais tant mieux pour toi !\n Ton opinion était la plus soutenue !\"",
             "\\.\"C'est avec cette expérience que vous découvrez la\n terreur que peuvent apporter les votes à la majorité.\"",
             "\\.\"Hein...?\"",
-            "\\.\"Mais vu que le résultat te satisfait, ne devrais-tu\npas reconnaître l'intérêt des votes à la majorité ?\"",
+            "\\.\"Mais vu que le résultat te satisfait, ne devrais-tu\n pas reconnaître l'intérêt des votes à la majorité ?\"",
             "\\.\"... Hé bah, c'est compliqué tout ça.\"",
-            "\\.\"... Hmm ? C'est quoi ce regard ?\n\\! Si tu avais su que l'autre personne allait mourir,\n alors, tu n'aurais pas voté ?\"",
+            "\\.\"... Hmm ? C'est quoi ce regard ?\n\\! Si tu avais su que l'autre personne allait mourir,\n alors tu n'aurais pas voté ?\"",
             "\\.\"Allons... Ça ne t'amènera nulle part, tu sais ?\n C'est le principe même de ce jeu...\"",
             "\\.\"... Hmm, ça n'a pas l'air de te satisfaire...\"",
             "\\.\"Très bien, si tu insistes... alors votons !\n Ton opinion contre la mienne !\"",
@@ -306,8 +306,8 @@
         "sevolume": "Effets sonores",
         "alwaysdash": "Auto-Sprint",
         "commandremember": "Se souvenir des choix",
-        "savemessage": "Sur quel fichier sauvegarder ?",
-        "loadmessage": "Quel fichier charger ?"
+        "savemessage": "Sur quel fichier voulez-vous sauvegarder ?",
+        "loadmessage": "Quelle sauvegarde voulez-vous charger ?"
     },
     "extra": {
         "languageoptionname": "Langue",
@@ -576,12 +576,12 @@
         "1-3-message": [
             "\\.\\C[4](Voir l'école plongée dans l'obscurité...\n L'ambiance est totalement différente de nuit.)",
             "\\.\\C[4](Les lumières...)",
-            "\\.\\C[4](... Je dois rentrer à pied alors qu'il\n fait si sombre…?)"
+            "\\.\\C[4](... Je dois rentrer à pied alors qu'il\n fait si sombre...?)"
         ],
         "14-1-message": [
             "\\C[3]La mare du campus.",
             "\\.\\C[3]La rumeur dit que si quelqu'un regarde dedans\nà minuit, son reflet se mettra à parler.",
-            "\\.\\C[4](... Ça pourrait être pas mal pour un taciturne.)"
+            "\\.\\C[4](... Ça pourrait être pas mal pour\nquelqu'un de taciturne.)"
         ],
         "16-1-message": [
             "\\C[3]Les lumières sont allumées.\nC'est peut-être le garde de nuit.",
@@ -598,7 +598,7 @@
             "\\C[10]Il y a quelqu'un... \\|\\.\\.\\^",
             "\"Quess' tu fais, Sara ?\"",
             "\\.\"Joe...!\"",
-            "\\C[2]Jou Tazuna\\C[0], plus connu sous le nom de \\C[2]Joe\\C[0].\nMon camarade de classe au lycée.\nOn s'est souvent retrouvés ensemble.",
+            "\\C[2]Jou Tazuna\\C[0], plus connu sous le nom de \\C[2]Joe\\C[0].\nMon camarade de classe au lycée.\nOn s'est souvent retrouvés ensemble en cours.",
             "\"T'es restée aussi tard juste pour les clubs ?!\n Je commençais à me dessécher à force d'attendre !\"",
             "\"Bon, t'inquiète pas pour ça ! Écoute un peu !\n J'ai un truc à t'raconter !\"",
             "\\.\"Un truc à me raconter ?\"",
@@ -675,7 +675,7 @@
             "\"...\""
         ],
         "4-1-message": [
-            "        \\fs[60]\\C[10]Je dois m'enfuir...!\\|\\^",
+            "        \\fs[60]\\C[10]Fuis...!\\|\\^",
             "\"Joe ! Cours !\"",
             "\\.\"Hein...?!\""
         ],
@@ -1064,8 +1064,8 @@
             "\\.\"Je m'ramènerai avec une cargaison d'étudiants\n de première année !\"",
             "\\.\"...\"",
             "\\.\\C[4](Ce gars me fixait...)",
-            "\\.\\C[4](Et... On aurait dit...)",
-            "\\.\\C[4](Qu'il essayait de me parler...?)",
+            "\\.\\C[4](Et... on aurait dit...)",
+            "\\.\\C[4](... qu'il essayait de me parler...?)",
             "\"Bon, tes parents t'attendent, Sara !\"",
             "\\.\"... Ouais.\"",
             "\\.\"Hé, Joe...\"",
@@ -1094,7 +1094,7 @@
         ],
         "4-1-message": [
             "\\C[3]Une lampe élégante illumine la véranda.",
-            "\\.\\C[3]... Alors ce n'est pas une coupure de courant ?"
+            "\\.\\C[3]... Donc il n'y a pas une coupure de courant ?"
         ],
         "5-1-message": [
             "\\C[3]La plaque de la maison."
