@@ -141,6 +141,9 @@
         ],
         "47-1-message": [
             "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
+        ],
+        "9-1-message": [
+            "\\C[3]Une carte portant l'inscription \"Maître des Clés\".\nElle indique : \"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe."
         ]
     },
     "map33": {
@@ -231,6 +234,9 @@
         ],
         "22-1-message": [
             "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
+        ],
+        "6-1-message": [
+            "\\C[3]Une carte portant l'inscription \"Maître des Clés\".\nElle indique : \"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe."
         ]
     },
     "map1": {
@@ -254,7 +260,7 @@
             "\\.\"Mais tant mieux pour toi !\n Ton opinion était la plus soutenue !\"",
             "\\.\"C'est avec cette expérience que vous découvrez la\n terreur que peuvent apporter les votes à la majorité.\"",
             "\\.\"Hein...?\"",
-            "\\.\"Mais si ça te rend heureux, ne devrais-tu\n pas reconnaître l'intérêt des votes à la majorité ?\"",
+            "\\.\"Mais vu que le résultat te satisfait, ne devrais-tu\npas reconnaître l'intérêt des votes à la majorité ?\"",
             "\\.\"... Hé bah, c'est compliqué tout ça.\"",
             "\\.\"... Hmm ? C'est quoi ce regard ?\n\\! Si tu avais su que l'autre personne allait mourir,\n alors, tu n'aurais pas voté ?\"",
             "\\.\"Allons... Ça ne t'amènera nulle part, tu sais ?\n C'est le principe même de ce jeu...\"",
@@ -421,7 +427,7 @@
         "itemextradesc42": "Sage : Grâce à une sainte divination, il sait qui est le Maître des Clefs,\\nmais ne peut mentir sur le résultat d'une divination.",
         "itemdesc59": "Le portrait d'une personne tenant un pistolet.\\nIl y a une autre peinture au dos.",
         "itemdesc61": "Un vaporisateur.\\nDes gouttelettes d'eau y sont collées.",
-        "itemdesc71": "",
+        "itemdesc71": "Une carte qui indique :\\n\"Il s'agit d'une clé vers la sortie.\"\\nJe mourrai si quelqu'un apprend qu'elle existe.",
         "itemdesc77": "Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\".",
         "itemdesc87": "De fausses balles.\\nQuand on les tire, elles ne font qu'un son.",
         "dtext_発言力：": "Influence : ",
@@ -968,7 +974,7 @@
         ]
     },
     "items-70": {
-        "description": "",
+        "description": "Une carte qui indique :\n\"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe.",
         "name": "Carte du M. des Clés"
     },
     "map193": {
@@ -1995,6 +2001,19 @@
         ],
         "26-1-message": [
             "\\C[3]Une ampoule pour illuminer une pièce."
+        ],
+        "2-1-message": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.\\C[3]À la personne qui revendique cette carte :",
+            "\\.\\C[3]Désormais, elle vous appartient.\nGardez-la toujours en votre possession.\nIl s'agit d'une clé vers la sortie.",
+            "\\C[2]N'informez personne de l'existence de cette carte.\\C[3].\nAutrement, \\C[2]vous mourrez\\C[3]."
+        ],
+        "7-1-message": [
+            "\\C[3]Une carte portant l'inscription \"Maître des Clés\".\nElle indique : \"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe."
         ]
     },
     "map16": {
@@ -3358,6 +3377,9 @@
         ],
         "30-1-message": [
             "\\C[3]Une ampoule pour illuminer une pièce."
+        ],
+        "4-1-message": [
+            "\\C[3]Une carte portant l'inscription \"Maître des Clés\".\nElle indique : \"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe."
         ]
     },
     "map48": {
@@ -3399,6 +3421,9 @@
         ],
         "22-3-message": [
             "\\C[3]Une ampoule pour illuminer une pièce."
+        ],
+        "28-3-message": [
+            "\\C[3]Une carte portant l'inscription \"Maître des Clés\".\nElle indique : \"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe."
         ]
     },
     "map23": {
@@ -3865,7 +3890,7 @@
             "\\.\"Pourvu que personne ne s'énerve et ne la pourchasse...\n Je ne supporterais pas qu'on ait la responsabilité\n collective de la mort de quelqu'un.\"",
             "\\.\\C[4](J'ai du mal à m'imaginer que quelqu'un\npuisse vouloir monter ces escaliers seul, mais...)",
             "\\.\"Tu n'as quand même pas l'intention d'y aller,\n pas vrai, Sara ?\"",
-            "\\.\"Je te le dis pour ton propre bien...\n Tu devrais t'en abstenir pour le moment.\"",
+            "\\.\"Je te le dis pour ton propre bien...\n Tu devrais t'abstenir pour le moment.\"",
             "\\.\"... Mais surtout, j'aimerais te montrer quelque chose.\"",
             "\\.\"Hein...?\"",
             "\\.\"On peut se rejoindre à l'arrière de la cafétéria ?\n ... S'il te plaît.\"",
@@ -3876,7 +3901,7 @@
             "Quelqu'un d'autre est monté ?\nAllons la rattraper"
         ],
         "5-1-message": [
-            "\\C[3]Une carte portant l'inscription Maître des clés.\nElle indique : \"Voici une clé vers la sortie.\nVous mourrez si quelqu'un apprend l'existence de cette carte.\""
+            "\\C[3]Une carte portant l'inscription \"Maître des Clés\".\nElle indique : \"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe."
         ],
         "7-1-message": [
             "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles."
@@ -4043,6 +4068,9 @@
         ],
         "13-1-message": [
             "\\C[3]Une ampoule pour illuminer une pièce."
+        ],
+        "4-1-message": [
+            "\\C[3]Une carte portant l'inscription \"Maître des Clés\".\nElle indique : \"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe."
         ]
     },
     "map37": {
@@ -4187,6 +4215,9 @@
         ],
         "44-1-message": [
             "\\C[3]Une ampoule pour illuminer une pièce."
+        ],
+        "5-1-message": [
+            "\\C[3]Une carte portant l'inscription \"Maître des Clés\".\nElle indique : \"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe."
         ]
     },
     "map38": {
@@ -4240,6 +4271,9 @@
         ],
         "11-1-message": [
             "\\C[3]Une ampoule pour illuminer une pièce."
+        ],
+        "3-1-message": [
+            "\\C[3]Une carte portant l'inscription \"Maître des Clés\".\nElle indique : \"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe."
         ]
     },
     "map39": {
@@ -4296,6 +4330,9 @@
         ],
         "15-1-message": [
             "\\C[3]Une ampoule pour illuminer une pièce."
+        ],
+        "6-1-message": [
+            "\\C[3]Une carte portant l'inscription \"Maître des Clés\".\nElle indique : \"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe."
         ]
     },
     "map40": {
@@ -4367,6 +4404,9 @@
         ],
         "17-1-message": [
             "\\C[3]Une ampoule pour illuminer une pièce."
+        ],
+        "5-1-message": [
+            "\\C[3]Une carte portant l'inscription \"Maître des Clés\".\nElle indique : \"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe."
         ]
     },
     "map41": {
@@ -4423,6 +4463,12 @@
         ],
         "73-1-message": [
             "\\C[3]Une ampoule pour illuminer une pièce."
+        ],
+        "35-1-message": [
+            "\\C[3]Une carte portant l'inscription \"Maître des Clés\".\nElle indique : \"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe."
+        ],
+        "35-4-message": [
+            "\\C[3]Une carte portant l'inscription \"Maître des Clés\".\nElle indique : \"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe."
         ]
     },
     "map45": {
@@ -4569,6 +4615,9 @@
         ],
         "30-1-message": [
             "\\C[3]Une ampoule pour illuminer une pièce."
+        ],
+        "5-1-message": [
+            "\\C[3]Une carte portant l'inscription \"Maître des Clés\".\nElle indique : \"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe."
         ]
     },
     "map46": {
@@ -4617,6 +4666,9 @@
         ],
         "39-1-message": [
             "\\C[3]Une ampoule pour illuminer une pièce."
+        ],
+        "4-1-message": [
+            "\\C[3]Une carte portant l'inscription \"Maître des Clés\".\nElle indique : \"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe."
         ]
     },
     "map47": {
@@ -4665,6 +4717,9 @@
         ],
         "37-1-message": [
             "\\C[3]Une ampoule pour illuminer une pièce."
+        ],
+        "5-1-message": [
+            "\\C[3]Une carte portant l'inscription \"Maître des Clés\".\nElle indique : \"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe."
         ]
     },
     "map49": {
@@ -4751,6 +4806,9 @@
         ],
         "23-1-message": [
             "\\C[3]Une ampoule pour illuminer une pièce."
+        ],
+        "6-1-message": [
+            "\\C[3]Une carte portant l'inscription \"Maître des Clés\".\nElle indique : \"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe."
         ]
     },
     "map50": {
@@ -4815,6 +4873,9 @@
         ],
         "14-1-message": [
             "\\C[3]Une ampoule pour illuminer une pièce."
+        ],
+        "5-1-message": [
+            "\\C[3]Une carte portant l'inscription \"Maître des Clés\".\nElle indique : \"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe."
         ]
     },
     "map51": {
@@ -4869,6 +4930,9 @@
         ],
         "50-1-message": [
             "\\C[3]Une ampoule pour illuminer une pièce."
+        ],
+        "30-1-message": [
+            "\\C[3]Une carte portant l'inscription \"Maître des Clés\".\nElle indique : \"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe."
         ]
     },
     "map68": {
@@ -4913,6 +4977,9 @@
         ],
         "13-1-message": [
             "\\C[3]Une ampoule pour illuminer une pièce."
+        ],
+        "4-1-message": [
+            "\\C[3]Une carte portant l'inscription \"Maître des Clés\".\nElle indique : \"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe."
         ]
     },
     "items-81": {
@@ -10245,6 +10312,9 @@
         ],
         "3-1-message": [
             "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
+        ],
+        "2-1-message": [
+            "\\C[3]Une carte portant l'inscription \"Maître des Clés\".\nElle indique : \"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe."
         ]
     },
     "map60": {
@@ -10271,6 +10341,9 @@
         ],
         "6-1-message": [
             "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
+        ],
+        "4-1-message": [
+            "\\C[3]Une carte portant l'inscription \"Maître des Clés\".\nElle indique : \"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe."
         ]
     },
     "map65": {
@@ -11611,6 +11684,9 @@
         ],
         "5-1-message": [
             "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
+        ],
+        "4-1-message": [
+            "\\C[3]Une carte portant l'inscription \"Maître des Clés\".\nElle indique : \"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe."
         ]
     },
     "map66": {
@@ -16625,6 +16701,9 @@
         ],
         "5-1-message": [
             "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
+        ],
+        "4-1-message": [
+            "\\C[3]Une carte portant l'inscription \"Maître des Clés\".\nElle indique : \"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe."
         ]
     },
     "map59": {
@@ -16642,6 +16721,9 @@
         ],
         "39-1-message": [
             "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
+        ],
+        "37-1-message": [
+            "\\C[3]Une carte portant l'inscription \"Maître des Clés\".\nElle indique : \"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe."
         ]
     },
     "map63": {
@@ -16682,6 +16764,10 @@
         "description": "Un vaporisateur.\nDes gouttelettes d'eau y sont collées."
     },
     "items-62": {
-        "description": "Une ampoule pour illuminer une pièce."
+        "description": "Une ampoule pour illuminer une pièce.",
+        "name": "Ampoule"
+    },
+    "items-63": {
+        "name": "Ampoule"
     }
 }
