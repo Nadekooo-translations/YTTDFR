@@ -2881,7 +2881,7 @@
         "1-3-message": [
             "\"Hé, Sara. T'as trouvé quelque chose ?\"",
             "\\.\"Non... Il y a encore trop de zones d'ombre.\"",
-            "\\.\"Ce que je trouve vraiment étrange, c'est que l'on\n ait trouvé un pistolet et des balles dans cette salle.\"",
+            "\\.\"Ce que je trouve vraiment étrange, c'est que l'on ait\n trouvé un pistolet et des balles dans cette salle.\"",
             "\\.\"Pourquoi les kidnappeurs nous auraient-ils\n donné une arme... ?\"",
             "\\.\"...\"",
             "\\.\"Peut-être qu'ils veulent semer le chaos.\"",
@@ -2894,7 +2894,7 @@
             "\\.\\C[4](... Keiji incite intentionnellement tout le\n monde à me faire confiance.)",
             "\\.\\C[4](Je me demande pourquoi...?)",
             "\\.\"Je m'attendais pas à ce que tu répondes à un\n compliment avec un regard aussi plein de soupçon.\"",
-            "\\.\"Ah oui, Keiji.\n J'ai trouvé ces balles à blanc dans la cafétéria.\"",
+            "\\.\"Ah, oui ! Keiji.\n J'ai trouvé ces balles à blanc dans la cafétéria.\"",
             "\\.\"... Quoi ?\"",
             "\\.\\C[3]Balles à blanc remises à Keiji.",
             "\\.\"Est-ce qu'elles seraient un indice ?\"",
@@ -2930,7 +2930,7 @@
             "\\.\"L... Les règles...?\"",
             "\\.\\sw[99]\"Bah, bien sûr ! Tu comptais mettre ta vie\n en jeu sans même connaître les règles ?!\n T'es un sacré bonhomme, toi !\"\\sw[100]",
             "\\.\"Mettre... ma vie en jeu ?\"",
-            "\\.\\sw[99]\"C'est simple ! À l'heure actuelle, vous êtes \\C[2]cinq\\C[0]\n humains dans cette salle, vous voyez ?\"\\sw[100]",
+            "\\.\\sw[99]\"C'est simple ! À l'heure actuelle, vous êtes \\C[2]cinq\\C[0]\n êtres humains dans cette salle, vous voyez ?\"\\sw[100]",
             "\\.\\sw[99]\"Regardez autour de vous...!\n Il y a \\C[2]quatre\\C[0] sièges vides.\"\\sw[100]",
             "\\.\\sw[99]\"L'un de vous sera le Concurrent, tandis que les\n quatre autres s’assiéront pour servir de cibles.\"\\sw[100]",
             "\\.\"Des cibles...? Des cibles de quoi ?!\"",
@@ -2953,9 +2953,9 @@
             "\\.\"Confiance...?\"",
             "\\.\"...\"",
             "\\.\\C[4](Joe...)",
-            "\\.\\C[4](Lors de cette épreuve, il a fait ce qu'il fallait...)",
-            "\\.\\C[4](Et maintenant, c'est lui qui me demande une faveur...!)",
-            "\\.\\C[4](Je vais m'en charger... ! Sans hésiter !)",
+            "\\.\\C[4](Lors de l'Épreuve, je lui ai fait confiance et il a fait\n ce que j'attendais de lui...)",
+            "\\.\\C[4](Et maintenant, il me sollicite...!)",
+            "\\.\\C[4](Je vais m'en occuper...! Sans hésiter !)",
             "\\.\"...\"",
             "\\.\\C[4](Joe...)",
             "\\.\\C[4](Durant l'Épreuve, j'ai compté sur lui et il a fait\n ce que je lui avais demandé...)",
@@ -3010,10 +3010,10 @@
             "\\.\"Hein...?\"",
             "\\.\"...\"",
             "\\.\"Ahh, pardon, Sara.\"",
-            "\\.\"Dis, tu pourrais me le donner ?\"",
+            "\\.\"Dis, pourrais-tu me le donner ?\"",
             "\\.\"...\"",
             "\\.\"...\"",
-            "\\.\"... Ahaha. Donner une arme à un étranger...\n Tu n'as pas peur ?\"",
+            "\\.\"... Ahaha.\n Tu n'as pas peur de donner une arme à un inconnu ?\"",
             "\\.\"...\"",
             "\\.\"Tu penses être en sécurité juste parce que\n je n'ai pas de balles ?\"",
             "\\.\"Je passe, Sara. Tu peux le garder.\n Tu ne devrais pas le lâcher aussi facilement.\"",
@@ -3028,15 +3028,15 @@
         "4-2-message": [
             "\"Je vais regarder ces balles à blanc de plus près.\"",
             "\\.\"Donne-moi juste un peu de temps.\"",
-            "\"Bon... J'ai intérêt à être un bon policier et à\n continuer d'inspecter les alentours.\"",
-            "\\.\"Pareil pour vous deux.\""
+            "\"Bon... Je ferais mieux d'être un bon policier et à\n continuer d'inspecter les alentours.\"",
+            "\\.\"Continuez comme ça aussi, vous deux.\""
         ],
         "3-1-message": [
             "\"Je m'demande à quoi sert cette énorme peinture.\"",
             "\\.\"Tu trouves qu'elle a quelque chose de louche ?\"",
             "\\.\"Ouais...\"",
             "\\.\"Essaie de la décrocher du mur pour voir.\"",
-            "\\.\"J'pense que j'vais d'abord m'occuper des\n trucs simples, genre ces fauteuils.\"",
+            "\\.\"J'pense que je vais d'abord m'occuper des\n trucs simples, genre ces fauteuils.\"",
             "\\.\"Mais dis-moi, Sara, c'est que t'es trop\n petite pour l'atteindre, hein ?\"",
             "\\.\"Hé, j'ai pris un centimètre l'année dernière.\n Ne me prends pas à la légère !\"",
             "\\.\"M... Meuf, me rabaisse pas...\"",
@@ -3081,7 +3081,7 @@
         ],
         "3-3-message": [
             "\"J'ai essayé de décrocher la peinture tout à l'heure...\"",
-            "\\.\"Mais elle est bien fixée au mur, pas d'chance.\"",
+            "\\.\"Mais elle est bien fixée au mur, donc c'est\n mort.\"",
             "\\.\"On ne peut rien faire d'autre avec, hein...\""
         ],
         "4-1-message": [
@@ -3476,7 +3476,7 @@
             "\\.\"Trouver le \\C[2]corps\\C[0]...!\n C'est vrai, il y avait une note.\"",
             "\"Ton imagination est incroyablement,\n sauvagement tordue.\"",
             "\\.\"Sauvagement tordue...?\"",
-            "\\.\"P-Plus important... Tu ne penses pas qu'il a un lien\n avec la tête qu'on a trouvée dans la boîte ?\"",
+            "\\.\"P-Plus important... Ne penses-tu pas qu'il a un\n lien avec la tête qu'on a trouvée dans la boîte ?\"",
             "\\.\"Trouver le \\C[2]corps\\C[0]...\n Tu te souviens de la note ?\"",
             "\\.\"Je me demande si la tête de la boîte\n peut être combinée avec ce torse...\"",
             "\\.\"Penses-tu que ça fera quelque chose ?\"",
@@ -7882,13 +7882,22 @@
             "\\.\\C[4](Mince... ! C'était une erreur !)"
         ],
         "31-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Sélectionner le témoignage\nAnnuler",
+            null,
+            ""
         ],
         "32-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Sélectionner le témoignage\nAnnuler",
+            null,
+            ""
         ],
         "33-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Sélectionner le témoignage\nAnnuler",
+            null,
+            ""
         ],
         "53-0-choice": [
             "Utiliser l'objet sélectionné\nAnnuler",
@@ -8479,14 +8488,26 @@
             "\"Alors je patiente un peu plus.\""
         ],
         "57-0-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\"...\""
+            "\"Faut qu'celui en qui on peut faire l'plus\nconfiance soit le Concurrent, j'pense.\"",
+            "\"Pas d'objections, hein ?\n Alors discutons-en.\"",
+            "\"J'irai droit au but : j'ai d'l'expérience avec les armes\n à feu, donc laissez-moi être l'Concurrent.\"",
+            "\\.\"C'est la vérité ?\"",
+            "\\.\"Ouaip, j'déteste les mensonges. Je m'suis bien\n familiarisé avec quand j'suis allé aux USA !\"",
+            "\\.\"Donc tu veux dire que t'as eu de l'entraînement ?\"",
+            "\"Je vais la faire courte aussi. Q-taro, même si t'as\n de l'expérience, je peux pas te faire confiance.\"",
+            "\\.\"...\"",
+            "\\.\"... Vraiment ?\"",
+            "\\.\"Désolé.\"",
+            "\\.\"L'ambiance est devenue tendue...\"",
+            "\"... Hrm... Je suis indécis.\n Laisser Sara porter ce fardeau me ferait de la peine.\"",
+            "\\.\"Elle s'en sortira ! Sara a des nerfs d'acier !\n Tu peux carrément l'appeler Steelmind !\"",
+            "\\.\"... \\C[2]Steelmind\\C[0]...?\"",
+            "\\.\\C[4](Ne te concentre pas sur ça...)",
+            "\"Alors, Sara ?\n Tu penses pouvoir réfuter quoi que ce soit ?\"",
+            "\\.\\C[4](Réfuter...\n Je n'ai pas grand-chose à dire moi, si ?)",
+            "\\.\"... Je vais y réfléchir.\"",
+            "\\.\"Si t'es pas sûre, demande-moi !\n\\! On s'en tracassera ensemble !\"",
+            "\\.\\C[4](Mais pas forcément s'en régler...)"
         ],
         "62-0-message": [
             null,
@@ -9051,27 +9072,27 @@
             "\\.\"...\""
         ],
         "58-0-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\"Je vais la faire courte aussi. Q-taro, même si t'as\n de l'expérience, je peux pas te faire confiance.\"",
+            "\"J'ai rien d'autre à dire sur ça.\"",
+            "\\C[4](Peut-être que je devrais l'opposer à un autre \n témoignage...)",
+            "\"On a pas assez de temps.\n Pas assez pour qu'on apprenne\n à se faire confiance, en tout cas.\"",
+            "\\.\"Mais mes instincts de détective me disent\n qu'on s'en sortira très bien avec Sara.\"",
+            "\"On a pas assez de temps.\n Pas assez pour qu'on apprenne\n à se faire confiance, en tout cas.\"",
+            "\\.\"... Précisément.\"",
+            "\\.\"Malgré cela, il semblerait que vous ayez\n une profonde confiance en Sara...\"",
+            "\\.\"Oh, t'as remarqué ?\"",
+            "\\.\"Si vous me permettez de donner mon interprétation...\"",
+            "\\.\"Peut-être que cela s'explique par le fait que\n Sara et Joe se connaissent ?\"",
+            "\\.\"Puisqu'ils peuvent se porter garants l'un de l'autre,\n vous en avez conclu qu'ils étaient de confiance,\n n'est-ce pas ?\"",
+            "\\.\"J'ai vraiment l'air si calculateur que ça ?\n Ça me fait un vrai choc.\"",
+            "\\.\"C'est juste mon intuition.\n J'ai confiance en ma capacité à cerner les gens.\"",
+            "\\.\"Je vois...\"",
+            "\\.\"... Cependant, vous omettez une partie de votre\n histoire.\"",
+            "\\.\"... Ah ouais ?\"",
             "\\.\"...\""
         ],
         "60-0-message": [
-            null,
+            "\"... Hrm... Je suis indécis.\n Laisser Sara porter ce fardeau me ferait de la peine.\"",
             null,
             null,
             null,
@@ -9588,6 +9609,52 @@
             null,
             null,
             "\\C[3]La porte rouge est fermement verrouillée."
+        ],
+        "59-0-message": [
+            "\"J'irai droit au but : j'ai d'l'expérience avec les armes\n à feu, donc laissez-moi être l'Concurrent.\""
+        ],
+        "58-0-choice": [
+            "Sélectionner le témoignage\nAnnuler",
+            null,
+            ""
+        ],
+        "59-0-choice": [
+            "Sélectionner le témoignage\nAnnuler",
+            null,
+            ""
+        ],
+        "61-0-message": [
+            "\"Alors, Sara ?\n Tu penses pouvoir réfuter quoi que ce soit ?\""
+        ],
+        "60-0-choice": [
+            "Sélectionner le témoignage\nAnnuler",
+            null,
+            ""
+        ],
+        "61-0-choice": [
+            "Sélectionner le témoignage\nAnnuler",
+            null,
+            ""
+        ],
+        "63-0-choice": [
+            "Sélectionner le témoignage\nAnnuler",
+            null,
+            ""
+        ],
+        "64-0-choice": [
+            "Sélectionner le témoignage\nAnnuler",
+            null,
+            ""
+        ],
+        "65-0-choice": [
+            "Sélectionner le témoignage\nAnnuler",
+            null,
+            ""
+        ],
+        "67-0-message": [
+            null,
+            "\"J'ai rien d'autre à dire sur ça.\"",
+            "\\C[4](Peut-être que je devrais l'opposer à un autre \n témoignage...)"
         ]
     },
     "map107": {
