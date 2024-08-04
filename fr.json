@@ -409,11 +409,11 @@
         "itemdesc69": "Une bouteille pour transporter des liquides.",
         "itemdesc73": "Le portrait d'un homme de profil.",
         "itemdesc75": "Des outils qui servent à retirer des vis entre autres.",
-        "itemdesc79": "Une monnaie pas utilisable au Japon.",
+        "itemdesc79": "Une monnaie non utilisable au Japon.",
         "itemdesc81": "Une monnaie utilisable au Japon.\n1000 yens équivalent à un peu plus de 6 euros.",
         "itemdesc83": "Une jolie fléchette. Elle est très solide.",
-        "itemdesc85": "Une arme qui tire des balles. Peut-être chargé\\njusqu'à 9 balles dans sa chambre circulaire.",
-        "itemdesc89": "Peuvent être chargées dans un pistolet puis tirées.\\nExtrêmement létales.",
+        "itemdesc85": "Une arme à feu.\\nSa chambre cylindrique peut charger jusqu'à 9 balles.",
+        "itemdesc89": "Peuvent être chargées dans un pistolet puis tirées.\nExtrêmement létales.",
         "itemdesc91": "Un outil pour couper les cigares et les fumer.",
         "itemdesc93": "Un cigare dans un emballage de haute qualité.",
         "itemdesc95": "Un briquet Zippo chic.",
@@ -2934,23 +2934,23 @@
             "\\.\\sw[99]\"Regardez autour de vous...!\n Il y a \\C[2]quatre\\C[0] sièges vides.\"\\sw[100]",
             "\\.\\sw[99]\"L'un de vous sera le Concurrent, tandis que les\n quatre autres s’assiéront pour servir de cibles.\"\\sw[100]",
             "\\.\"Des cibles...? Des cibles de quoi ?!\"",
-            "\\.\\sw[99]\"Hé bien, je vous ai laissé une super arme\n dans cette salle, vous voyez de quoi je veux parler ?\"\\sw[100]",
+            "\\.\\sw[99]\"Hé bien, je vous ai laissé une super arme dans\n cette salle... Vous voyez où je veux en venir ?\"\\sw[100]",
             "\\.\"O... On va être les cibles d'un révolver ?!\"",
-            "\\.\"Et donc ? Quelles sont les règles ?\n On peut sûrement gagner sans aucun sacrifice.\"",
+            "\\.\"Et ? C'est quoi les règles ?\n Il doit bien y avoir un moyen de gagner sans faire\n de victimes.\"",
             "\\.\\sw[99]\"Ha ha ha ! Mais naturellement !\n Un piège mortel ça fait juste vieux, vous voyez\n ce que je veux dire ?\"\\sw[100]",
-            "\\.\\sw[99]\"Tout d'abord... Vous allez décider qui sera\n \\C[2]le Concurrent\\C[0].\"\\sw[100]",
-            "\\.\"Tu nous dit de décider qui devra tirer sans\n même savoir ce qu'est le jeu ?!\n Mais personne voudra être les cibles !\"",
+            "\\.\\sw[99]\"Tout d'abord... vous allez décider de qui sera\n \\C[2]le Concurrent\\C[0].\"\\sw[100]",
+            "\\.\"T'veux qu'on décide d'un tireur sans\n même savoir c'quoi le jeu ?!\n Mais personne voudra être les cibles !\"",
             "\\.\"..........\"",
             "\\.\"Le Concurrent, il sera en sécurité ou pas ?\"",
-            "\\.\\sw[99]\"Exact ! Il n'y aura des frissons que pour les cibles !\n Quel dommage !\"\\sw[100]",
-            "\\.\"...Je vois.\"",
-            "\\.\"Sara, tu voudrais bien être le Concurrent ?\"",
+            "\\.\\sw[99]\"Ouaip ! Seules les cibles pourront vivre ce frisson !\n Quel dommage !\"\\sw[100]",
+            "\\.\"... Je vois.\"",
+            "\\.\"Sara, j'peux te demander d'être le Concurrent ?\"",
             "\\.\"... Quoi ?!\"",
-            "\\.\"C... C'est une blague !\n T'peux pas décider ça tout seul, gamin !\"",
-            "\\.\"Ce ne serait pas très approprié de demander\n à une jeune fille de manier une arme...\"",
-            "\\.\"Ça ne me dérange pas.\n Sara est lucide.\"",
-            "\\.\"Alors, Sara ? T'es confiante ?\"",
-            "\\.\"Confiante...?\"",
+            "\\.\"C... C'une blague !\n T'peux pas décider d'ça tout seul, gamin !\"",
+            "\\.\"J'assume qu'il n'est pas très approprié de demander\n à une jeune fille de manier une arme...\"",
+            "\\.\"Ça me dérange pas.\n Sara a la tête sur les épaules.\"",
+            "\\.\"Alors, Sara ? T'as la confiance ?\"",
+            "\\.\"Confiance...?\"",
             "\\.\"...\"",
             "\\.\\C[4](Joe...)",
             "\\.\\C[4](Lors de cette épreuve, il a fait ce qu'il fallait...)",
@@ -2960,18 +2960,18 @@
             "\\.\\C[4](Joe...)",
             "\\.\\C[4](Durant l'Épreuve, j'ai compté sur lui et il a fait\n ce que je lui avais demandé...)",
             "\\.\\C[4](Et maintenant, il me sollicite...!)",
-            "\\.\\C[4](Je ne peux pas lui dire que je\n ne suis pas confiante !!)",
+            "\\.\\C[4](Je ne peux pas lui dire que je n'ai pas confiance\n en moi !!)",
             "\\.\"...\"",
-            "\\.\"...S'il vous plaît, laissez-moi faire.\"",
+            "\\.\"... Laissez-moi m'en charger, s'il vous plaît.\"",
             "\\.\"...\"",
             "\\.\"Pas moyen. J'ne l'accepte pas.\"",
             "\\.\"C'pas que j'te fais pas confiance...\n Ne l'prends pas mal.\"",
             "\\.\"...\"",
             "\\.\"... Il faudra s'en tenir à \\C[2]un vote\\C[0]...\"\\|",
-            "\\.\"C'est peut-être... le meilleur moyen de nous décider.\"",
-            "\\.\"Nous pourrions en débattre,\npuis procéder à un vote.\"",
+            "\\.\"Peut-être... qu'il s'agit du meilleur moyen de nous\n départager.\"",
+            "\\.\"Nous pourrions débattre, puis procéder à un vote.\"",
             "\\.\"Ouais... C'est sûrement la seule solution.\"",
-            "\\.\"D'accord...!\"",
+            "\\.\"Je suis d'accord...!\"",
             "\\.\"... Idem. On fait comme ça.\"",
             "\\.\"Dis-moi quand t'es prête.\n Je t'attends ici.\""
         ],
@@ -9845,7 +9845,8 @@
         "name": "Petite Clé"
     },
     "items-78": {
-        "name": "??? de la Cuisine"
+        "name": "??? de la Cuisine",
+        "description": "Une monnaie non utilisable au Japon."
     },
     "items-79": {
         "name": "??? de la Cuisine"
@@ -16597,22 +16598,26 @@
         "name": "Papier Déchiré"
     },
     "items-82": {
-        "name": "Fléchette"
+        "name": "Fléchette",
+        "description": "Une jolie fléchette. Elle est très solide."
     },
     "items-83": {
         "name": "Fléchette"
     },
     "items-86": {
-        "name": "Balles à blanc"
+        "name": "Balles à blanc",
+        "description": "Des balles à blanc. J'en ai 6.\nElles ne font qu'un bruit quand elles sont tirées."
     },
     "items-87": {
         "name": "Balles à blanc"
     },
     "items-90": {
-        "name": "Coupe-cigare"
+        "name": "Coupe-cigare",
+        "description": "Un outil pour couper les cigares et les fumer."
     },
     "items-94": {
-        "name": "Briquet"
+        "name": "Briquet",
+        "description": "Un briquet Zippo chic."
     },
     "items-67": {
         "name": "Deux Aiguilles"
@@ -16624,7 +16629,8 @@
         "name": "Coupe-cigare"
     },
     "items-92": {
-        "name": "Cigare"
+        "name": "Cigare",
+        "description": "Un cigare dans un emballage de haute qualité."
     },
     "items-93": {
         "name": "Cigare"
@@ -16822,5 +16828,19 @@
     },
     "items-63": {
         "name": "Ampoule"
+    },
+    "items-88": {
+        "name": "Balles Réelles",
+        "description": "Peuvent être chargées dans un pistolet puis tirées.\nExtrêmement létales."
+    },
+    "items-84": {
+        "name": "Révolver",
+        "description": "Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles."
+    },
+    "items-85": {
+        "name": "Révolver"
+    },
+    "items-89": {
+        "name": "Balles Réelles"
     }
 }
