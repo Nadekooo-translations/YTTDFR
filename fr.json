@@ -83,10 +83,10 @@
             "\\.\\C[4](Non... Elle est \\C[2]montée au premier étage\\C[4] ?!)"
         ],
         "7-1-message": [
-            "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles."
+            "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles."
         ],
         "53-1-message": [
-            "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"À utiliser comme vous le souhaitez.\"\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3].\""
+            ""
         ],
         "50-1-message": [
             "\\C[3]Une bouteille pour transporter des liquides."
@@ -148,7 +148,7 @@
     },
     "map33": {
         "29-1-message": [
-            "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"À utiliser comme vous le souhaitez.\"\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3].\""
+            ""
         ],
         "4-1-message": [
             "\\C[3]Un briquet Zippo chic."
@@ -179,7 +179,7 @@
             "\\.\\C[3]Avec ça, Sou partit à la poursuite de Kanna."
         ],
         "5-1-message": [
-            "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles."
+            "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles."
         ],
         "2-1-message": [
             "\\C[4](Bon... Sou m'a dit de venir ici, mais...)",
@@ -408,12 +408,12 @@
         "itemdesc67": "Une longue et une petite aiguille.\\nPas suffisamment pointues pour pouvoir\\npercer quoi que ce soit.",
         "itemdesc69": "Une bouteille pour transporter des liquides.",
         "itemdesc73": "Le portrait d'un homme de profil.",
-        "itemdesc75": "Des outils qui servent à retirer des vis entre autres.",
+        "itemdesc75": "Des outils pour retirer des vis, entre autres.",
         "itemdesc79": "Une monnaie non utilisable au Japon.",
         "itemdesc81": "Une monnaie utilisable au Japon.\n1000 yens équivalent à un peu plus de 6 euros.",
         "itemdesc83": "Une jolie fléchette. Elle est très solide.",
-        "itemdesc85": "Une arme à feu.\\nSa chambre cylindrique peut charger jusqu'à 9 balles.",
-        "itemdesc89": "Peuvent être chargées dans un pistolet puis tirées.\nExtrêmement létales.",
+        "itemdesc85": "Une arme à feu. Sa chambre cylindrique\\npeut charger jusqu'à 9 balles.",
+        "itemdesc89": "Peuvent être chargées dans un pistolet\\npuis tirées. Extrêmement létales.",
         "itemdesc91": "Un outil pour couper les cigares et les fumer.",
         "itemdesc93": "Un cigare dans un emballage de haute qualité.",
         "itemdesc95": "Un briquet Zippo chic.",
@@ -429,7 +429,7 @@
         "itemdesc61": "Un vaporisateur.\\nDes gouttelettes d'eau y sont collées.",
         "itemdesc71": "Une carte qui indique :\\n\"Il s'agit d'une clé vers la sortie.\"\\nJe mourrai si quelqu'un apprend qu'elle existe.",
         "itemdesc77": "Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\".",
-        "itemdesc87": "Des balles à blanc. J'en ai 6.\\nElles ne font qu'un bruit quand elles sont tirées.",
+        "itemdesc87": "Des balles à blanc. J'en ai 6.\\nElles ne font qu'un bruit quand\\nelles sont tirées.",
         "dtext_発言力：": "Influence : ",
         "name_サラ（モニター）": "Sara (Écran)",
         "firsttrialcode": "1620",
@@ -598,7 +598,7 @@
             "\\C[10]Il y a quelqu'un... \\|\\.\\.\\^",
             "\"Quess' tu fais, Sara ?\"",
             "\\.\"Joe...!\"",
-            "\\C[2]Jou Tazuna\\C[0], plus connu sous le nom de \\C[2]Joe\\C[0].\nMon camarade de classe au lycée.\nOn s'est souvent retrouvés ensemble en cours.",
+            "\\C[2]Jou Tazuna\\C[0], plus connu sous le nom de \\C[2]Joe\\C[0].\nMon camarade de classe au lycée.\nOn traîne souvent ensemble.",
             "\"T'es restée aussi tard juste pour les clubs ?!\n Je commençais à me dessécher à force d'attendre !\"",
             "\"Bon, t'inquiète pas pour ça ! Écoute un peu !\n J'ai un truc à t'raconter !\"",
             "\\.\"Un truc à me raconter ?\"",
@@ -1794,10 +1794,10 @@
             "\\C[3]Des vraies balles. J'en ai 3.\nPeuvent être chargées dans un pistolet puis tirées.\nExtrêmement létales."
         ],
         "27-1-message": [
-            "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles.\nÀ quoi peut bien servir le trou en son centre...?",
+            "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles.\nÀ quoi peut bien servir le trou en son centre...?",
             "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet.",
             "La Fléchette est insérée dans le trou\nau centre du Révolver.",
-            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Revolver\\C[3] !",
+            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Révolver\\C[3] !",
             "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
         "28-1-message": [
@@ -1961,10 +1961,10 @@
             "\\C[3]Un briquet Zippo chic."
         ],
         "6-1-message": [
-            "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles."
+            "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles."
         ],
         "51-1-message": [
-            "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"À utiliser comme vous le souhaitez.\"\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3].\""
+            ""
         ],
         "27-1-message": [
             "\\C[3]Une bouteille pour transporter des liquides."
@@ -2018,7 +2018,7 @@
     },
     "map16": {
         "2-1-message": [
-            "\\C[3]Nao et Reko s'occupent de Kanna,\n toujours inconsciente.",
+            "\\C[3]Nao et Reko s'occupent de Kanna,\ntoujours inconsciente.",
             "\"Sara, ramène-toi ici si t'es en danger, okay ?\n Hésite pas à laisser le plus difficile aux mecs.\"",
             "\\.\"Bon après, le gars frêle au bonnet a pas l'air bien\n robuste non plus... Tu devrais aussi t'enfuir\n avec elle si ça arrive, petit.\"",
             "\"Qu... Quelle remarque blessante... Ahaha.\"",
@@ -2037,10 +2037,10 @@
             "\\C[3]Cette pièce a de nombreux chemins."
         ],
         "12-1-message": [
-            "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles.\nÀ quoi peut bien servir le trou en son centre... ?",
+            "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles.\nÀ quoi peut bien servir le trou en son centre...?",
             "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet.",
-            "La Fléchette a été insérée dans le trou\nau centre du Revolver.",
-            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Revolver\\C[3] !",
+            "La Fléchette a été insérée dans le trou\nau centre du Révolver.",
+            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Révolver\\C[3] !",
             "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
         "12-1-choice": [
@@ -2070,8 +2070,8 @@
         "19-1-message": [
             "\\C[3]Une jolie fléchette.\nElle est très solide.",
             "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet.",
-            "La Fléchette a été insérée dans le trou\nau centre du Revolver.",
-            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Revolver\\C[3] !",
+            "La Fléchette a été insérée dans le trou\nau centre du Révolver.",
+            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Révolver\\C[3] !",
             "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
         "19-1-choice": [
@@ -2080,8 +2080,8 @@
     },
     "map18": {
         "2-1-message": [
-            "\"Ici se trouve... un bar.\"",
-            "\\.\"Il y a beaucoup d'alcool, par ici...\n Tu es mineure, Sara, tu ne devrais pas boire.\"",
+            "\"On dirait qu'ici c'est... un bar.\"",
+            "\\.\"Il y a beaucoup d'alcool, par là...\n Tu es mineure, Sara, tu ne devrais pas boire.\"",
             "\\.\"Tu ferais mieux de ne pas boire dans cette\n situation non plus, Sou.\"",
             "\\.\"Au contraire, certains pourraient dire\n qu'il n'y a pas meilleur moment pour s'y mettre.\""
         ],
@@ -2188,8 +2188,8 @@
         "5-1-message": [
             "\\C[3]Une jolie fléchette.\nElle est très solide.",
             "\\.\\C[3]Devrait pouvoir être combinée avec un autre objet.",
-            "La Fléchette a été insérée dans le trou\nau centre du Revolver.",
-            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Revolver\\C[3] !",
+            "La Fléchette a été insérée dans le trou\nau centre du Révolver.",
+            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Révolver\\C[3] !",
             "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
         "5-1-choice": [
@@ -2205,10 +2205,10 @@
             "\\C[3]Un briquet Zippo chic."
         ],
         "9-1-message": [
-            "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles.\nÀ quoi peut bien servir le trou en son centre...?",
+            "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles.\nÀ quoi peut bien servir le trou en son centre...?",
             "\\.\\C[3]Devrait pouvoir être combinée avec un autre objet.",
-            "La Fléchette a été insérée dans le trou\nau centre du Revolver.",
-            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Revolver\\C[3] !",
+            "La Fléchette a été insérée dans le trou\nau centre du Révolver.",
+            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Révolver\\C[3] !",
             "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
         "10-1-message": [
@@ -2225,7 +2225,7 @@
             "\\.\\C[3][Peuvent boire]\nAlice, Kai, Kazumi, Keiji, Shunsuke,\nSou, Naomichi, Mai, Megumi, Reko, Q-taro",
             "\\.\\C[3][Ne peuvent pas boire]\nAnzu, Kanna, Gin, Kugie, Sara, Joe,\nNao, Hinako, Ranmaru",
             "\\.\\C[4](Nos noms...! Et ceux d'autres personnes !)",
-            "\\.\\C[4](Ne me dites pas que...\n Les personnes que l'on ne connaît pas sont...)"
+            "\\.\\C[4](Ne me dites pas que... les personnes que\n l'on n'a pas rencontrées sont...)"
         ],
         "13-2-message": [
             "\\C[3]Il y a des noms inscrits sur le tableau.",
@@ -2248,7 +2248,7 @@
             "\\.\"Essayons de l'ouvrir.\"",
             "\\.\"... Hiyah !\"",
             "\\.\"... Hmrgh !\"",
-            "\\.\"... Elle veut pas s'ouvrir...!\n ... Gah !\"",
+            "\\.\"... Elle ne veut pas s'ouvrir...!\n ... Gah !\"",
             "\\.\"... Huf... Hah... Urgh... Je suis trop faible...\n Je doute vraiment que je réussisse à l'ouvrir...\""
         ],
         "65-2-choice": [
@@ -2296,8 +2296,8 @@
         "4-1-message": [
             "\\C[3]Une jolie fléchette.\nElle est très solide.",
             "\\.\\C[3]Devrait pouvoir être combinée avec un autre objet.",
-            "La Fléchette a été insérée dans le trou\nau centre du Revolver.",
-            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Revolver\\C[3] !",
+            "La Fléchette a été insérée dans le trou\nau centre du Révolver.",
+            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Révolver\\C[3] !",
             "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
         "5-1-message": [
@@ -2307,10 +2307,10 @@
             "\\C[3]Un cigare dans un emballage de haute qualité."
         ],
         "8-1-message": [
-            "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles.\nÀ quoi peut bien servir le trou en son centre...?",
+            "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles.\nÀ quoi peut bien servir le trou en son centre...?",
             "\\.\\C[3]Devrait pouvoir être combinée avec un autre objet.",
-            "La Fléchette a été insérée dans le trou\nau centre du Revolver.",
-            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Revolver\\C[3] !",
+            "La Fléchette a été insérée dans le trou\nau centre du Révolver.",
+            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Révolver\\C[3] !",
             "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
         "9-1-message": [
@@ -2325,14 +2325,14 @@
         "12-1-message": [
             "\\C[3]Un distributeur aux prix élevés.",
             "\"L'eau et les sodas coûtent 1000 yens ?!\n Ouah ! Je me demande le goût que ça a !\"",
-            "\"De l'eau et des sodas... Les deux coûtent 1000 yens.\n Ça, c'est du gonflement de prix.\"",
+            "\"De l'eau et des sodas... Les deux coûtent 1000 yens.\n Ça, c'est du gonflement des prix.\"",
             "\\.\\C[4](Devrais-je insérer le billet de 1000 yens ?)",
             "\\C[10]Bras Gauche\\C[3] obtenu.",
             "\"Ouah...!\"",
             "\"... ! C'est un bras de poupée, ça ? !\"",
             "\\.\"Il est beaucoup trop réaliste...\n J'aimerais bien qu'ils arrêtent de faire ça...\"",
             "\\.\"Oh, laisse-moi le porter, Sara.\n Sois reconnaissante !\"",
-            "\"De l'eau et des sodas... Les deux coûtent 1000 yens.\n Ça, c'est du gonflement de prix.\""
+            "\"De l'eau et des sodas... Les deux coûtent 1000 yens.\n Ça, c'est du gonflement des prix.\""
         ],
         "12-1-choice": [
             "Oui\nNon"
@@ -2385,8 +2385,8 @@
         "8-1-message": [
             "\\C[3]Une jolie fléchette.\nElle est très solide.",
             "\\.\\C[3]Devrait pouvoir être combinée avec un autre objet.",
-            "La Fléchette a été insérée dans le trou\nau centre du Revolver.",
-            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Revolver\\C[3] !",
+            "La Fléchette a été insérée dans le trou\nau centre du Révolver.",
+            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Révolver\\C[3] !",
             "\\.\\C[4](On peut toujours essayer...\n Peut-être que maintenant je peux tirer la\n fléchette avec le pistolet...?)"
         ],
         "9-1-message": [
@@ -2399,10 +2399,10 @@
             "\\C[3]Des vraies balles. J'en ai 3.\nPeuvent être chargées dans un pistolet puis tirées.\nExtrêmement létales."
         ],
         "12-1-message": [
-            "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles.\nÀ quoi peut bien servir le trou en son centre...?",
+            "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles.\nÀ quoi peut bien servir le trou en son centre...?",
             "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet.",
-            "La Fléchette a été insérée dans le trou\nau centre du Revolver.",
-            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Revolver\\C[3] !",
+            "La Fléchette a été insérée dans le trou\nau centre du Révolver.",
+            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Révolver\\C[3] !",
             "\\.\\C[4](On peut toujours essayer...\n Peut-être que maintenant je peux tirer la\n fléchette avec le pistolet...?)"
         ],
         "13-1-message": [
@@ -2449,15 +2449,15 @@
         "4-1-message": [
             "\\C[3]Une jolie fléchette.\nElle est très solide.",
             "\\.\\C[3]Devrait pouvoir être combinée avec un autre objet.",
-            "La Fléchette a été insérée dans le trou\nau centre du Revolver.",
-            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Revolver\\C[3] !",
+            "La Fléchette a été insérée dans le trou\nau centre du Révolver.",
+            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Révolver\\C[3] !",
             "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
         "8-1-message": [
-            "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles.\nÀ quoi peut bien servir le trou en son centre...?",
+            "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles.\nÀ quoi peut bien servir le trou en son centre...?",
             "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet.",
-            "La Fléchette a été insérée dans le trou\nau centre du Revolver.",
-            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Revolver\\C[3] !",
+            "La Fléchette a été insérée dans le trou\nau centre du Révolver.",
+            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Révolver\\C[3] !",
             "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
         "10-1-message": [
@@ -2480,7 +2480,7 @@
             "\"Ouah ! Elle n'est pas fermée à clé...\"",
             "\\.\"Q-Que devrions-nous faire, Sara... ?\n ... On rentre ?\"",
             "\"Ahh, ouf...\"",
-            "\"C'est parti...!\""
+            "\"Aller...!\""
         ],
         "3-2-message": [
             "\"Cette porte me donne un mauvais pressentiment...\"",
@@ -2517,18 +2517,18 @@
         "5-1-message": [
             "\\C[3]Une jolie fléchette.\nElle est très solide.",
             "\\.\\C[3]Devrait pouvoir être combinée avec un autre objet.",
-            "La Fléchette a été insérée dans le trou\nau centre du Revolver.",
-            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Revolver\\C[3] !",
+            "La Fléchette a été insérée dans le trou\nau centre du Révolver.",
+            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Révolver\\C[3] !",
             "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
         "10-1-message": [
             "\\C[3]Des balles à blanc. J'en ai 6.\nElles ne font qu'un bruit quand elles sont tirées."
         ],
         "9-1-message": [
-            "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles.\nÀ quoi peut bien servir le trou en son centre...?",
+            "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles.\nÀ quoi peut bien servir le trou en son centre...?",
             "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet.",
-            "La Fléchette a été insérée dans le trou\nau centre du Revolver.",
-            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Revolver\\C[3] !",
+            "La Fléchette a été insérée dans le trou\nau centre du Révolver.",
+            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Révolver\\C[3] !",
             "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
         "11-1-message": [
@@ -2574,15 +2574,15 @@
             "\\.\\C[4](Je sais... ! Je peux utiliser le révolver pour\n tirer la fléchette sur la cible !)",
             "\\.\"...!\"",
             "\"Félicitations ! Félicitations !\n En plein dans le mille !\"\\|\\|",
-            "\\.\"Pour avoir tiré au centre de la cible,\n vous obtenez un merveilleux cadeau !\"",
-            "\\.\"Nous vous prions de bien vouloir\n regarder dans le trou !\"",
-            "\\.\\C[3]En regardant prudemment dans\nla crevasse autour de la cible...",
+            "\\.\"Pour avoir tiré en plein dans le mille,\n vous obtenez un merveilleux cadeau !\"",
+            "\\.\"Nous vous prions de bien vouloir\n regarder dans la crevasse !\"",
+            "\\.\\C[3]En examinant prudemment dans\nle ravin autour de la cible...",
             "\\.\\C[3]Je vis quelque chose à portée de main.",
             "\\.\\C[10]Jambe Gauche\\C[3] obtenue.",
             "\\.\"Argh... C'est atroce...!\"",
             "\\.\"... Hm ?\"",
             "\\.\"Oh... En regardant d'un peu plus près...\n Ce n'est qu'une jambe de poupée.\"",
-            "\\.\"Comme c'est méchant de nous faire le même\n tour en boucle... Je vais la porter.\"",
+            "\\.\"C'est tellement méchant de nous faire le même\n tour en boucle... Je vais la porter.\"",
             "\"Yaah ! ! C'est r...\\! C'est rien !\n J'ai pas peur du tout !\"",
             "\\.\"Agh... Toutes ces mises en scènes sont\n incompréhensibles. C'est juste une fausse, hein ?\"",
             "\\.\"Je vais la porter. Elle est lourde, hein ?\""
@@ -2591,7 +2591,7 @@
             "\\C[3]La mystérieuse cible demeure\n suspicieusement immobile."
         ],
         "4-1-message": [
-            "\"Qu'est-ce que c'est, la chose qu'il y a\n au-dessus de la cible ?\"",
+            "\"C'est quoi, ce qu'il y a au-dessus de la cible ?\"",
             "\\.\"Une brise semble passer...\""
         ],
         "4-2-message": [
@@ -2640,18 +2640,18 @@
         "1-1-message": [
             "\\C[3]Une jolie fléchette.\nElle est très solide.",
             "\\.\\C[3]Devrait pouvoir être combinée avec un autre objet.",
-            "La Fléchette est insérée dans le trou\nau centre du Revolver.",
-            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Revolver\\C[3] !",
+            "La Fléchette est insérée dans le trou\nau centre du Révolver.",
+            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Révolver\\C[3] !",
             "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
         "8-1-message": [
             "\\C[3]Des vraies balles. J'en ai 3.\nPeuvent être chargées dans un pistolet puis tirées.\nExtrêmement létales."
         ],
         "6-1-message": [
-            "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles.\nÀ quoi peut bien servir le trou en son centre...?",
+            "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles.\nÀ quoi peut bien servir le trou en son centre...?",
             "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet.",
-            "La Fléchette est insérée dans le trou\nau centre du Revolver.",
-            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Revolver\\C[3] !",
+            "La Fléchette est insérée dans le trou\nau centre du Révolver.",
+            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Révolver\\C[3] !",
             "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
         "7-1-message": [
@@ -2681,10 +2681,10 @@
             "\\C[3]Un cigare dans un emballage de haute qualité."
         ],
         "7-1-message": [
-            "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles.\nÀ quoi peut bien servir le trou en son centre...?",
+            "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles.\nÀ quoi peut bien servir le trou en son centre...?",
             "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet.",
-            "La Fléchette a été insérée dans le trou\nau centre du Revolver.",
-            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Revolver\\C[3] !",
+            "La Fléchette a été insérée dans le trou\nau centre du Révolver.",
+            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Révolver\\C[3] !",
             "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
         "9-1-message": [
@@ -2693,8 +2693,8 @@
         "3-1-message": [
             "\\C[3]Une jolie fléchette.\nElle est très solide.",
             "\\.\\C[3]Devrait pouvoir être combinée avec un autre objet.",
-            "La Fléchette est insérée dans le trou\nau centre du Revolver.",
-            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Revolver\\C[3] !",
+            "La Fléchette est insérée dans le trou\nau centre du Révolver.",
+            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Révolver\\C[3] !",
             "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
         "10-1-message": [
@@ -2702,7 +2702,7 @@
         ],
         "1-1-message": [
             "\"Il y a un distributeur rouge de ce côté.\"",
-            "\\.\"Il ne vend que des cigarettes. J'imagine qu'au fond,\n il s'agit d'un espace pour fumeurs...\"",
+            "\\.\"Il ne vend que des cigarettes.\n Je crois qu'au fond, il s'agit d'un espace fumeur...\"",
             "\\.\"Tu ne devrais pas en acheter si tu es mineure.\n Je ne voudrais pas que tu deviennes une délinquante.\"",
             "\\.\\C[4](Tous les délinquants ne fument pas, mais bon...)"
         ],
@@ -2830,7 +2830,7 @@
             "\"Il a la classe pour un cigare, hein ?\""
         ],
         "38-1-message": [
-            "\\C[3]La salle du fond semble être un espace pour les fumeurs."
+            "\\C[3]La salle du fond semble être une zone fumeur."
         ],
         "54-1-message": [
             "\\C[3]Une pancarte avec \"GAME\" inscrit dessus."
@@ -2859,10 +2859,10 @@
             "\\C[3]Un cigare dans un emballage de haute qualité."
         ],
         "15-1-message": [
-            "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles.\nÀ quoi peut bien servir le trou en son centre...?",
+            "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles.\nÀ quoi peut bien servir le trou en son centre...?",
             "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet.",
-            "La Fléchette a été insérée dans le trou\nau centre du Revolver.",
-            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Revolver\\C[3] !",
+            "La Fléchette a été insérée dans le trou\nau centre du Révolver.",
+            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Révolver\\C[3] !",
             "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
         "17-1-message": [
@@ -2871,8 +2871,8 @@
         "11-1-message": [
             "\\C[3]Une jolie fléchette.\nElle est très solide.",
             "\\.\\C[3]Devrait pouvoir être combinée avec un autre objet.",
-            "La Fléchette est insérée dans le trou\nau centre du Revolver.",
-            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Revolver\\C[3] !",
+            "La Fléchette est insérée dans le trou\nau centre du Révolver.",
+            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Révolver\\C[3] !",
             "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
         "18-1-message": [
@@ -2895,7 +2895,7 @@
             "\\.\\C[4](Je me demande pourquoi...?)",
             "\\.\"Je m'attendais pas à ce que tu répondes à un\n compliment avec un regard aussi plein de soupçon.\"",
             "\\.\"Ah oui, Keiji.\n J'ai trouvé ces balles à blanc dans la cafétéria.\"",
-            "\\.\"... Qu'est-ce que c'est ?\"",
+            "\\.\"... Quoi ?\"",
             "\\.\\C[3]Balles à blanc remises à Keiji.",
             "\\.\"Est-ce qu'elles seraient un indice ?\"",
             "\\.\"... Je vais les regarder de plus près.\"",
@@ -3005,7 +3005,7 @@
             "\\.\\C[4](Hein...?)",
             "\\.\\C[3]En regardant de plus près, il y a quelque chose\nentre la figure et le fauteuil.",
             "\\.\\C[4](C'est... un \\C[2]pistolet\\C[4] ?)",
-            "\\.\\C[3]Revolver obtenu.",
+            "\\.\\C[3]Révolver obtenu.",
             "\\.\"... T'as l'intention de faire quoi avec ça ?\"",
             "\\.\"Hein...?\"",
             "\\.\"...\"",
@@ -3036,7 +3036,7 @@
             "\\.\"Tu trouves qu'elle a quelque chose de louche ?\"",
             "\\.\"Ouais...\"",
             "\\.\"Essaie de la décrocher du mur pour voir.\"",
-            "\\.\"J'pense que j'vais d'abord m'occuper des\n trucs simples, genre ces chaises.\"",
+            "\\.\"J'pense que j'vais d'abord m'occuper des\n trucs simples, genre ces fauteuils.\"",
             "\\.\"Mais dis-moi, Sara, c'est que t'es trop\n petite pour l'atteindre, hein ?\"",
             "\\.\"Hé, j'ai pris un centimètre l'année dernière.\n Ne me prends pas à la légère !\"",
             "\\.\"M... Meuf, me rabaisse pas...\"",
@@ -3075,7 +3075,7 @@
         ],
         "3-2-message": [
             "\"Euhh... Sou, c'est ça ?\"",
-            "\"Ahaha, heureux que tu te sois rappelé de mon nom.\"",
+            "\"Ahaha, je suis content que tu te souviennes de mon nom.\"",
             "\\.\"T'inquiète, mec !\n Garde un œil sur Sara pour moi !\"",
             "\\.\"... Ahaha. Je pense que je devrais plutôt\n m'inquiéter de ne pas la ralentir.\""
         ],
@@ -3089,7 +3089,7 @@
             "\\.\"Eum...\"",
             "\\.\\C[3]Vous obtenez 3 balles.",
             "\\.\"Attends, ce sont...\"",
-            "\\.\"Non, ce ne sont pas les miennes.\n Je les ai trouvés en examinant les sièges.\"",
+            "\\.\"Non, ce ne sont pas les miennes.\n Je les ai trouvées en examinant les sièges.\"",
             "\\.\"Je... n'en avais jamais vu de mes propres yeux.\n Ce sont des vraies ?\"",
             "\\.\"Sûrement. Elles sont dangereuses.\n Tu pourrais les prendre ?\"",
             "\\.\"Pourquoi moi...?\"",
@@ -3143,17 +3143,17 @@
             "\\C[3]Un cigare dans un emballage de haute qualité."
         ],
         "12-1-message": [
-            "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles.\nÀ quoi peut bien servir le trou en son centre...?",
+            "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles.\nÀ quoi peut bien servir le trou en son centre...?",
             "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet.",
-            "La Fléchette a été insérée dans le trou\nau centre du Revolver.",
-            "\\C[3]\\C[2]Fléchette\\C[3] combinée avec le \\C[2]Revolver\\C[3] !",
+            "La Fléchette a été insérée dans le trou\nau centre du Révolver.",
+            "\\C[3]\\C[2]Fléchette\\C[3] combinée avec le \\C[2]Révolver\\C[3] !",
             "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
         "19-1-message": [
             "\\C[3]Une jolie fléchette.\nElle est très solide.",
             "\\.\\C[3]Devrait pouvoir être combinée avec un autre objet.",
             "La Fléchette est insérée dans le trou\nau centre du Révolver.",
-            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Revolver\\C[3] !",
+            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Révolver\\C[3] !",
             "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
         "13-1-message": [
@@ -3340,7 +3340,7 @@
             "\\.\"...\""
         ],
         "3-1-message": [
-            "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles."
+            "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles."
         ],
         "31-1-message": [
             "\\C[3]Une bouteille pour transporter des liquides."
@@ -3387,7 +3387,7 @@
             "\\C[3]Un briquet Zippo chic."
         ],
         "20-3-message": [
-            "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles."
+            "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles."
         ],
         "16-5-message": [
             "\\C[3]Une bouteille pour transporter des liquides."
@@ -3446,10 +3446,10 @@
             "\\C[3]Des balles à blanc. J'en ai 6.\nElles ne font qu'un bruit quand elles sont tirées."
         ],
         "9-1-message": [
-            "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles.\nÀ quoi peut bien servir le trou en son centre...?",
+            "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles.\nÀ quoi peut bien servir le trou en son centre...?",
             "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet.",
-            "La Fléchette est insérée dans le trou\nau centre du Revolver.",
-            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Revolver\\C[3] !",
+            "La Fléchette est insérée dans le trou\nau centre du Révolver.",
+            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Révolver\\C[3] !",
             "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
         "11-1-message": [
@@ -3458,8 +3458,8 @@
         "5-1-message": [
             "\\C[3]Une jolie fléchette.\nElle est très solide.",
             "\\.\\C[3]Devrait pouvoir être combinée avec un autre objet.",
-            "La Fléchette a été insérée dans le trou\nau centre du Revolver.",
-            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Revolver\\C[3] !",
+            "La Fléchette a été insérée dans le trou\nau centre du Révolver.",
+            "\\C[3]La \\C[2]Fléchette\\C[3] a été combinée avec le \\C[2]Révolver\\C[3] !",
             "\\.\\C[4](On peut toujours essayer...\n Peut-être que je peux tirer la fléchette\n avec le pistolet, maintenant...?)"
         ],
         "12-1-message": [
@@ -3476,7 +3476,7 @@
             "\\.\"Trouver le \\C[2]corps\\C[0]... !\n C'est vrai, il y avait une note là-dedans.\"",
             "\"Ton imagination est incroyablement,\n sauvagement tordue.\"",
             "\\.\"Sauvagement tordue...?\"",
-            "\\.\"P-Plus important... Tu ne penses pas qu'il\n est lié à la tête qu'on a trouvée dans la boîte ?\"",
+            "\\.\"P-Plus important... Tu ne penses pas qu'il a un lien\n avec la tête qu'on a trouvée dans la boîte ?\"",
             "\\.\"Trouver le \\C[2]corps\\C[0]...\n Tu te souviens de la note ?\"",
             "\\.\"Je me demande si la tête de la boîte\n peut être combinée avec ce torse...\"",
             "\\.\"Tu penses que ça fera quelque chose ?\"",
@@ -3488,10 +3488,10 @@
             "\\.\\C[3]Balles obtenues.",
             "\\.\\C[4](Elles sont plutôt légères...)",
             "\"Hé... Laisse-moi y jeter un coup d'œil.\"",
-            "\\.\"... Ahh, je vois.\n Ce sont des fausses.\"",
-            "\\.\"Des fausses ?\"",
+            "\\.\"... Ahh, je vois.\n Ce sont des balles à blanc.\"",
+            "\\.\"À blanc ?\"",
             "\\.\"Tu sais, comme des jouets.\n Quand on les tire avec un pistolet,\n elles ne font qu'un bruit.\"",
-            "\\.\"Alors ce ne sont pas des vraies.\"",
+            "\\.\"Donc ce ne sont pas des vraies.\"",
             "\\.\"C'est ça. Elles sont inoffensives.\"",
             "\\.\"J'ai une idée. Demandons à Keiji de les examiner.\n Il devrait plus s'y connaître que nous, donc\n peut-être qu'il trouvera quelque chose.\"",
             "\\.\\C[4](J'espère qu'elles pourront nous donner\n un indice sur les kidnappeurs...)"
@@ -3558,7 +3558,7 @@
             "\\C[3]Un briquet Zippo chic."
         ],
         "9-1-message": [
-            "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles.\nÀ quoi peut bien servir le trou en son centre...?",
+            "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles.\nÀ quoi peut bien servir le trou en son centre...?",
             "\\.\\C[3]Devrait pouvoir être combiné avec un autre objet.",
             "Fléchette enfoncée dans le grand trou\nau centre du Révolver.",
             "\\C[3]La \\C[2]Fléchette\\C[3] et le \\C[2]Révolver\\C[3] ont été combinés !",
@@ -3904,7 +3904,7 @@
             "\\C[3]Une carte portant l'inscription \"Maître des Clés\".\nElle indique : \"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe."
         ],
         "7-1-message": [
-            "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles."
+            "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles."
         ],
         "16-1-message": [
             "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
@@ -4026,10 +4026,10 @@
             "\\C[3]Un distributeur aux prix élevés."
         ],
         "5-1-message": [
-            "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles."
+            "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles."
         ],
         "48-1-message": [
-            "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"À utiliser comme vous le souhaitez.\"\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3].\""
+            ""
         ],
         "16-1-message": [
             "\\C[3]Une poupée qui me ressemble remarquablement."
@@ -4175,10 +4175,10 @@
             "\\.\"...\""
         ],
         "6-1-message": [
-            "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles."
+            "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles."
         ],
         "75-1-message": [
-            "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"À utiliser comme vous le souhaitez.\"\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3].\""
+            ""
         ],
         "45-1-message": [
             "\\C[3]Une bouteille pour transporter des liquides."
@@ -4225,16 +4225,16 @@
             "\\C[3]Un briquet Zippo chic."
         ],
         "4-1-message": [
-            "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles."
+            "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles."
         ],
         "15-1-message": [
             "\\C[3]Le distributeur est rempli de cigarettes."
         ],
         "42-1-message": [
-            "\\C[3]La salle du fond semble être un espace pour les fumeurs."
+            "\\C[3]La salle du fond semble être un espace fumeur."
         ],
         "57-1-message": [
-            "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"À utiliser comme vous le souhaitez.\"\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3].\""
+            ""
         ],
         "12-1-message": [
             "\\C[3]Une bouteille pour transporter des liquides."
@@ -4290,10 +4290,10 @@
             "\\C[3]La porte rouge est fermement verrouillée."
         ],
         "7-1-message": [
-            "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles."
+            "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles."
         ],
         "68-1-message": [
-            "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"À utiliser comme vous le souhaitez.\"\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3].\""
+            ""
         ],
         "16-1-message": [
             "\\C[3]Une bouteille pour transporter des liquides."
@@ -4373,10 +4373,10 @@
             "\\.\"...\""
         ],
         "6-1-message": [
-            "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles."
+            "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles."
         ],
         "49-1-message": [
-            "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"À utiliser comme vous le souhaitez.\"\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3].\""
+            ""
         ],
         "18-1-message": [
             "\\C[3]Une bouteille pour transporter des liquides."
@@ -4432,10 +4432,10 @@
             "\\.\"...\""
         ],
         "19-3-message": [
-            "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles."
+            "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles."
         ],
         "76-1-message": [
-            "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"À utiliser comme vous le souhaitez.\"\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3].\""
+            ""
         ],
         "20-5-message": [
             "\\C[3]Une bouteille pour transporter des liquides."
@@ -4587,7 +4587,7 @@
             "\\.\"...\""
         ],
         "4-1-message": [
-            "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles."
+            "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles."
         ],
         "31-1-message": [
             "\\C[3]Une bouteille pour transporter des liquides."
@@ -4641,7 +4641,7 @@
             "\\.\\}\\C[5]\"j'suis pas un pingouin...\""
         ],
         "3-1-message": [
-            "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles."
+            "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles."
         ],
         "40-1-message": [
             "\\C[3]Une bouteille pour transporter des liquides."
@@ -4692,7 +4692,7 @@
             "\\.\\}\\C[5]\"j'suis pas un pingouin...\""
         ],
         "4-1-message": [
-            "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles."
+            "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles."
         ],
         "38-1-message": [
             "\\C[3]Une bouteille pour transporter des liquides."
@@ -4781,7 +4781,7 @@
             "\\.\"...\""
         ],
         "8-1-message": [
-            "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles."
+            "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles."
         ],
         "24-1-message": [
             "\\C[3]Une bouteille pour transporter des liquides."
@@ -4845,10 +4845,10 @@
             "\\.\"...\""
         ],
         "4-1-message": [
-            "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles."
+            "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles."
         ],
         "28-1-message": [
-            "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"À utiliser comme vous le souhaitez.\"\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3].\""
+            ""
         ],
         "15-1-message": [
             "\\C[3]Une bouteille pour transporter des liquides."
@@ -4905,7 +4905,7 @@
             "\\.\"...\""
         ],
         "29-1-message": [
-            "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles."
+            "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles."
         ],
         "51-1-message": [
             "\\C[3]Une bouteille pour transporter des liquides."
@@ -4952,7 +4952,7 @@
             "\\C[3]Un briquet Zippo chic."
         ],
         "5-1-message": [
-            "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles."
+            "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles."
         ],
         "14-3-message": [
             "\\C[3]Une bouteille pour transporter des liquides."
@@ -10341,7 +10341,7 @@
             "\\.\"...\""
         ],
         "1-1-message": [
-            "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles."
+            "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles."
         ],
         "6-1-message": [
             "\\C[3]Une bouteille pour transporter des liquides."
@@ -10370,7 +10370,7 @@
             "\\.\"...\""
         ],
         "5-1-message": [
-            "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles."
+            "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles."
         ],
         "3-1-message": [
             "\\C[3]Une bouteille pour transporter des liquides."
@@ -11713,7 +11713,7 @@
             "\\.\"...\""
         ],
         "3-1-message": [
-            "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles."
+            "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles."
         ],
         "6-1-message": [
             "\\C[3]Une bouteille pour transporter des liquides."
@@ -16564,7 +16564,8 @@
         "name": "Peinture Gauche"
     },
     "items-58": {
-        "name": "Peinture Droite"
+        "name": "Peinture Droite",
+        "description": "Le portrait d'une personne tenant un pistolet.\nIl y a un autre portrait derrière."
     },
     "items-59": {
         "name": "Peinture Droite"
@@ -16585,7 +16586,8 @@
         "description": "Le portrait d'un homme de profil."
     },
     "items-74": {
-        "name": "Outils"
+        "name": "Outils",
+        "description": "Des outils pour retirer des vis, entre autres."
     },
     "items-75": {
         "name": "Outils"
@@ -16606,7 +16608,7 @@
     },
     "items-86": {
         "name": "Balles à blanc",
-        "description": "Des balles à blanc. J'en ai 6.\nElles ne font qu'un bruit quand elles sont tirées."
+        "description": "Des balles à blanc. J'en ai 6.\nElles ne font qu'un bruit quand elles\nsont tirées."
     },
     "items-87": {
         "name": "Balles à blanc"
@@ -16623,7 +16625,8 @@
         "name": "Deux Aiguilles"
     },
     "items-56": {
-        "name": "Peinture Gauche"
+        "name": "Peinture Gauche",
+        "description": "Le portrait d'une personne tenant un pistolet."
     },
     "items-91": {
         "name": "Coupe-cigare"
@@ -16738,7 +16741,7 @@
     },
     "map52": {
         "3-1-message": [
-            "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles."
+            "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles."
         ],
         "12-1-message": [
             "\\C[3]Une bouteille pour transporter des liquides."
@@ -16767,7 +16770,7 @@
     },
     "map59": {
         "38-1-message": [
-            "\\C[3]Un révolver.\nUne arme à feu. Sa chambre cylindrique\npeut charger jusqu'à 9 balles."
+            "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles."
         ],
         "4-1-message": [
             "\\C[3]Une bouteille pour transporter des liquides."
@@ -16817,10 +16820,12 @@
         ]
     },
     "items-54": {
-        "description": "Un bouchon trouvé au fond du bassin.\nIl est petit et lourd."
+        "description": "Un bouchon trouvé au fond du bassin.\nIl est petit et lourd.",
+        "name": "Bouchon"
     },
     "items-60": {
-        "description": "Un vaporisateur.\nDes gouttelettes d'eau y sont collées."
+        "description": "Un vaporisateur.\nDes gouttelettes d'eau y sont collées.",
+        "name": "Vaporisateur"
     },
     "items-62": {
         "description": "Une ampoule pour illuminer une pièce.",
@@ -16831,16 +16836,28 @@
     },
     "items-88": {
         "name": "Balles Réelles",
-        "description": "Peuvent être chargées dans un pistolet puis tirées.\nExtrêmement létales."
+        "description": "Peuvent être chargées dans un pistolet\npuis tirées. Extrêmement létales."
     },
     "items-84": {
         "name": "Révolver",
-        "description": "Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles."
+        "description": "Une arme à feu.\nSa chambre cylindrique peut charger\njusqu'à 9 balles."
     },
     "items-85": {
         "name": "Révolver"
     },
     "items-89": {
         "name": "Balles Réelles"
+    },
+    "items-49": {
+        "name": "Longue Boîte Fine"
+    },
+    "items-48": {
+        "name": "Longue Boîte Fine"
+    },
+    "items-61": {
+        "name": "Vaporisateur"
+    },
+    "items-55": {
+        "name": "Bouchon"
     }
 }
