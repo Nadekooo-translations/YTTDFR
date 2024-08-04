@@ -5293,7 +5293,7 @@
             "\\C[4](Je suis un peu inquiète pour cette fille...)",
             "\\.\\C[4](Je commencerai par ce qui me préoccupe le plus.)",
             "Contrôles",
-            "\\.Touchez le visage d'une personne pour\nécouter son témoignage.",
+            "\\.Touchez le visage d'une personne pour\nécouter leurs déclarations.",
             "\\.En touchant \\C[2]Extraire\\C[0] puis en parlant à\nquelqu'un, vous pouvez extraire des\ndéclarations supplémentaires."
         ],
         "40-0-choice": [
@@ -6141,9 +6141,9 @@
         ],
         "242-0-choice": [
             "Utiliser l'objet sélectionné\nAnnuler",
-            null,
-            null,
-            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler",
             "Oui\nNon"
         ],
         "267-0-choice": [
@@ -7883,604 +7883,1183 @@
         ],
         "31-0-choice": [
             "Utiliser l'objet sélectionné\nAnnuler",
-            "Sélectionner le témoignage\nAnnuler",
-            null,
-            ""
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "32-0-choice": [
             "Utiliser l'objet sélectionné\nAnnuler",
-            "Sélectionner le témoignage\nAnnuler",
-            null,
-            ""
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "33-0-choice": [
             "Utiliser l'objet sélectionné\nAnnuler",
-            "Sélectionner le témoignage\nAnnuler",
-            null,
-            ""
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "53-0-choice": [
             "Utiliser l'objet sélectionné\nAnnuler",
             "Joe\nQuelqu'un de confiance\nQuelqu'un à surveiller\nRester seule"
         ],
         "137-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "138-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "139-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "142-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "164-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "165-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "166-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "167-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "170-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "172-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "173-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "174-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "195-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "196-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "197-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "200-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "201-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "204-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "205-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "206-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "207-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "220-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "221-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "241-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "243-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "244-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "245-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "246-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "247-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "248-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "249-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "250-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "253-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "254-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "255-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "256-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "257-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "258-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "262-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "264-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "471-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "475-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "509-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "510-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "513-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "514-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "515-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "518-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "519-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "521-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "525-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "526-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "527-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "528-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "529-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "532-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "533-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "534-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "535-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "536-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "543-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "553-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "554-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "557-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "558-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "614-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "615-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "652-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "653-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "654-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "655-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "656-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "657-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "658-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "659-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "662-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "663-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "664-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "665-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "669-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "670-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "671-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "672-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "673-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "674-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "675-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "676-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "678-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "697-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "717-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "718-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "719-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "720-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "723-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "724-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "725-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "726-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "728-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "730-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "740-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "741-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "742-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "743-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "744-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "745-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "749-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "750-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "751-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "752-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "754-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "758-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "759-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "760-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "761-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "762-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "765-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "766-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "767-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "768-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "769-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "770-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "771-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "775-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "778-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "779-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "781-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "782-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "783-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "784-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "787-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "788-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "789-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "790-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "791-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "795-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "796-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "797-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "798-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "799-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "803-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "804-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "805-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "806-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "807-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "809-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "817-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "818-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "819-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "821-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "822-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "823-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "863-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "865-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "983-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "984-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "985-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "986-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "988-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "992-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "993-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "994-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "996-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "997-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "998-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "130-0-choice": [
             "Utiliser l'objet sélectionné\nAnnuler"
         ],
         "133-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "175-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "208-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "211-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "212-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "261-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "263-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "476-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "520-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "522-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "537-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "547-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "555-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "556-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "561-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "562-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "616-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "666-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "753-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "755-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "772-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "780-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "792-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "800-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "820-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "824-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "862-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "864-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "55-0-message": [
             "\\.\"Prête pour le débat ?\"",
@@ -9074,7 +9653,7 @@
         "58-0-message": [
             "\"Je vais la faire courte aussi. Q-taro, même si t'as\n de l'expérience, je peux pas te faire confiance.\"",
             "\"J'ai rien d'autre à dire sur ça.\"",
-            "\\C[4](Peut-être que je devrais l'opposer à un autre \n témoignage...)",
+            "\\C[4](Peut-être que je devrais opposer une autre\n déclaration...)",
             "\"On a pas assez de temps.\n Pas assez pour qu'on apprenne\n à se faire confiance, en tout cas.\"",
             "\\.\"Mais mes instincts de détective me disent\n qu'on s'en sortira très bien avec Sara.\"",
             "\"On a pas assez de temps.\n Pas assez pour qu'on apprenne\n à se faire confiance, en tout cas.\"",
@@ -9614,47 +10193,645 @@
             "\"J'irai droit au but : j'ai d'l'expérience avec les armes\n à feu, donc laissez-moi être l'Concurrent.\""
         ],
         "58-0-choice": [
-            "Sélectionner le témoignage\nAnnuler",
-            null,
-            ""
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "59-0-choice": [
-            "Sélectionner le témoignage\nAnnuler",
-            null,
-            ""
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "61-0-message": [
             "\"Alors, Sara ?\n Tu penses pouvoir réfuter quoi que ce soit ?\""
         ],
         "60-0-choice": [
-            "Sélectionner le témoignage\nAnnuler",
-            null,
-            ""
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "61-0-choice": [
-            "Sélectionner le témoignage\nAnnuler",
-            null,
-            ""
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "63-0-choice": [
-            "Sélectionner le témoignage\nAnnuler",
-            null,
-            ""
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "64-0-choice": [
-            "Sélectionner le témoignage\nAnnuler",
-            null,
-            ""
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "65-0-choice": [
-            "Sélectionner le témoignage\nAnnuler",
-            null,
-            ""
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ],
         "67-0-message": [
             null,
             "\"J'ai rien d'autre à dire sur ça.\"",
             "\\C[4](Peut-être que je devrais l'opposer à un autre \n témoignage...)"
+        ],
+        "66-0-choice": [
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "67-0-choice": [
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1632-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1633-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1634-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1637-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1638-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1639-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1640-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1641-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1644-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1645-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1646-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1647-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1648-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1649-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1650-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1653-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1654-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1655-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1656-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1657-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1658-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1659-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1660-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1661-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1662-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1663-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1664-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1665-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1669-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1670-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1671-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1672-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1673-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1674-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1675-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1676-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1677-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1678-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1679-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1682-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1683-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1684-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1685-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1686-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1687-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1688-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1689-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1690-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1691-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1695-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1698-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1699-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1700-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1701-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1702-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1703-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1704-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1705-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1706-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1707-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1710-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1711-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1712-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1713-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1714-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1715-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1725-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1726-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1727-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1734-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1735-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1736-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1737-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1738-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1739-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1740-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1741-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1742-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1743-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1744-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1747-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1748-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1749-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1750-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1751-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1752-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1763-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1764-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1765-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1766-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1767-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1770-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1768-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1769-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1771-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1772-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1773-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
+        ],
+        "1774-0-choice": [
+            null,
+            "Mémoriser le témoignage\nAnnuler",
+            "Oublier le témoignage mémorisé\nAnnuler",
+            "Appliquer le témoignage mémorisé\nAnnuler"
         ]
     },
     "map107": {
