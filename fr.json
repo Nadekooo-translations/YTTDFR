@@ -9663,7 +9663,7 @@
             "\\.\"Si vous me permettez de donner mon interprétation...\"",
             "\\.\"Peut-être que cela s'explique par le fait que\n Sara et Joe se connaissent ?\"",
             "\\.\"Puisqu'ils peuvent se porter garants l'un de l'autre,\n vous en avez conclu qu'ils étaient de confiance,\n n'est-ce pas ?\"",
-            "\\.\"J'ai autant l'air calculateur que ça ?\n Ça me choque vraiment.\"",
+            "\\.\"J'ai autant l'air calculateur que ça ?\n Ça me surprend vraiment.\"",
             "\\.\"C'est juste mon intuition.\n J'ai confiance en ma capacité à cerner les gens.\"",
             "\\.\"Je vois...\"",
             "\\.\"... Cependant, vous omettez une partie de votre\n histoire.\"",
@@ -9672,14 +9672,16 @@
         ],
         "60-0-message": [
             "\"... Hrm... Je suis indécis.\n Laisser Sara porter ce fardeau me ferait de la peine.\"",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\"...\""
+            "\"Pardon... Je vous prie de bien vouloir me laisser\n y réfléchir un peu plus.\"",
+            "\\.\\C[4](On dirait que ça n'a pas eu d'effet...)",
+            "\"Cependant, je ne suis pas confiant à l'idée de porter\n une arme. Il s'agit donc d'une question de qui je pense\n est le plus approprié pour cette tâche.\"",
+            "\\.\"Mais donc... qui...?\"",
+            "\"Cependant, je ne suis pas confiant à l'idée de porter\n une arme. Il s'agit donc d'une question de qui je pense\n est le plus approprié pour cette tâche.\"",
+            "\\.\"Bien sûr... Il y a quelqu'un parmi nous qui serait\n tout à fait qualifié pour une telle tâche...\"",
+            "\\\"Mais pour une raison ou pour une autre,\n il ne se propose pas en tant que candidat.\"",
+            "\\.\"...\"",
+            "\\.\"Quoi qu'il en soit, s'il s'abstient, je n'ai pas\n l'intention de lui demander de justifications.\"",
+            "\\.\"... Quelle situation troublante.\""
         ],
         "68-0-message": [
             null,
@@ -10190,7 +10192,18 @@
             "\\C[3]La porte rouge est fermement verrouillée."
         ],
         "59-0-message": [
-            "\"J'irai droit au but : j'ai d'l'expérience avec les armes\n à feu, donc laissez-moi être l'Concurrent.\""
+            "\"J'irai droit au but : j'ai d'l'expérience avec les armes\n à feu, donc laissez-moi être l'Concurrent.\"",
+            "\"Si t'es pas d'accord, va falloir qu'tu t'exprimes\n mieux que ça !\"",
+            "\\C[4](Peut-être qu'une autre déclaration le convaincrait...?)",
+            "\"Y a pas beaucoup d'gens qui savent manier des armes\n à feu dans c'pays. Mon expérience est précieuse, nan ?\"",
+            "\\.\"Faut que vous y pensiez logiquement.\"",
+            "\"Y a pas beaucoup d'gens qui savent manier des armes\n à feu dans c'pays. Mon expérience est précieuse, nan ?\"",
+            "\\.\"Nous ne savons pas ce que le jeu implique...\n Mais s'il requiert des compétences en maniement\n d'armes à feu, alors ce serait le cas.\"",
+            "\\.\"Ouais ! J'y réfléchis pas comme ça pour m'assurer\n d'sauver ma peau.\"",
+            "\\.\"J'pense juste au meilleur moyen d'gagner c'jeu.\"",
+            "\\.\"J... J'entends bien c'que tu dis, mais...\"",
+            "\\.\"Faut que vous y pensiez logiquement.\"",
+            "\\.\"... C'est pas comme si on y réfléchissait pas aussi,\n okay ?\""
         ],
         "58-0-choice": [
             "Mémoriser la déclaration\nAnnuler",
@@ -10203,7 +10216,28 @@
             "Appliquer la déclaration mémorisée\nAnnuler"
         ],
         "61-0-message": [
-            "\"Alors, Sara ?\n Tu penses pouvoir réfuter quoi que ce soit ?\""
+            "\"Alors, Sara ?\n Tu penses pouvoir réfuter quoi que ce soit ?\"",
+            "\"Ouah ! Joli, Sara ! Attaque avec des déclarations,\n exactement comme tu viens de le faire !\"",
+            "\\.\"Réponds-moi, Joe !\n Qu'est-ce que tu penses de cette déclaration ?!\"",
+            "\\.\"Pourquoi tu me presses comme ça ?!\"",
+            "\\.\\C[4](Il a évité la question...)",
+            "\"T'as compris, Sara ?\n Essaie \\C[2]de confronter deux déclarations entre elles\\C[0] !\"",
+            "Cliquez sur \\C[2]VS\\C[0] pour confronter la déclaration\nd'une personne avec celle de quelqu'un d'autre.",
+            "\\.\"Aie confiance en toi !\"",
+            "\"Sois pas si nerveuse !\n Garde ton habituelle allure de caïd !\"",
+            "\\.\"Pour qui tu me prends, au juste...?\"",
+            "\\.\"Le Parrain du lycée Sonobeno !\"",
+            "\\.\"Non mais... Sérieusement...\"",
+            "\"J'ai l'impression que leurs arguments sont raisonnables.\n Je n'ai... rien à réfuter.\"",
+            "\"C'est dur de les convaincre de me faire confiance.\n Je... ne suis qu'une simple lycéenne...\"",
+            "\\.\"C'est vrai... En y pensant logiquement,\n t'as pas beaucoup d'arguments, Sara.\"",
+            "\\.\"Dans ce cas, pourquoi ne pas se servir des\n \\C[2]déclarations des autres et les confronter\\C[0] ?!\"",
+            "\\.\"Les confronter...?\"",
+            "\\.\"Ouais ! Rapproche des \\C[2]confessions contradictoires\\C[0]\n pour faire avancer la discussion !\"",
+            "\\.\"En d'autres termes, tu me dis d'utiliser les mots\n des autres... Je vais essayer !\"",
+            "Contrôles",
+            "Cliquez sur \\C[2]VS\\C[0] pour confronter la déclaration\nd'une personne avec celle de quelqu'un d'autre.",
+            "Si les déclarations se \\C[2]contredisent\\C[0],\nla discussion avancera."
         ],
         "60-0-choice": [
             "Mémoriser la déclaration\nAnnuler",
@@ -10524,7 +10558,7 @@
         "1689-0-choice": [
             null,
             "Mémoriser la déclaration\nAnnuler",
-            "Oublier la déclaration mémorisé\nAnnuler",
+            "Oublier la déclaration mémorisée\nAnnuler",
             "Appliquer la déclaration mémorisée\nAnnuler"
         ],
         "1690-0-choice": [
@@ -10536,67 +10570,67 @@
         "1691-0-choice": [
             null,
             "Mémoriser la déclaration\nAnnuler",
-            "Oublier la déclaration mémorisé\nAnnuler",
+            "Oublier la déclaration mémorisée\nAnnuler",
             "Appliquer la déclaration mémorisée\nAnnuler"
         ],
         "1695-0-choice": [
             null,
             "Mémoriser la déclaration\nAnnuler",
-            "Oublier la déclaration mémorisé\nAnnuler",
+            "Oublier la déclaration mémorisée\nAnnuler",
             "Appliquer la déclaration mémorisée\nAnnuler"
         ],
         "1698-0-choice": [
             null,
             "Mémoriser la déclaration\nAnnuler",
-            "Oublier la déclaration mémorisé\nAnnuler",
+            "Oublier la déclaration mémorisée\nAnnuler",
             "Appliquer la déclaration mémorisée\nAnnuler"
         ],
         "1699-0-choice": [
             null,
             "Mémoriser la déclaration\nAnnuler",
-            "Oublier la déclaration mémorisé\nAnnuler",
+            "Oublier la déclaration mémorisée\nAnnuler",
             "Appliquer la déclaration mémorisée\nAnnuler"
         ],
         "1700-0-choice": [
             null,
             "Mémoriser la déclaration\nAnnuler",
-            "Oublier la déclaration mémorisé\nAnnuler",
+            "Oublier la déclaration mémorisée\nAnnuler",
             "Appliquer la déclaration mémorisée\nAnnuler"
         ],
         "1701-0-choice": [
             null,
             "Mémoriser la déclaration\nAnnuler",
-            "Oublier la déclaration mémorisé\nAnnuler",
+            "Oublier la déclaration mémorisée\nAnnuler",
             "Appliquer la déclaration mémorisée\nAnnuler"
         ],
         "1702-0-choice": [
             null,
             "Mémoriser la déclaration\nAnnuler",
-            "Oublier la déclaration mémorisé\nAnnuler",
+            "Oublier la déclaration mémorisée\nAnnuler",
             "Appliquer la déclaration mémorisée\nAnnuler"
         ],
         "1703-0-choice": [
             null,
             "Mémoriser la déclaration\nAnnuler",
-            "Oublier la déclaration mémorisé\nAnnuler",
+            "Oublier la déclaration mémorisée\nAnnuler",
             "Appliquer la déclaration mémorisée\nAnnuler"
         ],
         "1704-0-choice": [
             null,
             "Mémoriser la déclaration\nAnnuler",
-            "Oublier la déclaration mémorisé\nAnnuler",
+            "Oublier la déclaration mémorisée\nAnnuler",
             "Appliquer la déclaration mémorisée\nAnnuler"
         ],
         "1705-0-choice": [
             null,
             "Mémoriser la déclaration\nAnnuler",
-            "Oublier la déclaration mémorisé\nAnnuler",
+            "Oublier la déclaration mémorisée\nAnnuler",
             "Appliquer la déclaration mémorisée\nAnnuler"
         ],
         "1706-0-choice": [
             null,
             "Mémoriser la déclaration\nAnnuler",
-            "Oublier la déclaration mémorisé\nAnnuler",
+            "Oublier la déclaration mémorisée\nAnnuler",
             "Appliquer la déclaration mémorisée\nAnnuler"
         ],
         "1707-0-choice": [
@@ -10608,55 +10642,55 @@
         "1710-0-choice": [
             null,
             "Mémoriser la déclaration\nAnnuler",
-            "Oublier la déclaration mémorisé\nAnnuler",
+            "Oublier la déclaration mémorisée\nAnnuler",
             "Appliquer la déclaration mémorisée\nAnnuler"
         ],
         "1711-0-choice": [
             null,
             "Mémoriser la déclaration\nAnnuler",
-            "Oublier la déclaration mémorisé\nAnnuler",
+            "Oublier la déclaration mémorisée\nAnnuler",
             "Appliquer la déclaration mémorisée\nAnnuler"
         ],
         "1712-0-choice": [
             null,
             "Mémoriser la déclaration\nAnnuler",
-            "Oublier la déclaration mémorisé\nAnnuler",
+            "Oublier la déclaration mémorisée\nAnnuler",
             "Appliquer la déclaration mémorisée\nAnnuler"
         ],
         "1713-0-choice": [
             null,
             "Mémoriser la déclaration\nAnnuler",
-            "Oublier la déclaration mémorisé\nAnnuler",
+            "Oublier la déclaration mémorisée\nAnnuler",
             "Appliquer la déclaration mémorisée\nAnnuler"
         ],
         "1714-0-choice": [
             null,
             "Mémoriser la déclaration\nAnnuler",
-            "Oublier la déclaration mémorisé\nAnnuler",
+            "Oublier la déclaration mémorisée\nAnnuler",
             "Appliquer la déclaration mémorisée\nAnnuler"
         ],
         "1715-0-choice": [
             null,
             "Mémoriser la déclaration\nAnnuler",
-            "Oublier la déclaration mémorisé\nAnnuler",
+            "Oublier la déclaration mémorisée\nAnnuler",
             "Appliquer la déclaration mémorisée\nAnnuler"
         ],
         "1725-0-choice": [
             null,
             "Mémoriser la déclaration\nAnnuler",
-            "Oublier la déclaration mémorisé\nAnnuler",
+            "Oublier la déclaration mémorisée\nAnnuler",
             "Appliquer la déclaration mémorisée\nAnnuler"
         ],
         "1726-0-choice": [
             null,
             "Mémoriser la déclaration\nAnnuler",
-            "Oublier la déclaration mémorisé\nAnnuler",
+            "Oublier la déclaration mémorisée\nAnnuler",
             "Appliquer la déclaration mémorisée\nAnnuler"
         ],
         "1727-0-choice": [
             null,
             "Mémoriser la déclaration\nAnnuler",
-            "Oublier la déclaration mémorisé\nAnnuler",
+            "Oublier la déclaration mémorisée\nAnnuler",
             "Appliquer la déclaration mémorisée\nAnnuler"
         ],
         "1734-0-choice": [
@@ -10668,31 +10702,31 @@
         "1735-0-choice": [
             null,
             "Mémoriser la déclaration\nAnnuler",
-            "Oublier la déclaration mémorisé\nAnnuler",
+            "Oublier la déclaration mémorisée\nAnnuler",
             "Appliquer la déclaration mémorisée\nAnnuler"
         ],
         "1736-0-choice": [
             null,
             "Mémoriser la déclaration\nAnnuler",
-            "Oublier la déclaration mémorisé\nAnnuler",
+            "Oublier la déclaration mémorisée\nAnnuler",
             "Appliquer la déclaration mémorisée\nAnnuler"
         ],
         "1737-0-choice": [
             null,
             "Mémoriser la déclaration\nAnnuler",
-            "Oublier la déclaration mémorisé\nAnnuler",
+            "Oublier la déclaration mémorisée\nAnnuler",
             "Appliquer la déclaration mémorisée\nAnnuler"
         ],
         "1738-0-choice": [
             null,
             "Mémoriser la déclaration\nAnnuler",
-            "Oublier la déclaration mémorisé\nAnnuler",
+            "Oublier la déclaration mémorisée\nAnnuler",
             "Appliquer la déclaration mémorisée\nAnnuler"
         ],
         "1739-0-choice": [
             null,
             "Mémoriser la déclaration\nAnnuler",
-            "Oublier la déclaration mémorisé\nAnnuler",
+            "Oublier la déclaration mémorisée\nAnnuler",
             "Appliquer la déclaration mémorisée\nAnnuler"
         ],
         "1740-0-choice": [
@@ -10722,7 +10756,7 @@
         "1744-0-choice": [
             null,
             "Mémoriser la déclaration\nAnnuler",
-            "Oublier la déclaration mémorisé\nAnnuler",
+            "Oublier la déclaration mémorisée\nAnnuler",
             "Appliquer la déclaration mémorisée\nAnnuler"
         ],
         "1747-0-choice": [
@@ -10758,13 +10792,13 @@
         "1752-0-choice": [
             null,
             "Mémoriser la déclaration\nAnnuler",
-            "Oublier la déclaration mémorisé\nAnnuler",
+            "Oublier la déclaration mémorisée\nAnnuler",
             "Appliquer la déclaration mémorisée\nAnnuler"
         ],
         "1763-0-choice": [
             null,
             "Mémoriser la déclaration\nAnnuler",
-            "Oublier la déclaration mémorisé\nAnnuler",
+            "Oublier la déclaration mémorisée\nAnnuler",
             "Appliquer la déclaration mémorisée\nAnnuler"
         ],
         "1764-0-choice": [
@@ -10788,7 +10822,7 @@
         "1767-0-choice": [
             null,
             "Mémoriser la déclaration\nAnnuler",
-            "Oublier la déclaration mémorisé\nAnnuler",
+            "Oublier la déclaration mémorisée\nAnnuler",
             "Appliquer la déclaration mémorisée\nAnnuler"
         ],
         "1770-0-choice": [
@@ -10800,19 +10834,19 @@
         "1768-0-choice": [
             null,
             "Mémoriser la déclaration\nAnnuler",
-            "Oublier la déclaration mémorisé\nAnnuler",
+            "Oublier la déclaration mémorisée\nAnnuler",
             "Appliquer la déclaration mémorisée\nAnnuler"
         ],
         "1769-0-choice": [
             null,
             "Mémoriser la déclaration\nAnnuler",
-            "Oublier la déclaration mémorisé\nAnnuler",
+            "Oublier la déclaration mémorisée\nAnnuler",
             "Appliquer la déclaration mémorisée\nAnnuler"
         ],
         "1771-0-choice": [
             null,
             "Mémoriser la déclaration\nAnnuler",
-            "Oublier la déclaration mémorisé\nAnnuler",
+            "Oublier la déclaration mémorisée\nAnnuler",
             "Appliquer la déclaration mémorisée\nAnnuler"
         ],
         "1772-0-choice": [
@@ -10824,7 +10858,7 @@
         "1773-0-choice": [
             null,
             "Mémoriser la déclaration\nAnnuler",
-            "Oublier la déclaration mémorisé\nAnnuler",
+            "Oublier la déclaration mémorisée\nAnnuler",
             "Appliquer la déclaration mémorisée\nAnnuler"
         ],
         "1774-0-choice": [
@@ -10832,6 +10866,22 @@
             "Mémoriser la déclaration\nAnnuler",
             "Oublier la déclaration mémorisé\nAnnuler",
             "Appliquer la déclaration mémorisée\nAnnuler"
+        ],
+        "64-0-message": [
+            null,
+            "\"Si t'es pas d'accord, va falloir qu'tu t'exprimes\n mieux que ça !\"",
+            "\\C[4](Peut-être qu'une autre déclaration le convaincrait...?)",
+            "\"Si t'es pas d'accord, va falloir qu'tu t'exprimes\n mieux que ça !\"",
+            "\\C[4](Peut-être qu'une autre déclaration le convaincrait...?)"
+        ],
+        "164-0-message": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.\"Réponds-moi, Joe !\n Qu'est-ce que tu penses de cette déclaration ?!\""
         ]
     },
     "map107": {
