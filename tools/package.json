@@ -11,6 +11,7 @@
   },
   "homepage": "https://github.com/Nadekooo/YTTDFR#readme",
   "dependencies": {
+    "jsondiffpatch": "^0.6.0",
     "lz-string": "^1.5.0",
     "rpgmaker-mv-crypt": "^0.1.1"
   },
