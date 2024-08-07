@@ -9718,18 +9718,25 @@
             "\\.\"Hein ?! Q-taro !!\"",
             "\\.\\C[4](J'ai réussi à partiellement le convaincre\n grâce aux déclarations des autres...)",
             "\\.\"Sara...\"",
-            "\\.\\C[4](Mais au final...\n Je dois convaincre Q-taro moi-même !!)"
+            "\\.\\C[4](Mais au final...\n Je dois convaincre Q-taro moi-même !!)",
+            "Contrôles   - Face-à-Face -",
+            "Un face-à-face avec Q-taro va débuter.\nLes déclarations de Q-taro vont apparaître\ndans des \\C[2]bulles de dialogues\\C[0].",
+            "En \\C[2]touchant\\C[0] les déclarations que \\C[2]vous pouvez réfuter\\C[0],\nvous infligerez des dégâts à Q-taro.",
+            "Attaquez les déclarations qui sont fausses,\ninfligez-lui le plus de dégâts possibles\net battez Q-taro.",
+            "Voulez-vous relire l'explication ?",
+            "\\.\"Prouve-moi... avec tes propres termes...\n ... que t'es digne d'confiance !\"",
+            "\\.\"Compris...!\""
         ],
         "123-0-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\C[3]Soudainement, alors que je me dirigeai\nvers la sortie...",
+            "\"Bon sang ! Elle nous a eus !!\"",
+            "\\.\\C[4](Sou...?)",
+            "\\.\"Sara... Regarde...\"",
+            "\\C[3]Sou ferme lentement la porte.",
+            "\\.\\C[4](Il y a quelque chose d'écrit...!)",
+            "\\.\"Lis, Sara...\"",
+            "\\.\\C[3]\"La Seconde Épreuve ~ Répétition ~\"",
+            "\\.\\C[3]\"Il s'agit d'un exercice imitant le Jeu Principal.\n Elle débutera par la résurrection de la poupée.\"",
             null,
             null,
             null,
@@ -10202,7 +10209,7 @@
             "\\C[3]La porte rouge est fermement verrouillée."
         ],
         "122-0-message": [
-            null,
+            "\\C[3]Je suis inquiète pour Nao.",
             "\\C[3]La porte rouge est fermement verrouillée."
         ],
         "960-0-message": [
@@ -10945,6 +10952,95 @@
             "\\.\"J... Je plaisante !\n T'avais capté que j'plaisantais, hein...?\"",
             "\\.\\C[4](Moi aussi, je plaisantais...\n Mais c'est toujours drôle de le voir s'emballer.)",
             "\\.\"Hé ! Tu souris !\""
+        ],
+        "100-0-message": [
+            "\\sw[99]\"Ça te va, comme ça ?\"\\sw[100]",
+            "\\sw[99]\"Aller, mets la chambre en place !\"\\sw[100]",
+            "\\sw[99]\"Et fais la tourner !\"\\sw[100]",
+            "\\.\\sp[12]Clic-clic-clic-clic-clic...\\^",
+            "\\sw[99]\"Elle s'est arrêtée !\n Maintenant, tire sur les cibles dans l'ordre que tu\n veux !\"\\sw[100]",
+            "\\.\\sw[99]\"Ah, et bien évidemment il est interdit de tirer\n deux fois sur la même cible ou de communiquer avec\n elles !\"\\sw[100]",
+            "\\.\\sw[99]\"Hé, y a que trois vraies balles.\n Les doigts dans le nez !\"\\sw[100]",
+            "\\.\\C[4](Je ne peux pas me permettre d'échouer...)",
+            "\\.\\C[4](Je vais surmonter cette épreuve...\n Par mes propres moyens...!)"
+        ],
+        "111-0-message": [
+            "Voter pour \\C[2]Joe\\C[0] ?"
+        ],
+        "110-0-message": [
+            "Voter pour \\C[2]Sara\\C[0] ?"
+        ],
+        "112-0-message": [
+            "Voter pour \\C[2]Keiji\\C[0] ?"
+        ],
+        "113-0-message": [
+            "Voter pour \\C[2]Kanna\\C[0] ?"
+        ],
+        "114-0-message": [
+            "Voter pour \\C[2]Q-taro\\C[0] ?"
+        ],
+        "115-0-message": [
+            "Voter pour \\C[2]Sou\\C[0] ?"
+        ],
+        "116-0-message": [
+            "Voter pour \\C[2]Reko\\C[0] ?"
+        ],
+        "117-0-message": [
+            "Voter pour \\C[2]Nao\\C[0] ?"
+        ],
+        "118-0-message": [
+            "Voter pour \\C[2]Kai\\C[0] ?"
+        ],
+        "119-0-message": [
+            "Voter pour \\C[2]Gin\\C[0] ?"
+        ],
+        "120-0-message": [
+            "Voter pour \\C[2]Mishima\\C[0] ?"
+        ],
+        "227-0-message": [
+            "Voter pour \\C[2]Sara\\C[0] ?"
+        ],
+        "228-0-message": [
+            "Voter pour \\C[2]Joe\\C[0] ?"
+        ],
+        "229-0-message": [
+            "Voter pour \\C[2]Keiji\\C[0] ?"
+        ],
+        "230-0-message": [
+            "Voter pour \\C[2]Kanna\\C[0] ?"
+        ],
+        "231-0-message": [
+            "Voter pour \\C[2]Q-taro\\C[0] ?"
+        ],
+        "232-0-message": [
+            "Voter pour \\C[2]Sou\\C[0] ?"
+        ],
+        "233-0-message": [
+            "Voter pour \\C[2]Reko\\C[0] ?"
+        ],
+        "234-0-message": [
+            "Voter pour \\C[2]Nao\\C[0] ?"
+        ],
+        "235-0-message": [
+            "Voter pour \\C[2]Kai\\C[0] ?"
+        ],
+        "236-0-message": [
+            "Voter pour \\C[2]Gin\\C[0] ?"
+        ],
+        "267-0-message": [
+            "Voter pour \\C[2]Sara\\C[0] ?"
+        ],
+        "268-0-message": [
+            "Voter pour \\C[2]Joe\\C[0] ?"
+        ],
+        "269-0-message": [
+            "Voter pour \\C[2]Kanna\\C[0] ?"
+        ],
+        "270-0-message": [
+            "Voter pour \\C[2]Sou\\C[0] ?"
+        ],
+        "271-0-message": [
+            "Voter pour \\C[2]Kai\\C[0] ?"
         ]
     },
     "map107": {
