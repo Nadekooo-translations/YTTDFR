@@ -5,7 +5,7 @@
             "\\.\\C[3]Nao est assise aux côtés du professeur, abasourdie."
         ],
         "2-1-message": [
-            "\\.\\C[3]Le professeur Mishima... baignant dans une\nmare de sang.",
+            "\\.\\C[3]Monsieur Mishima... baignant dans une\nmare de sang.",
             "\\.\\C[3]... J'ai peur de m'en approcher."
         ],
         "3-1-message": [
@@ -140,7 +140,7 @@
             "\\C[3]Un vaporisateur.\nDes gouttelettes d'eau y sont collées."
         ],
         "47-1-message": [
-            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
+            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux de Monsieur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
         ],
         "9-1-message": [
             "\\C[3]Une carte portant l'inscription \"Maître des Clés\".\nElle indique : \"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe."
@@ -233,7 +233,7 @@
             "\\C[3]Un vaporisateur.\nDes gouttelettes d'eau y sont collées."
         ],
         "22-1-message": [
-            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
+            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux de Monsieur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
         ],
         "6-1-message": [
             "\\C[3]Une carte portant l'inscription \"Maître des Clés\".\nElle indique : \"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe."
@@ -428,7 +428,7 @@
         "itemdesc59": "Le portrait d'une personne tenant un pistolet.\\nIl y a une autre peinture au dos.",
         "itemdesc61": "Un vaporisateur.\\nDes gouttelettes d'eau y sont collées.",
         "itemdesc71": "Une carte qui indique :\\n\"Il s'agit d'une clé vers la sortie.\"\\nJe mourrai si quelqu'un apprend qu'elle existe.",
-        "itemdesc77": "Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\".",
+        "itemdesc77": "Une note avec quelques prénoms et noms écrits,\ndont ceux de Monsieur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\".",
         "itemdesc87": "Des balles à blanc. J'en ai 6.\\nElles ne font qu'un bruit quand\\nelles sont tirées.",
         "dtext_発言力：": "Influence : ",
         "name_サラ（モニター）": "Sara (Écran)",
@@ -1653,15 +1653,15 @@
         "3-4-message": [
             "\\sw[99]\"Oh...\"\\sw[100]",
             "\\.\\sw[99]\"Ohh...\"\\sw[100]",
-            "\\.\\sw[99]\"Ohhhh!\"\\sw[100]",
-            "\\.\\sw[99]\"Fantastique ! Alors ça, c'est du bon travail !\"\\sw[100]",
+            "\\.\\sw[99]\"Ohhhh !\"\\sw[100]",
+            "\\.\\sw[99]\"Merveilleux ! Alors ça, c'est du bon travail !\"\\sw[100]",
             "\\.\\sw[99]\"Rien à redire, t'as gagné !\"\\sw[100]",
-            "\\.\\sw[99]\"Les puzzles comme ça c'est\n du gâteau pour toi !\"\\sw[100]",
-            "\\.\\sw[99]\"Vraiment génial !\n Vous méritez un coup de main !\"\\sw[100]",
+            "\\.\\sw[99]\"Les casse-têtes comme ça,\n c'est du gâteau pour toi !\"\\sw[100]",
+            "\\.\\sw[99]\"C'était brillant !\n Tu mérites un coup de main !\"\\sw[100]",
             "\\.\\sw[99]\"Pour la peine, je te passe ma \\C[2]main droite\\C[0].\"\\sw[100]\\|\\.\\^",
-            "\\.\"Ahhhhhhhh!!\"",
-            "\\sw[99]\"Hahaha!\"\\sw[100]",
-            "\\sw[99]\"Sois reconnaissante et accepte-la !\n À la prochaine !\"\\sw[100]",
+            "\\.\"Ahhhhhhhh !!\"",
+            "\\sw[99]\"Hahaha !\"\\sw[100]",
+            "\\sw[99]\"J'espère que ça te plait ! Prends-la !\n À la prochaine !\"\\sw[100]",
             "\\.\"Grr...!!\"",
             "\\.\"Bien joué, Sara !\"",
             "\\.\"Merci...!\"",
@@ -1997,7 +1997,7 @@
             "\\C[3]Un vaporisateur.\nDes gouttelettes d'eau y sont collées."
         ],
         "24-1-message": [
-            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
+            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux de Monsieur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
         ],
         "26-1-message": [
             "\\C[3]Une ampoule pour illuminer une pièce."
@@ -2086,9 +2086,9 @@
             "\\.\"Au contraire, certains diraient qu'il n'y a\n pas meilleur moment pour s'y mettre.\""
         ],
         "3-1-message": [
-            "\\C[3]Le Professeur Mishima inspecte chaque recoin\nde la pièce.",
+            "\\C[3]Monsieur Mishima inspecte chaque recoin\nde la pièce.",
             "\\.\"Dites-moi si vous avez besoin de quoi\n que ce soit, Sara.\"",
-            "\\C[3]Le Professeur Mishima inspecte chaque recoin\nde la pièce.",
+            "\\C[3]Monsieur Mishima inspecte chaque recoin\nde la pièce.",
             "\"Oh... Sara.\"",
             "\\.\"Avez-vous rencontré le moindre danger ?\n Je vous prie de faire preuve de prudence...\"",
             "\\.\"Hmm ! Qu'est-ce que cela ?!\"",
@@ -2099,17 +2099,17 @@
             "\\.\"Hm... On dirait que je ne peux m'empêcher de\n faire le professeur en présence d'étudiants.\"",
             "\\.\"Toutefois... Eum, hé bien... Voyons voir...\n Oui, pouvez-vous me le laisser ?\"",
             "\\.\\C[4](Je vous dis que je ne le fumerai pas...)",
-            "\\.\\C[3]Le cigare a été remis au professeur Mishima.",
+            "\\.\\C[3]Le cigare a été remis à Monsieur Mishima.",
             "\\.\"Oh, oh ? Mais qu'est-ce donc?\"",
             "\\.\"Hein...? Vous parlez du coupe-cigare ?\"",
             "\\.\"Précisément. C'est un objet qui permet\n de fumer des cigares.\"",
             "\\.\"... Vous n'aviez pas l'intention\n d'en fumer, j'espère.\"",
             "\\.\"M-Mais non ! Bien évidemment...!\"",
             "\\.\"Ah, eh bien... Dans ce cas... um...\n Pouvez-vous me le remettre ?\"",
-            "\\.\"Euh... Professeur Mishima,\n comptez-vous fumer le cigare ?\"",
+            "\\.\"Euh... Monsieur Mishima, allez-vous fumer ce cigare ?\"",
             "\\.\"L-L-La question ne se pose même pas !\n Qu'un professeur fume...!\"",
             "\\.\\C[4](Moi, je pense que c'est bon, tant qu'on est adulte...)",
-            "\\.\\C[3]Le coupe-cigare a été remis au professeur Mishima.",
+            "\\.\\C[3]Le coupe-cigare a été remis à Monsieur Mishima.",
             "\\.\"Hm... Mais qu'est-ce que vous avez là ?\"",
             "\\.\"Hmm...? Vous parlez de ce briquet ?\"",
             "\\.\"En effet. Où l'avez-vous trouvé ?\"",
@@ -2118,12 +2118,12 @@
             "\\.\"... Quoi ?! Non, je n'allais pas fumer !\"",
             "\\.\"Hm... Alors... Eum... Puis-je l'avoir ?\"",
             "\\.\\C[4](Il est étrangement appréhensif des mineurs\n qui fument...)",
-            "\\.\\C[3]Le briquet a été remis au professeur Mishima."
+            "\\.\\C[3]Le briquet a été remis à Monsieur Mishima."
         ],
         "3-2-message": [
-            "\\C[3]Le professeur a le sourire jusqu'aux oreilles.",
+            "\\C[3]Monsieur Mishima a le sourire jusqu'aux oreilles.",
             "\"Oh... Sara.\"",
-            "\\.\"Professeur Mishima, pourquoi êtes-vous si content ?\"",
+            "\\.\"Monsieur Mishima, pourquoi êtes-vous si content ?\"",
             "\\.\"D-D-D-De quoi parlez-vous ?!\n Je n'ai rien...! En effet...!\"",
             "\\.\"Peut-être que... Vous êtes content pour le cigare ?\"",
             "\\.\"Ooghhh...!\n Un professeur tel que moi ne fumerait jamais...!\"",
@@ -2141,7 +2141,7 @@
             "\\.\"Pouvez-vous me laisser l'examiner un peu ?\"",
             "\\.\"Bien sûr... Je comprends.\n Nous devrions l'inspecter minutieusement.\"",
             "\\.\"Hmm... Essayons d'utiliser le coupe-cigare.\"",
-            "\\.\\C[3]Le professeur Mishima le coupe avec grande expertise.",
+            "\\.\\C[3]Monsieur Mishima le coupe avec grande expertise.",
             "\\.\"Oh...?\n Qu'est-ce que cela ?\"",
             "\\.\\C[3]Étonamment, il y avait un billet dans le cigare.",
             "\\.\\C[3]Billet de 1000 yens obtenu.",
@@ -2159,7 +2159,7 @@
             "L'inciter\nJe voudrais examiner le cigare"
         ],
         "3-3-message": [
-            "\\C[3]Le professeur Mishima a l'air découragé.",
+            "\\C[3]Monsieur Mishima a l'air découragé.",
             "\"Demandez-moi tout ce que vous voulez, Sara.\""
         ],
         "4-1-message": [
@@ -2798,7 +2798,7 @@
             "\\.\"Ce n'est pas ça, Reko. C'est que, eum...\n Allons-y, je vous expliquerai en marchant, d'accord ?\"",
             "\\.\"... Hein ? S-Sérieux...?\n Ouais, okay...\"",
             "\\.\"De même, je vais retourner à mes recherches.\"",
-            "\\.\"Le Professeurr Mishima...\"",
+            "\\.\"Monsieur Mishima...\"",
             "\\.\"Non, c'est moi qui suis reconnaissant envers vous...\"",
             "\\.\"Vous pensez ?\n ... Quel adulte désespéré je suis devenu...\"",
             "\\.\"C'est grâce à votre coopération que\n j'ai pu intervenir.\"",
@@ -3373,7 +3373,7 @@
             "\\C[3]Un vaporisateur.\nDes gouttelettes d'eau y sont collées."
         ],
         "28-1-message": [
-            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
+            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux de Monsieur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
         ],
         "30-1-message": [
             "\\C[3]Une ampoule pour illuminer une pièce."
@@ -3417,7 +3417,7 @@
             "\\C[3]Le portrait d'une personne tenant un pistolet.\nIl y a une autre peinture au dos."
         ],
         "17-3-message": [
-            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
+            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux de Monsieur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
         ],
         "22-3-message": [
             "\\C[3]Une ampoule pour illuminer une pièce."
@@ -3740,7 +3740,7 @@
             "\\.\\sp[12]\"Aaaah...!!! AHHHHHHHHHH...!!\"",
             "\\.\\sp[12]\"Ça brule...!! AHHHHH...!!\"",
             "\\.\"Professeur !! PROFESSEUUUUUUUUUR !!!\"",
-            "\\.\\C[4](Professeur Mishima...!!)",
+            "\\.\\C[4](Monsieur Mishima...!!)",
             "\\.\\C[3]Une odeur persistait dans l'air.",
             "\\.\\C[3]Une odeur que je n'avais jamais sentie auparavant...",
             "\\.\\C[3]L'odeur de la chair humaine qui brule...\nEt le bruit du sang qui s'évapore...",
@@ -3748,7 +3748,7 @@
             "\\.\\sp[12]\"G... Gaaaaah...!!\"",
             "\\.\"NOOOOOOOOOON !! PROFESSEUUUUUUUUUUUUUUUR !!!\"",
             "\\.\"T'approche pas !!\"",
-            "\\.\\C[3]Le professeur Mishima poussa Nao vers l'arrière.",
+            "\\.\\C[3]Monsieur Mishima poussa Nao vers l'arrière.",
             "\\.\\C[3]Puis, il tomba en arrière devant Kanna.",
             "\\.\"Au secours !! Le professeur !!\n Le professeur va mourir !!\"",
             "\\.\"A... Attend !! Si tu touches ce collier...!!\"",
@@ -3772,7 +3772,7 @@
             "\\.\"Je... je...\"",
             "\\.\\C[10]\"Hahaha, j'ai tout vu.\n À quel point tu étais misérable dans\n ta Première épreuve, Kanna.\"",
             "\\.\\C[3]Ne la piétine pas.",
-            "\\.\\C[3]Sur les inquiétudes du professeur Mishima pour Kanna.",
+            "\\.\\C[3]Sur les inquiétudes de Monsieur Mishima pour Kanna.",
             "\\.\\C[3]Sur les paroles qu'il lui a laissé.",
             "\\.\\C[10]\"Tes actes ont tué ta sœur.\"",
             "\\.\\C[3]Ne piétine pas sur le cœur de Kanna !!!",
@@ -3787,7 +3787,7 @@
             "\\.\"Je vous attendrai...\n sur le terrain du Jeu Principal...!\"",
             "\\.\"Vous n'êtes pas blessée ?\"",
             "\\.\\C[3]Je ne comprends pas...",
-            "\\.\\C[3]La mort du professeur Mishima...",
+            "\\.\\C[3]La mort de Monsieur Mishima...",
             "\\.\\C[3]Ni qui est Kai.",
             "\\.\\C[3]...",
             "\\.\\C[3]..........",
@@ -3907,7 +3907,7 @@
             "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles."
         ],
         "16-1-message": [
-            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
+            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux de Monsieur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
         ],
         "18-1-message": [
             "\\C[3]Une ampoule pour illuminer une pièce."
@@ -4064,7 +4064,7 @@
             "\\C[3]Un vaporisateur.\nDes gouttelettes d'eau y sont collées."
         ],
         "11-1-message": [
-            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
+            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux de Monsieur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
         ],
         "13-1-message": [
             "\\C[3]Une ampoule pour illuminer une pièce."
@@ -4211,7 +4211,7 @@
             "\\C[3]Un vaporisateur.\nDes gouttelettes d'eau y sont collées."
         ],
         "42-1-message": [
-            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
+            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux de Monsieur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
         ],
         "44-1-message": [
             "\\C[3]Une ampoule pour illuminer une pièce."
@@ -4267,7 +4267,7 @@
             "\\C[3]Un vaporisateur.\nDes gouttelettes d'eau y sont collées."
         ],
         "9-1-message": [
-            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
+            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux de Monsieur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
         ],
         "11-1-message": [
             "\\C[3]Une ampoule pour illuminer une pièce."
@@ -4326,7 +4326,7 @@
             "\\C[3]Un vaporisateur.\nDes gouttelettes d'eau y sont collées."
         ],
         "13-1-message": [
-            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
+            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux de Monsieur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
         ],
         "15-1-message": [
             "\\C[3]Une ampoule pour illuminer une pièce."
@@ -4409,7 +4409,7 @@
             "\\C[3]Un vaporisateur.\nDes gouttelettes d'eau y sont collées."
         ],
         "15-1-message": [
-            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
+            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux de Monsieur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
         ],
         "17-1-message": [
             "\\C[3]Une ampoule pour illuminer une pièce."
@@ -4465,7 +4465,7 @@
             "\\C[3]La fleur d'un vase."
         ],
         "21-5-message": [
-            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
+            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux de Monsieur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
         ],
         "23-3-message": [
             "\\C[3]Une longue et une petite aiguille.\nPas suffisamment pointues pour pouvoir\npercer quoi que ce soit."
@@ -4620,7 +4620,7 @@
             "\\C[3]La fleur d'un vase."
         ],
         "28-1-message": [
-            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
+            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux de Monsieur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
         ],
         "30-1-message": [
             "\\C[3]Une ampoule pour illuminer une pièce."
@@ -4674,7 +4674,7 @@
             "\\C[3]Un vaporisateur.\nDes gouttelettes d'eau y sont collées."
         ],
         "37-1-message": [
-            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
+            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux de Monsieur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
         ],
         "39-1-message": [
             "\\C[3]Une ampoule pour illuminer une pièce."
@@ -4725,7 +4725,7 @@
             "\\C[3]La fleur d'un vase."
         ],
         "35-1-message": [
-            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
+            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux de Monsieur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
         ],
         "37-1-message": [
             "\\C[3]Une ampoule pour illuminer une pièce."
@@ -4814,7 +4814,7 @@
             "\\C[3]Un vaporisateur.\nDes gouttelettes d'eau y sont collées."
         ],
         "21-1-message": [
-            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
+            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux de Monsieur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
         ],
         "23-1-message": [
             "\\C[3]Une ampoule pour illuminer une pièce."
@@ -4881,7 +4881,7 @@
             "\\C[3]Un vaporisateur.\nDes gouttelettes d'eau y sont collées."
         ],
         "12-1-message": [
-            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
+            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux de Monsieur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
         ],
         "14-1-message": [
             "\\C[3]Une ampoule pour illuminer une pièce."
@@ -4938,7 +4938,7 @@
             "\\C[3]La fleur d'un vase."
         ],
         "48-1-message": [
-            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
+            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux de Monsieur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
         ],
         "50-1-message": [
             "\\C[3]Une ampoule pour illuminer une pièce."
@@ -4985,7 +4985,7 @@
             "\\C[3]Un vaporisateur.\nDes gouttelettes d'eau y sont collées."
         ],
         "11-1-message": [
-            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
+            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux de Monsieur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
         ],
         "13-1-message": [
             "\\C[3]Une ampoule pour illuminer une pièce."
@@ -5290,7 +5290,7 @@
             "\\.\"Ouaip. Contrairement à moi, ils se\n méfient pas de toi, tu comprends ?\"",
             "\\.\"D'accord.\"",
             "\\C[4](J'ai bien envie de les questionner, mais...)",
-            "\\C[4](Je suis un peu inquiète pour cette fille...)",
+            "\\C[4](Cette fille m'inquiète un peu...)",
             "\\.\\C[4](Je commencerai par ce qui me préoccupe le plus.)",
             "Contrôles",
             "\\.Touchez le visage d'une personne pour\nécouter leurs déclarations.",
@@ -5541,7 +5541,7 @@
             "\\.\"Je vais me présenter... !\n Nous sommes parfaitement innocents !\"",
             "\\.\"... Autant pour moi, alors. Je m'excuse.\"",
             "\\.\"Oui, il est temps de se calmer...\"",
-            "\\.\\C[4](Devrais-je demander quelque chose\n au Professeur Mishima ?)",
+            "\\.\\C[4](Devrais-je demander quelque chose\n à Monsieur Mishima ?)",
             "\"Hrrrmmmmm...\n Je ne... me rappelle pas m'être attiré\n le courroux de quiconque...\"",
             "\\.\"Je vois...\"",
             "\\.\"Bien sûr, il y eût des fois où des étudiants\n ne m'apprécièrent guère... mais...\"",
@@ -5594,14 +5594,14 @@
             "\\.\\C[4](Peut-être que ça se pourrait...)"
         ],
         "48-0-message": [
-            "\"J-Je suis une ancienne élève du professeur Mishima !\n Je suis désormais en université d'art !\"",
+            "\"J-Je suis une ancienne élève de Monsieur Mishima !\n Je suis désormais en université d'art !\"",
             "\"La Première Épreuve... C'était terrifiant...\n On avait qu'une clé... mais on l'a poncée,\n et on a réussi à s'échapper...\"",
-            "\"Je m'appelle \\C[2]Nao Egokoro\\C[0] !\n C'est grâce au professeur Mishima que\n j'étudie en licence d'art, maintenant !\"",
+            "\"Je m'appelle \\C[2]Nao Egokoro\\C[0] !\n C'est grâce à Monsieur Mishima que\n j'étudie en licence d'art, maintenant !\"",
             "\\.\"Le professeur est une bonne personne !\n Je vous en supplie, croyez-moi ! Saraaaaa !!\"",
             "\\.\"J-Je n'en doute pas spécialement...\"",
             "\\.\"Ouaip, y avait que Monsieur le Policier\n qui le suspectait.\"",
             "\\.\"Alors repens-toi, s'il te plaît !\"",
-            "\\.\"D'accord. Le Professeur Mishima est pas suspect.\"",
+            "\\.\"D'accord. Monsieur Mishima est pas suspect.\"",
             "\\.\"A... Alors, tu comprends...!\n Dans ce cas, j'ai accompli mon devoir...\"",
             "\\.\\C[4](Je devrais demander quelque chose à Nao aussi.)",
             "\"La Première Épreuve ? C'était terrifiant...\"",
@@ -5610,7 +5610,7 @@
             "\\.\"À part ça... Tout ce dont je me rappelle,\n c'est la Première Épreuve.\"",
             "\\.\"C'était un jeu où nous étions attachés à des lits...\n Et nous devions nous échapper avec une seule clé...\"",
             "\\.\\C[4](C'est la même chose que nous...!)",
-            "\\.\"Je... Le professeur Mishima m'a dit\n d'utiliser le papier abrasif sur la clé...\n Et j'ai ensuite retiré ses liens avec.\"",
+            "\\.\"Je... Monsieur Mishima m'a dit\n d'utiliser le papier abrasif sur la clé...\n Et j'ai ensuite retiré ses liens avec.\"",
             "\\.\"Honnêtement...\n C'est grâce à lui que j'ai pu rester calme...\"",
             "\\.\\C[4](La confiance...)",
             "\\.\\C[4](Était-ce un jeu qui évaluait la confiance...?)",
@@ -6328,7 +6328,7 @@
             "\\.\"Désolé, meuf ! J'suis déjà avec Keiji.\"",
             "\\.\"Hein ?\n J-Je vois...\"",
             "\\.\\C[4](Pourquoi avec Keiji...?)",
-            "\\.\\C[4]( Voyons voir... Q-taro est puissant...\nEt Nao peut se porter garant du Professeur Mishima...\nPeut-être Gin, vu qu'il n'est qu'un enfant..?)",
+            "\\.\\C[4]( Voyons voir... Q-taro est puissant...\nEt Nao peut se porter garant de Monsieur Mishima...\nPeut-être Gin, vu qu'il n'est qu'un enfant..?)",
             "\\.\\C[4](... Ils tous l'air vraiment suspicieux, par contre.)",
             "\\.\\C[4](Voyons voir... Kai agit très bizarrement...\n Je n'arrive pas à me fier totalement à Keiji...\n Et Q-taro n'a pas l'air d'être mauvais, mais...)",
             "\\.\\C[4](... Raisonner comme ça ne va que me faire tout\nsoupçonner.)",
@@ -6419,7 +6419,10 @@
             null,
             "\\.\\C[4](Mince... ! C'était une erreur !)",
             null,
-            "\\.\\C[4](Mince... ! C'était une erreur !)"
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            null,
+            null,
+            "\"...\""
         ],
         "173-0-message": [
             null,
@@ -6444,7 +6447,7 @@
             "\\.\\C[4](Mince... ! C'était une erreur !)",
             null,
             "\\.\\C[4](Mince... ! C'était une erreur !)",
-            null,
+            "\"...\"",
             null,
             null,
             null,
@@ -9281,7 +9284,17 @@
             null,
             null,
             null,
-            "\\.\"...\""
+            "\\.\"...\"",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\"...\""
         ],
         "158-0-message": [
             null,
@@ -9737,19 +9750,20 @@
             "\\.\"Lis, Sara...\"",
             "\\.\\C[3]\"La Seconde Épreuve ~ Répétition ~\"",
             "\\.\\C[3]\"Il s'agit d'un exercice imitant le Jeu Principal.\n Elle débutera par la résurrection de la poupée.\"",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\"...\""
+            "\\.\\C[3]\"Vous suivrez les instructions et vous tiendrez un vote\n à la majorité. \\C[10]La personne avec le plus de votes sera\n sacrifiée\\C[3].\"",
+            "\\.\\C[3]\"Toutefois, puisqu'il s'agit d'un simple entraînement,\n la partie sera annulée \\C[10]en cas d'égalité\\C[3].\"",
+            "\\.\\C[4](Quoi...?!)",
+            "\"\\C[10]La Seconde Épreuve\\C[0]...\n Elle est nommée exactement comme l'épreuve que l'on\n a eu en arrivant ici...\"",
+            "\\.\"On n'a jamais remarqué... cette note...!\"",
+            "\\.\"Merde ! Tout ça parce que j'ai dit de garder la porte\n ouverte au cas où...!!\"",
+            "\\.\"... Nous avons été manipulés. L'atmosphère funeste de\n cette salle était discernable avant même d'y avoir\n pénétrée.\"",
+            "\\.\"La partie aurait été annulée en cas d'égalité ?\n Non... me dites pas que...!\"",
+            "\\.\"... S'il y avait eu égalité...\n Il y aurait pas eu de victime.\"",
+            "\\.\"T-Tu déconnes !\n A-Alors, l'est mort pour rien ?!\"",
+            "\\.\\C[4](C'était un piège que l'on aurait pu éviter !\n Si seulement on avait examiné la porte...!)",
+            "\\.\\C[4](Monsieur Mishima...)",
+            "\\.\"...\"",
+            "\\.\\C[4](L'état de Nao... m'inquiète...)"
         ],
         "151-0-message": [
             null,
@@ -10155,7 +10169,7 @@
         ],
         "279-0-message": [
             "Kanna Kizuchi\nUne collégienne. Lors de la Première Épreuve...\nElle aurait perdu sa grande soeur...",
-            "\\.Pleine de regrets, elle m'a interrogée à propos de\nla Première Épreuve. Le professeur Mishima qui passait\npar là par hasard à ce moment lui a menti par\ninquiétude. J'ai joué le jeu.",
+            "\\.Pleine de regrets, elle m'a interrogée à propos de\nla Première Épreuve. Monsieur Mishima qui passait\npar là par hasard à ce moment lui a menti par\ninquiétude. J'ai joué le jeu.",
             "\\.J'ai caché la vérité... car elle était cruelle.\nMais Rillante a insulté Kanna de tueuse de soeur...!\nPeut-être que Kanna m'en veut de lui avoir caché la\nvérité... Même si elle retrouve sa soeur en moi..."
         ],
         "280-0-message": [
@@ -10170,13 +10184,13 @@
         ],
         "282-0-message": [
             "Reko Yabusame\nUne chanteuse et auteure-compositrice qui\nest connue au point d'apparaître dans des\nmagazines.",
-            "\\.Elle est membre d'un groupe au look très voyant.\nElle est inquiète pour ses bongos.\nApparemment, là, elle est \"peu\" maquillée.\nElle est sévère avec les hommes.",
+            "\\.Elle est membre d'un groupe au look très voyant.\nElle s'inquiète pour ses bongos.\nApparemment, là, elle est \"peu\" maquillée.\nElle est sévère avec les hommes.",
             "\\.En parallèle, elle est super gentille avec moi, Nao,\net Kanna. Elle a montré de l'inquiétude envers Sou,\ndonc peut-être plutôt qu'elle est attentionnée\nenvers les faibles et difficile avec les forts..."
         ],
         "283-0-message": [
             "Nao Egokoro\nUne étudiante d'art à l'université. Il semblerait\nqu'elle respecte énormément son professeur\nde lycée, Mishima.",
             "\\.Elle s'est échappée de la Première Épreuve en coopérant\navec lui. Ils comptent l'un sur l'autre, et j'ai vu\nNao s'énerver avec ceux qui parlent du mal de lui.",
-            "\\.Mais... le professeur Mishima... s'est fait tuer\npar Rillante.\n... Je suis inquiète pour Nao."
+            "\\.Mais... Monsieur Mishima... s'est fait tuer\npar Rillante.\n... L'état de Nao me préoccupe."
         ],
         "284-0-message": [
             "Kai Satou\nIl dit être un assistant ménager.\nUn énergumène obsédé par les œufs Bénédicte.",
@@ -10191,7 +10205,7 @@
         "286-0-message": [
             "Kazumi Mishima\nUn professeur de lycée qui a l'air très suspicieux,\nmais qui est en vérité un homme au personnage\ntrès noble.",
             "\\.Il a réussi la Première Épreuve avec Nao, et il\nse faisait du souci pour tout le monde.\nIl aimait sûrement fumer, malgré son déni.\nIl a menti à Kanna pour son bien.",
-            "\\.Le professeur Mishima... est mort.\nLe vote que Rillante a exigé, qui était censé être\nun test... l'a tué. Être brûlé vif par son collier a dû\nêtre douloureux. Je... Je le ferai payer à Rillante."
+            "\\.Monsieur Mishima... est mort.\nLe vote que Rillante a exigé, qui était censé être\nun test... l'a tué. Être brûlé vif par son collier a dû\nêtre douloureux. Je... Je le ferai payer à Rillante."
         ],
         "287-0-message": [
             "Conclure les rappels ?"
@@ -10209,7 +10223,7 @@
             "\\C[3]La porte rouge est fermement verrouillée."
         ],
         "122-0-message": [
-            "\\C[3]Je suis inquiète pour Nao.",
+            "\\C[3]Nao m'inquiète.",
             "\\C[3]La porte rouge est fermement verrouillée."
         ],
         "960-0-message": [
@@ -11041,6 +11055,265 @@
         ],
         "271-0-message": [
             "Voter pour \\C[2]Kai\\C[0] ?"
+        ],
+        "211-0-message": [
+            null,
+            "\"...\"",
+            null,
+            "\"...\"",
+            null,
+            "\"...\""
+        ],
+        "863-0-message": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\"...\""
+        ],
+        "1133-0-message": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\"...\""
+        ],
+        "1450-0-message": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\"...\""
+        ],
+        "1529-0-message": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\"...\""
+        ],
+        "1759-0-message": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\"...\""
+        ],
+        "1760-0-message": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\"...\"",
+            null,
+            null,
+            null,
+            null,
+            "\"...\""
         ]
     },
     "map107": {
@@ -11076,6 +11349,40 @@
             null,
             "\\.\"Hein...?!\"",
             "\\.\"...je vois...\""
+        ],
+        "2-3-message": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.\\C[4](Ça n'a pas marché...!)"
+        ],
+        "3-2-message": [
+            null,
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
+        ],
+        "3-4-message": [
+            null,
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
+        ],
+        "3-6-message": [
+            null,
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
+        ],
+        "3-8-message": [
+            null,
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
+        ],
+        "3-10-message": [
+            null,
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ]
     },
     "items-21": {
@@ -11424,12 +11731,130 @@
             null,
             null,
             "\\.\"...\""
+        ],
+        "6-1-message": [
+            null,
+            null,
+            null,
+            null,
+            "\\.\\C[4](Ça n'a pas marché...!)"
+        ],
+        "6-3-message": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.\\C[4](Ça n'a pas marché...!)",
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.\\C[4](Ça n'a pas marché...!)"
+        ],
+        "6-5-message": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.\\C[4](Ça n'a pas marché...!)"
+        ],
+        "6-7-message": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.\\C[4](Ça n'a pas marché...!)",
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.\\C[4](Ça n'a pas marché...!)"
+        ],
+        "6-9-message": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.\\C[4](Ça n'a pas marché...!)",
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.\\C[4](Ça n'a pas marché...!)"
+        ],
+        "7-2-message": [
+            null,
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
+        ],
+        "7-4-message": [
+            null,
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
+        ],
+        "7-6-message": [
+            null,
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
+        ],
+        "7-8-message": [
+            null,
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
+        ],
+        "7-10-message": [
+            null,
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ]
     },
     "map110": {
         "15-1-choice": [
             "Oui\nNon",
             "Oui\nNon"
+        ],
+        "3-3-message": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.\\C[4](Ça n'a pas marché...!)"
+        ],
+        "4-2-message": [
+            null,
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
+        ],
+        "4-4-message": [
+            null,
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
+        ],
+        "4-6-message": [
+            null,
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
+        ],
+        "4-8-message": [
+            null,
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ]
     },
     "map123": {
@@ -11599,31 +12024,31 @@
         ],
         "3-9-message": [
             "\"Ce n'est pas vrai ! J'ai confiance en vous !\"",
-            "\\.\"Alors pourquoi ne pas laisser quelqu'un d'autre\n être le Concurrent ?!\"",
+            "\\.\"Alors pourquoi pas laisser quelqu'un d'autre\n être l'Concurrent ?!\"",
             "\\.\"Ah...!\"",
             "\\.\"Vous voyez, moi j'doute pas d'vous...!\"",
-            "\\.\\C[4](C'est un échec...!)",
-            "\"Bien évidemment ! Je suis même certaine de gagner !\"",
-            "\\.\"Tu dis ça sans savoir ce qu'est le jeu, exactement...\"",
+            "\\.\\C[4](Ça n'a pas marché...!)",
+            "\"Bien évidemment ! Je suis certaine de gagner !\"",
+            "\\.\"T'sais même pas c'est quoi, le jeu...\"",
             "\\.\"...!\"",
-            "\\.\"Tu me convaincras jamais avec des émotions !\"",
-            "\\.\\C[4](C'est un échec...!)",
-            "\"C'est pour ça que je vais réussir !\"",
-            "\\.\"Pas que Joe ! Toi, Keiji, et Kai...\n Je ne les laisserai pas prendre vos vies !\"",
-            "\\.\"Q-taro... En ce moment, tu ne peux pas ressentir\n de détermination plus forte que la mienne !\"",
+            "\\.\"Ta mentalité sera pas suffisante pour m'convaincre !\"",
+            "\\.\\C[4](Ça n'a pas marché...!)",
+            "\"C'est justement pour ça que je vais réussir !\"",
+            "\\.\"Pas que Joe ! Toi, Keiji, et Kai...\n Je ne les laisserai pas vous tuer !\"",
+            "\\.\"La détermination que tu es en train de ressentir... ne\n peut pas dépasser la mienne, Q-taro !\"",
             "\\.\"...!\"",
-            "\\.\"... T'as raison.\n Pour moi, vous n'êtes tous qu'des étrangers\n que j'viens à peine d'rencontrer.\"",
+            "\\.\"... T'as bien raison sur ça.\n Pour moi, vous êtes qu'des inconnus que\n j'viens à peine d'rencontrer.\"",
             "\\.\"...\"",
-            "\\.\"J'peux m'reposer...\n sur ta volonté d'sauver tes amis...?\"",
-            "\\.\"Tu peux compter sur moi !\"",
-            "\\.\"... Qu'est-c'que t'es cheloue comme lycéenne !\""
+            "\\.\"J'peux vraiment compter... sur ta volonté d'sauver ton\n ami...?\"",
+            "\\.\"Bien sûr, tu peux me faire confiance !\"",
+            "\\.\"... C'que t'es saugrenue !\""
         ],
         "1-13-message": [
             "\"Ahh, argh... J'suis épuisé...\"",
             "\\.\\C[4](Moi aussi...\n Je n'avais jamais autant forcé sur ma voix.)",
-            "\\.\"Mais être honnête et débattre, c'plutôt\n requinquant, en fait.\"",
+            "\\.\"Mais être honnête et gueuler, c'plutôt\n requinquant, en fait.\"",
             "\\.\"Hein...?\"",
-            "\\.\"Bien, la discussion semble être revenue à la normale.\n Pouvons-nous débuter le vote ?\"",
+            "\\.\"Bien, la discussion semble s'être apaisée.\n Pouvons-nous entamer le vote ?\"",
             "\\.\"Oui. Désolé, je sais que vous devez être\n fatigués après ça, mais on devrait commencer.\"",
             "\\>    Sara : 4 votes                    Q-taro : 1 vote\\<\\|",
             "\\>    Sara : 3 votes                    Q-taro : 2 votes\\<\\|",
@@ -11631,7 +12056,7 @@
             "\\.\"Vous avez rien d'autre à ajouter ?\"",
             "\\.\"Hahaha ! Bien sûr qu'non !\"",
             "\\.\"Sara, des gamins qui arrivent à être aussi clairs\n qu'toi, y en a pas beaucoup.\"",
-            "\\.\"J'pense que j'pourrais même parier sur toi !\"",
+            "\\.\"J'sens que j'pourrais même miser sur toi !\"",
             "\\.\"Hahaha ! J'y peux rien !\"",
             "\\.\"Sara, j'dois avouer qu'je pouvais pas croire\n des masses de c'que t'eusses dit...\"",
             "\\.\"Mais t'as deux gars qui croient en toi.\"",
@@ -11639,67 +12064,67 @@
             "\\.\"Q-taro...!\"",
             "\\.\"Tellement cool de ta part.\"",
             "\\.\"Merde, à côté de vous j'ai l'impression\n d'être un gros égoïste.\"",
-            "\\.\"Super ! Bonne chance à toi pour le reste, Sara !\n À partir de maintenant, tout dépend de toi !\"",
+            "\\.\"Super ! Bonne chance pour le reste, Sara !\n À partir de maintenant, tout dépend de toi !\"",
             "\\.\"... Oui !\n Comptez sur moi !\"",
             "\\.\"Très bien. Pouvons-nous prendre place, à présent ?\"",
             "\\C[4](Kai...)",
             "\\.\\C[4](..........)",
             "\\.\\C[4](... Ce n'est pas le moment de réfléchir au sens\n du vote de Kai...)",
             "\\.\\C[4](Le plus dur ne fait que commencer !)",
-            "\\.\\C[4](... Bon. Dès que je suis prête,\n je le dis à \\C[2]l'homme dans la peinture\\C[4].)"
+            "\\.\\C[4](... Bon. Je devrais prévenir \\C[2]l'homme dans la peinture\\C[4]\n quand je serai prête.)"
         ],
         "3-1-message": [
             "\"Le fait que je sois mineure ou une lycéenne\n n'importe pas !\"",
             "\\.\"Et si un collégien comme Gin s'proposait,\n tu l'laisserais faire, toi ?!\"",
             "\\.\"Non, je veux dire...!\"",
-            "\\.\"On a besoin de quelqu'un qui a de l'expérience !\"",
-            "\\.\\C[4](Je me suis trompée...!)",
-            "\"Keiji a dit un peu plus tôt que l'expérience\n ne devrait servir à rien !\"",
+            "\\.\"On a besoin d'quelqu'un qu'a de l'expérience !\"",
+            "\\.\\C[4](Ça n'a pas marché...!)",
+            "\"Keiji a dit tout à l'heure que l'expérience ne sert à\n rien dans ce jeu !\"",
             "\\.\"Ark...!\"",
-            "\\.\"Je n'ai peut-être pas d'expérience, mais je peux\n garder mon sang-froid !\"",
-            "\\.\"Et je suis déterminée à tous nous sauver !\"",
+            "\\.\"Je n'ai peut-être pas d'expérience, mais je sais garder\n mon sang-froid !\"",
+            "\\.\"Et j'ai la détermination pour tous vous sauver !\"",
             "\\.\"...!\"",
             "\"J'en suis consciente !\"",
             "\\.\"J'me l'demande !\n On peut dire c'qu'on veut après tout !\"",
             "\\.\"Non, je veux dire...!\"",
             "\\.\\C[4](On... On ne peut pas expliquer ce genre de choses !)",
-            "\\.\\C[4](C'est un échec...!)"
+            "\\.\\C[4](Ça n'a pas marché...!)"
         ],
         "3-5-message": [
             "\"C'est faux ! Sans motivation,\n on ne peut pas rester positifs !\"",
-            "\\.\"T'essaies d'me dire que l'pouvoir de l'optimisme\n te donnera c'qu'il faut pour gagner l'jeu, là ?!\"",
+            "\\.\"Donc là, t'me dis que l'pouvoir de l'optimisme\n te donnera c'qu'il faut pour gagner ?!\"",
             "\\.\"T'peux pas l'prouver !\"",
-            "\\.\"Ouf...\"",
-            "\\.\\C[4](Je me suis trompée...!)",
+            "\\.\"Ugh...\"",
+            "\\.\\C[4](Ça n'a pas marché...!)",
             "\"Ce n'est pas que je ne te fais pas confiance, Q-taro !\"",
             "\\.\"Alors laisse moi être le Concurrent !\"",
             "\\.\"Non, je veux dire...!\"",
             "\\.\"Les actes valent plus qu'les mots !\"",
-            "\\.\\C[4](Je me suis trompée...!)",
+            "\\.\\C[4](Ça n'a pas marché...!)",
             "\"Oui !\"",
-            "\\.\"Je le dis haut et fort !\n Je suis sûre de pouvoir tous nous sauver !\"",
+            "\\.\"Je le dis haut et fort ! J'ai confiance en moi !\n Je sais que je suis capable de tous vous sauver !\"",
             "\\.\"...!\"",
-            "\\.\"... Ça servirait à rien de confier sa vie\n à quelqu'un d'inconfiant.\"",
-            "\\.\"Si même après tout ça t'as pas la trouille,\n j'devrais pas te prendre à la légère !\""
+            "\\.\"... Ç'servirait à rien de confier sa vie à\n quelqu'un qui s'le sens pas.\"",
+            "\\.\"Si même après tout ça, t'as pas la trouille,\n j'devrais pas t'prendre à la légère !\""
         ],
         "3-3-message": [
             "\"À cause de son traumatisme, Keiji est incapable\n de viser quelqu'un au pistolet !\"",
             "\\.\"Oui... mais...\"",
-            "\\.\"Alors tu mettrais ta vie entre les mains d'une\n personne qui ne se fait pas confiance à elle-même ?!\"",
+            "\\.\"Tu mettrais ta vie entre les mains d'une personne\n qui n'a même pas confiance en elle-même ?!\"",
             "\\.\"...!\"",
-            "\\.\"Merde...! C'est vrai...\"",
-            "\"C'est Joe qui me sollicite !\n Tu ne peux pas le lui demander !\"",
+            "\\.\"Merde...! T'as raison...\"",
+            "\"Joe compte sur moi !\n Tu ne peux pas le lui demander !\"",
             "\\.\"C'est son problème, pas l'mien !\"",
-            "\\.\"Et c'est un homme, il a d'la force !\n T'es sûre d'pouvoir tenir un pistolet, Sara ?!\"",
+            "\\.\"Et c'est un homme, il a d'la force !\n T'es sûre d'pouvoir tenir un pistolet, au moins ?!\"",
             "\\.\"Argh...!\"",
-            "\\.\\C[4](C'est un échec...!)",
-            "\"Tu demandes à Kai, sérieux ?!\"",
+            "\\.\\C[4](Ça n'a pas marché...!)",
+            "\"T'es sûr de vouloir mettre ta vie entre les mains\n de Kai ?!\"",
             "\\.\"Pour moi, y a aucune différence entre\n te choisir et choisir Kai !\"",
-            "\\.\"D'ailleurs, ce serait pas Kai le plus calme ?!\"",
+            "\\.\"D'ailleurs, c'serait pas Kai, le plus calme ?! Hein ?!\"",
             "\\.\"Calme, je sais pas... Il est juste bizarre !\"",
-            "\\.\"Ti es une lycéenne bien zarbi toi-même!\"",
-            "\\.\\C[4](J... Je ne peux pas rétorquer...!)",
-            "\\.\\C[4](C'est un échec...!)"
+            "\\.\"T'es un sacré olibrius toi-même!\"",
+            "\\.\\C[4](J-Je ne peux pas le réfuter...!)",
+            "\\.\\C[4](Ça n'a pas marché...!)"
         ],
         "4-2-message": [
             "\"On dirait qu't'as rien à dire !\"",
@@ -11718,21 +12143,21 @@
             "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "3-7-message": [
-            "\"Joe et Keiji m'ont acceptée comme Concurrent\n depuis le début !\"",
+            "\"Joe et Keiji comptent sur moi depuis le début !\"",
             "\\.\"Grm...\"",
-            "\\.\"Et encore maintenant, c'est toujours le cas !\"",
-            "\\.\"Q-taro, je t'en prie, crois en moi !\"",
+            "\\.\"Et même maintenant, c'est toujours le cas !\"",
+            "\\.\"Q-taro, je t'en prie, crois-en-moi !\"",
             "\\.\"Argh...!\"",
-            "\"Peu importe les atrocités... je les traverserai !\"",
+            "\"Peu importe les atrocités qui m'attendent... je les\n surmonterai !\"",
             "\\.\"Qu'est-c'qu'une p'tite lycéenne\n comme toi peut faire ?!\"",
-            "\\.\"A-Avec ma réflexion, je peux...!\"",
-            "\\.\"T'as aucune garantie qu'y réfléchir va t'aider !\"",
-            "\\.\\C[4](C'est un échec...!)",
-            "\"Des monstres... C'est juste irréel !\"",
-            "\\.\"Mais tu peux pas en être certaine !\"",
-            "\\.\"Et si y a des tigres ou des lions qui s'ramènent ?!\n T'penses pouvoir nous protéger ?!\"",
-            "\\.\\C[4](Tant que je ne connais pas le jeu,\n je ne peux pas répondre à ça...!)",
-            "\\.\\C[4](Je me suis trompée...!)"
+            "\\.\"A-Avec mon intelligence, je peux...!\"",
+            "\\.\"T'as aucune garantie qu'réfléchir te sera d'grande\n aide !\"",
+            "\\.\\C[4](Ça n'a pas marché...!)",
+            "\"Des monstres... C'est juste irréaliste !\"",
+            "\\.\"Mais t'peux pas être certaine qu'ça arrivera pas !\"",
+            "\\.\"Et si y a des tigres ou des lions qui s'ramènent ?!\n T'penses toujours pouvoir nous protéger ?!\"",
+            "\\.\\C[4](Sans savoir en quoi consiste le jeu, je ne peux\n pas le réfuter...!)",
+            "\\.\\C[4](Ça n'a pas marché...!)"
         ],
         "4-10-message": [
             "\"On dirait qu't'as rien à dire !\"",
@@ -11777,7 +12202,7 @@
             "\\.\"...\""
         ],
         "6-1-message": [
-            "\\.\\C[3]Le professeur Mishima... baignant dans une\nmare de sang."
+            "\\.\\C[3]Monsieur Mishima... baignant dans une\nmare de sang."
         ]
     },
     "map53": {
@@ -11806,7 +12231,7 @@
             "\\C[3]Une bouteille pour transporter des liquides."
         ],
         "3-1-message": [
-            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
+            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux de Monsieur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
         ],
         "2-1-message": [
             "\\C[3]Une carte portant l'inscription \"Maître des Clés\".\nElle indique : \"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe."
@@ -11835,7 +12260,7 @@
             "\\C[3]Une bouteille pour transporter des liquides."
         ],
         "6-1-message": [
-            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
+            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux de Monsieur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
         ],
         "4-1-message": [
             "\\C[3]Une carte portant l'inscription \"Maître des Clés\".\nElle indique : \"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe."
@@ -13150,6 +13575,10 @@
             null,
             null,
             "\\.\"...\""
+        ],
+        "2-10-message": [
+            null,
+            "\\.\\C[4](Monsieur Mishima...)"
         ]
     },
     "map54": {
@@ -13178,7 +13607,7 @@
             "\\C[3]Une bouteille pour transporter des liquides."
         ],
         "5-1-message": [
-            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
+            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux de Monsieur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
         ],
         "4-1-message": [
             "\\C[3]Une carte portant l'inscription \"Maître des Clés\".\nElle indique : \"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe."
@@ -18175,7 +18604,7 @@
     },
     "items-76": {
         "name": "Papier Déchiré",
-        "description": "Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
+        "description": "Une note avec quelques prénoms et noms écrits,\ndont ceux de Monsieur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
     },
     "items-77": {
         "name": "Papier Déchiré"
@@ -18334,7 +18763,7 @@
             "\\C[3]Une bouteille pour transporter des liquides."
         ],
         "5-1-message": [
-            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
+            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux de Monsieur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
         ],
         "4-1-message": [
             "\\C[3]Une carte portant l'inscription \"Maître des Clés\".\nElle indique : \"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe."
@@ -18363,7 +18792,7 @@
             "\\C[3]Une bouteille pour transporter des liquides."
         ],
         "39-1-message": [
-            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux du professeur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
+            "\\C[3]Une note avec quelques prénoms et noms écrits,\ndont ceux de Monsieur Mishima.\nIl y a aussi ceux de \"Alice Yabusame\"."
         ],
         "37-1-message": [
             "\\C[3]Une carte portant l'inscription \"Maître des Clés\".\nElle indique : \"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe."
@@ -18440,5 +18869,11 @@
     },
     "items-55": {
         "name": "Bouchon"
+    },
+    "map111": {
+        "2-1-message": [
+            null,
+            "\\.\\C[4](Monsieur Mishima...)"
+        ]
     }
 }
