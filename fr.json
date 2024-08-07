@@ -247,7 +247,7 @@
             "\\.\"Juste une petite question...\n Tu sais ce que c'est, un \\C[2]vote à la majorité\\C[0] ?\"",
             "\\.\"Ahaha, pas la peine de s'énerver.\n C'est toujours utile de commencer ses discussions\n par une question simple.\"",
             "\\.\"Ça, c'est inhabituel !\"",
-            "\\.\"Tu sais, c'est quand des gens votent pour décider\n de quelque chose et c'est la proposition qui obtient\n le plus de votes qui devient celle que l'on choisit...\"",
+            "\\.\"Mais si ! C'est quand des gens votent pour décider\n de quelque chose et c'est la proposition qui obtient\n le plus de votes qui devient celle que l'on choisit...\"",
             "\\.\"Tiens ? On dirait que nous ne sommes pas seuls.\"",
             "\\.\"J'adore les votes à la majorité ! Ils représentent\n ce que la démocratie devrait être : suivre\n la volonté du peuple !\n C'est une façon de réduire les conflits !\"",
             "\\.\"Je hais les votes à la majorité !\n Ils font taire les minorités et ne font que\n renforcer les ténèbres tapies dans l'ombre !\"",
@@ -2370,7 +2370,7 @@
         "4-1-message": [
             "\\C[3]Il y a quelque chose sur la table.",
             "\\.\\C[3]Petite Fléchette obtenue.",
-            "\"Elle est petite, mais elle a l'air jolie.\n Fais attention, elle est pointue.\""
+            "\"Elle est petite, mais elle a l'air sophistiquée.\n Fais attention, elle est pointue.\""
         ],
         "4-2-message": [
             "\\C[3]Il y a quelque chose sur la table.",
@@ -2588,7 +2588,7 @@
             "\\.\"Je vais la porter. Elle est lourde, hein ?\""
         ],
         "3-4-message": [
-            "\\C[3]La mystérieuse cible demeure\n suspicieusement immobile."
+            "\\C[3]La mystérieuse cible demeure\nsuspicieusement immobile."
         ],
         "4-1-message": [
             "\"C'est quoi, ce qu'il y a au-dessus de la cible ?\"",
@@ -2888,7 +2888,7 @@
             "\\.\"Le chaos ?\"",
             "\\.\"La présence d'une arme crée un rapport de force...\n Qui accepterait d'être en position de faiblesse ?\"",
             "\\.\\C[4](Une lutte pour la possession de l'arme...\n C'est vrai, c'est logique.)",
-            "\\.\"Heureusement qu'on a notre bonne vieille Sara\n avec nous. On ne se fera pas avoir comme ça.\"",
+            "\\.\"Heureusement qu'on a notre bonne vieille Sara\n avec nous. On se fera pas avoir comme ça.\"",
             "\\.\"... Pourquoi me fais-tu autant confiance ?\"",
             "\\.\"Parce que t'es juste trop meugnonne.\"",
             "\\.\\C[4](... Keiji incite intentionnellement tout le\n monde à me faire confiance.)",
@@ -2897,7 +2897,7 @@
             "\\.\"Ah, oui ! Keiji.\n J'ai trouvé ces balles à blanc dans la cafétéria.\"",
             "\\.\"... Quoi ?\"",
             "\\.\\C[3]Balles à blanc remises à Keiji.",
-            "\\.\"Est-ce qu'elles seraient un indice ?\"",
+            "\\.\"Pourraient-elles nous donner une piste ?\"",
             "\\.\"... Je vais les regarder de plus près.\"",
             "\\C[3]Bon... Que faire pendant qu'il les examine ?"
         ],
@@ -2911,7 +2911,7 @@
             "\"Oh, Sara. Attends une petite minute...\"",
             "\\.\"Oui ?\"",
             "\\.\\C[3]Avant de sortir de la salle, je me suis retournée, et...",
-            "\"Hein ? Sara, tu ne viens pas ?\"",
+            "\"Hein ? Sara, ne viens-tu pas ?\"",
             "\"Ouah...!\\.\\.\n Qu'est-ce qu-?!\"",
             "\\.\"Sara ! Tout va bien ?!\"",
             "\\.\\C[3]Des barres en acier sont apparues à la porte,\nme séparant de Sou...!",
@@ -2947,13 +2947,13 @@
             "\\.\"Sara, j'peux te demander d'être le Concurrent ?\"",
             "\\.\"... Quoi ?!\"",
             "\\.\"C... C'une blague !\n T'peux pas décider d'ça tout seul, gamin !\"",
-            "\\.\"J'assume qu'il n'est pas très approprié de demander\n à une jeune fille de manier une arme...\"",
+            "\\.\"J'assertis qu'il n'est pas très approprié de demander\n à une jeune fille de manier une arme...\"",
             "\\.\"Ça me dérange pas.\n Sara a la tête sur les épaules.\"",
             "\\.\"Alors, Sara ? T'as la confiance ?\"",
             "\\.\"Confiance...?\"",
             "\\.\"...\"",
             "\\.\\C[4](Joe...)",
-            "\\.\\C[4](Lors de l'Épreuve, je lui ai fait confiance et il a fait\n ce que j'attendais de lui...)",
+            "\\.\\C[4](Lors de l'Épreuve, je lui ai fait confiance et il a\n fait ce que j'attendais de lui...)",
             "\\.\\C[4](Et maintenant, il me sollicite...!)",
             "\\.\\C[4](Je vais m'en occuper...! Sans hésiter !)",
             "\\.\"...\"",
@@ -2986,22 +2986,22 @@
             "\\.\"...\"",
             "\\.\"... Mes excuses.\n J'essayais de raconter une blague.\"",
             "\\.\"Dans une situation pareille...?\"",
-            "\\.\"Je suis vraiment désolé...\""
+            "\\.\"Vraiment navré...\""
         ],
         "6-1-message": [
             "\\C[3]Une étrange figure est assise dans la chaise.",
             "\\C[3]Une drôle de chose est assise ici.",
-            "\\.\"On dirait... un mannequin.\"",
-            "\\.\"Un mannequin, hein...\"",
-            "\\.\"Sortons-le du siège et inspectons-le.\"",
-            "\\.\"Tiens...? Il est collé au fauteuil.\"",
-            "\\.\"Une chose est sûre, ils ne les ont pas placés\n ici par hasard.\"",
-            "\\.\"Ça pourrait être dangereux de le toucher.\n Restons prudents et ne le touchons pas.\"",
+            "\\.\"On dirait... une poupée.\"",
+            "\\.\"Une poupée, hein...\"",
+            "\\.\"Sortons-la du siège et inspectons-la.\"",
+            "\\.\"Tiens...? Elle est collée au fauteuil.\"",
+            "\\.\"J'ai le pressentiment qu'ils ne les ont pas placées\n ici par hasard.\"",
+            "\\.\"Ça pourrait être dangereux de la toucher.\n Observons-la.\"",
             "\\.\"Tu as raison.\"",
-            "\\.\\C[3]Je regarde le mannequin de plus près.",
-            "\\.\\C[3]Il semblerait qu'il soit fixé à la chaise\npour qu'il ne puisse pas être déplacé.",
-            "\\.\"Une chose est sûre, ils ne les ont pas placés\n ici par hasard.\"",
-            "\\.\"En tout cas, je suis rassuré.\n Je ne sais pas ce que j'aurais fait s'ils\n s'étaient mis à nous attaquer !\"",
+            "\\.\\C[3]Je regarde la poupée de plus près.",
+            "\\.\\C[3]Il semblerait qu'elle soit fixée au fauteuil\npour qu'elle ne puisse pas être déplacée.",
+            "\\.\"J'ai le pressentiment qu'ils ne les ont pas placées\n ici par hasard.\"",
+            "\\.\"En tout cas, je suis rassuré.\n Je ne sais pas ce que j'aurais fait si elles\n s'étaient mises à nous attaquer !\"",
             "\\.\\C[4](Hein...?)",
             "\\.\\C[3]En regardant de plus près, il y a quelque chose\nentre la figure et le fauteuil.",
             "\\.\\C[4](C'est... un \\C[2]pistolet\\C[4] ?)",
@@ -3013,9 +3013,9 @@
             "\\.\"Dis, pourrais-tu me le donner ?\"",
             "\\.\"...\"",
             "\\.\"...\"",
-            "\\.\"... Ahaha.\n Tu n'as pas peur de donner une arme à un inconnu ?\"",
+            "\\.\"... Ahaha.\n N'as-tu pas peur de donner une arme à un inconnu ?\"",
             "\\.\"...\"",
-            "\\.\"Tu penses être en sécurité juste parce que\n je n'ai pas de balles ?\"",
+            "\\.\"Tu penses être en sécurité parce qu'il n'est pas\n chargé ?\"",
             "\\.\"Je passe, Sara. Tu peux le garder.\n Tu ne devrais pas le lâcher aussi facilement.\"",
             "\\.\"D'accord...\"",
             "\\.\"Content que tu me fasses confiance en tout cas.\n Ahaha.\"",
@@ -3028,12 +3028,12 @@
         "4-2-message": [
             "\"Je vais regarder ces balles à blanc de plus près.\"",
             "\\.\"Donne-moi juste un peu de temps.\"",
-            "\"Bon... Je ferais mieux d'être un bon policier et à\n continuer d'inspecter les alentours.\"",
+            "\"Bon... Je ferais mieux d'être un bon policier et de\n continuer d'inspecter les alentours.\"",
             "\\.\"Continuez comme ça aussi, vous deux.\""
         ],
         "3-1-message": [
             "\"Je m'demande à quoi sert cette énorme peinture.\"",
-            "\\.\"Tu trouves qu'elle a quelque chose de louche ?\"",
+            "\\.\"Trouves-tu qu'elle a quelque chose de louche ?\"",
             "\\.\"Ouais...\"",
             "\\.\"Essaie de la décrocher du mur pour voir.\"",
             "\\.\"J'pense que je vais d'abord m'occuper des\n trucs simples, genre ces fauteuils.\"",
@@ -3049,17 +3049,17 @@
         "7-1-message": [
             "\\C[3]Une étrange figure est assise dans la chaise.",
             "\\C[3]Une drôle de chose est assise ici.",
-            "\\.\"On dirait... un mannequin.\"",
-            "\\.\"Un mannequin, hein...\"",
-            "\\.\"Sortons-le du siège et inspectons-le.\"",
-            "\\.\"Tiens...? Il est collé au fauteuil.\"",
-            "\\.\"Une chose est sûre, ils ne les ont pas placés\n ici par hasard.\"",
-            "\\.\"Ça pourrait être dangereux de le toucher.\n Restons prudents et ne le touchons pas.\"",
+            "\\.\"On dirait... une poupée.\"",
+            "\\.\"Une poupée, hein...\"",
+            "\\.\"Sortons-la du siège et inspectons-la.\"",
+            "\\.\"Tiens...? Elle est collée au fauteuil.\"",
+            "\\.\"Une chose est sûre, ils ne les ont pas placées\n ici par hasard.\"",
+            "\\.\"Ça pourrait être dangereux de la toucher.\n Observons-la.\"",
             "\\.\"Tu as raison.\"",
-            "\\.\\C[3]Je regarde le mannequin de plus près.",
-            "\\.\\C[3]Il semblerait qu'il soit fixé à la chaise\npour qu'il ne puisse pas être déplacé.",
-            "\\.\"Une chose est sûre, ils ne les ont pas placés\n ici par hasard.\"",
-            "\\.\"En tout cas, je suis rassuré.\n Je ne sais pas ce que j'aurais fait s'ils\n s'étaient mis à nous attaquer !\""
+            "\\.\\C[3]Je regarde la poupée de plus près.",
+            "\\.\\C[3]Il semblerait qu'elle soit fixée au fauteuil\npour qu'elle ne puisse pas être déplacée.",
+            "\\.\"Une chose est sûre, ils ne les ont pas placées\n ici par hasard.\"",
+            "\\.\"En tout cas, je suis rassuré.\n Je ne sais pas ce que j'aurais fait si elles\n s'étaient mises à nous attaquer !\""
         ],
         "7-1-choice": [
             "Inspectons-le de plus près\nOn ne devrait pas le toucher"
@@ -3075,7 +3075,7 @@
         ],
         "3-2-message": [
             "\"Euhh... Sou, c'est ça ?\"",
-            "\"Ahaha, je suis content que tu te souviennes de mon nom.\"",
+            "\"Ahaha, ravi que tu te souviennes de mon nom.\"",
             "\\.\"T'inquiète, mec !\n Garde un œil sur Sara pour moi !\"",
             "\\.\"... Ahaha. Je pense que je devrais plutôt\n m'inquiéter de ne pas la ralentir.\""
         ],
@@ -3089,7 +3089,7 @@
             "\\.\"Eum...\"",
             "\\.\\C[3]Vous obtenez 3 balles.",
             "\\.\"Attends, ce sont...\"",
-            "\\.\"Non, ce ne sont pas les miennes.\n Je les ai trouvées en examinant les sièges.\"",
+            "\\.\"Non, ce sont pas les miennes.\n Je les ai trouvées en examinant les sièges.\"",
             "\\.\"Je... n'en avais jamais vu de mes propres yeux.\n Ce sont des vraies ?\"",
             "\\.\"Sûrement. Elles sont dangereuses.\n Tu pourrais les prendre ?\"",
             "\\.\"Pourquoi moi...?\"",
@@ -3107,17 +3107,17 @@
         "6-2-message": [
             "\\C[3]Une étrange figure est assise dans la chaise.",
             "\\C[3]Une drôle de chose est assise ici.",
-            "\\.\"On dirait... un mannequin.\"",
-            "\\.\"Un mannequin, hein...\"",
-            "\\.\"Sortons-le du siège et inspectons-le.\"",
-            "\\.\"Tiens...? Il est collé au fauteuil.\"",
-            "\\.\"Une chose est sûre, ils ne les ont pas placés\n ici par hasard.\"",
-            "\\.\"Ça pourrait être dangereux de le toucher.\n Restons prudents et ne le touchons pas.\"",
+            "\\.\"On dirait... une poupée.\"",
+            "\\.\"Une poupée, hein...\"",
+            "\\.\"Sortons-la du siège et inspectons-la.\"",
+            "\\.\"Tiens...? Elle est collée au fauteuil.\"",
+            "\\.\"J'ai le pressentiment qu'ils ne les ont pas placées\n ici par hasard.\"",
+            "\\.\"Ça pourrait être dangereux de la toucher.\n Observons-la.\"",
             "\\.\"Tu as raison.\"",
-            "\\.\\C[3]Je regarde le mannequin de plus près.",
-            "\\.\\C[3]Il semblerait qu'il soit fixé à la chaise\npour qu'il ne puisse pas être déplacé.",
-            "\\.\"Une chose est sûre, ils ne les ont pas placés\n ici par hasard.\"",
-            "\\.\"En tout cas, je suis rassuré.\n Je ne sais pas ce que j'aurais fait s'ils\n s'étaient mis à nous attaquer !\""
+            "\\.\\C[3]Je regarde la poupée de plus près.",
+            "\\.\\C[3]Il semblerait qu'elle soit fixée au fauteuil\npour qu'elle ne puisse pas être déplacée.",
+            "\\.\"Une chose est sûre, ils ne les ont pas placées\n ici par hasard.\"",
+            "\\.\"En tout cas, je suis rassuré.\n Je ne sais pas ce que j'aurais fait si elles\n s'étaient mises à nous attaquer !\""
         ],
         "6-2-choice": [
             "Inspectons-le de plus près\nOn ne devrait pas le toucher"
@@ -3477,7 +3477,7 @@
             "\"Ton imagination est incroyablement,\n sauvagement tordue.\"",
             "\\.\"Sauvagement tordue...?\"",
             "\\.\"P-Plus important... Ne penses-tu pas qu'il a un\n lien avec la tête qu'on a trouvée dans la boîte ?\"",
-            "\\.\"Trouver le \\C[2]corps\\C[0]...\n Tu te souviens de la note ?\"",
+            "\\.\"Mais si ! Trouver le \\C[2]corps\\C[0]...\n Ne te souviens-tu pas de la note ?\"",
             "\\.\"Je me demande si la tête de la boîte\n peut être combinée avec ce torse...\"",
             "\\.\"Penses-tu que ça fera quelque chose ?\"",
             "\\.\"C'est possible. Ce qui fait un peu peur...\"",
@@ -3490,7 +3490,7 @@
             "\"Hé... Laisse-moi y jeter un coup d'œil.\"",
             "\\.\"... Ahh, je vois.\n Ce sont des balles à blanc.\"",
             "\\.\"À blanc ?\"",
-            "\\.\"Tu sais, comme des jouets.\n Quand on les tire avec un pistolet,\n elles ne font qu'un bruit.\"",
+            "\\.\"Quand on les tire avec un pistolet, elles ne font qu'un\n bruit. Comme des jouets.\"",
             "\\.\"Donc ce ne sont pas des vraies.\"",
             "\\.\"C'est ça. Elles sont inoffensives.\"",
             "\\.\"J'ai une idée. Demandons à Keiji de les examiner.\n Il devrait plus s'y connaître que nous, donc\n peut-être qu'il trouvera quelque chose.\"",
@@ -9063,13 +9063,13 @@
         ],
         "55-0-message": [
             "\\.\"Prête pour le débat ?\"",
-            "\"Je serai toujours de ton côté.\"",
+            "\"Je serai toujours à tes côtés.\"",
             "\"Alors je patiente un peu plus.\""
         ],
         "57-0-message": [
-            "\"Faut qu'celui en qui on peut faire l'plus\nconfiance soit le Concurrent, j'pense.\"",
+            "\"Faut qu'celui en qui on peut faire l'plus\n confiance soit le Concurrent, j'pense.\"",
             "\"Pas d'objections, hein ?\n Alors discutons-en.\"",
-            "\"J'irai droit au but : j'ai d'l'expérience avec les armes\n à feu, donc laissez-moi être l'Concurrent.\"",
+            "\"J'irai droit au but : j'ai d'l'expérience avec les\n armes à feu, donc laissez-moi être l'Concurrent.\"",
             "\\.\"C'est la vérité ?\"",
             "\\.\"Ouaip, j'déteste les mensonges. Je m'suis bien\n familiarisé avec quand j'suis allé aux USA !\"",
             "\\.\"Donc tu veux dire que t'as eu de l'entraînement ?\"",
@@ -9081,7 +9081,7 @@
             "\"... Hrm... Je suis indécis.\n Laisser Sara porter ce fardeau me ferait de la peine.\"",
             "\\.\"Elle s'en sortira ! Sara a des nerfs d'acier !\n Tu peux carrément l'appeler Steelmind !\"",
             "\\.\"... \\C[2]Steelmind\\C[0]...?\"",
-            "\\.\\C[4](Ne te concentre pas sur ça...)",
+            "\\.\\C[4](Ne fais pas attention à ça...)",
             "\"Alors, Sara ?\n Tu penses pouvoir réfuter quoi que ce soit ?\"",
             "\\.\\C[4](Réfuter...\n Je n'ai pas grand-chose à dire moi, si ?)",
             "\\.\"... Je vais y réfléchir.\"",
@@ -9103,7 +9103,7 @@
             "\\.\"J'ai toujours l'sang-froid... Crois-le ou non.\"",
             "\\.\"Même quand tu pointes une arme sur quelqu'un ?\"",
             "\\.\"...!\"",
-            "\\.\"C'est horrible... la personne devant toi pourrait mourir\n l'instant d'après par ta main.\"",
+            "\\.\"C'est horrible... la personne devant toi pourrait\n mourir l'instant d'après par ta faute.\"",
             "\\.\"T'as déjà vécu ça ?\"",
             "\\.\"..........\"",
             "\\.\"Je fais plus confiance à quelqu'un de déterminé\n à sauver son ami qu'un amateur avec un peu\n d'entraînement.\"",
@@ -9115,7 +9115,7 @@
             "\\.\"Keiji ! Ça veut pas plutôt dire qu'on devrait\n t'choisir toi, comme Concurrent ?!\"",
             "\\.\"T'as dû être dans plein d'fusillades vu ton métier !\"",
             "\\.\"...\"",
-            "\\.\"I-Il a un point...\"",
+            "\\.\"I-Il a pas tord...\"",
             "\\.\"En effet, c'est justement ce que je me demandais.\"",
             "\\.\"Pourquoi le policier, qui conviendrait parfaitement\n à cette tâche, ne se désignerait-il pas ?\"",
             null,
@@ -9183,7 +9183,7 @@
             null,
             null,
             "\\.\"...\"",
-            "\\.\"I-Il a un point...\"",
+            "\\.\"I-Il a pas tord...\"",
             "\\.\"En effet, c'est justement ce que je me demandais.\"",
             "\\.\"Pourquoi le policier, qui conviendrait parfaitement\n à cette tâche, ne se désignerait-il pas ?\"",
             null,
@@ -9653,7 +9653,7 @@
         "58-0-message": [
             "\"Je vais la faire courte aussi. Q-taro, même si t'as\n de l'expérience, je peux pas te faire confiance.\"",
             "\"J'ai rien d'autre à dire sur ça.\"",
-            "\\C[4](Peut-être que je devrais opposer une autre\n déclaration...)",
+            "\\C[4](Je devrais confronter sa déclaration à une autre...)",
             "\"On a pas assez de temps.\n Pas assez pour qu'on apprenne\n à se faire confiance, en tout cas.\"",
             "\\.\"Mais mes instincts de détective me disent\n qu'on s'en sortira très bien avec Sara.\"",
             "\"On a pas assez de temps.\n Pas assez pour qu'on apprenne\n à se faire confiance, en tout cas.\"",
@@ -9666,7 +9666,7 @@
             "\\.\"J'ai autant l'air calculateur que ça ?\n Ça me surprend vraiment.\"",
             "\\.\"C'est juste mon intuition.\n J'ai confiance en ma capacité à cerner les gens.\"",
             "\\.\"Je vois...\"",
-            "\\.\"... Cependant, vous omettez une partie de votre\n histoire.\"",
+            "\\.\"... Cependant, vous omettez un élément dans votre\n histoire.\"",
             "\\.\"... Ah ouais ?\"",
             "\\.\"...\""
         ],
@@ -9674,9 +9674,9 @@
             "\"... Hrm... Je suis indécis.\n Laisser Sara porter ce fardeau me ferait de la peine.\"",
             "\"Pardon... Je vous prie de bien vouloir me laisser\n y réfléchir un peu plus.\"",
             "\\.\\C[4](On dirait que ça n'a pas eu d'effet...)",
-            "\"Cependant, je ne suis pas confiant à l'idée de porter\n une arme. Il s'agit donc d'une question de qui je pense\n est le plus approprié pour cette tâche.\"",
+            "\"Cependant, je ne suis pas confiant à l'idée de porter\n une arme. Il s'agit donc d'une question de qui je\n pense est le plus approprié pour cette tâche.\"",
             "\\.\"Mais donc... qui...?\"",
-            "\"Cependant, je ne suis pas confiant à l'idée de porter\n une arme. Il s'agit donc d'une question de qui je pense\n est le plus approprié pour cette tâche.\"",
+            "\"Cependant, je ne suis pas confiant à l'idée de porter\n une arme. Il s'agit donc d'une question de qui je\n pense est le plus approprié pour cette tâche.\"",
             "\\.\"Bien sûr... Il y a quelqu'un parmi nous qui serait\n tout à fait qualifié pour une telle tâche...\"",
             "\\\"Mais pour une raison ou pour une autre,\n il ne se propose pas en tant que candidat.\"",
             "\\.\"...\"",
@@ -10192,7 +10192,7 @@
             "\\C[3]La porte rouge est fermement verrouillée."
         ],
         "59-0-message": [
-            "\"J'irai droit au but : j'ai d'l'expérience avec les armes\n à feu, donc laissez-moi être l'Concurrent.\"",
+            "\"J'irai droit au but : j'ai d'l'expérience avec les\n armes à feu, donc laissez-moi être l'Concurrent.\"",
             "\"Si t'es pas d'accord, va falloir qu'tu t'exprimes\n mieux que ça !\"",
             "\\C[4](Peut-être qu'une autre déclaration le convaincrait...?)",
             "\"Y a pas beaucoup d'gens qui savent manier des armes\n à feu dans c'pays. Mon expérience est précieuse, nan ?\"",
@@ -10248,7 +10248,7 @@
             "Mémoriser la déclaration\nAnnuler",
             "Oublier la déclaration mémorisée\nAnnuler",
             "Appliquer la déclaration mémorisée\nAnnuler",
-            "Je ne sais pas comment réfuter quelqu'un\nJe ne sais pas comment gagner la confiance des gens"
+            "Je ne sais pas comment les réfuter\nJe ne sais pas comment les convaincre"
         ],
         "63-0-choice": [
             "Mémoriser la déclaration\nAnnuler",
@@ -10268,7 +10268,7 @@
         "67-0-message": [
             null,
             "\"J'ai rien d'autre à dire sur ça.\"",
-            "\\C[4](Peut-être que je devrais opposer une autre\n déclaration...)"
+            "\\C[4](Je devrais confronter sa déclaration à une autre...)"
         ],
         "66-0-choice": [
             "Mémoriser la déclaration\nAnnuler",
@@ -11434,7 +11434,7 @@
     "map27": {
         "1-1-message": [
             "\"Bon, discutons d'qui devrait être\n le Concurrent.\"",
-            "\\.\"Lorsque nous aurons tous décidé de nos opinions,\n nous pourrons voter.\"",
+            "\\.\"Lorsque nous aurons tous fait nos choix,\n nous pourrons voter.\"",
             "\\.\"Sara...\"",
             "\\.\"Tu sais ce qu'il te reste à faire !\n Montre à Q-taro que t'es de confiance !\"",
             "\\.\"...\""
@@ -11463,23 +11463,23 @@
         "1-13-message": [
             "\"Ahh, argh... J'suis épuisé...\"",
             "\\.\\C[4](Moi aussi...\n Je n'avais jamais autant forcé sur ma voix.)",
-            "\\.\"Mais être honnête et s'disputer, c'est\n plutôt rafraichissant, en fait.\"",
+            "\\.\"Mais être honnête et débattre, c'plutôt\n requinquant, en fait.\"",
             "\\.\"Hein...?\"",
-            "\\.\"Bien, la discussion semble être revenue à la normale.\n S'il n'y a plus d'objections, pouvons-nous\n débuter le vote ?\"",
-            "\\.\"Oui. Désolé, je sais que vous deux devez être\n fatigués après ça, mais on devrait commencer.\"",
+            "\\.\"Bien, la discussion semble être revenue à la normale.\n Pouvons-nous débuter le vote ?\"",
+            "\\.\"Oui. Désolé, je sais que vous devez être\n fatigués après ça, mais on devrait commencer.\"",
             "\\>    Sara : 4 votes                    Q-taro : 1 vote\\<\\|",
             "\\>    Sara : 3 votes                    Q-taro : 2 votes\\<\\|",
             "\"Bon... Bah on dirait qu'c'est décidé.\"",
-            "\\.\"Vous n'avez rien à ajouter ?\"",
-            "\\.\"Hahaha ! Bien sûr que non !\"",
+            "\\.\"Vous avez rien d'autre à ajouter ?\"",
+            "\\.\"Hahaha ! Bien sûr qu'non !\"",
             "\\.\"Sara, des gamins qui arrivent à être aussi clairs\n qu'toi, y en a pas beaucoup.\"",
-            "\\.\"J'sens que j'pourrais même parier sur toi !\"",
-            "\\.\"Hahaha ! Je n'y peux rien !\"",
-            "\\.\"Sara, j'dois avouer qu'je n'pouvais\n pas croire des masses de c'que t'eusses dit...\"",
+            "\\.\"J'pense que j'pourrais même parier sur toi !\"",
+            "\\.\"Hahaha ! J'y peux rien !\"",
+            "\\.\"Sara, j'dois avouer qu'je pouvais pas croire\n des masses de c'que t'eusses dit...\"",
             "\\.\"Mais t'as deux gars qui croient en toi.\"",
-            "\\.\"Alors n'les laissez pas tomber !\n Fais ça pour moi, et j'te ferai confiance aussi !\"",
+            "\\.\"Alors n'les laisse pas tomber !\n Fais ça pour moi, et j'te ferai confiance aussi !\"",
             "\\.\"Q-taro...!\"",
-            "\\.\"De la manière dont tu l'as dit, c'était cool.\"",
+            "\\.\"Tellement cool de ta part.\"",
             "\\.\"Merde, à côté de vous j'ai l'impression\n d'être un gros égoïste.\"",
             "\\.\"Super ! Bonne chance à toi pour le reste, Sara !\n À partir de maintenant, tout dépend de toi !\"",
             "\\.\"... Oui !\n Comptez sur moi !\"",
