@@ -246,7 +246,7 @@
             "\"Salut.\"",
             "\\.\"Juste une petite question...\n Tu sais ce que c'est, un \\C[2]vote à la majorité\\C[0] ?\"",
             "\\.\"Ahaha, pas la peine de s'énerver.\n C'est toujours utile de commencer ses discussions\n par une question simple.\"",
-            "\\.\"Ça, c'est inhabituel !\"",
+            "\\.\"Tiens, c'est inhabituel !\"",
             "\\.\"Mais si ! C'est quand des gens votent pour décider\n de quelque chose et c'est la proposition qui obtient\n le plus de votes qui devient celle que l'on choisit...\"",
             "\\.\"Tiens ? On dirait que nous ne sommes pas seuls.\"",
             "\\.\"J'adore les votes à la majorité ! Ils représentent\n ce que la démocratie devrait être : suivre\n la volonté du peuple !\n C'est une façon de réduire les conflits !\"",
@@ -2021,7 +2021,7 @@
             "\\C[3]Nao et Reko s'occupent de Kanna,\ntoujours inconsciente.",
             "\"Sara, ramène-toi ici si t'es en danger, okay ?\n Hésite pas à laisser le plus difficile aux mecs.\"",
             "\\.\"Bon après, le gars frêle au bonnet a pas l'air bien\n robuste non plus... Tu devrais aussi t'enfuir\n avec elle si ça arrive, petit.\"",
-            "\"Ç-Ça, c'est vexant... Ahaha.\"",
+            "\"Q-Quelle remarque vexante... Ahaha.\"",
             "\"Bonne chance à tous...!\""
         ],
         "11-1-message": [
@@ -2613,7 +2613,7 @@
         "77-1-message": [
             "\\C[3]La porte rouge est fermement verrouillée.",
             "\"Elle s'ouvre pas, hein...\"",
-            "\"Ça, c'est curieux...\""
+            "\"Tiens, c'est curieux...\""
         ],
         "82-1-message": [
             "\\C[3]La porte bleue semble s'ouvrir facilement.",
