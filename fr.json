@@ -9132,22 +9132,35 @@
             "\"...\"",
             "\\C[4](Il me faut plus d'informations pour savoir que faire...)",
             "\"...\"",
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\.\\C[4](Keiji ne dit rien...)",
+            "\"Keiji... Se pourrait-il que tu n'aies jamais utilisé\n d'arme à feu ?\"",
+            "\\.\"Si, si, j'en ai déjà utilisé.\"",
+            "\\.\\C[4](Il m'a répondu facilement, pourtant...)",
+            "\"Keiji... Pourquoi est-ce que tu ne dis rien ?\"",
             "\\.\"...\"",
-            null,
-            null,
-            null,
-            null,
+            "\\.\"Keiji...\"",
+            "\\.\"Réponds-moi !!\"",
+            "\\.\"Ouah.\"",
+            "\\.\"On est sérieux, là !\n Si tu ne nous dis pas ce à quoi tu penses, on ne\n comprendra jamais !\"",
             "\\.\"...\"",
-            null,
-            null,
-            null,
-            null,
-            "\\.\"...\""
+            "\\.\"... Hahah.\"",
+            "\\.\"Hah hah hah hah !\"",
+            "\\.\"Tu te prends pour qui, ma mère ? Hahaha !\"",
+            "\\.\"Bouahaha...\"",
+            "\\.\"...\"",
+            "\\.\"Ahh, ce que j'ai bien ri...\n D'accord, d'accord. Je vais vous expliquer.\"",
+            "\\.\"... \\C[2]J'ai tiré sur quelqu'un\\C[0].\n Et depuis... je suis incapable d'utiliser\n d'armes à feu.\"",
+            "\\.\"... Quoi ?!\"",
+            "\\.\"Je sais, c'est pathétique. J'aurais dû m'y\n préparer en sachant que je deviendrais détective.\"",
+            "\\.\"Mais... Quand ce genre de choses arrivent, ça passe\n toujours à la télévision, non...?\"",
+            "\\.\"Y a pas que la réalité qui ressort au grand jour.\"",
+            "\\.\"... C'est tout. Je promets que c'est la vérité.\"",
+            "\\.\\C[4](Je ne pense pas qu'il m'en dise plus à ce sujet...)",
+            "\\.\\C[4](Mais... j'ai réussi à extraire de Keiji une nouvelle\n déclaration.)",
+            "\"Keiji... Pourquoi veux-tu autant que je sois\n la Concurrente ?\"",
+            "\\.\"'Car t'es juste trop meugnonne.\"",
+            "\\.\"Combien de fois tu veux que je me répète ?\"",
+            "\\.\\C[4](Il évite clairement la question...)"
         ],
         "129-0-message": [
             null,
@@ -9690,11 +9703,22 @@
             "\\.\"... Quelle situation troublante.\""
         ],
         "68-0-message": [
-            null,
-            null,
-            null,
-            null,
-            "\\.\"...\""
+            "\"... C'la vérité ?\"",
+            "\\.\"... Ouais.\"",
+            "\\.\"... T'étais en intervention ?\n La personne sur qui t'as tiré... l'en est morte...?\"",
+            "\\.\"..........\"",
+            "\\.\"...\"",
+            "\\.\"Ç'a dû être traumatisant...\"",
+            "\\.\"... Vraiment désolé de pas être à la hauteur\n de vos attentes.\"",
+            "\\.\"Depuis, dès que je vise quelqu'un au pistolet,\n il se passe des trucs bizarres dans ma tête.\n J'peux pas m'empêcher de transpirer.\"",
+            "\\.\"... C'serait pas une bonne idée de t'choisir, alors.\"",
+            "\\.\"A-Alors vous pouvez compter sur Sara !\n Hein, Q-taro ?!\"",
+            "\\.\"..........\"",
+            "\\.\"A-Attendez une minute ! J'suis nerveux !\n C'sont nos vies qui sont en jeu, là !\n On peut pas prendre de risques !\"",
+            "\\.\"Hein ?! Q-taro !!\"",
+            "\\.\\C[4](J'ai réussi à partiellement le convaincre\n grâce aux déclarations des autres...)",
+            "\\.\"Sara...\"",
+            "\\.\\C[4](Mais au final...\n Je dois convaincre Q-taro moi-même !!)"
         ],
         "123-0-message": [
             null,
@@ -10259,7 +10283,8 @@
         "63-0-choice": [
             "Mémoriser la déclaration\nAnnuler",
             "Oublier la déclaration mémorisée\nAnnuler",
-            "Appliquer la déclaration mémorisée\nAnnuler"
+            "Appliquer la déclaration mémorisée\nAnnuler",
+            "N'as-tu jamais utilisé de pistolet ?\nPourquoi gardes-tu le silence ?\nPourquoi veux-tu que je le fasse ?"
         ],
         "64-0-choice": [
             "Mémoriser la déclaration\nAnnuler",
@@ -10272,9 +10297,11 @@
             "Appliquer la déclaration mémorisée\nAnnuler"
         ],
         "67-0-message": [
-            null,
-            "\"J'ai rien d'autre à dire sur ça.\"",
-            "\\C[4](Je devrais confronter sa déclaration à une autre...)"
+            "\"... J'ai tiré sur quelqu'un.\n Et depuis... je suis incapable d'utiliser\n d'armes à feu.\"",
+            "\"J'ai rien d'autre à ajouter.\"",
+            "\\C[4](Je devrais confronter sa déclaration à une autre...)",
+            "\"Haa... Regarde ce que tu me fais dire.\"",
+            "\\.\"Mais bon... j'imagine que ça fait un poids en\n moins sur mes épaules.\""
         ],
         "66-0-choice": [
             "Mémoriser la déclaration\nAnnuler",
@@ -10875,11 +10902,13 @@
             "Appliquer la déclaration mémorisée\nAnnuler"
         ],
         "64-0-message": [
-            null,
+            "\\.\"Keiji ! Pourquoi on t'prend pas juste toi ?!\"",
             "\"Si t'es pas d'accord, va falloir qu'tu t'exprimes\n mieux que ça !\"",
             "\\C[4](Peut-être qu'une autre déclaration le convaincrait...?)",
             "\"Si t'es pas d'accord, va falloir qu'tu t'exprimes\n mieux que ça !\"",
-            "\\C[4](Peut-être qu'une autre déclaration le convaincrait...?)"
+            "\\C[4](Peut-être qu'une autre déclaration le convaincrait...?)",
+            "\"C'est clair !\n Il sait rester calme et il maitrise les armes à feu !\n C'notre homme !\"",
+            "\\.\\C[4](Il a raison... Si je devais choisir quelqu'un\n d'autre, je choisirais sûrement Keiji.)"
         ],
         "164-0-message": [
             null,
@@ -10889,6 +10918,33 @@
             null,
             null,
             "\\.\"Réponds-moi, Joe !\n Qu'est-ce que tu penses de cette déclaration ?!\""
+        ],
+        "65-0-message": [
+            "\"Si vous refusez, je voudrais en connaître la raison.\n Autrement, nos futurs sont en péril...\"",
+            "\"Je n'ai pas l'intention de me disputer avec qui\n que ce soit.\"",
+            "\\C[4](On dirait que ça n'a pas eu d'effet sur lui...)",
+            "\"Dans des circonstances habituelles, je n'aurais jamais\n autant interrogé quelqu'un aussi intensément...\"",
+            "\\.\"Mais nos vies sont en jeu.\"",
+            "\\.\\C[4](Même Kai se sent obligé d'intervenir.)"
+        ],
+        "66-0-message": [
+            "\"Keiji... Quess' t'as...?\"",
+            "\"H... Hé, Sara ? J'pense pas que me foutre la pression\n serve à grand-chose...\"",
+            "\\.\"Peut-être pas...\"",
+            "\"Quand la discussion est coincée, essaie d'interroger\n les gens pour extraire d'autres déclarations !\"",
+            "\\.\"J'te souhaite bonne chance, Sara !\"",
+            "\"Keiji s'comporte bizarrement, d'un coup...\"",
+            "\\.\"On ne peut pas continuer le débat comme ça...\"",
+            "\\.\"Dans ces situations, essaie de parler aux gens pour\n \\C[2]extraire\\C[0] d'autres déclarations histoire\n de voir ce que tu peux faire avec !\"",
+            "\\.\"Tes questions incessantes pourraient finir\n par nous donner une déclaration primordiale !\"",
+            "\\.\"C'est exactement ce que je m'étais dite, et j'ai pu\n extraire une nouvelle déclaration grâce à ça tout à\n l'heure.\"",
+            "\\.\"Quoi ?!\n Tu faisais semblant, Sara ?!\"",
+            "\\.\\C[4](J'l'ai eu.)",
+            "\\.\"Grrr... Enlève-moi ce regard arrogant tout de suite !\"",
+            "\\.\"Suis-je trop taquine...?\"",
+            "\\.\"J... Je plaisante !\n T'avais capté que j'plaisantais, hein...?\"",
+            "\\.\\C[4](Moi aussi, je plaisantais...\n Mais c'est toujours drôle de le voir s'emballer.)",
+            "\\.\"Hé ! Tu souris !\""
         ]
     },
     "map107": {
