@@ -11,7 +11,7 @@ const translatedImages = openSync(path.join("yttd", "www", "languages", "Transla
 const distPath = (pngPath) => {
 	const encPathComponents = path.parse(path.join("yttd", "www", pngPath));
 
-	if (["Capital", "Lowercase"].includes(encPathComponents.name)) { // animation textures and their names need to be edited directly
+	if (["Capital", "Lowercase", "2"].includes(encPathComponents.name)) { // animation textures and their names need to be edited directly
 		return path.join(encPathComponents.dir, encPathComponents.name + ".rpgmvp");
 	} else {
 		return path.join(encPathComponents.dir, "FR", encPathComponents.name + ".rpgmvp");

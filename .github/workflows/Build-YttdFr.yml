@@ -30,8 +30,8 @@ jobs:
       - name: Moving FR.cte in yttd/www/languages/
         run: mv FR.cte yttd/www/languages/
 
-      - name: Editing data/animations.json 2-EN -> 2-FR
-        run: sed -i 's/EN/FR/' yttd/www/data/Animations.json
+      #- name: Editing data/animations.json 2-EN -> 2-FR
+      #  run: sed -i 's/EN/FR/' yttd/www/data/Animations.json
 
       - name: Patching plugins.js
         run: |
