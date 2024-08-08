@@ -1817,55 +1817,55 @@
             "\\C[3]Un billet de 1000 yens.\nDe l'argent liquide utilisable au Japon."
         ],
         "17-3-message": [
-            "\\C[3]Tirer sur le mannequin ?",
-            "\\.\\C[3]La tête du mannequin s'est envolée.",
+            "\\C[3]Tirer sur la poupée ?",
+            "\\.\\C[3]La tête de la poupée s'est envolée.",
             "\\.\\C[3]Il ne s'est rien passé."
         ],
         "9-3-message": [
-            "\\C[3]Tirer sur le mannequin ?",
-            "\\.\\C[3]La tête du mannequin s'est envolée.",
+            "\\C[3]Tirer sur la poupée ?",
+            "\\.\\C[3]La tête de la poupée s'est envolée.",
             "\\.\\C[3]Il ne s'est rien passé."
         ],
         "11-3-message": [
-            "\\C[3]Tirer sur le mannequin ?",
-            "\\.\\C[3]La tête du mannequin s'est envolée.",
+            "\\C[3]Tirer sur la poupée ?",
+            "\\.\\C[3]La tête de la poupée s'est envolée.",
             "\\.\\C[3]Il ne s'est rien passé."
         ],
         "18-3-message": [
-            "\\C[3]Tirer sur le mannequin ?",
-            "\\.\\C[3]La tête du mannequin s'est envolée.",
+            "\\C[3]Tirer sur la poupée ?",
+            "\\.\\C[3]La tête de la poupée s'est envolée.",
             "\\.\\C[3]Il ne s'est rien passé."
         ],
         "19-3-message": [
-            "\\C[3]Tirer sur le mannequin ?",
-            "\\.\\C[3]La tête du mannequin s'est envolée.",
+            "\\C[3]Tirer sur la poupée ?",
+            "\\.\\C[3]La tête de la poupée s'est envolée.",
             "\\.\\C[3]Il ne s'est rien passé."
         ],
         "3-4-choice": [
             "Merci\nJ'aurais préféré rester avec Keiji\nJ'aurais préféré rester avec Q-taro\nJ'aurais préféré rester avec Kai",
-            "N'en parle pas\nC'est normal"
+            "Pas de soucis\nC'est normal"
         ],
         "4-1-message": [
             "\\sw[99]\"Yo. Vous en avez mis, du temps.\"\\sw[100]",
             "\\.\\sw[99]\"Je peux vous expliquer les règles, maintenant ?\"\\sw[100]",
-            "\\.\\sw[99]\"Vous avez trouvé un pistolet et des balles dans\n cette salle un peu plus tôt, vous vous souvenez ?\"\\sw[100]",
+            "\\.\\sw[99]\"Vous avez trouvé un pistolet et des balles dans\n cette salle un peu plus tôt, vous vous en souvenez ?\"\\sw[100]",
             "\\.\\sw[99]\"Vous avez aussi trouvé des balles à blanc\n dans une autre pièce.\"\\sw[100]",
-            "\\.\\sw[99]\"Vous avez \\C[2]3 vraies balles\\C[0] et \\C[3]6 balles à blanc\\C[0].\"\\sw[100]",
-            "\\.\\sw[99]\"En tout, vous pouvez charger 9 balles\n dans ce révolver.\"\\sw[100]",
-            "\\.\\sw[99]\"Tu dois tirer toutes les 9 balles sur tout le monde -\n un \\C[2]humain\\C[0] ou un \\C[2]mannequin\\C[0] dans \\C[2]l'ordre que tu veux\\C[0].\"\\sw[100]",
+            "\\.\\sw[99]\"T'as \\C[2]3 vraies balles\\C[0] et \\C[3]6 balles à blanc\\C[0].\"\\sw[100]",
+            "\\.\\sw[99]\"En tout, t'as 9 balles à charger dans ce révolver.\"\\sw[100]",
+            "\\.\\sw[99]\"Tu dois tirer tes 9 balles sur tout le monde.\n Une balle par \\C[2]humain\\C[0] ou par \\C[2]poupée\\C[0], dans \\C[2]l'ordre\n que tu veux\\C[0].\"\\sw[100]",
             "\\.\\sw[99]\"D'ailleurs, les balles sont tirées \\C[2]dans le sens\n des aiguilles d'une montre\\C[0]...\"\\sw[100]",
-            "\\.\\sw[99]\"Une fois chargée, tu feras tourner la chambre !\n Ce qui veut dire que \\C[2]tu ne sais pas avec quelle\n balle tu vas commencer\\C[0] !\"\\sw[100]",
-            "\\.\\sw[99]\"Si tu as tiré toutes les balles et que\n les gens sont encore en vie, tu as gagné !\"\\sw[100]",
-            "\\.\\sw[99]\"C'est ce que j'appelle la \\C[2]Roulette Russe \\C[0]!\n\\! ... Parce que c'est ce que c'est.\"\\sw[100]",
+            "\\.\\sw[99]\"Une fois la chambre chargée, tu la feras tourner !\n Ce qui veut dire que \\C[2]tu ne sauras pas par quelle\n balle tu commenceras\\C[0] !\"\\sw[100]",
+            "\\.\\sw[99]\"Si t'as vidé la chambre et que tous les humains\n sont en vie, t'as gagné !\"\\sw[100]",
+            "\\.\\sw[99]\"C'est ce que j'appelle la \\C[2]Roulette Russe\\C[0] !\n\\! ... Parce que c'est exactement ce que c'est.\"\\sw[100]",
             "\\.\\sw[99]\"Tu veux un résumé de tout ça ?\"\\sw[100]",
-            "\\.\\sw[99]\"Charge les 3 vraies balles et les 6 balles à blanc\n dans le pistolet dans l'ordre que tu veux.\"\\sw[100]",
-            "\\.\\sw[99]\"Les balles sont tirées dans l'ordre des aiguilles\n d'une montre, mais tu ne sais pas\n par laquelle tu commences..\"\\sw[100]",
-            "\\.\\sw[99]\"Ensuite, tu tires sur un mannequin ou un de tes amis !\n Si tous les humains survivent, tu gagnes !\"\\sw[100]",
+            "\\.\\sw[99]\"Charge les 3 vraies balles et les 6 balles à blanc\n dans le révolver dans l'ordre que tu veux.\"\\sw[100]",
+            "\\.\\sw[99]\"Les balles sont tirées dans l'ordre des aiguilles\n d'une montre, mais tu ne sais pas par laquelle\n tu commences.\"\\sw[100]",
+            "\\.\\sw[99]\"Puis tu tires sur une poupée ou sur un de tes amis !\n Si tous les humains survivent, tu gagnes !\"\\sw[100]",
             "\\.\\sw[99]\"Parfait ! Alors commençons !\"\\sw[100]",
-            "\\.\\sw[99]\"D'abord, charge le pistolet comme tu l'envisages !\"\\sw[100]"
+            "\\.\\sw[99]\"D'abord, charge le révolver !\"\\sw[100]"
         ],
         "5-1-message": [
-            "\"J'aimerais bien ne pas mourir, si possible,\n alors bonne chance.\""
+            "\"J'ai pas trop envie de mourir... alors bonne chance\n à nous.\""
         ],
         "5-3-message": [
             "\\C[3]Tirer sur Keiji ?",
@@ -1874,16 +1874,16 @@
             "\\.\\C[3]Keiji a survécu."
         ],
         "5-4-message": [
-            "\"Ton ami le policier est avec toi.\""
+            "\"T'as les encouragements de ton ami le policier.\""
         ],
         "6-3-message": [
             "\\C[3]Tirer sur Q-taro ?",
             "\\sp[12]\"Aaaaa... ahhhhhhhhhhhhhhh...\"\\|\\|\\^",
-            "\"Ouf... J'suis en sécurité maintenant.\"",
+            "\"Ouf... Fiou... J'suis tiré d'affaire.\"",
             "\\.\\C[3]Q-taro a survécu."
         ],
         "6-4-message": [
-            "\"Tout l'monde va s'en sortir ?\""
+            "\"Vous allez vous en sortir ?\""
         ],
         "7-3-message": [
             "\\C[3]Tirer sur Kai ?",
@@ -1892,7 +1892,7 @@
             "\\.\\C[3]Kai a survécu."
         ],
         "7-4-message": [
-            "\"Comme on pouvait l'attendre de vous, madame Chidouin.\""
+            "\"Comme on pouvait l'attendre de vous,\n Madame Chidouin.\""
         ],
         "8-3-message": [
             "\\C[3]Tirer sur Joe ?",
@@ -1901,46 +1901,46 @@
             "\\.\\C[3]Joe a survécu."
         ],
         "9-1-message": [
-            "\\C[3]Le mannequin est avachi sur le fauteuil."
+            "\\C[3]La poupée est avachie sur le fauteuil."
         ],
         "9-4-message": [
-            "\\C[3]Ce mannequin a déjà été sélectionné."
+            "\\C[3]Cette poupée a déjà été sélectionné auparavant."
         ],
         "11-1-message": [
-            "\\C[3]Le mannequin est avachi sur le fauteuil."
+            "\\C[3]La poupée est avachie sur le fauteuil."
         ],
         "11-4-message": [
-            "\\C[3]Ce mannequin a déjà été sélectionné."
+            "\\C[3]Cette poupée a déjà été sélectionné auparavant."
         ],
         "17-1-message": [
-            "\\C[3]Le mannequin est avachi sur le fauteuil."
+            "\\C[3]La poupée est avachie sur le fauteuil."
         ],
         "17-4-message": [
-            "\\C[3]Ce mannequin a déjà été sélectionné."
+            "\\C[3]Cette poupée a déjà été sélectionné auparavant."
         ],
         "18-4-message": [
-            "\\C[3]Ce mannequin a déjà été sélectionné."
+            "\\C[3]Cette poupée a déjà été sélectionné auparavant."
         ],
         "19-1-message": [
-            "\\C[3]Le mannequin est avachi sur le fauteuil."
+            "\\C[3]La poupée est avachie sur le fauteuil."
         ],
         "6-1-message": [
-            "\"J'compte sur toi, Sara!\n J'suis sûr qu'tu peux l'faire !\""
+            "\"J'compte sur toi, Sara !\n J'suis sûr qu'tu peux l'faire !\""
         ],
         "7-1-message": [
-            "\"Il est inutile de paniquer sur\n des choses importantes.\""
+            "\"Il est inutile de paniquer lors des moments importants.\""
         ],
         "8-1-message": [
-            "\"La vache, j'ai l'coeur qui bat à cent à l'heure !\n J'crois en toi, Sara!\""
+            "\"La vache, j'ai l'cœur qui bat à cent à l'heure !\n J'crois en toi, Sara!\""
         ],
         "8-4-message": [
-            "\"J'suis un peu à bout... Héhéhé.\""
+            "\"J'suis un peu claqué... Héhéhé.\""
         ],
         "18-1-message": [
-            "\\C[3]Le mannequin est avachi sur le fauteuil."
+            "\\C[3]La poupée est avachie sur le fauteuil."
         ],
         "19-4-message": [
-            "\\C[3]Ce mannequin a déjà été sélectionné."
+            "\\C[3]Cette poupée a déjà été sélectionné auparavant."
         ]
     },
     "map36": {
