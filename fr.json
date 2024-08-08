@@ -4374,28 +4374,29 @@
             "\\C[3]Un briquet Zippo chic."
         ],
         "3-1-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\.\\C[4](Ouargh ! Qu'est-ce que c'est ?!)",
+            "\\.\"C'est moi !!\"",
+            "\\.\\C[4](C'est mon portrait craché...!\n J'ai l'impression de regarder dans un miroir !)",
+            "\\.\"Fiou...\n Nos malfaiteurs ont des hobbies sacrément tordus.\"",
+            "\\.\\C[3]C'est tellement détaillé que ça en est terrifiant.",
+            "\\.\\C[3]Je ne peux m'empêcher d'examiner cette attention aux\ndétails.",
+            "\\.\\C[4](C'est stupéfiant...)",
+            "\\.\\C[4](... Mais...)",
+            "\\.\\C[4](Quand est-ce... qu'elle a été faite ?)",
+            "\\.\\C[4](Il est impossible de produire ce genre de répliques\n sans observer et étudier le sujet de manière longue et\n appliquée.)",
+            "\\.\\C[4](Qui aurait pu... accomplir une chose pareille...?)",
             "\\.\"...\"",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\"...\""
+            "\\.\"... Qu'est-ce qu'il se passe ?\"",
+            "\\.\"... Euh...\"",
+            "\\.\"Keiji, j'aimerais avoir ton avis...\n Que penses-tu de Kai ?\"",
+            "\\.\"..........\"",
+            "\\.\"... Une chose est sûre : ce gars, c'est pas une\n personne ordinaire.\"",
+            "\\.\"...!\"",
+            "\\.\"Ses yeux ont aucune vie.\n Tout comme ton ami le policier.\n\\! Ha ha ha.\"",
+            "\\.\"Tu penses que c'est quelqu'un de mal...?\"",
+            "\\.\"... J'sais pas.\"",
+            "\\.\"...\"",
+            "\\.\"On a tous nos bons et nos mauvais côtés, non ?\""
         ],
         "6-1-message": [
             "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles."
@@ -4444,7 +4445,23 @@
         ],
         "2-1-message": [
             "\\.\\C[4](?!\n\\.\\. Quoi...?!)",
-            "\\.\\C[3]Kanna est installée dans un fauteuil."
+            "\\.\\C[3]Kanna est installée dans un fauteuil.",
+            "\\.\"C'est...\"",
+            "\\.\"... Une poupée...\"",
+            "\\.\\C[4](Impossible de voir derrière ses habits, mais tout\n est tellement détaillé que... ça en est perturbant.)",
+            "\\.\\C[3]Sur la main de la poupée, il est écrit :\n\"Cet objet est à votre libre disposition.\"",
+            "\\.\"... À ma libre disposition...\"",
+            "\\.\\C[4](Même les habits... sont exactement les mêmes...)",
+            "\\.\\C[4](Hark...! Elle est lourde...\n Elle doit faire le même poids que Kanna...)",
+            "\\.\\C[4](Rien à faire...\n Je n'ai pas d'autre choix que de prendre ses habits.)",
+            "\\.\\C[3]La poupée a été déshabillée.",
+            "\\.\\C[4](Bon...)",
+            "\\.\\C[4](... Même si c'est qu'une poupée, ça me met mal\n à l'aise de la laisser là...)",
+            "\\.\\C[3]J'ai caché la poupée de Kanna dans un coin discret.",
+            "\\.\\C[4](Sorry, madame la poupée.)"
+        ],
+        "2-1-choice": [
+            "Prendre les habits\nEssayer de la déplacer"
         ]
     },
     "map41": {
