@@ -1585,7 +1585,7 @@
             "\\.\"Où est-ce que je suis ?\n Pourquoi on m'a emmené ici ?\"",
             "\\.\"Et tout ce que vous savez, c'est qui vous êtes.\"",
             "\\.\"Où voulez-vous en venir...?\"",
-            "\\.\"Pourquoi pas nous \\C[2]présenter\\C[0] ?\n Ça devrait nous rendre un peu moins suspicieux.\"",
+            "\\.\"Pourquoi pas nous \\C[2]présenter\\C[0] ?\n Ça devrait nous rendre un peu moins suspects.\"",
             "\\.\"Des présentations, dites-vous ?\"",
             "\\.\"On peut pas faire grand chose d'autre.\"",
             "\\.\"Pas vrai, Sara ?\"",
@@ -1640,7 +1640,7 @@
             "\\.\"Et mia-lors ? Ma Maman m'a dit de pas donner d'infos\n personnelles aux gens que je connais pas, ouaf !\"",
             "\\.\"Prodigieux ! Un jeune enfant réfléchi qui fait\n ce que ses parents lui apprennent !\"",
             "\\.\"Tout de même, nous sommes là dans une situation\n particulièrement urgente... Hrmmm.\"",
-            "\\.\"Ainsi, nous, les adultes, devrons prouver que\n nous ne sommes pas suspicieux... Mouahaha...\"",
+            "\\.\"Ainsi, nous, les adultes, devrons prouver que\n nous ne sommes pas suspects... Mouahaha...\"",
             "\\.\"Ouah... Super suspect, ouaf.\"",
             "\\.\"Rien à redire. Bien, par où commençons-nous ?\""
         ],
@@ -2588,7 +2588,7 @@
             "\\.\"Je vais la porter. Elle est lourde, hein ?\""
         ],
         "3-4-message": [
-            "\\C[3]La mystérieuse cible demeure\nsuspicieusement immobile."
+            "\\C[3]La cible suspecte reste immobile."
         ],
         "4-1-message": [
             "\"C'est quoi, ce qu'il y a au-dessus de la cible ?\"",
@@ -4074,7 +4074,7 @@
         ],
         "2-3-message": [
             null,
-            "\\.\"...Ouais.\""
+            "\\.\"... Ouais.\""
         ]
     },
     "map37": {
@@ -4364,7 +4364,7 @@
             "\\.\"... J'espère qu'elle est saine et sauve.\""
         ],
         "19-1-message": [
-            "\\C[3]La mystérieuse cible demeure\nsuspicieusement immobile."
+            "\\C[3]La cible suspecte reste immobile."
         ],
         "31-1-message": [
             "\\C[3]Une étrange ventilation qui souffle du\nvent vers le bas."
@@ -6454,7 +6454,7 @@
             "\\.\"Hein ?\n J-Je vois...\"",
             "\\.\\C[4](Pourquoi avec Keiji...?)",
             "\\.\\C[4](Voyons voir... Q-taro est fort...\n Nao a innocenté Monsieur Mishima...\n Peut-être Gin, vu qu'il n'est qu'un enfant..?)",
-            "\\.\\C[4](... Ils ont tous l'air vraiment suspicieux,\n par contre.)",
+            "\\.\\C[4](... Ils ont vraiment tous l'air suspects, par contre.)",
             "\\.\\C[4](Voyons voir... Kai agit très bizarrement...\n Je n'arrive pas à me fier totalement à Keiji...\n Et Q-taro n'a pas l'air d'être mauvais, mais...)",
             "\\.\\C[4](... Raisonner comme ça ne va que me faire tout\nsoupçonner.)",
             "\\.\\C[4](Je ne suis pas très forte en travail d'équipe...\n J'ai envie d'explorer les environs tranquille...)",
@@ -10328,7 +10328,7 @@
             "\\.Mais je ne sais pas comment l'état mental de Gin\npourrait évoluer après avoir vu une tragédie\nd'aussi près. ... Même moi, je n'avais jamais vu\nune chose aussi horrible auparavant."
         ],
         "286-0-message": [
-            "Kazumi Mishima\nUn professeur de lycée qui a l'air très suspicieux,\nmais qui est en vérité un homme au personnage\ntrès noble.",
+            "Kazumi Mishima\nUn professeur de lycée qui a l'air très suspect,\nmais qui est en vérité un homme au personnage\ntrès noble.",
             "\\.Il a réussi la Première Épreuve avec Nao, et il\nse faisait du souci pour tout le monde.\nIl aimait sûrement fumer, malgré son déni.\nIl a menti à Kanna pour son bien.",
             "\\.Monsieur Mishima... est mort.\nLe vote que Rillante a exigé, qui était censé être\nun test... l'a tué. Être brûlé vif par son collier a dû\nêtre douloureux. Je... Je le ferai payer à Rillante."
         ],
@@ -19173,7 +19173,7 @@
             "\\!\\C[3]Quand elle reprit connaissance, elle était dans une\nsalle étrange. 10 personnes qu'elle ne connaissait pas\nétaient avec elle.",
             "\\!\\C[3]Keiji, un policier qui a tiré sur\nquelqu'un dans le passé.\n\nQ-taro, un joueur de baseball professionnel\nmusclé comme un gorille.",
             "\\!\\C[3]Sou, un intérimaire fébrile et asocial sur les bords.\n\nReko, une musicienne au maquillage frappant.",
-            "\\!\\C[3]Mishima, un professeur terriblement suspicieux.\n\nNao, son ancienne étudiante.",
+            "\\!\\C[3]Mishima, un professeur terriblement suspect.\n\nNao, son ancienne étudiante.",
             "\\!\\C[3]Kai, un étrange homme de ménage excentrique.\n\nGin, un collégien qui miaule et qui aboie.",
             "\\!\\C[3]Et Kanna, une fillette qui a perdu sa grande\nsoeur dans la Première Épreuve.",
             "\\!\\C[3]Sara coopérait avec tout le monde pour surmonter diverses épreuves.",
