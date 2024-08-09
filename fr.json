@@ -5653,7 +5653,7 @@
             "\"Je suis Kazumi Mishima.\n J'enseigne dans un certain lycée...\n Mouahaha...\"",
             "\"Grâce à notre collaboration, nous avons\n pu surmonter la Première Épreuve...\"",
             "\\.\"Quelle bonne élève j'ai, oui...\"",
-            "\"Par ailleurs, je professe le Japonais et l'art...\n Mouaha...\"",
+            "\"Par ailleurs, j'enseigne le japonais et l'art...\n Mouaha...\"",
             "\\.\"Hein, t'es enseignant ? J'ai du mal à me l'imaginer.\"",
             "\\.\"En effet, c'est ce que l'on me dit souvent...\"",
             "\\.\"Je suis mal placé pour le dire,\n mais t'es suspect sous tous les angles.\"",
@@ -11739,7 +11739,7 @@
         "description": "Ma chambre."
     },
     "items-5": {
-        "name": "Chemin de la Maison",
+        "name": "Chemin du retour",
         "description": "Le chemin que je prends pour aller à l'école."
     },
     "items-8": {
