@@ -3384,6 +3384,12 @@
         ],
         "46-1-message": [
             "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
+        ],
+        "34-1-message": [
+            "\\C[3]Le réfrigérateur bleu est vide."
+        ],
+        "42-1-message": [
+            "\\C[3]Cette salle est bien climatisée."
         ]
     },
     "map48": {
@@ -4029,8 +4035,10 @@
             "\\.\"Reko...\"",
             "\\.\"J'aurais pas dû assumer que c'était un enfoiré\n juste parce que c'était un mec...\"",
             "\\.\"Bon, je comprends sa réaction maintenant.\n Je vais rester avec Kanna, Sara.\"",
-            "\\.\"C'est ce qu'on décide de faire maintenant qui compte, nan ?\"",
-            "\\.\"Oui...!\""
+            "\\.\"C'est ce qu'on décide de faire là qui compte, nan ?\"",
+            "\\.\"Oui...!\"",
+            "\"N'importe quelles fringues feront l'affaire.\n Prends celles du dragueur, si ça te chante.\"",
+            "\\.\\C[4](C'est un peu perturbant de dire ça dans cette\n situation...)"
         ],
         "17-1-message": [
             "\\C[3]Un distributeur aux prix élevés."
@@ -4083,8 +4091,13 @@
             "\\C[3]Une carte portant l'inscription \"Maître des Clés\".\nElle indique : \"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe."
         ],
         "2-3-message": [
-            null,
+            "\\.\"Kanna c'est une chose... Mais Nao, ç'en est une autre.\n Son état m'inquiète.\"",
             "\\.\"... Ouais.\""
+        ],
+        "2-2-choice": [
+            "Lui parler doucement\nPoser ma main sur son dos",
+            "Avouer le mensonge fait avec Mishima\nGarder le silence",
+            "C'est ma faute\nC'est la faute de Mishima\nC'est la faute de Joe"
         ]
     },
     "map37": {
@@ -12564,6 +12577,32 @@
         ],
         "6-1-message": [
             "\\.\\C[3]Monsieur Mishima... baignant dans une\nmare de sang."
+        ],
+        "1-1-message": [
+            "\"..........\"",
+            "\\.\"... Nao...\"",
+            "\\.\"... Nao...\"",
+            "\\.\"Vous avez l'air pâle, Nao.\"",
+            "\\.\"Monsieur...\"",
+            "\\.\"Je... Je...\"",
+            "\\.\"J'ai l'impression que je n'aurai jamais mon\n annéééééééée !!\"",
+            "\\.\"N... Nao ? Que vous arrive-t-il ?\"",
+            "\\.\"Les examens sont encore loin.\n De plus, je suis persuadé que vous vous en sortirez,\n Nao.\"",
+            "\\.\"Je ne peux pas...!!\n Si je les échoue, je... Qu'est-ce que je ferai ?!\"",
+            "\\.\"Hrmm... Calmez-vous, je vous prie.\n Je suis en train de conduire...!\"",
+            "\\.\"J'irai me morfondre dans de la boue jusqu'à en\n mourir !\"",
+            "\\.\"Il semblerait que vous vous sentiez particulièrement\n submergée...\"",
+            "\\.\"..........\"",
+            "\\.\"... Euh... Nao.\"",
+            "\\.\"Pour tout vous dire, je n'ai pas réussi mes\n examens universitaires.\"",
+            "\\.\"Quoi...?! C'est vrai...?\"",
+            "\\.\"Oui, c'est bien cela.\"",
+            "\\.\"Mes notes étaient aussi bonnes que celles\n des autres... Et j'étais plus ou moins sérieux\n avec mes études...\"",
+            "\\.\"J'ai fourni de raisonnables efforts.\n ... Du moins, c'est ce que je croyais.\"",
+            "\\.\"Malgré tout, là où certains réussiront, d'autres\n échoueront. Ce n'est que l'ordre des choses.\"",
+            "\\.\"Et, étant plus orgueilleux que la moyenne...\n Je m'en suis pris à tout le monde...\n Ce n'était pas facile.\"",
+            "\\.\"Cependant, les gens peuvent toujours s'améliorer.\"",
+            "\\.\"Dites-moi, Nao. D'après vous, quelle est la chose qui\n donne aux gens le désir de s'améliorer ?\""
         ]
     },
     "map53": {
@@ -15448,6 +15487,9 @@
             null,
             null,
             "\\.\"...\""
+        ],
+        "42-1-message": [
+            "\\C[3]Cette salle est bien climatisée."
         ]
     },
     "map148": {
