@@ -4071,6 +4071,10 @@
         ],
         "4-1-message": [
             "\\C[3]Une carte portant l'inscription \"Maître des Clés\".\nElle indique : \"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe."
+        ],
+        "2-3-message": [
+            null,
+            "\\.\"...Ouais.\""
         ]
     },
     "map37": {
