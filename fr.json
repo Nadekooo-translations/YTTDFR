@@ -758,7 +758,7 @@
             null,
             null,
             null,
-            null,
+            "\\.\\C[4](...?)",
             null,
             null,
             null,
@@ -4396,7 +4396,17 @@
             "\\.\"Tu penses que c'est quelqu'un de mal...?\"",
             "\\.\"... J'sais pas.\"",
             "\\.\"...\"",
-            "\\.\"On a tous nos bons et nos mauvais côtés, non ?\""
+            "\\.\"On a tous nos bons et nos mauvais côtés, non ?\"",
+            "\\.\"... Écoute.\n Concentre-toi sur ce que t'as à faire, Sara.\n Maintenant, prenons cette poupée et allons-nous-en.\"",
+            "\\.\"Keiji, j'aimerais avoir ton avis...\n Est-ce que quelqu'un a attiré ton attention en\n particulier ?\"",
+            "\\.\"..........\"",
+            "\\.\"... Peut-être Joe.\"",
+            "\\.\"...!\"",
+            "\\.\"C'est un drôle de gars, tu sais ?\n Hahaha...\"",
+            "\\.\"... Bon, assez parlé de ça.\n Tu veux qu'on prenne ta poupée avec nous ?\"",
+            "\\.\"Oui...\"",
+            "\\.\"Oh hisse...!\"",
+            "\\C[3]Poupée de Sara obtenue."
         ],
         "6-1-message": [
             "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles."
@@ -4462,6 +4472,15 @@
         ],
         "2-1-choice": [
             "Prendre les habits\nEssayer de la déplacer"
+        ],
+        "3-1-choice": [
+            "Demander son avis sur Kai\nDemander qui a son attention"
+        ],
+        "21-1-message": [
+            "\\C[3]Le portrait qui avait dit s'appeler le Parrain\n ne montre plus de signe de vie."
+        ],
+        "39-1-message": [
+            "\\C[3]Une échelle."
         ]
     },
     "map41": {
@@ -4472,10 +4491,14 @@
             "Oui\nNon"
         ],
         "3-1-message": [
-            null,
-            null,
-            null,
-            "\\.\"...\""
+            "\\C[4](Encore une coupure de courant...!)",
+            "\\C[4](Mais qu'est-ce qu'il se passe, ici...?)",
+            "\\.\"I-Il y a quelqu'un ?!\"",
+            "\\.\"...\"",
+            "\\.\\C[4](Je ne suis pas rassurée à l'idée d'agir seule...\n Je devrais revenir sur mes pas pour l'instant...)",
+            "\\.\\C[3]En me retournant, je me rendis compte que la porte\ns'était refermée.",
+            "\\.\"...!\"",
+            "\\.\\C[4](Elle ne s'ouvre pas ! Je suis enfermée...!)"
         ],
         "19-3-message": [
             "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles."
@@ -4524,6 +4547,58 @@
         ],
         "35-4-message": [
             "\\C[3]Une carte portant l'inscription \"Maître des Clés\".\nElle indique : \"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe."
+        ],
+        "1-1-message": [
+            "\\.\\C[3]Un énorme ours en peluche.",
+            "\\.\\C[4](...?)"
+        ],
+        "1-10-message": [
+            "\\.\\C[3]Un liquide rouge s'échappe des yeux de l'ours en\n peluche.",
+            "\\.\\C[4](... Il fait peur... mais il me fait un peu de la peine.\n Je vais essuyer ses larmes avec le morceau de papier\n que j'ai ramassé. Il n'a pas l'air d'être important.)",
+            "\\.\\C[3]Ses larmes se sont arrêtées de couler.",
+            "\\.\\C[4](... Hmm... Quelque chose est sorti de sa bouche.)",
+            "\\.\\C[3]Vous avez obtenu un des Outils (Tournevis Plat).",
+            "\\.\\C[4](... Il me fait un peu de la peine...\n Je n'ai rien pour essuyer ses larmes ?)"
+        ],
+        "1-11-message": [
+            "\\.\\C[3]Un énorme ours en peluche."
+        ],
+        "2-1-message": [
+            "\\.\\C[3]Un énorme ours en peluche.",
+            "\\.\\C[4](...?)"
+        ],
+        "2-3-message": [
+            "\\.\\C[3]Un énorme ours en peluche."
+        ],
+        "2-2-message": [
+            "\\.\\C[3]Un liquide rouge s'échappe des yeux de l'ours en\n peluche.",
+            "\\.\\C[4](... Il fait peur... mais il me fait un peu de la peine.\n Je vais essuyer ses larmes avec le morceau de papier\n que j'ai ramassé. Il n'a pas l'air d'être important.)",
+            "\\.\\C[3]Ses larmes se sont arrêtées de couler.",
+            "\\.\\C[4](... Hmm... Quelque chose est sorti de sa bouche.)",
+            "\\.\\C[3]Vous avez obtenu un des Outils (Tournevis Plat).",
+            "\\.\\C[4](... Il me fait un peu de la peine...\n Je n'ai rien pour essuyer ses larmes ?)"
+        ],
+        "3-1-choice": [
+            "Appeler à l'aide\nSe dépêcher de partir"
+        ],
+        "4-1-message": [
+            "\\.\\C[3]Une pendule sans aiguilles.",
+            "\\.\\C[4](Les aiguilles que j'ai trouvées ont l'air\n d'appartenir à cette pendule.)",
+            "\\.\\C[4](Alors, comment devrais-je placer l'aiguille des\n heures...?)",
+            "\\.\\C[4](Ensuite, comment devrais-je orienter l'aiguille des\n minutes ?)",
+            "\\.\\C[3]Tandis que la pendule se remettait à bouger,\n quelque chose tomba.",
+            "\\.\\C[3]Vous avez obtenu un des Outils (Tournevis Phillips).",
+            "\\.\\C[4](Il ne se passe rien...)",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.\\C[4](Il ne se passe rien...)"
         ]
     },
     "map45": {
@@ -11360,6 +11435,214 @@
             null,
             null,
             "\"...\""
+        ],
+        "516-0-message": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.\\C[4](...?)",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.\\C[4](...?)",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.\\C[4](...?)",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.\\C[4](...?)"
+        ],
+        "774-0-message": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.\\C[4](...?)"
+        ],
+        "1329-0-message": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.\\C[4](...?)"
         ]
     },
     "map107": {
@@ -14546,6 +14829,12 @@
             null,
             null,
             "\\.\"...\""
+        ],
+        "7-1-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[4](...?)"
         ]
     },
     "map136": {
@@ -14899,6 +15188,11 @@
         ],
         "14-1-message": [
             "\\C[3]Une LED rouge sinistre illumine la porte."
+        ],
+        "2-2-message": [
+            null,
+            null,
+            "\\.\\C[4](...?)"
         ]
     },
     "map167": {
@@ -15276,7 +15570,7 @@
             null,
             null,
             null,
-            null,
+            "\\.\\C[4](...?)",
             null,
             null,
             "\\.\\C[3]Le troisième échange vient d'être effectué."
@@ -17315,6 +17609,23 @@
             null,
             null,
             "\\.\"...\""
+        ],
+        "39-2-message": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.\\C[4](...?)"
         ]
     },
     "map236": {
@@ -18130,7 +18441,7 @@
             null,
             null,
             null,
-            null,
+            "\\.\\C[4](...?)",
             null,
             null,
             null,
@@ -18920,6 +19231,23 @@
         "2-1-message": [
             null,
             "\\.\\C[4](Monsieur Mishima...)"
+        ]
+    },
+    "map152": {
+        "2-1-message": [
+            null,
+            "\\.\\C[4](...?)"
+        ],
+        "3-1-message": [
+            null,
+            "\\.\\C[4](...?)"
+        ]
+    },
+    "map175": {
+        "4-2-message": [
+            null,
+            null,
+            "\\.\\C[4](...?)"
         ]
     }
 }
