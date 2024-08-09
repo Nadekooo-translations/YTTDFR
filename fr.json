@@ -2794,7 +2794,7 @@
             "\\.\"Parce que... sa soeur la regarde...!\"",
             "\\.\"Kanna !!\"",
             "\\.\"Reko...\"",
-            "\\.\"Merde ! Hé, le prof' à la noix !\n Je vous avais pas dit de \"crier quand\n vous l'avez trouvée\" ?!\"",
+            "\\.\"Merde ! Hé, prof' timbré !\n Je vous avais pas dit de \"crier quand\n vous l'avez trouvée\" ?!\"",
             "\\.\"Ah là là, il semblerait que je me fasse sermonner.\"",
             "\\.\"Ce n'est pas ça, Reko. C'est que, eum...\n Allons-y, je vous expliquerai en marchant, d'accord ?\"",
             "\\.\"... Hein ? S-Sérieux...?\n Ouais, okay...\"",
@@ -4021,13 +4021,14 @@
             "\\.\"Personne a fait quoi que ce soit de mal !!\n Personne !\"",
             "\\.\"...\"",
             "\\.\"Ouais, c'est vrai, Mishima a été le premier à mytho...!\n Et je sais pas si c'était la meilleure chose à\n faire...!\"",
-            "\\.\"Mais t'sais quoi ?!\n Y'avait de l'espoir dans les yeux de Kanna !\"",
-            null,
+            "\\.\"Mais t'sais quoi ?!\n Y avait de l'espoir dans les yeux de Kanna !\"",
+            "\\.\"Est-ce que t'as la moindre idée d'à quel point\n c'est dur de donner de l'espoir à quelqu'un\n d'émotionnellement ruiné...?!\"",
             "\\.\"...\"",
-            "\\.\"Merde...! Pourquoi...\"",
-            "\\.\"Pourquoi j'ai insulté Mishima de prof à la noix...?\"",
+            "\\.\"Et merde...! Pourquoi...\"",
+            "\\.\"Pourquoi j'ai insulté Mishima de timbré...?\"",
             "\\.\"Reko...\"",
-            "\\.\"J'imagine que c'est injuste de le juger\n juste parce que c'est un homme...\""
+            "\\.\"J'aurais pas dû assumer que c'était un enfoiré\n juste parce que c'était un mec...\"",
+            "\\.\"Bon, je comprends sa réaction maintenant.\n Je vais rester avec Kanna, Sara.\""
         ],
         "17-1-message": [
             "\\C[3]Un distributeur aux prix élevés."
