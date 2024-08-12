@@ -2014,11 +2014,11 @@
             "\\C[3]Une ampoule pour illuminer une pièce."
         ],
         "2-1-message": [
+            "\\C[3]Quelque chose brille...",
             null,
             null,
             null,
-            null,
-            null,
+            "\\.\\C[4](C'est... une \\C[2]carte\\C[4] ?)",
             "\\.\\C[3]À la personne qui revendique cette carte :",
             "\\.\\C[3]Désormais, elle vous appartient.\nGardez-la toujours en votre possession.\nIl s'agit d'une clé vers la sortie.",
             "\\C[2]N'informez personne de l'existence de cette carte.\\C[3].\nAutrement, \\C[2]vous mourrez\\C[3]."
