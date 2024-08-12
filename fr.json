@@ -1964,7 +1964,9 @@
             "\\.\"Madame Chidouin...?\"",
             "\\.\"Hum Kai... Est-ce que tu...\"",
             "\\.\"Ah... !\"",
-            "\\.\\C[4](Les lumières... !)"
+            "\\.\\C[4](Les lumières... !)",
+            "\\.\"Madame Chidouin, allez-vous bien ?\"",
+            "\\.\"Tout va bien.\""
         ],
         "5-1-message": [
             "\\C[3]Un briquet Zippo chic."
@@ -2023,6 +2025,15 @@
         ],
         "7-1-message": [
             "\\C[3]Une carte portant l'inscription \"Maître des Clés\".\nElle indique : \"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe."
+        ],
+        "1-1-choice": [
+            "Qu'est-ce que tu fais ?\nQu'est-ce que tu manigances ?"
+        ],
+        "1-3-message": [
+            "\"Oh, Madame Chidouin et compagnie.\"",
+            "\\.\"K... Kai !\"",
+            "\\.\"Oui, c'est moi.\n\\! ...Il y a-t-il un problème ?\"",
+            "\\.\"Nous discutions qu'il serait judicieux\nde se regrouper.\""
         ]
     },
     "map16": {
