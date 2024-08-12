@@ -1946,7 +1946,7 @@
     },
     "map36": {
         "1-1-message": [
-            null,
+            "\\C[3]Kai a le regard fixé en direction de la cuisine.",
             "\"C'est fermé à clé...\n Je suppose qu'il en va ainsi.\"",
             "\\.\\C[4](Kai... ?)",
             "\\.\"Je réfléchissais à un moyen d'entrer dans la cuisine.\n Elle n'a pas encore été inspectée, voyez-vous.\"",
