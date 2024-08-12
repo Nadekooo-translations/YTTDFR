@@ -2018,7 +2018,7 @@
             "\\C[3]Quelque chose scintille...",
             "\\.\\C[4](C'est... une \\C[2]carte\\C[4] ?)",
             "\\.\\C[4](Les lettres qui y figurent dessus brillent.)",
-            null,
+            "\\.\\C[4](Il y a des lettres écrites avec une peinture fluorescente.\n ...Elles sont sur une sorte de papier...)",
             "\\.\\C[4](C'est... une \\C[2]carte\\C[4] ?)",
             "\\.\\C[3]À la personne qui revendique cette carte :",
             "\\.\\C[3]Désormais, elle vous appartient.\nGardez-la toujours en votre possession.\nIl s'agit d'une clé vers la sortie.",
