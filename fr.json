@@ -5,7 +5,7 @@
             "\\.\\C[3]Nao est assise aux côtés du professeur, abasourdie."
         ],
         "2-1-message": [
-            "\\.\\C[3]Monsieur Mishima... baignant dans une\nmare de sang.",
+            "\\.\\C[3]Monsieur Mishima... baignant dans une mare de sang.",
             "\\.\\C[3]... J'ai peur de m'en approcher."
         ],
         "3-1-message": [
@@ -105,7 +105,7 @@
         ],
         "4-1-message": [
             "\"...\"",
-            "\\.\"Gin, je sais ce que tu ressens,\n mais tu ne devrais pas être là...\"",
+            "\\.\"Gin, je sais ce que tu ressens, mais tu ne devrais\n pas rester là...\"",
             "\\.\"... J-Juste encore un peu, miaou...\"",
             "\\.\"C'était pas pendant longtemps... mais...\n On a fait des recherches ensemble, ouaf...\"",
             "\\.\\C[4](Gin...)"
@@ -9972,7 +9972,7 @@
             "\\.\"Compris...!\""
         ],
         "123-0-message": [
-            "\\C[3]Soudainement, alors que je me dirigeai\nvers la sortie...",
+            "\\C[3]Soudainement, alors que je me dirigeai vers la\nsortie...",
             "\"Bon sang ! Elle nous a eus !!\"",
             "\\.\\C[4](Sou...?)",
             "\\.\"Sara... Regarde...\"",
@@ -9981,14 +9981,14 @@
             "\\.\"Lis, Sara...\"",
             "\\.\\C[3]\"La Seconde Épreuve ~ Répétition ~\"",
             "\\.\\C[3]\"Il s'agit d'un exercice imitant le Jeu Principal.\n Elle débutera par la résurrection de la poupée.\"",
-            "\\.\\C[3]\"Vous suivrez les instructions et vous tiendrez un vote\n à la majorité. \\C[10]La personne avec le plus de votes sera\n sacrifiée\\C[3].\"",
+            "\\.\\C[3]\"Vous devrez suivre les instructions puis vous\n tiendrez un vote à la majorité.\n\\C[10]La personne avec le plus de votes sera sacrifiée\\C[3].\"",
             "\\.\\C[3]\"Toutefois, puisqu'il s'agit d'un simple entraînement,\n la partie sera annulée \\C[10]en cas d'égalité\\C[3].\"",
             "\\.\\C[4](Quoi...?!)",
             "\"\\C[10]La Seconde Épreuve\\C[0]...\n Elle est nommée exactement comme l'épreuve que l'on\n a eu en arrivant ici...\"",
             "\\.\"On n'a jamais remarqué... cette note...!\"",
             "\\.\"Merde ! Tout ça parce que j'ai dit de garder la porte\n ouverte au cas où...!!\"",
-            "\\.\"... Nous avons été manipulés. L'atmosphère funeste de\n cette salle était discernable avant même d'y avoir\n pénétrée.\"",
-            "\\.\"La partie aurait été annulée en cas d'égalité ?\n Non... me dites pas que...!\"",
+            "\\.\"... Nous avons été manipulés. L'atmosphère funeste de\n cette salle était discernable avant même d'y avoir mis\n pied.\"",
+            "\\.\"La partie aurait été annulée en cas d'égalité ?\n Non... Me dites pas que...!\"",
             "\\.\"... S'il y avait eu égalité...\n Il y aurait pas eu de victime.\"",
             "\\.\"T-Tu déconnes !\n A-Alors, l'est mort pour rien ?!\"",
             "\\.\\C[4](C'était un piège que l'on aurait pu éviter !\n Si seulement on avait examiné la porte...!)",
@@ -10405,7 +10405,7 @@
         ],
         "278-0-message": [
             "Keiji Shinogi\nNotre soi-disant \"ami le policier\"...\nIl semblerait que ce soit un flic.",
-            "\\.Son allure décontractée semble inexplicablement louche.\nOn dirait qu'il essaie d'inciter les autres à me faire\nconfiance.",
+            "\\.Son allure décontractée semble inexplicablement louche.\nJ'ai l'impression qu'il essaie d'inciter les autres à\nme faire confiance.",
             "\\.Mais... Juste avant la Roulette Russe, il a avoué\navoir tiré sur quelqu'un. Il ne serait apparemment\nplus capable d'utiliser d'armes à feu depuis."
         ],
         "279-0-message": [
@@ -10415,7 +10415,7 @@
         ],
         "280-0-message": [
             "Q-taro Burgerberg\nUn joueur de baseball qui aurait fait un comeback...\nApparemment.",
-            "\\.Malgré son physique gigantesque et tape-à-l'œil, il\nest de nature très méfiante. Il aurait apparemment\ngrandi dans un étrange orphelinat, ce qui explique\npourquoi son jargon part dans tous les sens.",
+            "\\.Malgré son physique gigantesque et tape-à-l'œil, il\nest de nature très méfiante. Il aurait grandi dans un\nétrange orphelinat, ce qui expliquerait son accent\net son jargon désordonné.",
             "\\.Nous nous sommes affrontés pour la Roulette Russe,\nmais il s'en est remis à moi et il semble qu'il me fasse\nconfiance depuis. Il a l'air d'être un bonhomme\nhonnête et pragmatique."
         ],
         "281-0-message": [
@@ -10424,9 +10424,9 @@
             "\\.Lors de la Roulette Russe, Sou était coincé à\nl'extérieur de la salle. Je suis intriguée par la\n\"salle secrète\" qu'il dit avoir trouvé pendant\nce laps de temps."
         ],
         "282-0-message": [
-            "Reko Yabusame\nUne chanteuse et auteure-compositrice qui\nest connue au point d'apparaître dans des\nmagazines.",
-            "\\.Elle est membre d'un groupe au look très voyant.\nElle s'inquiète pour ses bongos.\nApparemment, là, elle est \"peu\" maquillée.\nElle est très sévère avec les hommes.",
-            "\\.En parallèle, elle est très gentille avec moi, Nao,\net Kanna. Elle a montré de l'inquiétude envers Sou,\ndonc peut-être plutôt qu'elle est attentionnée\nenvers les faibles et difficile avec les forts..."
+            "Reko Yabusame\nUne chanteuse et auteure-compositrice qui est\nconnue au point d'apparaître dans des\nmagazines.",
+            "\\.Elle fait partie d'un groupe de musique au look très\nvoyant. Elle s'inquiète pour ses bongos.\nApparemment, là, elle est \"peu\" maquillée.\nElle est très sévère avec les hommes.",
+            "\\.En parallèle, elle est très gentille avec moi, Nao, et\nKanna. Elle a montré de l'inquiétude envers Sou, donc\npeut-être que c'est plutôt qu'elle est attentionnée\nenvers les faibles et difficile avec les forts..."
         ],
         "283-0-message": [
             "Nao Egokoro\nUne étudiante d'art à l'université. Il semblerait\nqu'elle respecte énormément son professeur\nde lycée, Monsieur Mishima.",
@@ -12832,7 +12832,7 @@
             "\\.\\C[3]Et sa fragile gorge brûlée... tomba.",
             "\\.\"... Mon... sieur...?\"",
             "\\.\"...\"",
-            "\\.\"N... Nao ! T... Touche pas à ça !\"",
+            "\\.\"N-Nao ! T-Touche pas à ça !\"",
             "\\.\"Miaou... Le vieux...\"",
             "\\.\"Regarde pas, Gin ! Sors de là !\"",
             "\\.\"Putain...!! Merde !! C'quoi ce bordel !!\"",
@@ -12851,7 +12851,7 @@
             "\\.\"Sara...\"",
             "\\.\"...\"",
             "\\.\"... Bon, d'accord...\"",
-            "\\.\"Juste... laissez-moi un peu tranquille...\"",
+            "\\.\"Juste... J'ai besoin d'être seul, deux minutes...\"",
             "\"... Non, Joe a raison.\n On devrait clarifier nos votes...\"",
             "\\.\"...\"",
             "\\.\"... Mince, alors. De tout le monde ici, je pensais\n bien que tu serais la seule à me comprendre...\"",
@@ -12863,12 +12863,12 @@
             "\\.\"Sara...\"",
             "\\.\"C'est vrai... Toi aussi, t'as beaucoup à gérer...\"",
             "\\.\"... Moi aussi... Je vais me changer les idées...\"",
-            "\\.\"Juste... laissez-moi un peu tranquille...\"",
+            "\\.\"Juste... J'ai besoin d'être seul, deux minutes...\"",
             "\\C[3]Joe tituba hors de la salle.",
             "\\C[3]Quant au reste du groupe... ils se sont dispersés.\nCertains sont partis, d'autres sont restés.\\.\\."
         ],
         "6-1-message": [
-            "\\.\\C[3]Monsieur Mishima... baignant dans une\nmare de sang.",
+            "\\.\\C[3]Monsieur Mishima... baignant dans une mare de sang.",
             "\\.\\C[3]... J'ai peur de m'en approcher."
         ],
         "1-1-message": [
@@ -12890,12 +12890,12 @@
             "\\.\"Pour tout vous dire, je n'ai pas réussi mes\n examens universitaires.\"",
             "\\.\"Quoi...?! C'est vrai...?\"",
             "\\.\"Oui, c'est bien cela.\"",
-            "\\.\"Mes notes étaient aussi bonnes que celles\n des autres... Et j'étais plus ou moins sérieux\n avec mes études...\"",
+            "\\.\"Mes notes étaient aussi bonnes que celles des\n autres... Et j'étais plus ou moins sérieux avec\n mes études...\"",
             "\\.\"J'ai fourni de raisonnables efforts.\n ... Du moins, c'est ce que je croyais.\"",
             "\\.\"Malgré tout, là où certains réussiront, d'autres\n échoueront. Ce n'est que l'ordre des choses.\"",
             "\\.\"Et, étant plus orgueilleux que la moyenne...\n Je m'en suis pris à tout le monde...\n Ce n'était pas facile.\"",
             "\\.\"Cependant, les gens peuvent toujours s'améliorer.\"",
-            "\\.\"Dites-moi, Nao. D'après vous, quelle est la chose qui\n donne aux gens le désir de s'améliorer ?\"",
+            "\\.\"Dites-moi, Nao.\n D'après vous, quelle est la chose qui donne aux gens\n le désir de s'améliorer ?\"",
             "\\.\"Ah, là là... Vous saviez que je ne vous demandais\n pas la réponse idéale, n'est-ce pas ?\"",
             "\\.\"Cela reste tout de même magnifique !\n Votre pureté est telle qu'elle vous permet d'embrasser\n les paroles d'autrui peu importe la situation.\"",
             "\\.\"Cela explique peut-être pourquoi tous vos\n amis sont de si bonnes personnes, Nao.\"",
