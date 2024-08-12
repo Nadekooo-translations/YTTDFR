@@ -2029,7 +2029,7 @@
             "\\.\"J-Je vais bien. On dirait que la lumière est\n revenue.\"",
             "\\.\"Allons inspecter les autres pièces afin de \n vérifier si quelque chose s'y est produit.\"",
             "\\.\\C[4](...)",
-            null,
+            "\\.\\C[3]Lorsque j'ai regardé la carte à nouveau,\nle texte n'était plus visible.",
             null,
             null,
             null,
