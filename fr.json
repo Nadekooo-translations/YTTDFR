@@ -10381,62 +10381,72 @@
             null,
             null,
             "\\.\"Je te les confie...!\"",
-            "\\.\"Nos regrets...!! Nos espoirs...!!\""
+            "\\.\"Nos regrets...!! Nos espoirs...!!\"",
+            null,
+            null,
+            "\\.\"Joe, n'est-ce pas ton anniversaire, aujourd'hui ?\"",
+            "\\.\"Hein ? T'as une bonne mémoire, Sara !\n Et je me répète, mais... Je t'ai déjà dit que\n t'avais pas besoin de parler aussi poliment\n avec moi.\"",
+            "\\.\"Fais la même pour moi, alors.\n Tiens, c'est pour toi, Joe.\"",
+            "\\.\"Ouagh ! Oh putain, trop mignon !!\n C'est un... porte-clé en forme de chien ?\"",
+            "\\.\"Mon amie Ryoko l'a gagné à une arcade.\n Tu peux le garder.\"",
+            "\\.\"J'vais le mettre là jusqu'à la remise des diplômes !\"",
+            "\\.\"Aussi longtemps ?\n ... Te le fais pas confisquer.\"",
+            "\\.\"Merci, Sara !\""
         ],
         "276-0-message": [
             "Sara Chidouin\nC'est moi. Je me fais suivre par un stalkeur\nces derniers temps...",
-            "\\.Sur le chemin du retour du lycée avec Joe, j'ai\nrencontré mon stalkeur. Quand je suis rentrée\nchez moi... ma mère avait perdu connaissance.\nAprès ça... je ne me souviens de rien.",
-            "\\.Après avoir réussi la Roulette Russe, les autres m'ont\nplus accordé leur confiance. Ça me fait plaisir, mais...\nC'est difficile d'être traitée comme un leader."
+            "\\.Sur le chemin du retour du lycée avec Joe, j'ai\nrencontré mon stalkeur. Quand je suis rentrée\nchez moi... ma mère était inconsciente.\nAprès ça... je ne me souviens de rien.",
+            "\\.Après avoir remporté la Roulette Russe, les gens\nm'ont plus accordé leur confiance.\nÇa me fait plaisir, mais...\nC'est difficile d'être traitée comme un leader."
         ],
         "277-0-message": [
-            "Jou Tazuna (Joe)\nMon camarade de classe, un ami enjoué et bienveillant.\nIl a récemment commencé à sortir avec ma meilleure amie\nRyoko.",
+            "Jou Tazuna (Joe)\nMon camarade de classe, mon ami enjoué et bienveillant.\nIl a récemment commencé à sortir avec ma meilleure amie\nRyoko.",
             "\\.Depuis qu'il a réalisé que je me faisais suivre,\nil est attentionné avec moi... à sa manière.\nC'est le seul que je connaisse ici.",
-            "\\.Joe m'a fait confiance lors de la Première Épreuve et\nde la Roulette Russe. Peut-être que la raison pour\nlaquelle j'arrive à garder mon calme, c'est ce gars."
+            "\\.Joe m'a fait confiance pour la Première Épreuve et\nla Roulette Russe. C'est peut-être grâce à ce gars-là\nque j'arrive à garder mon calme."
         ],
         "278-0-message": [
-            "Keiji Shinogi\nNotre soi-disant \"ami le policier\"...\nIl semblerait qu'il soit flic.",
+            "Keiji Shinogi\nNotre soi-disant \"ami le policier\"...\nIl semblerait que ce soit un flic.",
             "\\.Son allure décontractée semble inexplicablement louche.\nOn dirait qu'il essaie d'inciter les autres à me faire\nconfiance.",
             "\\.Mais... Juste avant la Roulette Russe, il a avoué\navoir tiré sur quelqu'un. Il ne serait apparemment\nplus capable d'utiliser d'armes à feu depuis."
         ],
         "279-0-message": [
-            "Kanna Kizuchi\nUne collégienne. Lors de la Première Épreuve...\nElle aurait perdu sa grande sœur...",
-            "\\.Pleine de regrets, elle m'a interrogée à propos de\nla Première Épreuve. Monsieur Mishima qui passait\npar là par hasard à ce moment lui a menti par\ninquiétude. J'ai joué le jeu.",
-            "\\.J'ai caché la vérité... car elle était cruelle.\nMais Rillante a insulté Kanna de tueuse de sœur...!\nPeut-être que Kanna m'en veut de lui avoir caché la\nvérité... Même si elle retrouve sa sœur en moi..."
+            "Kanna Kizuchi\nUne collégienne. Lors de la Première Épreuve...\nElle a perdu sa grande sœur...",
+            "\\.Pleine de regrets, elle m'a interrogée à propos de\nla Première Épreuve. Monsieur Mishima qui passait\npar là par hasard à ce moment-là lui a menti par\ninquiétude que son état empire. J'ai joué le jeu.",
+            "\\.J'ai caché la vérité... car elle était cruelle.\nMais Rillante a insulté Kanna de tueuse de sœur...!\nIl se peut que Kanna m'en veuille de lui avoir caché\nla vérité... Même si elle retrouve sa sœur en moi..."
         ],
         "280-0-message": [
-            "Q-taro Burgerberg\nUn joueur de baseball qui serait sur le point de\nfaire un comeback... apparemment.",
-            "\\.Malgré sa figure gigantesque et tape-à-l'oeil, il est\ntrès méfiant. Il aurait apparemment grandi dans\nun orphelinat étrange, ce qui explique pourquoi\nson jargon part dans tous les sens.",
-            "\\.Nous avons eu un conflit lors de la Roulette Russe,\nmais il s'est retiré et il semble qu'il me fasse\nconfiance depuis. Il a l'air d'être un bonhomme\nhonnête et pragmatique."
+            "Q-taro Burgerberg\nUn joueur de baseball qui aurait fait un comeback...\nApparemment.",
+            "\\.Malgré son physique gigantesque et tape-à-l'œil, il\nest de nature très méfiante. Il aurait apparemment\ngrandi dans un étrange orphelinat, ce qui explique\npourquoi son jargon part dans tous les sens.",
+            "\\.Nous nous sommes affrontés pour la Roulette Russe,\nmais il s'en est remis à moi et il semble qu'il me fasse\nconfiance depuis. Il a l'air d'être un bonhomme\nhonnête et pragmatique."
         ],
         "281-0-message": [
-            "Sou Hiyori\nIl se décrit comme un intérimaire.\nUn homme timide qui parle en souriant.",
-            "\\.Il est mince et faible étant donné qu'il n'a même\npas réussi à ouvrir une porte coulissante. D'un autre\ncôté, son comportement a changé subitement quand\nj'ai ramassé le révolver... J'ai eu un peu peur.",
-            "\\.Lors de la Roulette Russe, Sou était coincé à\nl'extérieur de la salle. Je suis intriguée par la\n\"salle secrète\" qu'il dit avoir trouvé pendant\nqu'on était enfermés."
+            "Sou Hiyori\nIl dit être intérimaire.\nUn homme timide qui sourit toujours quand il parle.",
+            "\\.Il est mince et faible au point de ne même pas\nréussir à ouvrir un placard coulissant. D'un autre\ncôté, son comportement a changé subitement quand\nj'ai pris le révolver... J'ai eu un peu peur.",
+            "\\.Lors de la Roulette Russe, Sou était coincé à\nl'extérieur de la salle. Je suis intriguée par la\n\"salle secrète\" qu'il dit avoir trouvé pendant\nce laps de temps."
         ],
         "282-0-message": [
             "Reko Yabusame\nUne chanteuse et auteure-compositrice qui\nest connue au point d'apparaître dans des\nmagazines.",
-            "\\.Elle est membre d'un groupe au look très voyant.\nElle s'inquiète pour ses bongos.\nApparemment, là, elle est \"peu\" maquillée.\nElle est sévère avec les hommes.",
-            "\\.En parallèle, elle est super gentille avec moi, Nao,\net Kanna. Elle a montré de l'inquiétude envers Sou,\ndonc peut-être plutôt qu'elle est attentionnée\nenvers les faibles et difficile avec les forts..."
+            "\\.Elle est membre d'un groupe au look très voyant.\nElle s'inquiète pour ses bongos.\nApparemment, là, elle est \"peu\" maquillée.\nElle est très sévère avec les hommes.",
+            "\\.En parallèle, elle est très gentille avec moi, Nao,\net Kanna. Elle a montré de l'inquiétude envers Sou,\ndonc peut-être plutôt qu'elle est attentionnée\nenvers les faibles et difficile avec les forts..."
         ],
         "283-0-message": [
-            "Nao Egokoro\nUne étudiante d'art à l'université. Il semblerait\nqu'elle respecte énormément son professeur\nde lycée, Mishima.",
+            "Nao Egokoro\nUne étudiante d'art à l'université. Il semblerait\nqu'elle respecte énormément son professeur\nde lycée, Monsieur Mishima.",
             "\\.Elle s'est échappée de la Première Épreuve en coopérant\navec lui. Ils comptent l'un sur l'autre, et j'ai vu\nNao s'énerver avec ceux qui parlent du mal de lui.",
             "\\.Mais... Monsieur Mishima... s'est fait tuer\npar Rillante.\n... L'état de Nao me préoccupe."
         ],
         "284-0-message": [
-            "Kai Satou\nIl dit être un assistant ménager.\nUn énergumène obsédé par les œufs Bénédicte.",
-            "\\.Il est perché et il dit des choses qui pourraient autant\nêtre interprétées comme une blague que sérieusement.\nDurant la Roulette Russe, il n'a pas voté pour moi,\nmais il m'a acceptée.",
-            "\\.Mais... C'est mon stalkeur. Il se pourrait qu'il ait\nquelque chose à voir avec les kidnappings. Ou du\nmoins c'est ce que je pensais, car il a donné un\nsacré coup à Rillante. C'est un mystère..."
+            "Kai Satou\nIl dit être assistant ménager.\nUn énergumène obsédé par les œufs Bénédicte.",
+            "\\.Il est perché et il dit des choses qui pourraient autant\nêtre interprétées comme une blague que sérieusement.\nDurant la Roulette Russe, il a accepté de me faire\nconfiance malgré le fait qu'il n'ait pas voté pour moi.",
+            "\\.Mais... C'est mon stalkeur. Il se pourrait qu'il ait\nquelque chose à voir avec les kidnappings. Ou du\nmoins, c'est ce que je pensais, car il a donné un\nsacré coup à Rillante. C'est un mystère..."
         ],
         "285-0-message": [
-            "Gin Ibushi\nUn collégien quelque peu insolent qui\nfinit ses phrases par \"ouaf\" et \"miaou\".\"",
-            "\\.On dirait qu'il tient à moi, il m'appelle sa \"grande\nsœur Sara\". Son optimisme dans cette situation\ndésagréable n'est pas celle d'un collégien.",
-            "\\.Mais je ne sais pas comment l'état mental de Gin\npourrait évoluer après avoir vu une tragédie\nd'aussi près. ... Même moi, je n'avais jamais vu\nune chose aussi horrible auparavant."
+            "Gin Ibushi\nUn collégien plutôt insolent qui finit ses phrases\npar \"ouaf\" et \"miaou\".\"",
+            "\\.Il a l'air de tenir à moi puisqu'il m'appelle sa\n\"grande sœur Sara\". Son optimisme dans cette\nsituation difficile ne ressemble pas du tout à celle\nd'un collégien.",
+            "\\.Mais je ne sais pas comment l'état mental de Gin\npourrait évoluer après avoir vu une telle tragédie\nd'aussi près... Même moi, je n'avais jamais vu\nune chose aussi horrible auparavant."
         ],
         "286-0-message": [
-            "Kazumi Mishima\nUn professeur de lycée qui a l'air très suspect,\nmais qui est en vérité un homme au personnage\ntrès noble.",
+            "Kazumi Mishima\nUn professeur de lycée qui a l'air très suspect,\nmais qui est en vérité un homme très noble.",
             "\\.Il a réussi la Première Épreuve avec Nao, et il\nse faisait du souci pour tout le monde.\nIl aimait sûrement fumer, malgré son déni.\nIl a menti à Kanna pour son bien.",
-            "\\.Monsieur Mishima... est mort.\nLe vote que Rillante a exigé, qui était censé être\nun test... l'a tué. Être brûlé vif par son collier a dû\nêtre douloureux. Je... Je le ferai payer à Rillante."
+            "\\.Monsieur Mishima... est mort.\nLe vote que Rillante avait qualifié de test... l'a tué.\nÊtre brûlé vif par son collier a dû être douloureux.\nRillante... Je la ferai payer."
         ],
         "287-0-message": [
             "Conclure les rappels ?"
