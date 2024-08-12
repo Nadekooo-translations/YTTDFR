@@ -1961,7 +1961,10 @@
             null,
             null,
             null,
-            "\\.\"Madame Chidouin...?\""
+            "\\.\"Madame Chidouin...?\"",
+            "\\.\"Hum Kai... Est-ce que tu...\"",
+            "\\.\"Ah... !\"",
+            "\\.\\C[4](Les lumières... !)"
         ],
         "5-1-message": [
             "\\C[3]Un briquet Zippo chic."
