@@ -1956,7 +1956,12 @@
             null,
             "\\.\"Quel avarice.\"",
             "\\.\\C[4](..........)",
-            "\\.\\C[4](Est-ce vraiment lui... mon stalkeur...?)"
+            "\\.\\C[4](Est-ce vraiment lui... mon stalkeur...?)",
+            "\\.\\C[4](...)",
+            null,
+            null,
+            null,
+            "\\.\"Madame Chidouin... ?\""
         ],
         "5-1-message": [
             "\\C[3]Un briquet Zippo chic."
