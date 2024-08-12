@@ -1947,14 +1947,14 @@
     "map36": {
         "1-1-message": [
             null,
-            null,
-            null,
-            null,
-            null,
+            "\"C'est fermé à clé...\n Je suppose qu'il en va ainsi.\"",
+            "\\.\\C[4](Kai... ?)",
+            "\\.\"Je réfléchissais à un moyen d'entrer dans la cuisine.\n Elle n'a pas encore été inspectée, voyez-vous.\"",
+            "\\.\"...Tu es si calme.\"",
             "\\.\"...\"",
             null,
             null,
-            null,
+            "\\.\"Quel avarice.\"",
             "\\.\\C[4](..........)",
             "\\.\\C[4](Est-ce vraiment lui... mon stalkeur...?)"
         ],
