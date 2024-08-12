@@ -2016,7 +2016,7 @@
         ],
         "2-1-message": [
             "\\C[3]Quelque chose brille...",
-            null,
+            "\\.\\C[4](C'est... une \\C[2]carte\\C[4] ?)",
             null,
             null,
             "\\.\\C[4](C'est... une \\C[2]carte\\C[4] ?)",
