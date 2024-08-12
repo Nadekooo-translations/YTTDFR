@@ -2023,7 +2023,7 @@
             "\\.\\C[3]À la personne qui revendique cette carte :",
             "\\.\\C[3]Désormais, elle vous appartient.\nGardez-la toujours en votre possession.\nIl s'agit d'une clé vers la sortie.",
             "\\C[2]N'informez personne de l'existence de cette carte.\\C[3].\nAutrement, \\C[2]vous mourrez\\C[3].",
-            "\\.\\C[4](Qu'est-ce que c'est... que ça... ?)"
+            "\\.\\C[4](Qu'est-ce que c'est... que ça...?)"
         ],
         "7-1-message": [
             "\\C[3]Une carte portant l'inscription \"Maître des Clés\".\nElle indique : \"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe."
