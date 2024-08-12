@@ -254,7 +254,7 @@
             "\"Haa... On dirait que cette dispute est plutôt tendue.\"",
             "\\.\"Juste par curiosité, quelle opinion soutiens-tu ?\n Celle de M. Bleu, ou celle de Mme. Rouge ?\"",
             "\"Ohh... Elle est morte.\"",
-            "\\.\"Mais tant mieux pour toi !\n Ton opinion était la plus soutenue !\"",
+            "\\.\"Mais tant mieux pour toi !\n Ton opinion était la plus soutenue !\"",
             "\\.\"Au final, la majorité est absolue !\n C'est comme ça que ça marche en société !\"",
             "\"Ohh... Il est mort.\"",
             "\\.\"Mais tant mieux pour toi !\n Ton opinion était la plus soutenue !\"",
@@ -1948,7 +1948,7 @@
         "1-1-message": [
             "\\C[3]Kai a le regard fixé en direction de la cuisine.",
             "\"C'est fermé à clé...\n Je suppose qu'il en va ainsi.\"",
-            "\\.\\C[4](Kai... ?)",
+            "\\.\\C[4](Kai...?)",
             "\\.\"Je réfléchissais à un moyen d'entrer dans la cuisine.\n Elle n'a pas encore été inspectée, voyez-vous.\"",
             "\\.\"... Tu es si calme.\"",
             "\\.\"...\"",
@@ -1965,7 +1965,7 @@
             "\\.\"Euh, Kai... Est-ce que tu...\"",
             "\\.\"Ah...!\"",
             "\\.\\C[4](Les lumières...!)",
-            "\\.\"Madame Chidouin, allez-vous bien ?\"",
+            "\\.\"Madame Chidouin, allez-vous bien ?\"",
             "\\.\"Oui, ça va.\"",
             "\\.\"Cela pourrait être un piège.\n Allons à la recherche d'un interrupteur.\""
         ],
@@ -2015,11 +2015,11 @@
             "\\C[3]Une ampoule pour illuminer une pièce."
         ],
         "2-1-message": [
-            "\\C[3]Quelque chose brille...",
-            "\\.\\C[4](C'est... une \\C[2]carte\\C[4] ?)",
+            "\\C[3]Quelque chose scintille...",
+            "\\.\\C[4](C'est... une \\C[2]carte\\C[4] ?)",
+            "\\.\\C[4](Les lettres qui y figurent dessus brillent.)",
             null,
-            null,
-            "\\.\\C[4](C'est... une \\C[2]carte\\C[4] ?)",
+            "\\.\\C[4](C'est... une \\C[2]carte\\C[4] ?)",
             "\\.\\C[3]À la personne qui revendique cette carte :",
             "\\.\\C[3]Désormais, elle vous appartient.\nGardez-la toujours en votre possession.\nIl s'agit d'une clé vers la sortie.",
             "\\C[2]N'informez personne de l'existence de cette carte.\\C[3].\nAutrement, \\C[2]vous mourrez\\C[3]."
@@ -2032,12 +2032,12 @@
         ],
         "1-3-message": [
             "\"Oh, Madame Chidouin et compagnie.\"",
-            "\\.\"K... Kai !\"",
-            "\\.\"Oui, c'est moi.\n\\! ... Y a-t-il un problème ?\"",
+            "\\.\"K... Kai !\"",
+            "\\.\"Oui, c'est moi.\n\\! ... Y a-t-il un problème ?\"",
             "\\.\"On était justement en train de dire qu'on\n devrait se regrouper.\"",
             "\\.\"Cela me revient.\n Joe nous avait dit de nous rassembler au bar.\"",
             "\\.\"Hmm...\"",
-            "\\.\"Les lumières sont de retour, il m'est enfin\n possible de me déplacer.\n Devrions-nous nous diriger là-bas ensemble ?\""
+            "\\.\"Les lumières sont de retour, il m'est enfin\n possible de me déplacer.\n Devrions-nous nous diriger là-bas ensemble ?\""
         ]
     },
     "map16": {
@@ -3794,9 +3794,9 @@
             "\\.\"Monsieur !! MONSIEUUUUUUUUUUUUUUUX !!!\"",
             "\\.\"Hi... hihi, hyahahaha...!! Bouahah...!\"",
             "\\.\"Ahhhhh... *snif*... ahhh...!!\"",
-            "\\.\"Hahahahahaha !! Quel manque d'élégance.\n Tu t'es fait dessus ?\"",
+            "\\.\"Hahahahahaha !! Quel manque d'élégance.\n Tu t'es fait dessus ?\"",
             "\\.\"*renifle*... C'est... C'est horrible...\n Pourquoi tu as fait ça...?!\"",
-            "\\.\"Vous avez appris ce que signifiait un vote à la\n majorité grâce à cette expérience, n'est-ce pas ?\"",
+            "\\.\"Vous avez appris ce que signifiait un vote à la\n majorité grâce à cette expérience, n'est-ce pas ?\"",
             "\\.\\C[3]Horrible...",
             "\\.\\C[3]C'est tellement horrible...",
             "\\.\\C[3]Sa mort n'a pas été instantanée.\nIl a été brûlé lentement...\nEt sans même pouvoir se tordre de douleur... il est mort.",
@@ -5599,7 +5599,7 @@
             "\\.\"Aaaaa... oooouh...\"",
             "\\.\"N'aie pas peur. Je ne te ferai aucun mal...\"",
             "\\.\\C[3]Je place gentiment ma main sur son dos tremblant...",
-            "\\.\"Aah... ?\"",
+            "\\.\"Aah...?\"",
             "\\.\"...\"",
             "\\.\"..........\"",
             "\\.\"Sniff... M-Merci beaucoup...\"",
@@ -10280,7 +10280,7 @@
             null,
             null,
             null,
-            "\\.\"Ti aimes tes darons ?\""
+            "\\.\"T'aimes tes darons ?\""
         ],
         "1327-0-message": [
             null,
@@ -10292,7 +10292,7 @@
             null,
             null,
             null,
-            "\\.\"Y a rien d'drôle... Si une blessure à la jambe s'empire,\n c'est la mort pour la carrière d'un joueur !\""
+            "\\.\"Y a rien d'drôle... Si une blessure à la jambe empire,\n c'est la mort pour la carrière d'un joueur !\""
         ],
         "1561-0-message": [
             null,
@@ -10306,7 +10306,7 @@
             null,
             null,
             null,
-            "\"Chuis jouasse qu't'ailles bien. Tu peux t'lever ?\""
+            "\"Chuis jouasse qu't'ailles bien. Tu peux t'lever ?\""
         ],
         "1314-0-message": [
             "\\C[3]Il n'y a rien à l'intérieur."
