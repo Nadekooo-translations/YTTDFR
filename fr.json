@@ -13,8 +13,8 @@
             "\\.\\C[4](Keiji est plongé dans ses pensées...)",
             "\\.\"..........\"",
             "\\.\"Ils ont tous besoin de temps pour réfléchir, là.\"",
-            "\\.\"Toi aussi, Sara...\n Et moi de même, bien évidemment.\"",
-            "\\.\"... Je suis sûr que tout le monde reviendra.\""
+            "\\.\"Toi aussi, Sara...\n Et moi de même, bien sûr.\"",
+            "\\.\"... Je suis sûr que tout le monde reviendra au bout\n d'un moment.\""
         ],
         "6-1-message": [
             "\\C[3]Un briquet Zippo chic."
@@ -2051,6 +2051,12 @@
             "\\.\"Cela me revient.\n Joe nous avait dit de nous rassembler au bar.\"",
             "\\.\"Hmm...\"",
             "\\.\"Les lumières sont de retour, il m'est enfin\n possible de me déplacer.\n Devrions-nous nous diriger là-bas ensemble ?\""
+        ],
+        "8-1-message": [
+            "\\C[3]La porte de la cuisine est fermée à clé."
+        ],
+        "30-1-message": [
+            "\\C[3]Je peux voir la cuisine à travers la vitre."
         ]
     },
     "map16": {
@@ -3858,96 +3864,96 @@
             "\\C[3]Un briquet Zippo chic."
         ],
         "2-1-message": [
-            "\"Depuis quand c'est là, ça...!\"",
-            "\\.\"Ne me dites pas que ces escaliers mènent au...\"",
-            "\\.\"J'en sais rien...\n Mais peu importe, je parie qu'il faut qu'on y aille...\"",
-            "\\.\"J'ai pas... grand espoirs.\n Mais je veux pas les lâcher...\"",
-            "\\.\"Bon sang, ça sera encore un piège de toute façon !\n T'en penses quoi, Sara ?\"",
-            "\\.\"...Tout le monde est sur les nerfs maintenant...\n Si on y va, on devrait d'abord rassembler\n tout le monde.\"",
+            "\"Depuis quand c'là, ça...!\"",
+            "\\.\"Ne me dites pas que ces escaliers mènent...\"",
+            "\\.\"J'en sais rien...\n Mais peu importe, j'parie qu'il faut qu'on y aille...\"",
+            "\\.\"J'pas... grand espoir.\n Mais j'ai envie d'y croire...\"",
+            "\\.\"Nom de Dieu, ç'sera encore un piège d'toute façon !\n T'en penses quoi, Sara ?\"",
+            "\\.\"... On est tous à crans, pour l'instant...\n On devrait se regrouper avant.\"",
             "\\.\"..........\"",
-            "\\.\"...Mais tu as eu vent du Jeu Principal... pas vrai ?\n On va devoir... sacrifier l'un d'entre nous...?\"",
-            "\\.\"Bien sûr que je veux pas participer.\n Mais... comment on pourrait se sentir unis...?\"",
-            "\\.\"Tu... as peut-être raison, mais...\"",
+            "\\.\"... Mais t'es au courant pour l'Jeu Principal... hein ?\n Qu'on va devoir... sacrifier l'un d'ent' nous...?\"",
+            "\\.\"J'pas envie d'y participer... mais...\n Comment s'sentir unis dans une situation pareille...?\"",
+            "\\.\"C'est... raisonnable, mais...\"",
             "\\.\"...\"",
-            "\\.\"...Mince !\"",
-            "\\.\"Owkay. Je vais attendre.\"",
-            "\\.\"Je vais essayer de croire en toi.\n On montera quand tout le monde sera là.\"",
-            "\\.\"Si quelqu'un tente de monter seul,\n je vais les chopper par la peau des fesses.\"",
-            "\\.\"Soit pas trop brutal, okay ?\""
+            "\\.\"... Et merde !\"",
+            "\\.\"C'bon. Je vais rester ici.\"",
+            "\\.\"J'vais essayer d'croire en toi.\n On montera quand tout le monde sera là.\"",
+            "\\.\"Si quelqu'un tente d'monter, j'les choperai par la\n peau des fesses.\"",
+            "\\.\"Sois pas trop brutal, d'accord ?\""
         ],
         "1-1-message": [
-            "\\C[4](Qu'est-ce que c'est...?!)",
-            "\\.\\C[3]Là où il n'y avait rien auparavant,\nse trouvent désormais des escaliers.",
-            "\\.\\C[4](Est-ce que c'est un autre piège...?)"
+            "\\C[4](Qu'est-ce que c'est que ça...?!)",
+            "\\.\\C[3]Des escaliers sont apparus de nulle part.",
+            "\\.\\C[4](Serait-ce un piège...?)"
         ],
         "1-3-message": [
             "\\C[4](Q-taro n'est pas ici...!)",
-            "\\.\"Est-ce qu'il est monté au deuxième étage ?!\"",
+            "\\.\"Serait-il monté au deuxième étage ?!\"",
             "\\.\\C[4](Qu'est-ce qu'on fait ?!)",
             "\\.\"Bon, Joe.\n Je peux te confier le premier étage ?\"",
-            "\\.\"Hein ?!\n Ça ne va pas être dangereux avec seulement vous deux ?!\"",
-            "\\.\"...Pourrait faire une rencontre dangereuse, c'est vrai.\"",
-            "\\.\"Et bien... Si vous mettez du temps à revenir,\n je viendrai aider !\"",
+            "\\.\"Hein ?! Ça va pas être dangereux de vous laisser\n seuls tous les deux ?!\"",
+            "\\.\"... Oh que si, que c'est dangereux.\"",
+            "\\.\"Bon bah... Si vous mettez du temps à revenir,\n je viendrai vous aider !\"",
             "\\.\"Surtout pas ! Et si elle est au premier étage ?\"",
-            "\\.\"Je vais aller voir là-bas, et vous montez chercher \nen haut !\n Je t'en prie, Keiji !\"",
+            "\\.\"Je vais aller voir là-bas... Allez regarder à l'étage !\n S'te plaît, Keiji !\"",
             "\\.\"Ça roule.\"",
             "\\.\"Reviens immédiatement si tu la trouves, Sara !\"",
             "\\.\\C[4](Dépêchons-nous !)",
-            "\\.\"C'est ça le second étage, eh ?\n ...Un tas de portes.\"",
+            "\\.\"C'est ça le second étage, hein ?\n ... Ça fait pas mal de portes.\"",
             "\\.\\C[4](Où peut-elle bien être...?!)"
         ],
         "1-4-message": [
-            "\\.\"Huh... Les lumières sont éteintes ?\"",
+            "\\.\"Hein... Les lumières sont éteintes ?\"",
             "\\.\"C'est étrange...\""
         ],
         "1-3-choice": [
-            "Séparons-nous et cherchons\nQue tout le monde fouille le second étage"
+            "Séparons-nous\nQue tout le monde fouille le premier étage"
         ],
         "1-6-message": [
-            "\\.\"Ahem, Sara Chidouin.\n Il y a eu du bruit au deuxième étage...\n Que s'est-il passé ?\"",
+            "\\.\"Héhém, Sara Chidouin.\n J'ai entendu du bruit au premier étage...\n Que s'est-il passé ?\"",
             "\\.\"Hein...?!\"",
-            "\\.\"Je vais voir! Gonbee, tu...\"",
-            "\\.\"Hmph... Je vais rester ici...!\"",
-            "\\.\\C[4](Laissons-le seul...)",
-            "\\.\"Je t'en prie ! Va vérifier pour moi !\"",
-            "\\.\"Hmph... Va vérifier toi-même.\"",
-            "\\.\\C[4](Bon sang...!)"
+            "\\.\"Je vais voir ! Gonbee, tu...\"",
+            "\\.\"Hmph... Je resterai ici...!\"",
+            "\\.\\C[4](Laissons-le tranquille...)",
+            "\\.\"Je t'en supplie !\n Va voir ce qu'il s'est passé pour moi !\"",
+            "\\.\"Hmph... Vas-y toi-même.\"",
+            "\\.\\C[4](Roh...!)"
         ],
         "1-6-choice": [
-            "Je vais aller voir\nS'il-te-plaît, va voir à ma place"
+            "Je vais aller voir\nS'il te plaît, vas-y à ma place"
         ],
         "2-1-choice": [
-            "Le terrain de Jeu Principal ?\nUne sortie ?"
+            "Au terrain du Jeu Principal ?\nÀ une sortie ?"
         ],
         "2-2-message": [
-            "\"On montera ces escaliers...\n quand tout le monde sera réuni.\"",
-            "\\.\"J'ai du mal à croire qu'on pourra\n faire copain-copain comme avant, cela dit...\""
+            "\"On montera... quand tout l'monde sera réuni.\"",
+            "\\.\"J'du mal à croire qu'on puisse faire copain-copain\n comme avant, par contre...\""
         ],
         "2-3-message": [
             "\"Hé ! C'est quoi son problème ?!\"",
             "\\.\"Il a perdu connaissance...!\"",
-            "\\.\"J'en sais rien !\nTrouve quelqu'un qui saurait pour l'examiner !\""
+            "\\.\"J'jamais entendu parler d'lui !\nTrouve quelqu'un qui saurait l'examiner !\""
         ],
         "3-1-message": [
-            "\"Regardez, mademoiselle Sara ! Il y a des escaliers ici\ndésormais.\"",
+            "\"Regarde, Sara !\n Il y a des escaliers ici, maintenant.\"",
             "\\.\"Je me demande où ils mènent...\"",
-            "\\.\"Je ne sais pas... Mais...\"",
-            "\\.\"Rillante a laissé des tâches de sang.\n Je suis sûr qu'elle est montée.\"",
+            "\\.\"Je ne sais pas... mais...\"",
+            "\\.\"Rillante a laissé des taches de sang derrière elle.\n Je suis certain qu'elle est passée par là.\"",
             "\\.\"... Rillante...!!\"",
-            "\\.\"Je viens juste d'arriver, donc je sais pas...\nIl manque quelqu'un ?\"",
-            "\\.\"C'est trop imprudent !\n Si tu échoues... Elle te tuera avec ton collier.\"",
-            "\\.\"Pourvu que personne ne s'énerve et ne la pourchasse...\n Je ne supporterais pas qu'on ait la responsabilité\n collective de la mort de quelqu'un.\"",
-            "\\.\\C[4](J'ai du mal à m'imaginer que quelqu'un\npuisse vouloir monter ces escaliers seul, mais...)",
-            "\\.\"Tu n'as quand même pas l'intention d'y aller,\n pas vrai, Sara ?\"",
+            "\\.\"Je viens tout juste d'arriver, donc je ne suis au\n courant de rien... Il manque quelqu'un ?\"",
+            "\\.\"C'est trop imprudent !\n À la moindre erreur... elle te tuera avec ton collier.\"",
+            "\\.\"Pourvu que personne ne s'énerve et ne la pourchasse...\n Je ne supporterai pas que l'on partage tous la\n responsabilité de la mort de quelqu'un.\"",
+            "\\.\\C[4](J'ai du mal à m'imaginer que qui que ce soit\n veuille aller au premier étage seul, mais...)",
+            "\\.\"Tu n'as quand même pas l'intention d'y aller, Sara.\"",
             "\\.\"Je te le dis pour ton propre bien...\n Tu devrais t'abstenir pour le moment.\"",
-            "\\.\"... Mais surtout, j'aimerais te montrer quelque chose.\"",
+            "\\.\"... Après tout, j'aimerais te montrer quelque chose.\"",
             "\\.\"Hein...?\"",
             "\\.\"On peut se rejoindre à l'arrière de la cafétéria ?\n ... S'il te plaît.\"",
             "\\.\"Ah, Sou...!\"",
             "\\.\\C[4](Je me demande ce qu'il veut me montrer...)"
         ],
         "3-1-choice": [
-            "Quelqu'un d'autre est monté ?\nAllons la rattraper"
+            "Quelqu'un d'autre est monté ?\nRattrapons-la"
         ],
         "5-1-message": [
             "\\C[3]Une carte portant l'inscription \"Maître des Clés\".\nElle indique : \"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe."
@@ -12288,7 +12294,7 @@
             "\\.\"Merci d'avoir joué jusqu'à la fin.\""
         ],
         "3-1-message": [
-            "\\C[3]...Passons au résumé du Chapitre 1, Partie Une...",
+            "\\C[3]... Passons au résumé du Chapitre 1, Partie Une...",
             "\\C[3].........."
         ]
     },
@@ -19903,6 +19909,9 @@
             null,
             "\\.\\C[3]...",
             "\\.\\C[3]Le deuxième échange a été effectué il y a 4 minutes."
+        ],
+        "12-1-message": [
+            "\\C[3]Je peux voir la cuisine à travers la vitre."
         ]
     },
     "map216": {
