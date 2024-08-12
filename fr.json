@@ -1953,7 +1953,7 @@
             "\\.\"... Tu es si calme.\"",
             "\\.\"...\"",
             "\\.\"Allons, ce n'est pas très gentil.\n Je souhaite simplement cuisiner pour tout le monde.\n Rien de plus.\"",
-            "\\.\"Mais il est vrai... Je doute qu'ils nous aient \nlaissé quelconques ingrédients dans la cuisine.\"",
+            "\\.\"Mais il est vrai... que je doute qu'ils nous aient\n laissé de quelconques ingrédients dans la cuisine.\"",
             "\\.\"Quelle avarice.\"",
             "\\.\\C[4](..........)",
             "\\.\\C[4](Est-ce vraiment lui... mon stalkeur...?)",
