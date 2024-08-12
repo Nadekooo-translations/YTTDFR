@@ -2025,7 +2025,8 @@
             "\\C[2]N'informez personne de l'existence de cette carte.\\C[3].\nAutrement, \\C[2]vous mourrez\\C[3].",
             "\\.\\C[4](Qu'est-ce que c'est... que ça...?)",
             "\\.\"Madame Chidouin, êtes-vous blessée ?\"",
-            "\\.\\C[3]Je cache la carte par réflexe."
+            "\\.\\C[3]Je cache la carte par réflexe.",
+            "\\.\"J-Je vais bien. On dirait que les lumières se sont rallumées.\""
         ],
         "7-1-message": [
             "\\C[3]Une carte portant l'inscription \"Maître des Clés\".\nElle indique : \"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe."
