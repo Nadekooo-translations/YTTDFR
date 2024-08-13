@@ -2055,7 +2055,8 @@
             "\\.\"Les lumières sont de retour, il m'est enfin\n possible de me déplacer.\n Devrions-nous nous diriger là-bas ensemble ?\""
         ],
         "8-1-message": [
-            "\\C[3]La porte de la cuisine est fermée à clé."
+            "\\C[3]La porte de la cuisine est fermée à clé.",
+            "\\.\\C[4](Je vais utiliser cette clé... !)"
         ],
         "30-1-message": [
             "\\C[3]Je peux voir la cuisine à travers la vitre."
