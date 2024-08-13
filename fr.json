@@ -2036,7 +2036,8 @@
             "\\.\\C[4](\\C[2]Maitre des Clés\\C[4]... ?)",
             "\\.\\C[4](L'autre texte a l'air d'avoir disparu, mais...\n Qu'est-ce que \"Maitre des Clés\" peut bien\n vouloir dire ?)",
             "\\.\\C[4](...)",
-            "\\.\\C[4](Si je ne suis pas ces règles... Je vais mourir ?)"
+            "\\.\\C[4](Si je ne suis pas ces règles... Je vais mourir ?)",
+            "\\.\\C[4](...J'ai l'impression d'être à nouveau mené en laisse...)"
         ],
         "7-1-message": [
             "\\C[3]Une carte portant l'inscription \"Maître des Clés\".\nElle indique : \"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe."
