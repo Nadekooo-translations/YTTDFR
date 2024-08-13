@@ -2287,7 +2287,7 @@
             "\\.\\C[3][Ne peuvent pas boire]\nAnzu, Kanna, Gin, Kugie, Sara, Joe,\nNao, Hinako, Ranmaru"
         ],
         "21-1-message": [
-            "\\C[3]Une variété de boissons alcoolisées.",
+            "\\C[3]De diverses boissons alcoolisées.",
             "\\.\\C[4](Elles n'ont rien de particulier.)"
         ],
         "65-1-message": [
@@ -4347,7 +4347,18 @@
             "\\.\"Moi, je sais ! Oh que oui, que je sais !\n Cette fille n'est pas celle que vous pensez !!\"",
             "\\.\"D... Du calme !\n Pourrais-tu reprendre depuis le début ?\"",
             "\\.\"... Et tu peux baisser d'un ton, aussi ?\"",
-            "\\.\"..........\""
+            "\\.\"..........\"",
+            "\\.\"Hmph... Comme je suis pitoyable. \n Comment ai-je pu me laisser faire déstabiliser\n d'une telle manière.\"",
+            "\\.\"Il s'moque de nous, là...?\"",
+            "\\.\"Écoute, on a pas de temps à perdre avec toi.\"",
+            "\\.\"Mais... Je nous réserve un peu de temps.\n On va te poser quelques questions et on verra\n pour te libérer après ça.\"",
+            "\\.\"Répète ça, pour voir...?!\"",
+            "\\.\"Hmph...! Fais pas comme si t'étais meilleur que moi,\n vaurien blond !\"",
+            "\\.\"Ouuuh là, tu me fais peur.\n Occupe-toi de l'interroger, Sara.\"",
+            "\\.\"Quoiii ?! Je dois faire ça, aussi ?!\"",
+            "\\.\"Monsieur le Policier tremble de peur, là.\"",
+            "\\.\\C[4](Urgh...)",
+            "\\.\"Préviens-moi quand t'es prête à l'interroger.\""
         ],
         "2-2-message": [
             "\\.\\C[3]Joe est assis seul, la tête baissée.",
@@ -4364,6 +4375,27 @@
         "2-5-message": [
             "\\.\\C[3]Joe est assis.",
             "\\.\"J'me repose encore un peu et j'reprends les\n recherches.\""
+        ],
+        "3-1-choice": [
+            "Lui parler\nL'ignorer"
+        ],
+        "7-1-message": [
+            "\\.\\C[3]Sou et Kanna se reposent dans un coin.",
+            "\"... Ça va, Kanna...?\"",
+            "\\.\"..........\"",
+            "\\.\\C[4](Je ne veux pas faire porter plus de fardeaux\n à Kanna... Je vais continuer à la surveiller de loin.)"
+        ],
+        "33-1-message": [
+            "\\C[3]Il y a des noms inscrits sur le tableau.",
+            "\\.\\C[3][Peuvent boire]\nAlice, Kai, Kazumi, Keiji, Shunsuke,\nSou, Naomichi, Mai, Megumi, Reko, Q-taro",
+            "\\.\\C[3][Ne peuvent pas boire]\nAnzu, Kanna, Gin, Kugie, Sara, Joe,\nNao, Hinako, Ranmaru"
+        ],
+        "48-1-message": [
+            "\\C[3]De diverses boissons alcoolisées.",
+            "\\.\\C[4](Elles n'ont rien de particulier.)"
+        ],
+        "67-1-message": [
+            "\\C[3]Le placard est vide."
         ]
     },
     "map38": {
@@ -12795,7 +12827,7 @@
             "\\.\\C[4](..........)",
             "\\.\\C[4](... Ce n'est pas le moment de réfléchir au sens\n du vote de Kai...)",
             "\\.\\C[4](Le plus dur ne fait que commencer !)",
-            "\\.\\C[4](... Bon. Je devrais signaler à \\C[2]l'homme dans la\n peinture\\C[4] que je suis prête.)"
+            "\\.\\C[4](... Bon. Je devrais prévenir \\C[2]l'homme dans la\n peinture\\C[4] que je suis prête.)"
         ],
         "3-1-message": [
             "\"Le fait que je sois mineure ou une lycéenne\n n'importe pas !\"",
@@ -13144,6 +13176,11 @@
         "2-1-message": [
             "\"... Mmh...\"",
             "\"Hééé...\""
+        ],
+        "33-1-message": [
+            "\\C[3]Il y a des noms inscrits sur le tableau.",
+            "\\.\\C[3][Peuvent boire]\nAlice, Kai, Kazumi, Keiji, Shunsuke,\nSou, Naomichi, Mai, Megumi, Reko, Q-taro",
+            "\\.\\C[3][Ne peuvent pas boire]\nAnzu, Kanna, Gin, Kugie, Sara, Joe,\nNao, Hinako, Ranmaru"
         ]
     },
     "map69": {
@@ -16214,6 +16251,11 @@
     "map148": {
         "2-1-message": [
             "\\.\"...\""
+        ],
+        "33-2-message": [
+            null,
+            "\\.\\C[3][Peuvent boire]\nAlice, Kai, Kazumi, Keiji, Shunsuke,\nSou, Naomichi, Mai, Megumi, Reko, Q-taro",
+            "\\.\\C[3][Ne peuvent pas boire]\nAnzu, Kanna, Gin, Kugie, Sara, Joe,\nNao, Hinako, Ranmaru"
         ]
     },
     "map151": {
