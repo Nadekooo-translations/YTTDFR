@@ -4160,7 +4160,7 @@
         "2-1-message": [
             "\\.\\C[3]Joe est assis seul, la tête baissée.",
             "\\.\\C[4](Il a envie d'être seul, hein...)",
-            null,
+            "\"Joe... Est-ce qu'on peut parler un peu ?\"",
             null,
             null,
             "\\.\\C[4](Je ne peux pas lui parler en ce moment...)",
