@@ -2059,7 +2059,8 @@
             "\\C[3]Je peux voir la cuisine à travers la vitre."
         ],
         "2-1-choice": [
-            "La ramasser\nL'examiner de plus près\nNe pas y toucher"
+            "La ramasser\nL'examiner de plus près\nNe pas y toucher",
+            "Regarder le texte de la carte\nRegarder au dos"
         ],
         "40-1-message": [
             "\\C[3]Il y a une zone très sombre à l'arrière de la cafétéria."
