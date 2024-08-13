@@ -656,7 +656,7 @@
             "\\.\"...\"",
             "\\.\"... T'arrives pas à dormir, pas vrai ?\n À cause de ton \\C[2]stalkeur\\C[0]...\"",
             "\"Est-ce que... c'est pour ça que tu me raccompagnes\n tout le temps jusqu'à chez moi ?\"",
-            "\\.\"A... Andouille... Je voulais juste me vanter...\"",
+            "\\.\"A-Andouille... Je voulais juste me vanter...\"",
             "\\.\"... T'as aucune raison de t'excuser.\n Je t'ai dit que c'était pas pour ça !\"",
             "\\.\"Je le disais pas comme une excuse...\"",
             "\\.\"Pourquoi, meuf ?! Bon, si t'es d'humeur\n reconnaissante, je vais pas t'arrêter !\"",
@@ -1959,7 +1959,7 @@
             "\\.\\C[4](C'est vraiment lui... mon stalkeur...?)",
             "\\.\\C[4](...)",
             "\\.\\C[4](Je me disais que si c'était lui, mon stalkeur...\n Il serait du côté des kidnappeurs.)",
-            "\\.\\C[4](Mais... Quand il a frappé Rillante,\n j'ai ressenti une profonde hostilité.\n Elle était authentique.)",
+            "\\.\\C[4](Mais... Quand il a frappé Rillante, j'ai ressenti\n une profonde hostilité. Elle était authentique.)",
             "\\.\\C[4](Kai était... énervé...)",
             "\\.\"Madame Chidouin...?\"",
             "\\.\"Euh, Kai... Est-ce que tu...\"",
@@ -1967,7 +1967,7 @@
             "\\.\\C[4](Les lumières...!)",
             "\\.\"Madame Chidouin, allez-vous bien ?\"",
             "\\.\"Oui, ça va.\"",
-            "\\.\"Cela pourrait être un piège.\n Allons à la recherche d'un interrupteur.\""
+            "\\.\"Cela pourrait être un piège.\n Partons à la recherche d'un interrupteur.\""
         ],
         "5-1-message": [
             "\\C[3]Un briquet Zippo chic."
@@ -2022,11 +2022,11 @@
             "\\.\\C[4](C'est... une \\C[2]carte\\C[4] ?)",
             "\\.\\C[3]À la personne qui revendique cette carte :",
             "\\.\\C[3]Désormais, elle vous appartient.\nGardez-la toujours en votre possession.\nIl s'agit d'une clé vers la sortie.",
-            "\\C[2]N'informez personne de l'existence de cette carte.\\C[3].\nAutrement, \\C[2]vous mourrez\\C[3].",
+            "\\C[2]N'informez personne de l'existence de cette carte\\C[3].\nAutrement, \\C[2]vous mourrez\\C[3].",
             "\\.\\C[4](Qu'est-ce que c'est... que ça...?)",
             "\\.\"Madame Chidouin, êtes-vous blessée ?\"",
             "\\.\\C[3]Je cache la carte par réflexe.",
-            "\\.\"J-Je vais bien. On dirait que la lumière est\n revenue.\"",
+            "\\.\"J-Je vais bien.\n On dirait que la lumière est revenue.\"",
             "\\.\"Allons inspecter les autres pièces afin de \n vérifier si quelque chose s'y est produit.\"",
             "\\.\\C[4](...)",
             "\\.\\C[3]Lorsque j'ai regardé la carte à nouveau,\nle texte n'était plus visible.",
@@ -2057,6 +2057,12 @@
         ],
         "30-1-message": [
             "\\C[3]Je peux voir la cuisine à travers la vitre."
+        ],
+        "2-1-choice": [
+            "La ramasser\nL'examiner de plus près\nNe pas y toucher"
+        ],
+        "40-1-message": [
+            "\\C[3]Il y a une zone très sombre à l'arrière de la cafétéria."
         ]
     },
     "map16": {
@@ -2461,7 +2467,7 @@
             "\\C[3]Un élégant chandelier."
         ],
         "40-1-message": [
-            "\\C[3]Il y a une zone très sombre à\nl'arrière de la cafétéria."
+            "\\C[3]Il y a une zone très sombre à l'arrière de la cafétéria."
         ],
         "15-1-message": [
             "\\C[3]Un billet de 1000 yens.\nDe l'argent liquide utilisable au Japon."
@@ -2989,7 +2995,7 @@
             "\\.\"... Je vois.\"",
             "\\.\"Sara, j'peux te demander d'être le Concurrent ?\"",
             "\\.\"... Quoi ?!\"",
-            "\\.\"C... C'une blague !\n T'peux pas décider d'ça tout seul, gamin !\"",
+            "\\.\"C-C'une blague !\n T'peux pas décider d'ça tout seul, gamin !\"",
             "\\.\"J'assertis qu'il n'est pas très approprié de demander\n à une jeune fille de manier une arme...\"",
             "\\.\"Ça me dérange pas.\n Sara a la tête sur les épaules.\"",
             "\\.\"Alors, Sara ? T'as la confiance ?\"",
@@ -3082,7 +3088,7 @@
             "\\.\"J'pense que je vais d'abord m'occuper des\n trucs simples, genre ces fauteuils.\"",
             "\\.\"Mais dis-moi, Sara, c'est que t'es trop\n petite pour l'atteindre, hein ?\"",
             "\\.\"Hé, j'ai pris un centimètre l'année dernière.\n Ne me prends pas à la légère !\"",
-            "\\.\"M... Meuf, me rabaisse pas...\"",
+            "\\.\"M-Meuf, me rabaisse pas...\"",
             "\\.\"Je vais finir par t'appeler \"minus\" un de ces jours.\"",
             "\\.\"Argh...!\""
         ],
@@ -3210,7 +3216,7 @@
             "\"Heureuse de te voir en forme, Kanna.\"",
             "\"Je vous remercie... Pardon de vous avoir inquiétées.\"",
             "\"Les gosses comme toi ont pas à être si formels !\n Exprime-toi et tes émotions comme tu le sens.\"",
-            "\"D... D'accord ! Merci beaucoup !\"",
+            "\"D-D'accord ! Merci beaucoup !\"",
             "\"Reko... Tu t'amuses bien, on dirait.\""
         ],
         "11-1-message": [
@@ -3680,7 +3686,7 @@
             "\\.\"Hé !! Réponds-moi !!\"",
             "\\.\"Hahaha, bon, d'accord.\"",
             "\\.\"Je vais juste \\C[10]faire exploser ton collier\\C[0].\n Hahaha, haha.\"",
-            "\\.\"H... Hein ?! Non...! Qu...?!\"",
+            "\\.\"H-Hein ?! Non...! Qu...?!\"",
             "\\.\"Gh... Enlevez-moi... Enlevez-moi ce truc...!!\"",
             "\\.\"Ahaha ! Attention, écartez-vous !\n C'est dangereeeux !\"",
             "\\.\"Hahh...\\. Hahh...\\. Hahh...\"",
@@ -3806,7 +3812,7 @@
             "\\.\\C[3]Monsieur Mishima repoussa Nao.",
             "\\.\\C[3]Puis, il tomba en arrière, devant Kanna.",
             "\\.\"Au secours !! Monsieur Mishima !!\n Monsieur Mishima va mourir !!\"",
-            "\\.\"N... Non !! Si tu touches ce collier...!!\"",
+            "\\.\"N-Non !! Si tu touches ce collier...!!\"",
             "\\.\"..........\"",
             "\\.\\C[3]Finalement, Monsieur Mishima...",
             "\\.\\C[3]cessa de bouger...",
@@ -9987,13 +9993,13 @@
             "\\.\"Lis, Sara...\"",
             "\\.\\C[3]\"La Seconde Épreuve ~ Répétition ~\"",
             "\\.\\C[3]\"Il s'agit d'un exercice imitant le Jeu Principal.\n Elle débutera par la résurrection de la poupée.\"",
-            "\\.\\C[3]\"Vous devrez suivre les instructions puis vous\n tiendrez un vote à la majorité.\n\\C[10]La personne avec le plus de votes sera sacrifiée\\C[3].\"",
+            "\\.\\C[3]\"Vous devrez suivre les instructions pour ensuite\n tenir un vote à la majorité.\n \\C[10]La personne avec le plus de votes sera sacrifiée\\C[3].\"",
             "\\.\\C[3]\"Toutefois, puisqu'il s'agit d'un simple entraînement,\n la partie sera annulée \\C[10]en cas d'égalité\\C[3].\"",
             "\\.\\C[4](Quoi...?!)",
             "\"\\C[10]La Seconde Épreuve\\C[0]...\n Elle est nommée exactement comme l'épreuve que l'on\n a eu en arrivant ici...\"",
             "\\.\"On n'a jamais remarqué... cette note...!\"",
             "\\.\"Merde ! Tout ça parce que j'ai dit de garder la porte\n ouverte au cas où...!!\"",
-            "\\.\"... Nous avons été manipulés. L'atmosphère funeste de\n cette salle était discernable avant même d'y avoir mis\n pied.\"",
+            "\\.\"... Nous avons été manipulés.\n L'atmosphère funeste de cette salle était discernable\n avant même d'y avoir mis pied.\"",
             "\\.\"La partie aurait été annulée en cas d'égalité ?\n Non... Me dites pas que...!\"",
             "\\.\"... S'il y avait eu égalité...\n Il y aurait pas eu de victime.\"",
             "\\.\"T-Tu déconnes !\n A-Alors, l'est mort pour rien ?!\"",
@@ -10422,7 +10428,7 @@
         "280-0-message": [
             "Q-taro Burgerberg\nUn joueur de baseball qui aurait fait un comeback...\nApparemment.",
             "\\.Malgré son physique gigantesque et tape-à-l'œil, il\nest de nature très méfiante. Il aurait grandi dans un\nétrange orphelinat, ce qui expliquerait son accent\net son jargon désordonné.",
-            "\\.Nous nous sommes affrontés pour la Roulette Russe,\nmais il s'en est remis à moi et il semble qu'il me fasse\nconfiance depuis. Il a l'air d'être un bonhomme\nhonnête et pragmatique."
+            "\\.Nous nous sommes affrontés pour la Roulette Russe,\nmais il s'en est remis à moi et il semble me faire\nconfiance depuis.\nIl m'a l'air d'être un bonhomme honnête et pragmatique."
         ],
         "281-0-message": [
             "Sou Hiyori\nIl dit être intérimaire.\nUn homme timide qui sourit toujours quand il parle.",
@@ -10437,12 +10443,12 @@
         "283-0-message": [
             "Nao Egokoro\nUne étudiante d'art à l'université. Il semblerait\nqu'elle respecte énormément son professeur\nde lycée, Monsieur Mishima.",
             "\\.Elle s'est échappée de la Première Épreuve en coopérant\navec lui. Ils comptent l'un sur l'autre, et j'ai vu\nNao s'énerver avec ceux qui parlent du mal de lui.",
-            "\\.Mais... Monsieur Mishima... s'est fait tuer\npar Rillante.\n... L'état de Nao me préoccupe."
+            "\\.Mais Monsieur Mishima... s'est fait tuer par Rillante.\n... L'état de Nao me préoccupe."
         ],
         "284-0-message": [
             "Kai Satou\nIl dit être assistant ménager.\nUn énergumène obsédé par les œufs Bénédicte.",
             "\\.Il est perché et il dit des choses qui pourraient autant\nêtre interprétées comme une blague que sérieusement.\nDurant la Roulette Russe, il a accepté de me faire\nconfiance malgré le fait qu'il n'ait pas voté pour moi.",
-            "\\.Mais... C'est mon stalkeur. Il se pourrait qu'il ait\nquelque chose à voir avec les kidnappings. Ou du\nmoins, c'est ce que je pensais, car il a donné un\nsacré coup à Rillante. C'est un mystère..."
+            "\\.Mais... C'est mon stalkeur. Il se pourrait qu'il ait\nquelque chose à voir avec les kidnappings. Ou du\nmoins, c'est ce que je pensais, car il a donné un\nsacré coup à Rillante. C'est un mystère ambulant..."
         ],
         "285-0-message": [
             "Gin Ibushi\nUn collégien plutôt insolent qui finit ses phrases\npar \"ouaf\" et \"miaou\".\"",
@@ -12831,7 +12837,7 @@
             "\"Monsieur... Monsieur...\"",
             "\\.\"Ce n'est pas... réel, n'est-ce pas ? Monsieur...\"",
             "\\.\"Je vous en prie... S'il vous plaît, levez-vous...\"",
-            "\\.\"Vous ne pouvez pas faire ça...\n Nous sommes tous inquiets...\"",
+            "\\.\"Vous ne pouvez pas rester comme ça...\n Nous sommes tous inquiets...\"",
             "\\.\"Monsieur...?\"",
             "\\.\\C[3]Nao... remua faiblement le corps de Monsieur Mishima.\\.\\.",
             "\"...?\"",
@@ -12844,7 +12850,7 @@
             "\\.\"Putain...!! Merde !! C'quoi ce bordel !!\"",
             "\\.\"Qui... Qui a voté... pour Monsieur Mishima...?\"",
             "\\.\"Mais ta gueule, sale mocheté...!!\"",
-            "\\.\"H... Hein ?!\n Mais... c'est à cause des votes, qu'il est...!\"",
+            "\\.\"H-Hein ?!\n Mais... c'est à cause des votes, qu'il est...!\"",
             "\\.\"T'es au courant que c'est possible qu'on ait tous\n voté pour quelqu'un d'autre que nous-même, hein !?\"",
             "\\.\"...!\"",
             "\\.\"... Aller, du calme.\"",
@@ -12863,8 +12869,8 @@
             "\\.\"... Mince, alors. De tout le monde ici, je pensais\n bien que tu serais la seule à me comprendre...\"",
             "\\.\"...\"",
             "\\.\"... Bon, comme vous voulez. Mais pas maintenant.\n On peut pas discuter tranquillement quand on a\n les nerfs.\"",
-            "\\.\"D... D'accord.\n Quand on aura un peu retrouvé nos esprits, alors...\"",
-            "\\.\"Je vais me changer les idées...\n Laissez-moi... un peu tranquille...\"",
+            "\\.\"D-D'accord.\n Quand on aura un peu retrouvé nos esprits, alors...\"",
+            "\\.\"Je vais me changer les idées...\n J'ai... besoin d'être seul, deux minutes...\"\"",
             "\"..........\"",
             "\\.\"Sara...\"",
             "\\.\"C'est vrai... Toi aussi, t'as beaucoup à gérer...\"",
@@ -12903,8 +12909,8 @@
             "\\.\"Cependant, les gens peuvent toujours s'améliorer.\"",
             "\\.\"Dites-moi, Nao.\n D'après vous, quelle est la chose qui donne aux gens\n le désir de s'améliorer ?\"",
             "\\.\"Ah, là là... Vous saviez que je ne vous demandais\n pas la réponse idéale, n'est-ce pas ?\"",
-            "\\.\"Cela reste tout de même magnifique !\n Votre pureté est telle qu'elle vous permet d'embrasser\n les paroles d'autrui peu importe la situation.\"",
-            "\\.\"Cela explique peut-être pourquoi tous vos\n amis sont de si bonnes personnes, Nao.\"",
+            "\\.\"Cela reste tout de même magnifique !\n Votre pureté est telle qu'elle vous permet d'embrasser\n les paroles d'autrui à n'importe quel moment.\"",
+            "\\.\"Cela explique peut-être pourquoi tous vos amis sont\n de si bonnes personnes, Nao.\"",
             "\\.\"Ohh ! Voilà une perspective mature !\"",
             "\\.\"Oui, la plupart de la vie d'un étudiant se déroulent\n en cours. Mais lorsque l'on en sort, on réalise à\n quel point il s'agit d'une petite communauté.\"",
             "\\.\"Vos préoccupations... deviennent ainsi tellement plus\n minces.\"",
