@@ -4158,7 +4158,7 @@
             "\\C[3]Un briquet Zippo chic."
         ],
         "2-1-message": [
-            "\\.\\C[3]Joe est assis seul, la tête penchée.",
+            "\\.\\C[3]Joe est assis seul, la tête baissée.",
             null,
             null,
             null,
@@ -4324,6 +4324,9 @@
             null,
             null,
             "\\.\"Ah...!\""
+        ],
+        "2-2-message": [
+            "\\.\\C[3]Joe est assis seul, la tête baissée."
         ]
     },
     "map38": {
