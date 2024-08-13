@@ -2033,8 +2033,8 @@
             "\\.\\C[4](Serait-il invisible à la lumière...?)",
             "\\.\\C[4](Je devrais aussi regarder ce qu'il y a au dos...)",
             "\\.\\C[3]Au dos de la carte se trouvait une étrange image.",
-            null,
-            null,
+            "\\.\\C[4](\\C[2]Maitre des Clés\\C[4]... ?)",
+            "\\.\\C[4](L'autre texte à l'air d'avoir disparu, mais...\n Qu'est-ce que \"Maitre des Clés\" peut bien vouloir dire ?)",
             "\\.\\C[4](...)"
         ],
         "7-1-message": [
