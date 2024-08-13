@@ -182,10 +182,10 @@
             "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles."
         ],
         "2-1-message": [
-            "\\C[4](Bon... Sou m'a dit de venir ici, mais...)",
+            "\\C[4](Bon... Sou m'a dit de le rejoindre ici, mais...)",
             "\\.\"... Sara. Par ici, par ici.\n Je suis là...\"",
             "\\.\"Quoi...? Sou, c'est toi ?\"",
-            "\\.\\C[3]Je leva le briquet dans la direction de sa voix.",
+            "\\.\\C[3]Je levai le briquet dans la direction de sa voix.",
             "\\.\\C[4](Une porte...?!)",
             "\\.\\C[4](Dire qu'une porte était là...)"
         ],
@@ -2056,7 +2056,8 @@
         ],
         "8-1-message": [
             "\\C[3]La porte de la cuisine est fermée à clé.",
-            "\\.\\C[4](Je vais utiliser cette clé... !)"
+            "\\.\\C[4](Avec cette clé, je peux...!)",
+            "\\.\\C[3]La cuisine est maintenant accessible."
         ],
         "30-1-message": [
             "\\C[3]Je peux voir la cuisine à travers la vitre."
@@ -3879,15 +3880,15 @@
             "\\.\"J'en sais rien...\n Mais peu importe, j'parie qu'il faut qu'on y aille...\"",
             "\\.\"J'pas... grand espoir.\n Mais j'ai envie d'y croire...\"",
             "\\.\"Nom de Dieu, ç'sera encore un piège d'toute façon !\n T'en penses quoi, Sara ?\"",
-            "\\.\"... On est tous à crans, pour l'instant...\n On devrait se regrouper avant.\"",
+            "\\.\"... On est tous à crans, pour l'instant...\n On devrait se regrouper avant d'y aller.\"",
             "\\.\"..........\"",
-            "\\.\"... Mais t'es au courant pour l'Jeu Principal... hein ?\n Qu'on va devoir... sacrifier l'un d'ent' nous...?\"",
+            "\\.\"... Mais t'es au courant pour l'Jeu Principal, hein ?\n Qu'on va devoir... sacrifier l'un d'ent' nous...?\"",
             "\\.\"J'pas envie d'y participer... mais...\n Comment s'sentir unis dans une situation pareille...?\"",
             "\\.\"C'est... raisonnable, mais...\"",
             "\\.\"...\"",
             "\\.\"... Et merde !\"",
             "\\.\"C'bon. Je vais rester ici.\"",
-            "\\.\"J'vais essayer d'croire en toi.\n On montera quand tout le monde sera là.\"",
+            "\\.\"J'vais essayer d'croire en toi.\n On montera quand tout l' monde sera là.\"",
             "\\.\"Si quelqu'un tente d'monter, j'les choperai par la\n peau des fesses.\"",
             "\\.\"Sois pas trop brutal, d'accord ?\""
         ],
@@ -3948,10 +3949,10 @@
             "\"Regarde, Sara !\n Il y a des escaliers ici, maintenant.\"",
             "\\.\"Je me demande où ils mènent...\"",
             "\\.\"Je ne sais pas... mais...\"",
-            "\\.\"Rillante a laissé des taches de sang derrière elle.\n Je suis certain qu'elle est passée par là.\"",
+            "\\.\"Rillante a laissé des traces de sang derrière elle.\n Je suis certain qu'elle est passée par là.\"",
             "\\.\"... Rillante...!!\"",
             "\\.\"Je viens tout juste d'arriver, donc je ne suis au\n courant de rien... Il manque quelqu'un ?\"",
-            "\\.\"C'est trop imprudent !\n À la moindre erreur... elle te tuera avec ton collier.\"",
+            "\\.\"Attends, c'est trop imprudent !\n À la moindre erreur... elle te tuera avec ton collier.\"",
             "\\.\"Pourvu que personne ne s'énerve et ne la pourchasse...\n Je ne supporterai pas que l'on partage tous la\n responsabilité de la mort de quelqu'un.\"",
             "\\.\\C[4](J'ai du mal à m'imaginer que qui que ce soit\n veuille aller au premier étage seul, mais...)",
             "\\.\"Tu n'as quand même pas l'intention d'y aller, Sara.\"",
