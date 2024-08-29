@@ -1864,7 +1864,7 @@
             "\\.\\sw[99]\"Vous avez trouvé un pistolet et des balles dans\n cette salle un peu plus tôt, vous vous en souvenez ?\"\\sw[100]",
             "\\.\\sw[99]\"Vous avez aussi trouvé des balles à blanc\n dans une autre pièce.\"\\sw[100]",
             "\\.\\sw[99]\"T'as \\C[2]3 vraies balles\\C[0] et \\C[3]6 balles à blanc\\C[0].\"\\sw[100]",
-            "\\.\\sw[99]\"En tout, t'as 9 balles à charger dans ce révolver.\"\\sw[100]",
+            "\\.\\sw[99]\"En tout, ça fait 9 balles à charger dans ton révolver.\"\\sw[100]",
             "\\.\\sw[99]\"Tu dois tirer tes 9 balles sur tout le monde.\n Une balle par \\C[2]humain\\C[0] ou par \\C[2]poupée\\C[0], dans \\C[2]l'ordre\n que tu veux\\C[0].\"\\sw[100]",
             "\\.\\sw[99]\"D'ailleurs, les balles sont tirées \\C[2]dans le sens\n des aiguilles d'une montre\\C[0]...\"\\sw[100]",
             "\\.\\sw[99]\"Une fois la chambre chargée, tu la feras tourner !\n Ce qui veut dire que \\C[2]tu sauras pas par quelle\n balle tu commenceras\\C[0] !\"\\sw[100]",
