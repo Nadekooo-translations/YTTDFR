@@ -1225,7 +1225,7 @@
             "\\C[3]... Je n'arrive pas à voir quoi que ce soit."
         ],
         "37-2-message": [
-            "\\.\\C[3]Une bouteille neuve, à sa place habituelle."
+            "\\.\\C[3]Une bouteille neuve à sa place habituelle."
         ],
         "42-1-message": [
             "\\C[3]... Je n'arrive pas à voir quoi que ce soit."
@@ -1240,7 +1240,7 @@
             "\\.\\C[3]Une photo de mon grand-père décédé quand j'étais petite."
         ],
         "27-2-message": [
-            "\\.\\C[3]Une étagère. Les livres dessus sont dans un \ndésordre total, alternant entre ceux compliqués de\nmon père, des mangas, et des magazines."
+            "\\.\\C[3]Une étagère. Les livres dessus sont dans un désordre\ntotal, alternant entre ceux compliqués de mon père,\ndes mangas et des magazines."
         ],
         "42-2-message": [
             "\\.\\C[3]Une porte qui amène à la chambre de mes parents."
@@ -1410,7 +1410,7 @@
             "\\.\\C[4](Hm...? Un bout de la clé s'est écorché...)",
             "\\.\\C[3]Il y a un peu de vert qui sort d'un côté.",
             "\\.\\C[4](J'ai compris... \\C[2]Au début, c'était une clé verte\\C[4]\n puis de la résine rouge a été collée par-dessus !)",
-            "\\.\\C[4](Si j'avais \\C[2]quelque chose pour la gratter\\C[4],\n peut-être que je pourrais faire sortir la clé verte !)"
+            "\\.\\C[4](Si j'avais \\C[2]de quoi la gratter\\C[4], je pourrais\n peut-être faire sortir la clé verte !)"
         ],
         "6-1-message": [
             "\\C[3]Une clé rouge.\nJ'ai désactivé mon dispositif de retenue avec."
@@ -1420,21 +1420,21 @@
             "\\.\\C[4](Hm...? Un bout de la clé s'est écorché...)",
             "\\.\\C[3]Il y a un peu de vert qui sort d'un côté.",
             "\\.\\C[4](J'ai compris... \\C[2]Au début, c'était une clé verte\\C[4]\n puis de la résine rouge a été collée par-dessus !)",
-            "\\.\\C[4](Si seulement j'avais \\C[2]quelque chose pour la gratter\\C[4],\n peut-être que je pourrais faire sortir la clé verte !)"
+            "\\.\\C[4](Si j'avais \\C[2]de quoi la gratter\\C[4], je pourrais\n peut-être faire sortir la clé verte !)"
         ],
         "6-3-message": [
             "\\C[3]Une clé rouge.\nJ'ai désactivé mon dispositif de retenue avec.",
             "\\.\\C[4](Hm...? Un bout de la clé s'est écorché...)",
             "\\.\\C[3]Il y a une peu de vert qui sort d'un côté.",
             "\\.\\C[4](J'ai compris... \\C[2]Au début, c'était une clé verte\\C[4]\n puis de la résine rouge a été collée par-dessus !)",
-            "\\.\\C[4](Si seulement j'avais \\C[2]quelque chose pour la gratter\\C[4],\n peut-être que je pourrais faire sortir la clé verte !)"
+            "\\.\\C[4](Si j'avais \\C[2]de quoi la gratter\\C[4], je pourrais\n peut-être faire sortir la clé verte !)"
         ],
         "6-4-message": [
             "\\C[3]Une clé rouge.\nJ'ai désactivé mon dispositif de retenue avec.",
             "\\.\\C[4](Hm...? Un bout de la clé s'est écorché...)",
             "\\.\\C[3]Il y a un peu de vert qui sort d'un côté.",
             "\\.\\C[4](J'ai compris... \\C[2]Au début, c'était une clé verte\\C[4]\n puis de la résine rouge a été collée par-dessus !)",
-            "\\.\\C[4](Si seulement j'avais \\C[2]quelque chose pour la gratter\\C[4],\n peut-être que je pourrais faire sortir la clé verte !)"
+            "\\.\\C[4](Si j'avais \\C[2]de quoi la gratter\\C[4], je pourrais\n peut-être faire sortir la clé verte !)"
         ],
         "6-5-message": [
             "\\C[3]Une clé rouge. On voit clairement la partie verte."
