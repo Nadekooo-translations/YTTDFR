@@ -2092,7 +2092,7 @@
         ],
         "11-1-message": [
             "\\C[3]Cette pièce a de nombreux chemins.",
-            "\\C[3]Quand on regarde dedans, on remarque que la\nplupart ne mènent qu'à des culs-de-sac.",
+            "\\C[3]Quand on regarde dedans, on remarque que la plupart\nne mènent qu'à des culs-de-sac.",
             "\"Tu vois ces énormes coussins, au fond des impasses ?\"",
             "\\.\"Je me demande si quand je suis tombée,\n j'ai atterri sur l'un d'eux...\"",
             "\\.\"Moi aussi.\n Je parie qu'on est tous tombés de la même manière.\"",
@@ -3238,7 +3238,7 @@
         ],
         "11-1-message": [
             "\\C[3]Cette pièce a de nombreux chemins.",
-            "\\C[3]Quand on regarde dedans, on remarque que la\nplupart ne mènent qu'à des culs-de-sac.",
+            "\\C[3]Quand on regarde dedans, on remarque que la plupart\nne mènent qu'à des culs-de-sac.",
             "\"Tu vois ces énormes coussins, au fond des impasses ?\"",
             "\\.\"Je me demande si quand je suis tombée,\n j'ai atterri sur l'un d'eux...\"",
             "\\.\"Moi aussi.\n Je parie qu'on est tous tombés de la même manière.\"",
