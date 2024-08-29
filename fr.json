@@ -3055,7 +3055,7 @@
             "\\.\"Vraiment navré...\""
         ],
         "6-1-message": [
-            "\\C[3]Une étrange figure est assise sur le fauteuil.",
+            "\\C[3]Une étrange figure est assise dans le fauteuil.",
             "\\C[3]Une drôle de chose est assise ici.",
             "\\.\"On dirait... une poupée.\"",
             "\\.\"Une poupée, hein...\"",
@@ -3113,7 +3113,7 @@
             "\"Bon... On dirait qu'y a pas d'caméras.\""
         ],
         "7-1-message": [
-            "\\C[3]Une étrange figure est assise dans la chaise.",
+            "\\C[3]Une étrange figure est assise dans le fauteuil.",
             "\\C[3]Une drôle de chose est assise ici.",
             "\\.\"On dirait... une poupée.\"",
             "\\.\"Une poupée, hein...\"",
@@ -3171,7 +3171,7 @@
             "Donner le pistolet à Sou\nNe pas lui donner"
         ],
         "6-2-message": [
-            "\\C[3]Une étrange figure est assise dans la chaise.",
+            "\\C[3]Une étrange figure est assise dans le fauteuil.",
             "\\C[3]Une drôle de chose est assise ici.",
             "\\.\"On dirait... une poupée.\"",
             "\\.\"Une poupée, hein...\"",
