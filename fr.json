@@ -1425,7 +1425,7 @@
         "6-3-message": [
             "\\C[3]Une clé rouge.\nJ'ai désactivé mon dispositif de retenue avec.",
             "\\.\\C[4](Hm...? Un bout de la clé s'est écorché...)",
-            "\\.\\C[3]Il y a une peu de vert qui sort d'un côté.",
+            "\\.\\C[3]Il y a un peu de vert qui sort d'un côté.",
             "\\.\\C[4](J'ai compris... \\C[2]Au début, c'était une clé verte\\C[4]\n puis de la résine rouge a été collée par-dessus !)",
             "\\.\\C[4](Si j'avais \\C[2]de quoi la gratter\\C[4], je pourrais\n peut-être faire sortir la clé verte !)"
         ],
@@ -1566,7 +1566,7 @@
             "\\.\\C[4](Et nous portons tous des \\C[2]colliers\\C[4]...)",
             "\\.\\C[4](...)",
             "\\.\\C[4](... Mais pourquoi est-ce que Joe\n ne vient-il donc pas me voir ?)",
-            "\\.\\C[4](N'a-t'il pas remarqué que je suis éveillée ?)",
+            "\\.\\C[4](N'a-t-il pas remarqué que je me suis réveillée ?)",
             "\\.\"Joe !\"",
             "\\.\"...\"",
             "\\.\"Ouf... Tu es sain et sauf.\"",
