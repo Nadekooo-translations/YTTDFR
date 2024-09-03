@@ -1,5 +1,5 @@
 ---
-import "../styles/navbar.scss";
+
 ---
 
 <nav>
@@ -10,3 +10,28 @@ import "../styles/navbar.scss";
 		<li><a href="/apropos">À propos</a></li>
 	</ol>
 </nav>
+
+<style lang="scss">
+	@import "@fontsource-variable/handjet";
+
+	nav {
+		font-family: 'Handjet Variable', system-ui;
+		font-weight: 600;
+
+		ol {
+			list-style: none;
+			display: flex;
+
+			flex-direction: row;
+			justify-content: space-evenly;
+
+			li {
+				a {
+					text-decoration: none;
+					color: white;
+					font-size: 36px;
+				}
+			}
+		}
+	}
+</style>
