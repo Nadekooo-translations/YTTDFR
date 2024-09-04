@@ -3922,7 +3922,7 @@
             "\\.\"Ça roule.\"",
             "\\.\"Reviens immédiatement si tu la trouves, Sara !\"",
             "\\.\\C[4](Dépêchons-nous !)",
-            "\\.\"C'est donc à ça que ressemble cet étage là, hein ?\n ... Ça fait pas mal de portes.\"",
+            "\\.\"C'est donc à ça que ressemble le premier étage,\n hein ? ... Ça fait pas mal de portes.\"",
             "\\.\\C[4](Où peut-elle bien être...?!)"
         ],
         "1-4-message": [
@@ -4103,7 +4103,7 @@
             "\\.\"C'est ce qu'on décide de faire là qui compte, nan ?\"",
             "\\.\"Oui...!\"",
             "\"N'importe quelles fringues feront l'affaire.\n Prends celles du dragueur, si ça te chante.\"",
-            "\\.\\C[4](C'est un peu perturbant de dire ça dans cette\n situation...)"
+            "\\.\\C[4](C'est un peu perturbant de dire ça dans une\n situation pareille...)"
         ],
         "17-1-message": [
             "\\C[3]Un distributeur aux prix élevés."
