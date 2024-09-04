@@ -45,7 +45,7 @@ jobs:
         run: node tools/crypt.js
 
       - name: Uploading build artefacts
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v3
         with:
           path: yttd/www
 
@@ -93,7 +93,7 @@ jobs:
       - run: cp package.nwjs.json $YTTD_FOLDER/package.json
 
       - name: Uploading build artefacts
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v3
         with:
           name: yttd-${{ env.GITHUB_REF_NAME }}-${{ matrix.platform }}
           path: ${{ env.YTTD_FOLDER }}
