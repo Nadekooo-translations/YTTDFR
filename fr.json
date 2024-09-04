@@ -183,7 +183,7 @@
         ],
         "2-1-message": [
             "\\C[4](Bon... Sou m'a dit de le rejoindre ici, mais...)",
-            "\\.\"... Sara. Par ici, par ici.\n Je suis là...\"",
+            "\\.\"... Sara. Psst, par ici.\n Je suis là...\"",
             "\\.\"Quoi...? Sou, c'est toi ?\"",
             "\\.\\C[3]Je levai le briquet dans la direction de sa voix.",
             "\\.\\C[4](Une porte...?!)",
@@ -1234,7 +1234,7 @@
             "\\.\\C[3]La porte qui amène au couloir."
         ],
         "12-1-message": [
-            "\\C[3]... Il fait trop noir pour voir quoi que ce soit."
+            "\\C[3]... Je n'arrive pas à voir quoi que ce soit."
         ],
         "25-2-message": [
             "\\.\\C[3]Une photo de mon grand-père décédé quand j'étais petite."
@@ -3265,8 +3265,8 @@
             null,
             null,
             null,
-            null,
-            null,
+            "\\.\"... J'ai peur, miaou...\"",
+            "\\.\\C[4](Nao est vraiment à cran...)",
             null,
             "\\.\"...\"",
             null,
@@ -3652,7 +3652,7 @@
             "\\.\"Je laisse la porte ouverte, on sait jamais.\"",
             "\\.\"Comme ça, on pourra s'échapper s'y a un problème !\"",
             "\\.\"Bon, c'est l'heure du moment fatidique...\n C'est parti.\"",
-            "\\C[3]Keiji attacha habilement les différents\nmembres de la poupée au torse...",
+            "\\C[3]Keiji attacha habilement les différents\nmembres de la poupée à son torse...",
             "\\.\\C[3]Le bras droit... le bras gauche...\nLa jambe droite... la jambe gauche...",
             "\\.\\C[3]Et enfin... la tête.",
             "\\.\\C[3]..........",
@@ -3662,7 +3662,7 @@
             "\\.\"Hé... C'est moi ou la salle devient blanche ?!\"",
             "\\.\"C'est du gaz...!\"",
             "\\.\"Du p... poison...?!\n C'est pas bon du tout... On doit sortir d'ici...!\"",
-            "\\.\\C[3]Mais le gaz blanc empreigna la salle\nen un clin d'oeil.",
+            "\\.\\C[3]Mais le gaz blanc envahit la salle en un clin d'œil.",
             "\\.\\C[4](Je ne vois rien...!)",
             "\\.\\C[3]Je n'arrive même plus à voir mes mains.",
             "\\.\\C[3]Il n'y a nul part où s'enfuir.",
@@ -3814,7 +3814,7 @@
             "\\.\"Hihihi. Hahi, hahihahaha...!\"",
             "\\.\"...?!\n C'est chaud...!!\"",
             "\\.\\sp[12]\"Aargh...! Ma gorge...!!\"",
-            "\\.\\C[3]Le collier changeait visiblement de couleur.",
+            "\\.\\C[3]Le collier changeait de couleur à vue d'œil.",
             "\\.\\sp[12]\"Aaaah...!!! AHHHHHHHHHH...!!\"",
             "\\.\\sp[12]\"Ça brûle...!! AHHHHH...!!\"",
             "\\.\"Monsieur !! MONSIEUUUUUUUUUX !!!\"",
@@ -3848,14 +3848,14 @@
             "\\.\\C[10]\"Espèce de tueuse de sœur.\"",
             "\\.\\C[3]Arrête.",
             "\\.\"Je... Je...\"",
-            "\\.\\C[10]\"Hahaha, j'ai tout vu.\n J'ai vu à quel point tu étais misérable durant\n ta Première épreuve, Kanna.\"",
+            "\\.\\C[10]\"Hahaha, j'ai tout vu.\n J'ai vu à quel point tu étais lamentable lors de\n ta Première Épreuve, Kanna.\"",
             "\\.\\C[3]N'écrase pas son estime.",
             "\\.\\C[3]Les inquiétudes de Monsieur Mishima pour Kanna.",
             "\\.\\C[3]Les paroles qu'il lui a laissées.",
             "\\.\\C[10]\"Tes actes ont tué ta sœur.\"",
             "\\.\\C[3]Ne piétine pas le cœur de Kanna !!!",
             "\\.\"Gah...\"",
-            "\\.\"Pardonnez-moi.\n Je ne faisais pas attention à ma main portant la pôele.\"",
+            "\\.\"Mille excuses.\n Il semblerait que ma poêle m'ait glissée des mains.\"",
             "\\.\"Espèce de sale...!!\"",
             "\\.\"Alors comme cela, même les poupées saignent rouge.\"",
             "\\.\"... Crois pas que tu puisses faire ça... et\n t'en tirer sans conséquences...!!\"",
@@ -3911,18 +3911,18 @@
         ],
         "1-3-message": [
             "\\C[4](Q-taro n'est pas ici...!)",
-            "\\.\"Serait-il monté au deuxième étage ?!\"",
+            "\\.\"Tu crois qu'il est monté à l'étage ?!\"",
             "\\.\\C[4](Qu'est-ce qu'on fait ?!)",
-            "\\.\"Bon, Joe.\n Je peux te confier le premier étage ?\"",
+            "\\.\"Bon, Joe.\n Je peux te confier le rez-de-chaussée ?\"",
             "\\.\"Hein ?! Ça va pas être dangereux de vous laisser\n seuls tous les deux ?!\"",
             "\\.\"... Oh que si, que c'est dangereux.\"",
             "\\.\"Bon bah... Si vous mettez du temps à revenir,\n je viendrai vous aider !\"",
-            "\\.\"Surtout pas ! Et si elle est au premier étage ?\"",
+            "\\.\"Surtout pas ! Et si elle est au rez-de-chaussée ?\"",
             "\\.\"Je vais aller voir là-bas... Allez regarder à l'étage !\n S'te plaît, Keiji !\"",
             "\\.\"Ça roule.\"",
             "\\.\"Reviens immédiatement si tu la trouves, Sara !\"",
             "\\.\\C[4](Dépêchons-nous !)",
-            "\\.\"C'est ça le second étage, hein ?\n ... Ça fait pas mal de portes.\"",
+            "\\.\"C'est donc à ça que ressemble le premier étage,\n hein ? ... Ça fait pas mal de portes.\"",
             "\\.\\C[4](Où peut-elle bien être...?!)"
         ],
         "1-4-message": [
@@ -3930,7 +3930,7 @@
             "\\.\"C'est étrange...\""
         ],
         "1-3-choice": [
-            "Séparons-nous\nQue tout le monde fouille le premier étage"
+            "Séparons-nous\nQue tout le monde aille fouiller à l'étage"
         ],
         "1-6-message": [
             "\\.\"Héhém, Sara Chidouin.\n J'ai entendu du bruit au premier étage...\n Que s'est-il passé ?\"",
@@ -4103,7 +4103,7 @@
             "\\.\"C'est ce qu'on décide de faire là qui compte, nan ?\"",
             "\\.\"Oui...!\"",
             "\"N'importe quelles fringues feront l'affaire.\n Prends celles du dragueur, si ça te chante.\"",
-            "\\.\\C[4](C'est un peu perturbant de dire ça dans cette\n situation...)"
+            "\\.\\C[4](C'est un peu perturbant de dire ça dans une\n situation pareille...)"
         ],
         "17-1-message": [
             "\\C[3]Un distributeur aux prix élevés."

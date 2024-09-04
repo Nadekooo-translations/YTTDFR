@@ -45,7 +45,7 @@ jobs:
         run: node tools/crypt.js
 
       - name: Uploading build artefacts
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v3
         with:
           path: yttd/www
 
@@ -76,7 +76,7 @@ jobs:
 
       - uses: actions/checkout@v3
       - name: Download artefacts
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4
       - name: Downloading nwjs
         run: curl --fail -LO https://dl.nwjs.io/${{ env.NWJS_VERSION }}/$NWJS_ARCHIVE
 
@@ -93,7 +93,7 @@ jobs:
       - run: cp package.nwjs.json $YTTD_FOLDER/package.json
 
       - name: Uploading build artefacts
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v3
         with:
           name: yttd-${{ env.GITHUB_REF_NAME }}-${{ matrix.platform }}
           path: ${{ env.YTTD_FOLDER }}
@@ -111,4 +111,4 @@ jobs:
     steps:
       - name: Deploying to Github Pages
         id: deployment
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v4
