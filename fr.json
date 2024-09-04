@@ -183,7 +183,7 @@
         ],
         "2-1-message": [
             "\\C[4](Bon... Sou m'a dit de le rejoindre ici, mais...)",
-            "\\.\"... Sara. Par ici, par ici.\n Je suis là...\"",
+            "\\.\"... Sara. Psst, par ici.\n Je suis là...\"",
             "\\.\"Quoi...? Sou, c'est toi ?\"",
             "\\.\\C[3]Je levai le briquet dans la direction de sa voix.",
             "\\.\\C[4](Une porte...?!)",
@@ -3930,7 +3930,7 @@
             "\\.\"C'est étrange...\""
         ],
         "1-3-choice": [
-            "Séparons-nous\nQue tout le monde fouille le premier étage"
+            "Séparons-nous\nQue tout le monde aille fouiller à l'étage"
         ],
         "1-6-message": [
             "\\.\"Héhém, Sara Chidouin.\n J'ai entendu du bruit au premier étage...\n Que s'est-il passé ?\"",
