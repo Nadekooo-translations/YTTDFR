@@ -1,36 +1,48 @@
 ---
-
+const path = Astro.url.pathname;
 ---
 
 <nav>
-	<ol>
-		<li><a href="/">Accueil</a></li>
-		<li><a href="/jouer">Jouer</a></li>
-		<li><a href="/contribuer">Contribuer</a></li>
-		<li><a href="/apropos">À propos</a></li>
-	</ol>
+	<a class={path === '/' ? 'active' : ''} href="/">Accueil</a>
+	<a class={path === '/jouer' ? 'active' : ''} href="/jouer">Jouer</a>
+	<a class={path === '/contribuer' ? 'active' : ''} href="/contribuer">Contribuer</a>
+	<a class={path === '/apropos' ? 'active' : ''} href="/apropos">À propos</a>
 </nav>
 
 <style lang="scss">
+	@import "../styles/_colors.scss";
 	@import "@fontsource-variable/handjet";
 
 	nav {
-		font-family: 'Handjet Variable', system-ui;
+		font-family: "Handjet Variable", system-ui;
 		font-weight: 600;
 
-		ol {
-			list-style: none;
-			display: flex;
+		margin-top: 0;
+		list-style: none;
+		display: flex;
 
-			flex-direction: row;
-			justify-content: space-evenly;
+		flex-direction: row;
+		justify-content: space-evenly;
 
-			li {
-				a {
-					text-decoration: none;
-					color: white;
-					font-size: 36px;
-				}
+		a {
+			user-select: none;
+			text-decoration: none;
+			color: white;
+			font-size: 36px;
+
+			padding: 0.1em 2em;
+			background-color: $gray;
+			border-style: double;
+			border-width: 4px;
+			height: min-content;
+
+			transition: all 0.3s;
+
+			&.active,
+			&:hover {
+				background-color: $brown;
+				border-color: $gold;
+				padding: 0.8em 2em;
 			}
 		}
 	}

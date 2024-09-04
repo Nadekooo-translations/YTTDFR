@@ -29,8 +29,15 @@ body {
 		height: 100%;
 		min-height: 100vh;
 		padding: 1em 16ch;
+		padding-top: 0;
 		
 		background-color: rgba(#030311, 0.85);
+
+		img {
+			align-self: center;
+			max-width: 100%;
+			height: auto;
+		}
 	}
 }
 
