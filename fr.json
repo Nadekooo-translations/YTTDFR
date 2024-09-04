@@ -1234,7 +1234,7 @@
             "\\.\\C[3]La porte qui amène au couloir."
         ],
         "12-1-message": [
-            "\\C[3]... Il fait trop noir pour voir quoi que ce soit."
+            "\\C[3]... Je n'arrive pas à voir quoi que ce soit."
         ],
         "25-2-message": [
             "\\.\\C[3]Une photo de mon grand-père décédé quand j'étais petite."
@@ -3652,7 +3652,7 @@
             "\\.\"Je laisse la porte ouverte, on sait jamais.\"",
             "\\.\"Comme ça, on pourra s'échapper s'y a un problème !\"",
             "\\.\"Bon, c'est l'heure du moment fatidique...\n C'est parti.\"",
-            "\\C[3]Keiji attacha habilement les différents\nmembres de la poupée au torse...",
+            "\\C[3]Keiji attacha habilement les différents\nmembres de la poupée à son torse...",
             "\\.\\C[3]Le bras droit... le bras gauche...\nLa jambe droite... la jambe gauche...",
             "\\.\\C[3]Et enfin... la tête.",
             "\\.\\C[3]..........",
