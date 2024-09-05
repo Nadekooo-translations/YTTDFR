@@ -3,14 +3,24 @@ import Layout from "../layouts/Layout.astro";
 ---
 
 <Layout title="Jouer à Your Turn to Die en français" description="">
-	<div>
-		<iframe src="https://nadekooo.github.io/YTTDFR/" allow="autoplay fullscreen" allowfullscreen="true" width="816" height="624">
+	<div class="gamewrapper">
+		{/* TODO: Use local path */}
+		<iframe id="gameframe" src="https://nadekooo.github.io/YTTDFR/" allow="autoplay fullscreen" allowfullscreen="true" width="816" height="624">
 		</iframe>
+	</div>
+	<div>
+		<button id="btnFullscreen">fullscreen</button>
 	</div>
 </Layout>
 
+<script>
+document.getElementById("btnFullscreen")!.onclick = () => {
+	document.getElementById("gameframe")?.requestFullscreen();
+};
+</script>
+
 <style lang="scss">
-	div {
+	.gamewrapper {
 		width: 100%;
 		display: flex;
 		justify-content: center;
