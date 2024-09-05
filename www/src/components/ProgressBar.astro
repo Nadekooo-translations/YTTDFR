@@ -1,0 +1,24 @@
+---
+const { progress, ...rest } = Astro.props;
+---
+
+<div class="progressbar" role="progressbar" {...rest}>
+	<div class="front" style={{ width: `${progress}%` }}></div>
+</div>
+
+<style lang="scss">
+	@import "../styles/_colors.scss";
+
+	.progressbar {
+		border-radius: 1em;
+		background-color: $lightGray;
+		width: 100%;
+		height: 100%;
+
+		.front {
+			border-radius: 1em;
+			background-color: $gold;
+			height: 100%;
+		}
+	}
+</style>
