@@ -4,9 +4,9 @@ const path = Astro.url.pathname;
 
 <nav>
 	<a class={path === '/' ? 'active' : ''} href="/">Accueil</a>
-	<a class={path === '/jouer' ? 'active' : ''} href="/jouer">Jouer</a>
-	<a class={path === '/contribuer' ? 'active' : ''} href="/contribuer">Contribuer</a>
-	<a class={path === '/apropos' ? 'active' : ''} href="/apropos">À propos</a>
+	<a class={path === '/jouer/' ? 'active' : ''} href="/jouer/">Jouer</a>
+	<a class={path === '/contribuer/' ? 'active' : ''} href="/contribuer/">Contribuer</a>
+	<a class={path === '/apropos/' ? 'active' : ''} href="/apropos/">À propos</a>
 </nav>
 
 <style lang="scss">
