@@ -19,6 +19,18 @@ const { progress, ...rest } = Astro.props;
 			border-radius: 1em;
 			background-color: $gold;
 			height: 100%;
+
+			animation: grow 2s cubic-bezier(.22,.61,.36,1);
 		}
+	}
+
+	@keyframes grow {
+		0% {
+			width: 0%;
+		}
+		40% {
+			width: 0%;
+		}
+		100% {}
 	}
 </style>
