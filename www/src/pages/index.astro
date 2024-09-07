@@ -9,6 +9,16 @@ const translationPercent = await fetchTranslationPercentage();
 ---
 
 <Layout title="Your Turn to Die en français" description="">
+	<Image
+		src={titleClean}
+		widths={[
+			titleClean.width / 8,
+			titleClean.width / 4,
+			titleClean.width / 2,
+			titleClean.width,
+		]}
+		alt="Écran titre de Your Turn to Die"
+	/>
 	<div class="translation-progress">
 		<span>Traduit a <span>{translationPercent}&nbsp;%</span></span>
 		<ProgressBar progress={translationPercent} style={{ height: "1em" }} />
@@ -25,25 +35,20 @@ const translationPercent = await fetchTranslationPercentage();
 		Quidem exercitationem est accusantium voluptas. Ad necessitatibus quis qui
 		rerum repellat.
 	</p>
-	<Image
-		src={titleClean}
-		widths={[
-			titleClean.width / 8,
-			titleClean.width / 4,
-			titleClean.width / 2,
-			titleClean.width,
-		]}
-		alt="Écran titre de Your Turn to Die"
-		loading="lazy"
-	/>
 </Layout>
 
 <style lang="scss">
 	@import "../styles/_colors.scss";
 
+	img {
+		margin-top: 2em;
+	}
+
 	.translation-progress {
-		margin-top: 4em;
+		margin-top: 3em;
 		margin-bottom: 3em;
+		margin-left: 8em;
+		margin-right: 8em;
 
 		span {
 			color: $textMuted;

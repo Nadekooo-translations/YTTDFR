@@ -21,6 +21,8 @@ const path = Astro.url.pathname;
 		list-style: none;
 		display: flex;
 
+		text-wrap: nowrap;
+
 		flex-direction: row;
 		justify-content: space-evenly;
 
@@ -28,7 +30,7 @@ const path = Astro.url.pathname;
 			user-select: none;
 			text-decoration: none;
 			color: white;
-			font-size: 36px;
+			font-size: 26px;
 
 			padding: 0.1em 2em;
 			background-color: $gray;
@@ -42,7 +44,6 @@ const path = Astro.url.pathname;
 			&:hover {
 				background-color: $brown;
 				border-color: $gold;
-				padding: 0.8em 2em;
 			}
 		}
 	}

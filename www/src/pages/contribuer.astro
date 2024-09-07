@@ -2,19 +2,84 @@
 import { adjustCredits, fetchCredits } from "../api";
 import ProgressBar from "../components/ProgressBar.astro";
 import Layout from "../layouts/Layout.astro";
+import header from "../images/contributors-header.png";
+import { Image } from "astro:assets";
 
-const credits = adjustCredits(await fetchCredits());
+const credits = await adjustCredits(await fetchCredits());
+const avatarBase = import.meta.env.WEBLATE_AVATAR_BASE_URL;
 ---
 
 <Layout title="À propos - Your Turn to Die en français" description="">
+	<Image
+		class="banner"
+		src={header}
+		widths={[header.width / 8, header.width / 4, header.width / 2, header.width]}
+		alt="Écran titre de Your Turn to Die"
+	/>
+	<div>
+		<h2>Comment puis-je contribuer ?</h2>
+		<p>
+			La contribution est libre a tous, sans condition, il suffit de s'insrire sur
+			le Weblate et vous pouvez directement rédiger des suggestions.
+		</p>
+		<p>Vous pouvez traduire de l'anglais ou du japonais.</p>
+	</div>
+	<div>
+		<h2>Contributeurs</h2>
+	</div>
 	<div>
 		{
 			credits.map((entry) => (
-				<div>
-					<div>{entry.fullName}</div>
-					<ProgressBar progress={entry.percentage} />
+				<div
+					class="credits-entry"
+					title={`${entry.fullName} : ${Math.ceil(entry.percentage).toFixed(0)}% des répliques traduites`}
+				>
+					<div>
+						<img class="avatar" src={avatarBase + entry.username + ".png"} alt={entry.username} loading="lazy" />
+					</div>
+					<div class="progress-container">
+						<ProgressBar progress={entry.percentage} />
+						<div class="username">
+							{entry.fullName}&emsp;<em>{entry.changeCount}</em>
+						</div>
+					</div>
 				</div>
 			))
 		}
 	</div>
 </Layout>
+
+<style lang="scss">
+	img.banner {
+		margin-top: 2em;
+		margin-bottom: 2em;
+	}
+
+	p {
+		margin-left: 4ch;
+		margin-right: 4ch;
+	}
+
+	.credits-entry {
+		margin-left: 5em;
+		margin-right: 5em;
+		margin-top: 1em;
+
+		display: flex;
+		flex-direction: row;
+
+		img.avatar {
+			height: 3em;
+			margin-right: 1em;
+			border-radius: 100%;
+		}
+
+		.progress-container {
+			width: 100%;
+		}
+
+		.username {
+			margin-top: 0.5em;
+		}
+	}
+</style>
