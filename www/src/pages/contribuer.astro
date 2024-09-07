@@ -1,7 +1,20 @@
 ---
+import { adjustCredits, fetchCredits } from "../api";
+import ProgressBar from "../components/ProgressBar.astro";
 import Layout from "../layouts/Layout.astro";
+
+const credits = adjustCredits(await fetchCredits());
 ---
 
-<Layout title="Contribuer - Your Turn to Die en français" description="">
-	<p>todo</p>
+<Layout title="À propos - Your Turn to Die en français" description="">
+	<div>
+		{
+			credits.map((entry) => (
+				<div>
+					<div>{entry.fullName}</div>
+					<ProgressBar progress={entry.percentage} />
+				</div>
+			))
+		}
+	</div>
 </Layout>
