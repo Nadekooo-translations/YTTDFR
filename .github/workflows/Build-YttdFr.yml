@@ -108,12 +108,14 @@ jobs:
     steps:
       - name: Download artefacts
         uses: actions/download-artifact@v4
+        with:
+          path: artifacts
       - uses: appleboy/scp-action@master
         with:
           host: ${{ secrets.DEPLOY_HOST }}
           username: ${{ secrets.DEPLOY_USER }}
           key: ${{ secrets.DEPLOY_KEY }}
-          source: yttd/www
+          source: artifacts
           target: ${{ secrets.DEPLOY_PATH }}
           overwrite: true
           debug: true
