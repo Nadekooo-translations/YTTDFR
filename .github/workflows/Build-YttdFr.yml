@@ -90,7 +90,7 @@ jobs:
 
       - run: mv $NWJS_FOLDER $YTTD_FOLDER
       - run: mkdir $YTTD_FOLDER/www
-      - run: tar -C $YTTD_FOLDER/www -xvf yttd-www/artifact.tar
+      - run: mv yttd-www/* $YTTD_FOLDER/www
       - run: cp package.nwjs.json $YTTD_FOLDER/package.json
 
       - name: Uploading build artefacts
