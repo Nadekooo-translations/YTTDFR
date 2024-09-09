@@ -131,7 +131,6 @@ jobs:
           path: artifacts
       - run: mv artifacts/yttd-www artifacts/yttd-${{ github.sha }}
       - run: mv artifacts/website/* artifacts/
-      - run: rmdir artifacts/yttd-www
       - run: |
           for i in win-x64 linux-x64 osx-x64 osx-arm64
           do
