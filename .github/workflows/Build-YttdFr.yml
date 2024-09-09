@@ -103,6 +103,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+      - run: rm www/.env
       - run: npm i && npm run build
         working-directory: www
         env:
