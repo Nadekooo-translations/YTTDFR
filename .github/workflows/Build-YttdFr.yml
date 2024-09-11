@@ -111,6 +111,7 @@ jobs:
           WEBLATE_BASE_URL: ${{ secrets.WEBLATE_BASE_URL }}
           WEBLATE_TOKEN: ${{ secrets.WEBLATE_TOKEN }}
           WEBLATE_AVATAR_BASE_URL: ${{ secrets.WEBLATE_AVATAR_BASE_URL }}
+          COMMIT_HASH: ${{ github.sha }}
       - name: Uploading build artefacts
         uses: actions/upload-artifact@v4
         with:

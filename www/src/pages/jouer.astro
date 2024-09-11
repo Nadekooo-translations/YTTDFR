@@ -1,13 +1,22 @@
 ---
 import Layout from "../layouts/Layout.astro";
+
+const hash = import.meta.env.COMMIT_HASH;
+const targets = [
+	{ target: "win-x64", icon: "ph-windows-logo" },
+	{ target: "linux-x64", icon: "ph-linux-logo" },
+	{ target: "osx-x64", icon: "ph-apple-logo" },
+	{ target: "osx-arm64", icon: "ph-apple-logo" },
+];
+
+const buildDate = new Date().toLocaleString("fr-FR");
 ---
 
 <Layout title="Jouer à Your Turn to Die en français" description="">
 	<div class="gamewrapper">
-		{/* TODO: Use local path */}
 		<iframe
 			id="gameframe"
-			src="https://nadekooo.github.io/YTTDFR/"
+			src={`/yttd-${hash}/`}
 			allow="autoplay fullscreen"
 			allowfullscreen="true"
 			width="816"
@@ -20,6 +29,24 @@ import Layout from "../layouts/Layout.astro";
 			<i class="ph ph-arrows-out"></i>
 		</button>
 	</div>
+	<div class="download-header">
+		<h3>Télécharger</h3>
+		<span class="last-version">
+			Dernière version&nbsp;:
+			<a class="muted" href={`https://github.com/Nadekooo/YTTDFR/commit/${hash}`}>
+				{buildDate}
+			</a>
+		</span>
+	</div>
+	<div class="download-buttons">
+		{
+			targets.map(({ target, icon }) => (
+				<a href={`/yttd-${hash}-${target}`} target="_blank">
+					<i class={`ph ${icon}`} /> {target.replace("-", " ")}
+				</a>
+			))
+		}
+	</div>
 </Layout>
 
 <script>
@@ -29,6 +56,7 @@ import Layout from "../layouts/Layout.astro";
 </script>
 
 <style lang="scss">
+	@import "../styles/_colors.scss";
 	@import "@phosphor-icons/web/regular";
 
 	.gamewrapper {
@@ -57,6 +85,41 @@ import Layout from "../layouts/Layout.astro";
 			.ph {
 				font-size: 2em;
 			}
+		}
+	}
+
+	.download-header {
+		// margin-left: 10ch;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+
+		h3 {
+			margin-bottom: 0;
+		}
+
+		.last-version {
+			font-size: 14px;
+			color: $textMuted;
+
+			a {
+				color: $lightGray;
+				text-decoration: none;
+
+				&:hover {
+					text-decoration: underline;
+				}
+			}
+		}
+	}
+
+	.download-buttons {
+		display: flex;
+		justify-content: space-evenly;
+		margin-top: 1.5em;
+
+		a {
+			text-underline-offset: 0.5em;
 		}
 	}
 </style>
