@@ -124,6 +124,9 @@ jobs:
     environment:
       name: Production
       url: "https://yttd.fr"
+    concurrency:
+      group: Production
+      cancel-in-progress: true
 
     steps:
       - name: Download artefacts
