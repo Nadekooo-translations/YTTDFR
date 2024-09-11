@@ -3,10 +3,10 @@ import Layout from "../layouts/Layout.astro";
 
 const hash = import.meta.env.COMMIT_HASH;
 const targets = [
-	{ target: "win-x64", icon: "ph-windows-logo" },
-	{ target: "linux-x64", icon: "ph-linux-logo" },
-	{ target: "osx-x64", icon: "ph-apple-logo" },
-	{ target: "osx-arm64", icon: "ph-apple-logo" },
+	{ target: "win-x64", icon: "ph-windows-logo", name: "Windows (x64)" },
+	{ target: "linux-x64", icon: "ph-linux-logo", name: "Linux (x64)" },
+	{ target: "osx-x64", icon: "ph-apple-logo", name: "macOS (x64)" },
+	{ target: "osx-arm64", icon: "ph-apple-logo", name: "macOS (arm64)" },
 ];
 
 const buildDate = new Date().toLocaleString("fr-FR");
@@ -40,9 +40,9 @@ const buildDate = new Date().toLocaleString("fr-FR");
 	</div>
 	<div class="download-buttons">
 		{
-			targets.map(({ target, icon }) => (
-				<a href={`/yttd-${hash}-${target}`} target="_blank">
-					<i class={`ph ${icon}`} /> {target.replace("-", " ")}
+			targets.map(({ target, icon, name }) => (
+				<a href={`/yttd-${hash}-${target}.zip`} target="_blank">
+					<i class={`ph ${icon}`} /> {name}
 				</a>
 			))
 		}
