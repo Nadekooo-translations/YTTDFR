@@ -1,0 +1,20 @@
+{
+	"short_name": "YTTD FR",
+	"name": "Your Turn to Die en français",
+	"icons": [
+		{
+			"src": "/favicon-large.png",
+			"sizes": "1344x1344",
+			"type": "image/png"
+		},
+		{
+			"src": "/favicon.png",
+			"sizes": "84x84",
+			"type": "image/png"
+		}
+	],
+	"start_url": "/pwa/",
+	"display": "fullscreen",
+	"theme_color": "#ffa500",
+	"background_color": "#030311"
+}
