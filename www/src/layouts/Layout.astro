@@ -4,6 +4,9 @@ import Navbar from "../components/Navbar.astro";
 
 interface Props {
 	title: string;
+	/**
+	 * Recommended length: 150 - 160 characters
+	 */
 	description: string;
 }
 
@@ -24,10 +27,10 @@ const { title, description } = Astro.props;
 
 		<link rel="manifest" href="/manifest.json" />
 
-		<meta name="og:title" content={title} />
-		<meta name="og:image" content="https://yttd.fr/hero.png" />
-		<meta name="og:site_name" content="yttd.fr" />
-		<meta name="og:description" content={description} />
+		<meta property="og:title" content={title} />
+		<meta property="og:image" content="https://yttd.fr/hero.png" />
+		<meta property="og:site_name" content="yttd.fr" />
+		<meta property="og:description" content={description} />
 
 		<meta name="twitter:card" content="summary" />
 		<meta name="twitter:title" content={title} />
