@@ -9,7 +9,10 @@ const credits = await adjustCredits(await fetchCredits());
 const avatarBase = import.meta.env.WEBLATE_AVATAR_BASE_URL;
 ---
 
-<Layout title="À propos - Your Turn to Die en français" description="">
+<Layout
+	title="À propos - Your Turn to Die en français"
+	description="Your Turn to Die est un projet open source, collaboratif et communautaire, où la contribution est libre à tous."
+>
 	<Image
 		class="banner"
 		src={header}
@@ -35,7 +38,12 @@ const avatarBase = import.meta.env.WEBLATE_AVATAR_BASE_URL;
 					title={`${entry.fullName} : ${Math.ceil(entry.percentage).toFixed(0)}% des répliques traduites`}
 				>
 					<div>
-						<img class="avatar" src={avatarBase + entry.username + ".png"} alt={entry.username} loading="lazy" />
+						<img
+							class="avatar"
+							src={avatarBase + entry.username + ".png"}
+							alt={entry.username}
+							loading="lazy"
+						/>
 					</div>
 					<div class="progress-container">
 						<ProgressBar progress={entry.percentage} />
