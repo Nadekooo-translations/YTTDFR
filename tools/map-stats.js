@@ -32,9 +32,24 @@ const maps = new Set();
 for (const map in enStats) maps.add(map);
 for (const map in frStats) maps.add(map);
 
-for (const map of maps) {
-	const countEn = enStats[map] ?? 0;
-	const countFr = frStats[map] ?? 0;
+const [_, __, ...selectedMaps] = process.argv;
 
-	console.log(map + ": \t" + (countFr / countEn * 100).toFixed(2) + "%\t(" + countFr + " / " + countEn + ")");
+if (selectedMaps.length) {
+	for (const map of selectedMaps) {
+		const mapEn = en[map];
+		const mapFr = fr[map] ?? {};
+
+		for (const key in mapEn) {
+			if (!(key in mapFr)) {
+				console.log(key + ": \t" + mapEn[key]);
+			}
+		}
+	}
+} else {
+	for (const map of maps) {
+		const countEn = enStats[map] ?? 0;
+		const countFr = frStats[map] ?? 0;
+
+		console.log(map + ": \t" + (countFr / countEn * 100).toFixed(2) + "%\t(" + countFr + " / " + countEn + ")");
+	}
 }
