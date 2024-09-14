@@ -141,20 +141,23 @@ jobs:
             zip -r artifacts/yttd-${{ github.sha }}-$i.zip artifacts/yttd-${{ github.sha }}-$i
             rm -r artifacts/yttd-${{ github.sha }}-$i
           done
-      - name: remove existing files
-        uses: appleboy/ssh-action@v1.0.3
-        with:
-          host: ${{ secrets.DEPLOY_HOST }}
-          username: ${{ secrets.DEPLOY_USER }}
-          key: ${{ secrets.DEPLOY_KEY }}
-          script: rm -r ${{ secrets.DEPLOY_PATH }}/*
       - uses: appleboy/scp-action@master
         with:
           host: ${{ secrets.DEPLOY_HOST }}
           username: ${{ secrets.DEPLOY_USER }}
           key: ${{ secrets.DEPLOY_KEY }}
           source: artifacts
-          target: ${{ secrets.DEPLOY_PATH }}
+          target: /tmp/yttd-working
           strip_components: 1
           overwrite: true
           debug: true
+      - name: remove existing files
+        uses: appleboy/ssh-action@v1.0.3
+        with:
+          host: ${{ secrets.DEPLOY_HOST }}
+          username: ${{ secrets.DEPLOY_USER }}
+          key: ${{ secrets.DEPLOY_KEY }}
+          script: |
+            rm -r ${{ secrets.DEPLOY_PATH }}/*
+            mv /tmp/yttd-working/* ${{ secrets.DEPLOY_PATH }}/
+            rm -r /tmp/yttd-working
