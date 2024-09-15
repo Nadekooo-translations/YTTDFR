@@ -5,5 +5,7 @@ import sitemap from '@astrojs/sitemap';
 export default defineConfig({
   site: "https://yttd.fr",
   integrations: [sitemap()],
-  prefetch: true,
+  prefetch: {
+    defaultStrategy: "viewport",
+  },
 });
