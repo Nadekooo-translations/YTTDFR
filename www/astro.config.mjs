@@ -7,5 +7,6 @@ export default defineConfig({
   integrations: [sitemap()],
   prefetch: {
     defaultStrategy: "viewport",
+    prefetchAll: true,
   },
 });
