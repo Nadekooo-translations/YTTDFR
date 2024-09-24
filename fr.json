@@ -4841,6 +4841,32 @@
         ],
         "7-2-message": [
             "\\.\\C[3]Une pile de livres. Assez stable pour se tenir dessus."
+        ],
+        "8-1-message": [
+            "\\.\\C[3]Une boîte dont le couvercle est fixé par des vis.",
+            "\\.\\C[4](Je vais utiliser le tournevis plat...)",
+            null,
+            "\\.\\C[4](Il y a un autre outil...)",
+            "\\.\\C[3]Obtenu un Outil (Clé Allen).",
+            "\\.\\C[4](Je pourrais sûrement l'ouvrir avec un \\C[2]tournevis plat\\C[4].\n Mais je n'ai pas cet outil...)"
+        ],
+        "8-2-message": [
+            "\\.\\C[3]Il ne reste plus rien dans la boîte."
+        ],
+        "9-1-message": [
+            "\\.\\C[3]Des notes en tout genre sont éparpillées.",
+            "\\.\\C[4](...! Quelle est cette note...?!)",
+            "\\.\\C[4](Le nom du Professeur Mishima y figure...\n Ainsi que d'autres personnes que je ne connais pas.)",
+            "\\.\\C[4](Hmm...? \\C[2]Alice\\C[4]... \\C[2]Yabusame\\C[4]?)",
+            "\\.\\C[4](...Je vais garder ça...)",
+            "\\.\\C[3]Obtenu Papier Déchiré."
+        ],
+        "9-2-message": [
+            "\\.\\C[3]Rien d'autre sur le bureau."
+        ],
+        "10-1-message": [
+            "\\.\\C[3]Une bougie.",
+            "\\.\\C[4](Dois-je allumer cette bougie ?)"
         ]
     },
     "map45": {
