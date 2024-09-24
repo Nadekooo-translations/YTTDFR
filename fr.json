@@ -4800,11 +4800,12 @@
             "\\.\\C[4](Je vais positionner l'aiguille des heures sur 5 pour 5 heures,\n et celle des minutes sur 3 pour 15 minutes.)"
         ],
         "10-2-message": [
-            null,
+            "\\.\\C[3]La bougie est allumée.",
             "\\.\\C[4](Il semble qu'elle soit conçue pour que je ne puisse pas la porter...)"
         ],
         "11-1-message": [
-            "\\.\\C[4](It's a bottle... There's water inside.)"
+            "\\.\\C[4](It's a bottle... There's water inside.)",
+            "\\.\\C[3]Obtenu une Bouteille."
         ],
         "4-1-choice": [
             "12\n1\n2\n3\n4\n5",
@@ -4867,6 +4868,9 @@
         "10-1-message": [
             "\\.\\C[3]Une bougie.",
             "\\.\\C[4](Dois-je allumer cette bougie ?)"
+        ],
+        "11-2-message": [
+            "\\.\\C[3]Rien sur l'étagère."
         ]
     },
     "map45": {
