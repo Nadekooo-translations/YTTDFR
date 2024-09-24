@@ -4828,7 +4828,13 @@
         "6-1-message": [
             "\\.\\C[3]Il y a une boîte au-dessus de la bibliothèque \nqui semble devoir être portée à deux mains.",
             "\\.\\C[4](Ahh... Un poil trop haut pour l'atteindre.)",
-            "\\.\\C[4](Y a-t-il quelque chose me permettant de m'élever ?)"
+            "\\.\\C[4](Y a-t-il quelque chose qui me permettrait de m'élever ?)"
+        ],
+        "6-2-message": [
+            "\\.\\C[3]Il y a une boîte au-dessus de la bibliothèque \nqui semble devoir être portée à deux mains."
+        ],
+        "6-3-message": [
+            "\\.\\C[3]Il y a une boîte au-dessus de la bibliothèque \nqui semble devoir être portée à deux mains."
         ]
     },
     "map45": {
