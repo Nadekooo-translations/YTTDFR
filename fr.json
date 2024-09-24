@@ -4831,10 +4831,16 @@
             "\\.\\C[4](Y a-t-il quelque chose qui me permettrait de m'élever ?)"
         ],
         "6-2-message": [
-            "\\.\\C[3]Il y a une boîte au-dessus de la bibliothèque \nqui semble devoir être portée à deux mains."
+            "\\.\\C[3]Il y a une boîte au-dessus de la bibliothèque \nqui semble devoir être portée à deux mains.",
+            "\\.\\C[4](Voyons ce qu'il y a à l'intérieur...)",
+            "\\.\\C[3]Obtenu Deux Aiguilles."
         ],
         "6-3-message": [
-            "\\.\\C[3]Il y a une boîte au-dessus de la bibliothèque \nqui semble devoir être portée à deux mains."
+            "\\.\\C[3]Il y a une boîte au-dessus de la bibliothèque \nqui semble devoir être portée à deux mains.",
+            "\\.\\C[4](Les deux aiguilles étaient à l'intérieur...)"
+        ],
+        "7-2-message": [
+            "\\.\\C[3]Une pile de livres. Assez stable pour se tenir dessus."
         ]
     },
     "map45": {
