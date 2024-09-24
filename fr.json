@@ -4787,7 +4787,7 @@
             "\\.\\C[4](75 minutes font 1 heure et 15 minutes.)",
             "\\.\\C[4](Pour simplifier, je suis sûre que je dois\n régler cette horloge pour indiquer 5:15 !)",
             "\\.\\C[4](Je pense que je dois juste\n régler cette horloge pour afficher 5:15...!)",
-            null,
+            "\\.\\C[4](Je vais positionner l'aiguille des heures sur 5 pour 5 heures,\n et celle des minutes sur 3 pour 15 minutes.)",
             "\\.\\C[4](Il ne se passe rien...)",
             "\\.\\C[4](Est-ce qu'il y a un indice caché dans cette pièce ?)",
             "\\.\\C[4](J'aperçois un réveil numérique dans la bibliothèque.\n Mais l'heure affichée est étrange. 28:75...?)",
