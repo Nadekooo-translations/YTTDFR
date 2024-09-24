@@ -4811,6 +4811,14 @@
             "6\n7\n8\n9\n10\n11",
             "12\n1\n2\n3\n4\n5",
             "6\n7\n8\n9\n10\n11"
+        ],
+        "4-2-message": [
+            "\\.\\C[3]L'horloge fonctionne silencieusement."
+        ],
+        "5-1-message": [
+            "\\.\\C[3]Il y a des livres dans la bibliothèque.",
+            null,
+            "\\.\\C[4](Ce n'est pas très poli...\n Mais je vais me tenir sur les livres pour récupérer la boîte du dessus.)"
         ]
     },
     "map45": {
