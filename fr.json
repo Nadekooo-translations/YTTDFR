@@ -4788,7 +4788,21 @@
             "\\.\\C[4](Pour simplifier, je suis sûre que je dois\n configurer cette horloge pour indiquer 5:15!)",
             null,
             null,
-            "\\.\\C[4](Il ne se passe rien...)"
+            "\\.\\C[4](Il ne se passe rien...)",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.\\C[4](En gros, je parie que je dois\n régler cette horloge à 5:15 !)"
+        ],
+        "10-2-message": [
+            null,
+            "\\.\\C[4](Il semble qu'elle soit conçue pour que je ne puisse pas la porter...)"
+        ],
+        "11-1-message": [
+            "\\.\\C[4](It's a bottle... There's water inside.)"
         ]
     },
     "map45": {
