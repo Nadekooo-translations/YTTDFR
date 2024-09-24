@@ -4824,6 +4824,11 @@
         "5-2-message": [
             "\\.\\C[3]Il y a une horloge numérique derrière la bibliothèque.",
             "\\.\\C[4](Elle s'est arrêtée à 28h75...)"
+        ],
+        "6-1-message": [
+            "\\.\\C[3]Il y a une boîte au-dessus de la bibliothèque \nqui semble devoir être portée à deux mains.",
+            "\\.\\C[4](Ahh... Un poil trop haut pour l'atteindre.)",
+            "\\.\\C[4](Y a-t-il quelque chose me permettant de m'élever ?)"
         ]
     },
     "map45": {
