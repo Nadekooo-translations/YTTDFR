@@ -4867,10 +4867,13 @@
         ],
         "10-1-message": [
             "\\.\\C[3]Une bougie.",
-            "\\.\\C[4](Dois-je allumer cette bougie ?)"
+            "\\.\\C[4](Devrais-je allumer cette bougie ?)"
         ],
         "11-2-message": [
             "\\.\\C[3]Rien sur l'étagère."
+        ],
+        "13-1-message": [
+            "\\.\\C[3]Un liquide rouge coule sur le sol."
         ]
     },
     "map45": {
