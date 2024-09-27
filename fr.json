@@ -4874,6 +4874,13 @@
         ],
         "13-1-message": [
             "\\.\\C[3]Un liquide rouge coule sur le sol."
+        ],
+        "15-1-message": [
+            null,
+            null,
+            null,
+            null,
+            "\\.\\C[4](Je vais l'ouvrir !)"
         ]
     },
     "map45": {
