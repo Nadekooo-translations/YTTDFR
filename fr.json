@@ -4883,8 +4883,9 @@
             "\\.\\C[3]Un unique grand casier.",
             "\\.\\C[3]L'ouvrir ?",
             "\\.\\C[4](J'ai un mauvais pressentiment...)",
-            "\\.\\C[4](...Reste calme, Sara.)",
-            "\\.\\C[4](Je vais l'ouvrir !)"
+            "\\.\\C[4](... Reste calme, Sara.)",
+            "\\.\\C[4](Je l'ouvre...!)",
+            "\\.\"Eyaaaaah !\""
         ],
         "25-2-message": [
             "\\.\\C[3]Une pile de livres.\nSuffisamment stable pour pouvoir tenir dessus."
@@ -4905,7 +4906,7 @@
         "14-1-message": [
             "\\.\\C[3]Les coins du cadre sont fixés au mur par des\nvis et des clous.",
             "\\.\\C[4](Parfait, j'ai les quatre outils dont j'ai besoin.\n Je n'ai plus qu'à les retirer...!)",
-            "\\.\\C[3]Cadre retiré.",
+            "\\.\\C[3]Cadre décroché.",
             "\\.\\C[4](...! Le mur...!)",
             "\\.\\C[4](Ils sont tous de types différents...\n L'idée serait que j'ai besoin de quatre outils\n différents pour enlever la peinture, alors ?)"
         ]
