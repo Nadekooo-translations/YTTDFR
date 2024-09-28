@@ -4818,7 +4818,7 @@
         ],
         "5-1-message": [
             "\\.\\C[3]Il y a des livres dans l'étagère.",
-            null,
+            "\\.\\C[4](Les couvertures semblent véritables,\n mais toutes les pages sont blanches...)",
             "\\.\\C[4](Ce n'est pas très poli...\n Mais je vais me tenir sur les livres pour récupérer\n la boîte du dessus.)",
             "\\.\\C[4](Ça fera l'affaire.)"
         ],
