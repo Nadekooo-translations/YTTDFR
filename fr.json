@@ -4801,7 +4801,7 @@
         ],
         "10-2-message": [
             "\\.\\C[3]La bougie est allumée.",
-            "\\.\\C[4](Il semble qu'elle soit conçue pour que je ne puisse pas la porter...)"
+            "\\.\\C[4](Il semble qu'elle soit conçue pour \n que je ne puisse pas la porter...)"
         ],
         "11-1-message": [
             "\\.\\C[4](It's a bottle... There's water inside.)",
