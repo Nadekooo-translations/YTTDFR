@@ -4776,28 +4776,28 @@
             "\\.\\C[4](Les aiguilles que j'ai trouvées ont l'air\n d'appartenir à cette pendule.)",
             "\\.\\C[4](Alors, comment devrais-je placer l'aiguille des\n heures...?)",
             "\\.\\C[4](Ensuite, comment devrais-je orienter l'aiguille des\n minutes ?)",
-            "\\.\\C[3]Tandis que la pendule se remettait à bouger,\n quelque chose tomba.",
+            "\\.\\C[3]Quelque chose est tombé de la pendule\nlorsqu'elle s'est remise à fonctionner.",
             "\\.\\C[3]Vous avez obtenu un des Outils (Tournevis Phillips).",
             "\\.\\C[4](Il ne se passe rien...)",
-            "\\.\\C[4](Est-ce qu'il y a un indice caché dans cette pièce ?)",
-            "\\.\\C[4](J'aperçois un réveil numérique dans la bibliothèque.\n Mais l'heure affichée est étrange. 28:75...?)",
-            "\\.\\C[4](Le réveil numérique dans la bibliothèque\n indique 28:75, mais...)",
-            "\\.\\C[4](Si on indiquait \"28 heures\" sur une horloge analogique,\n ça donnerait 4 heures ?)",
-            "\\.\\C[4](L'horloge numérique sur la bibliothèque\n indique 28:75.)",
+            "\\.\\C[4](Y aurait-il un indice caché dans cette pièce...?)",
+            "\\.\\C[4](J'aperçois un réveil numérique dans l'étagère.\n Il affiche une heure bizarre. 28:75...?)",
+            "\\.\\C[4](Le réveil numérique dans l'étagère\n indique 28:75, mais...)",
+            "\\.\\C[4](Si on indiquait \"28 heures\" sur une horloge\n analogique, ça donnerait 4:00... non ?)",
+            "\\.\\C[4](Le réveil numérique sur l'étagère\n indique 28:75.)",
             "\\.\\C[4](75 minutes font 1 heure et 15 minutes.)",
-            "\\.\\C[4](Pour simplifier, je suis sûre que je dois\n régler cette horloge pour indiquer 5:15 !)",
-            "\\.\\C[4](Je pense que je dois juste\n régler cette horloge pour afficher 5:15...!)",
-            "\\.\\C[4](Je vais positionner l'aiguille des heures sur 5 pour 5 heures,\n et celle des minutes sur 3 pour 15 minutes.)",
+            "\\.\\C[4](En gros, je suis prête à parier que je dois\n régler cette horloge sur 5:15 !)",
+            "\\.\\C[4](Je pense que j'ai juste à régler cette\n horloge sur 5:15...!)",
+            "\\.\\C[4](Je vais positionner l'aiguille des heures sur 5\n pour 5 heures et celle des minutes sur 3 pour\n 15 minutes.)",
             "\\.\\C[4](Il ne se passe rien...)",
-            "\\.\\C[4](Est-ce qu'il y a un indice caché dans cette pièce ?)",
-            "\\.\\C[4](J'aperçois un réveil numérique dans la bibliothèque.\n Mais l'heure affichée est étrange. 28:75...?)",
-            "\\.\\C[4](Le réveil numérique dans la bibliothèque\n indique 28:75, mais...)",
-            "\\.\\C[4](Si on indiquait \"28 heures\" sur une horloge analogique,\n ça donnerait 4 heures ?)",
-            "\\.\\C[4](L'horloge numérique sur la bibliothèque\n indique 28:75.)",
+            "\\.\\C[4](Y aurait-il un indice caché dans cette pièce...?)",
+            "\\.\\C[4](J'aperçois un réveil numérique dans l'étagère.\n Il affiche une heure bizarre. 28:75...?)",
+            "\\.\\C[4](Le réveil numérique dans l'étagère\n indique 28:75, mais...)",
+            "\\.\\C[4](Si on indiquait \"28 heures\" sur une horloge\n analogique, ça donnerait 4:00... non ?)",
+            "\\.\\C[4](Le réveil numérique sur l'étagère\n indique 28:75.)",
             "\\.\\C[4](75 minutes font 1 heure et 15 minutes.)",
-            "\\.\\C[4](En gros, je parie que je dois\n régler cette horloge à 5:15 !)",
-            "\\.\\C[4](Je pense que je dois juste\n régler cette horloge pour afficher 5:15...!)",
-            "\\.\\C[4](Je vais positionner l'aiguille des heures sur 5 pour 5 heures,\n et celle des minutes sur 3 pour 15 minutes.)"
+            "\\.\\C[4](En gros, je suis prête à parier que je dois\n régler cette horloge sur 5:15 !)",
+            "\\.\\C[4](Je pense que j'ai juste à régler cette\n horloge sur 5:15...!)",
+            "\\.\\C[4](Je vais positionner l'aiguille des heures sur 5\n pour 5 heures et celle des minutes sur 3 pour\n 15 minutes.)"
         ],
         "10-2-message": [
             "\\.\\C[3]La bougie est allumée.",
@@ -4814,10 +4814,10 @@
             "6\n7\n8\n9\n10\n11"
         ],
         "4-2-message": [
-            "\\.\\C[3]L'horloge fonctionne silencieusement."
+            "\\.\\C[3]L'horloge tourne silencieusement."
         ],
         "5-1-message": [
-            "\\.\\C[3]Il y a des livres dans la bibliothèque.",
+            "\\.\\C[3]Il y a des livres dans l'étagère.",
             null,
             "\\.\\C[4](Ce n'est pas très poli...\n Mais je vais me tenir sur les livres pour récupérer\n la boîte du dessus.)",
             "\\.\\C[4](Ça fera l'affaire.)"
