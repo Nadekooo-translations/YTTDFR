@@ -4903,7 +4903,9 @@
             "\\.\\C[3]Un liquide rouge occupe l'espace sous le carrelage."
         ],
         "14-1-message": [
-            "\\.\\C[3]Les coins du cadre sont maintenus par des vis et des clous."
+            "\\.\\C[3]Les coins du cadre sont fixés au mur par des\nvis et des clous.",
+            "\\.\\C[4](Parfait, j'ai les quatre outils dont j'ai besoin.\n Je n'ai plus qu'à les retirer...!)",
+            "\\.\\C[3]Cadre retiré."
         ]
     },
     "map45": {
