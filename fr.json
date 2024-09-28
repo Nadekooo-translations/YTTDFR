@@ -4919,9 +4919,13 @@
             "\\.\\C[4](Ils sont tous de types différents...\n L'idée serait que j'ai besoin de quatre outils\n différents pour enlever la peinture, alors ?)"
         ],
         "16-1-message": [
-            null,
-            null,
-            "\\.\\C[4](Il a perdu connaissance...)"
+            "\\.\"E-Est-ce que ça va...?\"",
+            "\\.\"..........\"",
+            "\\.\\C[4](Il a perdu connaissance...)",
+            "\\.\\C[4](Que dois-je faire...\n Dois-je m'enfuir avant qu'il ne se réveille...?!)"
+        ],
+        "15-2-message": [
+            "\\.\\C[3]Il n'y a plus rien dans le casier."
         ]
     },
     "map45": {
