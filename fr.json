@@ -4869,7 +4869,7 @@
         "10-1-message": [
             "\\.\\C[3]Une bougie.",
             "\\.\\C[4](Devrais-je allumer cette bougie ?)",
-            "\\.\\C[3]Le briquet n'a plus de carburant."
+            "\\.\\C[3]Le briquet ne fonctionne plus."
         ],
         "11-2-message": [
             "\\.\\C[3]Rien sur l'étagère."
