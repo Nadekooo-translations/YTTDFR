@@ -4881,9 +4881,9 @@
         ],
         "15-1-message": [
             "\\.\\C[3]Un unique grand casier.",
-            null,
-            null,
-            null,
+            "\\.\\C[3]L'ouvrir ?",
+            "\\.\\C[4](J'ai un mauvais pressentiment...)",
+            "\\.\\C[4](...Reste calme, Sara.)",
             "\\.\\C[4](Je vais l'ouvrir !)"
         ],
         "25-2-message": [
