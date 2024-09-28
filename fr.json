@@ -4924,8 +4924,8 @@
             "\\.\\C[4](Il a perdu connaissance...)",
             "\\.\\C[4](Que devrais-je faire...\n Devrais-je m'enfuir avant qu'il ne se réveille...?!)",
             "\\.\"... Je ne peux pas...!!\"",
-            null,
-            null,
+            "\\.\\C[4](Je ne sais pas s'il est une bonne personne...\n Mais il a dit \"à l'aide\"...!)",
+            "\\.\\C[4](Donc... Je vais le prendre avec moi !)",
             "\\.\\C[3]Difficilement, je réussis à traîner l'homme sur mon\népaule.",
             "\\.\\C[4](Il n'a pas l'air d'être blessé, mais...\n Je devrais faire doucement.)"
         ],
