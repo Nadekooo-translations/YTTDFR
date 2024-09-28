@@ -4875,7 +4875,8 @@
             "\\.\\C[3]Il n'y a rien sur l'étagère."
         ],
         "13-1-message": [
-            "\\.\\C[3]Un liquide rouge coule par terre."
+            "\\.\\C[3]Un liquide rouge coule par terre.",
+            "\\.\\C[4](Si je coince un outil entre les carreaux,\n je parie que je peux l'ouvrir.)"
         ],
         "15-1-message": [
             null,
