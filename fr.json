@@ -4818,18 +4818,18 @@
         ],
         "5-1-message": [
             "\\.\\C[3]Il y a des livres dans l'étagère.",
-            "\\.\\C[4](Les couvertures semblent véritables,\n mais toutes les pages sont blanches...)",
-            "\\.\\C[4](Ce n'est pas très poli...\n Mais je vais me tenir sur les livres pour récupérer\n la boîte du dessus.)",
+            "\\.\\C[4](Les couvertures ressemblent à des vraies, mais\n toutes les pages à l'intérieur de ces livres sont\n blanches...)",
+            "\\.\\C[4](Ce n'est pas très poli...\n Mais je vais me servir de ces livres pour pouvoir\n atteindre la boîte.)",
             "\\.\\C[4](Ça fera l'affaire.)"
         ],
         "5-2-message": [
-            "\\.\\C[3]Il y a une horloge numérique derrière la bibliothèque.",
-            "\\.\\C[4](Elle s'est arrêtée à 28h75...)"
+            "\\.\\C[3]Il y a une horloge numérique au fond de l'étagère.",
+            "\\.\\C[4](Elle s'est arrêtée à 28:75...)"
         ],
         "6-1-message": [
             "\\.\\C[3]Il y a une boîte au-dessus de la bibliothèque \nqui semble devoir être portée à deux mains.",
-            "\\.\\C[4](Ahh... Un poil trop haut pour l'atteindre.)",
-            "\\.\\C[4](Y a-t-il quelque chose qui me permettrait de m'élever ?)"
+            "\\.\\C[4](Argh... Elle est à peine trop haute.)",
+            "\\.\\C[4](Y aurait-il quoi que ce soit qui me permettrait\n de gagner en hauteur ?)"
         ],
         "6-2-message": [
             "\\.\\C[3]Il y a une boîte au-dessus de la bibliothèque \nqui semble devoir être portée à deux mains.",
