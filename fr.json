@@ -4804,7 +4804,7 @@
             "\\.\\C[4](Il semblerait qu'elle ait été conçue pour que je ne\n puisse pas la porter...)"
         ],
         "11-1-message": [
-            "\\.\\C[4](C'est une bouteille. Il y a de l'eau à l'intérieur.)",
+            "\\.\\C[4](Une bouteille. Il y a de l'eau à l'intérieur.)",
             "\\.\\C[3]Bouteille obtenue."
         ],
         "4-1-choice": [
@@ -4872,10 +4872,10 @@
             "\\.\\C[3]Le briquet ne fonctionne plus."
         ],
         "11-2-message": [
-            "\\.\\C[3]Rien sur l'étagère."
+            "\\.\\C[3]Il n'y a rien sur l'étagère."
         ],
         "13-1-message": [
-            "\\.\\C[3]Un liquide rouge coule sur le sol."
+            "\\.\\C[3]Un liquide rouge coule par terre."
         ],
         "15-1-message": [
             null,
