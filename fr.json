@@ -4885,7 +4885,13 @@
             "\\.\\C[4](J'ai un mauvais pressentiment...)",
             "\\.\\C[4](... Reste calme, Sara.)",
             "\\.\\C[4](Je l'ouvre...!)",
-            "\\.\"Eyaaaaah !\""
+            "\\.\"Eyaaaaah !\"",
+            "\\.\"..........\"",
+            "\\.\"..........\"",
+            "\\.\"..........\"",
+            "\\.\"...\\.À...\\.\\. l'aide...\"\\.",
+            "\\.\\C[4](Argh...?! Quoi ?!)",
+            "\\.\"Euh... Hem...?!\""
         ],
         "25-2-message": [
             "\\.\\C[3]Une pile de livres.\nSuffisamment stable pour pouvoir tenir dessus."
