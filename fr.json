@@ -4876,7 +4876,8 @@
         ],
         "13-1-message": [
             "\\.\\C[3]Un liquide rouge coule par terre.",
-            "\\.\\C[4](Si je coince un outil entre les carreaux,\n je parie que je peux l'ouvrir.)"
+            "\\.\\C[4](Si j'arrive à coincer un outil entre les carreaux,\n je suis sûre que je peux l'ouvrir.)",
+            "\\.\\C[3]Dalle retirée."
         ],
         "15-1-message": [
             null,
@@ -4887,6 +4888,11 @@
         ],
         "25-2-message": [
             "\\.\\C[3]Une pile de livres.\nSuffisamment stable pour pouvoir tenir dessus."
+        ],
+        "13-2-message": [
+            "\\.\\C[3]Un liquide rouge se répand sous le sol.",
+            null,
+            "\\.\\C[4](Hm...? Quelque chose flotte à la surface...)"
         ]
     },
     "map45": {
