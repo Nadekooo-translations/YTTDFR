@@ -4923,10 +4923,17 @@
             "\\.\"..........\"",
             "\\.\\C[4](Il a perdu connaissance...)",
             "\\.\\C[4](Que devrais-je faire...\n Devrais-je m'enfuir avant qu'il ne se réveille...?!)",
-            "\\.\"...Je ne peux pas...!!\""
+            "\\.\"... Je ne peux pas...!!\"",
+            null,
+            null,
+            "\\.\\C[3]Difficilement, je réussis à traîner l'homme sur mon\népaule.",
+            "\\.\\C[4](Il n'a pas l'air d'être blessé, mais...\n Je devrais faire doucement.)"
         ],
         "15-2-message": [
             "\\.\\C[3]Il n'y a plus rien dans le casier."
+        ],
+        "34-3-message": [
+            "\\C[3]Des outils qui servent à retirer des vis, entre autres."
         ]
     },
     "map45": {
