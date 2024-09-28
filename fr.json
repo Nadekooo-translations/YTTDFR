@@ -4834,7 +4834,8 @@
         "6-2-message": [
             "\\.\\C[3]Il y a une boîte au-dessus de la bibliothèque \nqui semble devoir être portée à deux mains.",
             "\\.\\C[4](Voyons ce qu'il y a à l'intérieur...)",
-            "\\.\\C[3]Deux Aiguilles obtenues."
+            "\\.\\C[3]Deux Aiguilles obtenues.",
+            "\\.\\C[4](Elles sont longues et larges...)"
         ],
         "6-3-message": [
             "\\.\\C[3]Il y a une boîte au-dessus de la bibliothèque \nqui semble devoir être portée à deux mains.",
@@ -4867,7 +4868,8 @@
         ],
         "10-1-message": [
             "\\.\\C[3]Une bougie.",
-            "\\.\\C[4](Devrais-je allumer cette bougie ?)"
+            "\\.\\C[4](Devrais-je allumer cette bougie ?)",
+            "\\.\\C[3]Le briquet n'a plus de carburant."
         ],
         "11-2-message": [
             "\\.\\C[3]Rien sur l'étagère."
