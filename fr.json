@@ -4893,7 +4893,7 @@
             "\\.\\C[4](Argh...?! Quoi ?!)",
             "\\.\"Ah... Euh...?!\"",
             "\\.\"..........\"",
-            "\\.\\C[4](Que... Que dois-je faire...)"
+            "\\.\\C[4](Que... Que devrais-je faire...)"
         ],
         "25-2-message": [
             "\\.\\C[3]Une pile de livres.\nSuffisamment stable pour pouvoir tenir dessus."
@@ -4917,6 +4917,11 @@
             "\\.\\C[3]Cadre décroché.",
             "\\.\\C[4](...! Le mur...!)",
             "\\.\\C[4](Ils sont tous de types différents...\n L'idée serait que j'ai besoin de quatre outils\n différents pour enlever la peinture, alors ?)"
+        ],
+        "16-1-message": [
+            null,
+            null,
+            "\\.\\C[4](Il a perdu connaissance...)"
         ]
     },
     "map45": {
