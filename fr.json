@@ -4747,7 +4747,7 @@
             "\\.\\C[4](... Il fait peur... mais il me fait un peu de la peine.\n Je vais essuyer ses larmes avec le morceau de papier\n que j'ai ramassé. Il n'a pas l'air d'être important.)",
             "\\.\\C[3]Ses larmes se sont arrêtées de couler.",
             "\\.\\C[4](... Hmm... Quelque chose est sorti de sa bouche.)",
-            "\\.\\C[3]Vous avez obtenu un des Outils (Tournevis Plat).",
+            "\\.\\C[3]Tournevis Plat obtenu.",
             "\\.\\C[4](... Il me fait un peu de la peine...\n Je n'ai rien pour essuyer ses larmes ?)"
         ],
         "1-11-message": [
@@ -4765,7 +4765,7 @@
             "\\.\\C[4](... Il fait peur... mais il me fait un peu de la peine.\n Je vais essuyer ses larmes avec le morceau de papier\n que j'ai ramassé. Il n'a pas l'air d'être important.)",
             "\\.\\C[3]Ses larmes se sont arrêtées de couler.",
             "\\.\\C[4](... Hmm... Quelque chose est sorti de sa bouche.)",
-            "\\.\\C[3]Vous avez obtenu un des Outils (Tournevis Plat).",
+            "\\.\\C[3]Tournevis Plat obtenu.",
             "\\.\\C[4](... Il me fait un peu de la peine...\n Je n'ai rien pour essuyer ses larmes ?)"
         ],
         "3-1-choice": [
@@ -4777,7 +4777,7 @@
             "\\.\\C[4](Alors, comment devrais-je placer l'aiguille des\n heures...?)",
             "\\.\\C[4](Ensuite, comment devrais-je orienter l'aiguille des\n minutes ?)",
             "\\.\\C[3]Quelque chose est tombé de la pendule\nlorsqu'elle s'est remise à fonctionner.",
-            "\\.\\C[3]Vous avez obtenu un des Outils (Tournevis Phillips).",
+            "\\.\\C[3]Tournevis Cruciforme obtenu.",
             "\\.\\C[4](Il ne se passe rien...)",
             "\\.\\C[4](Y aurait-il un indice caché dans cette pièce...?)",
             "\\.\\C[4](J'aperçois un réveil numérique dans l'étagère.\n Il affiche une heure bizarre. 28:75...?)",
@@ -4805,7 +4805,7 @@
         ],
         "11-1-message": [
             "\\.\\C[4](It's a bottle... There's water inside.)",
-            "\\.\\C[3]Obtenu une Bouteille."
+            "\\.\\C[3]Bouteille obtenue."
         ],
         "4-1-choice": [
             "12\n1\n2\n3\n4\n5",
@@ -4834,36 +4834,36 @@
         "6-2-message": [
             "\\.\\C[3]Il y a une boîte au-dessus de la bibliothèque \nqui semble devoir être portée à deux mains.",
             "\\.\\C[4](Voyons ce qu'il y a à l'intérieur...)",
-            "\\.\\C[3]Obtenu Deux Aiguilles."
+            "\\.\\C[3]Deux Aiguilles obtenues."
         ],
         "6-3-message": [
             "\\.\\C[3]Il y a une boîte au-dessus de la bibliothèque \nqui semble devoir être portée à deux mains.",
             "\\.\\C[4](Les deux aiguilles étaient à l'intérieur...)"
         ],
         "7-2-message": [
-            "\\.\\C[3]Une pile de livres. Assez stable pour se tenir dessus."
+            "\\.\\C[3]Une pile de livres.\nSuffisamment stable pour pouvoir tenir dessus."
         ],
         "8-1-message": [
             "\\.\\C[3]Une boîte dont le couvercle est fixé par des vis.",
             "\\.\\C[4](Je vais utiliser le tournevis plat...)",
-            null,
-            "\\.\\C[4](Il y a un autre outil...)",
-            "\\.\\C[3]Obtenu un Outil (Clé Allen).",
-            "\\.\\C[4](Je pourrais sûrement l'ouvrir avec un \\C[2]tournevis plat\\C[4].\n Mais je n'ai pas cet outil...)"
+            "\\.\\C[3]La boîte a été ouverte.",
+            "\\.\\C[4](Il y a un autre outil à l'intérieur...)",
+            "\\.\\C[3]Clé Allen obtenue.",
+            "\\.\\C[4](Je pourrais sûrement l'ouvrir avec un \\C[2]tournevis plat\\C[4],\n mais je n'en ai pas...)"
         ],
         "8-2-message": [
             "\\.\\C[3]Il ne reste plus rien dans la boîte."
         ],
         "9-1-message": [
-            "\\.\\C[3]Des notes en tout genre sont éparpillées.",
-            "\\.\\C[4](...! Quelle est cette note...?!)",
-            "\\.\\C[4](Le nom du Professeur Mishima y figure...\n Ainsi que d'autres personnes que je ne connais pas.)",
-            "\\.\\C[4](Hmm...? \\C[2]Alice\\C[4]... \\C[2]Yabusame\\C[4]?)",
-            "\\.\\C[4](...Je vais garder ça...)",
-            "\\.\\C[3]Obtenu Papier Déchiré."
+            "\\.\\C[3]Des sortes de notes sont éparpillées.",
+            "\\.\\C[4](...! Qu'est-ce que c'est que cette note...?!)",
+            "\\.\\C[4](Le nom du Professeur Mishima y figure...\n Ainsi que ceux d'autres personnes que je ne\n connais pas.)",
+            "\\.\\C[4](Hmm...? \\C[2]Alice\\C[4]... \\C[2]Yabusame\\C[4] ?)",
+            "\\.\\C[4](... Je vais mettre ça de côté...)",
+            "\\.\\C[3]Papier Déchiré obtenu."
         ],
         "9-2-message": [
-            "\\.\\C[3]Rien d'autre sur le bureau."
+            "\\.\\C[3]Il n'y a rien d'autre sur la table."
         ],
         "10-1-message": [
             "\\.\\C[3]Une bougie.",
@@ -4881,6 +4881,9 @@
             null,
             null,
             "\\.\\C[4](Je vais l'ouvrir !)"
+        ],
+        "25-2-message": [
+            "\\.\\C[3]Une pile de livres.\nSuffisamment stable pour pouvoir tenir dessus."
         ]
     },
     "map45": {
