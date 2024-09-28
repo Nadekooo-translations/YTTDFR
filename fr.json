@@ -4891,8 +4891,12 @@
         ],
         "13-2-message": [
             "\\.\\C[3]Un liquide rouge se répand sous le sol.",
-            null,
+            "\\.\\C[4](Si je verse de l'eau pour en augmenter le volume...)",
             "\\.\\C[4](Hm...? Quelque chose flotte à la surface...)"
+        ],
+        "13-3-message": [
+            "\\.\\C[3]Quelque chose flotte dans le liquide rouge.",
+            "\\.\\C[4](...Je préfère éviter de toucher le liquide.)"
         ]
     },
     "map45": {
