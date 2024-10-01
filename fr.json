@@ -3278,7 +3278,7 @@
             "\"S'il te plaît, calme-toi.\n On ne compte pas te le prendre.\"",
             "\\.\"... Alors... Partez d'ici...!\"",
             "\\.\\C[4](... C'est pas bon...\n On ne va pas pouvoir régler ça en parlant.)",
-            "\\C[3]J'ai fermé à clé la porte de l'intérieur.",
+            "\\C[3]Je ferme à clé la porte de l'intérieur.",
             "\\.\"Qu... Qu'est-ce que tu fais ?!\"",
             null,
             null,
