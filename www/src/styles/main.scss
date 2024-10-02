@@ -35,7 +35,7 @@ body {
 
 		@media (max-width: $medium) {
 			width: 100%;
-			padding: 0 4ch 1em;
+			padding: 0 2ch 5em;
 		}
 
 		img {
@@ -58,4 +58,5 @@ em {
 
 h2 {
 	font-size: 36px;
+	text-wrap: pretty;
 }
