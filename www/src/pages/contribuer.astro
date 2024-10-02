@@ -48,7 +48,7 @@ const avatarBase = import.meta.env.WEBLATE_AVATAR_BASE_URL;
 					<div class="progress-container">
 						<ProgressBar progress={entry.percentage} />
 						<div class="username">
-							{entry.fullName}&emsp;<em>{entry.changeCount}</em>
+							<em>{entry.changeCount}</em>&emsp;{entry.fullName}
 						</div>
 					</div>
 				</div>
@@ -75,6 +75,9 @@ const avatarBase = import.meta.env.WEBLATE_AVATAR_BASE_URL;
 
 		display: flex;
 		flex-direction: row;
+
+		cursor: default;
+		user-select: none;
 
 		img.avatar {
 			height: 3em;

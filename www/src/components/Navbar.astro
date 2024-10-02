@@ -26,6 +26,11 @@ const path = Astro.url.pathname;
 		flex-direction: row;
 		justify-content: space-evenly;
 
+		@media (max-width: 1024px) {
+			flex-direction: column;
+			gap: 1ch;
+		}
+
 		a {
 			user-select: none;
 			text-decoration: none;
@@ -39,6 +44,10 @@ const path = Astro.url.pathname;
 			height: min-content;
 
 			transition: all 0.3s;
+
+			@media (max-width: 1024px) {
+				text-align: center;
+			}
 
 			&.active,
 			&:hover {
