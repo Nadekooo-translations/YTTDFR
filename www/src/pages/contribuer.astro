@@ -2,7 +2,7 @@
 import { adjustCredits, fetchCredits } from "../api";
 import ProgressBar from "../components/ProgressBar.astro";
 import Layout from "../layouts/Layout.astro";
-import header from "../images/contributors-header.png";
+import header from "../images/contributors-header.webp";
 import { Image } from "astro:assets";
 
 const credits = await adjustCredits(await fetchCredits());
