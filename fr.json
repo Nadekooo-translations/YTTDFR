@@ -3313,7 +3313,7 @@
             "\"Durant ce laps de temps... est-ce que tu as croisé\n quelqu'un ?\"",
             "\\.\"...\"",
             "\\.\"... Non, personne n'est venu. Vous êtes les premiers.\"",
-            null,
+            "\\.\\C[4](C'est bien ce que je pensais.\n Si quelqu'un était entré, il y aurait eu un vacarme...)",
             "\\.\"...\"",
             null,
             null,
