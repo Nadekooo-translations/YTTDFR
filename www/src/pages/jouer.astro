@@ -9,7 +9,7 @@ const targets = [
 	{ target: "osx-arm64", icon: "ph-apple-logo", name: "macOS (arm64)" },
 ];
 
-const buildDate = new Date().toLocaleString("fr-FR");
+const buildDate = new Date().toLocaleString("fr-FR", {timeZone: 'Europe/Paris'});
 ---
 
 <Layout title="Jouer à Your Turn to Die en français" description="">
@@ -66,7 +66,7 @@ const buildDate = new Date().toLocaleString("fr-FR");
 		position: relative;
 		overflow: hidden;
 
-		width: 816px;
+		width: 100%;
 		height: 624px;
 
 		@media (max-width: $medium) {
@@ -75,17 +75,11 @@ const buildDate = new Date().toLocaleString("fr-FR");
 
 		iframe {
 			position: relative;
-			overflow: clip;
 			margin-top: 4em;
 			border: 0;
 
-			top: 0;
-			left: 0;
-			bottom: 0;
-			right: 0;
-
-			width: 100%;
-			height: 100%;
+			width: 816px;
+			height: 624px;
 		}
 	}
 
