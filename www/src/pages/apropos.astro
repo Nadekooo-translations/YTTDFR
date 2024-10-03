@@ -3,5 +3,76 @@ import Layout from "../layouts/Layout.astro";
 ---
 
 <Layout title="À propos - Your Turn to Die en français" description="">
-	<p>todo</p>
+	<h4>Qu'est-ce que c'est ?</h4>
+	<p>
+		<em>yttd.fr</em> est une initiative communautaire ayant pour but de traduire le
+		visual novel <em translate="no">Your Turn to Die</em> développé par Nankidai.
+	</p>
+
+	<h4>Où discuter</h4>
+	<div class="contacts">
+		<a href="https://x.com/YTTDFR" target="_blank">
+			<i class="ph-duotone ph-x-logo"></i>
+		</a>
+		<a href="https://discord.gg/PXyEMNEV4J" target="_blank">
+			<i class="ph-duotone ph-discord-logo"></i>
+		</a>
+	</div>
+
+	<h4>Pourquoi ?</h4>
+	<p><em>Your Turn to Die</em> est un jeu qui nous tient à cœur.</p>
+
+	<h4>Comment ?</h4>
+	<p>Avec du <em>skill</em></p>
+
+	<h4>Mentions légales</h4>
+	<p>
+		La traduction française est offerte sous la license <a
+			href="https://creativecommons.org/licenses/by-sa/4.0/deed.fr"
+			target="_blank">Creative Commands BY SA 4.0 International</a
+		>.<br />
+
+		Hébergé par : OVH SAS, 2 rue Kellermann - 59100 Roubaix - France
+	</p>
+
+	<h4>Politique de confidentialité</h4>
+	<p>
+		Afin de sécuriser notre Système d'Information (SI) des journaux de
+		consultation des pages web sont enregistrés. Ils incluent:
+		<ul>
+			<li>Date et heure</li>
+			<li>Votre adresse IP</li>
+			<li>Votre User-Agent (nom, version de votre navigateur web)</li>
+			<li>Page visitée</li>
+			<li>Site web vous ayant redirigé vers yttd.fr</li>
+		</ul>
+		Ces journaux ne seront communiqués a un tiers. Les entrées y sont supprimés au
+		bout d'une durée de 2 mois glissant.
+	</p>
+	<p>
+		Le gestionnaire de sauvegardes n&apos;enregistre aucune donnée sur notre SI, et
+		toute donnée reste sur votre client.
+	</p>
 </Layout>
+
+<style lang="scss">
+	@import "@phosphor-icons/web/duotone";
+
+	h4 {
+		margin-bottom: 0em;
+	}
+
+	.contacts {
+		display: flex;
+		flex-direction: row;
+		justify-content: space-evenly;
+
+		margin-top: 2em;
+		margin-bottom: 1em;
+
+		a {
+			font-size: 3em;
+			text-decoration: none;
+		}
+	}
+</style>
