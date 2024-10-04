@@ -3378,7 +3378,12 @@
             "\\.\"Mais cette...\"",
             "\\.\"Cette boîte... Je vais... la laisser...\"",
             "\\.\"La porte est ouverte.\"",
-            "\\.\"...Tu devrais aller voir Reko.\""
+            "\\.\"... Tu devrais aller voir Reko.\"",
+            "\\.\"Vu qu'c'était elle la plus inquiète.\"",
+            null,
+            null,
+            "\\.\"Allez la bleusaille, on continue de faire\n du bon boulot.\"",
+            "\\.\"Oui.\""
         ],
         "2-2-message": [
             null,
@@ -3464,6 +3469,9 @@
         ],
         "42-1-message": [
             "\\C[3]Cette salle est bien climatisée."
+        ],
+        "2-1-choice": [
+            "Lui demander des explications\nS'approcher lentement"
         ]
     },
     "map48": {
