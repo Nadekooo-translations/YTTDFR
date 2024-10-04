@@ -3473,7 +3473,9 @@
         "2-1-choice": [
             "Lui demander des explications\nS'approcher lentement",
             "La rassurer\nFermer la porte à clé\nLa prendre en tenaille",
-            "Je m'inquiétais pour toi\nJe suis venue examiner la cuisine\nJ'avais faim"
+            "Je m'inquiétais pour toi\nJe suis venue examiner la cuisine\nJ'avais faim",
+            "Tu n'as pas eu peur ?\nPersonne d'autre n'est venu ?",
+            "Tu devrais laisser la boîte\nLui parler de Gin"
         ]
     },
     "map48": {
