@@ -7,6 +7,7 @@ interface CreditsEntry {
 interface AdjustedCreditsEntry {
 	fullName: string;
 	percentage: number;
+	realPercentage: number;
 	changeCount: number;
 	username: string;
 }
@@ -87,6 +88,7 @@ export const adjustCredits = async (credits: CreditsEntry[]) => {
 		res.push({
 			fullName: entry.full_name,
 			percentage: Math.log(entry.change_count) / Math.log(sum) * 100,
+			realPercentage: entry.change_count / sum * 100,
 			changeCount: entry.change_count,
 			username: fullnameUsernameMap[entry.full_name],
 		});

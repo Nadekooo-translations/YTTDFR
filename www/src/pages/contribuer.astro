@@ -4,6 +4,7 @@ import ProgressBar from "../components/ProgressBar.astro";
 import Layout from "../layouts/Layout.astro";
 import header from "../images/contributors-header.webp";
 import { Image } from "astro:assets";
+import weblate from "../components/weblate.svg";
 
 const credits = await adjustCredits(await fetchCredits());
 const avatarBase = import.meta.env.WEBLATE_AVATAR_BASE_URL;
@@ -27,6 +28,14 @@ const avatarBase = import.meta.env.WEBLATE_AVATAR_BASE_URL;
 		</p>
 		<p>Vous pouvez traduire de l'anglais ou du japonais.</p>
 	</div>
+	<div class="links">
+		<a href="https://github.com/Nadekooo/YTTDFR" target="_blank">
+			<i class="ph-duotone ph-github-logo"></i>
+		</a>
+		<a href="https://weblate.vinceh121.me/projects/your-turn-to-die/" target="_blank">
+			<Image src={weblate} format="svg" alt="Weblate" />
+		</a>
+	</div>
 	<div>
 		<h2>Contributeurs</h2>
 	</div>
@@ -35,7 +44,7 @@ const avatarBase = import.meta.env.WEBLATE_AVATAR_BASE_URL;
 			credits.map((entry) => (
 				<div
 					class="credits-entry"
-					title={`${entry.fullName} : ${Math.ceil(entry.percentage).toFixed(0)}% des répliques traduites`}
+					title={`${entry.fullName} : ${Math.ceil(entry.realPercentage).toFixed(0)}% des répliques traduites`}
 				>
 					<div>
 						<img
@@ -59,6 +68,7 @@ const avatarBase = import.meta.env.WEBLATE_AVATAR_BASE_URL;
 
 <style lang="scss">
 	@import "../styles/_colors.scss";
+	@import "@phosphor-icons/web/duotone";
 
 	img.banner {
 		margin-top: 2em;
@@ -103,6 +113,25 @@ const avatarBase = import.meta.env.WEBLATE_AVATAR_BASE_URL;
 
 		.username {
 			margin-top: 0.5em;
+		}
+	}
+
+	.links {
+		display: flex;
+		flex-direction: row;
+		justify-content: space-evenly;
+
+		margin-top: 2em;
+		margin-bottom: 1em;
+
+		a {
+			font-size: 3em;
+			text-decoration: none;
+
+			img {
+				width: 54px;
+				height: 54px;
+			}
 		}
 	}
 </style>
