@@ -626,7 +626,7 @@
             "\\.\"Un kebab tout entier...\"",
             "\\.\"Attends... Vous étiez en rencard ?!\"",
             "\\.\"Mouahaha... J'en sors tout juste !\"",
-            "\\.\"J'suis revenu au lycée spécialement\n pour m'en vanter auprès de toi !\"",
+            "\\.\"J'suis revenu au lycée spécialement\n pour m'en vanter devant toi !\"",
             "\\.\"Tu aurais dû juste rentrer chez toi...\"",
             "\\.\"Parfait ! Vantardise accomplie...!\"",
             "\\.\"Rentrons, Sara !\""
@@ -641,7 +641,7 @@
     },
     "map4": {
         "1-1-message": [
-            "\"Et après, Ryoko et moi nous sommes enfin...\"",
+            "\"Et après, Ryoko et moi sommes enfin...\"",
             "\\.\\C[4](Qu'est-ce qu'elle est longue, son histoire...)",
             "\\.\"Hé, tu m'écoutes ?! On a fait plein de progrès !\"",
             "\\.\\C[4](Ce mec est tellement lourd...)",
