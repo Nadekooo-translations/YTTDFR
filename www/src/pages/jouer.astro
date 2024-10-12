@@ -1,4 +1,5 @@
 ---
+import GameFrame from "../components/GameFrame.astro";
 import Layout from "../layouts/Layout.astro";
 
 const hash = import.meta.env.COMMIT_HASH;
@@ -14,15 +15,7 @@ const buildDate = new Date().toLocaleString("fr-FR", {timeZone: 'Europe/Paris'})
 
 <Layout title="Jouer à Your Turn to Die en français" description="">
 	<div class="gamewrapper">
-		<iframe
-			id="gameframe"
-			src={`/yttd-${hash}/`}
-			allow="autoplay fullscreen"
-			allowfullscreen="true"
-			width="816"
-			height="624"
-		>
-		</iframe>
+		<GameFrame class="gameframe" />
 	</div>
 	<div class="buttons">
 		<button id="btnFullscreen" title="Plein écran">
