@@ -3419,7 +3419,11 @@
             "\\.\"Même la mort de Monsieur Mishima...\n\\! ... Ah, oups.\"",
             "\\.\"...\"",
             "\\.\"... Nah, j'avais juste envie de dire ça.\"",
-            "\\.\"Rillante, c'est ça ? ... Si seulement Mishima pouvait\n être ressucité en lui remettant juste sa tête sur ses\n épaules, je suis sûr que Nao serait ravie...\""
+            "\\.\"Rillante, c'est ça ? ... Si seulement Mishima pouvait\n revenir à la vie en lui remettant sa tête sur ses\n épaules. Je suis sûr que Nao serait ravie...\"",
+            "\\.\\C[4](Comme une poupée, hein...)",
+            "\\.\"Hahaha ! Nan... Pas moyen.\n C'est pas une poupée.\"",
+            "\\.\"... Hahaha. Même toi, tu devrais être suffisamment\n capable de faire la différence entre un être vivant\n et un objet pour savoir qu'il était humain, Sara.\"",
+            "\\.\"Bon, inutile de s'en préoccuper.\n Continuons simplement d'avancer et de chercher à\n trouver le fond de cette histoire.\""
         ],
         "3-1-message": [
             "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles."
@@ -3480,6 +3484,25 @@
             "Tu devrais abandonner la boîte\nLui parler de Gin",
             "Est mort",
             "Alors tu comptes arrêter la peinture ?\nTu devrais le terminer"
+        ],
+        "2-2-choice": [
+            "Regarder à l'intérieur\nDemander à Keiji",
+            "Les kidnappeurs l'ont déjà prise\nElle n'a jamais été mise dedans\nNao la cache",
+            "Tu penses que Rillante est une poupée ?\nTu penses que Mishima est une poupée ?"
+        ],
+        "2-3-message": [
+            "\\C[3]La boîte est vide.",
+            "\\.\"... Ça t'énerve d'avoir un mystère non résolu ? Haha.\""
+        ],
+        "6-1-message": [
+            "\\.\\C[3]Des étagères où ranger des ustensiles de cuisine.",
+            "\\.\\C[4](... Mais je ne vois rien qui y ressemble.)",
+            "\\.\\C[4](Hein ? Qu'est-ce que c'est que cette boîte ?)",
+            "\\.\\C[3]\"Cet objet est à votre libre disposition.\"",
+            "\\.\\{\\C[7]3\\C[0]61\\C[7]80\\C[0]2\\C[3]",
+            "<<REMOVE>>",
+            "\\.\\C[4](Hmm...?)",
+            "\\.\\C[3]Longue Boîte Fine obtenue."
         ]
     },
     "map48": {
@@ -14339,7 +14362,7 @@
             null,
             null,
             null,
-            null,
+            "<<REMOVE>>",
             null,
             null,
             null,
