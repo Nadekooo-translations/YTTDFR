@@ -12790,7 +12790,7 @@
             "\\C[3]Le débat est dans une \\C[2]impasse\\C[3], impossible d'atteindre\nun point d'entente...!",
             "\\.\\C[4](Il faut que je fasse pencher la faveur vers l'un\n des deux côtés... ou on n'avancera jamais !)",
             "\\.\\C[3]Voulez-vous une explication des Combats d'Équilibre ?\\.",
-            "\\C[3]Deux personnes s'exprimeront en même temps.\nEn \\C[2]confirmant\\C[3] ou \\C[2]niant\\C[3] les propos d'un côté,\nvous pouvez changer leur opinion."
+            "\\C[3]Deux personnes s'exprimeront en même temps.\nEn \\C[2]confirmant\\C[3] ou \\C[2]niant\\C[3] les propos d'un parti,\nvous pouvez changer leur opinion."
         ],
         "3-3-message": [
             "\\C[3]Le débat est dans une impasse, impossible d'atteindre\nun point d'entente...!"
