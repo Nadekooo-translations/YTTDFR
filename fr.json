@@ -12771,6 +12771,10 @@
         "7-10-message": [
             null,
             "\\.\\C[4](Mince...! Je me suis trompée !)"
+        ],
+        "1-1-message": [
+            "\\C[3]L'atmosphère est vraiment écrasante.",
+            "\\.\\C[4](Non... Cette fois, c'est différent...\n Rien à voir avec les débats qu'on a eu auparavant...)"
         ]
     },
     "map110": {
@@ -13141,8 +13145,8 @@
             "\\.\"Miaou... Le vieux...\"",
             "\\.\"Regarde pas, Gin ! Sors de là !\"",
             "\\.\"Putain...!! Merde !! C'quoi ce bordel !!\"",
-            "\\.\"Qui... Qui a voté... pour Monsieur Mishima...?\"",
-            "\\.\"Mais ta gueule, sale mocheté...!!\"",
+            "\\.\"Qui... Qui c'est qui a voté...\n pour Monsieur Mishima...?\"",
+            "\\.\"Mais ta gueule, sale tête de gland...!!\"",
             "\\.\"H-Hein ?!\n Mais... c'est à cause des votes, qu'il est...!\"",
             "\\.\"T'es au courant que c'est possible qu'on ait tous\n voté pour quelqu'un d'autre que nous-même, hein !?\"",
             "\\.\"...!\"",
@@ -13150,25 +13154,25 @@
             "\\.\"Que tout le monde m'écoute.\n ... Essayez pas de deviner les votes des gens.\"",
             "\\.\"Mais...!\"",
             "\\.\"On a voté sans être au courant de rien.\n Personne... avait de mauvaises intentions.\"",
-            "\\.\"Tu vois ce que je veux dire, hein, Sara ?\"",
+            "\\.\"T'es au courant de ça, hein, Sara ?\"",
             "\\.\\C[4](... Je...)",
             "\"... Keiji a raison.\n On ne devrait pas parler des votes, Joe.\"",
             "\\.\"Sara...\"",
             "\\.\"...\"",
             "\\.\"... Bon, d'accord...\"",
-            "\\.\"Juste... J'ai besoin d'être seul, deux minutes...\"",
+            "\\.\"Juste... Laissez-moi tranquille deux minutes...\"",
             "\"... Non, Joe a raison.\n On devrait clarifier nos votes...\"",
             "\\.\"...\"",
             "\\.\"... Mince, alors. De tout le monde ici, je pensais\n bien que tu serais la seule à me comprendre...\"",
             "\\.\"...\"",
-            "\\.\"... Bon, comme vous voulez. Mais pas maintenant.\n On peut pas discuter tranquillement quand on a\n les nerfs.\"",
+            "\\.\"... Bon, comme vous voulez. Mais pas maintenant.\n On peut pas discuter tranquillement quand on est\n sur les nerfs.\"",
             "\\.\"D-D'accord.\n Quand on aura un peu retrouvé nos esprits, alors...\"",
-            "\\.\"Je vais me changer les idées...\n J'ai... besoin d'être seul, deux minutes...\"\"",
+            "\\.\"Je vais me changer les idées...\n Laissez-moi tranquille... deux minutes...\"\"",
             "\"..........\"",
             "\\.\"Sara...\"",
             "\\.\"C'est vrai... Toi aussi, t'as beaucoup à gérer...\"",
-            "\\.\"... Moi aussi... Je vais me changer les idées...\"",
-            "\\.\"Juste... J'ai besoin d'être seul, deux minutes...\"",
+            "\\.\"... Je vais... aller me changer les idées...\"",
+            "\\.\"Juste... Laissez-moi tranquille deux minutes...\"",
             "\\C[3]Joe tituba hors de la salle.",
             "\\C[3]Quant au reste du groupe... ils se sont dispersés.\nCertains sont partis, d'autres sont restés.\\.\\."
         ],
