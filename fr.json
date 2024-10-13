@@ -12774,7 +12774,17 @@
         ],
         "1-1-message": [
             "\\C[3]L'atmosphère est vraiment écrasante.",
-            "\\.\\C[4](Non... Cette fois, c'est différent...\n Rien à voir avec les débats qu'on a eu auparavant...)"
+            "\\.\\C[4](Non... Cette fois, ce sera différent...\n Rien à voir avec les débats qu'on a eu auparavant...)",
+            "\\.\"Hihihi... Bon, je vais vous répéter les\n règles de base une dernière fois.\"",
+            "\\.\"En tout, vous tiendrez deux votes : le \\C[2]vote\n préliminaire\\C[0] au milieu du débat, et le \\C[2]vote final\\C[0]\n à la fin.\"",
+            "\\.\"5 candidats seront sélectionnés à l'issue du vote\n préliminaire et 1 victime sera désignée au vote\n final.\"",
+            "\\.\"Si la victime choisie est le \\C[2]Maître des Clés\\C[0],\n vous perdez tous et vous mourrez.\"",
+            "\\.\"Si la victime est le \\C[10]Sacrifice\\C[0], le \\C[10]Sacrifice\\C[0] gagne\n et il peut s'échapper avec une personne de son choix.\"",
+            "\\.\"Si la victime est un \\C[4]Roturier\\C[0] ou le \\C[3]Sage\\C[0],\n la victime en question et le \\C[10]Sacrifice\\C[0] mourront.\"",
+            "\\.\"Ah, oui...\n Je vous ai laissé des manuels sur vos sabliers.\n Servez-vous-en comme vos autres objets.\"",
+            "\\.\"Voilà, c'est tout... Hihihi.\n Profitez du temps qu'il vous reste.\"",
+            "\\C[3]Rillante s'assoit tranquillement dans son fauteuil.",
+            "\\.\\C[3]Et... dans un silence morbide...\nLe Jeu Principal commença."
         ]
     },
     "map110": {
