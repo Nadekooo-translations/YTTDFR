@@ -12785,6 +12785,15 @@
             "\\.\"Voilà, c'est tout... Hihihi.\n Profitez du temps qu'il vous reste.\"",
             "\\C[3]Rillante s'assoit tranquillement dans son fauteuil.",
             "\\.\\C[3]Et... dans un silence morbide...\nLe Jeu Principal commença."
+        ],
+        "3-1-message": [
+            "\\C[3]Le débat est dans une \\C[2]impasse\\C[3], impossible d'atteindre\nun point d'entente...!",
+            "\\.\\C[4](Il faut que je fasse pencher la faveur vers l'un\n des deux côtés... ou on n'avancera jamais !)",
+            "\\.\\C[3]Voulez-vous une explication des Combats d'Équilibre ?\\.",
+            "\\C[3]Deux personnes s'exprimeront en même temps.\nEn \\C[2]confirmant\\C[3] ou \\C[2]niant\\C[3] les propos d'un côté,\nvous pouvez changer leur opinion."
+        ],
+        "3-3-message": [
+            "\\C[3]Le débat est dans une impasse, impossible d'atteindre\nun point d'entente...!"
         ]
     },
     "map110": {
@@ -19241,6 +19250,9 @@
             null,
             null,
             "\\.\"...\""
+        ],
+        "6-1-message": [
+            "\\C[3]Le débat est dans une impasse, impossible d'atteindre\nun point d'entente...!"
         ]
     },
     "map159": {
