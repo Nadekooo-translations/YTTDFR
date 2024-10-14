@@ -17,7 +17,6 @@ jobs:
       - name: Uploading build artefacts
         uses: actions/upload-pages-artifact@v2
         with:
-          name: ghpages
           path: gh-pages
 
   deploy:
