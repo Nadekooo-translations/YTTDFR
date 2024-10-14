@@ -12790,10 +12790,24 @@
             "\\C[3]Le débat est dans une \\C[2]impasse\\C[3], impossible d'atteindre\nun point d'entente...!",
             "\\.\\C[4](Il faut que je fasse pencher la faveur vers l'un\n des deux côtés... ou on n'avancera jamais !)",
             "\\.\\C[3]Voulez-vous une explication des Combats d'Équilibre ?\\.",
-            "\\C[3]Deux personnes s'exprimeront en même temps.\nEn \\C[2]confirmant\\C[3] ou \\C[2]niant\\C[3] les propos d'un parti,\nvous pouvez changer leur opinion."
+            "\\C[3]Deux personnes s'exprimeront en même temps.\nEn \\C[2]confirmant\\C[3] ou \\C[2]niant\\C[3] les propos d'un parti,\nvous pouvez changer leurs avis.",
+            "\\.\\C[3]Si tout se passe bien, l'un des partis pourra\nl'emporter sur l'autre, et le débat pourra continuer.",
+            "\\.\\C[3]Sachez qu'il n'y a pas de temps limite, mais que\nvous êtes toutefois limités dans le nombre\nd'interventions que vous pouvez faire."
         ],
         "3-3-message": [
-            "\\C[3]Le débat est dans une impasse, impossible d'atteindre\nun point d'entente...!"
+            "\\C[3]Le débat est dans une impasse, impossible d'atteindre\nun point d'entente...!",
+            "\\.\"Madame Nao, vous tentez d'entraîner dans cette\n affaire autant de personnes que vous le pouvez.\"",
+            "\\.\"C'est faux !!\""
+        ],
+        "4-1-message": [
+            "\\.\\C[4](Argh...!\n Je n'arrive pas à faire pencher la faveur d'un côté !\n Recommençons depuis le début !)"
+        ],
+        "4-3-message": [
+            "\\.\\C[4](Argh...!\n Je n'arrive pas à faire pencher la faveur d'un côté !\n Recommençons depuis le début !)"
+        ],
+        "5-11-message": [
+            "Haa... Haa...",
+            "\\.*Kof, kof...\n\"Je suis épuisé... et je ne me sens pas bien...\""
         ]
     },
     "map110": {
@@ -19227,7 +19241,7 @@
     },
     "map156": {
         "2-1-message": [
-            null,
+            "\\C[3]L'atmosphère est vraiment écrasante.",
             null,
             "\\.\"...\""
         ],
@@ -19253,6 +19267,9 @@
         ],
         "6-1-message": [
             "\\C[3]Le débat est dans une impasse, impossible d'atteindre\nun point d'entente...!"
+        ],
+        "7-1-message": [
+            "\\.\\C[4](Argh...!\n Je n'arrive pas à faire pencher la faveur d'un côté !\n Recommençons depuis le début !)"
         ]
     },
     "map159": {
@@ -20532,6 +20549,11 @@
             null,
             "\"..........\"",
             "\"..........\""
+        ]
+    },
+    "map220": {
+        "3-1-message": [
+            "\\C[3]L'atmosphère est vraiment écrasante."
         ]
     }
 }
