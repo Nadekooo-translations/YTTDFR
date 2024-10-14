@@ -1,0 +1,36 @@
+name: Github Pages
+
+on:
+  push:
+    branches: [ "main" ]
+    paths: [ "gh-pages/**" ]
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Uploading build artefacts
+        uses: actions/upload-pages-artifact@v2
+        with:
+          name: ghpages
+          path: gh-pages
+
+  deploy:
+    permissions:
+      pages: write
+      id-token: write
+    runs-on: ubuntu-latest
+    needs: package
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Deploying to Github Pages
+        id: deployment
+        uses: actions/deploy-pages@v2
