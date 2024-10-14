@@ -3419,7 +3419,11 @@
             "\\.\"Même la mort de Monsieur Mishima...\n\\! ... Ah, oups.\"",
             "\\.\"...\"",
             "\\.\"... Nah, j'avais juste envie de dire ça.\"",
-            "\\.\"Rillante, c'est ça ? ... Si seulement Mishima pouvait\n être ressucité en lui remettant juste sa tête sur ses\n épaules, je suis sûr que Nao serait ravie...\""
+            "\\.\"Rillante, c'est ça ? ... Si seulement Mishima pouvait\n revenir à la vie en lui remettant sa tête sur ses\n épaules. Je suis sûr que Nao serait ravie...\"",
+            "\\.\\C[4](Comme une poupée, hein...)",
+            "\\.\"Hahaha ! Nan... Pas moyen.\n C'est pas une poupée.\"",
+            "\\.\"... Hahaha. Même toi, tu devrais être suffisamment\n capable de faire la différence entre un être vivant\n et un objet pour savoir qu'il était humain, Sara.\"",
+            "\\.\"Bon, inutile de s'en préoccuper.\n Continuons simplement d'avancer et de chercher à\n trouver le fond de cette histoire.\""
         ],
         "3-1-message": [
             "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles."
@@ -3480,6 +3484,25 @@
             "Tu devrais abandonner la boîte\nLui parler de Gin",
             "Est mort",
             "Alors tu comptes arrêter la peinture ?\nTu devrais le terminer"
+        ],
+        "2-2-choice": [
+            "Regarder à l'intérieur\nDemander à Keiji",
+            "Les kidnappeurs l'ont déjà prise\nElle n'a jamais été mise dedans\nNao la cache",
+            "Tu penses que Rillante est une poupée ?\nTu penses que Mishima est une poupée ?"
+        ],
+        "2-3-message": [
+            "\\C[3]La boîte est vide.",
+            "\\.\"... Ça t'énerve d'avoir un mystère non résolu ? Haha.\""
+        ],
+        "6-1-message": [
+            "\\.\\C[3]Des étagères où ranger des ustensiles de cuisine.",
+            "\\.\\C[4](... Mais je ne vois rien qui y ressemble.)",
+            "\\.\\C[4](Hein ? Qu'est-ce que c'est que cette boîte ?)",
+            "\\.\\C[3]\"Cet objet est à votre libre disposition.\"",
+            "\\.\\{\\C[7]3\\C[0]61\\C[7]80\\C[0]2\\C[3]",
+            "<<REMOVE>>",
+            "\\.\\C[4](Hmm...?)",
+            "\\.\\C[3]Longue Boîte Fine obtenue."
         ]
     },
     "map48": {
@@ -12748,6 +12771,68 @@
         "7-10-message": [
             null,
             "\\.\\C[4](Mince...! Je me suis trompée !)"
+        ],
+        "1-1-message": [
+            "\\C[3]L'atmosphère est vraiment écrasante.",
+            "\\.\\C[4](Non... Cette fois, ce sera différent...\n Rien à voir avec les débats qu'on a eu auparavant...)",
+            "\\.\"Hihihi... Bon, je vais vous répéter les\n règles de base une dernière fois.\"",
+            "\\.\"En tout, vous tiendrez deux votes : le \\C[2]vote\n préliminaire\\C[0] au milieu du débat, et le \\C[2]vote final\\C[0]\n à la fin.\"",
+            "\\.\"5 candidats seront sélectionnés à l'issue du vote\n préliminaire et 1 victime sera désignée au vote\n final.\"",
+            "\\.\"Si la victime choisie est le \\C[2]Maître des Clés\\C[0],\n vous perdez tous et vous mourrez.\"",
+            "\\.\"Si la victime est le \\C[10]Sacrifice\\C[0], le \\C[10]Sacrifice\\C[0] gagne\n et il peut s'échapper avec une personne de son choix.\"",
+            "\\.\"Si la victime est un \\C[4]Roturier\\C[0] ou le \\C[3]Sage\\C[0],\n la victime en question et le \\C[10]Sacrifice\\C[0] mourront.\"",
+            "\\.\"Ah, oui...\n Je vous ai laissé des manuels sur vos sabliers.\n Servez-vous-en comme vos autres objets.\"",
+            "\\.\"Voilà, c'est tout... Hihihi.\n Profitez du temps qu'il vous reste.\"",
+            "\\C[3]Rillante s'assoit tranquillement dans son fauteuil.",
+            "\\.\\C[3]Et... dans un silence morbide...\nLe Jeu Principal commença."
+        ],
+        "3-1-message": [
+            "\\C[3]Le débat est dans une \\C[2]impasse\\C[3], impossible d'atteindre\nun point d'entente...!",
+            "\\.\\C[4](Il faut que je fasse pencher la faveur vers l'un\n des deux côtés... ou on n'avancera jamais !)",
+            "\\.\\C[3]Voulez-vous une explication des Combats d'Équilibre ?\\.",
+            "\\C[3]Deux personnes s'exprimeront en même temps.\nEn \\C[2]confirmant\\C[3] ou \\C[2]niant\\C[3] les propos d'un parti,\nvous pouvez changer leurs avis.",
+            "\\.\\C[3]Si tout se passe bien, l'un des partis pourra\nl'emporter sur l'autre, et le débat pourra continuer.",
+            "\\.\\C[3]Sachez qu'il n'y a pas de temps limite, mais que\nvous êtes toutefois limités dans le nombre\nd'interventions que vous pouvez faire."
+        ],
+        "3-3-message": [
+            "\\C[3]Le débat est dans une impasse, impossible d'atteindre\nun point d'entente...!",
+            "\\.\"Madame Nao, vous tentez d'entraîner dans cette\n affaire autant de personnes que vous le pouvez.\"",
+            "\\.\"C'est faux !!\""
+        ],
+        "4-1-message": [
+            "\\.\\C[4](Argh...!\n Je n'arrive pas à faire pencher la faveur d'un côté !\n Recommençons depuis le début !)"
+        ],
+        "4-3-message": [
+            "\\.\\C[4](Argh...!\n Je n'arrive pas à faire pencher la faveur d'un côté !\n Recommençons depuis le début !)"
+        ],
+        "5-11-message": [
+            "Haa... Haa...",
+            "\\.*Kof, kof...\n\"Je suis épuisé... et je ne me sens pas bien...\"",
+            "\\.\\C[4](Je pense avoir réfuté presque tous ses arguments...)",
+            "\\.\\C[4](Alors... pourquoi...?)",
+            "\\.\"..........\"",
+            "\\.\"..........\"",
+            "\\.\"..........\"",
+            "\\.Kof, kof...",
+            "\\.\\C[4](Pourquoi... leurs expressions sont-elles toutes\n emplies de doute...?)",
+            "\\.\\C[4](Nous n'avons fait... qu'endommager nos confiances.)",
+            "\\.\"Ça suffit...\"",
+            "\\.\"Tu pourrais te calmer, une minute ?\"",
+            "\\.\\C[4](Urgh...!!\n J'ai réussi à contredire la plupart de ses arguments...\n Pourquoi est-ce qu'il est autant indifférent ?!)",
+            "\\.\"..........\"",
+            "\\.\"..........\"",
+            "\\.\"..........\"",
+            "\\.\"On dirait que personne n'est plus sûr de rien.\"",
+            "\\.\\C[4](Le doute... Il nous encercle tous.)",
+            "\\.\\C[4](Sou...!! C'est à cause de toi !!)",
+            "\\.\"H-Hé, vous tous ! Reprenez-vous !\n Douter de Sara, c'est pas la bonne chose à faire !!\"",
+            "\\.\"Vous voulez qu'on meure tous ?!\"",
+            "\\.\"... Hé, tu penses que ce serait quoi, le pire,\n pour vous ?\"",
+            "\\.\"Qu'un gars qui fait confiance à personne comme moi\n soit un traître...? Non.\"",
+            "\\.\"Ce serait plutôt que ce soit Sara... pas vrai ?\"",
+            "\\.\"..........\"",
+            "\\.\"Alors toi, tu vas voir...\"",
+            "\"Oui, aller, votre attention, s'il vous plaît.\""
         ]
     },
     "map110": {
@@ -13118,8 +13203,8 @@
             "\\.\"Miaou... Le vieux...\"",
             "\\.\"Regarde pas, Gin ! Sors de là !\"",
             "\\.\"Putain...!! Merde !! C'quoi ce bordel !!\"",
-            "\\.\"Qui... Qui a voté... pour Monsieur Mishima...?\"",
-            "\\.\"Mais ta gueule, sale mocheté...!!\"",
+            "\\.\"Qui... Qui c'est qui a voté...\n pour Monsieur Mishima...?\"",
+            "\\.\"Mais ta gueule, sale tête de gland...!!\"",
             "\\.\"H-Hein ?!\n Mais... c'est à cause des votes, qu'il est...!\"",
             "\\.\"T'es au courant que c'est possible qu'on ait tous\n voté pour quelqu'un d'autre que nous-même, hein !?\"",
             "\\.\"...!\"",
@@ -13127,25 +13212,25 @@
             "\\.\"Que tout le monde m'écoute.\n ... Essayez pas de deviner les votes des gens.\"",
             "\\.\"Mais...!\"",
             "\\.\"On a voté sans être au courant de rien.\n Personne... avait de mauvaises intentions.\"",
-            "\\.\"Tu vois ce que je veux dire, hein, Sara ?\"",
+            "\\.\"T'es au courant de ça, hein, Sara ?\"",
             "\\.\\C[4](... Je...)",
             "\"... Keiji a raison.\n On ne devrait pas parler des votes, Joe.\"",
             "\\.\"Sara...\"",
             "\\.\"...\"",
             "\\.\"... Bon, d'accord...\"",
-            "\\.\"Juste... J'ai besoin d'être seul, deux minutes...\"",
+            "\\.\"Juste... Laissez-moi tranquille deux minutes...\"",
             "\"... Non, Joe a raison.\n On devrait clarifier nos votes...\"",
             "\\.\"...\"",
             "\\.\"... Mince, alors. De tout le monde ici, je pensais\n bien que tu serais la seule à me comprendre...\"",
             "\\.\"...\"",
-            "\\.\"... Bon, comme vous voulez. Mais pas maintenant.\n On peut pas discuter tranquillement quand on a\n les nerfs.\"",
+            "\\.\"... Bon, comme vous voulez. Mais pas maintenant.\n On peut pas discuter tranquillement quand on est\n sur les nerfs.\"",
             "\\.\"D-D'accord.\n Quand on aura un peu retrouvé nos esprits, alors...\"",
-            "\\.\"Je vais me changer les idées...\n J'ai... besoin d'être seul, deux minutes...\"\"",
+            "\\.\"Je vais me changer les idées...\n Laissez-moi tranquille... deux minutes...\"\"",
             "\"..........\"",
             "\\.\"Sara...\"",
             "\\.\"C'est vrai... Toi aussi, t'as beaucoup à gérer...\"",
-            "\\.\"... Moi aussi... Je vais me changer les idées...\"",
-            "\\.\"Juste... J'ai besoin d'être seul, deux minutes...\"",
+            "\\.\"... Je vais... aller me changer les idées...\"",
+            "\\.\"Juste... Laissez-moi tranquille deux minutes...\"",
             "\\C[3]Joe tituba hors de la salle.",
             "\\C[3]Quant au reste du groupe... ils se sont dispersés.\nCertains sont partis, d'autres sont restés.\\.\\."
         ],
@@ -14339,7 +14424,7 @@
             null,
             null,
             null,
-            null,
+            "<<REMOVE>>",
             null,
             null,
             null,
@@ -19181,7 +19266,7 @@
     },
     "map156": {
         "2-1-message": [
-            null,
+            "\\C[3]L'atmosphère est vraiment écrasante.",
             null,
             "\\.\"...\""
         ],
@@ -19204,6 +19289,12 @@
             null,
             null,
             "\\.\"...\""
+        ],
+        "6-1-message": [
+            "\\C[3]Le débat est dans une impasse, impossible d'atteindre\nun point d'entente...!"
+        ],
+        "7-1-message": [
+            "\\.\\C[4](Argh...!\n Je n'arrive pas à faire pencher la faveur d'un côté !\n Recommençons depuis le début !)"
         ]
     },
     "map159": {
@@ -20483,6 +20574,11 @@
             null,
             "\"..........\"",
             "\"..........\""
+        ]
+    },
+    "map220": {
+        "3-1-message": [
+            "\\C[3]L'atmosphère est vraiment écrasante."
         ]
     }
 }
