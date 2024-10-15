@@ -3,7 +3,7 @@
   "type": "module",
   "version": "0.0.1",
   "scripts": {
-    "dev": "COMMIT_HASH=`git rev-parse HEAD` astro dev",
+    "dev": "COMMIT_HASH=dev astro dev",
     "start": "astro dev",
     "build": "astro check && astro build",
     "preview": "astro build && astro preview",
@@ -12,11 +12,14 @@
   "dependencies": {
     "@astrojs/check": "^0.9.4",
     "@astrojs/sitemap": "^3.2.0",
+    "@astrojs/vue": "^4.5.2",
     "@fontsource-variable/handjet": "^5.0.6",
     "@fontsource/poppins": "^5.0.15",
     "@phosphor-icons/web": "^2.1.1",
     "astro": "^4.16.2",
+    "lz-string": "^1.5.0",
     "sass": "^1.77.8",
-    "typescript": "^5.5.4"
+    "typescript": "^5.5.4",
+    "vue": "^3.5.12"
   }
 }
