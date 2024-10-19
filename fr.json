@@ -12743,21 +12743,48 @@
             "\\.\\C[4](...!!)",
             "\\.\"... Euh, héhém... Hé, Sara.\n\\! Ton ami le policier est à tes côtés.\"",
             "\\.\\C[4](... Keiji...!)",
-            "\\.\"Vous tous, écoutez-moi.\n On doit sélectionner juste une personne.\""
+            "\\.\"Vous tous, écoutez-moi.\n On doit sélectionner juste une personne.\"",
+            "\\.\"Mettez votre compassion et vos rancunes de côté.\n Gardez seulement les \\C[2]rôles\\C[0] en tête.\"",
+            "\\.\"Si on choisit le \\C[2]Maître des Clés\\C[0] ou le \\C[10]Sacrifice\\C[0],\n on meurt tous...\"",
+            "\\.\"O-Oui, en effet !!\n En réalité, nous ne sommes pas du tout encore sortis\n d'affaire !!\"",
+            "\\.\"Oh ! Hé, on aurait pas un \\C[3]Sage\\C[0] ?!\"",
+            "\\.\"Si le \\C[3]Sage\\C[0] a pas été sélectionné, il peut nous dire\n qui est le vrai \\C[2]Maître des Clés\\C[0] sans se mettre\n en danger...!\"",
+            "\\.\\C[3]....................",
+            "\\.\"Me dites pas... Qu'il y en a pas, miaou...?!\"",
+            "\\.\"C'pourrait pas être pire...!!\n C'quelqu'un parmi les cinq ?!\"",
+            "\\.\"Tant pis...\n Il y a plus qu'une seule chose à faire.\"",
+            "\\.\"Les cinq vont devoir se justifier d'eux-mêmes.\n ... T'en penses quoi, Sara ?\"",
+            "\\.\\C[4](..........)",
+            "\"C'est parfait.\"",
+            "\\.\"Je vous montrerai qui est le vrai Maître des Clés !!\"",
+            "\\.\"... Bon.\"",
+            "\\.\"Rappelle-toi des mots et des actes des gens...\n C'est ce qui trace le chemin vers la victoire.\"",
+            "\\.\"Hiihiihii... Les dernières 20 minutes...\n Employez ce temps interminablement court à bon escient.\"",
+            "\\.\"Je serai en train de prier... pour que vous ne mourrez\n pas tous. Ahihi.\"",
+            "\\.\\C[3]Miley se rassoit tranquillement dans son fauteuil.",
+            "\\.\\C[3]C'est l'heure du combat final...!"
         ],
         "6-1-message": [
-            null,
-            null,
-            null,
-            null,
-            "\\.\\C[4](Ça n'a pas marché...!)"
+            "\"On ne le sait pas encore !!\"",
+            "\\.\"Hein ? Tu continues de le défendre malgré les emails ?\n Sara, t'es clairement...\"",
+            "\\.\"N-Non, c'est pas ça !!\"",
+            "\\.\"Hmm, je suis pas convaincu.\n Tu devrais y réfléchir plus calmement, Sara.\"",
+            "\\.\\C[4](Ça n'a pas marché...!)",
+            "\"Et si ces emails n'étaient qu'un autre de tes mensonges,\n Sou ?\"",
+            "\\.\"Ahahah, tu dois vraiment avoir envie de me traiter\n de menteur.\"",
+            "\\.\"Si tu ne veux pas y croire, pourquoi ne pas juste\n arrêter de m'écouter ? Je continuerai de raconter\n ce que je veux.\"",
+            "\\.\\C[4](Grr...! Il faut que je le batte à son propre jeu ou il\n ne la fermera pas...!)",
+            "\"Attends une minute ! Non !\n Où est ta preuve que je suis avec eux ?!\"",
+            "\\.\"De la manière dont c'était formulé, j'en ai conclu que-\"",
+            "\\.\"Donc c'est juste une hypothèse ! Rien d'autre !!\"",
+            "\\.\"... Hmph... Je vois.\""
         ],
         "6-3-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\"Sou, tout à l'heure, t'as dit qu'ils ont tous été\n envoyés à des adresses mail différentes !\"",
+            "\\.\"Et alors ?\"",
+            "\\.\"Dire qu'ils ont tous été reçus par une seule et même\n personne, c'est juste une supposition !\"",
+            "\\.\"Je suis plutôt sûr de moi, pour le coup.\n ... Mais bon, je n'ai pas vraiment de preuves.\"",
+            "\\.\"En tout cas... Moi, j'y crois.\"",
             null,
             null,
             "\\.\\C[4](Ça n'a pas marché...!)",
@@ -12931,6 +12958,9 @@
         ],
         "5-11-choice": [
             "Je suis le Maître des Clés\nNe rien dire"
+        ],
+        "5-13-choice": [
+            "Oui"
         ]
     },
     "map110": {
