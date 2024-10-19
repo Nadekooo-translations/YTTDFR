@@ -38,8 +38,8 @@ jobs:
           sed -i 's/"LanguageCodes":"\[/"LanguageCodes":"[\\"FR\\",/' yttd/www/js/plugins.js
           sed -i 's/"DefaultLanguage":"EN"/"DefaultLanguage":"FR"/' yttd/www/js/plugins.js
 
-      - name: Patching Animations.json
-        run: node tools/apply-animation-patch.mjs
+      #- name: Patching Animations.json # FIXME
+      #  run: node tools/apply-animation-patch.mjs
 
       - name: Patching images
         run: node tools/crypt.js
