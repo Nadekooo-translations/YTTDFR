@@ -65,7 +65,7 @@ jobs:
           - platform: osx-arm64
             archive_ext: zip
     env:
-      NWJS_VERSION: v0.91.0
+      NWJS_VERSION: v0.92.0
     steps:
       # GHA can't self-reference a single envvar map https://stackoverflow.com/a/75433159
       - run: |
