@@ -128,7 +128,7 @@
             "\\C[3]Le portrait d'une personne tenant un pistolet.\nIl y a une autre peinture au dos."
         ],
         "10-1-message": [
-            "\\C[3]Un bouchon trouvé au fond du bassin.\nIl est petit et lourd."
+            "\\C[3]Un bouchon trouvé dans un des bassins.\nIl est petit et lourd."
         ],
         "45-1-message": [
             "\\C[3]Le portrait d'une personne tenant un pistolet."
@@ -218,7 +218,7 @@
             "\\C[3]Le portrait d'une personne tenant un pistolet.\nIl y a une autre peinture au dos."
         ],
         "7-1-message": [
-            "\\C[3]Un bouchon trouvé au fond du bassin.\nIl est petit et lourd."
+            "\\C[3]Un bouchon trouvé dans un des bassins.\nIl est petit et lourd."
         ],
         "20-1-message": [
             "\\C[3]Le portrait d'une personne tenant un pistolet."
@@ -401,7 +401,7 @@
         "glossaryhelp": "Sélectionnez un objet.",
         "itemdesc51": "La clé de la cuisine.",
         "itemdesc53": "Une poupée qui me ressemble remarquablement.",
-        "itemdesc55": "Un bouchon trouvé au fond d'un bain.\\nLourd mais petit.",
+        "itemdesc55": "Un bouchon trouvé dans un des bassins.\\nIl est petit et lourd.",
         "itemdesc57": "Le portrait d'une personne tenant un pistolet.",
         "itemdesc63": "Une ampoule pour illuminer une pièce.",
         "itemdesc65": "La fleur d'un vase.",
@@ -2003,7 +2003,7 @@
             "\\C[3]Une poupée qui me ressemble remarquablement."
         ],
         "9-1-message": [
-            "\\C[3]Un bouchon trouvé au fond du bassin.\nIl est petit et lourd."
+            "\\C[3]Un bouchon trouvé dans un des bassins.\nIl est petit et lourd."
         ],
         "21-1-message": [
             "\\C[3]Le portrait d'une personne tenant un pistolet.\nIl y a une autre peinture au dos."
@@ -3441,7 +3441,7 @@
             "\\C[3]Une poupée qui me ressemble remarquablement."
         ],
         "7-1-message": [
-            "\\C[3]Un bouchon trouvé au fond du bassin.\nIl est petit et lourd."
+            "\\C[3]Un bouchon trouvé dans un des bassins.\nIl est petit et lourd."
         ],
         "25-1-message": [
             "\\C[3]Le portrait d'une personne tenant un pistolet.\nIl y a une autre peinture au dos."
@@ -3534,7 +3534,7 @@
             "\\C[3]Un vaporisateur.\nDes gouttelettes d'eau y sont collées."
         ],
         "32-3-message": [
-            "\\C[3]Un bouchon trouvé au fond du bassin.\nIl est petit et lourd."
+            "\\C[3]Un bouchon trouvé dans un des bassins.\nIl est petit et lourd."
         ],
         "31-3-message": [
             "\\C[3]Le portrait d'une personne tenant un pistolet.\nIl y a une autre peinture au dos."
@@ -3550,6 +3550,31 @@
         ],
         "98-1-message": [
             "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
+        ],
+        "1-1-message": [
+            "\\C[3]Il y a un trou dans le plafond.\nOn peut y insérer quelque chose à l'intérieur.",
+            "\"Je me demande si...\"",
+            "\\.\"Porte-moi sur ton dos, s'il te plaît.\"",
+            "\\.\"Ouais, ça me semble logique.\"",
+            "\\C[3]L'Ampoule a été insérée.",
+            "\\.\"C'est bien. Bon garçon.\"",
+            "\\.\"... Monsieur le Policier est pas un chien.\""
+        ],
+        "2-1-message": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\C[3]Ampoule obtenue.",
+            "\\.\"Merci beaucoup.\"",
+            "\\.\"Ouais, ouais.\""
+        ],
+        "3-1-message": [
+            "\\C[3]L'ampoule émet une douce lueur."
+        ],
+        "1-2-message": [
+            "\\C[3]L'ampoule émet une douce lueur."
         ]
     },
     "map23": {
@@ -3844,7 +3869,7 @@
             "~ Résultats ~",
             "\\.\\C[2]Plus voté : Mishima, 4 votes",
             "\\.\\C[2]Plus voté : Mishima, 3 votes",
-            "\"Voyez-vous cela, il semblerait que ce vote soit\n particulièrement inégal.\"",
+            "\"Voyez-vous cela... il semblerait que les résultats\n de ce vote soient particulièrement inégaux.\"",
             "\"Hm... Il s'agit donc d'une tablette de vote...\"",
             "\\.\"Ahaha. As-tu quoi que ce soit d'autre à ajouter ?\"",
             "\\.\"... Si vous étiez humaine, je suppose que j'aurais\n dit quelque chose comme 'Cessez cela, si vous\n avez un cœur.'\"",
@@ -4063,7 +4088,7 @@
             "\\C[3]Le portrait d'une personne tenant un pistolet.\nIl y a une autre peinture au dos."
         ],
         "12-1-message": [
-            "\\C[3]Un bouchon trouvé au fond du bassin.\nIl est petit et lourd."
+            "\\C[3]Un bouchon trouvé dans un des bassins.\nIl est petit et lourd."
         ],
         "14-1-message": [
             "\\C[3]Le portrait d'une personne tenant un pistolet."
@@ -4180,7 +4205,7 @@
             "\\.\"Pas de problème.\""
         ],
         "6-1-message": [
-            "\\C[3]Un bouchon trouvé au fond du bassin.\nIl est petit et lourd."
+            "\\C[3]Un bouchon trouvé dans un des bassins.\nIl est petit et lourd."
         ],
         "9-1-message": [
             "\\C[3]Le portrait d'une personne tenant un pistolet."
@@ -4352,7 +4377,7 @@
             "\\C[3]Une poupée qui me ressemble remarquablement."
         ],
         "8-1-message": [
-            "\\C[3]Un bouchon trouvé au fond du bassin.\nIl est petit et lourd."
+            "\\C[3]Un bouchon trouvé dans un des bassins.\nIl est petit et lourd."
         ],
         "39-1-message": [
             "\\C[3]Le portrait d'une personne tenant un pistolet.\nIl y a une autre peinture au dos."
@@ -4487,7 +4512,7 @@
             "\\C[3]Une poupée qui me ressemble remarquablement."
         ],
         "5-1-message": [
-            "\\C[3]Un bouchon trouvé au fond du bassin.\nIl est petit et lourd."
+            "\\C[3]Un bouchon trouvé dans un des bassins.\nIl est petit et lourd."
         ],
         "6-1-message": [
             "\\C[3]Le portrait d'une personne tenant un pistolet.\nIl y a une autre peinture au dos."
@@ -4546,7 +4571,7 @@
             "\\C[3]Une poupée qui me ressemble remarquablement."
         ],
         "8-1-message": [
-            "\\C[3]Un bouchon trouvé au fond du bassin.\nIl est petit et lourd."
+            "\\C[3]Un bouchon trouvé dans un des bassins.\nIl est petit et lourd."
         ],
         "10-1-message": [
             "\\C[3]Le portrait d'une personne tenant un pistolet.\nIl y a une autre peinture au dos."
@@ -4665,7 +4690,7 @@
             "\\C[3]Une poupée qui me ressemble remarquablement."
         ],
         "7-1-message": [
-            "\\C[3]Un bouchon trouvé au fond du bassin.\nIl est petit et lourd."
+            "\\C[3]Un bouchon trouvé dans un des bassins.\nIl est petit et lourd."
         ],
         "10-1-message": [
             "\\C[3]Le portrait d'une personne tenant un pistolet.\nIl y a une autre peinture au dos."
@@ -4763,7 +4788,7 @@
             "\\C[3]Un vaporisateur.\nDes gouttelettes d'eau y sont collées."
         ],
         "36-1-message": [
-            "\\C[3]Un bouchon trouvé au fond du bassin.\nIl est petit et lourd."
+            "\\C[3]Un bouchon trouvé dans un des bassins.\nIl est petit et lourd."
         ],
         "72-1-message": [
             "\\C[3]Le portrait d'une personne tenant un pistolet.\nIl y a une autre peinture au dos."
@@ -5083,12 +5108,16 @@
             "\\.\\C[3]Ou plutôt... J'essayais de l'oublier.",
             "\\.\\C[4](La Seconde Épreuve...\n Le vote qui a tué Monsieur Mishima.)",
             "\\.\\C[4](Sans compter mon voix...\n Mishima a reçu 3 votes, Sou et Nao en ont reçu 0\n et tous les autres ont eu 1 vote chacun.)",
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\"...\""
+            "\\.\\C[4](Mais, il ne faut pas oublier...\n Qu'on ne savait pas que nos voix importaient.)",
+            "\\.\"... Vois-tu...\"",
+            "\\.\"J'ai voté pour Joe.\"",
+            "\\.\\C[4](...!!)",
+            "\\.\"... Tu comprends... ce que ça signifie ?\"",
+            "\\.\"...\"",
+            "\\.\"... Désolé.\n Ça doit te dérouter...\"",
+            "\\.\"Moi, j'y vais.\n On se revoit plus tard...\"",
+            "\\.\\C[4](..........)",
+            "\\.\\C[4](... Joe n'a pas voté pour lui-même...?)"
         ],
         "4-1-message": [
             "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles."
@@ -5106,7 +5135,7 @@
             "\\C[3]Une poupée qui me ressemble remarquablement."
         ],
         "7-1-message": [
-            "\\C[3]Un bouchon trouvé au fond du bassin.\nIl est petit et lourd."
+            "\\C[3]Un bouchon trouvé dans un des bassins.\nIl est petit et lourd."
         ],
         "25-1-message": [
             "\\C[3]Le portrait d'une personne tenant un pistolet.\nIl y a une autre peinture au dos."
@@ -5154,6 +5183,32 @@
             "\\.\"Oh, je sais ! Gin !\n Ça te dit que je te porte sur mon dos ?\"",
             "\\.\"Quoi...?!\n Non, c'est MOI qui vais le porter sur mon dos !\"",
             "\\.\"Pourquoi est-ce qu'on se bat...?\""
+        ],
+        "2-5-choice": [
+            "Je vais bien\nJ'ai besoin d'une pause",
+            "Joe est mon meilleur ami\nJoe n'est qu'un camarade de classe"
+        ],
+        "3-1-message": [
+            "\\C[3]D'épaisses barres en fer bloquent le passage."
+        ],
+        "3-2-message": [
+            "\"On peut pas passer à cause de ces barreaux...\"",
+            "\\.\\C[4](Miley... C'est ici qu'elle a disparu ?)"
+        ],
+        "3-3-message": [
+            "\\C[3]La voie est libre..."
+        ],
+        "50-1-message": [
+            "\\C[3]Une porte \"Mir\"."
+        ],
+        "66-1-message": [
+            "\\C[3]Des escaliers qui mènent directement au\nrez-de-chaussée."
+        ],
+        "42-1-message": [
+            "\\C[3]Une porte \"Ro\"."
+        ],
+        "58-1-message": [
+            "\\C[3]Une porte \"Sp\" jaune."
         ]
     },
     "map46": {
@@ -5161,8 +5216,9 @@
             "\\C[3]Un briquet Zippo chic."
         ],
         "43-1-message": [
-            null,
-            "\\.\\}\\C[5]\"j'suis pas un pingouin...\""
+            "\\C[3]Une statue de ce qui semble être un pingouin.",
+            "\\.\\}\\C[5]\"j'suis pas un pingouin...\"",
+            "\\.\\C[3]...?"
         ],
         "3-1-message": [
             "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles."
@@ -5180,7 +5236,7 @@
             "\\C[3]Une poupée qui me ressemble remarquablement."
         ],
         "33-1-message": [
-            "\\C[3]Un bouchon trouvé au fond du bassin.\nIl est petit et lourd."
+            "\\C[3]Un bouchon trouvé dans un des bassins.\nIl est petit et lourd."
         ],
         "34-1-message": [
             "\\C[3]Le portrait d'une personne tenant un pistolet.\nIl y a une autre peinture au dos."
@@ -5208,6 +5264,36 @@
         ],
         "73-1-message": [
             "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
+        ],
+        "2-1-message": [
+            "\\.\\C[4](Elle n'est pas là...!)"
+        ],
+        "2-4-message": [
+            "\\.\"... C'est un spa.\"",
+            "\\.\"Nos malfaiteurs nous proposent des services de luxe.\"",
+            "\\.\"C'est vrai. Avec autant d'eau, on a de quoi faire\n pendant des jours.\"",
+            "\\.\"... Ça pourrait être la fin du monde que tu\n resterais optimiste, Sara.\""
+        ],
+        "6-1-message": [
+            "\\C[3]Le spa est rempli d'eau chaude.",
+            "\\C[3]Elle est déjà pleine.",
+            "\\C[3]La Bouteille est maintenant remplie d'eau chaude.",
+            "\\C[4](Pour l'instant...! Il faut que je résiste...! Urgh...)"
+        ],
+        "47-1-message": [
+            "\\C[3]Une élégante peinture du Mont Fuji."
+        ],
+        "61-1-message": [
+            "\\C[3]Il y a un petit sauna plongé dans le noir.\nIl n'est pas chaud."
+        ],
+        "64-1-message": [
+            "\\C[3]Une rangée de miroirs."
+        ],
+        "63-1-message": [
+            "\\C[3]Malgré l'absence de douche, il y a des shampoings\net des savons posés ici."
+        ],
+        "6-1-choice": [
+            "Remplir la Bouteille\nJ'ai envie de faire un plongeon...\nAnnuler"
         ]
     },
     "map47": {
@@ -5215,8 +5301,9 @@
             "\\C[3]Un briquet Zippo chic."
         ],
         "41-1-message": [
-            null,
-            "\\.\\}\\C[5]\"j'suis pas un pingouin...\""
+            "\\C[3]Une statue de ce qui semble être un pingouin.",
+            "\\.\\}\\C[5]\"j'suis pas un pingouin...\"",
+            "\\.\\C[3]...?"
         ],
         "4-1-message": [
             "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles."
@@ -5234,7 +5321,7 @@
             "\\C[3]Une poupée qui me ressemble remarquablement."
         ],
         "8-1-message": [
-            "\\C[3]Un bouchon trouvé au fond du bassin.\nIl est petit et lourd."
+            "\\C[3]Un bouchon trouvé dans un des bassins.\nIl est petit et lourd."
         ],
         "32-1-message": [
             "\\C[3]Le portrait d'une personne tenant un pistolet.\nIl y a une autre peinture au dos."
@@ -5262,6 +5349,40 @@
         ],
         "71-1-message": [
             "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
+        ],
+        "57-1-message": [
+            "\\C[3]Une élégante peinture du Mont Fuji."
+        ],
+        "2-4-message": [
+            "\\.\"... C'est un spa.\"",
+            "\\.\"Nos malfaiteurs nous proposent des services de luxe.\"",
+            "\\.\"C'est vrai. Avec autant d'eau, on a de quoi faire\n pendant des jours.\"",
+            "\\.\"... Ça pourrait être la fin du monde que tu\n resterais optimiste, Sara.\""
+        ],
+        "7-1-message": [
+            "\\C[3]Le spa est rempli d'eau chaude.",
+            "\\C[3]Elle est déjà pleine.",
+            "\\C[3]La Bouteille est maintenant remplie d'eau chaude.",
+            "\\C[4](Pour l'instant...! Il faut que je résiste...! Urgh...)"
+        ],
+        "7-1-choice": [
+            "Remplir la Bouteille\nJ'ai envie de faire un plongeon...\nAnnuler"
+        ],
+        "2-1-message": [
+            "\\.\\C[4](Elle n'est pas là...!)"
+        ],
+        "3-2-message": [
+            "\\C[3]Il y a quelque chose au fond du spa.",
+            "\\.\\C[3]Bouchon obtenu."
+        ],
+        "55-1-message": [
+            "\\C[3]Il y a un petit sauna plongé dans le noir.\nIl n'est pas chaud."
+        ],
+        "45-1-message": [
+            "\\C[3]Malgré l'absence de douche, il y a des shampoings\net des savons posés ici."
+        ],
+        "46-1-message": [
+            "\\C[3]Une rangée de miroirs."
         ]
     },
     "map49": {
@@ -5326,7 +5447,7 @@
             "\\C[3]Une poupée qui me ressemble remarquablement."
         ],
         "9-1-message": [
-            "\\C[3]Un bouchon trouvé au fond du bassin.\nIl est petit et lourd."
+            "\\C[3]Un bouchon trouvé dans un des bassins.\nIl est petit et lourd."
         ],
         "19-1-message": [
             "\\C[3]Le portrait d'une personne tenant un pistolet."
@@ -5396,7 +5517,7 @@
             "\\C[3]Une poupée qui me ressemble remarquablement."
         ],
         "8-1-message": [
-            "\\C[3]Un bouchon trouvé au fond du bassin.\nIl est petit et lourd."
+            "\\C[3]Un bouchon trouvé dans un des bassins.\nIl est petit et lourd."
         ],
         "9-1-message": [
             "\\C[3]Le portrait d'une personne tenant un pistolet.\nIl y a une autre peinture au dos."
@@ -5453,7 +5574,7 @@
             "\\C[3]Une poupée qui me ressemble remarquablement."
         ],
         "33-1-message": [
-            "\\C[3]Un bouchon trouvé au fond du bassin.\nIl est petit et lourd."
+            "\\C[3]Un bouchon trouvé dans un des bassins.\nIl est petit et lourd."
         ],
         "45-1-message": [
             "\\C[3]Le portrait d'une personne tenant un pistolet.\nIl y a une autre peinture au dos."
@@ -5503,7 +5624,7 @@
             "\\C[3]Une poupée qui me ressemble remarquablement."
         ],
         "6-1-message": [
-            "\\C[3]Un bouchon trouvé au fond du bassin.\nIl est petit et lourd."
+            "\\C[3]Un bouchon trouvé dans un des bassins.\nIl est petit et lourd."
         ],
         "8-1-message": [
             "\\C[3]Le portrait d'une personne tenant un pistolet.\nIl y a une autre peinture au dos."
@@ -12321,6 +12442,15 @@
         ],
         "218-0-choice": [
             "Il pouvait le contourner\nIl voulait la batterie\nLe mot de passe était simple"
+        ],
+        "126-0-message": [
+            null,
+            null,
+            null,
+            "\\.\"Voyez-vous, je suis le \\C[2]Maître des Clés\\C[0].\""
+        ],
+        "177-0-message": [
+            "\\.\"Voyez-vous, je suis le \\C[2]Maître des Clés\\C[0].\""
         ]
     },
     "map107": {
@@ -12849,13 +12979,13 @@
             "\"Attends un peu !\n Le prénom de Joe n'était même pas dans les emails !\"",
             "\\.\"Si tu pars du principe que c'est lui, c'est que tu\n fais n'importe quoi et que tu tires tes conclusions\n beaucoup trop tôt !\"",
             "\\.\"Tu aimes vraiment insulter les gens, hein, Sara ?\"",
-            "\\.\"Mais bon... Je l'admets, j'imagine.\"",
+            "\\.\"Mais bon... Je l'admets, tu as raison, j'imagine.\"",
             "\\.\"Cela dit, ce n'est pas pour autant que je vais te\n laisser t'en tirer comme ça.\"",
             "\"P-Peut-être qu'il parlait d'autre chose !\n De jeux vidéos, de sports !\"",
             "\\.\"Ahahah, tu pourrais continuer la liste à l'infini,\n mais...\"",
             "\\.\"... Au début, il est écrit qu'ils parlent de Démocratie\n Mortelle. Logique de partir du principe qu'ils parlent\n de ça, non ?\"",
             "\"M-Mais même...!\"",
-            "\\.\"Ahahah, ouiiii ? Je ne t'entends pas ?\"",
+            "\\.\"Ahahah, ouiiii ? Je ne t'entends pas.\"",
             "\\.\\C[4](Ça n'a pas marché...!)",
             "\"Arrête de faire comme si je m'amusais, ici !\"",
             "\\.\"La raison pour laquelle tu participes à ce jeu,\n c'est parce que tu étais impatiente d'y jouer, non ?\"",
@@ -20582,7 +20712,7 @@
         ]
     },
     "items-54": {
-        "description": "Un bouchon trouvé au fond du bassin.\nIl est petit et lourd.",
+        "description": "Un bouchon trouvé dans un des bassins.\nIl est petit et lourd.",
         "name": "Bouchon"
     },
     "items-60": {
