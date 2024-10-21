@@ -46,7 +46,7 @@
             "\\.\"Écoute, quelqu'un devra bien examiner Mishima.\n J'ai pas raison ?\"",
             "\\.\"Et même moi, je suis pas un sergent, je vais pas\n demander à quelqu'un d'autre de le faire.\"",
             "\\.\"... Pas besoin d'épuiser quelqu'un d'autre,\n puisqu'il se trouve qu'on a un pro parmi nous.\"",
-            "\\.\"... Bah, ouais.\"",
+            "\\.\"... Ouais, je pense pas non plus.\"",
             "\\.\"C'est dur, mais il faut bien que quelqu'un le fasse...\n Et il se trouve que je suis un pro.\"",
             "\\.\"... Par contre c'est la première fois que j'examine\n un corps à qui j'avais parlé.\"",
             "\\.\"..........\"",
@@ -3659,7 +3659,7 @@
             "\\.\\C[4](Je devrais d'abord résoudre les autres énigmes\n de cette salle. Je ferai le miroir en dernier.)"
         ],
         "13-1-message": [
-            null,
+            "\\C[3]Le miroir brumeux me reflète vaguement.",
             "\\.\\C[4](Je devrais reculer la poupée de manière à\n ce que le miroir reflète son corps en entier.)",
             "\\.\\C[3]La Réplique de Sara a été placée devant le miroir.",
             "\\.\\C[4](Pour que les deux miroirs reflètent la même chose,\n il me faudrait une sœur jumelle ou une réplique de\n moi-même...)",
@@ -3684,32 +3684,43 @@
             "\\C[3]La réflexion de la poupée est floue."
         ],
         "10-3-message": [
-            "\\C[3]La peinture d'une main tenant un pistolet."
+            "\\C[3]La peinture d'une main tenant un pistolet.",
+            "\\.\\C[4](Il y a une autre peinture au dos, aussi.)",
+            "\\C[3]Peinture Orientée vers la Droite obtenue."
         ],
         "10-4-message": [
-            "\\C[3]La peinture d'une main tenant un pistolet."
+            "\\C[3]La peinture d'une main tenant un pistolet.",
+            "\\.\\C[4](Il y a une peinture au recto, aussi.)",
+            "\\C[3]Peinture Orientée vers la Droite obtenue."
         ],
         "10-5-message": [
             "\\C[3]La peinture d'une main tenant un pistolet."
         ],
         "10-1-message": [
             "\\C[3]La peinture d'une main tenant un pistolet.",
-            "\\.\\C[4](Il n'y a rien au dos...)"
+            "\\.\\C[4](Il n'y a rien au dos...)",
+            "\\C[3]Portrait Orienté vers la Gauche obtenu."
         ],
         "12-1-message": [
-            "\\C[3]La peinture d'une main tenant un pistolet."
+            "\\C[3]La peinture d'une main tenant un pistolet.",
+            "\\.\\C[4](Il y a une autre peinture au dos, aussi.)",
+            "\\C[3]Peinture Orientée vers la Droite obtenue."
         ],
         "12-2-message": [
-            "\\C[3]La peinture d'une main tenant un pistolet."
+            "\\C[3]La peinture d'une main tenant un pistolet.",
+            "\\.\\C[4](Il y a une peinture au recto, aussi.)",
+            "\\C[3]Peinture Orientée vers la Droite obtenue."
         ],
         "12-4-message": [
-            "\\C[3]La peinture d'une main tenant un pistolet."
+            "\\C[3]La peinture d'une main tenant un pistolet.",
+            "\\.\\C[4](Il n'y a rien au dos...)",
+            "\\C[3]Portrait Orienté vers la Gauche obtenu."
         ],
         "12-5-message": [
             "\\C[3]La peinture d'une main tenant un pistolet."
         ],
         "13-2-message": [
-            null,
+            "\\C[3]Le miroir brumeux me reflète vaguement.",
             "\\C[3]Je me positionne en face du miroir.",
             "\\.\\C[4](Tout devrait être symétrique, maintenant...)",
             "\\.\\C[3]Quelque chose a changé dans une des autres salles.",
@@ -3725,6 +3736,75 @@
         ],
         "13-3-message": [
             "\\C[3]La réflexion de la poupée est floue."
+        ],
+        "10-1-choice": [
+            "Prendre la peinture\nAnnuler"
+        ],
+        "10-2-message": [
+            "\\C[3]C'est là qu'était accrochée la peinture\nd'une personne tenant un pistolet.",
+            "\\.\\C[4](Aller, je mets cette peinture ici.)",
+            "\\C[3]Peinture Orientée vers la Droite accrochée.",
+            "\\.\\C[4](Aller, je mets cette peinture ici.)",
+            "\\C[3]Peinture Orientée vers la Gauche accrochée."
+        ],
+        "10-3-choice": [
+            "Retourner la peinture\nPrendre la peinture\nAnnuler"
+        ],
+        "10-4-choice": [
+            "Retourner la peinture\nPrendre la peinture\nAnnuler"
+        ],
+        "11-1-message": [
+            "\\C[3]Il y a assez d'espace pour accrocher\nquelque chose au mur, ici.",
+            "\\C[3]La peinture a été accrochée au mur.",
+            "\\C[4](Il y a une peinture de l'autre côté, donc...)"
+        ],
+        "12-4-choice": [
+            "Prendre la peinture\nAnnuler"
+        ],
+        "12-3-message": [
+            "\\C[3]C'est là qu'était accrochée la peinture\nd'une personne tenant un pistolet.",
+            "\\.\\C[4](Aller, je mets cette peinture ici.)",
+            "\\C[3]Peinture Orientée vers la Gauche accrochée.",
+            "\\.\\C[4](Aller, je mets cette peinture ici.)",
+            "\\C[3]Peinture Orientée vers la Droite accrochée."
+        ],
+        "12-1-choice": [
+            "Retourner la peinture\nPrendre la peinture\nAnnuler"
+        ],
+        "12-2-choice": [
+            "Retourner la peinture\nPrendre la peinture\nAnnuler"
+        ],
+        "11-2-message": [
+            "\\C[3]Le portrait d'un homme tourné vers la gauche."
+        ],
+        "11-3-message": [
+            "\\C[3]L'homme dans la peinture s'est fait descendre."
+        ],
+        "13-4-message": [
+            "\\C[3]Le miroir brumeux me reflète vaguement."
+        ],
+        "15-1-message": [
+            "\\C[3]Un vaporisateur contenant un liquide inconnu.",
+            "\\C[3]Vaporisateur obtenu."
+        ],
+        "29-1-message": [
+            "\\C[3]Un vaporisateur contenant un liquide inconnu.",
+            "\\C[3]Vaporisateur obtenu."
+        ],
+        "24-2-message": [
+            "\\C[4](...!)"
+        ],
+        "26-1-message": [
+            "\\.\\C[4](Qu'est-ce que c'est que cette salle...?!)",
+            "\\.\\C[4](... Plus tard.\n Pour l'instant, ma priorité, c'est de retrouver Nao.)"
+        ],
+        "26-4-message": [
+            "\\.\"... Deux salles symétriques, hein...\"",
+            "\\.\"Ça m'a l'air d'être ton genre de puzzle, ça, Sara.\"",
+            "\\.\"Et si... c'était une autre piège, miaou...\"",
+            "\\.\"On devrait faire gaffe.\"",
+            "\\.\"Je ne pense pas que Nao soit ici...\"",
+            "\\.\"... Ouais, je pense pas non plus.\""
         ]
     },
     "map23": {
@@ -12601,6 +12681,9 @@
         ],
         "177-0-message": [
             "\\.\"Voyez-vous, je suis le \\C[2]Maître des Clés\\C[0].\""
+        ],
+        "1104-0-message": [
+            "\\C[4](...!)"
         ]
     },
     "map107": {
@@ -15582,7 +15665,7 @@
             null,
             null,
             null,
-            null,
+            "",
             null,
             null,
             null,
@@ -17034,7 +17117,7 @@
             null,
             null,
             null,
-            null,
+            "\\C[4](...!)",
             null,
             null,
             null,
@@ -17072,7 +17155,7 @@
             null,
             null,
             null,
-            null,
+            "\\C[4](...!)",
             null,
             null,
             null,
