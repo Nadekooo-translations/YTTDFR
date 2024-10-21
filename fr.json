@@ -31,13 +31,13 @@
             "\\.\"... Il porte un collier.\"",
             "\\.\\C[4](Un collier...!)",
             "\\.\"... Ce serait sympa.\n Mais en tant que gentil policier du coin,\n je me méfie du fait qu'on l'ait pas vu plus tôt.\"",
-            "\\.\\C[4](C'est vrai...\n Était-il dans la Salle Rouge depuis tout ce temps ?)",
+            "\\.\\C[4](C'est vrai...\n Il était dans la Salle Rouge depuis tout ce temps ?)",
             "\\.\"Ahh, rien t'échappes, Sara.\"",
             "\\.\"... On va le restreindre avec ce qu'on a sous la main.\"",
             "\\.\\C[4](Difficile de savoir ce qu'il lui ait arrivé\n tant qu'il ne reprend pas connaissance...)",
             "\\.\"Tant qu'il bouge pas, ça devrait aller.\n Quand il aura repris ses esprits, on le\n questionnera tranquillement.\"",
             "\\.\\C[4](...)",
-            "\\.\\C[3]Légèrement soulagée, mon attention se\ntourna inévitablement vers le reste de la salle.",
+            "\\.\\C[3]Légèrement soulagée, mon attention se tourna\ninévitablement vers ce qu'il se passait de l'autre côté.",
             "\\.\"Euhh... Keiji.\n Nao et Gin, ils sont encore...?\"",
             "\\.\"... Ouais.\n Comme toujours.\"",
             "\\.\"Ils ont pas bougé d'un centimètre.\n ... C'est dur à regarder, en plus.\"",
@@ -107,7 +107,7 @@
             "\"...\"",
             "\\.\"Gin, je sais ce que tu ressens, mais tu ne devrais\n pas rester là...\"",
             "\\.\"... J-Juste encore un peu, miaou...\"",
-            "\\.\"C'était pas pendant longtemps... mais...\n On a fait des recherches ensemble, ouaf...\"",
+            "\\.\"Ça a pas duré longtemps... mais...\n On a traîné ensemble, ouaf...\"",
             "\\.\\C[4](Gin...)"
         ],
         "8-1-choice": [
@@ -3805,6 +3805,15 @@
             "\\.\"On devrait faire gaffe.\"",
             "\\.\"Je ne pense pas que Nao soit ici...\"",
             "\\.\"... Ouais, je pense pas non plus.\""
+        ],
+        "95-1-message": [
+            "\\C[3]Il y a une flaque dans le coin de la salle."
+        ],
+        "34-1-message": [
+            "\\C[3]Le portrait d'un homme qui s'est fait tuer."
+        ],
+        "89-1-message": [
+            "\\C[3]Les côtés de la balance sont fixés et ne bougent pas."
         ]
     },
     "map23": {
@@ -5705,6 +5714,35 @@
         ],
         "27-1-message": [
             "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
+        ],
+        "1-1-message": [
+            "\\C[3]Quelque chose est posé sur le bureau.",
+            "\\.\\C[4](...!\n ... Un ordinateur portable !)",
+            "\\.\"Très intriguant, tu ne trouves pas ?\"",
+            "\\.\"J'ai réussi à l'allumer, mais il utilise de la\n batterie et il n'y a pas de chargeur.\"",
+            "\\.\"Ça veut dire que quand il n'aura plus de batterie,\n on ne pourra plus l'utiliser...",
+            "\\.\"D'accord...\"",
+            "\"Euh... En fait...\"",
+            "\"J'en suis bien conscient, mais... tu sais...\n Il faut bien qu'on regarde ce qu'il y a dessus, non ?\"",
+            "\\.\"Toute façon... On a un problème.\"",
+            "\\.\"Cet ordinateur est protégé par un mot de passe.\"",
+            "\\.\"Donc... On ne peut pas regarder ce qu'il y a dessus.\"",
+            "\\.\"J'ai essayé des mots de passe au hasard, mais...\n Tout ce que j'ai fait, c'est gaspiller de la\n batterie...\"",
+            "\\.\"... Des suggestions ?\"",
+            "\\.\"Hmm...\"",
+            "\"Ah-ha ! Bonne idée.\"",
+            "\\.\"Si le mot de passe, c'est le nom de quelqu'un...\n On pourrait deviner qui est son propriétaire !\"",
+            "\\.\"... Par contre... Si c'est le nom de quelqu'un\n qu'on ne connaît pas, on ne trouvera jamais\n le mot de passe.\"",
+            "\"Non... Ne me dis pas que tu connais\n l'organisation qui est derrière tout ça ?!\"",
+            "\\.\"Non... Je ne sais pas.\"",
+            "\\.\"Ah, d'accord... Ohh...\"",
+            "\"Ah, un classique.\n ... Pas en bien.\"",
+            "\\.\"Si c'est bien un anniversaire, il nous faudrait\n maximum 365 essais !\"",
+            "\\.\"Ahahah... héhém.\n J'imagine que tu veux que je le fasse.\""
+        ],
+        "1-1-choice": [
+            "Qu'est-ce qu'il contient ?\nC'est peut-être un piège",
+            "Le nom de quelqu'un\nL'organisation des kidnappeurs\nUne date d'anniversaire"
         ]
     },
     "map50": {
