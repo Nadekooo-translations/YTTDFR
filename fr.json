@@ -3561,11 +3561,11 @@
             "\\.\"... Monsieur le Policier est pas un chien.\""
         ],
         "2-1-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\C[3]L'une des ampoules installées ne reçoit\npas de courant.",
+            "\\.\\C[4](Je n'arrive pas à l'atteindre...)",
+            "\"... Tu veux que je te porte sur mes épaules ?\"",
+            "\\.\"Oh... Je veux bien.\"",
+            "\\.\"Hé, je disais ça pour déconner... mais comme tu veux.\"",
             "\\C[3]Ampoule obtenue.",
             "\\.\"Merci beaucoup.\"",
             "\\.\"Ouais, ouais.\""
@@ -3575,6 +3575,96 @@
         ],
         "1-2-message": [
             "\\C[3]L'ampoule émet une douce lueur."
+        ],
+        "4-1-message": [
+            "\\C[3]La balance est inclinée vers la droite.",
+            "\\.\\C[4](Je pourrais mettre ce bouchon sur la balance.)",
+            "\\.\\C[3]Le Bouchon a été placé de l'autre côté de la balance.",
+            "\\.\\C[4](C'est parfaitement équilibré...!)",
+            "\\C[3]La balance est inclinée vers la gauche.",
+            "\\C[3]... Du bruit retentit dans une autre pièce."
+        ],
+        "4-2-message": [
+            "\\C[3]La balance est inclinée vers la gauche.",
+            "\\.\\C[4](Je pourrais mettre ce bouchon sur la balance.)",
+            "\\.\\C[3]Le Bouchon a été placé de l'autre côté de la balance.",
+            "\\.\\C[4](C'est parfaitement équilibré...!)",
+            "\\C[3]La balance est inclinée vers la droite.",
+            "\\C[3]... Du bruit retentit dans une autre pièce."
+        ],
+        "4-1-choice": [
+            "Changer le poids de côté\nAnnuler"
+        ],
+        "4-2-choice": [
+            "Changer le poids de côté\nAnnuler"
+        ],
+        "4-3-message": [
+            "\\C[3]La balance est bien équilibrée."
+        ],
+        "5-1-message": [
+            "\\C[3]Ce vase contient des fleurs.",
+            "\\C[3]Fleur obtenue."
+        ],
+        "5-1-choice": [
+            "En prendre une\nAnnuler"
+        ],
+        "5-3-message": [
+            "\\C[3]Ce vase contient des fleurs."
+        ],
+        "6-1-message": [
+            "\\C[3]Ce vase contient des fleurs.",
+            "\\.\\C[3]La Fleur a été placée."
+        ],
+        "5-2-message": [
+            "\\C[3]Ce vase contient des fleurs.",
+            "\\.\\C[3]La Fleur a été placée."
+        ],
+        "7-1-message": [
+            "\\C[3]La fenêtre est recouverte par du papier peint.",
+            "\\C[3]Il s'est facilement décollé."
+        ],
+        "7-1-choice": [
+            "Le retirer\nAnnuler"
+        ],
+        "8-1-message": [
+            "\\C[3]Une statue de glace.",
+            "\\.\\C[4](Je vais verser de l'eau chaude dessus.)",
+            "\\.\\C[3]La statue de glace a fondu pour devenir une flaque."
+        ],
+        "9-1-message": [
+            "\\C[3]Ce miroir luisant me réfléchit.",
+            "\\.\\C[4](Je vais essayer d'utiliser le spray dessus.)",
+            "\\C[3]De fines gouttelettes d'eau recouvrent le miroir.",
+            "\\.\\C[4](Elles n'ont pas l'air de partir...)",
+            "\\.\\C[4](J'ai l'air un peu fatiguée...)",
+            "\\.\\C[4](Mon uniforme est sale...)",
+            "\\.\\C[4](Je fais une petite tête...)",
+            "\\.\\C[4](... Toi, tu gères.)",
+            "\\.\\C[4](Ah, je suis un peu décoiffée...)"
+        ],
+        "9-2-message": [
+            "\\C[3]Les gouttelettes d'eau collées au miroir brouillent\nma réflexion.",
+            "\\.\\C[4](Je devrais reculer la poupée de manière à\n ce que le miroir reflète son corps en entier.)",
+            "\\.\\C[3]La Réplique de Sara a été placée devant le miroir.",
+            "\\.\\C[4](Pour que les deux miroirs reflètent la même chose,\n il me faudrait une sœur jumelle ou une réplique de\n moi-même...)"
+        ],
+        "9-3-message": [
+            "\\C[3]Les gouttelettes d'eau collées au miroir brouillent\nma réflexion."
+        ],
+        "13-1-message": [
+            null,
+            "\\.\\C[4](Je devrais reculer la poupée de manière à\n ce que le miroir reflète son corps en entier.)",
+            "\\.\\C[3]La Réplique de Sara a été placée devant le miroir.",
+            "\\.\\C[4](Pour que les deux miroirs reflètent la même chose,\n il me faudrait une sœur jumelle ou une réplique de\n moi-même...)"
+        ],
+        "6-2-message": [
+            "\\C[3]Ce vase contient des fleurs."
+        ],
+        "6-3-message": [
+            "\\C[3]Ce vase contient des fleurs."
+        ],
+        "9-5-message": [
+            "\\C[3]Les gouttelettes d'eau collées au miroir brouillent\nma réflexion."
         ]
     },
     "map23": {
