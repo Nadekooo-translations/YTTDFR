@@ -3646,16 +3646,24 @@
             "\\C[3]Les gouttelettes d'eau collées au miroir brouillent\nma réflexion.",
             "\\.\\C[4](Je devrais reculer la poupée de manière à\n ce que le miroir reflète son corps en entier.)",
             "\\.\\C[3]La Réplique de Sara a été placée devant le miroir.",
-            "\\.\\C[4](Pour que les deux miroirs reflètent la même chose,\n il me faudrait une sœur jumelle ou une réplique de\n moi-même...)"
+            "\\.\\C[4](Pour que les deux miroirs reflètent la même chose,\n il me faudrait une sœur jumelle ou une réplique de\n moi-même...)",
+            "\\.\\C[4](... En parlant de répliques...\n On avait trouvé une réplique identique à Kanna\n quelque part...)"
         ],
         "9-3-message": [
-            "\\C[3]Les gouttelettes d'eau collées au miroir brouillent\nma réflexion."
+            "\\C[3]Les gouttelettes d'eau collées au miroir brouillent\nma réflexion.",
+            "\\C[3]Je me positionne en face du miroir.",
+            "\\.\\C[4](Tout devrait être symétrique, maintenant...)",
+            "\\.\\C[3]Quelque chose a changé dans une des autres salles.",
+            "\"Bien joué, Sara.\n Allons jeter un coup d'œil aux alentours.\"",
+            "\\.\\C[4](... Il ne s'est rien passé.)",
+            "\\.\\C[4](Je devrais d'abord résoudre les autres énigmes\n de cette salle. Je ferai le miroir en dernier.)"
         ],
         "13-1-message": [
             null,
             "\\.\\C[4](Je devrais reculer la poupée de manière à\n ce que le miroir reflète son corps en entier.)",
             "\\.\\C[3]La Réplique de Sara a été placée devant le miroir.",
-            "\\.\\C[4](Pour que les deux miroirs reflètent la même chose,\n il me faudrait une sœur jumelle ou une réplique de\n moi-même...)"
+            "\\.\\C[4](Pour que les deux miroirs reflètent la même chose,\n il me faudrait une sœur jumelle ou une réplique de\n moi-même...)",
+            "\\.\\C[4](... En parlant de répliques...\n On avait trouvé une réplique identique à Kanna\n quelque part...)"
         ],
         "6-2-message": [
             "\\C[3]Ce vase contient des fleurs."
@@ -3665,6 +3673,57 @@
         ],
         "9-5-message": [
             "\\C[3]Les gouttelettes d'eau collées au miroir brouillent\nma réflexion."
+        ],
+        "9-4-message": [
+            "\\C[3]La réflexion de la poupée est floue."
+        ],
+        "9-3-choice": [
+            "Se mettre en place\nS'éloigner"
+        ],
+        "9-6-message": [
+            "\\C[3]La réflexion de la poupée est floue."
+        ],
+        "10-3-message": [
+            "\\C[3]La peinture d'une main tenant un pistolet."
+        ],
+        "10-4-message": [
+            "\\C[3]La peinture d'une main tenant un pistolet."
+        ],
+        "10-5-message": [
+            "\\C[3]La peinture d'une main tenant un pistolet."
+        ],
+        "10-1-message": [
+            "\\C[3]La peinture d'une main tenant un pistolet."
+        ],
+        "12-1-message": [
+            "\\C[3]La peinture d'une main tenant un pistolet."
+        ],
+        "12-2-message": [
+            "\\C[3]La peinture d'une main tenant un pistolet."
+        ],
+        "12-4-message": [
+            "\\C[3]La peinture d'une main tenant un pistolet."
+        ],
+        "12-5-message": [
+            "\\C[3]La peinture d'une main tenant un pistolet."
+        ],
+        "13-2-message": [
+            null,
+            "\\C[3]Je me positionne en face du miroir.",
+            "\\.\\C[4](Tout devrait être symétrique, maintenant...)",
+            "\\.\\C[3]Quelque chose a changé dans une des autres salles.",
+            "\"Bien joué, Sara.\n Allons jeter un coup d'œil aux alentours.\"",
+            "\\.\\C[4](... Il ne s'est rien passé.)",
+            "\\.\\C[4](Je devrais d'abord résoudre les autres énigmes\n de cette salle. Je ferai le miroir en dernier.)"
+        ],
+        "13-2-choice": [
+            "Se mettre en place\nS'éloigner"
+        ],
+        "13-5-message": [
+            "\\C[3]La réflexion de la poupée est floue."
+        ],
+        "13-3-message": [
+            "\\C[3]La réflexion de la poupée est floue."
         ]
     },
     "map23": {
