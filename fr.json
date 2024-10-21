@@ -3693,7 +3693,8 @@
             "\\C[3]La peinture d'une main tenant un pistolet."
         ],
         "10-1-message": [
-            "\\C[3]La peinture d'une main tenant un pistolet."
+            "\\C[3]La peinture d'une main tenant un pistolet.",
+            "\\.\\C[4](Il n'y a rien au dos...)"
         ],
         "12-1-message": [
             "\\C[3]La peinture d'une main tenant un pistolet."
