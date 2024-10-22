@@ -745,7 +745,7 @@
     "map172": {
         "1-1-message": [
             null,
-            null,
+            "\\.\\C[3]Sou est inerte.",
             null,
             null,
             null,
@@ -5780,6 +5780,36 @@
             "Tu as pu le déverrouiller ?\nC'était quoi, le mot de passe ?",
             "Partons à sa poursuite\nRetrouvons d'abord Nao\nOn devrait se regrouper",
             "Éviter la question\nLa nier"
+        ],
+        "2-1-message": [
+            "\"Il fait sombre, ici, hein ?\n Il n'y a que cette lampe pour éclairer les environs.\"",
+            "\\.\"C'est quoi que tu voulais me montrer ?\"",
+            "\\.\"Regarde ce qu'il y a sur le bureau.\""
+        ],
+        "3-1-message": [
+            "\\C[3]Il est difficile de les distinguer dans la pénombre,\nmais il y a des étagères avec des livres.",
+            "\\.\"Ces livres ont tous des couvertures...\n Mais leurs pages sont toutes blanches.\"",
+            "\\.\"Keiji m'a dit que l'ordre des livres était peut-être\n important.\"",
+            "\\.\\C[4](Alors Keiji est déjà passé par ici...?)"
+        ],
+        "3-2-message": [
+            "\\C[3]Il est difficile de les distinguer dans la pénombre,\nmais il y a des étagères avec des livres."
+        ],
+        "5-1-message": [
+            "\\C[10]\"Sou ?!\"",
+            "\\.\\C[3]Sou était allongé face au sol dans l'obscurité.",
+            "\\.\"..........\"",
+            "\\.\"... Ahhh...\"",
+            "\\.\"... Tout va bien, il respire.\n Hé, réveille-toi.\"",
+            "\\.\\C[3]Sou est inerte.",
+            "\\.\"... Sara, surveille les alentours.\"",
+            "\\.\"C... Compris !\"",
+            "\\.\"Gin, tu peux jeter un coup d'œil dehors ?\"",
+            "\\.\"..........\""
+        ],
+        "5-2-message": [
+            "\\.\\C[3]Sou est inerte.",
+            "\\.\"Il y a des traces d'une attaque à la tête...\""
         ]
     },
     "map50": {
@@ -5787,21 +5817,32 @@
             "\\C[3]Un briquet Zippo chic."
         ],
         "2-1-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\"...\""
+            "\"Gin !!\"",
+            "\"G-Grande sœur Sara...\"",
+            "\\.\"À l'aide, miaou...!\n J'étais en train de chercher grande sœur Nao...\"",
+            "\\.\"Une cage en acier !\n Comment est-ce qu'on pourrait...?!\"",
+            "\\.\"Ahh... Je toucherais pas ça, si j'étais toi.\"",
+            "\\.\"Hii... Ahh... Grande sœur Saraaa !!\"",
+            "\\.\"Gin !!\"",
+            "\\.\"Elle s'enfonce de plus en plus, miaou...\"",
+            "\\.\"Non, ouaf ! J'ai peuuur...!!\"",
+            "\\.\"Au secours, grande sœur Sara !!\"",
+            "\\.\\C[4](Réfléchis ! Je dois réfléchir...!)",
+            "\"Keiji ! Tiens l'autre côté de la cage !!\"",
+            "\\.\\C[3]Avant même de réfléchir, j'ai appuyé sur la détente\ndu révolver mais aucune balle n'en est sorti.",
+            "\\.\\C[4](On ne peut rien faire...!)",
+            "\\.\"...\"",
+            "\\.\"Sortez-moi de lààà !!\"",
+            "\\.\"Gin !!\"",
+            "\\C[3]La cage, maintenant entièrement sous terre, s'immobilisa.",
+            "\\.\"Ahhh... Gin...!!\"",
+            "\\.\\C[4](Elle ne bouge plus...)",
+            "\\.\\C[4](Qu'est-ce que je devrais-)",
+            "\\.\"... Là, peut-être ?\"",
+            "\\.\"Hein...?\"",
+            "\\.\"Ouaip, une échelle.\"",
+            "\\.\"...!\"",
+            "\\.\"Sara, par ici.\""
         ],
         "4-1-message": [
             "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles."
@@ -5847,6 +5888,15 @@
         ],
         "5-1-message": [
             "\\C[3]Une carte portant l'inscription \"Maître des Clés\".\nElle indique : \"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe."
+        ],
+        "2-1-choice": [
+            "Soulever la cage ensemble\nDétruire la cage\nNe pas la toucher et reculer"
+        ],
+        "3-1-message": [
+            "\\C[3]Une échelle qui descend."
+        ],
+        "1-4-message": [
+            "\\C[3]La cage est solidement ancrée dans le sol."
         ]
     },
     "map51": {
@@ -5854,14 +5904,19 @@
             "\\C[3]Un briquet Zippo chic."
         ],
         "28-1-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\"...\""
+            "\\.\"Fiou... Il est libre, maintenant...?\"",
+            "\\.\"Hm... La lampe-torche marche plus.\n Tant pis.\"",
+            "\\.\"Gin, ouvre la cage. T'arrives à descendre ?\"",
+            "\\.\"..........\"",
+            "\\.\"Gin...\"",
+            "\\.\"... Je suis sûr que ça faisait peur.\n Mais ça va aller, maintenant.\"",
+            "\\.\\C[3]Keiji prend Gin dans ses bras et le pose. Il tremble.",
+            "\\.\"...\"",
+            "\\.\"... Grande sœur Sara.\"",
+            "\\.\\C[3]Gin plongea dans mes bras.",
+            "\\.\"Gin...\n Tout va bien... Tout va bien...\"",
+            "\\.\"... Bouh... ouh...\"",
+            "\\.\"... Bon, partons d'ici.\""
         ],
         "29-1-message": [
             "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles."
@@ -5907,6 +5962,48 @@
         ],
         "54-1-message": [
             "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
+        ],
+        "25-1-message": [
+            "\\.\"..........\"",
+            "\\.\"Gin ! Tu vas bien ?!\"",
+            "\\.\"..........\""
+        ],
+        "26-1-message": [
+            "\\C[3]Il y a un écran d'ordinateur.",
+            "\\.\"Je suis nul avec les machines...\"",
+            "\\.\"Quelque chose est écrit.\"",
+            "\\.\\C[3]~ Jeu de la Cage à Oiseau ~",
+            "\\.\\C[3]Libérez l'oiseau (l'otage) de la cage.",
+            "\\.\\C[3]Maintenez l'interrupteur vert pour produire de l'énergie.",
+            "\\.\\C[3]Ne baissez pas votre garde.\nDes masques diaboliques apparaîtront pour tuer\nquiconque le presse.",
+            "\\.\\C[3]Dirigez la lumière sacrée sur ces masques pour\nsaisir toute opportunité d'appuyer sur le bouton.",
+            "\\.\"Euh... Du coup, on doit garder le bouton pressé...\n Et quand des masques apparaissent, on le relâche\n et on les illumine avec notre lumière sacrée...\"",
+            "\\.\"Je me demande de quelle lumière ils parlent.\"",
+            "\\.\"Ah ! Il y a une lampe torche sous la machine !\"",
+            "\\.\"Ahh, la voilà, notre lumière sacrée.\"",
+            "\\.\\C[3]Lampe-torche ramassée."
+        ],
+        "26-2-message": [
+            "\\C[3]Il y a un écran d'ordinateur.",
+            "\\.\"Faut presser l'interrupteur vert quand les\n masques nous regardent pas... C'est ça ?\"",
+            "\\.\"Et quand ils sont là, on les repousse...\n J'ai compris.\""
+        ],
+        "27-1-message": [
+            "\\C[3]Un interrupteur vert.",
+            "\\.\\C[4](Je devrais faire preuve de prudence et ne pas\n toucher à quoi que ce soit...)"
+        ],
+        "27-2-message": [
+            "\\C[3]Un interrupteur vert.",
+            "\\.\\C[4](Je le presse...?)",
+            "\\.\\C[4](Quoi...?!)",
+            "\\.\"On dirait que ça commence.\""
+        ],
+        "27-2-choice": [
+            "Presser l'interrupteur\nAnnuler"
+        ],
+        "27-4-message": [
+            "\\C[3]Un interrupteur vert.",
+            "\\.\\C[4](Je devrais faire preuve de prudence et ne pas\n toucher à quoi que ce soit...)"
         ]
     },
     "map68": {
