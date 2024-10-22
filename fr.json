@@ -5765,7 +5765,8 @@
             "\\C[3]Un ordinateur est posé sur le bureau."
         ],
         "1-2-message": [
-            "\\C[3]Un ordinateur est placé sur le bureau."
+            "\\C[3]Un ordinateur est posé sur le bureau.",
+            "\\.\"Je vais essayer de trouver le mot de passe, Sara.\""
         ]
     },
     "map50": {
