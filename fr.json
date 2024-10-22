@@ -5766,7 +5766,8 @@
             "\\.\"Ahh, pardon, pardon. Je suis là.\"",
             "\\.\"Ouargh ?!\n C'est qui ce type ?!\"",
             "\\.\"Je... ne peux pas t'aider pour ça.\n Désolé...\"",
-            "\\.\"J'étais assis dans le noir,\n en essayant de réfléchir au mot de passe.\""
+            "\\.\"J'étais assis dans le noir, je cherchais des idées\n de mots de passe.\"",
+            "\\.\"Nao et Gin...?\n Je ne les ai pas croisés.\""
         ],
         "1-2-message": [
             "\\C[3]Un ordinateur est posé sur le bureau.",
