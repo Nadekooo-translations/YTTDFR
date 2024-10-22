@@ -6004,6 +6004,9 @@
         "27-4-message": [
             "\\C[3]Un interrupteur vert.",
             "\\.\\C[4](Je devrais faire preuve de prudence et ne pas\n toucher à quoi que ce soit...)"
+        ],
+        "55-1-message": [
+            "\\C[3]Une lampe-torche ordinaire qui diffuserait\nune lumière sacrée."
         ]
     },
     "map68": {
@@ -21057,6 +21060,33 @@
         ],
         "36-1-message": [
             "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
+        ],
+        "2-1-message": [
+            "\"Sara !!\"",
+            "\\.\"Reko...\"",
+            "\\.\"J'ai entendu dire que c'était vous qui aviez\n trouvé Nao ! Vous avez géré ! Merci !\"",
+            "\\.\"J-Je suis désolée... de vous avoir inquiétés...\"",
+            "\\.\"T'en fais pas !\n Tant que t'es saine et sauve!\"",
+            "\\.\"Mais hé, Nao. On est tes potes.\n T'enfuis plus comme ça en courant, okay ?\"",
+            "\\.\"M... Mes potes...\"",
+            "\\.\"T-Tu veux pas ?\n Si c'est mon maquillage qui te gêne, je peux\n l'enlever...!\"",
+            "\\.\"C-Ce n'est pas ça ! Je suis juste... très contente.\"",
+            "\\.\"... Ah, ouais.\"",
+            "\\.\"... Ouaf...!\"",
+            "\\.\"Gin, merci... Je ne te remettrai plus dans une\n situation autant effrayante.\"",
+            "\\.\"... J-J'ai même pas eu peur... miaou.\""
+        ],
+        "1-1-message": [
+            "\\C[3]Il y a quelque chose par terre...",
+            "\"Hm ?\n ... C'est... une clé.\"",
+            "\\.\"Il y a... une étiquette, miaou.\"",
+            "\\.\"La clé de la cuisine, hein...\"",
+            "\\.\"Y a une étiquette.\n La clé de la cuisine, hein...?\"",
+            "\\.\"Maintenant que j'y pense... La cuisine est le seul\n endroit du rez-de-chaussée qu'on n'a pas encore\n visité.\"",
+            "\\.\"Étant donné qu'on a la clé, Nao aurait pas pu y\n rentrer sans casser la fenêtre...\"",
+            "\\.\"Mais... On devrait vérifier, juste au cas où.\"",
+            "\\.\"Ouaip. Quand tu enquêtes, la meilleure chose\n à faire c'est de rester méthodique, Sara.\"",
+            "\\C[3]Clé de la Cuisine obtenue."
         ]
     },
     "map59": {
