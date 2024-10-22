@@ -5630,7 +5630,7 @@
         ],
         "1-5-message": [
             "\\C[3]Il n'y a plus rien sur le bureau.",
-            null,
+            "\\.\\C[4](L'ordinateur qui était ici a disparu...!!)",
             "\\.\\C[4](... Rien de particulier au plafond...)",
             "\\C[3]En regardant sous le bureau, je remarque\nune lueur verte.",
             "\\.\\C[4](C'est...!!)",
