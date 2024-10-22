@@ -5664,11 +5664,12 @@
             "\\.\\C[4](Y a-t-il vraiment... une personne malveillante\n parmi nous...?)",
             "\\.\\C[4](... Je n'arrive... pas à suivre.)",
             "\\.\"Hé,\\.\\. Sara...\"",
-            null,
-            null,
-            null,
-            null,
-            "\\.\"...\""
+            "\\.\"Tu regardais quoi... tout à l'heure ?\"",
+            "\\.\"..........\"",
+            "\\.\"... Je ne comprends pas.\n\\! De quoi tu parles ?\"",
+            "\\.\"... Non, je ne regardais rien.\"",
+            "\\.\"...\"",
+            "\\.\"... Hm, je vois.\""
         ],
         "8-1-message": [
             "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles."
@@ -5772,6 +5773,13 @@
         "1-2-message": [
             "\\C[3]Un ordinateur est posé sur le bureau.",
             "\\.\"Je vais essayer de trouver le mot de passe, Sara.\""
+        ],
+        "1-5-choice": [
+            "Regarder sous le bureau\nRegarder au plafond",
+            "Retourner la carte\nNe pas toucher la carte",
+            "Tu as pu le déverrouiller ?\nC'était quoi, le mot de passe ?",
+            "Partons à sa poursuite\nRetrouvons d'abord Nao\nOn devrait se regrouper",
+            "Éviter la question\nLa nier"
         ]
     },
     "map50": {
