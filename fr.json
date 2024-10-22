@@ -5748,9 +5748,9 @@
             "\\.\"Ahh...\n ... Un indice, hein ?\"",
             "\\.\"C'est peut-être ça, l'indice que les kidnappeurs\n nous ont laissé.\"",
             "\\.\"Comment ça ?\"",
-            "\\.\"Il doit y avoir des informations qui nous intéressent,\n mais qui ne leur sont d'aucune valeur, sur cet\n ordinateur.\"",
+            "\\.\"Il doit y avoir des informations qui nous intéressent,\n mais qui ne leur sont d'aucune valeur sur cet\n ordinateur.\"",
             "\\.\"\\C[2]Résolvez l'énigme et on vous les donne.\n Si vous n'y arrivez pas, tant pis pour vous\\C[0]...\n Ou quelque chose du genre.\"",
-            "\\.\"C'est une récompense qui n'est plus accessible\n après un certain temps.\"",
+            "\\.\"Ce serait une récompense qui n'est plus accessible\n après un certain temps.\"",
             "\\.\\C[4](... J'ai dû mal à m'imaginer qu'ils soient aussi\n généreux.)",
             "\\.\"Bon, aller. Je vais rester ici pour essayer de\n trouver le mot de passe !\n Préviens-moi si tu as une piste.\"",
             "\\.\\C[4](... Je ne devrais pas m'attendre à grand chose.)",
@@ -5763,7 +5763,9 @@
         ],
         "1-3-message": [
             "\\C[3]Un ordinateur est posé sur le bureau.",
-            "\\.\"Ahh, désolé. Je suis là.\""
+            "\\.\"Ahh, pardon, pardon. Je suis là.\"",
+            "\\.\"Ouargh ?!\n C'est qui ce type ?!\"",
+            "\\.\"Je... ne peux pas t'aider pour ça.\n Désolé...\""
         ],
         "1-2-message": [
             "\\C[3]Un ordinateur est posé sur le bureau.",
