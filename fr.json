@@ -3277,7 +3277,7 @@
             "\\.\\C[4](Nao... ne veut pas se séparer de lui.)",
             "\"S'il te plaît, calme-toi.\n On ne compte pas te le prendre.\"",
             "\\.\"... Alors... Partez d'ici...!\"",
-            "\\.\\C[4](... C'est pas bon...\n On ne va pas pouvoir régler ça en parlant.)",
+            "\\.\\C[4](... C'est pas bon...\n Vu son état, on ne va pas pouvoir régler ça en parlant.)",
             "\\C[3]Je ferme à clé la porte de l'intérieur.",
             "\\.\"Qu... Qu'est-ce que tu fais ?!\"",
             "\\.\"... Comme ça, personne d'autre ne peut entrer.\n Tu veux bien nous parler, maintenant ?\"",
@@ -3395,7 +3395,7 @@
             "\\.\\C[4](..........)",
             "\\.\"... Hein ?\"",
             "\\.\"... Désolée. Je peux te demander de le faire ?\"",
-            "\\.\"Bien sûr. C'est à peu près à\n ça que sert votre ami policier.\"",
+            "\\.\"Bien sûr.\n C'est à peu près à ça que sert votre ami le policier.\"",
             "\\.\\C[3]Keiji a ouvert la boîte et a regardé à l'intérieur.",
             "\\.\"... Hmm ?\"",
             "\\.\"...\"",
@@ -4468,7 +4468,7 @@
             "\\C[3]Une carte portant l'inscription \"Maître des Clés\".\nElle indique : \"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe."
         ],
         "2-3-message": [
-            "\\.\"Kanna c'est une chose... Mais Nao, ç'en est une autre.\n Son état m'inquiète.\"",
+            "\\.\"Kanna c'est une chose... Mais Nao, c'en est une autre.\n Son état m'inquiète.\"",
             "\\.\"... Ouais.\""
         ],
         "2-2-choice": [
@@ -5091,7 +5091,7 @@
             "\\.\\C[3]Quelque chose est tombé de la pendule\nlorsqu'elle s'est remise à fonctionner.",
             "\\.\\C[3]Tournevis Cruciforme obtenu.",
             "\\.\\C[4](Il ne se passe rien...)",
-            "\\.\\C[4](Y aurait-il un indice caché dans cette pièce...?)",
+            "\\.\\C[4](Peut-être qu'il y a un indice dans cette pièce...?)",
             "\\.\\C[4](J'aperçois un réveil numérique dans l'étagère.\n Il affiche une heure bizarre. 28:75...?)",
             "\\.\\C[4](Le réveil numérique dans l'étagère\n indique 28:75, mais...)",
             "\\.\\C[4](Si on indiquait \"28 heures\" sur une horloge\n analogique, ça donnerait 4:00... non ?)",
@@ -5213,7 +5213,7 @@
         "13-2-message": [
             "\\.\\C[3]Un liquide rouge se répand sous le carrelage.",
             "\\.\\C[4](Si je verse de l'eau pour en augmenter le volume...)",
-            "\\.\\C[4](Hm...? Quelque chose flotte à la surface...)"
+            "\\.\\C[4](Hm...? Quelque chose est remonté à la surface...)"
         ],
         "13-3-message": [
             "\\.\\C[3]Quelque chose flotte dans le liquide rouge.",
@@ -5760,6 +5760,9 @@
         "1-1-choice": [
             "Qu'est-ce qu'il contient ?\nC'est peut-être un piège",
             "Le nom de quelqu'un\nL'organisation des kidnappeurs\nUne date d'anniversaire"
+        ],
+        "1-3-message": [
+            "\\C[3]Un ordinateur est posé sur le bureau."
         ]
     },
     "map50": {
