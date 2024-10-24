@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { reactive, watch } from 'vue';
-import { getRawSave, readSaveIndex, writeSaveIndex } from './SaveUtils';
+import { getRawSave, readSaveData, readSaveIndex, writeSaveIndex } from './SaveUtils';
 
 const index = reactive(readSaveIndex());
 const editing = reactive<{ index: null | number }>({ index: null });
@@ -32,10 +32,24 @@ const downloadSave = (idx: number) => {
 	anchor.click();
 	document.body.removeChild(anchor);
 };
+
+const deleteSave = (idx: number) => {
+	alert('TODO'); // TODO
+};
+
+const uploadSave = () => {
+	alert('TODO'); // TODO
+}
 </script>
 
 <template>
-	<h1>Sauvegardes</h1>
+	<h1>
+		Sauvegardes
+
+		<button class="upload" @click="uploadSave()">
+			<i class="ph-duotone ph-tray-arrow-up"></i>
+		</button>
+	</h1>
 	<div v-if="index.length === 0">
 		Aucune sauvegarde présente
 	</div>
@@ -62,8 +76,11 @@ const downloadSave = (idx: number) => {
 				<span class="timestamp">
 					<i class="ph ph-clock"></i> {{ new Date(save.timestamp).toLocaleString() }}
 				</span>
-				<button @click="downloadSave(key)">
+				<button class="download" @click="downloadSave(key)">
 					<i class="ph-duotone ph-box-arrow-down"></i>
+				</button>
+				<button class="delete" @click="deleteSave(key)">
+					<i class="ph-duotone ph-trash"></i>
 				</button>
 			</div>
 		</template>
@@ -129,15 +146,27 @@ const downloadSave = (idx: number) => {
 			height: 1em
 		}
 	}
+}
 
-	button {
-		border: 0;
-		background: 0;
-		font-size: xx-large;
-		margin: 0;
-		padding: 0;
+button {
+	border: 0;
+	background: 0;
+	font-size: xx-large;
+	margin: 0;
+	padding: 0;
+	cursor: pointer;
+
+	&.download {
 		color: $gold;
-		cursor: pointer;
+	}
+
+	&.upload {
+		color: $gold;
+		padding-bottom: 2em;
+	}
+
+	&.delete {
+		color: $red;
 	}
 }
 </style>
