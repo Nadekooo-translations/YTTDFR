@@ -14060,13 +14060,29 @@
     },
     "map60": {
         "1-1-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\"...\""
+            "\\C[3]Devant moi se trouvaient d'étranges tables\nqui m'arrivent à la taille.",
+            "\"... On y est.\"",
+            "\\.\\C[4](Keiji...)",
+            "\\.\"...! Z'avez fait vite... les gars...\"",
+            "\\.\"..........\"",
+            "\\.\"... Ouuh...\"",
+            "\\.\"...\"",
+            "\\.\"... Hmph. Vous êtes tous si pâles...\"",
+            "\\.\"..........\"",
+            "\\.\"..........\"",
+            "\\.\"... Pourquoi... est-ce que ça nous arrive...\"",
+            "\\.\\C[3]Un jeu sans issue commence...",
+            "\\.\\C[3]... Et nous n'avons d'autre choix que d'y jouer.",
+            "\\.\"Héhihi... Ah, alors vous participerez, finalement ?\"",
+            "\\.\"Rillante...!! 'spèce de...!!\"",
+            "\\.\"Ahahah... Regardez ces tables de plus près.\"",
+            "\\.\"Une installation pour le moins intéressante,\n n'est-ce pas ?\"",
+            "\\.\"Héhihi... Ce sont des sabliers inversés.\n Vraiment très curieux.\"",
+            "\\.\"Quand la partie haute de ces sabliers sera pleine, \n le débat sera terminé.\"",
+            "\\.\"Vous avez 70 minutes avant le vote préliminaire.\n Après ça, vous aurez 20 minutes de délibérations\n avant le vote final.\"",
+            "\\.\"Très bien, on peut commencer ?\"",
+            "\\.\"Attends !! Kanna... Kanna est pas là !!\"",
+            "\\.\"Oh, non... Alors certains préfèreraient ne\n pas prendre part à un jeu aussi plaisant.\""
         ],
         "5-1-message": [
             "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles."
@@ -21203,13 +21219,25 @@
             "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
         ],
         "2-2-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\\C[4](...)"
+            "\\C[3]Un extravagant buffet.",
+            "\\.\\C[4](Comment pourrais-je avoir faim...?)",
+            "\\.\\C[3]Au final, nous ne sommes que des marionnettes qui\ndansent dans la paume de la main des kidnappeurs.",
+            "\\.\\C[3]Si l'envie leur prend, ils peuvent tous nous décapiter.",
+            "\\.\\C[3]S'il faut, il n'y a même pas de sortie.\nIls se joueront de nous et ils nous massacreront\njusqu'à ce qu'ils soient satisfaits.",
+            "\\.\\C[4](Mais... dans ce cas, on va juste tous...)",
+            "\\.\\C[4](...)",
+            "\\.\\C[3]C'est une chose étrange.",
+            "\\.\\C[3]Encore et encore, j'ai été proche de la mort.",
+            "\\.\\C[3]Peut-être qu'il ne nous reste plus aucune\nraison d'avoir peur.",
+            "\\.\\C[3]Je... ne veux pas mourir.",
+            "\\.\\C[3]Même maintenant...\nJe veux continuer d'avancer.",
+            "\\.\\C[4](Haha... Je commence à haïr mon optimisme.)",
+            "\\.\\C[4](Je ferai de mon mieux...\n Si je me rate, tout le monde va mourir.)",
+            "\\.\\C[4](C'est la pire des cartes... qui me pousse à avancer.)",
+            "\\.\\C[3]Je n'ai bu qu'un peu d'eau...",
+            "\\.\\C[3]Et l'heure... arriva.",
+            "\"Il est temps. Vous êtes priés de vous diriger\n vers le terrain de jeu via la porte qui se trouve\n à côté de l'écran.\"",
+            "\\.\"Je vous souhaite bonne chance.\n Héhihi... Ahahah...\""
         ],
         "1-1-message": [
             "\\C[3]Rillante est affichée sur l'écran.",
@@ -21240,7 +21268,57 @@
             "\\.\"À l'heure actuelle, 11 personnes sont en vie,\n donc vous choisirez \\C[2]5\\C[0] candidats.\"",
             "\\.\"Ensuite, un \\C[2]vote final\\C[0] sera tenu à partir de ces\n même candidats, décidant de l'ultime \\C[2]victime\\C[0].\"",
             "\\.\"Pour faire court, la victime sera élue graduellement\n en passant de 11 personnes à 5, puis 1 !\"",
-            "\\.\"Naturellement, même ceux qui n'ont pas été choisis\n en tant que candidats participeront au vote !\n Je vous en prie, tuez comme vous le souhaitez !\""
+            "\\.\"Naturellement, ceux qui n'ont pas été sélectionnés\n comme candidats participent aussi à ce vote !\n Allez-y, tuez qui vous voulez !\"",
+            "\\.\\C[4](Arrêtez...! Arrêtez tout ça...!)",
+            "\\.\"Cependant, ce jeu n'est pas sans failles.\"",
+            "\\.\"Nous nous fichons des jeux de chance dénués de sens.\"",
+            "\\.\"C'est pourquoi utiliser des moyens pour décider\n de manière équitable la victime comme\n pierre-feuille-ciseau sont interdits !\"",
+            "\\.\"Cela dit, vous pouvez reprendre vos cartes !\"",
+            "\\.\\C[4](Nos cartes...)",
+            "\\.\"Ces cartes peuvent assigner quatre \\C[2]rôles\\C[0].\"",
+            "\\.\"Le premier est le \\C[4]Roturier\\C[0].\"",
+            "\\.\"C'est une carte insignifiante qui n'a pas\n de capacité spéciale.\"",
+            "\\.\"La deuxième est le \\C[2]Maître des Clés\\C[0].\"",
+            "\\.\"Et, bon dieu ! C'est un rôle bien terrifiant, puisque\n s'il est choisi pour victime, tout le monde périra !\"",
+            "\\.\\C[4](Le \\C[2]Maître des Clés\\C[4]... C'est ma carte !)",
+            "\\.\"Le troisième est le \\C[3]Sage\\C[0].\"",
+            "\\.\"Il s'agit d'un rôle rare ! Grâce à une révélation\n divine, il sait qui est le \\C[2]Maître des Clés\\C[0].\n Bravo à celui ou celle qui le possède !\"",
+            "\\.\"Le quatrième est le \\C[10]Sacrifice\\C[0].\"",
+            "\\.\"C'est une carte curieuse qui fait que son détenteur\n ne survit que s'il est choisi comme victime !\"",
+            "\\.\\C[4](Quoi-?!)",
+            "\\.\"Cela signifie que s'il n'est pas choisi, il meurt !\n Mais il a aussi des avantages !\"",
+            "\\.\"Le \\C[10]Sacrifice\\C[0] a 2 votes, et en plus...\"",
+            "\\.\"S'il gagne, il peut s'échapper d'ici en vie\n avec une personne de son choix !\"",
+            "\\.\"Mais, dans ce cas... tous les autres périront.\n Alors bonne chance !\"",
+            "\\.\"Il n'y a qu'un seul \\C[2]Maître des Clés\\C[0], \\C[3]Sage\\C[0], et \\C[10]Sacrifice\\C[0].\n Tous les autres sont des \\C[4]Roturiers\\C[0].\n Vous avez tout bien retenu, c'est bon ?\"",
+            "\\.\\C[4](Attends... une minute...)",
+            "\\.\\C[4](Non... Ça voudrait dire que...)",
+            "\\.\"Au minimum, deux personnes vont mourir.\n\\! Faites tous de votre mieux pour ne pas être\n l'un d'entre eux !\"",
+            "\\.\\C[4](Impossible...)",
+            "\\.\\C[3]À ce moment-là... J'entendis quelque chose.",
+            "\\.\\C[3]Le bruit sourd de quelqu'un qui s'évanouit\ndans la salle d'à côté."
+        ],
+        "1-3-message": [
+            "\"Il vous reste encore du temps avant que le Jeu\n Principal ne commence. Utilisez votre temps ici\n comme vous le souhaitez.\""
+        ],
+        "1-4-message": [
+            "\"Vous avez 10 minutes pour sortir avant d'être exécutés.\n Dépêchez-vous, s'il vous plaît.\"",
+            "\\.\\C[4](C'est vrai...\n Je serais peut-être plus heureuse en restant ici...)",
+            "\\C[3]Si seulement ce n'était qu'un rêve...",
+            "\\.\\C[3]À mon réveil...\nMaman m'aurait préparé un délicieux repas...",
+            "\\.\\C[3]J'aurais discuté avec Papa, j'aurais retrouvé Joe\net Ryoko au lycée comme d'habitude...",
+            "\\.\\C[3]Et on aurait bavardé de choses sans importance...",
+            "\\.\\C[3].........."
+        ],
+        "1-4-choice": [
+            "..........\nNe pas partir",
+            "Partir\nRester ici"
+        ],
+        "2-1-message": [
+            "\\C[3]Un extravagant buffet."
+        ],
+        "2-3-message": [
+            "\\C[3]Un extravagant buffet."
         ]
     },
     "map63": {
@@ -21477,6 +21555,9 @@
             "\\.\"À la fin du premier tour, vous aurez le \\C[2]vote\n préliminaire\\C[0]. La moitié d'entre vous seront\n retenus comme candidats.\"",
             "\\.\"8 personnes sont en vie, donc vous serez \\C[2]4\\C[0].\"",
             "\\.\"Ensuite, un \\C[2]vote final\\C[0] sera tenu à partir de ces\n même candidats, décidant de l'ultime \\C[2]victime\\C[0].\""
+        ],
+        "2-1-message": [
+            "\\C[3]Un extravagant buffet."
         ]
     },
     "map134": {
