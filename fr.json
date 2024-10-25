@@ -14016,15 +14016,15 @@
     },
     "map53": {
         "4-1-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\C[3]Une déchiqueteuse électrique.",
+            "\\.\\C[4](C'est une machine pour déchirer des documents\n et des feuilles... Il y a de nombreux morceaux de\n papier déchirés dedans.)",
+            "\"Alors, Sara ?\n T'as trouvé quelque chose ?\"",
+            "\\.\"Ça...\"",
+            "\\.\"Hm, que des déchets...\n Ce serait sûrement une perte de temps de tout regarder,\n non ?\"",
+            "\\.\\C[4](Hmm... Recréer les documents à partir de tous ces\n morceaux de papier prendrait beaucoup de temps.)",
+            "\\.\"..........\"",
+            "\\.\"Je... vais regarder ce que je peux faire, miaou.\"",
+            "\\.\"Gin...!\"",
             "\\.\"...\""
         ],
         "1-1-message": [
@@ -14047,6 +14047,9 @@
         ],
         "43-1-message": [
             "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
+        ],
+        "4-2-message": [
+            "\\C[3]Une déchiqueteuse électrique."
         ]
     },
     "map60": {
@@ -21050,13 +21053,27 @@
             "\\C[3]Une carte portant l'inscription \"Maître des Clés\".\nElle indique : \"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe."
         ],
         "7-1-message": [
-            "\\C[3]Il y a une grande porte rouge au centre."
+            "\\C[3]Il y a une grande porte rouge au centre.",
+            "\\.\\C[3]Le nombre 09 est affiché au-dessus de la porte.",
+            "\\.\\C[4](Qu'est-ce que ce nombre peut bien vouloir signifier...?)"
         ],
         "7-2-message": [
-            "\\C[3]Il y a une grande porte rouge au centre."
+            "\\C[3]Il y a une grande porte rouge au centre.",
+            "\\.\\C[3]Le nombre 02 est affiché au-dessus de la porte.",
+            "\\.\\C[4](Qu'est-ce que ce nombre peut bien vouloir signifier...?)"
         ],
         "8-5-message": [
-            "\\C[3]La porte rouge est ouverte, éclairant les environs\nd'une vive lumière blanche."
+            "\\C[3]La porte rouge est ouverte, éclairant les environs\nd'une vive lumière blanche.",
+            "\\.\\C[4](Le compteur au-dessus de la porte est à 0...!)",
+            "\\.\\C[4](Ne me dites pas que tous ceux qui étaient au\n premier étage... Y sont allés...?)",
+            "\\C[4](Ce serait dangereux d'entrer.\n Je vais juste... donner un petit coup d'œil...)",
+            "\\.\\C[3]Je passais ma tête à travers l'entrée...",
+            "\\.\\C[3]Quand soudainement...",
+            "\\.\\C[3]Quelqu'un me poussa par derrière.",
+            "\\.\"Quoi-?!\"",
+            "\\.\\C[3]Puis je perdis connaissance.",
+            "\"Mmh...\"",
+            "\\.\"Hein...?\""
         ],
         "36-1-message": [
             "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
@@ -21071,9 +21088,9 @@
             "\\.\"M... Mes potes...\"",
             "\\.\"T-Tu veux pas ?\n Si c'est mon maquillage qui te gêne, je peux\n l'enlever...!\"",
             "\\.\"C-Ce n'est pas ça ! Je suis juste... très contente.\"",
-            "\\.\"... Ah, ouais.\"",
+            "\\.\"... Okay.\"",
             "\\.\"... Ouaf...!\"",
-            "\\.\"Gin, merci... Je ne te remettrai plus dans une\n situation autant effrayante.\"",
+            "\\.\"Gin, merci...\n Je ne te referai plus jamais peur comme ça.\"",
             "\\.\"... J-J'ai même pas eu peur... miaou.\""
         ],
         "1-1-message": [
@@ -21090,11 +21107,50 @@
         ],
         "9-1-message": [
             "\\C[3]Il y a une porte noire fermée sur la gauche.",
-            null,
-            "\\C[3]La porte noire s'est ouverte."
+            "\\.\\C[3]Sur la poignée de cette porte se trouve un digicode.",
+            "\\C[3]La porte noire s'est ouverte.",
+            "\\C[4](Je ne devrais pas insister...\n Le hasard ne va pas nous emmener bien loin.)",
+            "\\C[4](Je ne devrais pas insister...\n Le hasard ne va pas nous emmener bien loin.)",
+            "\\C[4](On dirait que ce n'est pas ça.)"
         ],
         "10-2-message": [
-            "\\C[3]Il y a une porte blanche à droite."
+            "\\C[3]Il y a une porte blanche sur la droite."
+        ],
+        "6-1-message": [
+            "\\C[3]Reko, Nao, et Gin sont dans le couloir.",
+            "\"Je ferai tout ce que je peux pour me rattraper...!\"",
+            "\"T'inquiète pas pour ça, Nao. On est avec toi !\n Pas vrai, Gin?\"",
+            "\\.\"Miaou...!\""
+        ],
+        "6-2-message": [
+            "\\C[3]Nao et Reko sont dans le couloir.",
+            "\"Je ferai tout ce que je peux pour me rattraper...!\"",
+            "\"On t'en veut pas, Nao.\n ... Merci, Sara.\""
+        ],
+        "6-3-message": [
+            "\\C[3]Nao et Reko sont dans le couloir.",
+            "\"Je ferai tout ce que je peux pour me rattraper...!\"",
+            "\"On dirait que Gin s'occupe de cette pièce.\n Relax, Sara.\""
+        ],
+        "8-5-choice": [
+            "Regarder à l'intérieur\nAnnuler"
+        ],
+        "9-2-message": [
+            "\\C[3]Il y a une porte noire sur la gauche."
+        ],
+        "10-1-message": [
+            "\\C[3]Il y a une porte blanche fermée sur la droite.",
+            "\\.\\C[3]Sur la poignée de cette porte se trouve un digicode.",
+            null,
+            "\\C[4](Je ne devrais pas insister...\n Le hasard ne va pas nous emmener bien loin.)",
+            "\\C[4](Je ne devrais pas insister...\n Le hasard ne va pas nous emmener bien loin.)",
+            "\\C[4](On dirait que ce n'est pas ça.)"
+        ],
+        "10-1-choice": [
+            "Entrer un nombre\nAnnuler"
+        ],
+        "9-1-choice": [
+            "Entrer un nombre\nAnnuler"
         ]
     },
     "map59": {
