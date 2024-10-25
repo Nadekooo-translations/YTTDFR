@@ -753,7 +753,7 @@
             null,
             null,
             null,
-            null,
+            "\\.\\C[3]Sou... s'est déjà éteint.",
             null,
             null,
             null,
@@ -3997,7 +3997,7 @@
             "\\.\"Réponds-nous !! Qu'est-ce que t'es ?!?\"",
             "\\.\"Le policier du coin aimerait savoir aussi.\n Je suis pas trop, là...\"",
             "\\.\"Héhéhé. Dans ce cas, nous commencerons\n d'abord par ma présentation...\"",
-            "\\.\"Hi hi. Je suis \\C[2]Sue Rillante, la Poupée Rieuse\\C[0].\n Je suis la poupée qui vous servira de guide dans cet\n étage.\"",
+            "\\.\"Hi hi. Je suis \\C[2]Sue Rillante, la Poupée Rieuse\\C[0].\n Appelez-moi juste Rillante.\n Je suis la poupée qui vous servira de guide pour cet\n étage.\"",
             "\\.\"Hihi. Mon maître m'a ordonné de vous guider,\n courageux survivants, jusqu'au Jeu Principal.\"",
             "\\.\"Ton maître... En d'autres mots, t'es avec\n les kidnappeurs.\"",
             "\\.\"T... T'es notre ennemie ?!\n Essaie pas de mentir !\"",
@@ -4439,7 +4439,7 @@
             "\\.\\C[3]Ce n'était pas le regard confiant qu'elle\n m'avait donné auparavant.",
             "\\.\\C[4](... J'ai... menti à Kanna.)",
             "\\.\\C[4](À cause de ça...\n J'ai profondément blessé le cœur de Kanna.)",
-            "\\.\\C[4](\\C[10]\"Espèce de tueuse de sœur\"\\C[4]...\n Tout ça, c'est parce que Miley lui a dit\n cette chose horrible...!)",
+            "\\.\\C[4](\\C[10]\"Espèce de tueuse de sœur\"\\C[4]...\n Tout ça, c'est parce que Rillante lui a dit\n cette chose horrible...!)",
             "\\.\"Hé, Sara, tu penses que tu pourrais trouver\n quelque chose que Kanna pourrait porter ?\"",
             "\\.\"Pas de problème.\""
         ],
@@ -5432,7 +5432,7 @@
         ],
         "3-2-message": [
             "\"On peut pas passer à cause de ces barreaux...\"",
-            "\\.\\C[4](Miley... C'est ici qu'elle a disparu ?)"
+            "\\.\\C[4](Rillante... C'est ici qu'elle a disparu ?)"
         ],
         "3-3-message": [
             "\\C[3]La voie est libre..."
@@ -13333,7 +13333,7 @@
             "\\.\"Rappelle-toi des mots et des actes des gens...\n C'est ça qui trace le chemin vers la victoire.\"",
             "\\.\"Hiihiihii... Les 20 dernières minutes...\n Employez ce temps interminablement court à bon escient.\"",
             "\\.\"Je prie... que vous ne mourrez pas tous.\n Ahihi.\"",
-            "\\.\\C[3]Miley se rassoit tranquillement dans son fauteuil.",
+            "\\.\\C[3]Rillante se rassoit tranquillement dans son fauteuil.",
             "\\.\\C[3]C'est l'heure du combat final...!"
         ],
         "6-1-message": [
@@ -14025,7 +14025,8 @@
             "\\.\"..........\"",
             "\\.\"Je... vais regarder ce que je peux faire, miaou.\"",
             "\\.\"Gin...!\"",
-            "\\.\"...\""
+            "\\.\"...\"",
+            "\\.\"...Haha.\n On dirait que Gin a encore de l'énergie à revendre.\n Je vais garder un œil sur lui.\""
         ],
         "1-1-message": [
             "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles."
@@ -14049,7 +14050,12 @@
             "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
         ],
         "4-2-message": [
-            "\\C[3]Une déchiqueteuse électrique."
+            "\\C[3]Une déchiqueteuse électrique.",
+            "\\C[3]Gin examine les débris qu'il y a à l'intérieur.",
+            "\\.\"... Peut-être que Gin commence aussi à retrouver\n le moral, lui-aussi.\""
+        ],
+        "12-1-message": [
+            "\\C[3]Un grand tableau noir vide."
         ]
     },
     "map60": {
@@ -15530,16 +15536,34 @@
     },
     "map54": {
         "2-1-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\"...\""
+            "\\C[3]Il y a une menotte au bout d'une chaîne.",
+            "\\.\\C[4](Je me demande ce que c'est...)",
+            "\\.\\C[4](Et... l'air dans cette pièce est lourd.)",
+            "\"Je... reste pas ici, miaou...\"",
+            "\\.\\C[4](Gin...?)",
+            "\"... Cette salle... n'annonce rien de bon.\"",
+            "\\.\"Comment ça ?\"",
+            "\\.\"... Hmmm.\"",
+            "\\.\"Je ne sais pas pourquoi... mais l'atmosphère est\n malsaine, ici. Alors dis-moi, s'il te plaît.\"",
+            "\\.\"...\"",
+            "\\.\"Quelqu'un... est sûrement mort ici...\"",
+            "\\.\"...!\"",
+            "\\.\"J'arrive à sentir une légère odeur de sang.\"",
+            "\\.\"Ahh... Et vu qu'y a de la poussière, ça a dû\n être nettoyé assez récemment...\"",
+            "\\.\"Je dirais que c'est arrivé... Ouais.\n Pendant la Première Épreuve. Y a moyen.\"",
+            "\\.\\C[3]Quand je compris, je m'en rendis compte.",
+            "\\.\\C[3]L'ineffaçable puanteur crue du sang.\\!\n... L'odeur qui, par instinct, me répugne et me repousse.",
+            "\\.\\C[3]C'est dégoûtant... J'ai envie de vomir.",
+            "\\.\\C[4](...!!)",
+            "\\.\\C[4](Ne l'imagine pas...!)",
+            "\\.\"... Tu sens tes limites, Sara ?\"",
+            "\\.\"Keiji...\"",
+            "\\.\"... Je vais examiner chaque centimètre de cette salle.\n Toi, sors, Sara.\"",
+            "\\.\"Mais...\"",
+            "\\.\"Fais confiance à ton ami le policier.\"",
+            "\\.\\C[3]D'une tapote dans le dos, Keiji me poussa\ngentiment hors de la salle.",
+            "\\C[4](Je n'arrive pas à croire qu'une pièce vide...\n ait pu me faire trembler...)",
+            "\\.\\C[4](Elle a été plantée en moi... la peur de la mort...)"
         ],
         "3-1-message": [
             "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles."
@@ -15561,6 +15585,9 @@
         ],
         "18-1-message": [
             "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
+        ],
+        "14-1-message": [
+            "\\C[3]La poubelle est vide."
         ]
     },
     "map66": {
@@ -21183,6 +21210,37 @@
             null,
             null,
             "\\.\\C[4](...)"
+        ],
+        "1-1-message": [
+            "\\C[3]Rillante est affichée sur l'écran.",
+            "\"Héhihi... Comment allez-vous... tout le monde ?\"",
+            "\\.\"Rillante..!\"",
+            "\"Ceci est une vidéo pré-enregistrée.\n ... Je suis donc incapable de répondre à vos questions.\"",
+            "\\.\"Permettez-moi de vous remercier sincèrement\n de prendre part au \\C[2]Jeu Principal\\C[0].\"",
+            "\\.\\C[4](Au Jeu Principal...?!)",
+            "\\.\"Vous vous trouvez dans une salle d'attente\n préparée spécialement pour les participants...\n Il s'agit de la \\C[2]Salle du Dernier Dîner\\C[0].\"",
+            "\\.\"Vous pouvez vous y gaver de nourriture ou\n réfléchir à une stratégie avant que le jeu ne\n commence. Elle est à votre libre disposition.\"",
+            "\\.\\C[4](Qu-Qu'est-ce qu'elle raconte...)",
+            "\\.\"Ceux qui parviennent à remporter le Jeu Principal\n peuvent passer à l'étage suivant ! Hourra !\"",
+            "\\.\"Sachez que ceux qui n'ont pas quitté leur salle\n d'attente avant le début du Jeu Principal seront\n tués en guise de pénalité.\"",
+            "\\.\"Gardez ça à l'esprit... Héhihi.\"",
+            "\\.\\C[4](Le prochain... étage...)",
+            "\\.\"Je vais maintenant vous expliquer les règles du Jeu.\n Sortez la \\C[2]carte\\C[0] que vous avez trouvé en explorant\n et placez-la sur cet écran, s'il vous plaît.\"",
+            "\\.\\C[4](... La... carte...?)"
+        ],
+        "1-1-choice": [
+            "Qu'est-ce que vous m'avez fait ?\nOù sont les autres ?"
+        ],
+        "1-2-message": [
+            "\"Vous avez votre carte, c'est bon ?\n Je vais désormais commencer l'explication.\"",
+            "\\.\"Les règles fondamentales sont profondément simples.\n Une personne sera sélectionnée par vote à la majorité,\n et cette personne mourra. C'est tout.\"",
+            "\\.\\C[4](Comment ça, \"simple\"...?!)",
+            "\\.\"Le vote se déroulera en deux temps.\"",
+            "\\.\"À la fin du premier tour, vous aurez le \\C[2]vote\n préliminaire\\C[0]. La moitié d'entre vous seront\n retenus comme candidats.\"",
+            "\\.\"À l'heure actuelle, 11 personnes sont en vie,\n donc vous choisirez \\C[2]5\\C[0] candidats.\"",
+            "\\.\"Ensuite, un \\C[2]vote final\\C[0] sera tenu à partir de ces\n même candidats, décidant de l'ultime \\C[2]victime\\C[0].\"",
+            "\\.\"Pour faire court, la victime sera élue graduellement\n en passant de 11 personnes à 5, puis 1 !\"",
+            "\\.\"Naturellement, même ceux qui n'ont pas été choisis\n en tant que candidats participeront au vote !\n Je vous en prie, tuez comme vous le souhaitez !\""
         ]
     },
     "map63": {
@@ -21279,6 +21337,12 @@
             null,
             null,
             "\\.\\C[4](...?)"
+        ],
+        "3-1-message": [
+            "\\C[3]Un grand tableau noir vide."
+        ],
+        "5-1-message": [
+            "\\C[3]La lumière illumine le tableau."
         ]
     },
     "map89": {
@@ -21395,6 +21459,41 @@
     "map220": {
         "3-1-message": [
             "\\C[3]L'atmosphère est vraiment écrasante."
+        ]
+    },
+    "map55": {
+        "3-3-message": [
+            "\\C[10]Joe s'est éteint."
+        ],
+        "3-1-message": [
+            "\"Aller, continue d'appuyer sur ce bouton.\n Qui sait, peut-être que tu le sauveras ? Hihihi...\""
+        ]
+    },
+    "map179": {
+        "1-2-message": [
+            null,
+            null,
+            "\\.\"Le vote se déroulera en deux temps.\"",
+            "\\.\"À la fin du premier tour, vous aurez le \\C[2]vote\n préliminaire\\C[0]. La moitié d'entre vous seront\n retenus comme candidats.\"",
+            "\\.\"8 personnes sont en vie, donc vous serez \\C[2]4\\C[0].\"",
+            "\\.\"Ensuite, un \\C[2]vote final\\C[0] sera tenu à partir de ces\n même candidats, décidant de l'ultime \\C[2]victime\\C[0].\""
+        ]
+    },
+    "map134": {
+        "3-1-message": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\C[10]Kanna s'est éteinte."
+        ]
+    },
+    "map164": {
+        "3-3-message": [
+            "\\C[10]Nao s'est éteinte."
         ]
     }
 }
