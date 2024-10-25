@@ -21087,6 +21087,9 @@
             "\\.\"Mais... On devrait vérifier, juste au cas où.\"",
             "\\.\"Ouaip. Quand tu enquêtes, la meilleure chose\n à faire c'est de rester méthodique, Sara.\"",
             "\\C[3]Clé de la Cuisine obtenue."
+        ],
+        "9-1-message": [
+            "\\C[3]Il y a une porte noire verrouillé à gauche."
         ]
     },
     "map59": {
