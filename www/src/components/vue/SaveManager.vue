@@ -1,6 +1,6 @@
 <script setup lang="ts">
-import { reactive, watch } from 'vue';
-import { getRawSave, readSaveData, readSaveIndex, writeSaveIndex } from './SaveUtils';
+import { computed, reactive, watch } from 'vue';
+import { buildIndexEntry, deleteSaveData, getRawSave, readSaveIndex, writeSaveData, writeSaveIndex } from './SaveUtils';
 
 const index = reactive(readSaveIndex());
 const editing = reactive<{ index: null | number }>({ index: null });
@@ -12,6 +12,16 @@ watch(titleInput, (newValue) => {
 
 watch(index, (newValue) => {
 	writeSaveIndex(newValue);
+});
+
+const nextFreeSlot = computed(() => {
+	for (let i = 1; i <= 102; i++) {
+		if (index[i] === null) {
+			return i;
+		}
+	}
+
+	return null;
 });
 
 const downloadSave = (idx: number) => {
@@ -34,19 +44,38 @@ const downloadSave = (idx: number) => {
 };
 
 const deleteSave = (idx: number) => {
-	alert('TODO'); // TODO
+	deleteSaveData(idx);
+	index[idx] = null;
 };
 
 const uploadSave = () => {
-	alert('TODO'); // TODO
-}
+	const input = document.createElement("input");
+	input.type = "file";
+
+	input.onchange = (e) => {
+		const t = e.target as HTMLInputElement;
+		const file = t.files![0];
+
+		const reader = new FileReader();
+		reader.onloadend = () => {
+			if (nextFreeSlot.value) {
+				writeSaveData(nextFreeSlot.value, reader.result as string);
+				index[nextFreeSlot.value] = buildIndexEntry(nextFreeSlot.value);
+			}
+		};
+
+		reader.readAsText(file);
+	};
+
+	input.click();
+};
 </script>
 
 <template>
 	<h1>
 		Sauvegardes
 
-		<button class="upload" @click="uploadSave()">
+		<button class="upload" :disabled="!nextFreeSlot" @click="uploadSave()">
 			<i class="ph-duotone ph-tray-arrow-up"></i>
 		</button>
 	</h1>
@@ -91,6 +120,8 @@ const uploadSave = () => {
 @import "@phosphor-icons/web/regular";
 @import "@phosphor-icons/web/duotone";
 @import "../../styles/_colors.scss";
+@import "@fontsource/noto-sans-mono";
+@import "@fontsource/open-sans";
 
 // FIXME
 // .v-enter-active,
@@ -121,15 +152,15 @@ const uploadSave = () => {
 	}
 
 	.playtime {
-		width: 9ch;
+		font-family: 'Noto Sans Mono', sans-serif;
 	}
 
 	.timestamp {
 		width: 24ch;
+		font-family: 'Open Sans', sans-serif;
 	}
 
 	.title-wrapper {
-		width: 15ch;
 		height: 1em;
 		padding: 2px;
 
@@ -162,7 +193,12 @@ button {
 
 	&.upload {
 		color: $gold;
-		padding-bottom: 2em;
+		margin-bottom: 2em;
+
+		&[disabled] {
+			color: $lightGray;
+			cursor: not-allowed;
+		}
 	}
 
 	&.delete {
