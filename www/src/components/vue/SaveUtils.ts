@@ -25,8 +25,12 @@ export interface SaveEntry {
 
 export type SaveIndex = Array<SaveEntry | null>;
 
+export const globalKey = "Kimi RPG Global";
+
+export const saveKey = (idx: number) => `Kimi RPG File${idx}`;
+
 export const getRawSave = (idx: number): string | null => {
-	return localStorage.getItem(`Kimi RPG File${idx}`);
+	return localStorage.getItem(saveKey(idx));
 };
 
 export const readSaveData = (): SaveData => {
@@ -45,15 +49,15 @@ export const readSaveData = (): SaveData => {
 };
 
 export const writeSaveData = (idx: number, raw: string) => {
-	localStorage.setItem(`Kimi RPG File${idx}`, raw);
+	localStorage.setItem(saveKey(idx), raw);
 };
 
 export const deleteSaveData = (idx: number) => {
-	localStorage.removeItem(`Kimi RPG File${idx}`);
+	localStorage.removeItem(saveKey(idx));
 };
 
 export const readSaveIndex = (): SaveIndex => {
-	const raw = localStorage.getItem("Kimi RPG Global");
+	const raw = localStorage.getItem(globalKey);
 
 	if (!raw) {
 		return [];
@@ -66,17 +70,17 @@ export const readSaveIndex = (): SaveIndex => {
 
 export const writeSaveIndex = (index: SaveIndex) => {
 	const b64 = lz.compressToBase64(JSON.stringify(index));
-	localStorage.setItem("Kimi RPG Global", b64);
+	localStorage.setItem(globalKey, b64);
 };
 
 export const buildIndexEntry = (idx: number): SaveEntry => {
 	return {
-		"globalId": "RPGMV",
-		"title": `Sauvegarde web ${idx}`,
-		"characters": [["", 0]],
-		"faces": [["", 0]],
-		"playtime": "??:??:??",
-		"timestamp": new Date().getTime(),
-		"mapName": ""
+		globalId: "RPGMV",
+		title: `Sauvegarde web ${idx}`,
+		characters: [["", 0]],
+		faces: [["", 0]],
+		playtime: "??:??:??",
+		timestamp: new Date().getTime(),
+		mapName: ""
 	}
 };
