@@ -594,7 +594,7 @@
         "14-1-message": [
             "\\C[3]La mare du campus.",
             "\\.\\C[3]La rumeur dit que si quelqu'un regarde dedans\nà minuit, son reflet se mettra à parler.",
-            "\\.\\C[4](... Ça pourrait être pas mal pour\nquelqu'un de taciturne.)"
+            "\\.\\C[4](... Ça pourrait être pas mal pour\n quelqu'un de taciturne.)"
         ],
         "16-1-message": [
             "\\C[3]Les lumières sont allumées.\nC'est peut-être le garde de nuit.",
@@ -605,7 +605,7 @@
         ],
         "17-2-message": [
             "\\C[3]Le portail du lycée.\nJe ne peux pas rentrer chez moi sans passer par là.",
-            "\\.\\C[4](Je... n'ai pas très envie de partir pour l'instant.)"
+            "\\.\\C[4](Je n'ai pas... encore envie de partir.)"
         ],
         "17-3-message": [
             "\\C[10]Il y a quelqu'un... \\|\\.\\.\\^",
@@ -622,8 +622,8 @@
             "\\.\"C'est une fille tellement sympa !\n Je suis carrément ému !\"",
             "\\.\"Mignonne, hein ?\"",
             "\\.\"Adorable, même !\"",
-            "\\.\"Et je l'ai vue avaler un kebab tout entier d'une\n seule bouchée tout à l'heure !\n C'est vraiment un morfal !\"",
-            "\\.\"Un kebab tout entier...\"",
+            "\\.\"Je l'ai même vue avaler un kebab entier d'un seul\n coup tout à l'heure !\n C'est vraiment un morfal !\"",
+            "\\.\"Un kebab entier...\"",
             "\\.\"Attends... Vous étiez en rencard ?!\"",
             "\\.\"Mouahaha... J'en sors tout juste !\"",
             "\\.\"J'suis revenu au lycée spécialement\n pour m'en vanter devant toi !\"",
@@ -653,7 +653,7 @@
             "\\.\"Pour quelqu'un qui a l'air d'un dragueur,\n t'es terriblement timide...\"",
             "\\.\"Hein ?! D'où j'ai l'air d'un 'dragueur' ?!\"",
             "\\.\"J'suis vexé, meuf... Ça me blesse sérieusement...\"",
-            "\\.\"Merde... Peut-être que je devrais me recoiffer\n les cheveux en brosse comme je les avais au collège...\"",
+            "\\.\"Hé merde... Peut-être que je devrais me coiffer\n les cheveux en brosse comme au collège...\"",
             "\\.\\C[4](Et maintenant, il broie du noir.)"
         ],
         "1-3-message": [
@@ -1577,7 +1577,7 @@
             "\\.\"... T'es qui ?\"\\.",
             "\\.\"Qu...!!\"\\.\\.",
             "\\.\\C[3]Qu'est-ce que c'est que cette blague...",
-            "\\.\"Qu'est-ce que tu racontes ?! C'est moi, Sara Chidouin !\n T'as oublié à quoi ressemble ta propre amie ?!\"",
+            "\\.\"Qu'est-ce que tu racontes ?!\n C'est moi, Sara Chidouin !\n T'as oublié à quoi ressemble ta propre amie ?!\"",
             "\\.\"...\"",
             "\\.\\C[4](Ne me dites pas... qu'il est vraiment sérieux\n quand il dit qu'il ne me reconnaît pas...)",
             "\\.\"...\"",
