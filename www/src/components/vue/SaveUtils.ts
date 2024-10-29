@@ -84,3 +84,14 @@ export const buildIndexEntry = (idx: number): SaveEntry => {
 		mapName: ""
 	}
 };
+
+export const isValidSaveFile = (raw: string): boolean => {
+	try {
+		const decompressed = lz.decompressFromBase64(raw);
+		JSON.parse(decompressed);
+
+		return true;
+	} catch (e) {
+		return false;
+	}
+};

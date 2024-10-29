@@ -1,7 +1,8 @@
 <script setup lang="ts">
 import { computed, reactive, watch } from 'vue';
-import { buildIndexEntry, deleteSaveData, getRawSave, readSaveIndex, writeSaveData, writeSaveIndex } from './SaveUtils';
+import { buildIndexEntry, deleteSaveData, getRawSave, isValidSaveFile, readSaveIndex, writeSaveData, writeSaveIndex } from './SaveUtils';
 
+const modal = reactive<{text: null | string}>({ text: null });
 const index = reactive(readSaveIndex());
 
 watch(index, (newValue) => {
@@ -53,7 +54,14 @@ const uploadSave = () => {
 		const reader = new FileReader();
 		reader.onloadend = () => {
 			if (nextFreeSlot.value) {
-				writeSaveData(nextFreeSlot.value, reader.result as string);
+				const raw = reader.result as string;
+
+				if (!isValidSaveFile(raw)) {
+					modal.text = "Cette sauvegarde n'a pas l'air valide";
+					return;
+				}
+
+				writeSaveData(nextFreeSlot.value, raw);
 				index[nextFreeSlot.value] = buildIndexEntry(nextFreeSlot.value);
 			}
 		};
@@ -66,6 +74,12 @@ const uploadSave = () => {
 </script>
 
 <template>
+	<div class="modal" v-if="modal.text" @click="modal.text = null">
+		<div class="modal-content">
+			<i class="ph-duotone ph-warning modal-icon"></i><br/>
+			{{ modal.text }}
+		</div>
+	</div>
 	<h1>
 		Sauvegardes
 
@@ -80,9 +94,7 @@ const uploadSave = () => {
 		<template v-for="(save, key) in index">
 			<div v-if="save" class="row">
 				<span class="number">{{ key }}</span>
-				<input
-					type="text"
-					v-model="save.title">
+				<input type="text" v-model="save.title">
 				<span class="grow"></span>
 				<span class="playtime">
 					<i class="ph ph-hourglass"></i> {{ save.playtime }}
@@ -107,6 +119,46 @@ const uploadSave = () => {
 @import "../../styles/_colors.scss";
 @import "@fontsource/noto-sans-mono";
 @import "@fontsource/open-sans";
+
+.modal {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	position: fixed;
+	z-index: 1;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	overflow: auto;
+	background-color: rgba($gray, 0.7);
+
+	.modal-content {
+		background-color: $brown;
+		border: solid 1px $gold;
+  		padding: 2em;
+  		width: 20ch;
+		animation-name: dialog;
+		animation-duration: 0.1s;
+		animation-timing-function: linear;
+
+		@keyframes dialog {
+			from {
+				transform: scaleY(0);
+			}
+
+			to {
+				transform: scaleY(1);
+			}
+		}
+
+		.modal-icon {
+			font-size: 2em;
+			color: $gold;
+			text-align: center;
+		}
+	}
+}
 
 .row {
 	display: flex;
