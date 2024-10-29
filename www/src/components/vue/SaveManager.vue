@@ -3,12 +3,6 @@ import { computed, reactive, watch } from 'vue';
 import { buildIndexEntry, deleteSaveData, getRawSave, readSaveIndex, writeSaveData, writeSaveIndex } from './SaveUtils';
 
 const index = reactive(readSaveIndex());
-const editing = reactive<{ index: null | number }>({ index: null });
-const titleInput = reactive<{ value: null | HTMLInputElement }>({ value: null });
-
-watch(titleInput, (newValue) => {
-	newValue.value?.focus();
-});
 
 watch(index, (newValue) => {
 	writeSaveIndex(newValue);
@@ -86,18 +80,9 @@ const uploadSave = () => {
 		<template v-for="(save, key) in index">
 			<div v-if="save" class="row">
 				<span class="number">{{ key }}</span>
-				<div class="title-wrapper" @click="editing.index = key">
-					<Transition>
-						<input
-							type="text"
-							v-model="save.title"
-							v-if="editing.index === key"
-							:ref="(v) => titleInput.value = v as HTMLInputElement"
-							@keydown="(e) => { if (['Escape', 'Enter'].includes(e.key)) { editing.index = null } }"
-							@blur="editing.index = null">
-						<span v-else>{{ save.title }}</span>
-					</Transition>
-				</div>
+				<input
+					type="text"
+					v-model="save.title">
 				<span class="grow"></span>
 				<span class="playtime">
 					<i class="ph ph-hourglass"></i> {{ save.playtime }}
@@ -122,17 +107,6 @@ const uploadSave = () => {
 @import "../../styles/_colors.scss";
 @import "@fontsource/noto-sans-mono";
 @import "@fontsource/open-sans";
-
-// FIXME
-// .v-enter-active,
-// .v-leave-active {
-// 	transition: opacity 0.2s ease;
-// }
-
-// .v-enter-from,
-// .v-leave-to {
-// 	opacity: 0;
-// }
 
 .row {
 	display: flex;
@@ -160,21 +134,22 @@ const uploadSave = () => {
 		font-family: 'Open Sans', sans-serif;
 	}
 
-	.title-wrapper {
-		height: 1em;
+	input {
+		position: relative;
+		font-size: inherit;
+		font-style: inherit;
+		font-weight: inherit;
+		color: inherit;
+		border: 0;
 		padding: 2px;
+		margin: 0;
+		width: 15ch;
+		height: 1em;
+		background-color: transparent;
 
-		input,
-		span {
-			position: relative;
-			font-size: inherit;
-			font-style: inherit;
-			font-weight: inherit;
-			border: 0;
-			padding: 2px;
-			margin: 0;
-			width: 15ch;
-			height: 1em
+		&:focus {
+			color: black;
+			background-color: white;
 		}
 	}
 }
