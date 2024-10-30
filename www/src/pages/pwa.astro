@@ -1,0 +1,27 @@
+---
+import GameFrame from "../components/GameFrame.astro";
+import BaseLayout from "../layouts/BaseLayout.astro";
+---
+
+<BaseLayout title="Your Turn to Die" description="Jouer à Your Turn to Die">
+	<GameFrame />
+</BaseLayout>
+
+<style lang="scss">
+	body {
+		margin: 0;
+		padding: 0;
+		background-color: black;
+		width: 100vw;
+		height: 100vh;
+		overflow: hidden;
+
+		iframe {
+			border: 0;
+			margin: 0;
+			padding: 0;
+			width: 100vw;
+			height: 100vh;
+		}
+	}
+</style>

@@ -31,13 +31,13 @@
             "\\.\"... Il porte un collier.\"",
             "\\.\\C[4](Un collier...!)",
             "\\.\"... Ce serait sympa.\n Mais en tant que gentil policier du coin,\n je me méfie du fait qu'on l'ait pas vu plus tôt.\"",
-            "\\.\\C[4](C'est vrai...\n Était-il dans la Salle Rouge depuis tout ce temps ?)",
+            "\\.\\C[4](C'est vrai...\n Il était dans la Salle Rouge depuis tout ce temps ?)",
             "\\.\"Ahh, rien t'échappes, Sara.\"",
             "\\.\"... On va le restreindre avec ce qu'on a sous la main.\"",
             "\\.\\C[4](Difficile de savoir ce qu'il lui ait arrivé\n tant qu'il ne reprend pas connaissance...)",
             "\\.\"Tant qu'il bouge pas, ça devrait aller.\n Quand il aura repris ses esprits, on le\n questionnera tranquillement.\"",
             "\\.\\C[4](...)",
-            "\\.\\C[3]Légèrement soulagée, mon attention se\ntourna inévitablement vers le reste de la salle.",
+            "\\.\\C[3]Légèrement soulagée, mon attention se tourna\ninévitablement vers ce qu'il se passait de l'autre côté.",
             "\\.\"Euhh... Keiji.\n Nao et Gin, ils sont encore...?\"",
             "\\.\"... Ouais.\n Comme toujours.\"",
             "\\.\"Ils ont pas bougé d'un centimètre.\n ... C'est dur à regarder, en plus.\"",
@@ -46,7 +46,7 @@
             "\\.\"Écoute, quelqu'un devra bien examiner Mishima.\n J'ai pas raison ?\"",
             "\\.\"Et même moi, je suis pas un sergent, je vais pas\n demander à quelqu'un d'autre de le faire.\"",
             "\\.\"... Pas besoin d'épuiser quelqu'un d'autre,\n puisqu'il se trouve qu'on a un pro parmi nous.\"",
-            "\\.\"... Bah, ouais.\"",
+            "\\.\"... Ouais, je pense pas non plus.\"",
             "\\.\"C'est dur, mais il faut bien que quelqu'un le fasse...\n Et il se trouve que je suis un pro.\"",
             "\\.\"... Par contre c'est la première fois que j'examine\n un corps à qui j'avais parlé.\"",
             "\\.\"..........\"",
@@ -54,7 +54,7 @@
             "\\.\"... T'es bête.\n C'est mille fois pire pour Nao.\"",
             "\\.\"Perdre une personne qu'elle respecte... La vache...\"",
             "\\.\"...\"",
-            "\\.\"...E-Eum !\n Y a-t-il une personne que tu respectes, Keiji ?\"",
+            "\\.\"...E-Eum ! Y a-t-il une personne que tu\n respectes en particulier, Keiji ?\"",
             "\\.\"...\"",
             "\\.\"... Il y en avait peut-être une.\"",
             "\\.\"Une annonce pour ceux qui se trouvent dans cette pièce.\"",
@@ -107,7 +107,7 @@
             "\"...\"",
             "\\.\"Gin, je sais ce que tu ressens, mais tu ne devrais\n pas rester là...\"",
             "\\.\"... J-Juste encore un peu, miaou...\"",
-            "\\.\"C'était pas pendant longtemps... mais...\n On a fait des recherches ensemble, ouaf...\"",
+            "\\.\"Ça a pas duré longtemps... mais...\n On a traîné ensemble, ouaf...\"",
             "\\.\\C[4](Gin...)"
         ],
         "8-1-choice": [
@@ -128,7 +128,7 @@
             "\\C[3]Le portrait d'une personne tenant un pistolet.\nIl y a une autre peinture au dos."
         ],
         "10-1-message": [
-            "\\C[3]Un bouchon trouvé au fond du bassin.\nIl est petit et lourd."
+            "\\C[3]Un bouchon trouvé dans un des bassins.\nIl est petit et lourd."
         ],
         "45-1-message": [
             "\\C[3]Le portrait d'une personne tenant un pistolet."
@@ -218,7 +218,7 @@
             "\\C[3]Le portrait d'une personne tenant un pistolet.\nIl y a une autre peinture au dos."
         ],
         "7-1-message": [
-            "\\C[3]Un bouchon trouvé au fond du bassin.\nIl est petit et lourd."
+            "\\C[3]Un bouchon trouvé dans un des bassins.\nIl est petit et lourd."
         ],
         "20-1-message": [
             "\\C[3]Le portrait d'une personne tenant un pistolet."
@@ -401,7 +401,7 @@
         "glossaryhelp": "Sélectionnez un objet.",
         "itemdesc51": "La clé de la cuisine.",
         "itemdesc53": "Une poupée qui me ressemble remarquablement.",
-        "itemdesc55": "Un bouchon trouvé au fond d'un bain.\\nLourd mais petit.",
+        "itemdesc55": "Un bouchon trouvé dans un des bassins.\\nIl est petit et lourd.",
         "itemdesc57": "Le portrait d'une personne tenant un pistolet.",
         "itemdesc63": "Une ampoule pour illuminer une pièce.",
         "itemdesc65": "La fleur d'un vase.",
@@ -580,7 +580,7 @@
             "Argh...",
             "\\.J'ai fait un rêve bizarre...",
             "\\.J'ai mal à la mâchoire...",
-            "\\.Vu que je dormais la tête sur la table...",
+            "\\.Parce que je dormais la tête sur la table...",
             "\\.Il est déjà si tard... ? Je dois rentrer chez moi...",
             "\\.... Je ferais mieux de me dépêcher..."
         ]
@@ -594,7 +594,7 @@
         "14-1-message": [
             "\\C[3]La mare du campus.",
             "\\.\\C[3]La rumeur dit que si quelqu'un regarde dedans\nà minuit, son reflet se mettra à parler.",
-            "\\.\\C[4](... Ça pourrait être pas mal pour\nquelqu'un de taciturne.)"
+            "\\.\\C[4](... Ça pourrait être pas mal pour\n quelqu'un de taciturne.)"
         ],
         "16-1-message": [
             "\\C[3]Les lumières sont allumées.\nC'est peut-être le garde de nuit.",
@@ -605,7 +605,7 @@
         ],
         "17-2-message": [
             "\\C[3]Le portail du lycée.\nJe ne peux pas rentrer chez moi sans passer par là.",
-            "\\.\\C[4](Je... n'ai pas très envie de partir pour l'instant.)"
+            "\\.\\C[4](Je n'ai pas... encore envie de partir.)"
         ],
         "17-3-message": [
             "\\C[10]Il y a quelqu'un... \\|\\.\\.\\^",
@@ -622,8 +622,8 @@
             "\\.\"C'est une fille tellement sympa !\n Je suis carrément ému !\"",
             "\\.\"Mignonne, hein ?\"",
             "\\.\"Adorable, même !\"",
-            "\\.\"Et je l'ai vue avaler un kebab tout entier d'une\n seule bouchée tout à l'heure !\n C'est vraiment un morfal !\"",
-            "\\.\"Un kebab tout entier...\"",
+            "\\.\"Je l'ai même vue avaler un kebab entier d'un seul\n coup tout à l'heure !\n C'est vraiment un morfal !\"",
+            "\\.\"Un kebab entier...\"",
             "\\.\"Attends... Vous étiez en rencard ?!\"",
             "\\.\"Mouahaha... J'en sors tout juste !\"",
             "\\.\"J'suis revenu au lycée spécialement\n pour m'en vanter devant toi !\"",
@@ -653,7 +653,7 @@
             "\\.\"Pour quelqu'un qui a l'air d'un dragueur,\n t'es terriblement timide...\"",
             "\\.\"Hein ?! D'où j'ai l'air d'un 'dragueur' ?!\"",
             "\\.\"J'suis vexé, meuf... Ça me blesse sérieusement...\"",
-            "\\.\"Merde... Peut-être que je devrais me recoiffer\n les cheveux en brosse comme je les avais au collège...\"",
+            "\\.\"Hé merde... Peut-être que je devrais me coiffer\n les cheveux en brosse comme au collège...\"",
             "\\.\\C[4](Et maintenant, il broie du noir.)"
         ],
         "1-3-message": [
@@ -675,7 +675,7 @@
             "\\.\"Hihi...\"",
             "\\.\"Hé hé ! Prépare-toi à être embêtée, jour après jour !\"",
             "\\.\"Hihi...\"",
-            "\\.\"Bon, aller... Continuons d'avancer.\"",
+            "\\.\"Bon, allez... Continuons d'avancer.\"",
             "\\.\"Tes parents seront inquiets si tu tardes trop.\"",
             "\\.\"C'est vrai...\""
         ],
@@ -745,6 +745,7 @@
     "map172": {
         "1-1-message": [
             null,
+            "\\.\\C[3]Sou est inerte.",
             null,
             null,
             null,
@@ -752,8 +753,7 @@
             null,
             null,
             null,
-            null,
-            null,
+            "\\.\\C[3]Sou... s'est déjà éteint.",
             null,
             null,
             null,
@@ -1135,7 +1135,7 @@
             "\\.\"Joe !\"",
             "\\.\"Je t'en supplie, aide-moi !\n Ma mère est inconsciente !\"",
             "\\.\"Calme-toi ! T'as appelé les urgences, les flics ?!\"",
-            "\\.\"Pas encore... !\n Il faut... Il faut que je les appelle...\"",
+            "\\.\"Pas encore...!\n Il faut... Il faut que je les appelle...\"",
             "\\.\"Je m'en occupe !\n Écoute, Sara ! Il faut que tu restes calme !\"",
             "\\C[3]Joe a commencé à passer des appels.",
             "\\.\\C[4](Qu'est-ce que je fais... ?\n Je suis complètement paniquée...)",
@@ -1175,7 +1175,7 @@
         "2-1-message": [
             "\\C[3]L'interrupteur.",
             "\\C[4](J'ai un mauvais pressentiment...)",
-            "\\C[4](... Aller, je l'allume !)",
+            "\\C[4](... Allez, je l'allume !)",
             "\\sp[20]\\at[2]\"... M... Maman...?\"\\.\\.",
             "\\.\"Maman !!\"",
             "\\.\"Maman ! Maman !!\""
@@ -1190,7 +1190,7 @@
         "3-1-message": [
             "\"Maman ! Tiens bon !\"",
             "\\.\\C[3]... Elle respire encore.\nOn dirait qu'elle a juste perdu connaissance.",
-            "\\.\"Qu'est-ce que je peux faire,\n qu'est-ce que je faire... !\""
+            "\\.\"Que faire, que faire...!\""
         ],
         "4-1-message": [
             "\\C[3]Il y a une clé par terre.",
@@ -1257,7 +1257,7 @@
         ],
         "2-2-message": [
             "\"Papa ?! Papa, tu es là ?!\"",
-            "\\.\"Maman a perdu connaissance !\n Papa... Où es...\"",
+            "\\.\"Maman est inconsciente !\n Papa... Où es...\"",
             "\\|\\|\\^",
             "\\|\\^",
             "\\|\\.\\.\\^",
@@ -1322,7 +1322,7 @@
             "\\.\"Sara, et, Joe.\n Trouvez la \\C[2]clé\\C[0] cachée dans cette pièce.\n \\!Puis, libérez-vous de vos entraves.\"",
             "\\.\"Si vous échouez et que le temps limite est écoulé,\n l'appareil dans vos lits s'actionnera...\"",
             "\\.\"Et vos corps seront brutalement broyés à mort.\"",
-            "\\.\"À présent, nous vous prions d'apprécier ce frisson\n et ce, avec corps et âmes.\"",
+            "\\.\"À présent, nous vous prions d'apprécier ce frisson,\n et ce, avec corps et âme.\"",
             "\\.\"Le temps limite est de 5 bonnes minutes.\"",
             "\\.\"Notez qu'\\C[2]une seule\\C[0] clé est à votre disposition.\n Ainsi, nous vous prions de débattre de\n qui l'utilisera.\"",
             "\\C[3]Qu'est-ce que c'est... que ça...",
@@ -1478,7 +1478,7 @@
             "\"Merde... On voit vraiment que dalle !\"",
             "\\.\"Je ne vois rien...\"",
             "\"À gauche, il y a une impasse...\n On dirait qu'on est obligés d'aller à droite.\"",
-            "\"C... C'est pas le moment de plaisanter, Sara !\n On s'est échappés, mais ils pourraient\n nous rattraper !\"",
+            "\"C-C'est pas le moment de plaisanter, Sara !\n On s'est échappés, mais ils pourraient\n nous rattraper !\"",
             "\\.\\C[4](Joe a l'air assez inquiet...)",
             "\\.\"Je suis sérieux, Sara.\n On doit pas se séparer.\"",
             "\\.\"Oui...\"",
@@ -1577,13 +1577,13 @@
             "\\.\"... T'es qui ?\"\\.",
             "\\.\"Qu...!!\"\\.\\.",
             "\\.\\C[3]Qu'est-ce que c'est que cette blague...",
-            "\\.\"Qu'est-ce que tu racontes ?! C'est moi, Sara !\n T'as oublié à quoi ressemble ta propre amie ?!\"",
+            "\\.\"Qu'est-ce que tu racontes ?!\n C'est moi, Sara Chidouin !\n T'as oublié à quoi ressemble ta propre amie ?!\"",
             "\\.\"...\"",
             "\\.\\C[4](Ne me dites pas... qu'il est vraiment sérieux\n quand il dit qu'il ne me reconnaît pas...)",
             "\\.\"...\"",
             "\\.\"T'serais pas la Sara qui nage terriblement mal,\n par hasard ?\"",
             "\\.\"Kwe...\"",
-            "\\.\"J... Joe !\n C'est pas le moment de faire des blagues !!\"",
+            "\\.\"J-Joe !\n C'est pas le moment de faire des blagues !!\"",
             "\\.\"C'était plus fort que moi, désolé ! Hahaha !\"",
             "\"Hmm...\"",
             "\\.\"Joe et Sara, hein...\"",
@@ -1591,9 +1591,9 @@
             "\\.\"Hein...?\"",
             "\\.\"O... Oui, on est amis...\"",
             "\\.\"Je te remercie.\n Joe parlait pas beaucoup, vois-tu...\"",
-            "\\.\"Il devait être méfiant...\n Il refusait même de me donner son nom.\"",
+            "\\.\"Il devait être méfiant...\n Il refusait même de me dire comment il s'appelle.\"",
             "\\.\"...\"",
-            "\\.\"Bon aller, tout le monde, écoutez-moi.\"",
+            "\\.\"Bon allez, tout le monde, écoutez-moi.\"",
             "\\.\"Je parie qu'on pense tous la même chose.\"",
             "\\.\"Où est-ce que je suis ?\n Pourquoi on m'a emmené ici ?\"",
             "\\.\"Et tout ce que vous savez, c'est qui vous êtes.\"",
@@ -1620,7 +1620,7 @@
             "\\C[3]En regardant à droite, je remarque une dame\nparticulièrement énervée.",
             "\"Graaah !! On s'est fait enlever !\n Par des gros cinglés !!\"",
             "\\.\"Moins fort, miaou !!\n Crie pas dans mes oreilles, ouaf !!\"",
-            "\\.\"A... Allons... Se battre ne mènera à rien.\"",
+            "\\.\"A-Allons... Se battre ne mènera à rien.\"",
             "\\.\\C[3]Je pouvais sentir la tension dans l'air.",
             "\\.\\C[4](Il y a même un collégien, ici...?)"
         ],
@@ -1865,7 +1865,7 @@
             "\\.\\sw[99]\"Vous avez aussi trouvé des balles à blanc\n dans une autre pièce.\"\\sw[100]",
             "\\.\\sw[99]\"T'as \\C[2]3 vraies balles\\C[0] et \\C[3]6 balles à blanc\\C[0].\"\\sw[100]",
             "\\.\\sw[99]\"En tout, t'as 9 balles à charger dans ton révolver.\"\\sw[100]",
-            "\\.\\sw[99]\"Tu dois tirer tes 9 balles sur tout le monde.\n Une balle par \\C[2]humain\\C[0] ou par \\C[2]poupée\\C[0], dans \\C[2]l'ordre\n que tu veux\\C[0].\"\\sw[100]",
+            "\\.\\sw[99]\"Tu dois tirer tes 9 balles sur tout le monde.\n Une balle par \\C[2]humain\\C[0] ou par \\C[2]poupée\\C[0],\n dans \\C[2]l'ordre que tu veux\\C[0].\"\\sw[100]",
             "\\.\\sw[99]\"D'ailleurs, les balles sont tirées \\C[2]dans le sens\n des aiguilles d'une montre\\C[0]...\"\\sw[100]",
             "\\.\\sw[99]\"Une fois la chambre chargée, tu la feras tourner !\n Ce qui veut dire que \\C[2]tu sauras pas par quelle\n balle tu commenceras\\C[0] !\"\\sw[100]",
             "\\.\\sw[99]\"Si toutes les balles ont été tirées et tous\n les humains sont en vie, t'as gagné !\"\\sw[100]",
@@ -2003,7 +2003,7 @@
             "\\C[3]Une poupée qui me ressemble remarquablement."
         ],
         "9-1-message": [
-            "\\C[3]Un bouchon trouvé au fond du bassin.\nIl est petit et lourd."
+            "\\C[3]Un bouchon trouvé dans un des bassins.\nIl est petit et lourd."
         ],
         "21-1-message": [
             "\\C[3]Le portrait d'une personne tenant un pistolet.\nIl y a une autre peinture au dos."
@@ -2088,13 +2088,13 @@
             "\"Sara, ramène-toi ici si t'es en danger, okay ?\n Hésite pas à laisser le plus difficile aux mecs.\"",
             "\\.\"Bon après, le gars frêle au bonnet a pas l'air bien\n robuste non plus... Tu devrais aussi t'enfuir\n avec elle si ça arrive, petit.\"",
             "\"Q-Quelle remarque vexante... Ahaha.\"",
-            "\"Bonne chance à tous...!\""
+            "\"Bonne chance à vous...!\""
         ],
         "11-1-message": [
             "\\C[3]Cette pièce a de nombreux chemins.",
             "\\C[3]Quand on regarde dedans, on remarque que la plupart\nne mènent qu'à des culs-de-sac.",
             "\"Tu vois ces énormes coussins, au fond des impasses ?\"",
-            "\\.\"Je me demande si quand je suis tombée,\n j'ai atterri sur l'un d'eux...\"",
+            "\\.\"Je me demande si, quand je suis tombée,\n j'ai atterri sur l'un d'eux...\"",
             "\\.\"Moi aussi.\n Je parie qu'on est tous tombés de la même manière.\"",
             "\\.\"Joe t'avait portée de là jusqu'ici.\"",
             "\\.\"Je ne pensais pas que vous seriez amis, par contre.\""
@@ -2169,10 +2169,10 @@
             "\\.\"Oh-oh ? Mais qu'avez-vous donc là ?\"",
             "\\.\"Hein...? Vous parlez du coupe-cigare ?\"",
             "\\.\"Précisément. C'est un objet qui permet\n de couper des cigares pour les fumer.\"",
-            "\\.\"... Vous n'aviez pas l'intention d'en fumer,\n n'est-ce pas, Sara ?.\"",
+            "\\.\"... Vous n'aviez pas l'intention d'en fumer,\n n'est-ce pas, Sara ?\"",
             "\\.\"M-Mais non ! Bien sûr que non...!\"",
-            "\\.\"Ah, hé bien... Dans ce cas... hm...\n Pouvez-vous me le remettre ?\"",
-            "\\.\"Euh... Monsieur Mishima, allez-vous fumer ce cigare ?\"",
+            "\\.\"Ah, hé bien... Dans ce cas... Hm...\n Pouvez-vous me le remettre ?\"",
+            "\\.\"Euh...\n Monsieur Mishima, vous comptez fumer ce cigare ?\"",
             "\\.\"L-L-La question ne se pose même pas !\n Qu'un professeur fume...!\"",
             "\\.\\C[4](Moi, tant qu'on est adulte, ça me dérange pas...)",
             "\\.\\C[3]Le coupe-cigare a été remis à Monsieur Mishima.",
@@ -2191,8 +2191,8 @@
             "\"Oh... Sara.\"",
             "\\.\"Monsieur Mishima, pourquoi êtes-vous si content ?\"",
             "\\.\"D-D-D-De quoi parlez-vous ?!\n Je n'ai rien...! Rien du tout...!\"",
-            "\\.\"Et si... c'est parce que vous étiez content de\n pouvoir fumer le cigare ?\"",
-            "\\.\"Ooghhh...!\n Un professeur tel que moi ne fumerait jamais...!\"",
+            "\\.\"Et si... c'était parce que vous étiez content\n de pouvoir fumer ?\"",
+            "\\.\"Ooogh...!\n Un professeur tel que moi ne fumerait jamais...!\"",
             "\\.\\C[4](... Il a vraiment envie de fumer.)",
             "\"Ce cigare a dû coûter cher, vous ne pensez pas?\"",
             "\\.\"En effet...\"",
@@ -2212,7 +2212,7 @@
             "\\.\\C[3]Étonnamment, il y avait un billet dans le cigare.",
             "\\.\\C[3]Billet de 1000 yens obtenu.",
             "\\.\"Aha...! Il semblerait que ce n'était pas un\n véritable cigare, finalement !\"",
-            "\\.\"Quel soulagement. Après tout, il n'est pas sain\n de fumer.\"",
+            "\\.\"Quel soulagement.\n Après tout, il n'est pas sain de fumer.\"",
             "\\.\"Ahh, dieu merci, dieu merci...\"",
             "\\.\"..........\"",
             "\\.\\C[4](Il est visiblement très déçu...)",
@@ -2248,7 +2248,7 @@
             "\\.\"Ah, ouais, grande sœur Sara.\n T'as essayé de combiner des objets, miaou ?\"",
             "\\.\"Combiner ?\"",
             "\\.\"Oui, mettre des objets ensemble et\n les utiliser, ouaf !\"",
-            "\\.\"Maintenant que j'y pense, j'ai dû bien\n examiner la clé rouge durant la Première Épreuve.\n T'pourrais peut-être faire une découverte capitale !\"",
+            "\\.\"Maintenant que j'y pense, j'ai dû bien\n examiner la clé rouge durant la Première Épreuve.\n T'pourrais peut-être découvrir quelque chose !\"",
             "\\.\\C[4](Peut-être que je devrais revoir mes objets...?)"
         ],
         "5-1-message": [
@@ -2315,7 +2315,7 @@
             "\\.\"... Hiyah !\"",
             "\\.\"... Hmrgh !\"",
             "\\.\"... Elle ne veut pas s'ouvrir...!\n ... Gah !\"",
-            "\\.\"... Huf... Hah... Urgh... Je suis trop faible...\n Je doute de réussir à l'ouvrir...\""
+            "\\.\"... Huf... Hah... Urgh... Je suis trop faible...\n Je ne pense vraiment pas pouvoir l'ouvrir...\""
         ],
         "65-2-choice": [
             "Ouvrir\nAnnuler"
@@ -2329,11 +2329,11 @@
             "\\.\"J'en ai déjà vu sur Internet...\n C'est un outil qui sert à couper les\n cigares pour les fumer.\"",
             "\\.\"... Pourquoi tu cherchais ça sur Internet ?\n T'as pas intérêt à te mettre à fumer, Sara !\"",
             "\\.\\C[4](J'ai l'air d'être du genre à fumer, pour toi...?)",
-            "\\.\"...Oh ! Plus important, y a quelque chose de\n plus gros au fond ! Voyons, qu'est-ce que c'est ?\"",
+            "\\.\"... Oh ! Plus important, y a quelque chose de\n plus gros au fond ! Voyons, qu'est-ce que c'est ?\"",
             "\\.\\C[3]\\C[10]Jambe Droite\\C[3] obtenue.",
             "\\.\"Hiiiaaagh ?!\"",
             "\\.\"On dirait que c'est un des membres de la poupée.\n Prends-la, Joe.\"",
-            "\\.\"C... Comment tu fais pour rester aussi calme...?\""
+            "\\.\"C-Comment tu fais pour rester aussi sereine...?\""
         ],
         "9-1-choice": [
             "Combiner\nAnnuler"
@@ -2390,7 +2390,7 @@
         ],
         "12-1-message": [
             "\\C[3]Un distributeur aux prix élevés.",
-            "\"L'eau et les boissons coûtent 1000 yens ?!\n Ouah ! Je me demande le goût que ça a,\n pour que ce soit si cher !\"",
+            "\"L'eau et les boissons coûtent 1000 yens ?! Ouah !\n Je me demande quel goût ça a pour que ce soit si cher !\"",
             "\"De l'eau et des sodas... Les deux coûtent 1000 yens.\n Ça, c'est du gonflement des prix.\"",
             "\\.\\C[4](Devrais-je insérer le billet de 1000 yens ?)",
             "\\C[10]Bras Gauche\\C[3] obtenu.",
@@ -2546,7 +2546,7 @@
             "\"Ouah ! Elle n'est pas fermée à clé...\"",
             "\\.\"Q-Que devrions-nous faire, Sara... ?\n ... On rentre ?\"",
             "\"Ahh, ouf...\"",
-            "\"Aller...!\""
+            "\"Allez...!\""
         ],
         "3-2-message": [
             "\"Cette porte me donne un mauvais pressentiment...\"",
@@ -2624,7 +2624,7 @@
         ],
         "3-2-message": [
             "\"Oh ! On peut jouer aux fléchettes ici !\"",
-            "\\.\"Les fléchettes et le billard c'est trop cool,\npas vrai ?!\"",
+            "\\.\"Les fléchettes et le billard, c'est trop cool, nan ?!\"",
             "\\.\\C[4](Devrais-je jeter la fléchette que\n j'ai en ma possession...?)",
             "\\.\"Yaaaaah !!\"",
             "\\.\\C[3]Je jette violemment la fléchette vers la cible.",
@@ -2636,13 +2636,13 @@
             "\"C'est une cible.\"",
             "\\.\"Comme c'est lugubre...\n Je me sentirais juste seul à jouer ici.\"",
             "\"Oh ! On peut jouer aux fléchettes ici !\"",
-            "\\.\"Les fléchettes et le billard c'est trop cool, nan ?!\"",
+            "\\.\"Les fléchettes et le billard, c'est trop cool, nan ?!\"",
             "\\.\\C[4](Je sais... ! Je peux utiliser le révolver pour\n tirer la fléchette sur la cible !)",
             "\\.\"...!\"",
             "\"Félicitations ! Félicitations !\n En plein dans le mille !\"\\|\\|",
             "\\.\"Pour avoir tiré en plein dans le mille,\n vous obtenez un merveilleux cadeau !\"",
             "\\.\"Nous vous prions de bien vouloir\n regarder dans la crevasse !\"",
-            "\\.\\C[3]En examinant prudemment dans\nle ravin autour de la cible...",
+            "\\.\\C[3]En examinant prudemment le ravin autour de la cible...",
             "\\.\\C[3]Je vis quelque chose à portée de main.",
             "\\.\\C[10]Jambe Gauche\\C[3] obtenue.",
             "\\.\"Argh... C'est atroce...!\"",
@@ -2776,7 +2776,7 @@
             "\"... Sara...\"",
             "\\.\"Kanna...!\"",
             "\\.\"H-Hé, tu devrais pas te reposer ?\"",
-            "\\.\"... J... Je...\"",
+            "\\.\"... J-Je...\"",
             "\\.\\C[4](Qu'est-ce qu'elle a...?)",
             "\\.\"Non... Ce n'est pas ça...\"",
             "\\.\"C'est juste que... je voulais vraiment te demander...\"",
@@ -2808,17 +2808,17 @@
             "\\.\"...!\"",
             "\\.\"... Heureusement, Nao m'avait à ses côtés, et\n Sara avait Joe.\"",
             "\\.\"Puisque nous avions chacun un \\C[2]homme avec de la force\\C[0]\n parmi nous, nous avons pu nous échapper de justesse.\"",
-            "\\.\"N... Non...! Vous mentez...\n C'est impossible...\"",
+            "\\.\"N-Non...! Vous mentez...\n C'est impossible...\"",
             "\\.\"C... Ce n'est pas un mensonge !\n C'est la vérité, Kanna !\"",
             "\\.\"Je suppose qu'il s'agissait d'une épreuve de...\n de force et d'analyse de la situation.\"",
             "\\.\"Pour vous et votre sœur...\n Vous n'aviez presque aucune chance de réussite...\"",
-            "\\.\"J... Je ne vous crois pas !\n Vous mentez...\"",
+            "\\.\"J-Je ne vous crois pas !\n Vous mentez...\"",
             "\\.\"C'est la vérité, Kanna.\"",
-            "\\.\"S... Sara...\"",
-            "\\.\"M... Même si ça ressemble à un mensonge...\n La réalité reste la même...\"",
+            "\\.\"S-Sara...\"",
+            "\\.\"M-Même si ça a l'air d'un mensonge...\n La réalité reste la même...\"",
             "\\.\"On te dit tous... la vérité...\"",
             "\\.\"..........\"",
-            "\\.\"Kanna... Vous regrettez ce qu'il s'est passé,\n correct ?\"",
+            "\\.\"Kanna...\n Vous regrettez ce qu'il s'est passé, correct ?\"",
             "\\.\"J'ai... Kanna...\"",
             "\\.\"... a tué sa sœur...!\"",
             "\\.\"Sa sœur essayait frénétiquement de l'aider et\n de la guider mais Kanna est une idiote...\n Elle ne l'a pas écoutée...!!\"",
@@ -2852,7 +2852,7 @@
             "\\.\"C'est te voir vivre... qui me rend heureuse !\"",
             "\\.\"... Sœu... rette...\"",
             "\\.\"Tu me manques tellement... grande sœur...\"",
-            "\\.\"Il n'est désormais plus l'heure de vous blâmer\n pour vos actions. Votre sœur vous observe dans\n un endroit meilleur.\"",
+            "\\.\"Il n'est désormais plus l'heure de vous blâmer\n pour vos actions. Votre sœur vous observe depuis\n un meilleur endroit.\"",
             "\\.\"..........\"",
             "\\.\"... Kanna...\"",
             "\\.\"Kanna ne se laissera pas faire...!\"",
@@ -2959,7 +2959,7 @@
             "\\.\"Parce que t'es juste trop meugnonne.\"",
             "\\.\\C[4](... Keiji incite intentionnellement tout le\n monde à me faire confiance.)",
             "\\.\\C[4](Je me demande pourquoi...?)",
-            "\\.\"Je m'attendais pas à ce que tu répondes à un\n compliment avec un regard aussi plein de soupçon.\"",
+            "\\.\"Je m'attendais pas à ce que tu répondes à un\n compliment par un regard aussi méfiant.\"",
             "\\.\"Ah, oui ! Keiji.\n J'ai trouvé ces balles à blanc dans la cafétéria.\"",
             "\\.\"... Quoi ?\"",
             "\\.\\C[3]Balles à blanc remises à Keiji.",
@@ -2973,7 +2973,7 @@
             "\"Allons voir ça de plus près...\""
         ],
         "1-5-message": [
-            "\\C[4](Je suppose que je devrais chercher ailleurs...)",
+            "\\C[4](Je suppose que je devrais regarder ailleurs...)",
             "\"Oh, Sara. Attends une petite minute...\"",
             "\\.\"Oui ?\"",
             "\\.\\C[3]Avant de sortir de la salle, je me suis retournée, et...",
@@ -2983,7 +2983,7 @@
             "\\.\\C[3]Des barres en acier sont apparues à la porte,\nme séparant de Sou...!",
             "\\.\\C[4](On nous a enfermés ?!)",
             "\\.\"... Gah !\"",
-            "\\.\"Ça ne s'ouvre pas... !\n J... Je vais chercher de quoi forcer le passage !\"",
+            "\\.\"Ça ne s'ouvre pas... !\n J-Je vais chercher de quoi forcer le passage !\"",
             "\\.\"Hé bien, nous voilà dans de beaux draps.\"",
             "\\.\"Sara ! T'es blessée ?!\"",
             "\\.\"Non... Je vais bien, mais...\"",
@@ -2993,7 +2993,7 @@
             "\\.\\sw[99]\"Ha ha ha.\n Restons sur l'essentiel.\"\\sw[100]",
             "\\.\\sw[99]\"Je suis le maître de cette pièce.\n Vous pouvez m'appeler le Parrain.\"\\sw[100]",
             "\\.\\sw[99]\"Maintenant, allons droit au but et laissez-moi\n vous expliquer les règles du jeu qui va suivre.\"\\sw[100]",
-            "\\.\"L... Les règles...?\"",
+            "\\.\"L-Les règles...?\"",
             "\\.\\sw[99]\"Bah, bien sûr ! Tu comptais mettre ta vie\n en jeu sans même connaître les règles ?!\n T'es un sacré bonhomme, toi !\"\\sw[100]",
             "\\.\"Mettre... ma vie en jeu ?\"",
             "\\.\\sw[99]\"C'est simple ! À l'heure actuelle, vous êtes \\C[2]cinq\\C[0]\n êtres humains dans cette salle, vous voyez ?\"\\sw[100]",
@@ -3001,7 +3001,7 @@
             "\\.\\sw[99]\"L'un de vous sera le Concurrent, tandis que les\n quatre autres s’assiéront pour servir de cibles.\"\\sw[100]",
             "\\.\"Des cibles...? Des cibles de quoi ?!\"",
             "\\.\\sw[99]\"Hé bien, je vous ai laissé une super arme dans\n cette salle... Vous voyez où je veux en venir ?\"\\sw[100]",
-            "\\.\"O... On va être les cibles d'un révolver ?!\"",
+            "\\.\"O-On va être les cibles d'un révolver ?!\"",
             "\\.\"Et ? C'est quoi les règles ?\n Il doit bien y avoir un moyen de gagner sans faire\n de victimes.\"",
             "\\.\\sw[99]\"Ha ha ha ! Mais naturellement !\n Un piège mortel sans issue, ça fait juste vieux jeu !\n Vous me comprenez ?\"\\sw[100]",
             "\\.\\sw[99]\"Tout d'abord... vous allez décider de qui sera\n \\C[2]le Concurrent\\C[0].\"\\sw[100]",
@@ -3087,7 +3087,7 @@
             "\\.\"Content que tu me fasses confiance en tout cas.\n Ahaha.\"",
             "\\.\"...\"",
             "\\.\"Ahaha, tu as raison.\n Tu ne devrais pas le quitter du regard.\"",
-            "\\.\"Il n'a pas l'air d'être chargé, mais...\n Tu devrais le garder en ta possession.\"",
+            "\\.\"Il n'a pas l'air d'être chargé, mais...\n Tu devrais le garder sur toi.\"",
             "\\.\"D'accord...\"",
             "\\.\"...\""
         ],
@@ -3104,7 +3104,7 @@
             "\\.\"Essaie de la décrocher du mur pour voir.\"",
             "\\.\"J'pense que je vais d'abord m'occuper des\n trucs simples, genre ces fauteuils.\"",
             "\\.\"Mais dis-moi, Sara, c'est que t'es trop\n petite pour l'atteindre, hein ?\"",
-            "\\.\"Hé, j'ai pris un centimètre l'année dernière.\n Ne me prends pas à la légère !\"",
+            "\\.\"Hé, j'ai pris un centimètre l'année dernière.\n Me prends pas à la légère !\"",
             "\\.\"M-Meuf, me rabaisse pas...\"",
             "\\.\"Je vais finir par t'appeler \"minus\" un de ces jours.\"",
             "\\.\"Argh...!\""
@@ -3128,7 +3128,7 @@
             "\\.\"En tout cas, je suis rassuré.\n Je ne sais pas ce que j'aurais fait si elles\n s'étaient mises à nous attaquer !\""
         ],
         "7-1-choice": [
-            "Inspectons-le de plus près\nOn ne devrait pas y toucher"
+            "Inspectons-la de plus près\nOn ne devrait pas y toucher"
         ],
         "1-5-choice": [
             "Je suis prête\nPas encore"
@@ -3137,7 +3137,7 @@
             "\"J'vous l'dit, ça c'est un endroit pour\n l'moins suspect.\"",
             "\\.\"Qu'est-ce que tu fais, Q-taro ?\"",
             "\\.\"J'regarde juste la salle dans son ensemble.\"",
-            "\\.\"Mais ces gars, là...\n Ils examinent chaque recoin sans broncher...\n Z'ont pas peur d'tomber sur des pièges ?\""
+            "\\.\"Mais ces gars, là...\n Ils examinent chaque recoin sans broncher...\n Z'ont pas peur d'tomber dans des pièges ?\""
         ],
         "3-2-message": [
             "\"Euhh... Sou, c'est ça ?\"",
@@ -3157,7 +3157,7 @@
             "\\.\"Attends, ce sont...\"",
             "\\.\"Non, ce sont pas les miennes.\n Je les ai trouvées en examinant les sièges.\"",
             "\\.\"Je... n'en avais jamais vu de mes propres yeux.\n Ce sont des vraies ?\"",
-            "\\.\"Sûrement. Elles sont dangereuses.\n Tu pourrais les prendre ?\"",
+            "\\.\"Sûrement. Elles sont dangereuses.\n Tu pourrais les garder ?\"",
             "\\.\"Pourquoi moi...?\"",
             "\\.\"Joe sera mort d'angoisse si je les garde.\"",
             "\\.\"Cela dit, je peux pas les lui donner non plus.\"",
@@ -3167,7 +3167,7 @@
             "\"Je continue mes recherches avec diligence.\""
         ],
         "6-1-choice": [
-            "Inspectons-le de plus près\nOn ne devrait pas y toucher",
+            "Inspectons-la de plus près\nOn ne devrait pas y toucher",
             "Donner le pistolet à Sou\nNe pas lui donner"
         ],
         "6-2-message": [
@@ -3186,7 +3186,7 @@
             "\\.\"En tout cas, je suis rassuré.\n Je ne sais pas ce que j'aurais fait si elles\n s'étaient mises à nous attaquer !\""
         ],
         "6-2-choice": [
-            "Inspectons-le de plus près\nOn ne devrait pas y toucher"
+            "Inspectons-la de plus près\nOn ne devrait pas y toucher"
         ]
     },
     "map29": {
@@ -3240,7 +3240,7 @@
             "\\C[3]Cette pièce a de nombreux chemins.",
             "\\C[3]Quand on regarde dedans, on remarque que la plupart\nne mènent qu'à des culs-de-sac.",
             "\"Tu vois ces énormes coussins, au fond des impasses ?\"",
-            "\\.\"Je me demande si quand je suis tombée,\n j'ai atterri sur l'un d'eux...\"",
+            "\\.\"Je me demande si, quand je suis tombée,\n j'ai atterri sur l'un d'eux...\"",
             "\\.\"Moi aussi.\n Je parie qu'on est tous tombés de la même manière.\"",
             "\\.\"Joe t'avait portée de là jusqu'ici.\"",
             "\\.\"Je ne pensais pas que vous étiez amis.\""
@@ -3277,7 +3277,7 @@
             "\\.\\C[4](Nao... ne veut pas se séparer de lui.)",
             "\"S'il te plaît, calme-toi.\n On ne compte pas te le prendre.\"",
             "\\.\"... Alors... Partez d'ici...!\"",
-            "\\.\\C[4](... C'est pas bon...\n On ne va pas pouvoir régler ça en parlant.)",
+            "\\.\\C[4](... C'est pas bon...\n Vu son état, on ne va pas pouvoir régler ça en parlant.)",
             "\\C[3]Je ferme à clé la porte de l'intérieur.",
             "\\.\"Qu... Qu'est-ce que tu fais ?!\"",
             "\\.\"... Comme ça, personne d'autre ne peut entrer.\n Tu veux bien nous parler, maintenant ?\"",
@@ -3382,7 +3382,7 @@
             "\\.\"Vu qu'c'était elle la plus inquiète.\"",
             "\\.\"Oui...!\"",
             "\\.\"Désolée pour ce que j'ai dit... Monsieur le Policier.\"",
-            "\\.\"Aller la bleusaille, on continue le bon boulot.\"",
+            "\\.\"Allez la bleusaille, on continue le bon boulot.\"",
             "\\.\"Oui.\""
         ],
         "2-2-message": [
@@ -3395,29 +3395,35 @@
             "\\.\\C[4](..........)",
             "\\.\"... Hein ?\"",
             "\\.\"... Désolée. Je peux te demander de le faire ?\"",
-            "\\.\"Bien sûr. C'est à peu près à\n ça que sert votre ami policier.\"",
+            "\\.\"Bien sûr.\n C'est à peu près à ça que sert votre ami le policier.\"",
             "\\.\\C[3]Keiji a ouvert la boîte et a regardé à l'intérieur.",
             "\\.\"... Hmm ?\"",
             "\\.\"...\"",
-            "\\.\"Sara, jette un coup d'oeil ici.\"",
-            null,
+            "\\.\"Sara, jette un coup d'oeil.\"",
+            "\\.\"Hein...?\"",
             "\\.\\C[3]Il n'y a... rien dans la boîte.",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\.\"Qu'est-ce... qu'il se passe, ici ?\"",
+            "\\.\"... Elle est... sans l'ombre d'un doute... vide.\"",
+            "\\.\\C[4](Nao aurait... autant cherché à protéger...\n une boîte vide ?)",
+            "\\.\\C[4](Mais... où est passé Monsieur Mishima...?)",
+            "\"Ça voudrait dire que ce sont les kidnappeurs\n qui l'ont, alors ?\"",
+            "\\.\"Mais vu comment Nao se comportait...\n Je pense pas qu'elle l'ait lâchée ne serait-ce\n qu'une seconde.\"",
+            "\"Tu crois que Nao l'a jamais mise dedans...?\"",
+            "\\.\"Nan. Pas moyen.\n Je l'ai vue le faire de mes propres yeux.\"",
+            "\\.\"Je vois...\"",
+            "\"Non...\n Nao l'aurait gardée avec elle ?!\"",
+            "\\.\"C'est trop gros... Je pense pas que ce soit le cas.\"",
+            "\\.\"C'est vrai...\"",
             "\\.\"...\"",
-            null,
-            null,
-            "\\.\"...\""
+            "\\.\"Ça commence à être dur de savoir ce qui est réel\n ou non.\"",
+            "\\.\"Même la mort de Monsieur Mishima...\n\\! ... Ah, oups.\"",
+            "\\.\"...\"",
+            "\\.\"... Nah, j'avais juste envie de dire ça.\"",
+            "\\.\"Rillante, c'est ça ? ... Si seulement Mishima pouvait\n revenir à la vie en lui remettant sa tête sur ses\n épaules. Je suis sûr que Nao serait ravie...\"",
+            "\\.\\C[4](Comme une poupée, hein...)",
+            "\\.\"Hahaha ! Nan... Pas moyen.\n C'est pas une poupée.\"",
+            "\\.\"... Hahaha. Même toi, tu devrais être suffisamment\n capable de faire la différence entre un être vivant\n et un objet pour savoir qu'il était humain, Sara.\"",
+            "\\.\"Bon, inutile de s'en préoccuper.\n Continuons simplement d'avancer et de chercher à\n trouver le fond de cette histoire.\""
         ],
         "3-1-message": [
             "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles."
@@ -3435,7 +3441,7 @@
             "\\C[3]Une poupée qui me ressemble remarquablement."
         ],
         "7-1-message": [
-            "\\C[3]Un bouchon trouvé au fond du bassin.\nIl est petit et lourd."
+            "\\C[3]Un bouchon trouvé dans un des bassins.\nIl est petit et lourd."
         ],
         "25-1-message": [
             "\\C[3]Le portrait d'une personne tenant un pistolet.\nIl y a une autre peinture au dos."
@@ -3478,6 +3484,25 @@
             "Tu devrais abandonner la boîte\nLui parler de Gin",
             "Est mort",
             "Alors tu comptes arrêter la peinture ?\nTu devrais le terminer"
+        ],
+        "2-2-choice": [
+            "Regarder à l'intérieur\nDemander à Keiji",
+            "Les kidnappeurs l'ont déjà prise\nElle n'a jamais été mise dedans\nNao la cache",
+            "Tu penses que Rillante est une poupée ?\nTu penses que Mishima est une poupée ?"
+        ],
+        "2-3-message": [
+            "\\C[3]La boîte est vide.",
+            "\\.\"... Ça t'énerve d'avoir un mystère non résolu ? Haha.\""
+        ],
+        "6-1-message": [
+            "\\.\\C[3]Des étagères où ranger des ustensiles de cuisine.",
+            "\\.\\C[4](... Mais je ne vois rien qui y ressemble.)",
+            "\\.\\C[4](Hein ? Qu'est-ce que c'est que cette boîte ?)",
+            "\\.\\C[3]\"Cet objet est à votre libre disposition.\"",
+            "\\.\\{\\C[7]3\\C[0]61\\C[7]80\\C[0]2\\C[3]",
+            "<<REMOVE>>",
+            "\\.\\C[4](Hmm...?)",
+            "\\.\\C[3]Longue Boîte Fine obtenue."
         ]
     },
     "map48": {
@@ -3509,7 +3534,7 @@
             "\\C[3]Un vaporisateur.\nDes gouttelettes d'eau y sont collées."
         ],
         "32-3-message": [
-            "\\C[3]Un bouchon trouvé au fond du bassin.\nIl est petit et lourd."
+            "\\C[3]Un bouchon trouvé dans un des bassins.\nIl est petit et lourd."
         ],
         "31-3-message": [
             "\\C[3]Le portrait d'une personne tenant un pistolet.\nIl y a une autre peinture au dos."
@@ -3525,6 +3550,270 @@
         ],
         "98-1-message": [
             "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
+        ],
+        "1-1-message": [
+            "\\C[3]Il y a un trou dans le plafond.\nOn peut y insérer quelque chose à l'intérieur.",
+            "\"Je me demande si...\"",
+            "\\.\"Porte-moi sur ton dos, s'il te plaît.\"",
+            "\\.\"Ouais, ça me semble logique.\"",
+            "\\C[3]L'Ampoule a été insérée.",
+            "\\.\"C'est bien. Bon garçon.\"",
+            "\\.\"... Monsieur le Policier est pas un chien.\""
+        ],
+        "2-1-message": [
+            "\\C[3]L'une des ampoules installées ne reçoit\npas de courant.",
+            "\\.\\C[4](Je n'arrive pas à l'atteindre...)",
+            "\"... Tu veux que je te porte sur mes épaules ?\"",
+            "\\.\"Oh... Je veux bien.\"",
+            "\\.\"Hé, je disais ça pour déconner... mais comme tu veux.\"",
+            "\\C[3]Ampoule obtenue.",
+            "\\.\"Merci beaucoup.\"",
+            "\\.\"Ouais, ouais.\""
+        ],
+        "3-1-message": [
+            "\\C[3]L'ampoule émet une douce lueur."
+        ],
+        "1-2-message": [
+            "\\C[3]L'ampoule émet une douce lueur."
+        ],
+        "4-1-message": [
+            "\\C[3]La balance est inclinée vers la droite.",
+            "\\.\\C[4](Je pourrais mettre ce bouchon sur la balance.)",
+            "\\.\\C[3]Le Bouchon a été placé de l'autre côté de la balance.",
+            "\\.\\C[4](C'est parfaitement équilibré...!)",
+            "\\C[3]La balance est inclinée vers la gauche.",
+            "\\C[3]... Du bruit retentit dans une autre pièce."
+        ],
+        "4-2-message": [
+            "\\C[3]La balance est inclinée vers la gauche.",
+            "\\.\\C[4](Je pourrais mettre ce bouchon sur la balance.)",
+            "\\.\\C[3]Le Bouchon a été placé de l'autre côté de la balance.",
+            "\\.\\C[4](C'est parfaitement équilibré...!)",
+            "\\C[3]La balance est inclinée vers la droite.",
+            "\\C[3]... Du bruit retentit dans une autre pièce."
+        ],
+        "4-1-choice": [
+            "Changer le poids de côté\nAnnuler"
+        ],
+        "4-2-choice": [
+            "Changer le poids de côté\nAnnuler"
+        ],
+        "4-3-message": [
+            "\\C[3]La balance est bien équilibrée."
+        ],
+        "5-1-message": [
+            "\\C[3]Ce vase contient des fleurs.",
+            "\\C[3]Fleur obtenue."
+        ],
+        "5-1-choice": [
+            "En prendre une\nAnnuler"
+        ],
+        "5-3-message": [
+            "\\C[3]Ce vase contient des fleurs."
+        ],
+        "6-1-message": [
+            "\\C[3]Ce vase contient des fleurs.",
+            "\\.\\C[3]La Fleur a été placée."
+        ],
+        "5-2-message": [
+            "\\C[3]Ce vase contient des fleurs.",
+            "\\.\\C[3]La Fleur a été placée."
+        ],
+        "7-1-message": [
+            "\\C[3]La fenêtre est recouverte par du papier peint.",
+            "\\C[3]Il s'est facilement décollé."
+        ],
+        "7-1-choice": [
+            "Le retirer\nAnnuler"
+        ],
+        "8-1-message": [
+            "\\C[3]Une statue de glace.",
+            "\\.\\C[4](Je vais verser de l'eau chaude dessus.)",
+            "\\.\\C[3]La statue de glace a fondu pour devenir une flaque."
+        ],
+        "9-1-message": [
+            "\\C[3]Ce miroir luisant me réfléchit.",
+            "\\.\\C[4](Je vais essayer d'utiliser le spray dessus.)",
+            "\\C[3]De fines gouttelettes d'eau recouvrent le miroir.",
+            "\\.\\C[4](Elles n'ont pas l'air de partir...)",
+            "\\.\\C[4](J'ai l'air un peu fatiguée...)",
+            "\\.\\C[4](Mon uniforme est sale...)",
+            "\\.\\C[4](Je fais une petite tête...)",
+            "\\.\\C[4](... Toi, tu gères.)",
+            "\\.\\C[4](Ah, je suis un peu décoiffée...)"
+        ],
+        "9-2-message": [
+            "\\C[3]Les gouttelettes d'eau collées au miroir brouillent\nma réflexion.",
+            "\\.\\C[4](Je devrais reculer la poupée de manière à\n ce que le miroir reflète son corps en entier.)",
+            "\\.\\C[3]La Réplique de Sara a été placée devant le miroir.",
+            "\\.\\C[4](Pour que les deux miroirs reflètent la même chose,\n il me faudrait une sœur jumelle ou une réplique de\n moi-même...)",
+            "\\.\\C[4](... En parlant de répliques...\n On avait trouvé une réplique identique à Kanna\n quelque part...)"
+        ],
+        "9-3-message": [
+            "\\C[3]Les gouttelettes d'eau collées au miroir brouillent\nma réflexion.",
+            "\\C[3]Je me positionne en face du miroir.",
+            "\\.\\C[4](Tout devrait être symétrique, maintenant...)",
+            "\\.\\C[3]Quelque chose a changé dans une des autres salles.",
+            "\"Bien joué, Sara.\n Allons jeter un coup d'œil aux alentours.\"",
+            "\\.\\C[4](... Il ne s'est rien passé.)",
+            "\\.\\C[4](Je devrais d'abord résoudre les autres énigmes\n de cette salle. Je ferai le miroir en dernier.)"
+        ],
+        "13-1-message": [
+            "\\C[3]Le miroir brumeux me reflète vaguement.",
+            "\\.\\C[4](Je devrais reculer la poupée de manière à\n ce que le miroir reflète son corps en entier.)",
+            "\\.\\C[3]La Réplique de Sara a été placée devant le miroir.",
+            "\\.\\C[4](Pour que les deux miroirs reflètent la même chose,\n il me faudrait une sœur jumelle ou une réplique de\n moi-même...)",
+            "\\.\\C[4](... En parlant de répliques...\n On avait trouvé une réplique identique à Kanna\n quelque part...)"
+        ],
+        "6-2-message": [
+            "\\C[3]Ce vase contient des fleurs."
+        ],
+        "6-3-message": [
+            "\\C[3]Ce vase contient des fleurs."
+        ],
+        "9-5-message": [
+            "\\C[3]Les gouttelettes d'eau collées au miroir brouillent\nma réflexion."
+        ],
+        "9-4-message": [
+            "\\C[3]La réflexion de la poupée est floue."
+        ],
+        "9-3-choice": [
+            "Se mettre en place\nS'éloigner"
+        ],
+        "9-6-message": [
+            "\\C[3]La réflexion de la poupée est floue."
+        ],
+        "10-3-message": [
+            "\\C[3]La peinture d'une main tenant un pistolet.",
+            "\\.\\C[4](Il y a une autre peinture au dos, aussi.)",
+            "\\C[3]Peinture Orientée vers la Droite obtenue."
+        ],
+        "10-4-message": [
+            "\\C[3]La peinture d'une main tenant un pistolet.",
+            "\\.\\C[4](Il y a une peinture au recto, aussi.)",
+            "\\C[3]Peinture Orientée vers la Droite obtenue."
+        ],
+        "10-5-message": [
+            "\\C[3]La peinture d'une main tenant un pistolet."
+        ],
+        "10-1-message": [
+            "\\C[3]La peinture d'une main tenant un pistolet.",
+            "\\.\\C[4](Il n'y a rien au dos...)",
+            "\\C[3]Portrait Orienté vers la Gauche obtenu."
+        ],
+        "12-1-message": [
+            "\\C[3]La peinture d'une main tenant un pistolet.",
+            "\\.\\C[4](Il y a une autre peinture au dos, aussi.)",
+            "\\C[3]Peinture Orientée vers la Droite obtenue."
+        ],
+        "12-2-message": [
+            "\\C[3]La peinture d'une main tenant un pistolet.",
+            "\\.\\C[4](Il y a une peinture au recto, aussi.)",
+            "\\C[3]Peinture Orientée vers la Droite obtenue."
+        ],
+        "12-4-message": [
+            "\\C[3]La peinture d'une main tenant un pistolet.",
+            "\\.\\C[4](Il n'y a rien au dos...)",
+            "\\C[3]Portrait Orienté vers la Gauche obtenu."
+        ],
+        "12-5-message": [
+            "\\C[3]La peinture d'une main tenant un pistolet."
+        ],
+        "13-2-message": [
+            "\\C[3]Le miroir brumeux me reflète vaguement.",
+            "\\C[3]Je me positionne en face du miroir.",
+            "\\.\\C[4](Tout devrait être symétrique, maintenant...)",
+            "\\.\\C[3]Quelque chose a changé dans une des autres salles.",
+            "\"Bien joué, Sara.\n Allons jeter un coup d'œil aux alentours.\"",
+            "\\.\\C[4](... Il ne s'est rien passé.)",
+            "\\.\\C[4](Je devrais d'abord résoudre les autres énigmes\n de cette salle. Je ferai le miroir en dernier.)"
+        ],
+        "13-2-choice": [
+            "Se mettre en place\nS'éloigner"
+        ],
+        "13-5-message": [
+            "\\C[3]La réflexion de la poupée est floue."
+        ],
+        "13-3-message": [
+            "\\C[3]La réflexion de la poupée est floue."
+        ],
+        "10-1-choice": [
+            "Prendre la peinture\nAnnuler"
+        ],
+        "10-2-message": [
+            "\\C[3]C'est là qu'était accrochée la peinture\nd'une personne tenant un pistolet.",
+            "\\.\\C[4](Allez, je mets cette peinture ici.)",
+            "\\C[3]Peinture Orientée vers la Droite accrochée.",
+            "\\.\\C[4](Allez, je mets cette peinture ici.)",
+            "\\C[3]Peinture Orientée vers la Gauche accrochée."
+        ],
+        "10-3-choice": [
+            "Retourner la peinture\nPrendre la peinture\nAnnuler"
+        ],
+        "10-4-choice": [
+            "Retourner la peinture\nPrendre la peinture\nAnnuler"
+        ],
+        "11-1-message": [
+            "\\C[3]Il y a assez d'espace pour accrocher\nquelque chose au mur, ici.",
+            "\\C[3]La peinture a été accrochée au mur.",
+            "\\C[4](Il y a une peinture de l'autre côté, donc...)"
+        ],
+        "12-4-choice": [
+            "Prendre la peinture\nAnnuler"
+        ],
+        "12-3-message": [
+            "\\C[3]C'est là qu'était accrochée la peinture\nd'une personne tenant un pistolet.",
+            "\\.\\C[4](Allez, je mets cette peinture ici.)",
+            "\\C[3]Peinture Orientée vers la Gauche accrochée.",
+            "\\.\\C[4](Allez, je mets cette peinture ici.)",
+            "\\C[3]Peinture Orientée vers la Droite accrochée."
+        ],
+        "12-1-choice": [
+            "Retourner la peinture\nPrendre la peinture\nAnnuler"
+        ],
+        "12-2-choice": [
+            "Retourner la peinture\nPrendre la peinture\nAnnuler"
+        ],
+        "11-2-message": [
+            "\\C[3]Le portrait d'un homme tourné vers la gauche."
+        ],
+        "11-3-message": [
+            "\\C[3]L'homme dans la peinture s'est fait descendre."
+        ],
+        "13-4-message": [
+            "\\C[3]Le miroir brumeux me reflète vaguement."
+        ],
+        "15-1-message": [
+            "\\C[3]Un vaporisateur contenant un liquide inconnu.",
+            "\\C[3]Vaporisateur obtenu."
+        ],
+        "29-1-message": [
+            "\\C[3]Un vaporisateur contenant un liquide inconnu.",
+            "\\C[3]Vaporisateur obtenu."
+        ],
+        "24-2-message": [
+            "\\C[4](...!)"
+        ],
+        "26-1-message": [
+            "\\.\\C[4](Qu'est-ce que c'est que cette salle...?!)",
+            "\\.\\C[4](... Plus tard.\n Pour l'instant, ma priorité, c'est de retrouver Nao.)"
+        ],
+        "26-4-message": [
+            "\\.\"... Deux salles symétriques, hein...\"",
+            "\\.\"Ça m'a l'air d'être ton genre de puzzle, ça, Sara.\"",
+            "\\.\"Et si... c'était une autre piège, miaou...\"",
+            "\\.\"On devrait faire gaffe.\"",
+            "\\.\"Je ne pense pas que Nao soit ici...\"",
+            "\\.\"... Ouais, je pense pas non plus.\""
+        ],
+        "95-1-message": [
+            "\\C[3]Il y a une flaque dans le coin de la salle."
+        ],
+        "34-1-message": [
+            "\\C[3]Le portrait d'un homme qui s'est fait tuer."
+        ],
+        "89-1-message": [
+            "\\C[3]Les côtés de la balance sont fixés et ne bougent pas."
         ]
     },
     "map23": {
@@ -3571,16 +3860,16 @@
         ],
         "4-1-message": [
             "\\C[3]Un torse de poupée est posé contre le mur.",
-            "\\.\"I... Il ne va pas se mettre à bouger, hein...?\"",
+            "\\.\"I-Il ne va pas se mettre à bouger, hein...?\"",
             "\\.\"Je me demande si c'est...\"",
             "\\.\"Tu te rappelles la note que Keiji avait lu ?\"",
             "\\.\"Trouver le \\C[2]corps\\C[0]...!\n C'est vrai, il y avait une note.\"",
             "\"Ton imagination est incroyablement,\n sauvagement tordue.\"",
             "\\.\"Sauvagement tordue...?\"",
-            "\\.\"P-Plus important... Ne penses-tu pas qu'il a un\n lien avec la tête qu'on a trouvée dans la boîte ?\"",
+            "\\.\"P-Plus important... Tu ne penses pas qu'il a un\n lien avec la tête qu'on a trouvée dans la boîte ?\"",
             "\\.\"Mais si ! Trouver le \\C[2]corps\\C[0]...\n Ne te souviens-tu pas de la note ?\"",
             "\\.\"Je me demande si la tête de la boîte\n peut être combinée avec ce torse...\"",
-            "\\.\"Penses-tu que ça fera quelque chose ?\"",
+            "\\.\"Tu penses que ça fera quelque chose ?\"",
             "\\.\"C'est possible. Ce qui fait un peu peur...\"",
             "\\.\"O-Oui, tu as raison ! On devrait fouiller un peu\n plus les environs, d'abord ! A... Ahaha...\""
         ],
@@ -3636,7 +3925,7 @@
             "\\C[4](Tête, bras gauche, bras droit, jambe gauche\n et jambe droite... Il ne me manque rien.)",
             "\\C[4](Devrais-je... les combiner ?)",
             "\"Allons chercher ailleurs d'abord, Sara.\"",
-            "\"... On le fait, hein...!\n Ok, je vais chercher les autres !\""
+            "\"... On y va, hein...?!\n Okay, je vais chercher les autres !\""
         ],
         "4-4-choice": [
             "Attacher les membres\nMe préparer (Annuler)"
@@ -3684,7 +3973,7 @@
             "\\.\"... Quoi ?!\"",
             "\\.\"Hé... C'est moi ou la salle devient blanche ?!\"",
             "\\.\"C'est du gaz...!\"",
-            "\\.\"Du p... poison...?!\n C'est pas bon du tout... On doit sortir d'ici...!\"",
+            "\\.\"Du-Du poison...?!\n Ce n'est pas bon du tout...\n Il faut qu'on sorte d'ici...!\"",
             "\\.\\C[3]Mais le gaz blanc envahit la salle en un clin d'œil.",
             "\\.\\C[4](Je ne vois rien...!)",
             "\\.\\C[3]Je n'arrive même plus à voir mes mains.",
@@ -3694,7 +3983,7 @@
             "\\.\\C[3]..........",
             "\\.\"Ce n'est pas du poison, vous pouvez tous\n vous détendre.\"",
             "\\.\"Ahaha. Bonjour tout le monde.\"",
-            "\\.\"Q... Hein ?!\n T... T'es la...\"",
+            "\\.\"Qu- Hein ?!\n T-T'es la...\"",
             "\\.\"La poupée ?!\"",
             "\\.\"Hi hi hi... Alors, le progrès vous laisse sans voix ?\n Hé oui, c'est moi, la poupée que vous venez de\n sauver !\"",
             "\\.\"Heeeeein ?!\n Mais c'est quoi ce bordel, à la fin ?!\"",
@@ -3708,10 +3997,10 @@
             "\\.\"Réponds-nous !! Qu'est-ce que t'es ?!?\"",
             "\\.\"Le policier du coin aimerait savoir aussi.\n Je suis pas trop, là...\"",
             "\\.\"Héhéhé. Dans ce cas, nous commencerons\n d'abord par ma présentation...\"",
-            "\\.\"Hi hi. Je suis \\C[2]Sue Rillante, la Poupée Rieuse\\C[0].\n Je suis la poupée qui vous servira de guide dans cet\n étage.\"",
+            "\\.\"Hi hi. Je suis \\C[2]Sue Rillante, la Poupée Rieuse\\C[0].\n Appelez-moi juste Rillante.\n Je suis la poupée qui vous servira de guide pour cet\n étage.\"",
             "\\.\"Hihi. Mon maître m'a ordonné de vous guider,\n courageux survivants, jusqu'au Jeu Principal.\"",
-            "\\.\"Ton maître... En d'autres mots, t'es avec\n les kidnappeurs.\"",
-            "\\.\"T... T'es notre ennemie ?!\n Essaie pas de mentir !\"",
+            "\\.\"Ton maître...\n En d'autres mots, t'es avec les kidnappeurs.\"",
+            "\\.\"T-T'es notre ennemie ?!\n Essaie même pas de mentir !\"",
             "\\.\"Ahaha ! Vous êtes tellement sérieux ! Ahaha !\"",
             "\\.\"Arrête de te marrer, connasse !!\n Tu veux qu'on te bute ?!\"",
             "\\.\"Hihi... Non, je préfèrerais rester en vie...\n Je ne voudrais pas encore finir en morceaux...\"",
@@ -3719,9 +4008,9 @@
             "\\.\"Nous mettre en morceaux...?!\"",
             "\\.\"Ahahaha.\n C'est bien ça, voyez ça comme un avertissement...\"",
             "\\.\"...\"",
-            "\\.\"... Quoi?!\n M-Mon collier... Il vibre...!\"",
+            "\\.\"... Quoi ?!\n M-Mon collier... Il vibre...!\"",
             "\\.\"Héhéhé. Tant que ça vous calme...\n N'importe qui fera l'affaire, hihi.\"",
-            "\\.\"T... T'as fais quoi ?!\"",
+            "\\.\"Qu'est-ce que t'as fait ?!\"",
             "\\.\"Héhéhé, je me le demande.\"",
             "\\.\"Hé !! Réponds-moi !!\"",
             "\\.\"Hahaha, bon, d'accord.\"",
@@ -3758,9 +4047,9 @@
             "\\.\"Ahahah. Dans ce cas, je vous en prie,\n laissez-vous mourir de faim.\"",
             "\\.\"Ouah, c'était direct.\"",
             "\\.\\C[4](Désigner... une personne parmi nous...?)",
-            "\\.\\C[4](Mais... Qu'est-ce qu'elle raconte ?\n Je n'arrive pas à comprendre...)",
+            "\\.\\C[4](Mais... Qu'est-ce qu'elle raconte ?\n Je n'arrive pas à comprendre quoi que ce soit...)",
             "\\.\\C[3]Plus personne n'avait la force de répondre.",
-            "\\.\\C[3]On va tuer l'une des personnes avec qui on est coincées ?\nUn allié ?",
+            "\\.\\C[3]On va devoir tuer quelqu'un parmi nous...?\nUn allié ?",
             "\\.\\C[3]Ou sinon... Ce sont eux qui vont nous tuer...?",
             "\\.\\C[3]Pourquoi... est-ce que rien de tout ça n'a l'air réel ?",
             "\\.\"Ahahah, ne soyez pas si pâle, tout le monde !\n J'ai un petit quelque chose à vous distribuer !\"",
@@ -3770,8 +4059,8 @@
             "\\.\\C[3]Tablette de Vote obtenue.",
             "\\.\"Héhéhé, tout le monde en a une ?\n Bien, essayons de voir si elles fonctionnent.\"",
             "\\.\"Quand on vote et qu'on sait qui a voté pour qui,\n ça finit toujours en dispute, non ?\"",
-            "\\.\"Héhé... Pour éviter ça, vous voterez avec ces tablettes.\n Vous ne saurez pas qui a voté pour quoi.\"",
-            "\\.\"Héhéhé. Essayez de voter pour quelqu'un, pour tester !\""
+            "\\.\"Héhé...\n Pour éviter ça, vous voterez avec ces tablettes.\n Vous ne saurez pas qui a voté quoi.\"",
+            "\\.\"Héhéhé.\n Essayez de voter pour quelqu'un pour tester !\""
         ],
         "1-3-message": [
             "~ Votes ~",
@@ -3819,7 +4108,7 @@
             "~ Résultats ~",
             "\\.\\C[2]Plus voté : Mishima, 4 votes",
             "\\.\\C[2]Plus voté : Mishima, 3 votes",
-            "\"Voyez-vous cela, il semblerait que ce vote soit\n particulièrement inégal.\"",
+            "\"Voyez-vous cela... il semblerait que les résultats\n de ce vote soient particulièrement inégaux.\"",
             "\"Hm... Il s'agit donc d'une tablette de vote...\"",
             "\\.\"Ahaha. As-tu quoi que ce soit d'autre à ajouter ?\"",
             "\\.\"... Si vous étiez humaine, je suppose que j'aurais\n dit quelque chose comme 'Cessez cela, si vous\n avez un cœur.'\"",
@@ -3840,32 +4129,32 @@
             "\\.\\C[3]Le collier changeait de couleur à vue d'œil.",
             "\\.\\sp[12]\"Aaaah...!!! AHHHHHHHHHH...!!\"",
             "\\.\\sp[12]\"Ça brûle...!! AHHHHH...!!\"",
-            "\\.\"Monsieur !! MONSIEUUUUUUUUUX !!!\"",
+            "\\.\"Monsieur !! MONSIEUUUUUUUUUR !!!\"",
             "\\.\\C[4](Monsieur Mishima...!!)",
             "\\.\\C[3]Une odeur subsiste dans l'air.",
             "\\.\\C[3]Une odeur que je n'avais jamais sentie auparavant...",
             "\\.\\C[3]L'odeur de la chair humaine qui brûle...\nEt le bruit du sang qui s'évapore...",
             "\\.\"Faut que tu l'retires !! Enlève-le, vieillard !\"",
             "\\.\\sp[12]\"G... Gaaaaah...!!\"",
-            "\\.\"NOOOOOOOOOON !! MONSIEUUUUUUUUUUUUUUUX !!!\"",
+            "\\.\"NOOOOOOOOOON !! MONSIEUUUUUUUUUUUUUUUR !!!\"",
             "\\.\"Ne vous approchez pas !!\"",
             "\\.\\C[3]Monsieur Mishima repoussa Nao.",
             "\\.\\C[3]Puis, il tomba en arrière, devant Kanna.",
             "\\.\"Au secours !! Monsieur Mishima !!\n Monsieur Mishima va mourir !!\"",
             "\\.\"N-Non !! Si tu touches ce collier...!!\"",
             "\\.\"..........\"",
-            "\\.\\C[3]Finalement, Monsieur Mishima...",
+            "\\.\\C[3]Enfin, Monsieur Mishima...",
             "\\.\\C[3]cessa de bouger...",
-            "\\.\"Monsieur !! MONSIEUUUUUUUUUUUUUUUX !!!\"",
+            "\\.\"Monsieur !! MONSIEUUUUUUUUUUUUUUUR !!!\"",
             "\\.\"Hi... hihi, hyahahaha...!! Bouahah...!\"",
-            "\\.\"Ahhhhh... *snif*... ahhh...!!\"",
+            "\\.\"Ahhhhh... Snif... Ahhh...!!\"",
             "\\.\"Hahahahahaha !! Quel manque d'élégance.\n Tu t'es fait dessus ?\"",
-            "\\.\"*renifle*... C'est... C'est horrible...\n Pourquoi tu as fait ça...?!\"",
+            "\\.\"Sniff*... C'est... C'est horrible...\n Pourquoi tu as fait ça...?!\"",
             "\\.\"Vous avez appris ce que signifiait un vote à la\n majorité grâce à cette expérience, n'est-ce pas ?\"",
             "\\.\\C[3]Horrible...",
             "\\.\\C[3]C'est tellement horrible...",
-            "\\.\\C[3]Sa mort n'a pas été instantanée.\nIl a été brûlé lentement...\nEt sans même pouvoir se tordre de douleur... il est mort.",
-            "\\.\"Tous...\n Nous sommes tous de bonnes personnes !!\n Comment peux-tu faire ça...?! Qu'est-ce qu'on a fait ?!\"",
+            "\\.\\C[3]Sa mort n'a pas été instantanée.\nIl a été brûlé lentement..\nEt sans même pouvoir se tordre de douleur...\nIl est mort.",
+            "\\.\"Tous... Nous sommes tous de bonnes personnes !!\n Comment peux-tu faire ça...?!\n Qu'est-ce qu'on a fait ?!\"",
             "\\.\"Je ne le tolèrerai pas...!!\"",
             "\\.\"Hihi... hihihi...\n Tu m'agaces, petite gamine incapable...\n ... Non.\"",
             "\\.\\C[10]\"Espèce de tueuse de sœur.\"",
@@ -3881,7 +4170,7 @@
             "\\.\"Mille excuses.\n Il semblerait que ma poêle m'ait glissée des mains.\"",
             "\\.\"Espèce de sale...!!\"",
             "\\.\"Alors comme cela, même les poupées saignent rouge.\"",
-            "\\.\"... Crois pas que tu puisses faire ça... et\n t'en tirer sans conséquences...!!\"",
+            "\\.\"... Crois pas que tu puisses faire ça...\n Et t'en tirer sans conséquences...!!\"",
             "\\.\"Au contraire... Je vous demande de ne pas croire\n une seconde que vous allez vous en tirer aussi\n facilement.\"",
             "\\.\"Je vous ferai payer pour avoir joué avec la vie des\n gens.\"",
             "\\.\"Merde !! Bordel !!\n Je m'en souviendrai !!\"",
@@ -3893,7 +4182,7 @@
             "\\.\\C[3]...",
             "\\.\\C[3]..........",
             "\\.\\C[3]Mais...",
-            "\\.\\C[3]... Même si nous sommes condamnés\n à nous entretuer par des votes à la majorité...",
+            "\\.\\C[3]... Même si nous sommes condamnés à nous entretuer\npar des votes à la majorité...",
             "\\.\\C[3]Peu importe à quel point le futur qui nous attend est\ncruel...",
             "\\.\\C[3]... Je ne peux pas...",
             "\\.\\C[3]Je ne peux pas encore mourir...!",
@@ -3941,7 +4230,7 @@
             "\\.\"... Oh que si, que c'est dangereux.\"",
             "\\.\"Bon bah... Si vous mettez du temps à revenir,\n je viendrai vous aider !\"",
             "\\.\"Surtout pas ! Et si elle est au rez-de-chaussée ?\"",
-            "\\.\"Je vais aller voir là-bas... Allez regarder à l'étage !\n S'te plaît, Keiji !\"",
+            "\\.\"Je vais aller voir là-bas... Allez regarder à l'étage !\"",
             "\\.\"Ça roule.\"",
             "\\.\"Reviens immédiatement si tu la trouves, Sara !\"",
             "\\.\\C[4](Dépêchons-nous !)",
@@ -4038,7 +4327,7 @@
             "\\C[3]Le portrait d'une personne tenant un pistolet.\nIl y a une autre peinture au dos."
         ],
         "12-1-message": [
-            "\\C[3]Un bouchon trouvé au fond du bassin.\nIl est petit et lourd."
+            "\\C[3]Un bouchon trouvé dans un des bassins.\nIl est petit et lourd."
         ],
         "14-1-message": [
             "\\C[3]Le portrait d'une personne tenant un pistolet."
@@ -4150,12 +4439,12 @@
             "\\.\\C[3]Ce n'était pas le regard confiant qu'elle\n m'avait donné auparavant.",
             "\\.\\C[4](... J'ai... menti à Kanna.)",
             "\\.\\C[4](À cause de ça...\n J'ai profondément blessé le cœur de Kanna.)",
-            "\\.\\C[4](\\C[10]\"Espèce de tueuse de sœur\"\\C[4]...\n Tout ça, c'est parce que Miley lui a dit\n cette chose horrible...!)",
+            "\\.\\C[4](\\C[10]\"Espèce de tueuse de sœur\"\\C[4]...\n Tout ça, c'est parce que Rillante lui a dit\n cette chose horrible...!)",
             "\\.\"Hé, Sara, tu penses que tu pourrais trouver\n quelque chose que Kanna pourrait porter ?\"",
             "\\.\"Pas de problème.\""
         ],
         "6-1-message": [
-            "\\C[3]Un bouchon trouvé au fond du bassin.\nIl est petit et lourd."
+            "\\C[3]Un bouchon trouvé dans un des bassins.\nIl est petit et lourd."
         ],
         "9-1-message": [
             "\\C[3]Le portrait d'une personne tenant un pistolet."
@@ -4179,7 +4468,7 @@
             "\\C[3]Une carte portant l'inscription \"Maître des Clés\".\nElle indique : \"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe."
         ],
         "2-3-message": [
-            "\\.\"Kanna c'est une chose... Mais Nao, ç'en est une autre.\n Son état m'inquiète.\"",
+            "\\.\"Kanna c'est une chose... Mais Nao, c'en est une autre.\n Son état m'inquiète.\"",
             "\\.\"... Ouais.\""
         ],
         "2-2-choice": [
@@ -4265,7 +4554,7 @@
             "\\.\"...\"",
             "\"...\"",
             "\\.\"... Ouais.\"",
-            "\"Aller, tu l'as dit. Hahaha.\"",
+            "\"Allez, tu l'as dit. Hahaha.\"",
             "\\.\"... Quelle photo mignonne de Ryoko.\"",
             "\\.\"... Tellement.\"",
             "\"D'où ça sort ?!\"",
@@ -4274,7 +4563,7 @@
             "\\.\"...\"",
             "\\.\"... La vache, elle me manque.\"",
             "\\.\"...\"",
-            "\\.\\C[3]Je ne peux pas douter de Joe.\nC'est juste impensable.",
+            "\\.\\C[3]Je ne peux pas me méfier de Joe.\nC'est juste impensable.",
             "\\.\\C[3]Sou...\nIl doit juste... s'imaginer des choses.",
             "\\.\\C[4](...!)",
             "\\.\\C[3]Soudainement, je me rendis compte de quelque chose.",
@@ -4327,7 +4616,7 @@
             "\\C[3]Une poupée qui me ressemble remarquablement."
         ],
         "8-1-message": [
-            "\\C[3]Un bouchon trouvé au fond du bassin.\nIl est petit et lourd."
+            "\\C[3]Un bouchon trouvé dans un des bassins.\nIl est petit et lourd."
         ],
         "39-1-message": [
             "\\C[3]Le portrait d'une personne tenant un pistolet.\nIl y a une autre peinture au dos."
@@ -4362,7 +4651,7 @@
             "\\.\\C[3]En regardant autour de moi, je remarque que presque\ntout le monde à part Nao est présent.",
             "\\.\"Que se passe-t-il, exactement...?\"",
             "\\.\"Oh...? Mais que se passe-t-il, exactement...?\"",
-            "\\.\"Euh, bon... Aller, du calme tout le monde...\"",
+            "\\.\"Euh, bon... Allez, du calme tout le monde...\"",
             "\\.\"... Eum.\n Qui est cette personne ligotée...?\"",
             "\\.\"Hmph, que vous êtes pénibles...\"",
             "\\.\"Vous tous... plus cette \"Nao\" et vous êtes au complet,\n correct ?\"",
@@ -4380,7 +4669,7 @@
             "\\.\"Pourquoi ELLE a le droit de se balader librement ?!\n Dépêchez-vous ! Que quelqu'un la capture !!\"",
             "\\.\"C-C'est quoi ton problème, d'un coup ?!\"",
             "\\.\"Moi, je sais ! Oh que oui, que je sais !\n Cette fille n'est pas celle que vous pensez !!\"",
-            "\\.\"D... Du calme !\n Pourrais-tu reprendre depuis le début ?\"",
+            "\\.\"D... Du calme !\n Tu pourrais reprendre depuis le début ?\"",
             "\\.\"... Et tu peux baisser d'un ton, aussi ?\"",
             "\\.\"..........\"",
             "\\.\"Hmph... Comme je suis pitoyable. \n Comment ai-je pu me laisser faire déstabiliser\n d'une telle manière.\"",
@@ -4462,7 +4751,7 @@
             "\\C[3]Une poupée qui me ressemble remarquablement."
         ],
         "5-1-message": [
-            "\\C[3]Un bouchon trouvé au fond du bassin.\nIl est petit et lourd."
+            "\\C[3]Un bouchon trouvé dans un des bassins.\nIl est petit et lourd."
         ],
         "6-1-message": [
             "\\C[3]Le portrait d'une personne tenant un pistolet.\nIl y a une autre peinture au dos."
@@ -4521,7 +4810,7 @@
             "\\C[3]Une poupée qui me ressemble remarquablement."
         ],
         "8-1-message": [
-            "\\C[3]Un bouchon trouvé au fond du bassin.\nIl est petit et lourd."
+            "\\C[3]Un bouchon trouvé dans un des bassins.\nIl est petit et lourd."
         ],
         "10-1-message": [
             "\\C[3]Le portrait d'une personne tenant un pistolet.\nIl y a une autre peinture au dos."
@@ -4596,7 +4885,7 @@
             "\\.\\C[4](C'est stupéfiant...)",
             "\\.\\C[4](... Mais...)",
             "\\.\\C[4](Quand est-ce... qu'elle a été faite ?)",
-            "\\.\\C[4](Il est impossible de produire ce genre de répliques\n sans observer et étudier le sujet de manière longue et\n appliquée.)",
+            "\\.\\C[4](Impossible de produire ce genre de répliques sans\n observer et étudier la personne en question de\n manière longue et appliquée.)",
             "\\.\\C[4](Qui aurait pu... accomplir une chose pareille...?)",
             "\\.\"...\"",
             "\\.\"... Qu'est-ce qu'il se passe ?\"",
@@ -4610,7 +4899,7 @@
             "\\.\"... J'sais pas.\"",
             "\\.\"...\"",
             "\\.\"On a tous nos bons et nos mauvais côtés, non ?\"",
-            "\\.\"... Écoute.\n Concentre-toi sur ce que t'as à faire, Sara.\n Maintenant, prenons cette poupée et allons-nous-en.\"",
+            "\\.\"... Écoute.\n Concentre-toi sur ce que t'as à faire, Sara.\n Maintenant, on prend cette poupée et on s'en va.\"",
             "\\.\"Keiji, j'aimerais avoir ton avis...\n Est-ce que quelqu'un a attiré ton attention en\n particulier ?\"",
             "\\.\"..........\"",
             "\\.\"... Peut-être Joe.\"",
@@ -4640,7 +4929,7 @@
             "\\C[3]Une poupée qui me ressemble remarquablement."
         ],
         "7-1-message": [
-            "\\C[3]Un bouchon trouvé au fond du bassin.\nIl est petit et lourd."
+            "\\C[3]Un bouchon trouvé dans un des bassins.\nIl est petit et lourd."
         ],
         "10-1-message": [
             "\\C[3]Le portrait d'une personne tenant un pistolet.\nIl y a une autre peinture au dos."
@@ -4738,7 +5027,7 @@
             "\\C[3]Un vaporisateur.\nDes gouttelettes d'eau y sont collées."
         ],
         "36-1-message": [
-            "\\C[3]Un bouchon trouvé au fond du bassin.\nIl est petit et lourd."
+            "\\C[3]Un bouchon trouvé dans un des bassins.\nIl est petit et lourd."
         ],
         "72-1-message": [
             "\\C[3]Le portrait d'une personne tenant un pistolet.\nIl y a une autre peinture au dos."
@@ -4802,7 +5091,7 @@
             "\\.\\C[3]Quelque chose est tombé de la pendule\nlorsqu'elle s'est remise à fonctionner.",
             "\\.\\C[3]Tournevis Cruciforme obtenu.",
             "\\.\\C[4](Il ne se passe rien...)",
-            "\\.\\C[4](Y aurait-il un indice caché dans cette pièce...?)",
+            "\\.\\C[4](Peut-être qu'il y a un indice dans cette pièce...?)",
             "\\.\\C[4](J'aperçois un réveil numérique dans l'étagère.\n Il affiche une heure bizarre. 28:75...?)",
             "\\.\\C[4](Le réveil numérique dans l'étagère\n indique 28:75, mais...)",
             "\\.\\C[4](Si on indiquait \"28 heures\" sur une horloge\n analogique, ça donnerait 4:00... non ?)",
@@ -4924,7 +5213,7 @@
         "13-2-message": [
             "\\.\\C[3]Un liquide rouge se répand sous le carrelage.",
             "\\.\\C[4](Si je verse de l'eau pour en augmenter le volume...)",
-            "\\.\\C[4](Hm...? Quelque chose flotte à la surface...)"
+            "\\.\\C[4](Hm...? Quelque chose est remonté à la surface...)"
         ],
         "13-3-message": [
             "\\.\\C[3]Quelque chose flotte dans le liquide rouge.",
@@ -4964,106 +5253,110 @@
             "\\C[3]Un briquet Zippo chic."
         ],
         "2-1-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\"Pas de Nao ici, on dirait... Rien au premier étage.\"",
+            "\\.\\C[4](J'espère que Joe l'a trouvé au rez-de-chaussée...)",
+            "\\.\\C[4](En parlant de Joe... Je lui ai fait une promesse.)",
+            "\\.\"Même les policiers sont pas immunisés à la\n malchance, j'imagine.\"",
+            "\\.\"Pas génial, hein ?\n Peut-être que je devrais changer de carrière.\"",
+            "\\.\\C[4](Eurgh... Si je tourne autour du pot, il va éviter\n la question, j'imagine...)",
+            "\\.\"Ah, maintenant que j'y pense, Keiji...\n Tout à l'heure, tu as dit que tu \\C[2]avais\\C[0] admiré\n quelqu'un.\"",
+            "\\.\"Tu penses que Nao va bien ?\"",
+            "\\.\"Si elle est au rez-de-chaussée, sûrement, j'imagine.\n Je crois.\"",
+            "\\.\"... Mais son esprit va avoir besoin de s'en remettre.\"",
+            "\\.\\C[4](D'avoir perdu son professeur bien aimé...)",
+            "\\.\"Maintenant que j'y pense, tu m'avais dit... que\n tu \\C[2]avais\\C[0] admiré quelqu'un.\"",
+            "\\.\"... J'ai dit ça, moi ?\"",
+            "\\.\"Oui.\"",
             "\\.\"...\"",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\.\"... Tu n'as pas envie d'en parler ?\"",
+            "\\.\"Hahaha !\n T'es sacrément futée, toi.\"",
+            "\\.\\C[4](Il \"avait admiré\" quelqu'un...\n C'était donc une personne qu'il connaissait auparavant.)",
+            "\\.\"J'aimerais bien en savoir plus sur toi, Keiji.\"",
+            "\\.\"Hmm, alors ça, c'est bizarre...\"",
+            "\\.\"Tu essaies encore d'éviter la question ?\"",
+            "\\.\"..........\"",
+            "\"Si tu ne veux pas me le dire...\n Ça me dérange pas, mais...\"",
+            "\\.\"Nan, j'ai pas envie.\"",
+            "\\.\"Dans ce cas, je n'insiste pas plus.\"",
             "\\.\"...\"",
-            null,
-            null,
-            null,
-            null,
+            "\\.\"Hahaha ! Ouaip, t'es vraiment marrante, Sara.\"",
+            "\\.\"Bahaha... Je sais. Voilà ce qu'on va faire.\"",
+            "\\.\"Si on arrive à survivre au Jeu Principal, je te\n le dirai.\"",
+            "\\.\"Hein...?\"",
             "\\.\"...\"",
-            null,
+            "\\.\"Alors... tu penses vraiment qu'on va devoir\n participer au Jeu Principal...?\"",
             "\\.\"...\"",
-            null,
-            null,
+            "\\.\"Je pense pas qu'on puisse l'éviter.\n Ces gens vont pas nous laisser faire.\"",
+            "\\.\"Et quand on y sera... Fini la plaisanterie.\"",
             "\\.\"...\"",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\.\"Et puis, moi... Je compte pas mourir non plus.\"",
+            "\\.\"Keiji...\"",
+            "\\.\"C'est déplacé de ta part.\"",
+            "\\.\"Je me trompe ?\"",
+            "\\.\"... Mais je parie que tu verras des aspects bien plus\n dégoûtants et choquants de la part d'adultes comme\n moi.\"",
+            "\\.\"Je... détesterais mourir ici aussi.\"",
+            "\\.\"..........\"",
+            "\\.\"Personne a envie de mourir.\n ... Ça va être moche à voir, ça, c'est sûr.\"",
+            "\\.\"Je battrai tous les autres et je gagnerai.\"",
+            "\\.\"... Hahaha !\n T'as vraiment l'air d'une folle en disant ça, Sara.\"",
+            "\\.\"... J'suis sûr que ce serait plus facile d'agir\n comme ça, comme si on était dénués d'émotion.\"",
+            "\\.\"En ignorant toutes les choses stupides comme\n la camaraderie...\"",
             "\\.\"...\"",
-            null,
-            null,
-            null,
+            "\\.\"... On finira peut-être par tous se haïr.\"",
+            "\\.\"Mais... si tu t'en sors en vie et que t'es\n toujours curieuse...\"",
+            "\\.\"Je veux bien te dire qui j'admirais.\n À toi seule et à personne d'autre.\"",
             "\\.\"...\"",
-            null,
-            null,
-            null,
+            "\\.\"Je trouverai... un moyen d'éviter le Jeu Principal.\"",
+            "\\.\"Ouais.\"",
+            "\\.\"... Mais prépare-toi au pire.\"",
             "\\.\"...\""
         ],
         "2-5-message": [
-            null,
-            null,
+            "\"Hé, Sara.\"",
+            "\\.\"Sou ! Et...\"",
             "\\.\"...\"",
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\.\"Tu n'es pas fatiguée ?\n Ce n'est pas bon de trop faire d'efforts.\n Tu devrais te reposer un petit peu.\"",
+            "\\.\"Hmm...\"",
+            "\"Je ne peux pas...\n Pas quand tout le monde fait de son mieux.\"",
+            "\\.\"Moi, je pense qu'il est important de se reposer.\"",
+            "\\.\"Mais bon...\n Quelqu'un pourrait venir t'attaquer à tout moment...\n Donc, je te comprends, Sara.\"",
             "\\.\"...\"",
-            null,
-            null,
-            null,
+            "\"Je suis un peu fatiguée, moi aussi...\"",
+            "\\.\"Si tu commences à t'épuiser, ça va gêner les autres.\n Ça ne donne pas très bonne impression non plus, ahahah.\"",
+            "\\.\"Mais...\n Quelqu'un pourrait venir t'attaquer à tout moment...\n Difficile de se détendre et de se reposer, du coup...\"",
             "\\.\"...\"",
-            null,
-            null,
+            "\\.\"Sara... Je pense que tu ne devrais pas aller\n au rez-de-chaussée seule.\"",
+            "\\.\"Mais...\"",
             "\\.\"...\"",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\.\"Euh... hé.\"",
+            "\\.\"... Joe, c'est... ton meilleur ami, c'est ça ?\"",
+            "\\.\\C[4](Hm...?)",
+            "\"C'est vrai qu'il peut être vraiment bête parfois...\n Mais c'est vraiment quelqu'un de bien, oui.\"",
+            "\\.\"... Je vois.\"",
+            "\\.\"Sara... Tu lui fais confiance, alors.\"",
+            "\"Oh, c'est juste un gars de ma classe.\n Rien de plus.\"",
+            "\\.\"Ahahah, je suis sûr que Joe aurait rigolé s'il\n t'avait entendu. Il ne t'aurait pas laissé filé\n comme ça.\"",
+            "\\.\"... Vous êtes vraiment sur la même longueur d'onde,\n tous les deux. Il faut vraiment se faire confiance\n pour pouvoir faire des blagues comme ça.\"",
             "\\.\"...\"",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\"...\""
+            "\\.\"... Qu'est-ce qu'il a, Joe ?\"",
+            "\\.\"Sara.\"",
+            "\\.\\C[3]Sou se rapprocha de moi et me chuchota dans l'oreille...",
+            "\\.\"Tu te rappelles du vote qu'on a fait...?\"",
+            "\\.\"Mh...?\"",
+            "\\.\\C[3]J'avais... presque oublié.",
+            "\\.\\C[3]Ou plutôt... J'essayais de l'oublier.",
+            "\\.\\C[4](La Seconde Épreuve...\n Le vote qui a tué Monsieur Mishima.)",
+            "\\.\\C[4](Sans compter mon voix...\n Mishima a reçu 3 votes, Sou et Nao en ont reçu 0\n et tous les autres ont eu 1 vote chacun.)",
+            "\\.\\C[4](Mais, il ne faut pas oublier...\n Qu'on ne savait pas que nos voix importaient.)",
+            "\\.\"... Vois-tu...\"",
+            "\\.\"J'ai voté pour Joe.\"",
+            "\\.\\C[4](...!!)",
+            "\\.\"... Tu comprends... ce que ça signifie ?\"",
+            "\\.\"...\"",
+            "\\.\"... Désolé.\n Ça doit te dérouter...\"",
+            "\\.\"Moi, j'y vais.\n On se revoit plus tard...\"",
+            "\\.\\C[4](..........)",
+            "\\.\\C[4](... Joe n'a pas voté pour lui-même...?)"
         ],
         "4-1-message": [
             "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles."
@@ -5081,7 +5374,7 @@
             "\\C[3]Une poupée qui me ressemble remarquablement."
         ],
         "7-1-message": [
-            "\\C[3]Un bouchon trouvé au fond du bassin.\nIl est petit et lourd."
+            "\\C[3]Un bouchon trouvé dans un des bassins.\nIl est petit et lourd."
         ],
         "25-1-message": [
             "\\C[3]Le portrait d'une personne tenant un pistolet.\nIl y a une autre peinture au dos."
@@ -5112,6 +5405,49 @@
         ],
         "82-1-message": [
             "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
+        ],
+        "2-1-choice": [
+            "Interroger Keiji\nDemander à propos de Nao",
+            "Je veux vraiment savoir\nJe ne vais pas insister",
+            "Je suis déçue\nJe ne veux pas mourir non plus\nJe ne perdrai jamais"
+        ],
+        "2-3-message": [
+            "\\.\"Naooooo ! T'es où ?!\"",
+            "\\.\"Hé, ça, c'est du cri ! Continue comme ça !\"",
+            "\\.\"NaoooOOOOO !!\"",
+            "\\.\"Graaah !!\n Pas dans mes OREILLES, crétin ! Crie au LOIN !!\"",
+            "\\.\"Trop désolé...\"",
+            "\\.\"..........\"",
+            "\\.\"T'inquiète pas. T'es en sécurité avec moi.\"",
+            "\\.\"Oh, je sais ! Gin !\n Ça te dit que je te porte sur mon dos ?\"",
+            "\\.\"Quoi...?!\n Non, c'est MOI qui vais le porter sur mon dos !\"",
+            "\\.\"Pourquoi est-ce qu'on se bat...?\""
+        ],
+        "2-5-choice": [
+            "Je vais bien\nJ'ai besoin d'une pause",
+            "Joe est mon meilleur ami\nJoe n'est qu'un camarade de classe"
+        ],
+        "3-1-message": [
+            "\\C[3]D'épaisses barres en fer bloquent le passage."
+        ],
+        "3-2-message": [
+            "\"On peut pas passer à cause de ces barreaux...\"",
+            "\\.\\C[4](Rillante... C'est ici qu'elle a disparu ?)"
+        ],
+        "3-3-message": [
+            "\\C[3]La voie est libre..."
+        ],
+        "50-1-message": [
+            "\\C[3]Une porte \"Mir\"."
+        ],
+        "66-1-message": [
+            "\\C[3]Des escaliers qui mènent directement au\nrez-de-chaussée."
+        ],
+        "42-1-message": [
+            "\\C[3]Une porte \"Ro\"."
+        ],
+        "58-1-message": [
+            "\\C[3]Une porte \"Sp\" jaune."
         ]
     },
     "map46": {
@@ -5119,8 +5455,9 @@
             "\\C[3]Un briquet Zippo chic."
         ],
         "43-1-message": [
-            null,
-            "\\.\\}\\C[5]\"j'suis pas un pingouin...\""
+            "\\C[3]Une statue de ce qui semble être un pingouin.",
+            "\\.\\}\\C[5]\"j'suis pas un pingouin...\"",
+            "\\.\\C[3]...?"
         ],
         "3-1-message": [
             "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles."
@@ -5138,7 +5475,7 @@
             "\\C[3]Une poupée qui me ressemble remarquablement."
         ],
         "33-1-message": [
-            "\\C[3]Un bouchon trouvé au fond du bassin.\nIl est petit et lourd."
+            "\\C[3]Un bouchon trouvé dans un des bassins.\nIl est petit et lourd."
         ],
         "34-1-message": [
             "\\C[3]Le portrait d'une personne tenant un pistolet.\nIl y a une autre peinture au dos."
@@ -5166,6 +5503,36 @@
         ],
         "73-1-message": [
             "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
+        ],
+        "2-1-message": [
+            "\\.\\C[4](Elle n'est pas là...!)"
+        ],
+        "2-4-message": [
+            "\\.\"... C'est un spa.\"",
+            "\\.\"Nos malfaiteurs nous proposent des services de luxe.\"",
+            "\\.\"C'est vrai. Avec autant d'eau, on a de quoi faire\n pendant des jours.\"",
+            "\\.\"... Ça pourrait être la fin du monde que tu\n resterais optimiste, Sara.\""
+        ],
+        "6-1-message": [
+            "\\C[3]Le spa est rempli d'eau chaude.",
+            "\\C[3]Elle est déjà pleine.",
+            "\\C[3]La Bouteille est maintenant remplie d'eau chaude.",
+            "\\C[4](Pour l'instant...! Il faut que je résiste...! Urgh...)"
+        ],
+        "47-1-message": [
+            "\\C[3]Une élégante peinture du Mont Fuji."
+        ],
+        "61-1-message": [
+            "\\C[3]Il y a un petit sauna plongé dans le noir.\nIl n'est pas chaud."
+        ],
+        "64-1-message": [
+            "\\C[3]Une rangée de miroirs."
+        ],
+        "63-1-message": [
+            "\\C[3]Malgré l'absence de douche, il y a des shampoings\net des savons posés ici."
+        ],
+        "6-1-choice": [
+            "Remplir la Bouteille\nJ'ai envie de faire un plongeon...\nAnnuler"
         ]
     },
     "map47": {
@@ -5173,8 +5540,9 @@
             "\\C[3]Un briquet Zippo chic."
         ],
         "41-1-message": [
-            null,
-            "\\.\\}\\C[5]\"j'suis pas un pingouin...\""
+            "\\C[3]Une statue de ce qui semble être un pingouin.",
+            "\\.\\}\\C[5]\"j'suis pas un pingouin...\"",
+            "\\.\\C[3]...?"
         ],
         "4-1-message": [
             "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles."
@@ -5192,7 +5560,7 @@
             "\\C[3]Une poupée qui me ressemble remarquablement."
         ],
         "8-1-message": [
-            "\\C[3]Un bouchon trouvé au fond du bassin.\nIl est petit et lourd."
+            "\\C[3]Un bouchon trouvé dans un des bassins.\nIl est petit et lourd."
         ],
         "32-1-message": [
             "\\C[3]Le portrait d'une personne tenant un pistolet.\nIl y a une autre peinture au dos."
@@ -5220,6 +5588,40 @@
         ],
         "71-1-message": [
             "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
+        ],
+        "57-1-message": [
+            "\\C[3]Une élégante peinture du Mont Fuji."
+        ],
+        "2-4-message": [
+            "\\.\"... C'est un spa.\"",
+            "\\.\"Nos malfaiteurs nous proposent des services de luxe.\"",
+            "\\.\"C'est vrai. Avec autant d'eau, on a de quoi faire\n pendant des jours.\"",
+            "\\.\"... Ça pourrait être la fin du monde que tu\n resterais optimiste, Sara.\""
+        ],
+        "7-1-message": [
+            "\\C[3]Le spa est rempli d'eau chaude.",
+            "\\C[3]Elle est déjà pleine.",
+            "\\C[3]La Bouteille est maintenant remplie d'eau chaude.",
+            "\\C[4](Pour l'instant...! Il faut que je résiste...! Urgh...)"
+        ],
+        "7-1-choice": [
+            "Remplir la Bouteille\nJ'ai envie de faire un plongeon...\nAnnuler"
+        ],
+        "2-1-message": [
+            "\\.\\C[4](Elle n'est pas là...!)"
+        ],
+        "3-2-message": [
+            "\\C[3]Il y a quelque chose au fond du spa.",
+            "\\.\\C[3]Bouchon obtenu."
+        ],
+        "55-1-message": [
+            "\\C[3]Il y a un petit sauna plongé dans le noir.\nIl n'est pas chaud."
+        ],
+        "45-1-message": [
+            "\\C[3]Malgré l'absence de douche, il y a des shampoings\net des savons posés ici."
+        ],
+        "46-1-message": [
+            "\\C[3]Une rangée de miroirs."
         ]
     },
     "map49": {
@@ -5227,46 +5629,47 @@
             "\\C[3]Un briquet Zippo chic."
         ],
         "1-5-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\"...\""
+            "\\C[3]Il n'y a plus rien sur le bureau.",
+            "\\.\\C[4](L'ordinateur qui était ici a disparu...!!)",
+            "\\.\\C[4](... Rien de particulier au plafond...)",
+            "\\C[3]En regardant sous le bureau, je remarque\nune lueur verte.",
+            "\\.\\C[4](C'est...!!)",
+            "\\.\\C[3]Une carte que je reconnais très bien...",
+            "\\.\\C[4](... Keiji et Gin ne regardent pas dans ma direction...)",
+            "\\.\\C[3]J'attrape... la carte.",
+            "\\.\\C[4](Le \\C[2]Sacrifice\\C[4]...?)",
+            "\\.\"Sara.\"",
+            "\\C[4](Je... Je n'ai pas regardé de carte.\n Je n'ai absolument rien vu. Tout va bien.)",
+            "\\.\\C[3]Je me relève de dessous le bureau et je lève la tête.",
+            "\\.\"Sara.\"",
+            "\\.\\C[3]J'ai rapidement remis la carte comme elle était.",
+            "\\.\"S... Sou...!\n\\! Tu as repris connaissance !\"",
+            "\\.\\C[3]Il... m'a vue...?",
+            "\\.\"Argh...!!\"",
+            "\\.\"Ouille... Je me suis évanoui...?\"",
+            "\\.\"Tu t'es fait assommer.\n T'as pas l'air de saigner, au moins.\"",
+            "\\.\"Mais c'est horrible... Qui aurait pu faire ça...?",
+            "\\.\"Argh... Je me suis fait avoir !\n L'ordinateur a disparu...\"",
+            "\\.\"Quelqu'un a dû le voler...\"",
+            "\\.\"..........\"",
+            "\\.\"... Je n'ai pas pu trouver quoi que ce soit.\n Ni le mot de passe... Ni ce qu'il contenait...\"",
+            "\\.\"Tant pis...\"",
+            "\\.\"Quelqu'un ne voulait pas qu'on voit ce qu'il y\n avait dessus et a donc profité de la confusion\n pour le prendre.\"",
+            "\\.\"Quelqu'un... du rez-de-chaussée.\"",
+            "\\.\\C[4](Qui est-ce que ça pourrait être...?!)",
+            "\\.\"Minute, Sara. T'emporte pas... sinon tout va te\n passer au-dessus de la tête.\"",
+            "\\.\"... Un instant. Joe est encore en train de passer\n le rez-de-chaussée au peigne fin. C'est pas le\n moment de se précipiter.\"",
+            "\\.\"Bon plan.\n On peut pas continuer à rester chacun de notre côté.\"",
+            "\\.\"On va se rassembler... Et on prendra un moment\n pour qu'on se reprenne en main.\"",
+            "\\.\\C[4](Y a-t-il vraiment... une personne malveillante\n parmi nous...?)",
+            "\\.\\C[4](... Je n'arrive... pas à suivre.)",
+            "\\.\"Hé,\\.\\. Sara...\"",
+            "\\.\"Tu regardais quoi... tout à l'heure ?\"",
+            "\\.\"..........\"",
+            "\\.\"... Je ne comprends pas.\n\\! De quoi tu parles ?\"",
+            "\\.\"... Non, je ne regardais rien.\"",
+            "\\.\"...\"",
+            "\\.\"... Hm, je vois.\""
         ],
         "8-1-message": [
             "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles."
@@ -5284,7 +5687,7 @@
             "\\C[3]Une poupée qui me ressemble remarquablement."
         ],
         "9-1-message": [
-            "\\C[3]Un bouchon trouvé au fond du bassin.\nIl est petit et lourd."
+            "\\C[3]Un bouchon trouvé dans un des bassins.\nIl est petit et lourd."
         ],
         "19-1-message": [
             "\\C[3]Le portrait d'une personne tenant un pistolet."
@@ -5312,6 +5715,101 @@
         ],
         "27-1-message": [
             "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
+        ],
+        "1-1-message": [
+            "\\C[3]Quelque chose est posé sur le bureau.",
+            "\\.\\C[4](...!\n ... Un ordinateur portable !)",
+            "\\.\"Très intriguant, tu ne trouves pas ?\"",
+            "\\.\"J'ai réussi à l'allumer, mais il utilise de la\n batterie et il n'y a pas de chargeur.\"",
+            "\\.\"Ça veut dire que quand il n'aura plus de batterie,\n on ne pourra plus l'utiliser...",
+            "\\.\"D'accord...\"",
+            "\"Euh... En fait...\"",
+            "\"J'en suis bien conscient, mais... tu sais...\n Il faut bien qu'on regarde ce qu'il y a dessus, non ?\"",
+            "\\.\"Toute façon... On a un problème.\"",
+            "\\.\"Cet ordinateur est protégé par un mot de passe.\"",
+            "\\.\"Donc... On ne peut pas regarder ce qu'il y a dessus.\"",
+            "\\.\"J'ai essayé des mots de passe au hasard, mais...\n Tout ce que j'ai fait, c'est gaspiller de la\n batterie...\"",
+            "\\.\"... Des suggestions ?\"",
+            "\\.\"Hmm...\"",
+            "\"Ah-ha ! Bonne idée.\"",
+            "\\.\"Si le mot de passe, c'est le nom de quelqu'un...\n On pourrait deviner qui est son propriétaire !\"",
+            "\\.\"... Par contre... Si c'est le nom de quelqu'un\n qu'on ne connaît pas, on ne trouvera jamais\n le mot de passe.\"",
+            "\"Non... Ne me dis pas que tu connais\n l'organisation qui est derrière tout ça ?!\"",
+            "\\.\"Non... Je ne sais pas.\"",
+            "\\.\"Ah, d'accord... Ohh...\"",
+            "\"Ah, un classique.\n ... Pas en bien.\"",
+            "\\.\"Si c'est bien un anniversaire, il nous faudrait\n maximum 365 essais !\"",
+            "\\.\"Ahahah... héhém.\n J'imagine que tu veux que je le fasse.\"",
+            "\\.\"Idéalement, le mot de passe serait noté\n sur un bout de papier...\"",
+            "\\.\"Mais si ça arrive, ce sera forcément un piège.\"",
+            "\\.\"... C'est vrai.\"",
+            "\\.\"Hmm... Si seulement on avait un indice...\"",
+            "\\.\"..........\"",
+            "\\.\"...!\"",
+            "\\.\"Ahh...\n ... Un indice, hein ?\"",
+            "\\.\"C'est peut-être ça, l'indice que les kidnappeurs\n nous ont laissé.\"",
+            "\\.\"Comment ça ?\"",
+            "\\.\"Il doit y avoir des informations qui nous intéressent,\n mais qui ne leur sont d'aucune valeur sur cet\n ordinateur.\"",
+            "\\.\"\\C[2]Résolvez l'énigme et on vous les donne.\n Si vous n'y arrivez pas, tant pis pour vous\\C[0]...\n Ou quelque chose du genre.\"",
+            "\\.\"Ce serait une récompense qui n'est plus accessible\n après un certain temps.\"",
+            "\\.\\C[4](... J'ai dû mal à m'imaginer qu'ils soient aussi\n généreux.)",
+            "\\.\"Bon, allez. Je vais rester ici pour essayer de\n trouver le mot de passe !\n Préviens-moi si tu as une piste.\"",
+            "\\.\\C[4](... Je ne devrais pas m'attendre à grand chose.)",
+            "\\.\\C[4](Mais si je ne garde pas espoir, je ne peux\n pas rester optimiste...)",
+            "\\.\\C[4](Tant que l'ordinateur a de la batterie, Sou\n a une raison de garder espoir.)"
+        ],
+        "1-1-choice": [
+            "Qu'est-ce qu'il contient ?\nC'est peut-être un piège",
+            "Le nom de quelqu'un\nL'organisation des kidnappeurs\nUne date d'anniversaire"
+        ],
+        "1-3-message": [
+            "\\C[3]Un ordinateur est posé sur le bureau.",
+            "\\.\"Ahh, pardon, pardon. Je suis là.\"",
+            "\\.\"Ouargh ?!\n C'est qui ce type ?!\"",
+            "\\.\"Je... ne peux pas t'aider pour ça.\n Désolé...\"",
+            "\\.\"J'étais assis dans le noir, je cherchais des idées\n de mots de passe.\"",
+            "\\.\"Nao et Gin...?\n Je ne les ai pas croisés.\""
+        ],
+        "1-2-message": [
+            "\\C[3]Un ordinateur est posé sur le bureau.",
+            "\\.\"Je vais essayer de trouver le mot de passe, Sara.\""
+        ],
+        "1-5-choice": [
+            "Regarder sous le bureau\nRegarder au plafond",
+            "Retourner la carte\nNe pas toucher la carte",
+            "Tu as pu le déverrouiller ?\nC'était quoi, le mot de passe ?",
+            "Partons à sa poursuite\nRetrouvons d'abord Nao\nOn devrait se regrouper",
+            "Éviter la question\nLa nier"
+        ],
+        "2-1-message": [
+            "\"Il fait sombre, ici, hein ?\n Il n'y a que cette lampe pour éclairer les environs.\"",
+            "\\.\"C'est quoi que tu voulais me montrer ?\"",
+            "\\.\"Regarde ce qu'il y a sur le bureau.\""
+        ],
+        "3-1-message": [
+            "\\C[3]Il est difficile de les distinguer dans la pénombre,\nmais il y a des étagères avec des livres.",
+            "\\.\"Ces livres ont tous des couvertures...\n Mais leurs pages sont toutes blanches.\"",
+            "\\.\"Keiji m'a dit que l'ordre des livres était peut-être\n important.\"",
+            "\\.\\C[4](Alors Keiji est déjà passé par ici...?)"
+        ],
+        "3-2-message": [
+            "\\C[3]Il est difficile de les distinguer dans la pénombre,\nmais il y a des étagères avec des livres."
+        ],
+        "5-1-message": [
+            "\\C[10]\"Sou ?!\"",
+            "\\.\\C[3]Sou était allongé face au sol dans l'obscurité.",
+            "\\.\"..........\"",
+            "\\.\"... Ahhh...\"",
+            "\\.\"... Tout va bien, il respire.\n Hé, réveille-toi.\"",
+            "\\.\\C[3]Sou est inerte.",
+            "\\.\"... Sara, surveille les alentours.\"",
+            "\\.\"C... Compris !\"",
+            "\\.\"Gin, tu peux jeter un coup d'œil dehors ?\"",
+            "\\.\"..........\""
+        ],
+        "5-2-message": [
+            "\\.\\C[3]Sou est inerte.",
+            "\\.\"Il y a des traces d'une attaque à la tête...\""
         ]
     },
     "map50": {
@@ -5319,21 +5817,32 @@
             "\\C[3]Un briquet Zippo chic."
         ],
         "2-1-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\"...\""
+            "\"Gin !!\"",
+            "\"G-Grande sœur Sara...\"",
+            "\\.\"À l'aide, miaou...!\n J'étais en train de chercher grande sœur Nao...\"",
+            "\\.\"Une cage en acier !\n Comment est-ce qu'on pourrait...?!\"",
+            "\\.\"Ahh... Je toucherais pas ça, si j'étais toi.\"",
+            "\\.\"Hii... Ahh... Grande sœur Saraaa !!\"",
+            "\\.\"Gin !!\"",
+            "\\.\"Elle s'enfonce de plus en plus, miaou...\"",
+            "\\.\"Non, ouaf ! J'ai peuuur...!!\"",
+            "\\.\"Au secours, grande sœur Sara !!\"",
+            "\\.\\C[4](Réfléchis ! Je dois réfléchir...!)",
+            "\"Keiji ! Tiens l'autre côté de la cage !!\"",
+            "\\.\\C[3]Avant même de réfléchir, j'ai appuyé sur la détente\ndu révolver mais aucune balle n'en est sorti.",
+            "\\.\\C[4](On ne peut rien faire...!)",
+            "\\.\"...\"",
+            "\\.\"Sortez-moi de lààà !!\"",
+            "\\.\"Gin !!\"",
+            "\\C[3]La cage, maintenant entièrement sous terre, s'immobilisa.",
+            "\\.\"Ahhh... Gin...!!\"",
+            "\\.\\C[4](Elle ne bouge plus...)",
+            "\\.\\C[4](Qu'est-ce que je devrais-)",
+            "\\.\"... Là, peut-être ?\"",
+            "\\.\"Hein...?\"",
+            "\\.\"Ouaip, une échelle.\"",
+            "\\.\"...!\"",
+            "\\.\"Sara, par ici.\""
         ],
         "4-1-message": [
             "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles."
@@ -5354,7 +5863,7 @@
             "\\C[3]Une poupée qui me ressemble remarquablement."
         ],
         "8-1-message": [
-            "\\C[3]Un bouchon trouvé au fond du bassin.\nIl est petit et lourd."
+            "\\C[3]Un bouchon trouvé dans un des bassins.\nIl est petit et lourd."
         ],
         "9-1-message": [
             "\\C[3]Le portrait d'une personne tenant un pistolet.\nIl y a une autre peinture au dos."
@@ -5379,6 +5888,15 @@
         ],
         "5-1-message": [
             "\\C[3]Une carte portant l'inscription \"Maître des Clés\".\nElle indique : \"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe."
+        ],
+        "2-1-choice": [
+            "Soulever la cage ensemble\nDétruire la cage\nNe pas la toucher et reculer"
+        ],
+        "3-1-message": [
+            "\\C[3]Une échelle qui descend."
+        ],
+        "1-4-message": [
+            "\\C[3]La cage est solidement ancrée dans le sol."
         ]
     },
     "map51": {
@@ -5386,14 +5904,19 @@
             "\\C[3]Un briquet Zippo chic."
         ],
         "28-1-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\"...\""
+            "\\.\"Fiou... Il est libre, maintenant...?\"",
+            "\\.\"Hm... La lampe-torche marche plus.\n Tant pis.\"",
+            "\\.\"Gin, ouvre la cage. T'arrives à descendre ?\"",
+            "\\.\"..........\"",
+            "\\.\"Gin...\"",
+            "\\.\"... Je suis sûr que ça faisait peur.\n Mais ça va aller, maintenant.\"",
+            "\\.\\C[3]Keiji prend Gin dans ses bras et le pose. Il tremble.",
+            "\\.\"...\"",
+            "\\.\"... Grande sœur Sara.\"",
+            "\\.\\C[3]Gin plongea dans mes bras.",
+            "\\.\"Gin...\n Tout va bien... Tout va bien...\"",
+            "\\.\"... Bouh... ouh...\"",
+            "\\.\"... Bon, partons d'ici.\""
         ],
         "29-1-message": [
             "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles."
@@ -5411,7 +5934,7 @@
             "\\C[3]Une poupée qui me ressemble remarquablement."
         ],
         "33-1-message": [
-            "\\C[3]Un bouchon trouvé au fond du bassin.\nIl est petit et lourd."
+            "\\C[3]Un bouchon trouvé dans un des bassins.\nIl est petit et lourd."
         ],
         "45-1-message": [
             "\\C[3]Le portrait d'une personne tenant un pistolet.\nIl y a une autre peinture au dos."
@@ -5439,6 +5962,51 @@
         ],
         "54-1-message": [
             "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
+        ],
+        "25-1-message": [
+            "\\.\"..........\"",
+            "\\.\"Gin ! Tu vas bien ?!\"",
+            "\\.\"..........\""
+        ],
+        "26-1-message": [
+            "\\C[3]Il y a un écran d'ordinateur.",
+            "\\.\"Je suis nul avec les machines...\"",
+            "\\.\"Quelque chose est écrit.\"",
+            "\\.\\C[3]~ Jeu de la Cage à Oiseau ~",
+            "\\.\\C[3]Libérez l'oiseau (l'otage) de la cage.",
+            "\\.\\C[3]Maintenez l'interrupteur vert pour produire de l'énergie.",
+            "\\.\\C[3]Ne baissez pas votre garde.\nDes masques diaboliques apparaîtront pour tuer\nquiconque le presse.",
+            "\\.\\C[3]Dirigez la lumière sacrée sur ces masques pour\nsaisir toute opportunité d'appuyer sur le bouton.",
+            "\\.\"Euh... Du coup, on doit garder le bouton pressé...\n Et quand des masques apparaissent, on le relâche\n et on les illumine avec notre lumière sacrée...\"",
+            "\\.\"Je me demande de quelle lumière ils parlent.\"",
+            "\\.\"Ah ! Il y a une lampe torche sous la machine !\"",
+            "\\.\"Ahh, la voilà, notre lumière sacrée.\"",
+            "\\.\\C[3]Lampe-torche ramassée."
+        ],
+        "26-2-message": [
+            "\\C[3]Il y a un écran d'ordinateur.",
+            "\\.\"Faut presser l'interrupteur vert quand les\n masques nous regardent pas... C'est ça ?\"",
+            "\\.\"Et quand ils sont là, on les repousse...\n J'ai compris.\""
+        ],
+        "27-1-message": [
+            "\\C[3]Un interrupteur vert.",
+            "\\.\\C[4](Je devrais faire preuve de prudence et ne pas\n toucher à quoi que ce soit...)"
+        ],
+        "27-2-message": [
+            "\\C[3]Un interrupteur vert.",
+            "\\.\\C[4](Je le presse...?)",
+            "\\.\\C[4](Quoi...?!)",
+            "\\.\"On dirait que ça commence.\""
+        ],
+        "27-2-choice": [
+            "Presser l'interrupteur\nAnnuler"
+        ],
+        "27-4-message": [
+            "\\C[3]Un interrupteur vert.",
+            "\\.\\C[4](Je devrais faire preuve de prudence et ne pas\n toucher à quoi que ce soit...)"
+        ],
+        "55-1-message": [
+            "\\C[3]Une lampe-torche ordinaire qui diffuserait\nune lumière sacrée."
         ]
     },
     "map68": {
@@ -5461,7 +6029,7 @@
             "\\C[3]Une poupée qui me ressemble remarquablement."
         ],
         "6-1-message": [
-            "\\C[3]Un bouchon trouvé au fond du bassin.\nIl est petit et lourd."
+            "\\C[3]Un bouchon trouvé dans un des bassins.\nIl est petit et lourd."
         ],
         "8-1-message": [
             "\\C[3]Le portrait d'une personne tenant un pistolet.\nIl y a une autre peinture au dos."
@@ -5521,7 +6089,7 @@
             "Retourner à l'écran titre\nAnnuler"
         ],
         "1-1-message": [
-            "Commencer la seconde partie ?",
+            "Commencer la seconde partie ?\n\\C[2](En cours de traduction !)\\C[0]",
             "Êtes-vous sûr de vouloir retourner à l'écran titre ?",
             "Merci d'avoir joué jusqu'ici."
         ]
@@ -5811,7 +6379,7 @@
             "Choisir ce sujet\nAnnuler"
         ],
         "41-0-message": [
-            "\"Hein ? Je me suis pas déjà présenté ?\"",
+            "\"Hein ? Je me suis pas encore présenté ?\"",
             "\"Je suis \\C[2]Keiji Shinogi\\C[0].\n Mon métier, c'est policier.\"",
             "\\.\"Toi et Joe êtes amis, c'est ça ?\n Si seulement je connaissais quelqu'un, ici...\"",
             "\"Je m'appelle \\C[2]Keiji Shinogi\\C[0].\n J'suis policier.\"",
@@ -5835,11 +6403,11 @@
             "*tremble tremble tremble*...",
             "\"..........\"",
             "\\.\"Tout va bien...?\"",
-            "\\.\"Quand tu te seras calmée, pourrais-je te parler ?\"",
+            "\\.\"Quand tu te seras calmée, je pourrai te parler ?\"",
             "\\.\"... Eum...\"",
             "\\.\"Je peux dire... que je suis \\C[2]Kanna Kizuchi\\C[0]...\"",
             "\\.\\C[4](Elle arrive à s'exprimer maintenant...)",
-            "\\.\"Kanna... Pourrais-tu m'en dire plus sur toi-même ?\"",
+            "\\.\"Kanna... Tu pourrais m'en dire plus sur toi-même ?\"",
             "\\.\"... D'accord...\"",
             "\\.\"... Euh... Je suis... au collège...\n Et... eum, euh...\"",
             "\\.\"Ça va aller, tu peux prendre ton temps.\"",
@@ -5857,7 +6425,7 @@
             "\\.\"J'étais avec elle...\"",
             "\\.\"... Sœurette...\"",
             "\\.\"... Ma sœur...\"",
-            "\\.\"... Pourrais-tu m'en dire plus sur ce qu'il s'est\n passé après que tu es arrivée ici ?\"",
+            "\\.\"... Tu pourrais m'en dire plus sur ce qu'il s'est\n passé après que tu es arrivée ici ?\"",
             "\\.\"... Ici ?\"",
             "\\.\"Après... mon arrivée ici...\"",
             "\\.\"... Ma... sœur.\"",
@@ -5876,11 +6444,11 @@
             "\\.\"Merde, c'est vraiment un truc de taré !\n Elle est MORTE...?!\"",
             "\\.\"Elle a fait quoi cette pauvre fillette, hein !?\n Il a pas de cœur, le responsable, ou quoi ?!\"",
             "\\.\"On dirait... que ce n'est pas juste\n une mauvaise blague.\"",
-            "\\.\"J... Je n'aime pas ça...\n C'est juste... juste horrible...\"",
+            "\\.\"J-Je n'aime pas ça...\n C'est juste... juste horrible...\"",
             "\\.\"Allons, tout le monde, gardez votre calme.\n Vous avez votre ami le policier avec vous.\"",
             "\\.\"Hé, Keiji ! C'est toi le gars de confiance, ici !\n On fait quoi ?!\"",
             "\\.\"... T'as vite changé de ton.\"",
-            "\\.\"Hé bien, commençons par le commencement.\n Pourquoi ne pas passer en revue ce que chacun\n d'entre nous a trouvé ici ?\"",
+            "\\.\"Hé bien, commençons par le commencement.\n Pourquoi pas passer en revue ce que chacun\n d'entre nous a trouvé ici ?\"",
             "\\.\"Cela me semble être une bonne idée.\"",
             "\\.\"C'exactement ce qu'j'voulais dire !\n Là, j'ai ramassé c'truc.\"",
             "\\.\"C'est une boîte énorme, miaou !\"",
@@ -5965,7 +6533,7 @@
             "\\.\"J'suis lanceur. J'suis confiant en receveur,\n aussi, et j'ai eu même la chance d'pouvoir\n aller en Ligue Centrale.\"",
             "\\.\"Je ne te suis pas vraiment, mais...\n Ça veut dire que tu es bon pour lancer la balle\n et pour la renvoyer avec la batte, c'est ça ?\"",
             "\\.\"... B-Ben... Ouaip, c'ça.\"",
-            "\\.\\C[4](Je ne connais rien en baseball non plus,\n mais il semble être plutôt fier de sa \\C[2]force\\C[4].)",
+            "\\.\\C[4](Je ne connais rien au baseball non plus,\n mais il semble être plutôt fier de sa \\C[2]force\\C[4].)",
             "\\.\"J'étais tout content après un énorme comeback\n en fin de jeu alors j'suis allé boire un coup,\n et après j'me souviens plus d'rien.\"",
             "\\.\"Puis, quand je m'suis réveillé, j'avais un collier là.\n Comme si j'étais un chien !\"",
             "\\.\"C'tellement décevant !\n J'arrive pas à croire que j'puisse pas l'enlever !\"",
@@ -6017,7 +6585,7 @@
             "\\.\"Hein ?! On se connaît bel et bien, alors ?\"",
             "\\.\"J'ai simplement entendu votre nom plus tôt.\"",
             "\\.\"Alors c'est bien notre première rencontre au final...\"",
-            "\"Oh, la poêle et etcetera.\n Ils étaient dans une salle où je me\n trouvais plus tôt.\"",
+            "\"Oh, la poêle, et cetera.\n Ils étaient dans une salle où je me\n trouvais plus tôt.\"",
             "\\.\"Alors tu les as trouvés après être arrivé ici.\"",
             "\\.\"Oui, c'est bien cela.\n Je me suis dit qu'ils pourraient servir de protection.\"",
             "\\.\"Ah...\"",
@@ -6055,7 +6623,7 @@
             "\\.\\C[4](Devrais-je demander quelque chose\n à Monsieur Mishima ?)",
             "\"Hrrrmmmmm...\n Je ne... me rappelle pas m'être attiré\n le courroux de quiconque...\"",
             "\\.\"Je vois...\"",
-            "\\.\"Bien sûr, il y eût des fois où des étudiants\n ne m'apprécièrent guère... mais...\"",
+            "\\.\"Bien sûr, il y eût des fois où des étudiants\n ne m'appréciaient guère... mais...\"",
             "\\.\"...\"",
             "\\.\"Non, aucun étudiant ne causerait un tel incident...\n Ou du moins, c'est ce que j'aimerais croire...\"",
             "\\.\"Puisque après tout, comme vous pouvez le voir, j'ai\n même des étudiants qui viennent me voir après qu'ils\n ont reçu leurs diplômes. Mouahaha.\"",
@@ -6087,7 +6655,7 @@
             "\\.\"Après, j'suis nul en lutte, donc...\n Vu que je me rappelle pas avoir gagné,\n j'imagine que j'ai perdu.\"",
             "\\.\"C'est pourquoi... je sais que ce gars\n est le coupable dans cette affaire.\"",
             "\\.\"... Intéressant. Continue.\"",
-            "\\.\"Désolé, mais c'est tout ce que je sais.\n Vu que j'ai perdu connaissance...\"",
+            "\\.\"Désolé, mais étant donné que j'ai perdu\n connaissance... C'est tout ce que je sais.\"",
             "\\.\"Après... Pas moyen que ce soit le coup\n d'un seul petit stalkeur à la con.\"",
             "\\.\"C'est un crime organisé. Pas vrai, Monsieur le flic ?\"",
             "\\.\"... Possible.\"",
@@ -6113,7 +6681,7 @@
             "\\.\"Ouaip, y avait que Monsieur le Policier\n qui le suspectait.\"",
             "\\.\"Alors repens-toi, s'il te plaît !\"",
             "\\.\"D'accord. Monsieur Mishima est pas suspect.\"",
-            "\\.\"A... Alors, tu comprends...!\n Dans ce cas, j'ai accompli mon devoir...\"",
+            "\\.\"A-Alors, tu comprends...!\n Dans ce cas, j'ai accompli mon devoir...\"",
             "\\.\\C[4](Je devrais demander quelque chose à Nao aussi.)",
             "\"La Première Épreuve ? C'était terrifiant...\"",
             "\"Les souvenirs de mon enlèvement...\"",
@@ -6135,7 +6703,7 @@
             "\\.\"... Je n'aime pas le policier mais toi\n je t'apprécie, Sara.\"",
             "\\.\"Hein...?\"",
             "\\.\"Je te prie de bien prendre soin de ton ami...!\"",
-            "\\.\"... *soupir*...\""
+            "\\.\"... Haaaa...\""
         ],
         "48-0-choice": [
             "À propos de la Première Épreuve\nSouvenirs de son enlèvement"
@@ -6147,7 +6715,7 @@
             "\\.\"Alors tu vis de la main à la bouche, miaou ?\"",
             "\\.\"H... Hé, ne le formule pas comme ça...\n Je n'en ai pas beaucoup, mais j'ai des économies.\"",
             "\\.\"Pourquoi ne voulais-tu pas te présenter, au départ ?\"",
-            "\\.\"Évidemment, je voulais rester prudent, comme Joe...\"",
+            "\\.\"Bien sûr, je voulais rester prudent, comme Joe...\"",
             "\\.\"En plus, dire que je n'ai pas de vraie profession...\n C'est un peu embarrassant. Ahaha...\"",
             "\\.\"T'as qu'à mentir, miaou !\n T'es beaucoup trop honnête, ouaf !\"",
             "\\.\"H... Hé, je ne pense pas que ce soit une bonne idée...\n On ne peut pas faire confiance aux personnes\n de ce genre, si ?\"",
@@ -6159,10 +6727,10 @@
             "\\.\"Des idées, hein... Je n'en ai aucune.\"",
             "\\.\"Je m'excuse sur le champ après chaque dispute...\n Je ne laisse même pas suffisamment d'impression\n sur quiconque pour être haï.\"",
             "\\.\"Parfois, je me dis que je ne suis pas suffisamment\n reconnaissant envers mes parents, mais...\"",
-            "\\.\"Ils me gâtent vraiment trop... Ah là là...\n Il faut vraiment que devienne indépendant...\"",
+            "\\.\"Ils me gâtent vraiment trop... Ah là là...\n Il faut vraiment que je devienne indépendant...\"",
             "\\.\"La vache...\n Tu n'as pas l'air de passer par quatre chemins.\"",
             "\\.\"J'étais sur le chemin de la supérette pour\n travailler comme d'habitude.\"",
-            "\\.\"C'est dans des quartiers violents de la ville...\n Et j'étais conscient d'à quel point il pouvait\n être dangereux d'être dehors de nuit...\"",
+            "\\.\"C'est dans des quartiers violents de la ville...\n Et j'étais conscient d'à quel point il pouvait\n être dangereux d'être dehors la nuit...\"",
             "\\.\"Mais les salaires de nuit sont bons... Alors...\"",
             "\\.\"Puis tout d'un coup, quelqu'un m'a attaqué.\n Je ne me souviens de rien suivant ça.\"",
             "\\.\"Euh, désolé...\n Je ne me souviens pas de grand chose.\"",
@@ -6826,7 +7394,7 @@
             "\\.\"Où pourrait-il bien être ?\"",
             "\\.\"On est vraiment obligés de le trouver, miaou ?\n Ça pourrait être un piège, ouaf !\"",
             "\\.\"C'est vrai. Je ne pense qu'il soit nécessaire\n de suivre les instructions de cette lettre...\"",
-            "\\.\"Ne pensez-vous pas qu'il est temps d'examiner\n ce qu'il se trouve en dehors de cette pièce ?\"",
+            "\\.\"Vous ne pensez pas qu'il est temps d'examiner\n ce qu'il se trouve en dehors de cette pièce ?\"",
             "\\.\"N... N'est-ce pas dangereux ?\"",
             "\\.\"J'ai envie d'rentrer chez moi...\n J'peux pas juste rester ici à rien faire.\"",
             "\\.\"S-Séparons-nous en groupes !\"",
@@ -6842,7 +7410,7 @@
             "\\.\\C[4](Voyons voir... Q-taro est fort...\n Nao a innocenté Monsieur Mishima...\n Peut-être Gin, vu qu'il n'est qu'un enfant..?)",
             "\\.\\C[4](... Ils ont vraiment tous l'air suspects, par contre.)",
             "\\.\\C[4](Voyons voir... Kai agit très bizarrement...\n Je n'arrive pas à me fier totalement à Keiji...\n Et Q-taro n'a pas l'air d'être mauvais, mais...)",
-            "\\.\\C[4](... Raisonner comme ça ne va que me faire tout\nsoupçonner.)",
+            "\\.\\C[4](... Si je m'y prends comme ça, je vais finir par\n me méfier de tout le monde.)",
             "\\.\\C[4](Je ne suis pas très forte en travail d'équipe...\n J'ai envie d'explorer les environs tranquille...)",
             "\\.\"Hé, Sara, je peux t'accompagner ?\"",
             "\\.\"Hein ?\"",
@@ -6853,7 +7421,7 @@
             "\\.\"Non, non... Ce n'est pas comme si je me\n méfiais spécialement de toi, Sou.\"",
             "\\.\"Bon, commençons à examiner les environs.\n Gaffez pas, les gars...\"",
             "\\.\"... Et assurez-vous de partager toutes les\n informations que vous trouvez.\"",
-            "\"Très bien, Sara. Pouvons-nous y aller ?\"",
+            "\"Très bien, Sara. On peut y aller ?\"",
             "\\.\\C[4](La Première Épreuve... Une tête de poupée...\n Et un corps...)",
             "\\.\\C[4](Essayons de trouver quelque chose...!)",
             "\"C'est quoi ça ?! Ça va pas marcher sur moi !\"",
@@ -6966,7 +7534,7 @@
         ],
         "195-0-message": [
             null,
-            null,
+            "\"...?\n Sans commentaire, Sara.\"",
             "\\.\\C[4](Mince... ! C'était une erreur !)",
             null,
             "\\.\\C[4](Mince... ! C'était une erreur !)",
@@ -7001,9 +7569,9 @@
         ],
         "205-0-message": [
             null,
-            null,
+            "\"...?\n Sans commentaire, Sara.\"",
             "\\.\\C[4](Mince... ! C'était une erreur !)",
-            null,
+            "\"Ahahah, euh... C'est censé contrer quoi que ce soit ?\"",
             "\\.\\C[4](Mince... ! C'était une erreur !)"
         ],
         "206-0-message": [
@@ -7065,7 +7633,7 @@
             null,
             null,
             "\\.\\C[4](Mince... ! C'était une erreur !)",
-            null,
+            "\"Ahahah, euh... C'est censé contrer quoi que ce soit ?\"",
             "\\.\\C[4](Mince... ! C'était une erreur !)"
         ],
         "246-0-message": [
@@ -8060,12 +8628,26 @@
             "\\.\\C[4](Mince... ! C'était une erreur !)"
         ],
         "220-0-message": [
-            null,
-            null,
-            null,
+            "\"Sara et Joe sont aussi du côté des kidnappeurs.\"",
+            "\"L'un des emails sur l'ordinateur de Kai disait\n \"Comme prévu, 17 personnes ont été saisies.\"\"",
+            "\"...?\n Sans commentaire, Sara.\"",
             "\\.\\C[4](Mince... ! C'était une erreur !)",
-            null,
-            "\\.\\C[4](Mince... ! C'était une erreur !)"
+            "\"Ahahah, euh... C'est censé contrer quoi que ce soit ?\"",
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            "\"C'est ce que j'ai compris des emails.\"",
+            "\\.Comme prévu, 17 personnes ont été saisies.\nJuste au cas où, il n'y a pas d'erreur quant à la\ndate du jeu de la \\C[2]Démocratie Mortelle\\C[0], n'est-ce pas ?\n\nTout se passe sans encombres.",
+            "\\.Je suis aussi profondément attaché à Madame Sara.\nJe la protégerai coûte que coûte.\n\nJe suis prêt à consacrer ma vie aux Chidouins.",
+            "\\.L'heure est bientôt venue.\n\nOsez blesser Sara Chidouin et je serai votre ennemi.\nJe vous ferai face, même à vous.",
+            "\\.Madame Sara est impatiente à l'idée d'y participer.\nDe même, son \\C[2]ami\\C[0] y prendra sûrement part.",
+            "\\.\"Vous voyez...?\"",
+            "\\.\"J'ai pu lire quatre emails.\n Ils ont tous été envoyés par Kai à quelqu'un d'autre...\"",
+            "\\.\"Mais toutes les adresses étaient différentes.\n Elles étaient illisibles et elles ressemblaient à des\n codes...\"",
+            "\\.\"J'imagine que c'était un système de sécurité qui\n permettait de cacher l'identité du récepteur de\n ces messages.\"",
+            "\\.\"Je vous les récite en partant du plus vieux, d'accord ?\"",
+            "\\.Comme prévu, 17 personnes ont été saisies.\nJuste au cas où, il n'y a pas d'erreur quant à la\ndate du jeu de la \\C[2]Démocratie Mortelle\\C[0], n'est-ce pas ?\n\nTout se passe sans encombres.",
+            "\\.Je suis aussi profondément attaché à Madame Sara.\nJe la protégerai coûte que coûte.\n\nJe suis prêt à consacrer ma vie aux Chidouins.",
+            "\\.Il est bientôt temps.\n\nOsez blesser Sara Chidouin et je serai votre ennemi.\nJe vous ferai face, même à vous.",
+            "\\.Madame Sara est impatiente à l'idée d'y participer.\nDe même, son \\C[2]ami\\C[0] y prendra sûrement part."
         ],
         "242-0-message": [
             null,
@@ -9623,7 +10205,7 @@
             "\\.\"Je fais plus confiance à quelqu'un de déterminé\n à sauver son ami qu'un amateur avec un peu\n d'entraînement.\"",
             "\\.\"...\"",
             "\\.\"... J'comprends.\"",
-            "\\.\"Peut-être qu'je suis pas à la hauteur...\"",
+            "\\.\"Peut-être qu'je suis pas à la hauteur, finalement...\"",
             "\\.\"Mais ! J'ai pas dit mon dernier mot.\"",
             "\\.\"Je t'écoute...\"",
             "\\.\"Keiji ! Pourquoi on t'prend pas juste toi ?!\"",
@@ -9632,7 +10214,7 @@
             "\\.\"I-Il a pas tord...\"",
             "\\.\"En effet, c'est justement ce que je me demandais.\"",
             "\\.\"Pourquoi le policier, qui conviendrait parfaitement\n à cette tâche, ne se désignerait-il pas ?\"",
-            "\\.\"... Hm... C'est ce que vous vous êtes finis\n par vous dire...\"",
+            "\\.\"... Hm...\n Vous vous êtes mis à penser ça, hein...\"",
             "\\.\"Si j'dois mettre ma vie en jeu, j'veux la\n mettre entre les mains de quelqu'un sur\n qui j'peux vraiment compter.\"",
             "\\.\"Si c'pas moi, alors c'sera Keiji...\n T'le seul sur qui j'peux compter.\"",
             "\\.\"Keiji... Qu'est-ce qu'il y a...?\"",
@@ -9667,7 +10249,7 @@
             "\\.\"... Quoi ?!\"",
             "\\.\"Je sais, c'est pathétique. J'aurais dû m'y\n préparer en sachant que je deviendrais détective.\"",
             "\\.\"Mais... Quand ce genre de choses arrivent, ça passe\n toujours à la télévision, non...?\"",
-            "\\.\"Y a pas que la réalité qui ressort au grand jour.\"",
+            "\\.\"La réalité, c'est pas que ce qui ressort au grand jour.\"",
             "\\.\"... C'est tout. Je promets que c'est la vérité.\"",
             "\\.\\C[4](Je ne pense pas qu'il m'en dise plus à ce sujet...)",
             "\\.\\C[4](Mais... j'ai réussi à extraire de Keiji une nouvelle\n déclaration.)",
@@ -9716,7 +10298,7 @@
             "\\.\"I-Il a pas tord...\"",
             "\\.\"En effet, c'est justement ce que je me demandais.\"",
             "\\.\"Pourquoi le policier, qui conviendrait parfaitement\n à cette tâche, ne se désignerait-il pas ?\"",
-            "\\.\"... Hm... C'est ce que vous vous êtes finis\n par vous dire...\"",
+            "\\.\"... Hm...\n Vous vous êtes mis à penser ça, hein...\"",
             "\\.\"Si j'dois mettre ma vie en jeu, j'veux la\n mettre entre les mains de quelqu'un sur\n qui j'peux vraiment compter.\"",
             "\\.\"Si c'pas moi, alors c'sera Keiji...\n T'le seul sur qui j'peux compter.\"",
             "\\.\"Keiji... Qu'est-ce qu'il y a...?\"",
@@ -10070,46 +10652,46 @@
             null,
             null,
             null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\.\"Kai n'a pas tenu sa promesse !!\n C'est Kai... qui a dû enlever Monsieur Mishima !!\"",
+            "\\.\"..........\"",
+            "\\.\"Il y a moyen... que ce soit vrai, en fait.\"",
+            "\\.\"Hein ?!\"",
+            "\\.\"L'ordinateur était protégé par un mot de passe.\n En sachant ça, pourquoi Kai aurait-il autant\n cherché à le récupérer ?\"",
+            "\\.\"Car...\"",
+            "\\.\"C'est possible de faire ça...?\n Peut-être avec un outil spécial...?\n En tout cas, on n'en a pas ici, donc non.\"",
+            "\\.\"La vraie raison est bien plus marrante...\"",
+            "\\.\"La batterie...! Avec la batterie, il a pu allumer\n \\C[2]une plaque à induction\\C[0] pour cuisiner...!!\n Voilà ce que Kai cherchait à faire !!\"",
+            "\\.\"Ouaip, tu te trompes complètement.\"",
+            "\\.\"En fait, la réponse est toute bête.\"",
+            "\\.\"Ahahah, c'est vraiment une explication débile !\"",
+            "\\.\"Et pourtant... c'est la bonne.\"",
+            "\\.\"...!\"",
+            "\\.\"Le mot de passe était vraiment évident.\"",
+            "\\.\"..........\"",
+            "\\.\"Attends, mais... T'as réussi à le déverrouiller ?!\"",
+            "\\.\"Bien sûr !\"",
+            "\\.\"Quoi ?!\n Mais... tu nous avais dit que tu n'avais pas réussi !!\"",
+            "\\.\"Ouais, mais j'ai menti.\"",
+            "\\.\\C[4](Encore... Encore un autre mensonge...?!)",
+            "\\.\"En fait, le mot de passe...\"",
+            "\\.\"C'était \\C[2]\"chidouin.\"\\C[0]\"",
+            "\\.\\C[4](Hein...?)",
+            "\\.\"C'tait \\C[2]Chidouin\\C[0] ?!\"",
+            "\\.\\C[4](Quel... mensonge... bizarre...)",
+            "\\.\"Je suis désolé de l'annoncer, mais c'est vrai.\n J'ai essayé tous nos noms...\"",
+            "\\.\"Et mon dernier essai... c'était le nom de famille de\n notre fidèle Sara, Chidouin... Ça m'a fait un choc.\"",
+            "\\.\"Je...!\n Je n'ai jamais vu cet ordinateur de ma vie !!\"",
+            "\\.\"Bien évidemment que ce n'est pas ton ordinateur, Sara.\"",
+            "\\.\"Alors...!!\"",
+            "\\.\"C'est celui de Kai.\n ... Pas vrai ?\"",
+            "\\.\"..........\"",
+            "\\.\"Avez-vous... lu les mails ?\"",
+            "\\.\"Alors... tu l'admets.\"",
+            "\\.\\C[4](Mais qu'est-ce qu'il se passe...?)",
+            "\\.\"Je voulais tous les lire...\n Si seulement Nao ne m'avait pas assommé... Urgh...\"",
+            "\\.\"Bon, et ils disaient quoi...?\"",
+            "\\.\"Je m'en rappelle très bien...\"",
+            "\\.\"\"Comme prévu, 17 personnes ont été saisies.\"\n ... Voilà ce que ça disait.\"",
             "\\.\"...\""
         ],
         "265-0-message": [
@@ -10148,7 +10730,34 @@
             null,
             null,
             null,
-            "\\.\"...\""
+            "\\.\"...\"",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "Veuillez choisir pour qui voter."
         ],
         "353-0-message": [
             null,
@@ -10256,22 +10865,22 @@
             "\"Bon sang ! Elle nous a eus !!\"",
             "\\.\\C[4](Sou...?)",
             "\\.\"Sara... Regarde...\"",
-            "\\C[3]Sou ferme lentement la porte.",
+            "\\C[3]Sou referme lentement la porte.",
             "\\.\\C[4](Il y a quelque chose d'écrit...!)",
-            "\\.\"Lis, Sara...\"",
+            "\\.\"Sara, lis...\"",
             "\\.\\C[3]\"La Seconde Épreuve ~ Répétition ~\"",
-            "\\.\\C[3]\"Il s'agit d'un exercice imitant le Jeu Principal.\n Elle débutera par la résurrection de la poupée.\"",
+            "\\.\\C[3]\"Il s'agit d'un exercice imitant le Jeu Principal.\n Elle débutera quand la poupée sera ressuscitée.\"",
             "\\.\\C[3]\"Vous devrez suivre les instructions pour ensuite\n tenir un vote à la majorité.\n \\C[10]La personne avec le plus de votes sera sacrifiée\\C[3].\"",
             "\\.\\C[3]\"Toutefois, puisqu'il s'agit d'un simple entraînement,\n la partie sera annulée \\C[10]en cas d'égalité\\C[3].\"",
             "\\.\\C[4](Quoi...?!)",
             "\"\\C[10]La Seconde Épreuve\\C[0]...\n Elle est nommée exactement comme l'épreuve que l'on\n a eu en arrivant ici...\"",
             "\\.\"On n'a jamais remarqué... cette note...!\"",
             "\\.\"Merde ! Tout ça parce que j'ai dit de garder la porte\n ouverte au cas où...!!\"",
-            "\\.\"... Nous avons été manipulés.\n L'atmosphère funeste de cette salle était discernable\n avant même d'y avoir mis pied.\"",
+            "\\.\"... Nous avons été manipulés.\n Sans même avoir mis pied dans cette salle, nous\n pouvions sentir que l'atmosphère y était funeste.\"",
             "\\.\"La partie aurait été annulée en cas d'égalité ?\n Non... Me dites pas que...!\"",
             "\\.\"... S'il y avait eu égalité...\n Il y aurait pas eu de victime.\"",
             "\\.\"T-Tu déconnes !\n A-Alors, l'est mort pour rien ?!\"",
-            "\\.\\C[4](C'était un piège que l'on aurait pu éviter !\n Si seulement on avait examiné la porte...!)",
+            "\\.\\C[4](C'était un piège que l'on aurait pu éviter !\n Si seulement on avait regardé la porte de\n plus près...!)",
             "\\.\\C[4](Monsieur Mishima...)",
             "\\.\"...\"",
             "\\.\\C[4](L'état de Nao... m'inquiète...)"
@@ -10290,38 +10899,54 @@
             "\\.\"...\""
         ],
         "156-0-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\"...\""
+            "\\C[4](Il faut que je sois agressive...!)",
+            "\\.\"H-Hé... Je t'ai pas dit que j'allais parler ?!\"",
+            "\\.\\C[4](Je l'ai énervé...)",
+            "\"Cette conversation ne va nulle part !!\n Dis quelque chose !!\"",
+            "\\.\"Hyah ! Pourquoi tu t'emportes, d'un coup ?!\n C'est bon, je vais parler si tu veux !!\"",
+            "\\.\\C[4](On dirait qu'il compte parler, maintenant...!)",
+            "\"À moins que tu veuilles te prendre le poing de\n Q-taro, dis-moi tout !!\"",
+            "\\.\"Je ne me soumettrai jamais à la violence...\n Alors n'essaie même pas. Compris ?\"",
+            "\\.\\C[4](Ce type de menace ne marchera pas...)",
+            "\"Cette discussion n'avance pas !!\n Si tu ne me réponds pas correctement,\n je te ferai quelque chose de terrible !!\"",
+            "\\.\"Ouhh...! Quelque chose de terrible...?!\"",
+            "\\.\"Je ferai... ça !!\"",
+            "\\.\"Faire quoi...?!? Ne me dis pas que...\n Tu vas t-tirer...!!\"",
+            "\\.\"Un instant !! Prudence est mère de sureté, tu sais ?!\"",
+            "\\.\"... Hmph. Je vais te le dire...\n Ce que tu souhaites savoir.\"",
+            "\\.\\C[4](Bon ! Je pense enfin pouvoir lui poser des questions !)",
+            "\\.\"Quelque chose de terrible...?\n As-tu vraiment les tripes pour cela ?\"",
+            "\\.\\C[4](Je ne suis peut-être pas assez impressionnante\n pour ça...)",
+            "\\.\"Quelque chose de terrible...?\n As-tu vraiment les tripes pour cela ?\"",
+            "\\.\\C[4](Je ne suis peut-être pas assez impressionnante\n pour ça...)",
+            "\\.\"Quelque chose de terrible...?\n As-tu vraiment les tripes pour cela ?\"",
+            "\\.\\C[4](Je ne suis peut-être pas assez impressionnante\n pour ça...)",
+            "\\.\"H-Hé... Je t'ai pas dit que j'allais parler ?!\"",
+            "\\.\\C[4](Je l'ai énervé...)",
+            "\"Si tu refuses même de parler...\n Je n'ai aucune obligation de te libérer.\"",
+            "\\.\"A-Attends...!\n Elles me font mal ! Ces cordes...!\"",
+            "\\.\"J'ai compris... Je vais t'en dire un peu plus...\"",
+            "\\.\\C[4](On dirait qu'il compte parler, maintenant...!)",
+            "\"Tu veux qu'on te retire ces cordes, hein ?\n Tu vois où je veux en venir, pas vrai ?\"",
+            "\\.\"Hmph... Une menace ?\n Je croyais que tu n'étais pas hostile ?\"",
+            "\\.\"Réfléchis-y autrement.\n Si tu étais à ma place, Gonbee, est-ce que\n tu me détacherais ?\"",
+            "\\.\"...\"",
+            "\\.\"... Très bien.\n Je pense que je peux vous en dire un peu plus...\"",
+            "\\.\\C[4](Étonnamment, il a l'air de reconnaître qu'il\n est suspect. Ravie qu'il ait décidé de parler...!)",
+            "\\.\"Je crains que non !\n C'est quoi ce comportement ?!\"",
+            "\\.\\C[4](Argh... Il faut que je l'affaiblisse encore un peu...)",
+            "\\.\"Je crains que non !\n C'est quoi ce comportement ?!\"",
+            "\\.\\C[4](Argh... Il faut que je l'affaiblisse encore un peu...)",
+            "\"Tu as parlé, mais si tu ne nous dis pas les\n choses importantes, on ne peut pas te libérer.\n Tant pis.\"",
+            "\\.\"Grrrrrrrrrrrrrrrh...!\"",
+            "\\.\\C[4](Il sait rouler ses R...)",
+            "\\.\"Argh... J'ai répondu à quelques-unes de vos questions !\"",
+            "\\.\"Dans ce cas, je vais couper juste quelques-unes\n de tes cordes.\"",
+            "\\.\"À quoi ça sert si on ne me les détache pas ?!?!\"",
+            "\\.\"... Grrrrrrrrrrh.\"",
+            "\\.\\C[4](Il commence à vouloir parler...)",
+            "\\.\"C'est affreux...!! Ben vas-y, fais ce que tu veux !!\"",
+            "\\.\\C[4](Il ne faut pas que je l'énerve trop.)"
         ],
         "168-0-message": [
             null,
@@ -10493,8 +11118,8 @@
             "\\.\"...\""
         ],
         "273-0-message": [
-            null,
-            null,
+            "\\C[3]... Le vote est désormais terminé.",
+            "\\.\\C[3]Affichage des résultats...",
             null,
             null,
             null,
@@ -10775,8 +11400,8 @@
             "\"Y a pas beaucoup d'gens qui savent manier des armes\n à feu dans c'pays. Mon expérience est précieuse, nan ?\"",
             "\\.\"Nous ne savons pas ce que le jeu implique...\n Mais s'il requiert des compétences en maniement\n d'armes à feu, alors ce serait le cas.\"",
             "\\.\"Ouais ! J'y réfléchis pas comme ça pour m'assurer\n d'sauver ma peau.\"",
-            "\\.\"J'pense juste au meilleur moyen d'gagner c'jeu.\"",
-            "\\.\"J... J'entends bien c'que tu dis, mais...\"",
+            "\\.\"J'pense juste que c'le meilleur moyen d'gagner c'jeu.\"",
+            "\\.\"J-J'entends bien c'que tu dis, mais...\"",
             "\\.\"Faut que vous y pensiez logiquement.\"",
             "\\.\"... C'est pas comme si on y réfléchissait pas aussi,\n okay ?\""
         ],
@@ -11452,7 +12077,7 @@
             "\\C[4](Peut-être qu'une autre déclaration le convaincrait...?)",
             "\"Si t'es pas d'accord, va falloir qu'tu t'exprimes\n mieux que ça !\"",
             "\\C[4](Peut-être qu'une autre déclaration le convaincrait...?)",
-            "\"C'est pourtant clair !\n Il sait rester calme et il maitrise les armes à feu !\n C'notre homme !\"",
+            "\"C'est pourtant clair !\n Il sait rester calme et il maîtrise les armes à feu !\n C'notre homme !\"",
             "\\.\\C[4](Il a raison... Si je devais choisir quelqu'un\n d'autre, je choisirais sûrement Keiji.)"
         ],
         "164-0-message": [
@@ -11487,13 +12112,13 @@
             "\\.\\C[4](J'l'ai eu.)",
             "\\.\"Grrr... Enlève-moi ce regard arrogant tout de suite !\"",
             "\\.\"Est-ce que je ne serais pas trop insistante...?\"",
-            "\\.\"J... Je plaisante !\n T'avais capté que j'plaisantais, hein...?\"",
+            "\\.\"J-Je plaisante !\n T'avais capté que j'plaisantais, hein...?\"",
             "\\.\\C[4](Moi aussi, je plaisantais...\n Mais c'est toujours drôle de le voir s'emballer.)",
             "\\.\"Hé ! Tu souris !\""
         ],
         "100-0-message": [
             "\\sw[99]\"Ça te va, comme ça ?\"\\sw[100]",
-            "\\sw[99]\"Aller, mets la chambre en place !\"\\sw[100]",
+            "\\sw[99]\"Allez, mets la chambre en place !\"\\sw[100]",
             "\\sw[99]\"Et fais la tourner !\"\\sw[100]",
             "\\.\\sp[12]Clic-clic-clic-clic-clic...\\^",
             "\\sw[99]\"Elle s'est arrêtée !\n Maintenant, tire sur les cibles dans l'ordre que tu\n veux !\"\\sw[100]",
@@ -12235,6 +12860,79 @@
             null,
             null,
             "\\.\"Ah...!\""
+        ],
+        "218-0-choice": [
+            "Il pouvait le contourner\nIl voulait la batterie\nLe mot de passe était simple"
+        ],
+        "126-0-message": [
+            null,
+            null,
+            null,
+            "\\.\"Voyez-vous, je suis le \\C[2]Maître des Clés\\C[0].\""
+        ],
+        "177-0-message": [
+            "\\.\"Voyez-vous, je suis le \\C[2]Maître des Clés\\C[0].\""
+        ],
+        "1104-0-message": [
+            "\\C[4](...!)"
+        ],
+        "155-0-message": [
+            "\"Bon, t'es prête ?\"",
+            "\"Je vais pas te faire faire quoi que ce soit de dur.\n Donc... tire pas autant la gueule.\"",
+            "\"C'est parti. Commençons.\"",
+            "\\C[3]~ Interrogatoire ~",
+            "\\.\"Juste pour que ce soit clair, toi et moi, on est égaux.\n N'imagine pas une seconde que je vais docilement\n t'obéir.\""
+        ],
+        "157-0-message": [
+            "\\C[4](Je dois le calmer un peu...)",
+            "\\.\"H-Hé... Je t'ai pas dit que j'allais parler ?!\"",
+            "\\.\\C[4](Je l'ai énervé...)",
+            "\"Incapable de rester calme, Monsieur Rayé ?\"",
+            "\\.\"... C'est un surnom grossier que tu me donnes,\n avec tes cheveux de travers, là.\"",
+            "\\.\\C[4](Ce qu'il est impoli...!)",
+            "\"Incapable de rester calme, Monsieur Gonbee ?\"",
+            "\\.\"Je te l'ai dit, je me fiche de cette approche.\"",
+            "\\.\\C[4](Il est devenu bien plus docile.)",
+            "\\.\"... Je suis toujours calme.\"",
+            "\\.\"Je ne suis pas ton ennemie.\n On peut arrêter de se disputer ?\"",
+            "\\.\"Hmph... C'est vrai.\n Tout ce que ça fait, c'est nous donner faim.\"",
+            "\\.\"Toutefois... Je me fiche de ces approches.\n Ce n'est pas une conversation égale.\"",
+            "\\.\\C[4](Il faut que je lui mette la pression...)",
+            "\\.\"Ma parole !!\n Comment ton attitude calme me met en rogne !!\"",
+            "\\.\\C[4](Il est pas mal en colère...)",
+            "\"Incapable de rester calme, Monsieur Gonbee ?\"",
+            "\\.\"Je suis calme.\n Dire que je suis erroné... c'est inconcevable.\"",
+            "\\.\\C[4](Hmm...)",
+            "\\.\"Quoooi ?\"",
+            "\\.\"Je crois qu'il y a erreur, Gonbee.\"",
+            "\\.\"Ma perfection, erronée...? C'est insensé...\"",
+            "\\.\"C'est bien ça.\n Tu es tellement parfait que tu fais des erreurs.\"",
+            "\\.\"Un flagrant mensonge !!\n Ne me rabaisse pas !!\"",
+            "\\.\\C[4](Le pousser à bout, ça ne sert à rien...\n Mais je pense que j'y suis presque.)",
+            "\\.\"Hmph... Ces provocations me fatiguent.\"",
+            "\\.\\C[4](Rgh... Il ne me prend plus au sérieux...)",
+            "\\.\"Hmph... Ces provocations me fatiguent.\"",
+            "\\.\\C[4](Rgh... Il ne me prend plus au sérieux...)",
+            "\"Comment ça, ce que je veux dire ?\n Tu devrais être plus claire.\"",
+            "\\.\\C[4](Il est tellement pointilleux...)",
+            "\"Tu as l'air insatisfait.\n Qu'est-ce que tu as envie de dire ?\"",
+            "\\.\"... Je t'ai dis que je ne veux rien dire.\"",
+            "\\.\\C[4](Mmgh...)",
+            "\"Il y a-t-il quelque chose que tu voudrais nous dire ?\"",
+            "\\.\"Détache-moi vite de ces cordes, lycéenne...!\"",
+            "\\.\\C[4](... Il a laissé tomber l'insulte.)",
+            "\\.\"Détache-moi vite de ces cordes, face de porc...!\"",
+            "\\.\"Trop méchant...\"",
+            "\\.\"Ouf... Des fausses larmes, c'est ça ?!\n C'est inutile !\"",
+            "\\.\"... Sniff...\"",
+            "\\.\"Je suis allé trop loin...!\"",
+            null,
+            null,
+            null,
+            "\"Il y a-t-il quelque chose que tu voudrais nous dire ?\""
+        ],
+        "156-0-choice": [
+            "Le menacer agressivement\nLe menacer logiquement\nAnnuler"
         ]
     },
     "map107": {
@@ -12648,104 +13346,279 @@
             "Oui\nNon"
         ],
         "5-13-message": [
-            null,
-            null,
+            "\\C[3]... Le vote est désormais terminé.",
+            "\\.\\C[3]Affichage des résultats...",
             null,
             "\"..........\"",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\"...\""
+            "\\.\\C[3]La peur... s'enracine en moi...",
+            "\\.\"Hihi... Que pensez-vous des résultats ?\"",
+            "\\.\"5 personnes sont retenues pour le vote final.\"",
+            "\\.\"\\C[2]Kanna Kizuchi.\\C[0]\"",
+            "\\.\"..........\"",
+            "\\.\"\\C[2]Kai Satou.\\C[0]\"",
+            "\\.\"...\"",
+            "\\.\"\\C[2]Jou Tazuna.\\C[0]\"",
+            "\\.\"... Pourquoi...?! Pourquoi moi...?!\"",
+            "\\.\"\\C[2]Sou Hiyori.\\C[0]\"",
+            "\\.\"... Alors c'est comme ça...\"",
+            "\\.\"\\C[2]Sara Chidouin.\\C[0]\"",
+            "\\.\"..........\"",
+            "\\.\\C[3]On va mourir...?",
+            "\\.\\C[3]L'un de nous cinq va mourir...",
+            "\\.\\C[3]Je ne veux pas... mourir.",
+            "\\.\"... Je...\"",
+            "\\.\"C'est moi... le Maître des Clés...\"",
+            "\\.\"C'est moi...! Vous devez me croire, par pitié...\"",
+            "\\.\"... Sara...\"",
+            "\\C[3]Pourquoi est-ce que j'ai dit ça ?\nPourquoi maintenant ?",
+            "\\.\\C[3]Je veux vivre...",
+            "\\.\\C[3]Je veux encore... vivre...",
+            "\\.\"..........\"",
+            "\\.\"J-J'suis... tiré d'affaire...?\"",
+            "\\.\"S-Sans blague ?! Moi aussi ?! Youpi !!\"",
+            "\\.\"Vous êtes vraiment cons !!\n C'est la seconde partie qui pue la merde !!\"",
+            "\\.\"Nos votes... décideront de notre sort.\"",
+            "\\.\"O-On est obligés... de choisir...?\"",
+            "\\.\"Grande sœur Sara...\"",
+            "\\.\\C[4](... Pourquoi moi...?)",
+            "\\.\\C[4](J'ai vraiment... essayé...)",
+            "\\.\\C[4](Et pas juste pour moi-même...)",
+            "\\.\\C[4](C'était... pour qu'on puisse tous se sortir de là...\n Alors pourquoi...)",
+            "\\.\\C[4](Je ne veux pas mourir... Je...)",
+            "\\.\\{\"Reprends-toi, Sara !!\"",
+            "\\.\\C[4](...!!)",
+            "\\.\"... Euh, héhém... Hé, Sara.\n\\! Ton ami le policier est à tes côtés.\"",
+            "\\.\\C[4](... Keiji...!)",
+            "\\.\"Vous tous, écoutez-moi.\n On doit sélectionner juste une personne.\"",
+            "\\.\"Mettez votre compassion et vos rancunes de côté.\n Gardez seulement les \\C[2]rôles\\C[0] en tête.\"",
+            "\\.\"Si on choisit le \\C[2]Maître des Clés\\C[0] ou le \\C[10]Sacrifice\\C[0],\n on meurt tous...\"",
+            "\\.\"O-Oui, en effet !!\n En réalité, nous ne sommes pas du tout encore sortis\n d'affaire !!\"",
+            "\\.\"Oh ! Hé, on aurait pas un \\C[3]Sage\\C[0] ?!\"",
+            "\\.\"Si le \\C[3]Sage\\C[0] a pas été sélectionné, il peut nous dire\n qui est le vrai \\C[2]Maître des Clés\\C[0] sans se mettre\n en danger...!\"",
+            "\\.\\C[3]....................",
+            "\\.\"Me dites pas... Qu'il y en a pas, miaou...?!\"",
+            "\\.\"C'pourrait pas être pire...!!\n C'quelqu'un parmi les cinq qu'on a voté ?!\"",
+            "\\.\"Tant pis...\n Il y a plus qu'une seule chose à faire.\"",
+            "\\.\"Les cinq vont devoir s'exprimer d'eux-mêmes.\n ... T'en penses quoi, Sara ?\"",
+            "\\.\\C[4](..........)",
+            "\"C'est parfait.\"",
+            "\\.\"Je vous montrerai qui est le vrai Maître des Clés !!\"",
+            "\\.\"... Bon.\"",
+            "\\.\"Rappelle-toi des mots et des actes des gens...\n C'est ça qui trace le chemin vers la victoire.\"",
+            "\\.\"Hiihiihii... Les 20 dernières minutes...\n Employez ce temps interminablement court à bon escient.\"",
+            "\\.\"Je prie... que vous ne mourrez pas tous.\n Ahihi.\"",
+            "\\.\\C[3]Rillante se rassoit tranquillement dans son fauteuil.",
+            "\\.\\C[3]C'est l'heure du combat final...!"
         ],
         "6-1-message": [
-            null,
-            null,
-            null,
-            null,
-            "\\.\\C[4](Ça n'a pas marché...!)"
+            "\"On ne le sait pas encore !!\"",
+            "\\.\"Hein ? Tu continues de le défendre malgré les emails ?\n Sara, t'es clairement...\"",
+            "\\.\"N-Non, c'est pas ça !!\"",
+            "\\.\"Hmm, je ne suis pas convaincu.\n Tu devrais y réfléchir plus calmement, Sara.\"",
+            "\\.\\C[4](Ça n'a pas marché...!)",
+            "\"Et si ces emails n'étaient qu'un autre de tes mensonges,\n Sou ?\"",
+            "\\.\"Ahahah... tu dois vraiment envie de me traiter\n de menteur.\"",
+            "\\.\"Si tu ne veux pas y croire, pourquoi ne pas juste\n arrêter de m'écouter ? Je continuerai de raconter\n ce que je veux.\"",
+            "\\.\\C[4](Grr...! Il faut que je le batte à son propre jeu ou il\n ne la fermera pas...!)",
+            "\"Attends une minute ! Non !\n Où est ta preuve que je collabore avec eux ?!\"",
+            "\\.\"De la manière dont c'était formulé, j'en ai conclu que-\"",
+            "\\.\"Donc c'est juste une hypothèse ! Rien d'autre !!\"",
+            "\\.\"... Hmph... Je vois.\""
         ],
         "6-3-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\"Sou, tout à l'heure, t'as dit qu'ils ont tous été\n envoyés à des adresses mail différentes !\"",
+            "\\.\"Et alors ?\"",
+            "\\.\"Dire qu'ils ont tous été reçus par une seule et même\n personne, c'est juste une supposition !\"",
+            "\\.\"Je suis plutôt sûr de moi, pour le coup.\n ... Mais bon, je n'ai pas vraiment de preuves.\"",
+            "\\.\"En tout cas... Moi, j'y crois.\"",
+            "\"Seul Kai peut le savoir !\"",
+            "\\.\"Il a écrit \"Je suis profondément attaché à Madame Sara.\"\n Ce n'est pas suffisant, pour toi ?\"",
             "\\.\\C[4](Ça n'a pas marché...!)",
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\"Kai n'a rien à voir avec ma famille !\n Il n'aurait pas pu leur être dévoué !\"",
+            "\\.\"\"Je suis prêt à consacrer ma vie aux Chidouins\"...\n Il parle presque comme un serviteur.\n T'inquiète pas, je n'en ai pas cru mes yeux non plus.\"",
+            "\\.\"Mais c'est bel et bien ce qui était écrit... donc je\n n'ai pas d'autre choix que d'y croire.\"",
+            "\\.\"Urgh...\"",
+            "\\.\\C[4](Se pourrait-il... que Kai connaisse ma famille\n sans que je le sache...?!)",
             "\\.\\C[4](Ça n'a pas marché...!)"
         ],
         "6-5-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\\C[4](Ça n'a pas marché...!)"
+            "\"Bien sûr que non...! C'est ridicule !\n Ma famille est complètement normale !\"",
+            "\\.\"Ça pourrait être ta mère, peut-être même ton père...?\"",
+            "\\.\"Je dirais même... que ce serait marrant que ce soit\n toi, la grande coupable dans tout ça, Sara.\"",
+            "\\.\\C[4](Ne dis pas qu'une chose comme ça serait \"marrante\"...!!)",
+            "\"Je n'ai jamais entendu parler d'une chose pareille !\"",
+            "\\.\"Osez blesser Sara Chidouin et je serai votre ennemi...\n C'est ce que l'email disait.\"",
+            "\\.\"Quelle menace pleine de rébellion.\"",
+            "\\.\"Comme je t'envie...\n Quelqu'un est prêt à se battre pour toi.\"",
+            "\\.\\C[4](Ça n'a pas marché...!)",
+            "\"Je comprends que Kai soit suspect !\n Je peux comprendre qu'on me suspecte aussi... mais...\"",
+            "\\.\"Nous mettre tous les trois dans le même groupe,\n c'est injustifié !\"",
+            "\\.\"Tu l'as formulé comme ça dans le but de manipuler !\"",
+            "\\.\"La vache... Tu as l'esprit vif.\"",
+            "\\.\"Dans ce cas, je vais te reformuler tout ça.\""
         ],
         "6-7-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\"Attends un peu !\n Le prénom de Joe n'était même pas dans les emails !\"",
+            "\\.\"Si tu pars du principe que c'est lui, c'est que tu\n fais n'importe quoi et que tu tires tes conclusions\n beaucoup trop tôt !\"",
+            "\\.\"Tu aimes vraiment insulter les gens, hein, Sara ?\"",
+            "\\.\"Mais bon... Je l'admets, tu as raison, j'imagine.\"",
+            "\\.\"Cela dit, ce n'est pas pour autant que je vais te\n laisser t'en tirer comme ça.\"",
+            "\"P-Peut-être qu'il parlait d'autre chose !\n De jeux vidéos, de sports !\"",
+            "\\.\"Ahahah, tu pourrais continuer la liste à l'infini,\n mais...\"",
+            "\\.\"... Au début, il est écrit qu'ils parlent de Démocratie\n Mortelle. Logique de partir du principe qu'ils parlent\n de ça, non ?\"",
+            "\"M-Mais même...!\"",
+            "\\.\"Ahahah, ouiiii ? Je ne t'entends pas.\"",
             "\\.\\C[4](Ça n'a pas marché...!)",
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\"Arrête de faire comme si je m'amusais, ici !\"",
+            "\\.\"La raison pour laquelle tu participes à ce jeu,\n c'est parce que tu étais impatiente d'y jouer, non ?\"",
+            "\\.\"Te fous pas de moi ! Tu interprètes intentionnellement\n les emails de manière malveillante !\"",
+            "\\.\"Je veux vaincre ces criminels...\n Bien évidemment que je vais le prendre au sérieux.\"",
+            "\\.\\C[4](Il est tellement odieux...!)",
             "\\.\\C[4](Ça n'a pas marché...!)"
         ],
         "6-9-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\"De quoi tu parles ?! Quelle liste dans le bar ?!\"",
+            "\\.\"Oh, tu ne l'avais pas remarquée ? Mais si...\n Il y a une liste avec les noms des gens sur un\n tableau...\"",
+            "\\.\"Ce sont les noms des 20 personnes qui ont été enlevées.\"",
+            "\\.\"Si tu enlèves Sara, Kai et Joe de la liste, ça fait 17.\n Ça correspond au nombre qu'il y avait dans les emails.\"",
+            "\\.\\C[4](Argh...! Mais qu'est-ce que ça veut dire ?!)",
             "\\.\\C[4](Ça n'a pas marché...!)",
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\\C[4](Ça n'a pas marché...!)"
+            "\"Non ! On n'a rien à voir !\"",
+            "\\.\"Hein...? Mais il est allé jusqu'à menacer Nao pour\n éviter qu'on lise les emails...\"",
+            "\\.\"Tu penses qu'il y aurait une autre raison...?\"",
+            "\"... Ben... Tu sais...\n Peut-être qu'il ne voulait pas qu'on voit certaines\n images...\"",
+            "\\.\"Sara. Ce n'est pas le moment de plaisanter.\"",
+            "\\.\\C[4](Ça n'a pas marché...!)",
+            "\"Bien évidemment !!\n On ne fait que lâcher des hypothèses, de toute façon !\"",
+            "\\.\"Comment ça...?\"",
+            "\\.\"Montre-nous des preuves, Sou !\n Prouve-nous que ces emails existent !!\"",
+            "\\.\"C'est vraiment marrant que tu dises ça... étant donné\n que vous m'avez volé l'ordinateur.\"",
+            "\\.\"Donc malheureusement... Je n'ai pas de preuves.\"",
+            "\\.\"Dans ce cas, on est dans la même situation !\n Et je renie l'existence de ces emails !\"",
+            "\\.\"...!\""
         ],
         "7-2-message": [
-            null,
+            "\"On dirait que tu n'as plus rien à ajouter.\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "7-4-message": [
-            null,
+            "\"On dirait que tu n'as plus rien à ajouter.\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "7-6-message": [
-            null,
+            "\"On dirait que tu n'as plus rien à ajouter.\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "7-8-message": [
-            null,
+            "\"On dirait que tu n'as plus rien à ajouter.\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "7-10-message": [
-            null,
+            "\"On dirait que tu n'as plus rien à ajouter.\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)"
+        ],
+        "1-1-message": [
+            "\\C[3]L'atmosphère est vraiment écrasante.",
+            "\\.\\C[4](Non... Cette fois, ce sera différent...\n Rien à voir avec les débats qu'on a eu auparavant...)",
+            "\\.\"Hihihi... Bon, je vais vous répéter les\n règles de base une dernière fois.\"",
+            "\\.\"En tout, vous tiendrez deux votes : le \\C[2]vote\n préliminaire\\C[0] au milieu du débat, et le \\C[2]vote final\\C[0]\n à la fin.\"",
+            "\\.\"5 candidats seront sélectionnés à l'issue du vote\n préliminaire et 1 victime sera désignée lors du vote\n final.\"",
+            "\\.\"Si la victime choisie est le \\C[2]Maître des Clés\\C[0],\n vous perdez tous et vous mourez.\"",
+            "\\.\"Si la victime est le \\C[10]Sacrifice\\C[0], le \\C[10]Sacrifice\\C[0] gagne\n et il peut s'échapper avec une personne de son choix.\"",
+            "\\.\"Si la victime est un \\C[4]Roturier\\C[0] ou le \\C[3]Sage\\C[0],\n la victime en question et le \\C[10]Sacrifice\\C[0] mourront.\"",
+            "\\.\"Ah, oui...\n Je vous ai laissé des manuels sur vos sabliers.\n Servez-vous-en comme vos autres objets.\"",
+            "\\.\"Voilà, c'est tout... Hihihi.\n Profitez du temps qu'il vous reste.\"",
+            "\\C[3]Rillante s'assoit tranquillement dans son fauteuil.",
+            "\\.\\C[3]Et... dans un silence morbide...\nLe Jeu Principal commença."
+        ],
+        "3-1-message": [
+            "\\C[3]Le débat est dans une \\C[2]impasse\\C[3], impossible d'atteindre\nun point d'entente...!",
+            "\\.\\C[4](Il faut que je fasse pencher la faveur vers l'un\n des deux côtés... ou on n'avancera jamais !)",
+            "\\.\\C[3]Voulez-vous une explication des Combats d'Équilibre ?\\.",
+            "\\C[3]Deux personnes s'exprimeront en même temps.\nEn \\C[2]confirmant\\C[3] ou \\C[2]niant\\C[3] les propos d'un parti,\nvous pouvez changer leurs avis.",
+            "\\.\\C[3]Si tout se passe bien, l'un des partis pourra\nl'emporter sur l'autre, et le débat pourra continuer.",
+            "\\.\\C[3]Sachez qu'il n'y a pas de temps limite, mais que\nvous êtes toutefois limités dans le nombre\nd'interventions que vous pouvez faire."
+        ],
+        "3-3-message": [
+            "\\C[3]Le débat est dans une impasse, impossible d'atteindre\nun point d'entente...!",
+            "\\.\"Madame Nao, vous tentez d'entraîner dans cette\n affaire autant de personnes que vous le pouvez.\"",
+            "\\.\"C'est faux !!\""
+        ],
+        "4-1-message": [
+            "\\.\\C[4](Argh...!\n Je n'arrive pas à faire pencher la faveur d'un côté !\n Recommençons depuis le début !)"
+        ],
+        "4-3-message": [
+            "\\.\\C[4](Argh...!\n Je n'arrive pas à faire pencher la faveur d'un côté !\n Recommençons depuis le début !)"
+        ],
+        "5-11-message": [
+            "Haa... Haa...",
+            "\\.*Kof, kof...\n\"Je suis épuisé... et je ne me sens pas bien...\"",
+            "\\.\\C[4](Je pense avoir réfuté presque tous ses arguments...)",
+            "\\.\\C[4](Alors... pourquoi...?)",
+            "\\.\"..........\"",
+            "\\.\"..........\"",
+            "\\.\"..........\"",
+            "\\.Kof, kof...",
+            "\\.\\C[4](Pourquoi... leurs expressions sont-elles toutes\n emplies de doute...?)",
+            "\\.\\C[4](Nous n'avons fait... qu'endommager nos confiances.)",
+            "\\.\"Ça suffit...\"",
+            "\\.\"Tu pourrais te calmer, une minute ?\"",
+            "\\.\\C[4](Urgh...!!\n J'ai réussi à contredire la plupart de ses arguments...\n Pourquoi est-ce qu'il est autant indifférent ?!)",
+            "\\.\"..........\"",
+            "\\.\"..........\"",
+            "\\.\"..........\"",
+            "\\.\"On dirait que personne n'est plus sûr de rien.\"",
+            "\\.\\C[4](Le doute... Il nous encercle tous.)",
+            "\\.\\C[4](Sou...!! C'est à cause de toi !!)",
+            "\\.\"H-Hé, vous tous ! Reprenez-vous !\n Douter de Sara, c'est pas la bonne chose à faire !!\"",
+            "\\.\"Vous voulez qu'on meure tous, ou quoi ?!\"",
+            "\\.\"... Hé, tu penses que ce serait quoi, le pire,\n pour vous ?\"",
+            "\\.\"Qu'un gars qui fait confiance à personne comme moi\n soit un traître...? Non.\"",
+            "\\.\"Ce serait plutôt que Sara soit le traître... pas vrai ?\"",
+            "\\.\"..........\"",
+            "\\.\"Alors toi, tu vas voir...\"",
+            "\"Oui, allez, votre attention, s'il vous plaît.\"",
+            "\\.\"Héhihi... Désolée de vous interrompre\n pendant que vous vous enflammez.\"",
+            "\\.\"C'est bientôt l'heure du \\C[2]vote préliminaire\\C[0] !\"",
+            "\\.\\C[4](Que...?!)",
+            "\\.\"A-Attends ! À un moment pareil... ?!\"",
+            "\\.\"Bordel, on fait quoi ?!\n On a rien appris de nouveau !!\"",
+            "\\.\"On fait comment p'voter sans l'regretter plus tard,\n nous ?!\"",
+            "\\.\\C[4](Qu'est-ce que je peux dire, dans cette situation...?!)",
+            "\"Écoutez ! C'est moi le \\C[2]Maître des Clés\\C[0] !!\"",
+            "\\.\"Ne l'oubliez pas...!!\"",
+            "\\.\"..........\"",
+            "\\.\"Ahahah. Alors comme ça, t'as décidé de le répéter\n à la toute fin ?\"",
+            "\\.\"Bien évidemment, c'est moi le vrai \\C[2]Maître des Clés\\C[0].\n T'es vraiment fourbe.\"",
+            "\\.\"Non... C'est toi, le fourbe !\"",
+            "\\.\"Sou... Je ne perdrai pas contre toi...!!\"",
+            "\"Je suis le \\C[2]Maître des Clés\\C[0] !!\"",
+            "\\.\"Miaou ?!\"",
+            "\\.\\C[4](Si je laisse passer cette chance...\n Je n'aurai jamais l'occasion de le dire !)",
+            "\\.\"... Fallait le dire avant.\"",
+            "\\.\"Le dire maintenant, ça ne fait que te rendre plus\n suspecte, tu sais ?\"",
+            "\\.\"Je le dis quand même !\"",
+            "\\.\"Sou... Je ne perdrai pas contre toi...!!\"",
+            "\\.\"Haa... Bon, allez, ça suffit. Votons.\"",
+            "\\.\\C[4](Je ne peux... rien faire !)",
+            "\\.\\C[4](Je n'ai plus qu'à croire en eux...!)",
+            "\\.\"Sara...!\"",
+            "\\.\"Vous tous ! Faites preuve de courage.\"",
+            "\\.\"Cette peur d'être trahi vous retient.\"",
+            "\\.\"Se méfier de Sara... c'est un pas en avant !\"",
+            "\\.\\C[4](Grr...!!)",
+            "\\.\"Sou...!! T'es vraiment qu'un...!!\"",
+            "\\.\"Ahahah... Allez, votons.\"",
+            "\\.\"Car maintenant...\"",
+            "",
+            "\\.\\C[4](...!!)",
+            "Veuillez choisir pour qui voter."
+        ],
+        "5-11-choice": [
+            "Je suis le Maître des Clés\nNe rien dire"
+        ],
+        "5-13-choice": [
+            "Oui"
         ]
     },
     "map110": {
@@ -13104,7 +13977,7 @@
         "2-2-message": [
             "\"Monsieur... Monsieur...\"",
             "\\.\"Ce n'est pas... réel, n'est-ce pas ? Monsieur...\"",
-            "\\.\"Je vous en prie... S'il vous plaît, levez-vous...\"",
+            "\\.\"Je vous en prie... S'il vous plaît, relevez-vous...\"",
             "\\.\"Vous ne pouvez pas rester comme ça...\n Nous sommes tous inquiets...\"",
             "\\.\"Monsieur...?\"",
             "\\.\\C[3]Nao... remua faiblement le corps de Monsieur Mishima.\\.\\.",
@@ -13116,34 +13989,34 @@
             "\\.\"Miaou... Le vieux...\"",
             "\\.\"Regarde pas, Gin ! Sors de là !\"",
             "\\.\"Putain...!! Merde !! C'quoi ce bordel !!\"",
-            "\\.\"Qui... Qui a voté... pour Monsieur Mishima...?\"",
-            "\\.\"Mais ta gueule, sale mocheté...!!\"",
-            "\\.\"H-Hein ?!\n Mais... c'est à cause des votes, qu'il est...!\"",
+            "\\.\"Qui... Qui c'est qui a voté...\n pour Monsieur Mishima...?\"",
+            "\\.\"Mais ta gueule, sale tête de gland...!!\"",
+            "\\.\"H-Hein ?!\n Mais... c'est à cause des votes qu'il est...!\"",
             "\\.\"T'es au courant que c'est possible qu'on ait tous\n voté pour quelqu'un d'autre que nous-même, hein !?\"",
             "\\.\"...!\"",
-            "\\.\"... Aller, du calme.\"",
+            "\\.\"... Allez, du calme.\"",
             "\\.\"Que tout le monde m'écoute.\n ... Essayez pas de deviner les votes des gens.\"",
             "\\.\"Mais...!\"",
             "\\.\"On a voté sans être au courant de rien.\n Personne... avait de mauvaises intentions.\"",
-            "\\.\"Tu vois ce que je veux dire, hein, Sara ?\"",
+            "\\.\"T'es au courant de ça, hein, Sara ?\"",
             "\\.\\C[4](... Je...)",
             "\"... Keiji a raison.\n On ne devrait pas parler des votes, Joe.\"",
             "\\.\"Sara...\"",
             "\\.\"...\"",
             "\\.\"... Bon, d'accord...\"",
-            "\\.\"Juste... J'ai besoin d'être seul, deux minutes...\"",
+            "\\.\"Juste... Laissez-moi tranquille deux minutes...\"",
             "\"... Non, Joe a raison.\n On devrait clarifier nos votes...\"",
             "\\.\"...\"",
             "\\.\"... Mince, alors. De tout le monde ici, je pensais\n bien que tu serais la seule à me comprendre...\"",
             "\\.\"...\"",
-            "\\.\"... Bon, comme vous voulez. Mais pas maintenant.\n On peut pas discuter tranquillement quand on a\n les nerfs.\"",
+            "\\.\"... Bon, comme vous voulez. Mais pas maintenant.\n On peut pas discuter tranquillement quand on est\n sur les nerfs.\"",
             "\\.\"D-D'accord.\n Quand on aura un peu retrouvé nos esprits, alors...\"",
-            "\\.\"Je vais me changer les idées...\n J'ai... besoin d'être seul, deux minutes...\"\"",
+            "\\.\"Je vais me changer les idées...\n Laissez-moi tranquille... deux minutes...\"\"",
             "\"..........\"",
             "\\.\"Sara...\"",
             "\\.\"C'est vrai... Toi aussi, t'as beaucoup à gérer...\"",
-            "\\.\"... Moi aussi... Je vais me changer les idées...\"",
-            "\\.\"Juste... J'ai besoin d'être seul, deux minutes...\"",
+            "\\.\"... Je vais... aller me changer les idées...\"",
+            "\\.\"Juste... Laissez-moi tranquille deux minutes...\"",
             "\\C[3]Joe tituba hors de la salle.",
             "\\C[3]Quant au reste du groupe... ils se sont dispersés.\nCertains sont partis, d'autres sont restés.\\.\\."
         ],
@@ -13217,16 +14090,17 @@
     },
     "map53": {
         "4-1-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\"...\""
+            "\\C[3]Une déchiqueteuse électrique.",
+            "\\.\\C[4](C'est une machine pour déchirer des documents\n et des feuilles... Il y a de nombreux morceaux de\n papier déchirés dedans.)",
+            "\"Alors, Sara ?\n T'as trouvé quelque chose ?\"",
+            "\\.\"Ça...\"",
+            "\\.\"Hm, que des déchets...\n Ce serait sûrement une perte de temps de tout regarder,\n non ?\"",
+            "\\.\\C[4](Hmm... Recréer les documents à partir de tous ces\n morceaux de papier prendrait beaucoup de temps.)",
+            "\\.\"..........\"",
+            "\\.\"Je... vais regarder ce que je peux faire, miaou.\"",
+            "\\.\"Gin...!\"",
+            "\\.\"...\"",
+            "\\.\"...Haha.\n On dirait que Gin a encore de l'énergie à revendre.\n Je vais garder un œil sur lui.\""
         ],
         "1-1-message": [
             "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles."
@@ -13248,17 +14122,55 @@
         ],
         "43-1-message": [
             "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
+        ],
+        "4-2-message": [
+            "\\C[3]Une déchiqueteuse électrique.",
+            "\\C[3]Gin examine les débris qu'il y a à l'intérieur.",
+            "\\.\"... Peut-être que Gin commence aussi à retrouver\n le moral, lui-aussi.\""
+        ],
+        "12-1-message": [
+            "\\C[3]Un grand tableau noir vide."
         ]
     },
     "map60": {
         "1-1-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\"...\""
+            "\\C[3]Devant moi se trouvaient d'étranges tables\nqui m'arrivent à la taille.",
+            "\"... On y est.\"",
+            "\\.\\C[4](Keiji...)",
+            "\\.\"...! Z'avez fait vite... les gars...\"",
+            "\\.\"..........\"",
+            "\\.\"... Ouuh...\"",
+            "\\.\"...\"",
+            "\\.\"... Hmph. Vous êtes tous si pâles...\"",
+            "\\.\"..........\"",
+            "\\.\"..........\"",
+            "\\.\"... Pourquoi... est-ce que ça nous arrive...\"",
+            "\\.\\C[3]Un jeu sans issue commence...",
+            "\\.\\C[3]... Et nous n'avons d'autre choix que d'y jouer.",
+            "\\.\"Héhihi... Ah, alors vous participerez, finalement ?\"",
+            "\\.\"Rillante...!! 'spèce de...!!\"",
+            "\\.\"Ahahah... Regardez ces tables de plus près.\"",
+            "\\.\"Une installation pour le moins intéressante,\n n'est-ce pas ?\"",
+            "\\.\"Héhihi... Ce sont des sabliers inversés.\n Vraiment très curieux.\"",
+            "\\.\"Quand la partie haute de ces sabliers sera pleine, \n le débat sera terminé.\"",
+            "\\.\"Vous avez 70 minutes avant le vote préliminaire.\n Après ça, vous aurez 20 minutes de délibérations\n avant le vote final.\"",
+            "\\.\"Très bien, on peut commencer ?\"",
+            "\\.\"Attends !! Kanna... Kanna est pas là !!\"",
+            "\\.\"Oh, non... Alors certains préfèreraient ne\n pas prendre part à un jeu aussi plaisant.\"",
+            "\\.\"N-Non, attends !! Kanna... elle va venir !!\"",
+            "\\.\"Le temps est limité.\n C'est ce qu'elle a choisi, un point c'est tout.\"",
+            "\\.\"Sara...\n Es-tu sûre d'avoir fait le bon choix ?\"",
+            "\\.\\C[4](Aurais-je... fait...\\.\\. le mauvais choix...?)",
+            "\\.\"Très bien, commençons le Jeu Principal !\n\\! Que tout le monde choisisse un sablier !\"",
+            "\\.\\C[3]Nous avons reçu l'ordre de nous diriger vers un sablier.",
+            "\\.\"Bien, vous me semblez prêts !\"",
+            "\\.\"Que le Jeu Principal commence !\"",
+            "\\.\"... S'il vous plaît... Attendez...\"",
+            "\"... E-Euh... Moi aussi...\"",
+            "\\.\"Kanna...!!\"",
+            "\\.\"Tu es la bienvenue, Kanna Kizuchi.\n Tes actes... tu les regretteras plus tard.\n Héhihi...\"",
+            "\\.\"..........\"",
+            "\\.\"Ahaha...! Que ce merveilleux, ce fantastique\n Jeu Principal commence !\""
         ],
         "5-1-message": [
             "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles."
@@ -13293,7 +14205,7 @@
             "\\.\"Hm... Bonne question...\n Cela fait certainement assez longtemps.\"",
             "\\.\"Bahaha ! Quel bosseur.\n Voilà pourquoi je veux te donner ça.\"",
             "\\.\"Qu'est-ce donc...?\"",
-            "\\.\"Aller, aller, essaie-le.\"",
+            "\\.\"Allez, allez, essaie-le.\"",
             "\"..........\"",
             "\\.\"Ouah ! Il te va plutôt bien, hein ?\"",
             "\\.\"Que, euh... Qu'est-ce qui vous a amené à...\"",
@@ -14186,7 +15098,13 @@
             null,
             null,
             null,
-            "\\.\"Sara...\""
+            "\\.\"Sara...\"",
+            null,
+            "\\.\"Ouais...!!\""
+        ],
+        "19-3-message": [
+            null,
+            "\\.\"Nao...\""
         ]
     },
     "map78": {
@@ -14337,7 +15255,7 @@
             null,
             null,
             null,
-            null,
+            "<<REMOVE>>",
             null,
             null,
             null,
@@ -14722,16 +15640,34 @@
     },
     "map54": {
         "2-1-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\"...\""
+            "\\C[3]Il y a une menotte au bout d'une chaîne.",
+            "\\.\\C[4](Je me demande ce que c'est...)",
+            "\\.\\C[4](Et... l'air dans cette pièce est lourd.)",
+            "\"Je... reste pas ici, miaou...\"",
+            "\\.\\C[4](Gin...?)",
+            "\"... Cette salle... n'annonce rien de bon.\"",
+            "\\.\"Comment ça ?\"",
+            "\\.\"... Hmmm.\"",
+            "\\.\"Je ne sais pas pourquoi... mais l'atmosphère est\n malsaine, ici. Alors dis-moi, s'il te plaît.\"",
+            "\\.\"...\"",
+            "\\.\"Quelqu'un... est sûrement mort ici...\"",
+            "\\.\"...!\"",
+            "\\.\"J'arrive à sentir une légère odeur de sang.\"",
+            "\\.\"Ahh... Et vu qu'y a de la poussière, ça a dû\n être nettoyé assez récemment...\"",
+            "\\.\"Je dirais que c'est arrivé... Ouais.\n Pendant la Première Épreuve. Y a moyen.\"",
+            "\\.\\C[3]Quand je compris, je m'en rendis compte.",
+            "\\.\\C[3]L'ineffaçable puanteur crue du sang.\\!\n... L'odeur qui, par instinct, me répugne et me repousse.",
+            "\\.\\C[3]C'est dégoûtant... J'ai envie de vomir.",
+            "\\.\\C[4](...!!)",
+            "\\.\\C[4](Ne l'imagine pas...!)",
+            "\\.\"... Tu sens tes limites, Sara ?\"",
+            "\\.\"Keiji...\"",
+            "\\.\"... Je vais examiner chaque centimètre de cette salle.\n Toi, sors, Sara.\"",
+            "\\.\"Mais...\"",
+            "\\.\"Fais confiance à ton ami le policier.\"",
+            "\\.\\C[3]D'une tapote dans le dos, Keiji me poussa\ngentiment hors de la salle.",
+            "\\C[4](Je n'arrive pas à croire qu'une pièce vide...\n ait pu me faire trembler...)",
+            "\\.\\C[4](Elle a été plantée en moi... la peur de la mort...)"
         ],
         "3-1-message": [
             "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles."
@@ -14753,6 +15689,9 @@
         ],
         "18-1-message": [
             "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
+        ],
+        "14-1-message": [
+            "\\C[3]La poubelle est vide."
         ]
     },
     "map66": {
@@ -14766,7 +15705,7 @@
             "\\.\"Hein, sérieux ?!\n\\! ... Non, c'est pas ce que je voulais !\"",
             "\\.\"Sérieusement, fais moins de bruit...!!\n Qu'est-ce que tu voulais dire ?\"",
             "\\.\"... Je vous en prie, montrez-moi vos réponses,\n Seigneure Sara...\"",
-            "\\.\"O... On est en cours, tu sais ?\n Bien évidemment que je ne vais pas te les donner.\"",
+            "\\.\"O-On est en cours, tu sais ?\n Bien évidemment que je ne vais pas te les donner.\"",
             "\\.\"Juste pour une seconde !! Je recopie vite !\"",
             "\\.\"Ce n'est pas une compétence qui\n mérite d'être félicitée...\"",
             "\\.\"Désolée, mais je ne peux pas.\n Ça s'appelle des devoirs maison.\n C'est ta faute si tu ne les fais pas chez toi.\"",
@@ -14888,7 +15827,22 @@
             null,
             null,
             "\\.\\C[5]..........",
-            "\\.\\C[5]Démarrage. Bienvenu.",
+            "\\.\\C[5]Démarrage en cours. Bienvenue.",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.Comme prévu, 17 personnes ont été saisies.\nJuste au cas où, il n'y a pas d'erreur quant à la\ndate du jeu de la Démocratie Mortelle, n'est-ce pas ?\n\nTout se passe sans encombres.",
+            "\\.Je suis aussi profondément attaché à Madame Sara.\nJe la protégerai coûte que coûte.\n\nJe suis prêt à consacrer ma vie aux Chidouins.",
+            "\\.L'heure est bientôt venue.\n\nOsez blesser Sara Chidouin et je serai votre ennemi.\nJe vous ferai face, même à vous.",
+            "\\.Madame Sara est impatiente à l'idée d'y participer.\nDe même, son \\C[2]ami\\C[0] y prendra sûrement part.",
             null,
             null,
             null,
@@ -14915,6 +15869,7 @@
             null,
             null,
             null,
+            "\\.L'heure est bientôt venue.\n\nOsez blesser Sara Chidouin et je serai votre ennemi.\nJe vous ferai face, même à vous.",
             null,
             null,
             null,
@@ -14924,6 +15879,7 @@
             null,
             null,
             null,
+            "\\.Je suis aussi profondément attaché à Madame Sara.\nJe la protégerai coûte que coûte.\n\nJe suis prêt à consacrer ma vie aux Chidouins.",
             null,
             null,
             null,
@@ -14932,24 +15888,7 @@
             null,
             null,
             null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\.Comme prévu, 17 personnes ont été saisies.\nJuste au cas où, il n'y a pas d'erreur quant à la\ndate du jeu de la Démocratie Mortelle, n'est-ce pas ?\n\nTout se passe sans encombres.",
             null,
             null,
             null,
@@ -15035,7 +15974,7 @@
             null,
             null,
             null,
-            null,
+            "",
             null,
             null,
             null,
@@ -16487,7 +17426,7 @@
             null,
             null,
             null,
-            null,
+            "\\C[4](...!)",
             null,
             null,
             null,
@@ -16525,7 +17464,7 @@
             null,
             null,
             null,
-            null,
+            "\\C[4](...!)",
             null,
             null,
             null,
@@ -19179,11 +20118,13 @@
     },
     "map156": {
         "2-1-message": [
-            null,
+            "\\C[3]L'atmosphère est vraiment écrasante.",
             null,
             "\\.\"...\""
         ],
         "3-1-message": [
+            "\\C[3]... Le vote est désormais terminé.",
+            "\\.\\C[3]Affichage des résultats...",
             null,
             null,
             null,
@@ -19194,14 +20135,25 @@
             null,
             null,
             null,
+            "\\.\"\\C[2]Sou Hiyori.\\C[0]\"",
             null,
-            null,
-            null,
-            null,
-            null,
+            "\\.\"\\C[2]Kanna Kizuchi.\\C[0]\"",
             null,
             null,
             "\\.\"...\""
+        ],
+        "6-1-message": [
+            "\\C[3]Le débat est dans une impasse, impossible d'atteindre\nun point d'entente...!"
+        ],
+        "7-1-message": [
+            "\\.\\C[4](Argh...!\n Je n'arrive pas à faire pencher la faveur d'un côté !\n Recommençons depuis le début !)"
+        ],
+        "3-3-message": [
+            "\\C[3]... Le vote est désormais terminé.",
+            "\\.\\C[3]Affichage des résultats..."
+        ],
+        "3-5-message": [
+            "Veuillez choisir pour qui voter."
         ]
     },
     "map159": {
@@ -20232,16 +21184,104 @@
             "\\C[3]Une carte portant l'inscription \"Maître des Clés\".\nElle indique : \"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe."
         ],
         "7-1-message": [
-            "\\C[3]Il y a une grande porte rouge au centre."
+            "\\C[3]Il y a une grande porte rouge au centre.",
+            "\\.\\C[3]Le nombre 09 est affiché au-dessus de la porte.",
+            "\\.\\C[4](Qu'est-ce que ce nombre peut bien vouloir signifier...?)"
         ],
         "7-2-message": [
-            "\\C[3]Il y a une grande porte rouge au centre."
+            "\\C[3]Il y a une grande porte rouge au centre.",
+            "\\.\\C[3]Le nombre 02 est affiché au-dessus de la porte.",
+            "\\.\\C[4](Qu'est-ce que ce nombre peut bien vouloir signifier...?)"
         ],
         "8-5-message": [
-            "\\C[3]La porte rouge est ouverte, éclairant les environs\nd'une vive lumière blanche."
+            "\\C[3]La porte rouge est ouverte, éclairant les environs\nd'une vive lumière blanche.",
+            "\\.\\C[4](Le compteur au-dessus de la porte est à 0...!)",
+            "\\.\\C[4](Ne me dites pas que tous ceux qui étaient au\n premier étage... Y sont allés...?)",
+            "\\C[4](Ce serait dangereux d'entrer.\n Je vais juste... donner un petit coup d'œil...)",
+            "\\.\\C[3]Je passais ma tête à travers l'entrée...",
+            "\\.\\C[3]Quand soudainement...",
+            "\\.\\C[3]Quelqu'un me poussa par derrière.",
+            "\\.\"Quoi-?!\"",
+            "\\.\\C[3]Puis je perdis connaissance.",
+            "\"Mmh...\"",
+            "\\.\"Hein...?\""
         ],
         "36-1-message": [
             "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
+        ],
+        "2-1-message": [
+            "\"Sara !!\"",
+            "\\.\"Reko...\"",
+            "\\.\"J'ai entendu dire que c'était vous qui aviez\n trouvé Nao ! Vous avez géré ! Merci !\"",
+            "\\.\"J-Je suis désolée... de vous avoir inquiétés...\"",
+            "\\.\"T'en fais pas !\n Tant que t'es saine et sauve!\"",
+            "\\.\"Mais hé, Nao. On est tes potes.\n T'enfuis plus comme ça en courant, okay ?\"",
+            "\\.\"M... Mes potes...\"",
+            "\\.\"T-Tu veux pas ?\n Si c'est mon maquillage qui te gêne, je peux\n l'enlever...!\"",
+            "\\.\"C-Ce n'est pas ça ! Je suis juste... très contente.\"",
+            "\\.\"... Okay.\"",
+            "\\.\"... Ouaf...!\"",
+            "\\.\"Gin, merci...\n Je ne te referai plus jamais peur comme ça.\"",
+            "\\.\"... J-J'ai même pas eu peur... miaou.\""
+        ],
+        "1-1-message": [
+            "\\C[3]Il y a quelque chose par terre...",
+            "\"Hm ?\n ... C'est... une clé.\"",
+            "\\.\"Il y a... une étiquette, miaou.\"",
+            "\\.\"La clé de la cuisine, hein...\"",
+            "\\.\"Y a une étiquette.\n La clé de la cuisine, hein...?\"",
+            "\\.\"Maintenant que j'y pense... La cuisine est le seul\n endroit du rez-de-chaussée qu'on n'a pas encore\n visité.\"",
+            "\\.\"Étant donné qu'on a la clé, Nao aurait pas pu y\n rentrer sans casser la fenêtre...\"",
+            "\\.\"Mais... On devrait vérifier, juste au cas où.\"",
+            "\\.\"Ouaip. Quand tu enquêtes, la meilleure chose\n à faire c'est de rester méthodique, Sara.\"",
+            "\\C[3]Clé de la Cuisine obtenue."
+        ],
+        "9-1-message": [
+            "\\C[3]Il y a une porte noire fermée sur la gauche.",
+            "\\.\\C[3]Sur la poignée de cette porte se trouve un digicode.",
+            "\\C[3]La porte noire s'est ouverte.",
+            "\\C[4](Je ne devrais pas insister...\n Le hasard ne va pas nous emmener bien loin.)",
+            "\\C[4](Je ne devrais pas insister...\n Le hasard ne va pas nous emmener bien loin.)",
+            "\\C[4](On dirait que ce n'est pas ça.)"
+        ],
+        "10-2-message": [
+            "\\C[3]Il y a une porte blanche sur la droite."
+        ],
+        "6-1-message": [
+            "\\C[3]Reko, Nao, et Gin sont dans le couloir.",
+            "\"Je ferai tout ce que je peux pour me rattraper...!\"",
+            "\"T'inquiète pas pour ça, Nao. On est avec toi !\n Pas vrai, Gin?\"",
+            "\\.\"Miaou...!\""
+        ],
+        "6-2-message": [
+            "\\C[3]Nao et Reko sont dans le couloir.",
+            "\"Je ferai tout ce que je peux pour me rattraper...!\"",
+            "\"On t'en veut pas, Nao.\n ... Merci, Sara.\""
+        ],
+        "6-3-message": [
+            "\\C[3]Nao et Reko sont dans le couloir.",
+            "\"Je ferai tout ce que je peux pour me rattraper...!\"",
+            "\"On dirait que Gin s'occupe de cette pièce.\n Relax, Sara.\""
+        ],
+        "8-5-choice": [
+            "Regarder à l'intérieur\nAnnuler"
+        ],
+        "9-2-message": [
+            "\\C[3]Il y a une porte noire sur la gauche."
+        ],
+        "10-1-message": [
+            "\\C[3]Il y a une porte blanche fermée sur la droite.",
+            "\\.\\C[3]Sur la poignée de cette porte se trouve un digicode.",
+            null,
+            "\\C[4](Je ne devrais pas insister...\n Le hasard ne va pas nous emmener bien loin.)",
+            "\\C[4](Je ne devrais pas insister...\n Le hasard ne va pas nous emmener bien loin.)",
+            "\\C[4](On dirait que ce n'est pas ça.)"
+        ],
+        "10-1-choice": [
+            "Entrer un nombre\nAnnuler"
+        ],
+        "9-1-choice": [
+            "Entrer un nombre\nAnnuler"
         ]
     },
     "map59": {
@@ -20267,13 +21307,106 @@
             "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
         ],
         "2-2-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\\C[4](...)"
+            "\\C[3]Un extravagant buffet.",
+            "\\.\\C[4](Comment pourrais-je avoir faim...?)",
+            "\\.\\C[3]Au final, nous ne sommes que des marionnettes qui\ndansent dans la paume de la main des kidnappeurs.",
+            "\\.\\C[3]Si l'envie leur prend, ils peuvent tous nous décapiter.",
+            "\\.\\C[3]S'il faut, il n'y a même pas de sortie.\nIls se joueront de nous et ils nous massacreront\njusqu'à ce qu'ils soient satisfaits.",
+            "\\.\\C[4](Mais... dans ce cas, on va juste tous...)",
+            "\\.\\C[4](...)",
+            "\\.\\C[3]C'est une chose étrange.",
+            "\\.\\C[3]Encore et encore, j'ai été proche de la mort.",
+            "\\.\\C[3]Peut-être qu'il ne nous reste plus aucune\nraison d'avoir peur.",
+            "\\.\\C[3]Je... ne veux pas mourir.",
+            "\\.\\C[3]Même maintenant...\nJe veux continuer d'avancer.",
+            "\\.\\C[4](Haha... Je commence à haïr mon optimisme.)",
+            "\\.\\C[4](Je ferai de mon mieux...\n Si je me rate, tout le monde va mourir.)",
+            "\\.\\C[4](C'est la pire des cartes... qui me pousse à avancer.)",
+            "\\.\\C[3]Je n'ai bu qu'un peu d'eau...",
+            "\\.\\C[3]Et l'heure... arriva.",
+            "\"Il est temps. Vous êtes priés de vous diriger\n vers le terrain de jeu via la porte qui se trouve\n à côté de l'écran.\"",
+            "\\.\"Je vous souhaite bonne chance.\n Héhihi... Ahahah...\""
+        ],
+        "1-1-message": [
+            "\\C[3]Rillante est affichée sur l'écran.",
+            "\"Héhihi... Comment allez-vous... tout le monde ?\"",
+            "\\.\"Rillante..!\"",
+            "\"Ceci est une vidéo pré-enregistrée.\n ... Je suis donc incapable de répondre à vos questions.\"",
+            "\\.\"Permettez-moi de vous remercier sincèrement\n de prendre part au \\C[2]Jeu Principal\\C[0].\"",
+            "\\.\\C[4](Au Jeu Principal...?!)",
+            "\\.\"Vous vous trouvez dans une salle d'attente\n préparée spécialement pour les participants...\n Il s'agit de la \\C[2]Salle du Dernier Dîner\\C[0].\"",
+            "\\.\"Vous pouvez vous y gaver de nourriture ou\n réfléchir à une stratégie avant que le jeu ne\n commence. Elle est à votre libre disposition.\"",
+            "\\.\\C[4](Qu-Qu'est-ce qu'elle raconte...)",
+            "\\.\"Ceux qui parviennent à remporter le Jeu Principal\n peuvent passer à l'étage suivant ! Hourra !\"",
+            "\\.\"Sachez que ceux qui n'ont pas quitté leur salle\n d'attente avant le début du Jeu Principal seront\n tués en guise de pénalité.\"",
+            "\\.\"Gardez ça à l'esprit... Héhihi.\"",
+            "\\.\\C[4](Le prochain... étage...)",
+            "\\.\"Je vais maintenant vous expliquer les règles du Jeu.\n Sortez la \\C[2]carte\\C[0] que vous avez trouvé en explorant\n et placez-la sur cet écran, s'il vous plaît.\"",
+            "\\.\\C[4](... La... carte...?)"
+        ],
+        "1-1-choice": [
+            "Qu'est-ce que vous m'avez fait ?\nOù sont les autres ?"
+        ],
+        "1-2-message": [
+            "\"Vous avez votre carte, c'est bon ?\n Je vais désormais commencer l'explication.\"",
+            "\\.\"Les règles fondamentales sont profondément simples.\n Une personne sera sélectionnée par vote à la majorité,\n et cette personne mourra. C'est tout.\"",
+            "\\.\\C[4](Comment ça, \"simple\"...?!)",
+            "\\.\"Le vote se déroulera en deux temps.\"",
+            "\\.\"À la fin du premier tour, vous aurez le \\C[2]vote\n préliminaire\\C[0]. La moitié d'entre vous seront\n retenus comme candidats.\"",
+            "\\.\"À l'heure actuelle, 11 personnes sont en vie,\n donc vous choisirez \\C[2]5\\C[0] candidats.\"",
+            "\\.\"Ensuite, un \\C[2]vote final\\C[0] sera tenu à partir de ces\n même candidats, décidant de l'ultime \\C[2]victime\\C[0].\"",
+            "\\.\"Pour faire court, la victime sera élue graduellement\n en passant de 11 personnes à 5, puis 1 !\"",
+            "\\.\"Naturellement, ceux qui n'ont pas été sélectionnés\n comme candidats participent aussi à ce vote !\n Allez-y, tuez qui vous voulez !\"",
+            "\\.\\C[4](Arrêtez...! Arrêtez tout ça...!)",
+            "\\.\"Cependant, ce jeu n'est pas sans failles.\"",
+            "\\.\"Nous nous fichons des jeux de chance dénués de sens.\"",
+            "\\.\"C'est pourquoi utiliser des moyens pour décider\n de manière équitable la victime comme\n pierre-feuille-ciseau sont interdits !\"",
+            "\\.\"Cela dit, vous pouvez reprendre vos cartes !\"",
+            "\\.\\C[4](Nos cartes...)",
+            "\\.\"Ces cartes peuvent assigner quatre \\C[2]rôles\\C[0].\"",
+            "\\.\"Le premier est le \\C[4]Roturier\\C[0].\"",
+            "\\.\"C'est une carte insignifiante qui n'a pas\n de capacité spéciale.\"",
+            "\\.\"La deuxième est le \\C[2]Maître des Clés\\C[0].\"",
+            "\\.\"Et, bon dieu ! C'est un rôle bien terrifiant, puisque\n s'il est choisi pour victime, tout le monde périra !\"",
+            "\\.\\C[4](Le \\C[2]Maître des Clés\\C[4]... C'est ma carte !)",
+            "\\.\"Le troisième est le \\C[3]Sage\\C[0].\"",
+            "\\.\"Il s'agit d'un rôle rare ! Grâce à une révélation\n divine, il sait qui est le \\C[2]Maître des Clés\\C[0].\n Bravo à celui ou celle qui le possède !\"",
+            "\\.\"Le quatrième est le \\C[10]Sacrifice\\C[0].\"",
+            "\\.\"C'est une carte curieuse qui fait que son détenteur\n ne survit que s'il est choisi comme victime !\"",
+            "\\.\\C[4](Quoi-?!)",
+            "\\.\"Cela signifie que s'il n'est pas choisi, il meurt !\n Mais il a aussi des avantages !\"",
+            "\\.\"Le \\C[10]Sacrifice\\C[0] a 2 votes, et en plus...\"",
+            "\\.\"S'il gagne, il peut s'échapper d'ici en vie\n avec une personne de son choix !\"",
+            "\\.\"Mais, dans ce cas... tous les autres périront.\n Alors bonne chance !\"",
+            "\\.\"Il n'y a qu'un seul \\C[2]Maître des Clés\\C[0], \\C[3]Sage\\C[0], et \\C[10]Sacrifice\\C[0].\n Tous les autres sont des \\C[4]Roturiers\\C[0].\n Vous avez tout bien retenu, c'est bon ?\"",
+            "\\.\\C[4](Attends... une minute...)",
+            "\\.\\C[4](Non... Ça voudrait dire que...)",
+            "\\.\"Au minimum, deux personnes vont mourir.\n\\! Faites tous de votre mieux pour ne pas être\n l'un d'entre eux !\"",
+            "\\.\\C[4](Impossible...)",
+            "\\.\\C[3]À ce moment-là... J'entendis quelque chose.",
+            "\\.\\C[3]Le bruit sourd de quelqu'un qui s'évanouit\ndans la salle d'à côté."
+        ],
+        "1-3-message": [
+            "\"Il vous reste encore du temps avant que le Jeu\n Principal ne commence. Utilisez votre temps ici\n comme vous le souhaitez.\""
+        ],
+        "1-4-message": [
+            "\"Vous avez 10 minutes pour sortir avant d'être exécutés.\n Dépêchez-vous, s'il vous plaît.\"",
+            "\\.\\C[4](C'est vrai...\n Je serais peut-être plus heureuse en restant ici...)",
+            "\\C[3]Si seulement ce n'était qu'un rêve...",
+            "\\.\\C[3]À mon réveil...\nMaman m'aurait préparé un délicieux repas...",
+            "\\.\\C[3]J'aurais discuté avec Papa, j'aurais retrouvé Joe\net Ryoko au lycée comme d'habitude...",
+            "\\.\\C[3]Et on aurait bavardé de choses sans importance...",
+            "\\.\\C[3].........."
+        ],
+        "1-4-choice": [
+            "..........\nNe pas partir",
+            "Partir\nRester ici"
+        ],
+        "2-1-message": [
+            "\\C[3]Un extravagant buffet."
+        ],
+        "2-3-message": [
+            "\\C[3]Un extravagant buffet."
         ]
     },
     "map63": {
@@ -20308,7 +21441,7 @@
         ]
     },
     "items-54": {
-        "description": "Un bouchon trouvé au fond du bassin.\nIl est petit et lourd.",
+        "description": "Un bouchon trouvé dans un des bassins.\nIl est petit et lourd.",
         "name": "Bouchon"
     },
     "items-60": {
@@ -20370,6 +21503,12 @@
             null,
             null,
             "\\.\\C[4](...?)"
+        ],
+        "3-1-message": [
+            "\\C[3]Un grand tableau noir vide."
+        ],
+        "5-1-message": [
+            "\\C[3]La lumière illumine le tableau."
         ]
     },
     "map89": {
@@ -20481,6 +21620,49 @@
             null,
             "\"..........\"",
             "\"..........\""
+        ]
+    },
+    "map220": {
+        "3-1-message": [
+            "\\C[3]L'atmosphère est vraiment écrasante."
+        ]
+    },
+    "map55": {
+        "3-3-message": [
+            "\\C[10]Joe s'est éteint."
+        ],
+        "3-1-message": [
+            "\"Allez, continue d'appuyer sur ce bouton.\n Qui sait, peut-être que tu le sauveras ? Hihihi...\""
+        ]
+    },
+    "map179": {
+        "1-2-message": [
+            null,
+            null,
+            "\\.\"Le vote se déroulera en deux temps.\"",
+            "\\.\"À la fin du premier tour, vous aurez le \\C[2]vote\n préliminaire\\C[0]. La moitié d'entre vous seront\n retenus comme candidats.\"",
+            "\\.\"8 personnes sont en vie, donc vous serez \\C[2]4\\C[0].\"",
+            "\\.\"Ensuite, un \\C[2]vote final\\C[0] sera tenu à partir de ces\n même candidats, décidant de l'ultime \\C[2]victime\\C[0].\""
+        ],
+        "2-1-message": [
+            "\\C[3]Un extravagant buffet."
+        ]
+    },
+    "map134": {
+        "3-1-message": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\C[10]Kanna s'est éteinte."
+        ]
+    },
+    "map164": {
+        "3-3-message": [
+            "\\C[10]Nao s'est éteinte."
         ]
     }
 }

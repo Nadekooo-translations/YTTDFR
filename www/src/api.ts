@@ -60,17 +60,20 @@ export const loadFullnameUsernameMap = async () => {
 		return;
 	}
 
-	let res = await call("/users/");
 	let page = 1;
+	let res;
 
-	while (res.next) {
+	do {
+		res = await call(`/users/?page=${page}`);
+
 		for (const user of res.results) {
 			fullnameUsernameMap[user.full_name as string] = user.username;
 		}
 
-		res = await call(`/users/?page=${page}`);
 		page++;
-	}
+	} while (res.next);
+
+	console.log(fullnameUsernameMap);
 };
 
 export const adjustCredits = async (credits: CreditsEntry[]) => {
