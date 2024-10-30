@@ -21272,7 +21272,7 @@
         "10-1-message": [
             "\\C[3]Il y a une porte blanche fermée sur la droite.",
             "\\.\\C[3]Sur la poignée de cette porte se trouve un digicode.",
-            null,
+            "\\C[3]La porte blanche s'est ouverte.",
             "\\C[4](Je ne devrais pas insister...\n Le hasard ne va pas nous emmener bien loin.)",
             "\\C[4](Je ne devrais pas insister...\n Le hasard ne va pas nous emmener bien loin.)",
             "\\C[4](On dirait que ce n'est pas ça.)"
