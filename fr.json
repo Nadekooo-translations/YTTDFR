@@ -6463,7 +6463,7 @@
             "\\.\"C'est marrant de te prendre par surprise.\"",
             "\\.\\C[4](Quelle mauvaise raison de me faire peur...)",
             "Contrôles",
-            "Touchez un \\C[2]objet\\C[0] en votre possession et vous\npourrez l'utiliser sur quelqu'un ou quelque chose.",
+            "Ouvrez votre inventaire pour sélectionner un \\C[2]objet\\C[0]\nafin de l'utiliser sur quelqu'un ou quelque chose.",
             "\"..........\"",
             "\\.\\C[4](Elle n'est toujours pas en condition de parler...)",
             "\"Ough... Sniff...\"",
@@ -14130,6 +14130,9 @@
         ],
         "12-1-message": [
             "\\C[3]Un grand tableau noir vide."
+        ],
+        "42-1-message": [
+            "\\C[3]La lumière illumine le tableau."
         ]
     },
     "map60": {
@@ -14152,7 +14155,7 @@
             "\\.\"Ahahah... Regardez ces tables de plus près.\"",
             "\\.\"Une installation pour le moins intéressante,\n n'est-ce pas ?\"",
             "\\.\"Héhihi... Ce sont des sabliers inversés.\n Vraiment très curieux.\"",
-            "\\.\"Quand la partie haute de ces sabliers sera pleine, \n le débat sera terminé.\"",
+            "\\.\"Quand les parties supérieures de ces sabliers seront\n pleines, le débat sera terminé.\"",
             "\\.\"Vous avez 70 minutes avant le vote préliminaire.\n Après ça, vous aurez 20 minutes de délibérations\n avant le vote final.\"",
             "\\.\"Très bien, on peut commencer ?\"",
             "\\.\"Attends !! Kanna... Kanna est pas là !!\"",
