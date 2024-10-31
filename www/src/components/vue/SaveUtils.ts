@@ -25,7 +25,7 @@ export interface SaveEntry {
 
 export type SaveIndex = Array<SaveEntry | null>;
 
-export const globalKey = "Kimi RPG Global";
+export const GLOBAL_KEY = "Kimi RPG Global";
 
 export const saveKey = (idx: number) => `Kimi RPG File${idx}`;
 
@@ -57,7 +57,7 @@ export const deleteSaveData = (idx: number) => {
 };
 
 export const readSaveIndex = (): SaveIndex => {
-	const raw = localStorage.getItem(globalKey);
+	const raw = localStorage.getItem(GLOBAL_KEY);
 
 	if (!raw) {
 		return [];
@@ -70,7 +70,7 @@ export const readSaveIndex = (): SaveIndex => {
 
 export const writeSaveIndex = (index: SaveIndex) => {
 	const b64 = lz.compressToBase64(JSON.stringify(index));
-	localStorage.setItem(globalKey, b64);
+	localStorage.setItem(GLOBAL_KEY, b64);
 };
 
 export const buildIndexEntry = (idx: number): SaveEntry => {
