@@ -9,11 +9,18 @@ import Layout from "../layouts/Layout.astro";
 		visual novel <em translate="no">Your Turn to Die</em> développé par Nankidai.
 	</p>
 
-	<h4>Où discuter</h4>
+	<h4>Où discuter ?</h4>
+
+	<div class="contacts">
+		<p class="contact-name"><em>Twitter</em></p>
+		<p class="contact-name"><em>Discord</em></p>
+	</div>
+
 	<div class="contacts">
 		<a href="https://x.com/YTTDFR" target="_blank">
 			<i class="ph-duotone ph-x-logo"></i>
 		</a>
+
 		<a href="https://discord.gg/PXyEMNEV4J" target="_blank">
 			<i class="ph-duotone ph-discord-logo"></i>
 		</a>
@@ -69,6 +76,10 @@ import Layout from "../layouts/Layout.astro";
 
 	h4 {
 		margin-bottom: 0em;
+	}
+
+	.contact-name {
+		margin-bottom: -2em;
 	}
 
 	.contacts {
