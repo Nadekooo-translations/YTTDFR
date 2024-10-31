@@ -26,6 +26,8 @@ export interface SaveEntry {
 export type SaveIndex = Array<SaveEntry | null>;
 
 export const GLOBAL_KEY = "Kimi RPG Global";
+export const DEFAULT_TITLE = "多数決デスゲーム";
+export const TRANSLATED_TITLE = "Sauvegarde YTTD-FR";
 
 export const saveKey = (idx: number) => `Kimi RPG File${idx}`;
 
@@ -63,7 +65,13 @@ export const readSaveIndex = (): SaveIndex => {
 		return [];
 	}
 
-	const data = JSON.parse(lz.decompressFromBase64(raw));
+	const data: SaveIndex = JSON.parse(lz.decompressFromBase64(raw));
+
+	for (const datum of data) {
+		if (datum?.title === DEFAULT_TITLE) {
+			datum.title = TRANSLATED_TITLE;
+		}
+	}
 
 	return data;
 };

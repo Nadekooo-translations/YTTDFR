@@ -195,7 +195,7 @@ const uploadSave = () => {
 		border: 0;
 		padding: 2px;
 		margin: 0;
-		width: 15ch;
+		width: 24ch;
 		height: 1em;
 		background-color: transparent;
 
