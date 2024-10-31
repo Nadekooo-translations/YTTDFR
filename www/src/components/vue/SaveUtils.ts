@@ -21,7 +21,6 @@ export interface SaveEntry {
 	playtime: string;
 	timestamp: number;
 	mapName: string;
-
 	customName?: string;
 }
 
