@@ -6059,15 +6059,15 @@
             "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
         ],
         "2-1-message": [
+            "\\C[3]J'entends un léger bruit...",
             null,
             null,
             null,
             null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\.\\C[4](Parler...?)",
+            "\\.\"...J'ai ramassé ça, ouaf...\"",
+            "\\.\"...Uhh, j'ai ramassé ça, ouaf...\"",
+            "\\.\\C[4](C'est...)",
             null,
             null,
             "\\.\\C[4](...)"
@@ -14266,11 +14266,22 @@
             null,
             null,
             null,
-            "\\.\"...\""
+            "\\.\"...\"",
+            "\\.\\C[3]Je ressens une haine profonde de la part de Kanna...",
+            "\\.\\C[4](...Je devrais bouger.)"
         ],
         "2-1-message": [
             "\"... Mmh...\"",
-            "\"Hééé...\""
+            "\"Hééé...\"",
+            null,
+            null,
+            "\\.\\C[4](J'ai dû m'endormir...)",
+            null,
+            null,
+            null,
+            null,
+            "\\.\"...Tu as bien raison.\"",
+            "\\.\\C[4](...Je devrais bouger.)"
         ],
         "33-1-message": [
             "\\C[3]Il y a des noms inscrits sur le tableau.",
