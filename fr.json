@@ -14260,9 +14260,9 @@
     "map67": {
         "3-1-message": [
             "\"... Mmh...\"",
-            "\"...Réveille toi...\"",
-            null,
-            null,
+            "\"... Réveille-toi...\"",
+            "\"Allez, réveille-toi...\"",
+            "\\.\"Hein...?\"",
             null,
             null,
             null,
