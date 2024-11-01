@@ -6061,7 +6061,7 @@
         "2-1-message": [
             "\\C[3]J'entends un léger bruit...",
             "\\.\\C[4](Du chant...?)",
-            "\"Miaou... Mr le Policier, ouaf...\"",
+            "\"Miaou... Monsieur le Policier, ouaf...\"",
             null,
             null,
             "\\.\\C[4](Parler...?)",
@@ -6074,7 +6074,8 @@
         ],
         "7-1-message": [
             "\\C[3]J'entends un léger bruit...",
-            "\\.\\C[4](Du chant...?)"
+            "\\.\\C[4](Du chant...?)",
+            "\"Miaou... Les gars...!\""
         ]
     },
     "items-81": {
