@@ -14263,7 +14263,7 @@
             "\"... Réveille-toi...\"",
             "\"Allez, réveille-toi...\"",
             "\\.\"Hein...?\"",
-            null,
+            "\\.\\C[4](Oh... Je me suis endormi ?)",
             null,
             null,
             "\\.\"...\"",
