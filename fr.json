@@ -6062,11 +6062,11 @@
             "\\C[3]J'entends un léger bruit...",
             "\\.\\C[4](Du chant...?)",
             "\"Miaou... Monsieur le Policier, ouaf...\"",
-            null,
-            null,
-            "\\.\\C[4](Parler...?)",
-            "\\.\"...J'ai ramassé ça, ouaf...\"",
-            "\\.\"...Uhh, j'ai ramassé ça, ouaf...\"",
+            "\\.\"H-Hé, là ! C'dangereux d'agir seul !!\"",
+            "\\.\"Chut, gorille musclé !!\n Je dois parler au policier, ouaf !!\"",
+            "\\.\\C[4](Il veut me parler...?)",
+            "\\.\"... J'ai ramassé ça, ouaf...\"",
+            "\\.\"... Euuh, j'ai ramassé ça, ouaf...\"",
             "\\.\\C[4](C'est...)",
             null,
             null,
@@ -6075,7 +6075,13 @@
         "7-1-message": [
             "\\C[3]J'entends un léger bruit...",
             "\\.\\C[4](Du chant...?)",
-            "\"Miaou... Les gars...!\""
+            "\"Miaou... Les gars...!\"",
+            "\\.\"Les deux ténébreux !!\n Je vous déteste, miaou !\n Vous approchez pas de moi !!\"",
+            "\\.\"Ooh... On dirait qu'on me déteste maintenant...\"",
+            "\\.\"C'était... évident, non...?\"",
+            "\\.\"Évident...?\"",
+            "\\>\\C[10]Même si j'ai fait de mon mieux...?\\<\\|\\^",
+            "\\.\"Hmm...? Je comprends pas trop...\""
         ]
     },
     "items-81": {
