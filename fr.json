@@ -6070,7 +6070,8 @@
             "\\.\\C[4](C'est...)",
             "\\.\"Le truc qu'Joe avait dans la poche de sa veste...\"",
             "\\.\"Je fais quoi, miaou...?\nJe le donne à grande sœur Sara, ouaf ?\"",
-            "\\.\\C[4](...)"
+            "\\.\\C[4](...)",
+            "\"... C'est important. Tu devrais la lui donner.\""
         ],
         "7-1-message": [
             "\\C[3]J'entends un léger bruit...",
