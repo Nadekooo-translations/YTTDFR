@@ -6060,7 +6060,7 @@
         ],
         "2-1-message": [
             "\\C[3]J'entends un léger bruit...",
-            null,
+            "\\.\\C[4](Du chant...?)",
             null,
             null,
             null,
@@ -6071,6 +6071,10 @@
             null,
             null,
             "\\.\\C[4](...)"
+        ],
+        "7-1-message": [
+            "\\C[3]J'entends un léger bruit...",
+            "\\.\\C[4](Du chant...?)"
         ]
     },
     "items-81": {
@@ -14265,7 +14269,7 @@
             "\\.\"Hein...?\"",
             "\\.\\C[4](Ouille... Je m'suis endormi ?)",
             "\\.\"C'est... de l'alcool...?\n Tu as bu... dans une situation pareille...?\"",
-            "\\.\"Ah...? C'est moi qui ai vidé cette bouteille...?\"",
+            "\\.\"Ah...? C'est moi... qu'ait vidé cette bouteille...?\"",
             "\\.\"...\"",
             "\\.\\C[3]Kanna a l'air de m'détester...",
             "\\.\\C[4](... J'devrais bouger un peu...)"
@@ -14279,7 +14283,7 @@
             "\\.\"Tu tiens bien l'alcool à c'que j'vois...\n Mais si t'bois trop ça va t'pourrir l'esprit, t'sais.\"",
             "\\.\"Pardon...\"",
             "\\.\"... Mais bon...\"",
-            "\\.\"Faut boire pour pouvoir l'supporter...\"",
+            "\\.\"Faut bien boire pour pouvoir l'supporter...\"",
             "\\.\"... C'est bien vrai.\"",
             "\\.\\C[4](... Je devrais marcher un peu...)"
         ],
