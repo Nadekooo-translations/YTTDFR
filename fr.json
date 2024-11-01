@@ -14259,7 +14259,7 @@
     },
     "map67": {
         "3-1-message": [
-            "\"...Mmh...\"",
+            "\"... Mmh...\"",
             null,
             null,
             null,
@@ -14267,21 +14267,21 @@
             null,
             null,
             "\\.\"...\"",
-            "\\.\\C[3]Je ressens une haine profonde de la part de Kanna...",
-            "\\.\\C[4](...Je devrais bouger.)"
+            "\\.\\C[3]Kanna a l'air de m'détester...",
+            "\\.\\C[4](... J'devrais bouger un peu...)"
         ],
         "2-1-message": [
             "\"... Mmh...\"",
             "\"Hééé...\"",
-            null,
-            "\\.\"...Oh...\"",
+            "\"Allez, debout, Keiji.\"",
+            "\\.\"... Oh...\"",
             "\\.\\C[4](J'ai dû m'endormir...)",
-            null,
-            null,
-            "\\.\"...Eh bien...\"",
-            null,
-            "\\.\"...Tu as bien raison.\"",
-            "\\.\\C[4](...Je devrais bouger.)"
+            "\\.\"Tu tiens bien l'alcool à c'que j'vois...\n Mais si t'bois trop ça va t'pourrir l'esprit, t'sais.\"",
+            "\\.\"Pardon...\"",
+            "\\.\"... Mais bon...\"",
+            "\\.\"Faut boire pour pouvoir l'supporter...\"",
+            "\\.\"... C'est bien vrai.\"",
+            "\\.\\C[4](... Je devrais marcher un peu...)"
         ],
         "33-1-message": [
             "\\C[3]Il y a des noms inscrits sur le tableau.",
