@@ -1,11 +1,10 @@
 ---
 const { class: clazz, ...rest } = Astro.props;
-const hash = import.meta.env.COMMIT_HASH;
 ---
 
 <iframe
 	class={clazz}
-	src={`/yttd-${hash}/`}
+	src={`/yttd/`}
 	allow="autoplay fullscreen"
 	allowfullscreen="true"
 	width="816"
