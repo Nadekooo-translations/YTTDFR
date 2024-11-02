@@ -7496,9 +7496,16 @@
             "\\.\\C[4](Mince... ! C'était une erreur !)"
         ],
         "166-0-message": [
-            null,
-            null,
-            "\\.\\C[4](Mince... ! C'était une erreur !)"
+            "\"Avoir des doutes sur les autres, je peux comprendre...\n Mais pas sur Sara ! C'est vraiment horrible...!\"",
+            "\"Euh... Où veux-tu en venir...?\"",
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            "\"Ouah...? J'ai dit quelque chose de bizarre...?\"",
+            "\\.\"Non...\"",
+            "\\.\"Euh... Désolée, alors...\"",
+            "\\.\\C[4](Je l'ai faite se sentir gênée...)",
+            "\"Je veux qu'il regrette d'avoir dit ça !\n Il faut qu'il le regrette !\"",
+            "\\.\"... S'il te plaît, Nao. Calme-toi.\"",
+            "\\.\"Ah, d-désolée...\""
         ],
         "167-0-message": [
             "\"Depuis le début, je me méfie de toi... Sara Chidouin !\n Tu possèdes une arme et tu règnes sur les autres !\n Maudite dictatrice !\"",
@@ -7507,7 +7514,16 @@
             "\\.\\C[4](Mince... ! C'était une erreur !)",
             "\"Et alors ?! Quel est le rapport ?!\"",
             "\\.\\C[4](Mince... ! C'était une erreur !)",
-            "\"Une remarque futile...\n En quoi cela prouve-t-il quoi que ce soit ?\""
+            "\"Une remarque futile...\n En quoi cela prouve-t-il quoi que ce soit ?\"",
+            "\\.\"Sara Chidouin !\n Tu ne me feras pas changer d'avis !\n Tu es suspecte !\"",
+            "\\.\\C[4](Urgh... Ce gars est...)",
+            "\"Hmph...\n Tu n'as pas d'arguments, n'est-ce pas...?\"",
+            "\"J'ai même réalisé comment tu as réussi\n à soumettre les autres.\"",
+            "\\.\"Comment ça...?!\"",
+            "\\.\"Tu es la seule à posséder une arme...\n La seule !\"",
+            "\\.\"Une... arme ?\"",
+            "\\.\"C'est bien cela ! Tu es en possession d'une arme,\n et tu en profites pour régner sur les autres !\n Tu n'es qu'une maudite dictatrice !\"",
+            "\\.\\C[4](J'ai extrait une nouvelle déclaration...\n Si je réussis à la réfuter, même lui, il\n devrait se taire !)"
         ],
         "170-0-message": [
             null,
@@ -7544,7 +7560,7 @@
         "174-0-message": [
             null,
             null,
-            null,
+            "\"Euh... Où veux-tu en venir...?\"",
             "\\.\\C[4](Mince... ! C'était une erreur !)",
             null,
             "\\.\\C[4](Mince... ! C'était une erreur !)"
@@ -7572,7 +7588,7 @@
         ],
         "196-0-message": [
             null,
-            null,
+            "\"Euh... Où veux-tu en venir...?\"",
             "\\.\\C[4](Mince... ! C'était une erreur !)",
             null,
             "\\.\\C[4](Mince... ! C'était une erreur !)"
@@ -7615,7 +7631,7 @@
         "207-0-message": [
             null,
             null,
-            null,
+            "\"Euh... Où veux-tu en venir...?\"",
             "\\.\\C[4](Mince... ! C'était une erreur !)"
         ],
         "221-0-message": [
@@ -7678,7 +7694,7 @@
         ],
         "247-0-message": [
             null,
-            null,
+            "\"Euh... Où veux-tu en venir...?\"",
             "\\.\\C[4](Mince... ! C'était une erreur !)",
             null,
             "\\.\\C[4](Mince... ! C'était une erreur !)"
@@ -7740,7 +7756,7 @@
         "256-0-message": [
             null,
             null,
-            null,
+            "\"Euh... Où veux-tu en venir...?\"",
             "\\.\\C[4](Mince... ! C'était une erreur !)",
             null,
             "\\.\\C[4](Mince... ! C'était une erreur !)",
@@ -8991,19 +9007,25 @@
             "(Mince... ! C'était une erreur !)\n\n\n* PV diminués"
         ],
         "165-0-message": [
-            null,
-            null,
-            "\\.\\C[4](Mince... ! C'était une erreur !)"
+            "\"Sara est presque jamais restée seule.\n Elle a rien pu faire de suspect du coup... si ?\"",
+            "\"T'as un cadeau pour Monsieur le Policier ?\n Merci.\"",
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            "\"Hm...?\n Quelque chose à signaler au policier ?\"",
+            "\\.\"Ah... hé bien, pas vraiment...\"",
+            "\\.\"... Respire, Sara.\n Hahaha...\"",
+            "\\.\\C[4](Je devrais me calmer...)",
+            "\"La vache... Ce gars est têtu, hein.\"",
+            "\\.\"Tu devrais lui sortir des preuves.\""
         ],
         "200-0-message": [
             null,
             null,
-            null,
+            "\"T'as un cadeau pour Monsieur le Policier ?\n Merci.\"",
             "\\.\\C[4](Mince... ! C'était une erreur !)"
         ],
         "201-0-message": [
             null,
-            null,
+            "\"Euh... Où veux-tu en venir...?\"",
             "\\.\\C[4](Mince... ! C'était une erreur !)"
         ],
         "31-0-choice": [
@@ -11000,8 +11022,8 @@
             "\\.\\C[4](Il ne faut pas que je l'énerve trop.)"
         ],
         "168-0-message": [
-            null,
-            null,
+            "\\.\"Regarde ça de plus près, s'il te plaît.\"",
+            "\\.\"Hm ?\"",
             null,
             null,
             null,
@@ -12139,7 +12161,12 @@
             "\\.\\C[4](Il ne compte pas me répondre...!)",
             "\"Ouais, Sara, t'as pas oublié !\n Attaque-le avec des déclarations comme ça !\"",
             "\\.\"Réponds-moi, Joe !\n Qu'est-ce que tu penses de cette affirmation ?!\"",
-            "\\.\"T'arrive même à plaisanter en étant autant dans la merde ?!\n T'es vraiment pas croyable...\""
+            "\\.\"Même en étant autant dans la merde, t'arrives\n à plaisanter ?!\n T'es vraiment pas croyable...\"",
+            "\\.\\C[4](Ça, c'est sûr...)",
+            "\"Envoie-lui des preuves à la tête, comme\n la dernière fois !\"",
+            "\\.\"Ouaip, je gère.\"",
+            "\\.\"T'es tellement cooool !\"",
+            "\\C[3]> Dans votre inventaire, lorsque vous sélectionnez\n  un objet, vous pouvez consulter la deuxième page\n  de sa description en touchant cette dernière."
         ],
         "65-0-message": [
             "\"Si vous refusez, je voudrais en connaître la raison.\n Autrement, nos futurs sont en péril...\"",
