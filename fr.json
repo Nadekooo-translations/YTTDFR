@@ -7541,16 +7541,31 @@
         ],
         "172-0-message": [
             "\"Même si... Kanna est choisie... ce n'est pas grave.\"",
-            "\"À Kanna... Ça...\"",
-            null,
+            "\"K-Kanna...\"",
+            "\"Q-Qu'est-ce qu'il y a ?\"",
             "\\.\\C[4](Mince... ! C'était une erreur !)",
-            null,
+            "\"Kanna... ne comprend pas vraiment...\"",
             "\\.\\C[4](Mince... ! C'était une erreur !)",
-            null,
+            "\"Kanna... ne comprend pas vraiment...\"",
             "\\.\\C[4](Mince... ! C'était une erreur !)",
-            null,
-            null,
-            "\"...\""
+            "\"Tout ça... Ce n'est plus important...\"",
+            "\\.\\C[4](Mais... Qu'est-ce que tu dis, Kanna...?)",
+            "\"...\"",
+            "\\.\"... Sara...\"",
+            "\\.\"..........\"",
+            "\\.\"...!\"",
+            "\\.\"Qu'est-ce qu'il y a, Kanna ?\"",
+            "\\.\"Tu peux me parler, Kanna.\"",
+            "\\.\"... Kanna...\"",
+            "\\.\"Tu as peur ?\"",
+            "\\.\"... Non...\"",
+            "\\.\"... Kanna...\"",
+            "\\.\"...?\"",
+            "\\.\"... Kanna...\"",
+            "\\.\"... se fiche... de ce qui lui arrive.\"",
+            "\\.\"Kan... na...?\"",
+            "\\.\"Même si elle est choisie... ce n'est pas grave.\"",
+            "\\.\\C[4](...!!)"
         ],
         "173-0-message": [
             null,
@@ -7661,9 +7676,9 @@
         ],
         "243-0-message": [
             null,
-            null,
-            "\\.\\C[4](Mince... ! C'était une erreur !)",
-            null,
+            "\"Q-Qu'est-ce qu'il y a ?\"",
+            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\"Kanna... ne comprend pas vraiment...\"",
             "\\.\\C[4](Mince... ! C'était une erreur !)"
         ],
         "244-0-message": [
@@ -9132,7 +9147,8 @@
             "Utiliser l'objet sélectionné\nAnnuler",
             "Mémoriser la déclaration\nAnnuler",
             "Oublier la déclaration mémorisée\nAnnuler",
-            "Appliquer la déclaration mémorisée\nAnnuler"
+            "Appliquer la déclaration mémorisée\nAnnuler",
+            "Qu'est-ce que tu veux dire ?\nTu as peur ?"
         ],
         "173-0-choice": [
             "Utiliser l'objet sélectionné\nAnnuler",
