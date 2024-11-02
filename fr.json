@@ -5777,7 +5777,7 @@
         "1-5-choice": [
             "Regarder sous le bureau\nRegarder au plafond",
             "Retourner la carte\nNe pas toucher la carte",
-            "Tu as pu le déverrouiller ?\nC'était quoi, le mot de passe ?",
+            "Il y avait quoi, dedans ?\nC'était quoi, le mot de passe ?",
             "Partons à sa poursuite\nRetrouvons d'abord Nao\nOn devrait se regrouper",
             "Éviter la question\nLa nier"
         ],
@@ -5809,7 +5809,7 @@
         ],
         "5-2-message": [
             "\\.\\C[3]Sou est inerte.",
-            "\\.\"Il y a des traces d'une attaque à la tête...\""
+            "\\.\"Il s'est fait frapper au niveau de la tête...\""
         ]
     },
     "map50": {
@@ -12992,11 +12992,38 @@
         ],
         "124-0-message": [
             "\"... Moi, j'pense qu'on devrait voter pour les plus\n suspects et les moins coopératifs, là.\"",
-            "\"Et j'déjà choisi...\""
+            "\"... Et j'déjà choisi qui j'vais prendre...\"",
+            "\\.\"Hein...?!\"",
+            "\\.\"Moi...\"",
+            "\\.\"Gonbee !!\n J'vote pour toi !!\"",
+            null,
+            "\\.\"Et... alors ?\"",
+            "\\.\"Quoi...?!\"",
+            "\\.\"Mouahaha... Comme tu veux.\"",
+            "\\.\"M-Mais t'es con !? T'as vu c'que tu dis ?!\n T'es au courant... qu'tu vas te faire exécuter ?!\"",
+            "\\.\"C'est vous, les imbéciles finis, ici...\n Réfléchissez une seconde.\"",
+            "\\.\"Comment ça...?\"",
+            "\\.\"Ce vote...\n On devrait pas le concentrer sur une seule personne.\"",
+            "\\.\"Il dit vrai.\n Il ne s'agit que du vote préliminaire.\n Si nous votions tous pour Gonbee...\"",
+            "\\.\"Lors du vote final, nous n'aurions qu'un seul choix...\n Et ce serait de voter pour lui...\"",
+            "\\.\"Oh punaise...! Et si Gonbee est le Sacrifice ou\n le Maître des Clés...!\""
         ],
         "163-0-message": [
             "\"... J'pense qu'on devrait choisir les plus suspects\n et les moins coopératifs.\"",
-            "\"Et j'déjà choisi...\""
+            "\"... Et j'déjà choisi qui j'vais prendre...\"",
+            "\\.\"Hein...?!\"",
+            "\\.\"Détestez-moi si ça vous chante !\n Moi...\"",
+            "\\.\"Gonbee !!\n J'vote pour toi !!\"",
+            "\\sp[20]\"..........\"",
+            "\\.\"Et... alors ?\"",
+            "\\.\"Quoi...?!\"",
+            "\\.\"Mouahaha... Comme tu veux.\"",
+            "\\.\"M-Mais t'es con !? T'as vu c'que tu dis ?!\n T'es au courant... qu'tu vas te faire exécuter ?!\"",
+            "\\.\"C'est vous, les imbéciles finis, ici...\n Réfléchissez une seconde.\"",
+            "\\.\"Comment ça...?\"",
+            "\\.\"Ce vote...\n On devrait pas le concentrer sur une seule personne.\"",
+            "\\.\"Il dit vrai.\n Il ne s'agit que du vote préliminaire.\n Si nous votions tous pour Gonbee...\"",
+            "\\.\"Gonbee serait notre seul et unique choix lors du\n vote final...\""
         ],
         "158-0-choice": [
             "Comment tu t'appelles ?\nQuel est ton travail ?\nAnnuler",
