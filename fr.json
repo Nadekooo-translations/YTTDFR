@@ -7501,12 +7501,13 @@
             "\\.\\C[4](Mince... ! C'était une erreur !)"
         ],
         "167-0-message": [
-            null,
-            null,
-            null,
+            "\"Depuis le début, je me méfie de toi... Sara Chidouin !\n Tu possèdes une arme et tu règnes sur les autres !\n Maudite dictatrice !\"",
+            "\"Depuis le début, je trouvais cela suspect...\n Le fait qu'une lycéenne soit devenue un leader.\"",
+            "\"Et alors ?! Quel est le rapport ?!\"",
             "\\.\\C[4](Mince... ! C'était une erreur !)",
-            null,
-            "\\.\\C[4](Mince... ! C'était une erreur !)"
+            "\"Et alors ?! Quel est le rapport ?!\"",
+            "\\.\\C[4](Mince... ! C'était une erreur !)",
+            "\"Une remarque futile...\n En quoi cela prouve-t-il quoi que ce soit ?\""
         ],
         "170-0-message": [
             null,
@@ -7515,7 +7516,7 @@
             "\\.\\C[4](Mince... ! C'était une erreur !)",
             null,
             "\\.\\C[4](Mince... ! C'était une erreur !)",
-            null,
+            "\"Une remarque futile...\n En quoi cela prouve-t-il quoi que ce soit ?\"",
             "\\.\\C[4](Mince... ! C'était une erreur !)"
         ],
         "172-0-message": [
@@ -7707,7 +7708,7 @@
             null,
             null,
             "\\.\\C[4](Mince... ! C'était une erreur !)",
-            null,
+            "\"Une remarque futile...\n En quoi cela prouve-t-il quoi que ce soit ?\"",
             "\\.\\C[4](Mince... ! C'était une erreur !)"
         ],
         "253-0-message": [
@@ -7762,7 +7763,7 @@
             "\\.\\C[4](Mince... ! C'était une erreur !)",
             null,
             "\\.\\C[4](Mince... ! C'était une erreur !)",
-            null,
+            "\"Une remarque futile...\n En quoi cela prouve-t-il quoi que ce soit ?\"",
             "\\.\\C[4](Mince... ! C'était une erreur !)"
         ],
         "475-0-message": [
@@ -7971,7 +7972,7 @@
             "\\.\\C[4](Mince... ! C'était une erreur !)",
             null,
             "\\.\\C[4](Mince... ! C'était une erreur !)",
-            null,
+            "\"Une remarque futile...\n En quoi cela prouve-t-il quoi que ce soit ?\"",
             "\\.\\C[4](Mince... ! C'était une erreur !)"
         ],
         "547-0-message": [
@@ -8176,7 +8177,7 @@
             "\\.\\C[4](Mince... ! C'était une erreur !)",
             null,
             "\\.\\C[4](Mince... ! C'était une erreur !)",
-            null,
+            "\"Une remarque futile...\n En quoi cela prouve-t-il quoi que ce soit ?\"",
             "\\.\\C[4](Mince... ! C'était une erreur !)"
         ],
         "717-0-message": [
@@ -8379,7 +8380,7 @@
             null,
             null,
             "\\.\\C[4](Mince... ! C'était une erreur !)",
-            null,
+            "\"Une remarque futile...\n En quoi cela prouve-t-il quoi que ce soit ?\"",
             "\\.\\C[4](Mince... ! C'était une erreur !)"
         ],
         "775-0-message": [
@@ -8454,7 +8455,7 @@
             null,
             null,
             "\\.\\C[4](Mince... ! C'était une erreur !)",
-            null,
+            "\"Une remarque futile...\n En quoi cela prouve-t-il quoi que ce soit ?\"",
             "\\.\\C[4](Mince... ! C'était une erreur !)"
         ],
         "795-0-message": [
@@ -8603,7 +8604,7 @@
             null,
             null,
             "\\.\\C[4](Mince... ! C'était une erreur !)",
-            null,
+            "\"Une remarque futile...\n En quoi cela prouve-t-il quoi que ce soit ?\"",
             "\\.\\C[4](Mince... ! C'était une erreur !)"
         ],
         "983-0-message": [
@@ -8625,7 +8626,7 @@
             null,
             null,
             "\\.\\C[4](Mince... ! C'était une erreur !)",
-            null,
+            "\"Une remarque futile...\n En quoi cela prouve-t-il quoi que ce soit ?\"",
             "\\.\\C[4](Mince... ! C'était une erreur !)"
         ],
         "988-0-message": [
@@ -8686,7 +8687,7 @@
             null,
             null,
             "\\.\\C[4](Mince... ! C'était une erreur !)",
-            null,
+            "\"Une remarque futile...\n En quoi cela prouve-t-il quoi que ce soit ?\"",
             "\\.\\C[4](Mince... ! C'était une erreur !)"
         ],
         "476-0-message": [
@@ -8764,7 +8765,7 @@
             null,
             null,
             "\\.\\C[4](Mince... ! C'était une erreur !)",
-            null,
+            "\"Une remarque futile...\n En quoi cela prouve-t-il quoi que ce soit ?\"",
             "\\.\\C[4](Mince... ! C'était une erreur !)"
         ],
         "662-0-message": [
@@ -8873,7 +8874,7 @@
             null,
             null,
             "\\.\\C[4](Mince... ! C'était une erreur !)",
-            null,
+            "\"Une remarque futile...\n En quoi cela prouve-t-il quoi que ce soit ?\"",
             "\\.\\C[4](Mince... ! C'était une erreur !)"
         ],
         "787-0-message": [
@@ -12131,13 +12132,14 @@
             "\\.\\C[4](Il a raison... Si je devais choisir quelqu'un\n d'autre, je choisirais sûrement Keiji.)"
         ],
         "164-0-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\"Réponds-moi, Joe !\n Qu'est-ce que tu penses de cette déclaration ?!\""
+            "\"Sara ! Réponds-lui !\n Gonbee fait son aigri !\"",
+            "\"Ouais, t'as compris, Sara !\n Réfute-le avec un objet comme tu viens de le faire !\"",
+            "\\.\"Ne me prends pas pour une idiote, Joe !\n Qu'est-ce que tu penses de cet objet ?!\"",
+            "\\.\"Saraaa !\n Tu crois vraiment que c'est le moment, là ?!\"",
+            "\\.\\C[4](Il ne compte pas me répondre...!)",
+            "\"Ouais, Sara, t'as pas oublié !\n Attaque-le avec des déclarations comme ça !\"",
+            "\\.\"Réponds-moi, Joe !\n Qu'est-ce que tu penses de cette affirmation ?!\"",
+            "\\.\"T'arrive même à plaisanter en étant autant dans la merde ?!\n T'es vraiment pas croyable...\""
         ],
         "65-0-message": [
             "\"Si vous refusez, je voudrais en connaître la raison.\n Autrement, nos futurs sont en péril...\"",
@@ -13006,7 +13008,30 @@
             "\\.\"Ce vote...\n On devrait pas le concentrer sur une seule personne.\"",
             "\\.\"Il dit vrai.\n Il ne s'agit que du vote préliminaire.\n Si nous votions tous pour Gonbee...\"",
             "\\.\"Lors du vote final, nous n'aurions qu'un seul choix...\n Et ce serait de voter pour lui...\"",
-            "\\.\"Oh punaise...! Et si Gonbee est le Sacrifice ou\n le Maître des Clés...!\""
+            "\\.\"Oh punaise...! Et si Gonbee est le Sacrifice ou\n le Maître des Clés...!\"",
+            "\\.\"On est tous foutuuuuus ?!\"",
+            "\\.\"Mais nous n'avons pas pu choisir nos rôles, si ?\"",
+            "\\.\"On nous a incités... à ramasser les cartes...!\"",
+            "\\.\"Il est tout à fait possible que... nos ravisseurs\n aient assigné au suspicieux Monsieur Gonbee un rôle\n spécial afin de rendre les choses plus intéressantes.\"",
+            "\\.\"Et maintenant... que le chaos s'ensuit !\n Je vous observerai dans votre pathétique lutte...\"",
+            "\\.\"P'tain...!\"",
+            "\\.\"Ce jeu...\n Il est encore plus fourbe que ce que je m'imaginais...\"",
+            "\\.\"Si on veut survivre, il faut qu'on sélectionne\n 5 candidats du mieux qu'on peut.\"",
+            "\\.\"On doit suspecter cinq personnes...?!\"",
+            "\\.\\C[3]La situation... ne pourrait pas être pire.",
+            "\\.\\C[3]L'air est devenu lourd.",
+            "\\.\"Voyez-vous cela...\n Toutes ces belles paroles se sont déjà vaporisées.\"",
+            "\\.\"... Très bien.\n Moi, je sais de quoi nous pourrions parler.\"",
+            "\\.\"Sara Chidouin, sache que je voterai pour toi !\n Qu'as-tu à dire pour ta défense ?\"",
+            "\\.\"Hein...?!\"",
+            "\\.\"Attends un peu !!\n Sara, c'est limite notre leader !!\n Pourquoi tu fais ça...?!\"",
+            "\\.\"Haha... Dans ce cas, pourquoi ne pas débattre\n de si elle est suspecte ou non ?\"",
+            "\\.\"Depuis le début, je me méfie de toi...\n Tu possèdes une arme et tu règnes sur les autres !\n Maudite dictatrice !\"",
+            "\\.\"Sara est presque jamais restée seule.\n Elle a rien pu faire de suspect du coup... si ?\"",
+            "\\.\"Avoir des doutes sur les autres, je peux comprendre...\n Mais pas sur Sara ! C'est vraiment horrible...!\"",
+            "\\.\"Sara ! Réponds-lui !\n Gonbee fait son aigri !\"",
+            "\\.\"Hmph... C'est que tu as beaucoup d'amis...\"",
+            "\\.\"En garde, Sara Chidouin...!\""
         ],
         "163-0-message": [
             "\"... J'pense qu'on devrait choisir les plus suspects\n et les moins coopératifs.\"",
@@ -13023,7 +13048,31 @@
             "\\.\"Comment ça...?\"",
             "\\.\"Ce vote...\n On devrait pas le concentrer sur une seule personne.\"",
             "\\.\"Il dit vrai.\n Il ne s'agit que du vote préliminaire.\n Si nous votions tous pour Gonbee...\"",
-            "\\.\"Gonbee serait notre seul et unique choix lors du\n vote final...\""
+            "\\.\"Gonbee serait notre seul et unique choix lors du\n vote final...\"",
+            "\\.\"Oh punaise...! Et si Gonbee est le \\C[10]Sacrifice\\C[0] ou\n le \\C[2]Maître des Clés\\C[0]...!\"",
+            "\\.\"On est tous foutuuuuus ?!\"",
+            "\\.\"Mais nous n'avons pas pu choisir nos rôles, si ?\"",
+            "\\.\\C[4](On nous a incités... à ramasser les cartes...!)",
+            "\\.\"Il est tout à fait possible que... nos ravisseurs\n aient assigné au suspicieux Monsieur Gonbee un rôle\n spécial afin de rendre les choses plus intéressantes.\"",
+            "\\.\"Et maintenant... que le chaos s'ensuit !\n Je vous observerai dans votre pathétique lutte...\"",
+            "\\.\"P'tain...!\"",
+            "\\.\"Fiou, la vache... Ce jeu est encore plus fourbe\n que ce que je m'imaginais...\"",
+            "\\.\"Si on veut survivre, il faut qu'on sélectionne\n 5 candidats du mieux qu'on peut.\"",
+            "\\.\"On doit suspecter CINQ personnes...?!\"",
+            "\\.\\C[3]La situation... ne pourrait pas être pire.",
+            "\\.\\C[3]L'air est devenu lourd.",
+            "\\.\"Voyez-vous cela...\n Toutes ces belles paroles se sont déjà vaporisées.\"",
+            "\\.\"... Très bien.\n Moi, je sais de quoi nous pourrions parler.\"",
+            "\\.\"Sara Chidouin, sache que je voterai pour toi !\n Qu'as-tu à dire pour ta défense ?\"",
+            "\\.\"Hein...?!\"",
+            "\\.\"Attends un peu !!\n Sara, c'est limite notre leader !!\n Pourquoi tu fais ça...?!\"",
+            "\\.\"Haha... Dans ce cas, pourquoi ne pas débattre\n de si elle est suspecte ou non ?\"",
+            "\"Depuis le début, je trouvais cela suspect...\n Le fait qu'une lycéenne soit devenue un leader.\"",
+            "\"Sara est presque jamais restée seule.\n Elle a rien pu faire de suspect du coup... si ?\"",
+            "\"Avoir des doutes sur les autres, je peux comprendre...\n Mais pas sur Sara ! C'est vraiment horrible...!\"",
+            "\"Sara ! Réponds-lui !\n Gonbee fait son aigri !\"",
+            "\\.\"Hmph... C'est que tu as beaucoup d'amis...\"",
+            "\\.\"En garde, Sara Chidouin...!\""
         ],
         "158-0-choice": [
             "Comment tu t'appelles ?\nQuel est ton travail ?\nAnnuler",
@@ -13036,6 +13085,43 @@
         ],
         "159-0-message": [
             "\"Arghh !!\n\\.\\. Alors ça, ça fait mal !! Me frappe pas, okay ?!\""
+        ],
+        "1633-0-message": [
+            null,
+            null,
+            "\"Une remarque futile...\n En quoi cela prouve-t-il quoi que ce soit ?\""
+        ],
+        "1670-0-message": [
+            null,
+            null,
+            "\"Une remarque futile...\n En quoi cela prouve-t-il quoi que ce soit ?\""
+        ],
+        "1702-0-message": [
+            null,
+            null,
+            "\"Une remarque futile...\n En quoi cela prouve-t-il quoi que ce soit ?\""
+        ],
+        "1727-0-message": [
+            null,
+            null,
+            null,
+            "\"Une remarque futile...\n En quoi cela prouve-t-il quoi que ce soit ?\""
+        ],
+        "1742-0-message": [
+            null,
+            null,
+            null,
+            "\"Une remarque futile...\n En quoi cela prouve-t-il quoi que ce soit ?\""
+        ],
+        "1751-0-message": [
+            null,
+            null,
+            "\"Une remarque futile...\n En quoi cela prouve-t-il quoi que ce soit ?\""
+        ],
+        "1764-0-message": [
+            null,
+            null,
+            "\"Une remarque futile...\n En quoi cela prouve-t-il quoi que ce soit ?\""
         ]
     },
     "map107": {
