@@ -7690,10 +7690,12 @@
             "\"Euh... Où veux-tu en venir...?\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
             "\"Je ne vois pas où tu veux en venir, Sara !\"",
-            null,
+            "\\C[4](Urgh... Ça ne s'est pas bien passé...)",
             "\"Je ne vois pas où tu veux en venir, Sara !\"",
-            null,
-            "\"Je ne vois pas où tu veux en venir, Sara !\""
+            "\\C[4](Urgh... Ça ne s'est pas bien passé...)",
+            "\"Je ne vois pas où tu veux en venir, Sara !\"",
+            "\\C[4](Urgh... Ça ne s'est pas bien passé...)",
+            "\"Cette douleur...\n Vous ne pouvez pas... la comprendre...!\""
         ],
         "221-0-message": [
             null,
@@ -9093,10 +9095,15 @@
             "\"C'est quoi ce truc ?! Ça va pas marcher sur moi !\"",
             "(Mince... ! C'était une erreur !)\n\n\n* PV diminués",
             "\"Je ne vois pas où tu veux en venir, Sara !\"",
-            null,
+            "\\C[4](Urgh... Ça ne s'est pas bien passé...)",
             "\"Je ne vois pas où tu veux en venir, Sara !\"",
-            null,
-            "\"Je ne vois pas où tu veux en venir, Sara !\""
+            "\\C[4](Urgh... Ça ne s'est pas bien passé...)",
+            "\"Je ne vois pas où tu veux en venir, Sara !\"",
+            "\\C[4](Urgh... Ça ne s'est pas bien passé...)",
+            "\"Cette douleur...\n Vous ne pouvez pas... la comprendre...!\"",
+            "\"Je sais... qu'avec l'histoire de la boîte...\n Je suis devenue suspecte à vos yeux...\"",
+            "\\.\"Ça montre à quel point Monsieur Mishima\n comptait pour toi.\"",
+            "\\.\"K-Keiji nous avait dit de ne pas en parler,\n n'est-ce pas...?\""
         ],
         "165-0-message": [
             "\"Sara est presque jamais restée seule.\n Elle a rien pu faire de suspect du coup... si ?\"",
