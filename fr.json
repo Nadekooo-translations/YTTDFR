@@ -6526,7 +6526,8 @@
             "Choisir ce sujet\nAnnuler"
         ],
         "126-0-choice": [
-            "Choisir ce sujet\nAnnuler"
+            "Choisir ce sujet\nAnnuler",
+            "C'est moi, le Maître des Clés !\nNe rien dire"
         ],
         "163-0-choice": [
             "Choisir ce sujet\nAnnuler"
@@ -7464,7 +7465,12 @@
             null,
             "\\.\\C[4](Mince...! C'était une erreur !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\"... Traitez-moi d'bâtard si vous voulez.\n J'cherche juste un moyen d'survivre.\"",
+            null,
+            null,
+            null,
+            "\\.\\C[4](Q-taro est sérieux...!)"
         ],
         "138-0-message": [
             null,
@@ -11118,7 +11124,7 @@
             "\\.\"Tu te fous de ma gueule, là ?!\n Tu crois qu'on va pas voter pour toi juste\n parce que t'as des muscles ?!\"",
             "\\.\"Hé bah vas-y et vote pour moi !!\"",
             "\\.\"Qu-?!\"",
-            "\\.\"Vote pour qui tu te sens !!\"",
+            "\\.\"Vote pour qui tu t'sens !!\"",
             "\\.\"Si t'me trouves inutile, sois responsable\n et tue-moi, Reko !!\"",
             "\\.\"C'ça qu'je voulais dire, quand j'disais que\n j'm'étais décidé !!\"",
             "\\.\"..........\"",
@@ -13028,13 +13034,68 @@
             "Il pouvait le contourner\nIl voulait la batterie\nLe mot de passe était simple"
         ],
         "126-0-message": [
-            null,
-            null,
-            null,
-            "\\.\"Voyez-vous, je suis le \\C[2]Maître des Clés\\C[0].\""
+            "\"Avant de commencer, je voudrais juste vous\n informer d'une petite chose.\"",
+            "\"Merci. Bon... ce sera très rapide.\"",
+            "\"Je suis nerveux... mais je vous préviens quand même...\"",
+            "\\.\"Voyez-vous, je suis le \\C[2]Maître des Clés\\C[0].\"",
+            "\\C[3]Hein...?\\.\\.",
+            "\\.\"Je n'étais pas sûr de vouloir le dire, mais...\n J'aimerais nous éviter de mourir, donc...\"",
+            "\\.\\C[3]Mais... Qu'est-ce qu'il raconte...?",
+            "\\.\\C[3]C'est moi... le \\C[2]Maître des Clés\\C[3].",
+            "\\.\"Sérieux..?! C'la vérité...?!\"",
+            "\\.\"Si personne conteste...\n Ben, okay, je t'crois !\"",
+            "\\.\"...!!\"",
+            "\\.\"S'il vous plaît, attendez !!\n C'est moi... le \\C[2]Maître des Clés\\C[0] !!\"",
+            "\\.\"Attends, quooooooi ?!\"",
+            "\\.\"Il y a... deux \\C[2]Maître des Clés\\C[0] ?!\"",
+            "\\.\"Hm... Alors c'est comme ça... Sara.\"",
+            "\\.\"C'est... ce que je devrais dire, Sou.\"",
+            "\\.\"D'après les explications de Rillante, il ne peut\n y avoir qu'un seul \\C[2]Maître des Clés\\C[0]...\"",
+            "\\.\"Je n'aurais jamais pu imaginer que tu puisses\n mentir d'une telle manière.\"",
+            "\\.\"Qu'est-ce qu'il se passe maintenant...?!\n L'un d'eux serait en train de mentiiiir ?!\"",
+            "\\.\"... Gh...!\"",
+            "\\.\"Putain, ça fait aucun sens...!!\"",
+            "\\.\"Allez, tout le monde. On se détend.\"",
+            "\\C[4](Je ne sais pas...!\n Est-ce vraiment le bon moment pour faire ça ?!)",
+            "\\.\\C[4](Comme Rillante l'a expliqué...\n Il n'y a qu'un seul \\C[2]Maître des Clés\\C[4].)",
+            "\\.\\C[4](Sou ment...!\n Il n'y a pas d'autre explication !)",
+            "\\.\"... Hm, pouvons-nous en être sûrs ?\n Je crains que je ne puisse pas le croire si\n facilement, non...\"",
+            "\\.\"Mais pour le moment, je partirai du principe que\n vous êtes le \\C[2]Maître des Clés\\C[0], Monsieur Sou.\"",
+            "\\.\"Merci. Je ferai de mon mieux.\"",
+            "\\.\"... Aah, bon, ben...\n On dirait que personne a rien à redire.\n Revenons à nos moutons...\"",
+            "\\.\"Écoutez. Les rôles des cartes importent vraiment\n qu'au dernier vote.\"",
+            "\\.\"Tout d'abord... Notre priorité,\n c'est de trouver des potentiels suspects.\"",
+            "\\.\"... Après tout, s'il faut y a vraiment un de\n nos ravisseurs parmi nous.\"",
+            "\\.\\C[4](Je ne sais pas ce que Sou a en tête...)",
+            "\\.\\C[4](Mais pour l'instant, je dois me concentrer\n sur la discussion en cours...!!)"
         ],
         "177-0-message": [
-            "\\.\"Voyez-vous, je suis le \\C[2]Maître des Clés\\C[0].\""
+            "\\.\"Voyez-vous, je suis le \\C[2]Maître des Clés\\C[0].\"",
+            "\\.\\C[3]Hein...?\\.\\.",
+            "\\.\"Je n'étais pas sûr de vouloir le dire, mais...\n J'aimerais nous éviter de mourir, donc...\"",
+            "\\.\"... Et de toute façon, si le \\C[2]Maître des Clés\\C[0]\n ne gère pas les choses, ça finira en pagaille.\"",
+            "\\.\\C[3]Mais... Qu'est-ce qu'il raconte...?",
+            "\\.\\C[3]C'est moi... le \\C[2]Maître des Clés\\C[3].",
+            "\\.\"Sérieux..?! C'la vérité...?!\"",
+            "\\.\"Si personne conteste...\n Ben, okay, je t'crois !\"",
+            "\\.\"...!!\"",
+            "\\.\"S'il vous plaît, attendez !!\n C'est moi... le \\C[2]Maître des Clés\\C[0] !!\"",
+            "\\.\"Attends, quooooooi ?!\"",
+            "\\.\"Il y a... deux \\C[2]Maître des Clés\\C[0] ?!\"",
+            "\\.\"Hm... Tu m'as fait sursauter, Sara.\"",
+            "\\.\"C'est... ce que je devrais dire, Sou.\"",
+            "\\.\"D'après les explications de Rillante, il ne peut\n y avoir qu'un seul \\C[2]Maître des Clés\\C[0]...\"",
+            "\\.\"Je n'aurais jamais pu imaginer que tu puisses\n mentir d'une telle manière.\"",
+            "\\.\"Qu'est-ce qu'il se passe maintenant...?!\n L'un d'eux serait en train de mentiiiir ?!\"",
+            "\\.\"...M-Mais pourquoi...?\"",
+            "\\.\"Putain, ça fait aucun sens...!!\"",
+            "\\.\"Bon, peu importe.\n Pour l'instant, plutôt que de nous battre,\n continuons le débat.\"",
+            "\\C[4](Je ne sais pas...!\n Est-ce vraiment le bon moment pour faire ça ?!)",
+            "\\.\\C[4](Comme Rillante l'a expliqué...\n Il n'y a qu'un seul \\C[2]Maître des Clés\\C[4].)",
+            "\\.\\C[4](Sou ment...!\n Il n'y a pas d'autre explication !)",
+            "\\.\"... Hm, pouvons-nous en être sûrs ?\n Je crains que je ne puisse pas le croire si\n facilement, non...\"",
+            "\\.\"Mais pour le moment, je partirai du principe que\n vous êtes le \\C[2]Maître des Clés\\C[0], Monsieur Sou.\"",
+            "\\.\"Merci. Je ferai de mon mieux.\""
         ],
         "1104-0-message": [
             "\\C[4](...!)"
@@ -13242,20 +13303,20 @@
             "\\.\"J'veux pas qu'on reste les bras croisés et\n qu'on finisse par l'regretter.\"",
             "\"Faut penser à la survie. On a aucune garantie\n d'rentrer chez nous après c'Jeu Principal.\"",
             "\\.\"T-Tu penses que ça va continuer ?!\"",
-            "\\.\"Ils vont se servir de nous comme des pions...\n Jusqu'à ce qu'on meure.\"",
+            "\\.\"Ils vont s'servir d'nous comme des pions...\n Jusqu'à ce qu'on meure.\"",
             "\\.\"Tu veux en venir où...?\"",
             "\\.\"Si on doit continuer à explorer et à tomber\n dans des pièges mortels...\"",
             "\\.\"Ben, faut qu'on vote maintenant pour ceux\n qui servent à rien, pas vrai ?\"",
             "\\.\"Attends, quoi...?\n Putain, tu veux dire que...!!\"",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\.\"Gin, Nao, Kanna... J'vais pas mentir.\n Vous servez à rien en terme d'exploration,\n donc j'vais voter pour l'un d'ent'vous.\"",
+            "\\.\"Hein...?!\"",
+            "\\.\"...!!\"",
+            "\\.\"..........\"",
+            "\\.\"Comme si toi tu l'étais, gorille alien !!\n Fais pas comme si t'es utile juste parce que\n t'es musclé, putain !!\"",
+            "\\.\"Hé bah vas-y, choisis moi !!\"",
+            "\\.\"Qu-?!\"",
+            "\\.\"Vote pour qui tu t'sens !!\n Si tu trouves qu'je sers à rien, sois responsable\n et tue-moi, Reko !!\"",
+            "\\.\"Q-taro...!\"",
             "\\.\"C'ça qu'je voulais dire, quand j'disais que\n j'm'étais décidé !!\"",
             "\\.\"..........\"",
             "\\.\"... Nao ! Kanna ! Gin ! Montrez-lui !\n Prouvez-lui votre valeur... vous-même !!\"",
@@ -13350,6 +13411,23 @@
             null,
             "\\.\"Vous faites peur à Gin !\n C'est votre faute, sales brutes d'hommes à la con !\"",
             "\\.\"On a pas l'temps.\n Gin, prouve-nous que t'as été utile !\""
+        ],
+        "127-0-message": [
+            "\"Gin, Nao, Kanna... J'vais pas mentir.\n Vous servez à rien en terme d'exploration,\n donc j'vais voter pour l'un d'ent'vous.\"",
+            "\"... Traitez-moi d'bâtard si vous voulez.\n J'cherche juste un moyen d'survivre.\"",
+            "\"Peu importe c'que tu dis, j'changerai pas d'avis.\"",
+            "\\.\"Ceux qui se débrouillent, ils restent.\n Ceux qui nous ralentissent, ils partent...\"",
+            "\\.\"Vois-le comme ça, Sara.\n J'vais certainement pas voter pour toi.\"",
+            "\\.\\C[4](Q-taro est sérieux...!)"
+        ],
+        "128-0-message": [
+            "\"..........\"",
+            "\"Je m'appelle \\C[2]Gin Ibushi\\C[0] ! Ouaf !\"",
+            "\\.\"Hmm... Je pense pouvoir faire confiance à\n grande sœur Sara, miaou !\"",
+            "\"..........\""
+        ],
+        "177-0-choice": [
+            "C'est moi, le Maître des Clés !\nNe rien dire"
         ]
     },
     "map107": {
