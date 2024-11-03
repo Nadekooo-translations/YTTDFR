@@ -7368,7 +7368,7 @@
             null,
             null,
             null,
-            null,
+            "\"C'est quoi ce truc ?! Ça va pas marcher sur moi !\"",
             "(Mince... ! C'était une erreur !)\n\n\n* PV diminués",
             null,
             null,
@@ -7453,7 +7453,7 @@
             "\"Très bien, Sara. On peut y aller ?\"",
             "\\.\\C[4](La Première Épreuve... Une tête de poupée...\n Et un corps...)",
             "\\.\\C[4](Essayons de trouver quelque chose...!)",
-            "\"C'est quoi ça ?! Ça va pas marcher sur moi !\"",
+            "\"C'est quoi ce truc ?! Ça va pas marcher sur moi !\"",
             "(Mince... ! C'était une erreur !)\n\n\n* PV diminués",
             "\\.\\C[4](Elle est plutôt lourde...\n Je dirais qu'elle pèse entre 20 et 30 kilogrammes.)",
             "\\.\\C[4](Et elle a 3 serrures...!)"
@@ -7483,11 +7483,18 @@
             "\\.\\C[4](Mince...! C'était une erreur !)"
         ],
         "139-0-message": [
-            null,
-            null,
+            "\"... Miaou... Miaou...\"",
+            "\"Ouaf, ouaf... Je comprends pas, miaou...\"",
+            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\"J'sais pas, miaou... Je comprends pas, ouaf...\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Gin tremble...)",
+            "\"Ça va aller, Gin. Essaie de te rappeler.\n Tu as trouvé quelque chose durant ton exploration ?\"",
+            "\"Gin ! Tu es un grand garçon, pas vrai ?!\n Je sais que tu as fait du bon travail !\n Prends ton courage à deux mains et parle !\"",
+            "\"Gin...?\"",
+            "\\.\"..........\"",
+            "\\.\\C[4](Rien à faire... Gin s'est renfermé sur lui-même...)"
         ],
         "142-0-message": [
             null,
@@ -7498,7 +7505,7 @@
             "\\.\\C[4](Mince...! C'était une erreur !)",
             null,
             "\\.\\C[4](Mince...! C'était une erreur !)",
-            null,
+            "\"J'sais pas, miaou... Je comprends pas, ouaf...\"",
             "\\.\\C[4](Mince...! C'était une erreur !)"
         ],
         "166-0-message": [
@@ -9038,30 +9045,36 @@
             "(Mince... ! C'était une erreur !)\n\n\n* PV diminués"
         ],
         "130-0-message": [
-            null,
+            "\\.\"Je dirais que... j'ai trouvé la clé de la cuisine...\n Mais il n'y avait rien à l'intérieur...\"",
             "\"J'ai exploré du mieux que j'ai pu !!\n Et j'ai trouvé des choses !\n Beaucoup de choses...!!\"",
-            null,
+            "\"C'est quoi ce truc ?! Ça va pas marcher sur moi !\"",
             "(Mince... ! C'était une erreur !)\n\n\n* PV diminués",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\"...\""
+            "\"Mais... Mais... J'ai fait de mon mieux...\n Saraaa...\"",
+            "\"Je vous en supplie, croyez-moi...\"",
+            "\\.\\C[4](Nao est désemparée...)",
+            "\\.\"Quand je dis beaucoup de choses,\n c'est vraiment beaucoup de choses !!\n C'est la vérité !! Saraaa !!\"",
+            "\\.\"Nao, respire profondément.\"",
+            "\\.\"S-Saraaa...\"",
+            "\\.\\C[3]Nao pris une bonne inspiration.",
+            "\\.\"... Hahh.\"",
+            "\\.\"... Comme ça ?\"",
+            "\\.\\C[3]Nao a l'air de s'être un peu calmée.",
+            "\\.\"E-Euuh... Je vais y réfléchir...\"",
+            "\\.\"A-Ah, oui ! J'ai trouvé une statue d'oiseau.\"",
+            "\\.\"... Quoi d'autre ?\"",
+            "\\.\"Urgh... Euum...\"",
+            "\\.\"...\"",
+            "\\.\"... La... t-tête... de Monsieur Mishima a disparu...\"",
+            "\\.\\C[4](Nao...)",
+            "\\.\"Et... Et...\"",
+            "\\.\"Bouh... C'est tout ce que j'ai...\"",
+            "\\.\"Je dirais que... j'ai trouvé la clé de la cuisine...\n Mais \\C[2]il n'y avait rien\\C[0] à l'intérieur...\"",
+            "\\.\\C[4](Ah bon...? Il n'y avait rien ?)"
         ],
         "133-0-message": [
             null,
             null,
-            null,
+            "\"C'est quoi ce truc ?! Ça va pas marcher sur moi !\"",
             "(Mince... ! C'était une erreur !)\n\n\n* PV diminués"
         ],
         "165-0-message": [
@@ -9124,7 +9137,8 @@
             "Utiliser l'objet sélectionné\nAnnuler",
             "Mémoriser la déclaration\nAnnuler",
             "Oublier la déclaration mémorisée\nAnnuler",
-            "Appliquer la déclaration mémorisée\nAnnuler"
+            "Appliquer la déclaration mémorisée\nAnnuler",
+            "L'interroger gentiment\nL'interroger agressivement\nLe regarder droit dans les yeux"
         ],
         "142-0-choice": [
             "Utiliser l'objet sélectionné\nAnnuler",
@@ -10097,7 +10111,8 @@
             "Appliquer la déclaration mémorisée\nAnnuler"
         ],
         "130-0-choice": [
-            "Utiliser l'objet sélectionné\nAnnuler"
+            "Utiliser l'objet sélectionné\nAnnuler",
+            "Beaucoup de choses...?\nLa calmer"
         ],
         "133-0-choice": [
             "Utiliser l'objet sélectionné\nAnnuler",
@@ -10371,12 +10386,14 @@
             "\\.\\C[4](Il évite clairement la question...)"
         ],
         "129-0-message": [
-            null,
-            null,
-            null,
-            null,
+            "\"Kanna...\"",
+            "\"..........\"",
+            "\\.\"Kanna... Tu as remarqué quoi que ce soit,\n durant tes recherches ?\"",
+            "\\.\"E-Eum...\"",
             "\\.\"...\"",
-            "\\.\"...\""
+            "\\.\"...\"",
+            "\\.\"Non... rien...\"",
+            "\\.\"Prends ton temps.\n Retrace calmement tes actions, d'accord ?\""
         ],
         "131-0-message": [
             null,
@@ -13424,10 +13441,34 @@
             "\"..........\"",
             "\"Je m'appelle \\C[2]Gin Ibushi\\C[0] ! Ouaf !\"",
             "\\.\"Hmm... Je pense pouvoir faire confiance à\n grande sœur Sara, miaou !\"",
-            "\"..........\""
+            "\"..........\"",
+            "\\.\\C[4](Gin tremble...)",
+            "\"Ça va aller, Gin. Essaie de te rappeler.\n Tu as trouvé quelque chose durant ton exploration ?\"",
+            "\"Gin ! Tu es un grand garçon, pas vrai ?!\n Je sais que tu as fait du bon travail !\n Prends ton courage à deux mains et parle !\"",
+            "\"Gin...?\"",
+            "\\.\"..........\"",
+            "\\.\\C[4](Rien à faire... Gin s'est renfermé sur lui-même...)"
         ],
         "177-0-choice": [
             "C'est moi, le Maître des Clés !\nNe rien dire"
+        ],
+        "141-0-message": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\"... Miaou... Miaou...\"",
+            "\\.\"..........\"",
+            "\\.\"... Hein...?\n ...\"",
+            null,
+            null,
+            "\"... Miaou... Miaou...\""
+        ],
+        "128-0-choice": [
+            "L'interroger gentiment\nL'interroger agressivement\nLe regarder droit dans les yeux"
         ]
     },
     "map107": {
