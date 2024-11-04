@@ -7639,26 +7639,29 @@
             "\\.\\C[4](Rien à faire... Gin garde le silence.)"
         ],
         "195-0-message": [
-            null,
+            "\"Je trouve que beaucoup de choses sont illogiques\n dans les actions de Nao. Ne vous demandez-vous\n pas ce qu'elle faisait dans la cuisine ?\"",
             "\"...?\n Sans commentaire, Sara.\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
-            null,
+            "\"Ahahah... Tu ne devrais pas interroger Nao ?\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
-            null,
-            "\\.\"...\""
+            "\"Je me demande si elle ne faisait vraiment\n que se cacher...\"",
+            "\\.\"...\"",
+            "\\.\\C[4](Sou a l'air d'insinuer quelque chose...)"
         ],
         "196-0-message": [
             "\"J'ai pris la boîte...\n Et je suis restée assise, cachée dans la cuisine.\n Je n'ai même pas touché à quoi que ce soit...\"",
             "\"Euh... Où veux-tu en venir...?\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
-            null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\"Je ne pense pas avoir dit quoi que ce soit\n de bizarre...\"",
+            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\"Assise dans le noir...\n Je lui posais des questions... encore et encore...\"",
+            "\\.\"Même si... Je n'avais pas de réponse...\""
         ],
         "197-0-message": [
             "\"J'ai examiné la cuisine après votre passage.\n Je n'ai trouvé aucune supercherie.\"",
-            null,
+            "\"Je suppose que je n'ai d'autre choix\n que de l'accepter, mais...?\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
-            null,
+            "\"Oh... Je crains n'avoir grand-chose à dire.\"",
             "\\.\\C[4](Mince...! C'était une erreur !)"
         ],
         "204-0-message": [
@@ -7673,36 +7676,42 @@
             "\"Quelque chose cloche dans ce que j'ai dit ?!\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
             "\"C'est ce que Rillante cherche, j'imagine...\"",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\"Après, j'aurais su que c'est la faute à Rillante...\n C'est évident. Mais je me serais peut-être\n déchaîné sur les autres quand même.\""
+            "\"On agit pas toujours de manière rationnelle,\n tu vois ce que je veux dire ?!\"",
+            "\\.\"C'était après ce vote atroce...!\n Si j'avais été dans la situation de Nao...\n J'aurais...!\"",
+            "\\.\\C[4](Dans la situation de Nao...?)",
+            "\"Joe. Si tu avais perdu quelqu'un à qui tu tenais\n à cause de ce vote, tu aurais fait quoi ?\"",
+            "\\.\"Si ça avait été moi...\"",
+            "\\.\"Joe, si tu perdais quelqu'un à qui tu tiens...\n Tu serais... triste, c'est ça ?\"",
+            "\\.\"Plutôt que de pleurer... J'aurais pété un câble...\"",
+            "\\.\"Comment ça ?\"",
+            "\\.\"Genre, \"Qui a voté pour Sara ?!\"...\n J'aurais cherché à trouver le coupable !\"",
+            "\\.\"Après, j'aurais su que c'est la faute à Rillante...\n C'est évident. Mais je me serais peut-être\n déchaîné sur les autres quand même.\"",
+            "\\.\"C'est ce que j'essaie d'expliquer !\n On est pas toujours logiques !!\"",
+            "\\.\\C[4](Ouais... Peut-être. Si c'est à cause de \\C[2]quelqu'un\\C[4],\n s'énerver est une réaction naturelle.)"
         ],
         "205-0-message": [
-            null,
+            "\"Est-ce possible... que Nao soit manipulée par\n nos kidnappeurs...?\"",
             "\"...?\n Sans commentaire, Sara.\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
             "\"Ahahah, euh... C'est censé contrer quoi que ce soit ?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\"Peut-être qu'elle est du côté des kidnappeurs\n depuis le début... Ou qu'elle s'est faite\n hypnotiser...\"",
+            "\\.\"... Ce n'est vraiment pas agréable de douter\n de quelqu'un...\""
         ],
         "206-0-message": [
-            null,
-            null,
+            "\"Elle a dû se faire échanger avec une autre boîte\n que les kidnappeurs ont préparé !\"",
+            "\"Il est où, le putain de rapport avec Nao ?!\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
             "\"Euuh... c'est quoi ce truc ?\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
             "\"Euuh... c'est quoi ce truc ?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\"Je veux dire, il y a plein de conneries du genre,\n ici...!\"",
+            "\\.\"Il faisait totalement noir dans la cuisine !\n La boîte a été échangée sans qu'elle le remarque !\""
         ],
         "207-0-message": [
-            null,
-            null,
+            "\"Voir Monsieur Mishima subir ça...\n J'étais énervée, oui, mais surtout triste...!\n Ça m'a fait de la peine...!!\"",
+            "\"Je... Je n'étais plus moi-même, mais...\n Je n'ai rien fait de suspect !\n Et... Je ne sais pas pourquoi elle a disparu !!\"",
             "\"Euh... Où veux-tu en venir...?\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
             "\"Je ne vois pas où tu veux en venir, Sara !\"",
@@ -9163,7 +9172,13 @@
         "201-0-message": [
             null,
             "\"Euh... Où veux-tu en venir...?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! C'était une erreur !)",
+            null,
+            null,
+            null,
+            null,
+            "\"Assise dans le noir...\n Je lui posais des questions... encore et encore...\"",
+            "\\.\"Même si... Je n'avais pas de réponse...\""
         ],
         "31-0-choice": [
             "Utiliser l'objet sélectionné\nAnnuler",
@@ -9296,7 +9311,8 @@
             "Utiliser l'objet sélectionné\nAnnuler",
             "Mémoriser la déclaration\nAnnuler",
             "Oublier la déclaration mémorisée\nAnnuler",
-            "Appliquer la déclaration mémorisée\nAnnuler"
+            "Appliquer la déclaration mémorisée\nAnnuler",
+            "Qu'est-ce que tu ferais ?\nTu serais triste ?"
         ],
         "205-0-choice": [
             "Utiliser l'objet sélectionné\nAnnuler",
@@ -10831,49 +10847,53 @@
             "\\.\"... Allons-nous donc simplement mettre de\n côté la tête disparue, en fin de compte ?\"",
             "\\.\"Ç'reste un grand mystère, mais...\n Au moins, on dirait qu'Nao a rien fait d'mal .\"",
             "\\.\"Peut-être que Reko tenait le bon fil et que la\n boîte a été échangée à un moment donné.\"",
-            null,
-            null,
-            null,
-            null,
+            "\\.\"Ça va nous amener nulle part, ouaf !\n On devrait parler du gorille maintenant, miaou !\"",
+            "\\.\"T'sérieux, là ?!\"",
+            "\\.\"... Ça te va de passer à autre chose, Sara ?\"",
+            "\\.\\C[4](La tête disparue...)",
             "\\.\\C[10]\"Ah ouais ?\"",
-            null,
+            "\\.\\C[4](...!)",
             "\\.\"...\"",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\.\"P-Pardon. C'était impoli...\"",
+            "\\.\"..........\"",
+            "\\.\"... Sara est la seule à être logique ici, on dirait.\"",
+            "\\.\\C[4](...!)",
+            "\\.\"Hé, tout le monde...\n On ne va jamais s'en sortir si on fait comme ça.\"",
+            "\\.\"M-Mais...\"",
+            "\\.\"Je trouve ça vraiment merveilleux que vous puissiez\n vous faire confiance juste après vous avoir\n rencontrés...\"",
+            "\\.\"Mais, comment dire...\n Les mauvaises personnes font toujours les innocents.\"",
+            "\\.\"T'insinue que Nao est malintentionnée ?!\"",
+            "\\.\"Je viens de me rappeler quelque chose.\"",
+            "\\.\"C'est Nao qui m'a attaquée.\"",
+            "\\.\"Quooooooooooi ?!\"",
             "\\.\"...\"",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\.\"..........\"",
+            "\\.\"Ce n'est pas passé loin.\n Si je ne m'en étais pas souvenu,\n elle s'en serait sortie tranquillement.\"",
+            "\\.\\C[4](C'est... la vérité ? Ou il ment...?)",
+            "\\.\"..........\"",
+            "\\.\"C'est que... Je...\"",
+            "\\.\"... C'est... faux...\"",
+            "\\.\\C[10]\"Hors de mon chemin, Sara.\"",
+            "\\.\\C[4](Urgh...)",
+            "\\.\"..........\"",
+            "\\.\"Tu peux y aller, je t'écoute, Nao.\"",
+            "\\.\"C'est ta seule chance de dire la vérité...\"",
+            "\\.\"Sache que je donnerai tout ce que j'ai si l'on\n doit débattre au point d'en devenir suspects.\"",
+            "\\.\"Réponds-moi.\n Est-ce que tu as ce courage ?\"",
+            "\\.\"Je...\"",
+            "\\.\"..........\"",
+            "\\.\"....................\"",
+            "\\.\"... J'ai bien...\\.\\. frappé Sou...\"",
+            "\\.\"S-Sérieux ?!\"",
+            "\\.\"Tu déconnes, hein ?!\n Pourquoi t'as fait ça, Nao ?!\"",
             "\\.\"...\"",
-            null,
-            null,
-            "\\.\"...\""
+            "\\.\"... On m'a menacée...\"",
+            "\\.\"P-Par qui ?!\"",
+            "\\.\"...\"",
+            "\\.\"... \\.\\C[2]Kai\\C[0]...\"",
+            "\\.\\C[4](...!!)",
+            "\"Kai m'a forcée... à assommer Sou...\"",
+            "\"..........\""
         ],
         "218-0-message": [
             null,
@@ -12497,12 +12517,20 @@
             "Voter pour \\C[2]Kai\\C[0] ?"
         ],
         "211-0-message": [
-            null,
+            "\"Kai m'a forcée... à assommer Sou...\"",
             "\"...\"",
-            null,
+            "\\.\\C[4](Pas de réponse...)",
             "\"...\"",
-            null,
-            "\"...\""
+            "\\.\\C[4](Pas de réponse...)",
+            "\"...\"",
+            "\\.\\C[4](Pas de réponse...)",
+            "\"Après l'annonce de récupération du corps,\n je me suis enfuie avec la boîte à la cafétéria.\n Là-bas...\"",
+            "\\.\"Kai m'a soudainement pris avec sa main\n et m'a tirée dans la cuisine.\"",
+            "\"Restez silencieuse...\n Si vous vous cachez ici, personne ne vous trouvera.\"",
+            "\"D-D'accord...\"",
+            "\\.\"Kai m'a protégée...\"",
+            "\\.\"Il est tout à fait admirable de votre part\n de tenir tête à nos ravisseurs, Madame Nao.\"",
+            "\\.\"Ne le dis à personne !! Je t'en prie !!\""
         ],
         "863-0-message": [
             null,
@@ -13706,6 +13734,76 @@
             "Cette note est bidon !\nNe rien dire",
             "Il reste quelque chose\nJe suis d'accord",
             "Les noms et les professions\nL'endroit où j'ai trouvé la note"
+        ],
+        "189-0-message": [
+            "\\C[3]Assigner le nom de famille \"Yabusame\" à Reko ?"
+        ],
+        "184-0-message": [
+            "\\C[3]Assigner le nom de famille \"Yabusame\" à Joe ?",
+            "\\.\\C[4](Non ! Joe c'est Jou Tazuna !\n Comment j'ai fait pour oublier le nom de mon\n meilleur ami ?!)"
+        ],
+        "185-0-message": [
+            "\\C[3]Assigner le nom de famille \"Yabusame\" à Keiji ?",
+            "\\.\\C[4](Non ! Keiji c'est Keiji Shinogi !\n Il m'a fait forte impression donc je me rappelle\n bien son nom.)"
+        ],
+        "186-0-message": [
+            "\\C[3]Assigner le nom de famille \"Yabusame\" à Kanna ?",
+            "\\.\\C[4](Non ! Kanna c'est Kanna Kizuchi !\n Son nom utilise beaucoup de kanji donc il\n se démarque mieux des autres dans ma tête...)"
+        ],
+        "187-0-message": [
+            "\\C[3]Assigner le nom de famille \"Yabusame\" à Q-taro ?",
+            "\\.\\C[4](Non ! Q-taro c'est Q-taro Burgerberg !\n Attends.\n Ce n'était pas Cubetaro Hamburger, plutôt...?)"
+        ],
+        "188-0-message": [
+            "\\C[3]Assigner le nom de famille \"Yabusame\" à Sou ?",
+            "\\.\\C[4](Non ! Sou c'est Sou Hiyori !\n \"Temps radieux\", c'est facile à retenir...\n D'une certaine manière, son nom le représente bien.)"
+        ],
+        "190-0-message": [
+            "\\C[3]Assigner le nom de famille \"Yabusame\" à Nao ?",
+            "\\.\\C[4](Non ! Nao c'est Nao Egokoro !\n \"Cœur de l'art\"...\n C'est comme si elle avait été faite pour ça.)"
+        ],
+        "191-0-message": [
+            "\\C[3]Assigner le nom de famille \"Yabusame\" à Kai ?",
+            "\\.\\C[4](Non ! Kai c'est Kai Satou !\n C'est un nom très commun, mais...\n Je crois que c'est tout.)"
+        ],
+        "192-0-message": [
+            "\\C[3]Assigner le nom de famille \"Yabusame\" à Gin ?",
+            "\\.\\C[4](Non ! Gin c'est Gin Ibushi !\n C'est un nom plutôt ferme pour un enfant,\n donc je m'en rappelle...)"
+        ],
+        "193-0-message": [
+            "\\C[3]Assigner le nom de famille \"Yabusame\" à Gonbee ?",
+            "\\.\\C[4](Non ! Gonbee c'est Gonbee Yamada !\n C'est un nom rustique, donc je m'en rappelle...)"
+        ],
+        "194-0-message": [
+            "\\.\\C[4](Je crois... que c'était une femme, non...?)",
+            "\\.\\C[4](Une femme...\n Et quand Joe a entendu son nom, il s'est excité.)",
+            "\\.\\C[4](C'était une femme...\n Et quand Joe a entendu son nom, il s'est excité...\n Parce que c'était une célébrité de magazines...?)",
+            "\\.\\C[4](C'était une femme...\n Et quand Joe a entendu son nom, il s'est excité...\n Parce que c'était une célébrité de magazines...\n Une auteure-compositrice, c'est ça...?)"
+        ],
+        "202-0-message": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\"Je... Je n'étais plus moi-même, mais...\n Je n'ai rien fait de suspect !\n Et... Je ne sais pas pourquoi elle a disparu !!\"",
+            null,
+            "\"Elle a dû se faire échanger avec une autre boîte\n que les kidnappeurs ont préparé !\"",
+            null,
+            "\"Est-ce possible... que Nao soit manipulée par\n nos kidnappeurs...?\""
+        ],
+        "209-0-choice": [
+            "Ils étaient véritablement proches\nIls n'étaient pas véritablement proches",
+            "Passons au sujet suivant\nJe me pose encore des questions",
+            "Interroger Nao\nDire à Sou de la fermer"
         ]
     },
     "map107": {
