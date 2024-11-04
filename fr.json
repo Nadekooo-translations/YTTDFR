@@ -7662,7 +7662,8 @@
             "\"Je suppose que je n'ai d'autre choix\n que de l'accepter, mais...?\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
             "\"Oh... Je crains n'avoir grand-chose à dire.\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\"Vous êtes passée avant moi, Madame Sara.\n Vous devriez en être consciente, de même.\""
         ],
         "204-0-message": [
             null,
@@ -9164,13 +9165,17 @@
             "\\.\"Tu devrais lui sortir des preuves.\""
         ],
         "200-0-message": [
-            null,
-            null,
+            "\"Si elle l'a jamais lâchée...\n Comment ça se fait que la boîte était vide ?\"",
+            "\"... Bon, bah... On dirait que tu vas devoir annoncer\n la nouvelle, Sara.\"",
             "\"T'as un cadeau pour Monsieur le Policier ?\n Merci.\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\"Hé là, doucement, l'amie...\"",
+            null,
+            null,
+            "\"Hé là, doucement, l'amie...\""
         ],
         "201-0-message": [
-            null,
+            "\"Du début jusqu'à la fin... Je suis restée assise en\n tenant Mons-... La boîte dans mes bras !\n Je n'ai pas bougé de là !!\"",
             "\"Euh... Où veux-tu en venir...?\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
             null,
@@ -13804,6 +13809,32 @@
             "Ils étaient véritablement proches\nIls n'étaient pas véritablement proches",
             "Passons au sujet suivant\nJe me pose encore des questions",
             "Interroger Nao\nDire à Sou de la fermer"
+        ],
+        "198-0-message": [
+            "\"Tu n'as vraiment touché à rien ?\"",
+            "\\.\"Hein...?!\"",
+            "\\.\"La cuisine était restée fermée jusqu'à ce\n que tu y ailles.\"",
+            "\\.\"Pourtant, après que tu sois partie, Nao,\n on a trouvé cette longue boîte fine.\"",
+            "\\.\"Et il n'y avait rien à l'intérieur.\"",
+            "\\.\"Nao est la seule à avoir pu prendre le couteau !\"",
+            "\\.\"J-Je ne sais pas de quoi tu parles !\"",
+            "\\.\"Attendez...\n Quand est-ce que Nao a trouvé la clé de la cuisine ?\"",
+            "\\.\"..........\"",
+            "\\.\"Elle était ouverte...\"",
+            "\\.\\C[4](Hein...?)",
+            "\\.\"La porte de la cuisine était ouverte à ce moment-là !\"",
+            "\\.\"Donc... J'ai juste couru dedans, puis j'ai\n fermé de l'intérieur.\"",
+            "\\.\"Alors c'est que quelqu'un y est allé avant, miaou !\n C'est lui qui a pris le couteau, ouaf !\"",
+            "\\.\\C[4](Tout d'abord... J'ai emmené Alice à la Salle Rose.)",
+            "\\.\\C[4](Pendant ce temps, quelqu'un est passé par la cuisine...\n A pris le couteau, et est parti...)",
+            "\\.\\C[4](Enfin, Nao est allée dans la cuisine avec la boîte\n et s'y est enfermée.)",
+            "\\.\\C[4](Est-ce que le timing... correspond ?)",
+            "\\.\"Hmm... C'est peut-être logique ?\n C'est très louche, par contre...\"",
+            "\\.\"C-Ce n'est pas du tout louche !!\n J-Je vais tout vous raconter !!\"",
+            "\\.\"Très bien, Nao...\n Raconte-nous ce que tu as fais dans la cuisine.\"",
+            "\"Du début jusqu'à la fin... Je suis restée assise en\n tenant Mons-... La boîte dans mes bras !\n Je n'ai pas bougé de là !!\"",
+            "\"... Bon, bah... On dirait que tu vas devoir annoncer\n la nouvelle, Sara.\"",
+            "\\C[4](Ouais... Je dois lui demander à propos... de ça...!)"
         ]
     },
     "map107": {
