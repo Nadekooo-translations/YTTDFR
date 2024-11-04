@@ -7695,7 +7695,18 @@
             "\\C[4](Urgh... Ça ne s'est pas bien passé...)",
             "\"Je ne vois pas où tu veux en venir, Sara !\"",
             "\\C[4](Urgh... Ça ne s'est pas bien passé...)",
-            "\"Cette douleur...\n Vous ne pouvez pas... la comprendre...!\""
+            "\"Cette douleur...\n Vous ne pouvez pas... la comprendre...!\"",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.\\C[4](N'était-elle pas curieuse de qui\n a voté pour Monsieur Mishima...?)",
+            null,
+            null,
+            null,
+            "\\.\\C[4](N'était-elle pas curieuse de qui\n a voté pour Monsieur Mishima...?)"
         ],
         "221-0-message": [
             null,
@@ -9111,7 +9122,7 @@
             "\\.\"... Autre chose ?\"",
             "\\.\"Hein...?\n J'ai dit quelque chose de bizarre...?!\"",
             "\\.\\C[4](Quelque chose me tracasse...)",
-            "\\.C[4](N'est-elle pas curieuse sur \nqui a voté pour Mishima...?)"
+            "\\.\\C[4](N'était-elle pas curieuse de qui\n a voté pour Monsieur Mishima...?)"
         ],
         "165-0-message": [
             "\"Sara est presque jamais restée seule.\n Elle a rien pu faire de suspect du coup... si ?\"",
