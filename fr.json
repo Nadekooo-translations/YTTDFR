@@ -9122,7 +9122,8 @@
             "\\.\"... Autre chose ?\"",
             "\\.\"Hein...?\n J'ai dit quelque chose de bizarre...?!\"",
             "\\.\\C[4](Quelque chose me tracasse...)",
-            "\\.\\C[4](N'était-elle pas curieuse de qui\n a voté pour Monsieur Mishima...?)"
+            "\\.\\C[4](N'était-elle pas curieuse de qui\n a voté pour Monsieur Mishima...?)",
+            "\\.\"J'en suis sûre que... J'étais avec lui tout le temps.\""
         ],
         "165-0-message": [
             "\"Sara est presque jamais restée seule.\n Elle a rien pu faire de suspect du coup... si ?\"",
