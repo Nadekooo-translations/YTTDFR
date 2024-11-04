@@ -7639,7 +7639,7 @@
             "\\.\\C[4](Mince...! C'était une erreur !)"
         ],
         "197-0-message": [
-            null,
+            "\"J'ai examiné la cuisine après votre passage.\n Je n'ai trouvé aucune supercherie.\"",
             null,
             "\\.\\C[4](Mince...! C'était une erreur !)",
             null,
@@ -9125,7 +9125,7 @@
             "\\.\\C[4](N'était-elle pas curieuse de qui\n a voté pour Monsieur Mishima...?)",
             "\\.\"Je suis restée avec lui tout du long... Je crois.\"",
             "\\.\"Je n'étais pas entièrement consciente...\n Un peu comme un rêve...\n C'est pourquoi je ne me souviens pas très bien...\"",
-            "\\.\\C[4](Comme si elle rêvait...?\nC'est possible qu'elle se soit endormie en tenant la boîte ?)"
+            "\\.\\C[4](Comme un rêve...?\n Aurait-elle pu s'endormir en tenant la boîte...?)"
         ],
         "165-0-message": [
             "\"Sara est presque jamais restée seule.\n Elle a rien pu faire de suspect du coup... si ?\"",
@@ -10167,7 +10167,8 @@
         "133-0-choice": [
             "Utiliser l'objet sélectionné\nAnnuler",
             "Oublier la déclaration mémorisée\nAnnuler",
-            "Appliquer la déclaration mémorisée\nAnnuler"
+            "Appliquer la déclaration mémorisée\nAnnuler",
+            "Pour qui as-tu voté, Nao ?\nComment t'es-tu senti ?\nAs-tu gardé la boîte non-stop ?"
         ],
         "175-0-choice": [
             "Utiliser l'objet sélectionné\nAnnuler",
@@ -10566,7 +10567,29 @@
             null,
             null,
             null,
-            "\"...\""
+            "\"...\"",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\"J'ai examiné la cuisine après votre passage.\n Je n'ai trouvé aucune supercherie.\""
         ],
         "158-0-message": [
             "\\C[4](Que devrais-je lui demander ?)",
@@ -10717,25 +10740,25 @@
             "\\.\"Allez, niquel. Allons-y, Sara.\""
         ],
         "209-0-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\"Nao... Je me demande un truc.\"",
+            "\\.\"Hein...?\"",
+            "\\.\"C'est peut-être parce que je suis plus violent, mais...\n Pourquoi t'as pas essayé de trouver de coupable ?\"",
+            "\\.\"J'veux dire, c'était pas un accident...\n C'est à cause de nos votes que quelqu'un que\n t'adorais a subi un truc aussi horrible...\"",
+            "\\.\"Ce serait pas plus logique... de s'énerver ?\"",
+            "\\.\"Ah-\n Je... ne pense pas...\"",
+            "\\.\"Puisque... je savais que personne ne pensait à mal...\"",
+            "\\.\"..........\"",
+            "\\.\"Ou alors... tu ne le respectais pas vraiment.\"",
+            "\\.\"Q-Qu'est-ce que tu...\"",
+            "\\.\"Peut-être que Nao et Monsieur Mishima n'étaient\n pas proches du tout...\"",
+            "\\.\"Ça expliquerait pourquoi elle n'a pas\n cherché à trouver de responsable.\"",
+            "\\.\"C'est atroce...\"",
+            "\\.\"Tu es affreux !! Juste affreux !!\n Je tenais vraiment à lui...!!\"",
+            "\\.\"... Sara, t'en penses quoi ?\"",
+            "\\.\\C[4](Je pense que...)",
+            "\\.\\C[4](Ces deux-là... Ils s'entendaient vraiment bien.\n Je n'ai pas de preuve tangible, mais c'est\n l'impression que j'ai...)",
+            "\\.\\C[4](La peine de Nao... elle est bien réelle.)",
+            "\\.\\C[4](Et, oui, il doit bien y avoir une explication pour\n la disparition de la tête...!)",
             null,
             null,
             null,
@@ -13406,22 +13429,22 @@
             "Tu protèges Kanna ?\nJe suis d'accord"
         ],
         "136-0-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\"Nao... Je me demande un truc.\"",
+            "\\.\"Hein...?\"",
+            "\\.\"C'est peut-être parce que je suis plus violent, mais...\n Pourquoi t'as pas essayé de trouver de coupable ?\"",
+            "\\.\"J'veux dire, même si c'était un accident...\n C'est arrivé à quelqu'un que tu adorais.\n À cause des votes.\"",
+            "\\.\"Ce serait pas plus logique... de s'énerver ?\"",
+            "\\.\"Ah-\n Je... ne pense pas...\"",
+            "\\.\"Ou alors... tu ne le respectais pas vraiment.\"",
+            "\\.\"Q-Qu'est-ce que tu...\"",
+            "\\.\"Si Nao et Monsieur Mishima n'étaient pas proches\n du tout... Ça expliquerait pourquoi elle n'a pas\n cherché à trouver de responsable.\"",
+            "\\.\"C'est atroce...\"",
+            "\\.\"Tu es affreux !! Juste affreux !!\n Je tenais vraiment à lui...!!\"",
+            "\\.\"... Sara, t'en penses quoi ?\"",
+            "\\.\\C[4](Je pense que...)",
+            "\\.\\C[4](Ces deux-là... Ils s'entendaient vraiment bien.\n Je n'ai pas de preuve tangible, mais c'est\n l'impression que j'ai...)",
+            "\\.\\C[4](La peine de Nao... elle est bien réelle.)",
+            "\\.\\C[4](Et, oui, il doit bien y avoir une explication pour\n la disparition de la tête...!)",
             null,
             null,
             null,
@@ -13538,7 +13561,21 @@
         ],
         "146-0-message": [
             null,
-            "\"Nao respectait Monsieur Mishima !\n Elle a pris cher, mais est normale depuis\n qu'elle va mieux.\""
+            "\"Nao respectait Monsieur Mishima !\n Elle a pris cher, mais est normale depuis\n qu'elle va mieux.\"",
+            "\"J'ai examiné la cuisine après votre passage.\n Je n'ai trouvé aucune supercherie.\""
+        ],
+        "134-0-message": [
+            "\"J'ai examiné la cuisine après votre passage.\n Je n'ai trouvé aucune supercherie.\"",
+            "\"Il me semble avoir inspecté chaque recoin.\n Mon cœur dansait à l'idée d'y trouver de la\n nourriture.\"",
+            "\\.\"Mais au final, mon rêve de préparer des œufs\n Bénédicte vole en éclats...\"",
+            "\\.\"Très regrettable.\""
+        ],
+        "135-0-message": [
+            "\"Si Nao est restée seule tout ce temps...\n Personne ne peut confirmer ses actions, non plus.\"",
+            "\"Je pense aussi que...\n Nao a agi de manière très illogique.\""
+        ],
+        "136-0-choice": [
+            "Ils étaient véritablement proches\nIls n'étaient pas véritablement proches"
         ]
     },
     "map107": {
