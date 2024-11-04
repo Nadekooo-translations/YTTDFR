@@ -9110,7 +9110,7 @@
             "\\.\"J'étais triste...! Ça m'a fait de la peine...!!\n Je ne voulais pas y croire...!!\"",
             "\\.\"... Autre chose ?\"",
             "\\.\"Hein...?\n J'ai dit quelque chose de bizarre...?!\"",
-            "\\.C[4](Quelque chose me tracasse...)"
+            "\\.\\C[4](Quelque chose me tracasse...)"
         ],
         "165-0-message": [
             "\"Sara est presque jamais restée seule.\n Elle a rien pu faire de suspect du coup... si ?\"",
