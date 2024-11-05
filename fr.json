@@ -9165,14 +9165,16 @@
             "\\.\"Tu devrais lui sortir des preuves.\""
         ],
         "200-0-message": [
-            "\"Si elle l'a jamais lâchée...\n Comment ça se fait que la boîte était vide ?\"",
-            "\"... Bon, bah... On dirait que tu vas devoir annoncer\n la nouvelle, Sara.\"",
+            "\"Si elle a jamais lâché la boîte...\n Comment ça se fait qu'elle était vide ?\"",
+            "\"... Bon, bah...\n Va falloir arrêter de tourner autour du pot, Sara.\"",
             "\"T'as un cadeau pour Monsieur le Policier ?\n Merci.\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
             "\"Hé là, doucement, l'amie...\"",
-            null,
-            null,
-            "\"Hé là, doucement, l'amie...\""
+            "\\.\"Tu vois de quoi je veux parler...?\"",
+            "\\.\\C[4](Je devrais d'abord voir ça avec lui...)",
+            "\"Hé là, doucement, l'amie...\"",
+            "\\.\"Tu vois de quoi je veux parler...?\"",
+            "\\.\\C[4](Je devrais d'abord voir ça avec lui...)"
         ],
         "201-0-message": [
             "\"Du début jusqu'à la fin... Je suis restée assise en\n tenant Mons-... La boîte dans mes bras !\n Je n'ai pas bougé de là !!\"",
@@ -13833,8 +13835,8 @@
             "\\.\"C-Ce n'est pas du tout louche !!\n J-Je vais tout vous raconter !!\"",
             "\\.\"Très bien, Nao...\n Raconte-nous ce que tu as fais dans la cuisine.\"",
             "\"Du début jusqu'à la fin... Je suis restée assise en\n tenant Mons-... La boîte dans mes bras !\n Je n'ai pas bougé de là !!\"",
-            "\"... Bon, bah... On dirait que tu vas devoir annoncer\n la nouvelle, Sara.\"",
-            "\\C[4](Ouais... Je dois lui demander à propos... de ça...!)"
+            "\"... Bon, bah...\n Va falloir arrêter de tourner autour du pot, Sara.\"",
+            "\\C[4](Ouais... Je dois lui demander à propos de... ça...!)"
         ],
         "212-0-message": [
             "\"..........\"",
@@ -17813,10 +17815,10 @@
             null,
             null,
             "\\.\"...\"",
-            null,
-            null,
-            null,
-            null,
+            "\\.\"Non...\"",
+            "\\.\"Je peux pas, je refuse d'oublier Alice...\"",
+            "\\.\"J'ai pas passé beaucoup de temps avec lui...\"",
+            "\\.\"Si je perdais mes mauvais souvenirs...\n Il me resterait presque plus rien de lui.\"",
             null,
             null,
             null,
