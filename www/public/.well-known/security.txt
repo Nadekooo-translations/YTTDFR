@@ -1,0 +1,3 @@
+Contact: mailto:contact@vinceh121.me
+Expires: 2025-12-31T23:00:00.000Z
+Canonical: https://vinceh121.me/.well-known/security.txt
