@@ -10845,7 +10845,7 @@
             "\\.\"Nao...\"",
             "\\.\"Si seulement... Aaaah...\"",
             "\\.\"Si seulement je... je n'avais pas voté pour lui...!\"",
-            "\\.\"Pardon...! Je suis désolé, Nao...!\"",
+            "\\.\"Pardon...! Je suis navré, Nao...!\"",
             "\\.\"Pendant tout ce temps, je me disais que ceux qui\n ont voté pour quelqu'un d'autre leur voulait\n du mal...!\"",
             "\\.\"Juste parce que... j'ai voté pour moi-même...!\"",
             "\\.\\C[4](Quoi...?!)",
@@ -12546,7 +12546,8 @@
             "\"D-D'accord...\"",
             "\\.\"Kai m'a protégée...\"",
             "\\.\"Il est tout à fait admirable de votre part\n de tenir tête à nos ravisseurs, Madame Nao.\"",
-            "\\.\"Ne le dis à personne !! Je t'en prie !!\""
+            "\\.\"Ne le dis à personne !! Je t'en prie !!\"",
+            "\\.\"Une fois que Kai a saisi la situation,\n il m'a proposé un marché.\""
         ],
         "863-0-message": [
             null,
