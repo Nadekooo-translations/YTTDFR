@@ -9165,7 +9165,7 @@
             "\\.\"Tu devrais lui sortir des preuves.\""
         ],
         "200-0-message": [
-            "\"Si elle a jamais lâché la boîte...\n Comment ça se fait qu'elle était vide ?\"",
+            "\"Si elle a pas lâché la boîte une seconde...\n Comment ça se fait qu'elle était vide ?\"",
             "\"... Bon, bah...\n Va falloir arrêter de tourner autour du pot, Sara.\"",
             "\"T'as un cadeau pour Monsieur le Policier ?\n Merci.\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
@@ -9177,7 +9177,8 @@
             "\\.\\C[4](Je devrais d'abord voir ça avec lui...)",
             "\"Je m'éclaterais à résoudre ce mystère.\"",
             "\\.\"De quoi me tenir éveillé la nuit.\"",
-            "\"Si elle ne l'a jamais laissé...\""
+            "\"Si elle l'a pas lâché une seconde...\"",
+            "\\.\"... Alors comment ça se fait qu'elle était vide ?\""
         ],
         "201-0-message": [
             "\"Du début jusqu'à la fin... Je suis restée assise en\n tenant Mons-... La boîte dans mes bras !\n Je n'ai pas bougé de là !!\"",
