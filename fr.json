@@ -7731,7 +7731,7 @@
             "\\.\\C[4](N'était-elle pas curieuse de qui\n a voté pour Monsieur Mishima...?)",
             "\"Je n'étais pas tant en colère... Mais triste...!\n C'était tellement déprimant... et douloureux...!!\n Je priais pour que ce ne soit pas réel...!!\"",
             "\\.\"... Tu étais... triste ?\"",
-            "\\.\"Tout à fait...!\n Tu comprendrais, non, Sara ?\"",
+            "\\.\"Tout à fait...!\n Tu me comprends, non, Sara ?\"",
             "\\.\\C[4](N'était-elle pas curieuse de qui\n a voté pour Monsieur Mishima...?)"
         ],
         "221-0-message": [
@@ -8778,7 +8778,7 @@
             "\\.\\C[4](Mince...! C'était une erreur !)"
         ],
         "208-0-message": [
-            null,
+            "\"L'intérieur de la boîte s'est téléporté, miaou !\n G-Genre, comme un transfert dimensionnel, ouaf !\"",
             "\"...?\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
             "\"... miaou ?\"",
