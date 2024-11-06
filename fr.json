@@ -7666,8 +7666,8 @@
             "\"Vous êtes passée avant moi, Madame Sara.\n Vous devriez en être consciente, de même.\""
         ],
         "204-0-message": [
-            null,
-            null,
+            "\"Si quelqu'un à qui je tenais s'était fait tuer lors\n de ce vote... Plutôt que de le pleurer, je me serais\n déchaîné et j'aurais essayé de trouver le coupable !\"",
+            "\"Nao respectait Monsieur Mishima !\n Peut-être que son choc était si fort qu'elle\n a fait un truc bizarre sans s'en rendre compte ?!\"",
             "\"Il est où le rapport ?!\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
             "\"Quelque chose cloche dans ce que j'ai dit ?!\"",
@@ -13811,7 +13811,7 @@
             "\"Elle a dû se faire échanger avec une autre boîte\n que les kidnappeurs ont préparé !\"",
             "\"L'intérieur de la boîte s'est téléporté, miaou !\n G-Genre, comme un transfert dimensionnel, ouaf !\"",
             "\"Est-ce possible... que Nao se fasse manipuler par\n nos kidnappeurs...?\"",
-            "\\C[4](N'y aurait-il aucune piste fiable... ?!)"
+            "\\C[4](N'y aurait-il aucune bonne piste...?!)"
         ],
         "209-0-choice": [
             "Ils étaient véritablement proches\nIls n'étaient pas véritablement proches",
