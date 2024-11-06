@@ -9,8 +9,8 @@ const translationPercent = await fetchTranslationPercentage();
 ---
 
 <Layout
-	title="Your Turn to Die en français"
-	description="Your Turn to Die en français est un projet communautaire visant à traduire le roman visuel écrit par Nankidai."
+	title="Your Turn To Die en français"
+	description="Your Turn To Die en français est un projet communautaire visant à traduire le roman visuel écrit par Nankidai."
 >
 	<Image
 		src={titleClean}
@@ -20,14 +20,14 @@ const translationPercent = await fetchTranslationPercentage();
 			titleClean.width / 2,
 			titleClean.width,
 		]}
-		alt="Écran titre de Your Turn to Die"
+		alt="Écran titre de Your Turn To Die"
 	/>
 	<div class="translation-progress">
 		<span id="translationProgressText">Traduit à <span>{translationPercent}&nbsp;%</span></span>
 		<ProgressBar progress={translationPercent} style={{ height: "1em" }} aria-labelledby="translationProgressText" />
 	</div>
 	<p>
-		<em translate="no">Your Turn to Die</em> est un visual novel d'aventure et d'horreur développé par Nankidai.<br>
+		<em translate="no">Your Turn To Die</em> est un visual novel d'aventure et d'horreur développé par Nankidai.<br>
 		<em>yttd.fr</em> est une initiative communautaire afin de traduire l'intégralité du jeu en français.
 	</p>
 
