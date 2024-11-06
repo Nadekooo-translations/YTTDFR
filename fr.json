@@ -9186,7 +9186,7 @@
             "\"Euh... Où veux-tu en venir...?\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
             "\"De quoi... parlez-vous...?\"",
-            "\\.\\C[4](Je vais d'abord tenter de parler à Keiji...)",
+            "\\.\\C[4](Je devrais d'abord en parler avec Keiji...)",
             "\"De quoi... parlez-vous...?\"",
             "\\.\\C[4](Je devrais d'abord en parler avec Keiji...)",
             "\"Assise dans le noir...\n Je lui posais des questions... encore et encore...\"",
@@ -11337,8 +11337,8 @@
             "\\.\"On a pas l'temps.\n Gin, prouve-nous que t'as été utile !\""
         ],
         "182-0-message": [
-            null,
-            null,
+            "\"Si je vous le montre... vous allez vous inquiéter...\n Et je veux pas que ça arrive, miaou...\"",
+            "\\.\\C[4](Nous inquiéter...?)",
             null,
             null,
             null,
@@ -13836,7 +13836,7 @@
             "\\.\\C[4](Pendant ce temps, quelqu'un est passé par la cuisine...\n A pris le couteau, et est parti...)",
             "\\.\\C[4](Enfin, Nao est allée dans la cuisine avec la boîte\n et s'y est enfermée.)",
             "\\.\\C[4](Est-ce que le timing... correspond ?)",
-            "\\.\"Hmm... C'est peut-être logique ?\n C'est très louche, par contre...\"",
+            "\\.\"Hmm... C'est peut-être possible ?\n C'est très louche, par contre...\"",
             "\\.\"C-Ce n'est pas du tout louche !!\n J-Je vais tout vous raconter !!\"",
             "\\.\"Très bien, Nao...\n Raconte-nous ce que tu as fais dans la cuisine.\"",
             "\"Du début jusqu'à la fin... Je suis restée assise en\n tenant Mons-... La boîte dans mes bras !\n Je n'ai pas bougé de là !!\"",
@@ -13848,6 +13848,64 @@
             "\"..........\"",
             null,
             "\"..........\""
+        ],
+        "181-0-message": [
+            "\"Tu te méprends, Gin !\"",
+            "\\.\"Sur quoi, miaou...?\"",
+            "\\.\\C[4](Il n'a pas tort...!)",
+            "\"Ah, vraiment...?!\n Donc tout ce qu'a dit Reko était faux, alors ?\"",
+            "\\.\"N-Non, miaou !\n M-Mais... j'ai pas...\"",
+            "\"Elle n'a pas pu se tromper !\n Alors, pourquoi est-ce que tu fais autant\n ta tête de mule, Gin...?!\"",
+            "\\.\"Je... Je...!!\"",
+            "\\.\"Je voulais juste... pas y croire !!\""
+        ],
+        "179-0-message": [
+            "\"Non, je vais l'aider !\n Je ne te laisserai pas faire, Q-taro !\"",
+            "\\.\"T'dépasse les limites, là, Sara !!\"",
+            "\\.\\C[4](Rah... Ce n'était pas la bonne chose à faire...!)",
+            "\"Non, c'est un enfant !\n Il faut faire doucement avec lui !\n Tu te comportes irresponsablement !\"",
+            "\\.\"Urgh...!\n C'comme ça qu'tu parles aux adultes, toi ?!\"",
+            "\\.\\C[4](Et donc quoi, je dois traiter les adultes\n différemment aussi ?!)",
+            "\"Gin n'est pas du tout en train de mentir !\"",
+            "\\.\"Décide-toi, Sara, arrête d'changer d'avis !!\"",
+            "\\.\\C[4](Rah... Ce n'était pas la bonne chose à faire...!)"
+        ],
+        "178-0-message": [
+            "\"Q-taro a raison !\n Dis ce que tu veux, mais dis quelque chose !\n Tu ne peux pas continuer comme ça !\"",
+            "\\.\"Mais... Mais je...\"",
+            "\"C'est vrai ! Ce n'est pas une question d'âge !\"",
+            "\\.\"..........\"",
+            "\\.\\C[4](Gin se renferme encore plus sur lui-même...!)",
+            "\"Tout à fait ! Dis la vérité, Gin !\"",
+            "\\.\"... Vous êtes méchants, miaou...\n Vous me mettez tout le temps la pression...\"",
+            "\\.\\C[4](Gin est au bord des larmes...!)"
+        ],
+        "180-0-message": [
+            "\"C'est exactement ça, Gin !\"",
+            "\\.\"Il a littéralement rien dit !!\"",
+            "\\.\\C[4](Rah... Ce n'était pas la bonne chose à faire...!)",
+            "\"Tu n'as vraiment rien vu, alors !\"",
+            "\\.\"Donc on est d'accord, Reko est qu'une menteuse !!\"",
+            "\\.\\C[4](Urgh... Quelle insulte...!)",
+            "\"C'est ça !\n Ça arrive à tout le monde de faire des erreurs !\"",
+            "\\.\"Tu t'imagines vraiment qu'ça va nous convaincre ?!\"",
+            "\\.\\C[4](Ce n'est pas une bonne justification...!)"
+        ],
+        "216-0-message": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.\\C[4](Rah... Ce n'était pas la bonne chose à faire...!)"
+        ],
+        "215-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Rah... Ce n'était pas la bonne chose à faire...!)"
         ]
     },
     "map107": {
