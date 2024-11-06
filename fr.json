@@ -9186,7 +9186,7 @@
             "\"Euh... Où veux-tu en venir...?\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
             "\"De quoi... parlez-vous...?\"",
-            null,
+            "\\.\\C[4](Je vais d'abord tenter de parler à Keiji...)",
             "\"De quoi... parlez-vous...?\"",
             "\\.\\C[4](Je devrais d'abord en parler avec Keiji...)",
             "\"Assise dans le noir...\n Je lui posais des questions... encore et encore...\"",
