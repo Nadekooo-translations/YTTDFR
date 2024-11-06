@@ -7691,7 +7691,7 @@
             "\\.\\C[4](Ouais... Peut-être. Si c'est à cause de \\C[2]quelqu'un\\C[4],\n s'énerver est une réaction naturelle.)"
         ],
         "205-0-message": [
-            "\"Est-ce possible... que Nao soit manipulée par\n nos kidnappeurs...?\"",
+            "\"Est-ce possible... que Nao se fasse manipuler par\n nos kidnappeurs...?\"",
             "\"...?\n Sans commentaire, Sara.\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
             "\"Ahahah, euh... C'est censé contrer quoi que ce soit ?\"",
@@ -13809,8 +13809,8 @@
             "\"Je... Je n'étais plus moi-même, mais...\n Je n'ai rien fait de suspect !\n Et... Je ne sais pas pourquoi elle a disparu !!\"",
             "\"Nao respectait Monsieur Mishima !\n Peut-être que son choc était si fort qu'elle\n a fait un truc bizarre sans s'en rendre compte ?!\"",
             "\"Elle a dû se faire échanger avec une autre boîte\n que les kidnappeurs ont préparé !\"",
-            "\"L'intérieur de la boîte a fait une distortion, miaou !\n G-genre un transfert dimensionnel, ouaf !\"",
-            "\"Est-ce possible... que Nao soit manipulée par\n nos kidnappeurs...?\""
+            "\"L'intérieur de la boîte s'est téléporté, miaou !\n G-Genre, comme un transfert dimensionnel, ouaf !\"",
+            "\"Est-ce possible... que Nao se fasse manipuler par\n nos kidnappeurs...?\""
         ],
         "209-0-choice": [
             "Ils étaient véritablement proches\nIls n'étaient pas véritablement proches",
