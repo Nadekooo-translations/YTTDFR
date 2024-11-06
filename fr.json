@@ -8782,7 +8782,8 @@
             "\"...?\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
             "\"... miaou ?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\"Ce lieu doit être un manoir high-tech, miaou !\""
         ],
         "220-0-message": [
             "\"Sara et Joe sont aussi du côté des kidnappeurs.\"",
@@ -9342,7 +9343,8 @@
             "Utiliser l'objet sélectionné\nAnnuler",
             "Mémoriser la déclaration\nAnnuler",
             "Oublier la déclaration mémorisée\nAnnuler",
-            "Appliquer la déclaration mémorisée\nAnnuler"
+            "Appliquer la déclaration mémorisée\nAnnuler",
+            "Étais-tu triste ?\nÉtais-tu en colère ?"
         ],
         "220-0-choice": [
             "Utiliser l'objet sélectionné\nAnnuler",
