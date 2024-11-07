@@ -13929,7 +13929,8 @@
             "\\.\"Non, ce n'est donc pas une possibilité.\"",
             "\\.\\C[4](Argh... Il ne sait vraiment pas le faire ?!)",
             "\"C'est faux ! Si tu \\C[2]avais le couteau de cuisine\\C[0],\n tu aurais pu la menacer !\"",
-            "\\.\"Alors supposons que je puisse la menacer.\n Quel interêt aurais-je à attaquer Sou par\n le biais de Madame Nao ?\""
+            "\\.\"Alors supposons que je puisse la menacer.\n Quel interêt aurais-je à attaquer Sou par\n le biais de Madame Nao ?\"",
+            "\"C'est faux ! Tu as poussé Nao à le faire à ta place\n parce qu'il était possible que Sou voit ton visage.\""
         ],
         "214-0-message": [
             "\"Kai a vraiment raison.\n On peut rien faire pour toi, Nao.\"",
