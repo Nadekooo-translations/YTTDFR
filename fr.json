@@ -13911,15 +13911,21 @@
             "\\.\\C[4](Ce n'est pas une bonne justification...!)"
         ],
         "216-0-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\\C[4](Rah... Ce n'était pas la bonne chose à faire...!)"
+            "\"Comme Nao l'a dit, elle n'aurait pas pu\n entrer dans la cuisine ! Elle était fermée !\"",
+            "\\.\"Moi non plus. La clé se trouvait \\C[2]derrière les\n barreaux du premier étage\\C[0], correct ?\"",
+            "\\.\"Mais je n'y suis pas allé.\n Comment expliquez-vous donc que la clé s'y trouve ?\"",
+            "\"Mais bien sûr !\n Les barreaux n'étaient qu'à l'entrée du couloir !\n Tu l'as simplement jetée au travers !\"",
+            "\\.\"Vraiment...? Je vois...\"",
+            "\\.\"Cependant, j'aimerais que vous m'informiez d'une chose.\n Supposons que j'ai emmené Madame Nao dans la cuisine.\n Pensez-vous vraiment que je pouvais la menacer ?\"",
+            "\"Si elle n'a pas été menacée, pourquoi aurait-elle\n attaqué Sou ?!\"",
+            "\\.\"C'est ce que j'aimerais savoir.\"",
+            "\\.\\C[4](Rah... Ce n'était pas la bonne chose à faire...!)",
+            "\"Peut-être que Kai et Sou étaient en conflit !\"",
+            "\\.\"Il n'y a rien de la sorte.\"",
+            "\\.\\C[4](Je n'ai aucune preuve...!)",
+            "\"Kai a fait ça... pour briser notre harmonie !\"",
+            "\\.\"Avez-vous des preuves ?\"",
+            "\\.\\C[4](Urgh...!)"
         ],
         "215-0-message": [
             "\"Nao dit la vérité !\"",
@@ -13930,7 +13936,12 @@
             "\\.\\C[4](Argh... Il ne sait vraiment pas le faire ?!)",
             "\"C'est faux ! Si tu \\C[2]avais le couteau de cuisine\\C[0],\n tu aurais pu la menacer !\"",
             "\\.\"Alors supposons que je peux la menacer.\n Quel intérêt aurais-je eu à attaquer Monsieur Sou\n par le biais de Madame Nao ?\"",
-            "\"C'est faux ! Tu as poussé Nao à le faire à ta place\n parce qu'il était possible que Sou voit ton visage.\""
+            "\"Non ! Tu as poussé Nao à le faire à ta place\n pour éviter que Sou te voit.\"",
+            "\\.\"Mais c'est précisément à cause de cela que l'on\n me suspecte. Si je l'avais fait moi-même, j'aurais\n été bien plus prudent et on ne m'aurait pas remarqué.\"",
+            "\\.\\C[4](Il serait pas en train de dire ça\n en rétrospective...?!)",
+            "\"Non, c'était pour une autre raison !\"",
+            "\\.\"Je n'ai pas la moindre idée de ce dont vous parlez.\n Éclairez-moi, s'il vous plaît.\"",
+            "\\.\\C[4](Sara... Réfléchis... Trouve quelque chose...!)"
         ],
         "214-0-message": [
             "\"Kai a vraiment raison.\n On peut rien faire pour toi, Nao.\"",
@@ -13949,6 +13960,14 @@
             "\"Alors tu l'admets, Kai !\"",
             "\\.\"Oh ? À quoi faites-vous donc référence ?\"",
             "\"Kai, tu cherchais à mettre la main sur \\C[2]l'ordinateur\n portable\\C[0] que Sou avait trouvé !\""
+        ],
+        "217-0-message": [
+            "\"Faux ! Tu aurais pu passer par la fenêtre !\"",
+            "\\.\"Mais elle n'est pas cassééééée !!\"",
+            "\\.\\C[4](Maintenant qu'elle le dit...!)",
+            "\"Non, jeter une clé ?!\n Et si quelqu'un se la prenait ?!\"",
+            "\\.\"C-C'est vraiment ça qui te dérange...?\"",
+            "\\.\\C[4](Ma politesse me trahit...!)"
         ]
     },
     "map107": {
