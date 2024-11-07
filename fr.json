@@ -13929,8 +13929,8 @@
         "214-0-message": [
             "\"Kai a vraiment raison.\n On peut rien faire pour toi, Nao.\"",
             "\\.\"Sara, pitié, crois-moi !!\"",
-            "\\.\"Juste ciel, vous persistez à ne pas l'admettre ?\"",
-            null,
+            "\\.\"Juste ciel, vous persistez à refuser de l'admettre ?\"",
+            "\\.\\C[4](Ça ne suffit pas à faire pencher la faveur\n d'un côté...!)",
             "\"C'est tout à fait possible.\n Avec tes talents de crochetage, Kai !\""
         ]
     },
