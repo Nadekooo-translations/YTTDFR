@@ -38,6 +38,9 @@ jobs:
           sed -i 's/"LanguageCodes":"\[/"LanguageCodes":"[\\"FR\\",/' yttd/www/js/plugins.js
           sed -i 's/"DefaultLanguage":"EN"/"DefaultLanguage":"FR"/' yttd/www/js/plugins.js
 
+      - name: Balance Battle Horizontal Text Patching in yttd/www/js/plugins/CustomTranslationEngine.js
+        run: sed -i 's/var horizontalLanguages = \[ "EN" \];/var horizontalLanguages = \[ "EN", "FR" \];/g' yttd/www/js/plugins/CustomTranslationEngine.js
+
       - name: Patching Animations.json
         run: node tools/apply-animation-patch.mjs
 
