@@ -11635,7 +11635,7 @@
         ],
         "278-0-message": [
             "Keiji Shinogi\nNotre soi-disant \"ami le policier\"...\nIl semblerait que ce soit un flic.",
-            "\\.Son allure décontractée semble inexplicablement louche.\nJ'ai l'impression qu'il essaie d'inciter les autres à\nme faire confiance.",
+            "\\.Son allure décontractée semble étrangement louche.\nJ'ai l'impression qu'il essaie d'inciter les autres à\nme faire confiance.",
             "\\.Mais... Juste avant la Roulette Russe, il a avoué\navoir tiré sur quelqu'un. Il ne serait apparemment\nplus capable d'utiliser d'armes à feu depuis."
         ],
         "279-0-message": [
@@ -12546,11 +12546,11 @@
             "\\.\\C[4](Pas de réponse...)",
             "\"Après l'annonce de la récupération du corps,\n je me suis enfuie avec la boîte vers la cafétéria.\n Là-bas...\"",
             "\\.\"Kai m'a soudainement saisie par la main\n et m'a poussée dans la cuisine.\"",
-            "\"Restez silencieuse...\n Si vous vous cachez ici, personne ne vous trouvera.\"",
+            "\"Pas un bruit...\n Si vous vous cachez ici, personne ne vous trouvera.\"",
             "\"D-D'accord...\"",
             "\\.\"Kai m'a protégée...\"",
             "\\.\"Il est tout à fait admirable de votre part\n de tenir tête à nos ravisseurs, Madame Nao.\"",
-            "\\.\"Ne le dis à personne !! Je t'en prie !!\"",
+            "\\.\"Ne dis rien à personne !! Je t'en supplie !!\"",
             "\\.\"Lorsque Kai a saisi la situation, il m'a proposé\n un marché.\"",
             "\\.\"Dans ce cas, Madame Nao, pourriez-vous\n me rendre un service ?\"",
             "\\.\"Q-Quel genre de service...?\"",
