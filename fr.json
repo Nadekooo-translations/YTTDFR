@@ -2865,13 +2865,13 @@
             "\\.\"... Hein ? S-Sérieux...?\n Ouais, okay...\"",
             "\\.\"De même, je vais retourner à mes recherches.\"",
             "\\.\"Monsieur Mishima...\"",
-            "\\.\"Non, c'est moi qui suis reconnaissant envers vous...\"",
+            "\\.\"Non, c'est moi qui vous suis reconnaissant...\"",
             "\\.\"Vous pensez ?\n ... Quel adulte désespéré je suis devenu...\"",
             "\\.\"C'est grâce à votre coopération que\n j'ai pu intervenir.\"",
             "\\.\"Nan, j'ai rien pu faire...\"",
             "\\.\"Sara. Comprenez-vous la raison pour laquelle\n Kanna vous a posé cette question ?\"",
             "\\.\"Hein...?\"",
-            "\\.\"Parce que vous ressemblez probablement à sa sœur.\n Ce qui expliquerait pourquoi elle voulait\n vous l'entendre dire.\"",
+            "\\.\"Vous ressemblez probablement à sa sœur.\n Cela expliquerait pourquoi elle voulait\n vous l'entendre le dire.\"",
             "\\.\"... Ah bon...?\"",
             "\\.\"Sara...\"",
             "\\.\"Jusqu'à ce que nous nous échappions...\n Je vous prie de jouer le rôle de la grande\n sœur pour Kanna.\"",
@@ -3862,7 +3862,7 @@
             "\\C[3]Un torse de poupée est posé contre le mur.",
             "\\.\"I-Il ne va pas se mettre à bouger, hein...?\"",
             "\\.\"Je me demande si c'est...\"",
-            "\\.\"Tu te rappelles la note que Keiji avait lu ?\"",
+            "\\.\"Tu te rappelles la note que Keiji avait lue ?\"",
             "\\.\"Trouver le \\C[2]corps\\C[0]...!\n C'est vrai, il y avait une note.\"",
             "\"Ton imagination est incroyablement,\n sauvagement tordue.\"",
             "\\.\"Sauvagement tordue...?\"",
@@ -5783,7 +5783,7 @@
         ],
         "2-1-message": [
             "\"Il fait sombre, ici, hein ?\n Il n'y a que cette lampe pour éclairer les environs.\"",
-            "\\.\"C'est quoi que tu voulais me montrer ?\"",
+            "\\.\"Qu'est-ce que tu voulais me montrer ?\"",
             "\\.\"Regarde ce qu'il y a sur le bureau.\""
         ],
         "3-1-message": [
