@@ -424,7 +424,7 @@
         "name_３通目のメール": "3ème Émail",
         "name_背後の声": "Voix de Derrière",
         "name_変なおっさん": "Homme Étrange",
-        "itemextradesc42": "Sage : Grâce à une sainte divination, il sait qui est le Maître des Clés,\\nmais ne peut mentir sur le résultat d'une divination.",
+        "itemextradesc42": "Sage : Grâce à une révélation divine, il sait qui est\\nle Maître des Clés, mais il n'a pas le droit\\nde mentir à propos de son résultat.",
         "itemdesc59": "Le portrait d'une personne tenant un pistolet.\\nIl y a une autre peinture au dos.",
         "itemdesc61": "Un vaporisateur.\\nDes gouttelettes d'eau y sont collées.",
         "itemdesc71": "Une carte qui indique :\\n\"Il s'agit d'une clé vers la sortie.\"\\nJe mourrai si quelqu'un apprend qu'elle existe.",
@@ -7876,34 +7876,44 @@
             "\\.\"... Comment ? Si tu veux, mais...\""
         ],
         "253-0-message": [
-            null,
-            null,
+            "\"T'as moyen de déterminer leurs rôles ?\"",
+            "\"Sou et Kanna sont de mèche.\n ... J'en ai aucun doute.\"",
             "\"Sara, c'est pas vraiment le moment de me filer ça.\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
-            null,
+            "\"Hmm... Je pense pas que ce soit ça.\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
-            null,
+            "\"Hmm... Je pense pas que ce soit ça.\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
-            null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\"Hmm... Je pense pas que ce soit ça.\"",
+            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\"... Je serai là jusqu'à la dernière seconde.\"",
+            "\"Je vois rapide... Mais je connais pas leurs rôles.\"",
+            "\\.\"Si seulement y avait un moyen de les déterminer...\"",
+            "\\.\\C[4](Est-il vraiment possible de trouver leurs rôles...?)",
+            "\"... Oh, vraiment ?\"",
+            "\\.\"... Tant mieux.\n Je vais tenir le coup jusqu'à ce que tu réussisses\n à résoudre tout ça alors, Sara...\"",
+            "\"... Fallait s'en douter.\""
         ],
         "254-0-message": [
-            null,
-            null,
+            "\"J'allais croire Joe, mais...\n C'vraiment lui, l'\\C[3]Sage\\C[0] ?!\"",
+            "\"Sara !\n T'crois vraiment qu'c'est le moment d'me montrer ça ?!\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
             "\"J'vois pas trop le rapport, moi !\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\"J'pense qu'y a même moyen que Joe soit l'\\C[10]Sacrifice\\C[0]...!\n Grgggh...!\"",
+            "\\.\"Réfléchir... Faut réfléchir...!!\""
         ],
         "255-0-message": [
-            null,
+            "\"Kanna...\n Elle se fait manipuler par l'autre gars au bonnet !\n Il veut la dégager ! Votez pas pour elle !\"",
             "\"D-Désolée...! Je capte pas...!\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
             "\"Elle a quoi, ta déclaration...?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\"Je me demande si l'autre au bonnet compte\n buter Kanna pour sauver son cul...\""
         ],
         "256-0-message": [
-            null,
-            null,
+            "\"Si seulement on pouvait regarder ce qu'il y avait\n sur leurs cartes... On pourrait connaître leurs\n rôles...\"",
+            "\"On... On ne peut pas déterminer leurs rôles en\n aussi peu de temps !\"",
             "\"Euh... Où veux-tu en venir...?\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
             "\"Euuh... Je ne te suis pas trop...\"",
@@ -7911,14 +7921,20 @@
             "\"Euuh... Je ne te suis pas trop...\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
             "\"Euuh... Je ne te suis pas trop...\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\"Si on pouvait faire ça...\n On aurait su les rôles dès le début...\"",
+            "\"Aaah...\n Je ne sais pas comment, mais...\n On doit les déterminer de manière logique...\"",
+            "\\.\"Si seulement on pouvait regarder ce qu'il y avait\n sur leurs cartes... On pourrait connaître leurs\n rôles...\"",
+            "\\.\\C[4](Ce qu'il y a sur les cartes...?!)",
+            "\"D-D'accord !\""
         ],
         "257-0-message": [
-            null,
+            "\"Celui au tablier a parlé en dernier, il est louche,\n miaou ! Il ment, c'est sûr, ouaf !\"",
             "\"... Quoi, miaou ?!\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
             "\"... miaou ?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\"Il a dû réaliser que comme il serait le dernier sans\n rôle, il serait choisi par élimination, miaou !\""
         ],
         "471-0-message": [
             "\"Déclaration extraite\"",
@@ -8142,7 +8158,7 @@
             "\\.\\C[4](Mince...! C'était une erreur !)",
             "\"Une remarque futile...\n En quoi cela prouve-t-il quoi que ce soit ?\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
-            null,
+            "\"Voici le dialogue en utilisant Extraire sur\n une nouvelle déclaration.\"",
             "\"Tu souhaites extraire une nouvelle déclaration,\n n'est-ce pas ?\"",
             "\\.\"Quand cette ligne sera finie, ça le feraaaa\"",
             "\\.\\C[4](J'ai extrait une nouvelle déclaration...!)"
@@ -8890,15 +8906,16 @@
             "\\.\"Si le \\C[2]Maître des Clés\\C[0] est sélectionné pour victime,\n tout le monde meurt.\"",
             "\\.\"Si la victime est le \\C[10]Sacrifice\\C[0], le \\C[10]Sacrifice\\C[0] gagne.\n Il peut s'échapper avec une personne de son choix...\n Mais les autres meurent.\"",
             "\\.\"Si la victime est un \\C[4]Roturier\\C[0] ou le \\C[3]Sage\\C[0],\n tout le monde s'en sort sauf elle et le \\C[10]Sacrifice\\C[0]...\"",
-            "\\.\"C'est à peu près tout.\n C'est écrit dans le manuel.\"",
+            "\\.\"C'est à peu près tout.\n C'est écrit dans le manuel des règles du jeu.\"",
             "\\.\\C[3]> Dans votre inventaire, lorsque vous sélectionnez\n  un objet, vous pouvez consulter la deuxième page\n  de sa description en touchant cette dernière."
         ],
         "258-0-message": [
-            null,
-            null,
+            "\"Ghh...! Ça me gêne de l'admettre, mais puisque Sou\n et Sara peuvent être le \\C[2]Maître des Clés\\C[0],\n nous ne devrions pas voter pour eux...!\"",
+            "\"Allons, allons...\n Ce n'est pas moi que tu devrais attaquer, correct ?\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
             "\"Une remarque futile...\n En quoi cela prouve-t-il quoi que ce soit ?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\"Mais... Quel choix est le plus sûr, alors...?!\""
         ],
         "476-0-message": [
             null,
@@ -9501,7 +9518,8 @@
             "Utiliser l'objet sélectionné\nAnnuler",
             "Mémoriser la déclaration\nAnnuler",
             "Oublier la déclaration mémorisée\nAnnuler",
-            "Appliquer la déclaration mémorisée\nAnnuler"
+            "Appliquer la déclaration mémorisée\nAnnuler",
+            "C'est possible\nC'est impossible"
         ],
         "254-0-choice": [
             "Utiliser l'objet sélectionné\nAnnuler",
@@ -9519,7 +9537,8 @@
             "Utiliser l'objet sélectionné\nAnnuler",
             "Mémoriser la déclaration\nAnnuler",
             "Oublier la déclaration mémorisée\nAnnuler",
-            "Appliquer la déclaration mémorisée\nAnnuler"
+            "Appliquer la déclaration mémorisée\nAnnuler",
+            "L'ajouter à la déclaration\nAnnuler"
         ],
         "257-0-choice": [
             "Utiliser l'objet sélectionné\nAnnuler",
@@ -9535,17 +9554,21 @@
         ],
         "262-0-choice": [
             "Utiliser l'objet sélectionné\nAnnuler",
-            null,
+            "Affliger le coup de grâce\nAnnuler\nRéfléchir profondément",
             "Mémoriser la déclaration\nAnnuler",
             "Oublier la déclaration mémorisée\nAnnuler",
-            "Appliquer la déclaration mémorisée\nAnnuler"
+            "Appliquer la déclaration mémorisée\nAnnuler",
+            "Affliger le coup de grâce\nAnnuler\nRéfléchir profondément",
+            "Affliger le coup de grâce\nAnnuler\nRéfléchir profondément"
         ],
         "264-0-choice": [
             "Utiliser l'objet sélectionné\nAnnuler",
-            null,
+            "Affliger le coup de grâce\nAnnuler\nRéfléchir profondément",
             "Mémoriser la déclaration\nAnnuler",
             "Oublier la déclaration mémorisée\nAnnuler",
-            "Appliquer la déclaration mémorisée\nAnnuler"
+            "Appliquer la déclaration mémorisée\nAnnuler",
+            "Affliger le coup de grâce\nAnnuler\nRéfléchir profondément",
+            "Affliger le coup de grâce\nAnnuler\nRéfléchir profondément"
         ],
         "471-0-choice": [
             "Utiliser l'objet sélectionné\nAnnuler",
@@ -10328,17 +10351,21 @@
         ],
         "261-0-choice": [
             "Utiliser l'objet sélectionné\nAnnuler",
-            null,
+            "Affliger le coup de grâce\nAnnuler\nRéfléchir profondément",
             "Mémoriser la déclaration\nAnnuler",
             "Oublier la déclaration mémorisée\nAnnuler",
-            "Appliquer la déclaration mémorisée\nAnnuler"
+            "Appliquer la déclaration mémorisée\nAnnuler",
+            "Affliger le coup de grâce\nAnnuler\nRéfléchir profondément",
+            "Affliger le coup de grâce\nAnnuler\nRéfléchir profondément"
         ],
         "263-0-choice": [
             "Utiliser l'objet sélectionné\nAnnuler",
-            null,
+            "Affliger le coup de grâce\nAnnuler\nRéfléchir profondément",
             "Mémoriser la déclaration\nAnnuler",
             "Oublier la déclaration mémorisée\nAnnuler",
-            "Appliquer la déclaration mémorisée\nAnnuler"
+            "Appliquer la déclaration mémorisée\nAnnuler",
+            "Affliger le coup de grâce\nAnnuler\nRéfléchir profondément",
+            "Affliger le coup de grâce\nAnnuler\nRéfléchir profondément"
         ],
         "476-0-choice": [
             "Utiliser l'objet sélectionné\nAnnuler",
@@ -11055,25 +11082,25 @@
             "\\.\"...\""
         ],
         "265-0-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\"..........\"",
+            "\\.\\C[3]En ce moment même, dans ma tête...\nJe fais face à la pire issue possible.",
+            "\\.\\C[3]Mon raisonnement est incertain.",
+            "\\.\\C[3]Une faille imparfaite dans les règles des kidnappeurs.",
+            "\\.\\C[3]Si mes hypothèses sont correctes, tout est fini.",
+            "\\.\\C[3]Ce serait échec et mat.",
+            "\\.\\C[4](Je vous en supplie... Faites que je me trompe...!!)",
+            "\\.\\C[4](Je n'ai d'autre choix... que d'aller de l'avant !!)",
+            "\\.\"Kai...\"",
+            "\\.\"Oui...?\"",
+            "\\.\"Donne-moi... les résultats de ta révélation...\n S'il te plaît...\"",
+            "\\.\"..........\"",
+            "\\.\"Laisse tomber, Sara !!\n Parler à Kai, c'est qu'une perte de temps !\n Ais confiance en moi !!\"",
+            "\\.\"....................\"",
+            "\\.\"... Tu ne vas rien dire, pas vrai, Kai ?\"",
+            "\\.\"Peut-être parce que... tu ne peux pas le dire...?\"",
             "\\.\"...\"",
-            null,
-            null,
+            "\\.\"Quess' tu-?!\"",
+            "\\.\"Voilà ce que disent les Règles du Jeu 2...\"",
             null,
             null,
             "\\.\"...\"",
@@ -11551,27 +11578,36 @@
             "\\.\"Ça, pour une surprise.\n Comme quoi, ça vaut le coup de mettre la pression\n aux gens louches.\""
         ],
         "259-0-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\"...\""
+            "\"Ce qu'y a sur les cartes...?\"",
+            "\\.\"..........\"",
+            "\\.\"Peut-être que...\"",
+            "\\.\"Héhihi... Il vous reste 3 minutes !\"",
+            "\\.\"Va falloir tout miser sur ça...\"",
+            "\\.\"Écoutez, tout le monde.\n Ce sont les délibérations finales.\"",
+            "\\.\"..........\"",
+            "\\.\"Joe, je peux te poser une question ?\"",
+            "\\.\"V-Vas-y ! Demande-moi ce que tu veux !\"",
+            "\\.\"Y a quoi sur la carte du \\C[2]Maître des Clés\\C[0]...\n En gros, c'est quoi l'\\C[2]image\\C[0] sur la carte?\"",
+            "\\.\"...!!\"",
+            "\\.\"Hein ? Tu peux répondre, pas vrai ?\n Tu es le \\C[3]Sage\\C[0], après tout...\"",
+            "\\.\"..........\"",
+            "\\.\"Bien joué, Keiji !\n Tu as réussi à déjouer ses mensonges en\n une seule question !\"",
+            "\\.\"Hé, me prends pas à la légère !\"",
+            "\\.\"C'est une clé, bien sûr !!\"",
+            "\\.\"Ahahahahahah !!\"",
+            "\\.\"Il s'appelle le \\C[2]Maître des Clés\\C[0] donc il\n y a une clé dessus, c'est ça...?\n Raté. En vérité...\"",
+            "\\.\"..........\"",
+            "\\.\"Kanna... Qu'est-ce que tu as vu ?\"",
+            "\\.\"...\"",
+            "\\.\"J'ai vu... un \\C[2]verrou\\C[0].\"",
+            "\\.\"... C'est bien ça.\n Le \\C[2]Maître des Clés\\C[0] est représenté par un \\C[2]verrou\\C[0]...\"",
+            "\\.\"Tu t'es loupé à la toute fin, Joe.\"",
+            "\\.\"D-De quoi tu parles ?!\"",
+            "\\.\"Je l'ai vue, j'en suis sûr !!\n C'était une clé !!\"",
+            "\\.\"... On est à court de temps.\"",
+            "\\.\"C'est ta dernière chance, Sara.\"",
+            "\\.\\C[4](Ma dernière...!\n On n'a plus le temps d'obtenir des déclarations...!)",
+            "\\.\\C[4](Je dois donner mon coup de grâce immédiatement,\n ou on perd tous...!)"
         ],
         "273-0-message": [
             "\\C[3]... Le vote est désormais terminé.",
@@ -14356,7 +14392,7 @@
             "\\.\"Mais... Si c'est la vérité...\n Tu l'as balancé, Sara !!\n Pour que tu puisses survivre !!\"",
             "\\.\"C'est faux !!\"",
             "\\.\"Sara... essaie de tous nous sauver !\n C'est pas une égoïste !\n Elle est pas comme ça !!\"",
-            "\\.\"H-Hé, mais...\n Tout ça, c'juste des suppositions, nan...?!\"",
+            "\\.\"H-Hé, mais...\n C'juste l'explication la plus probable, ça, nan...?!\"",
             "\\.\"Joe ! T'vas pas l'admettre, si...?!\"",
             "\\.\"... On dirait que j'ai plus le choix.\"",
             "\\.\"Mais ! J'compte pas mourir ici !!\"",
@@ -14370,8 +14406,46 @@
             "\\.\\C[4](Ah...)",
             "\\.\"...!!!!\"",
             "\\.\"Joe a vu que Sara est le \\C[2]Maitre des Clés\\C[0].\n C'est pour ça qu'il savait que voter pour elle\n finirait en massacre.\"",
-            null,
-            "\\.\"..........\""
+            "\\.\"Après, c'est que l'explication la plus probable...\n Tu penses pouvoir la contrer ?\"",
+            "\\.\"..........\"",
+            "\\.\"... Je...\"",
+            "\\.\"Au final...\n Je suis pas capable garder un secret, on dirait.\"",
+            "\\.\"Joe !! Attends...!!\"",
+            "\\.\\C[4](C'est terrible... P-Pourquoi...)",
+            "\\.\"Mais t'as pas encore baissé les bras, pas vrai ?\"",
+            "\\.\"Bien sûr que nan !!\"",
+            "\\.\"Hé, tout le monde !! Promettez-moi une chose !!\"",
+            "\\.\"C-Comment ça ?!\"",
+            "\\.\"C'est moi le Sage !\n J'ai bel et bien eu une révélation !\n Mais je vous ai jamais donné son résultat !\"",
+            "\\.\"Et c'est parce que... \\C[2]le \\C[3]Sage\\C[2] n'a pas le droit de\n mentir à propos des résultats de sa révélation\\C[0].\"",
+            "\\.\"Je veux bien vous dire... qui est le\n \\C[2]Maître des Clés\\C[0] !!\"",
+            "\\.\"Mais en échange, votez pas pour moi !!\"",
+            "\\.\"J'suis partant !! Vas-y, dis-nous qui c'est !!\"",
+            "\\.\"Le Maître des Clés... est...!\"",
+            "\\.\\C[4](Joe...?)",
+            "\\.\\C[4](P-Pourquoi je suis autant nerveuse...?)",
+            "\\.\\C[4](...)",
+            "\\.\"Sara, bien évidemment !!\"",
+            "\\.\\C[4](Joe...!)",
+            "\\.\"Niqueeel !! On a plus qu'à trouver qui est\n l'Sacrifice entre Sou, Kanna et Kai...\"",
+            "\\.\"Eum...\"",
+            "\\.\"Je suis... le Sage.\"",
+            "\\.\"Miaou ?!\"",
+            "\\.\"Ma vision m'a montré... que Sou est le \\C[2]Maître de Clés\\C[0].\"",
+            "\\.\"H-Hé...\"",
+            "\\.\"Non, non, je suis le Sage.\n Madame Sara est le \\C[2]Maître des Clés\\C[0].\"",
+            "\\.\"J'ai la tête qui tourne, ouaaaaaf !!\"",
+            "\\.\"Héhihi. Il vous reste 8 minutes, tout le monde.\n Ahahah.\"",
+            "\\.\"Bon, vous cinq, arrêtez de donner vos déclarations.\n On va d'abord parler de tout ça entre nous.\"",
+            "\\.\"Vite ! On a pas le temps !!\"",
+            "\\.\"Sou et Kanna sont de mèche.\n ... J'en ai aucun doute.\"",
+            "\\.\"K-Keiji !!\n Y a pas moyen que Kanna nous veuille du mal !\"",
+            "\\.\"Kanna...\n Elle se fait manipuler par l'autre gars au bonnet !\n Il veut la dégager ! Votez pas pour elle !\"",
+            "\\.\"Je sais, ouaf !\"",
+            "\\.\"Celui au tablier a parlé en dernier, il est louche,\n miaou ! Il ment, c'est sûr, ouaf !\"",
+            "\\.\"J'allais croire Joe, mais...\n C'vraiment lui, l'\\C[3]Sage\\C[0] ?!\"",
+            "\\.\"On... On ne peut pas déterminer leurs rôles en\n aussi peu de temps !\"",
+            "\\.\"Ghh...! Ça me gêne de l'admettre, mais puisque Sou\n et Sara peuvent être le \\C[2]Maître des Clés\\C[0],\n nous ne devrions pas voter pour eux...!\""
         ],
         "585-0-message": [
             null,
@@ -14444,7 +14518,7 @@
             "\\.\"Mais... Si c'est la vérité...\n Tu l'as balancé, Sara !!\n Pour que tu puisses survivre !!\"",
             "\\.\"C'est faux !!\"",
             "\\.\"Sara... essaie de tous nous sauver !\n C'est pas une égoïste !\n Elle est pas comme ça !!\"",
-            "\\.\"H-Hé, mais...\n Tout ça, c'juste des suppositions, nan...?!\"",
+            "\\.\"H-Hé, mais...\n C'juste l'explication la plus probable, ça, nan...?!\"",
             "\\.\"Joe ! T'vas pas l'admettre, si...?!\"",
             "\\.\"... On dirait que j'ai plus le choix.\"",
             "\\.\"Mais ! J'compte pas mourir ici !!\"",
@@ -14457,7 +14531,47 @@
             "\\.\"C'est Joe le \\C[3]Sage\\C[0], tout le monde.\"",
             "\\.\\C[4](Ah...)",
             "\\.\"...!!!!\"",
-            "\\.\"Joe a vu que Sara est le \\C[2]Maitre des Clés\\C[0].\n C'est pour ça qu'il savait que voter pour elle\n finirait en massacre.\""
+            "\\.\"Joe a vu que Sara est le \\C[2]Maitre des Clés\\C[0].\n C'est pour ça qu'il savait que voter pour elle\n finirait en massacre.\"",
+            "\\.\"Après, c'est que l'explication la plus probable...\n Tu penses pouvoir la contrer ?\"",
+            "\\.\"..........\"",
+            "\\.\"... Je...\"",
+            "\\.\"Au final...\n Je suis pas capable garder un secret, on dirait.\"",
+            "\\.\"Joe !! Attends...!!\"",
+            "\\.\\C[4](C'est terrible... P-Pourquoi...)",
+            "\\.\"Mais t'as pas encore baissé les bras, pas vrai ?\"",
+            "\\.\"Bien sûr que nan !!\"",
+            "\\.\"Hé, tout le monde !! Promettez-moi une chose !!\"",
+            "\\.\"C-Comment ça ?!\"",
+            "\\.\"C'est moi le Sage !\n J'ai bel et bien eu une révélation !\n Mais je vous ai jamais donné son résultat !\"",
+            "\\.\"Et c'est parce que... \\C[2]le \\C[3]Sage\\C[2] n'a pas le droit de\n mentir à propos des résultats de sa révélation\\C[0].\"",
+            "\\.\"Je veux bien vous dire... qui est le\n \\C[2]Maître des Clés\\C[0] !!\"",
+            "\\.\"Mais en échange, votez pas pour moi !!\"",
+            "\\.\"J'suis partant !! Vas-y, dis-nous qui c'est !!\"",
+            "\\.\"Le Maître des Clés... est...!\"",
+            "\\.\\C[4](Joe...?)",
+            "\\.\\C[4](P-Pourquoi je suis autant nerveuse...?)",
+            "\\.\\C[4](...)",
+            "\\.\"Sara, bien évidemment !!\"",
+            "\\.\\C[4](Joe...!)",
+            "\\.\"Niqueeel !! On a plus qu'à trouver qui est\n l'Sacrifice entre Sou, Kanna et Kai...\"",
+            "\\.\"Eum...\"",
+            "\\.\"Je suis... le Sage.\"",
+            "\\.\"Miaou ?!\"",
+            "\\.\"Ma vision m'a montré... que Sou est le \\C[2]Maître de Clés\\C[0].\"",
+            "\\.\"H-Hé...\"",
+            "\\.\"Non, non, je suis le Sage.\n Madame Sara est le \\C[2]Maître des Clés\\C[0].\"",
+            "\\.\"J'ai la tête qui tourne, ouaaaaaf !!\"",
+            "\\.\"Héhihi. Il vous reste 8 minutes, tout le monde.\n Ahahah.\"",
+            "\\.\"Bon, vous cinq, arrêtez de donner vos déclarations.\n On va d'abord parler de tout ça entre nous.\"",
+            "\\.\"Vite ! On a pas le temps !!\"",
+            "\\.\"Sou et Kanna sont de mèche.\n ... J'en ai aucun doute.\"",
+            "\\.\"K-Keiji !!\n Y a pas moyen que Kanna nous veuille du mal !\"",
+            "\\.\"Kanna...\n Elle se fait manipuler par l'autre gars au bonnet !\n Il veut la dégager ! Votez pas pour elle !\"",
+            "\\.\"Je sais, ouaf !\"",
+            "\\.\"Celui au tablier a parlé en dernier, il est louche,\n miaou ! Il ment, c'est sûr, ouaf !\"",
+            "\\.\"J'allais croire Joe, mais...\n C'vraiment lui, l'\\C[3]Sage\\C[0] ?!\"",
+            "\\.\"On... On ne peut pas déterminer leurs rôles en\n aussi peu de temps !\"",
+            "\\.\"Ghh...! Ça me gêne de l'admettre, mais puisque Sou\n et Sara peuvent être le \\C[2]Maître des Clés\\C[0],\n nous ne devrions pas voter pour eux...!\""
         ],
         "1767-0-message": [
             null,
@@ -15178,6 +15292,36 @@
             null,
             null,
             "\\.\"..........\""
+        ],
+        "251-0-choice": [
+            "Joe est le Sage\nNe rien dire"
+        ],
+        "261-0-message": [
+            "\"L'image sur la carte du \\C[2]Maître des Clés\\C[0] de Sara\n était une clé !! Je l'ai vue de mes propres yeux!!\"",
+            "\\C[4](Ce sera mon intervention finale...!)",
+            "\\C[4](Ce sera mon intervention finale...!)",
+            "\\C[4](Ce sera mon intervention finale...!)"
+        ],
+        "262-0-message": [
+            "\"La carte du \\C[2]Maître des Clés\\C[0] de Sou avait...\n un verrou, dessus...\"",
+            "\\C[4](Ce sera mon intervention finale...!)",
+            "\\C[4](Ce sera mon intervention finale...!)",
+            "\\C[4](Ce sera mon intervention finale...!)"
+        ],
+        "263-0-message": [
+            "\"Raté, Joe.\n L'image sur la carte du \\C[2]Maître des Clés\\C[0] est un verrou.\"",
+            "\\C[4](Ce sera mon intervention finale...!)",
+            "\\C[4](Ce sera mon intervention finale...!)",
+            "\\C[4](Ce sera mon intervention finale...!)"
+        ],
+        "264-0-message": [
+            "\\.\"..........\"",
+            "\\C[4](Ce sera mon intervention finale...!)",
+            "\\C[4](Ce sera mon intervention finale...!)",
+            "\\C[4](Ce sera mon intervention finale...!)"
+        ],
+        "541-0-choice": [
+            "Joe est le Sage\nNe rien dire"
         ]
     },
     "map107": {
@@ -15380,7 +15524,7 @@
         "name": "Entrée du 1er Étage"
     },
     "items-39": {
-        "name": "Règlement 1",
+        "name": "Règles du Jeu 1",
         "description": "4 personnes sont retenues au vote préliminaire.\nAu vote final, une victime doit être choisie."
     },
     "items-40": {
@@ -15799,7 +15943,7 @@
             "\\.\"Si la victime choisie est le \\C[2]Maître des Clés\\C[0],\n vous perdez tous et vous mourez.\"",
             "\\.\"Si la victime est le \\C[10]Sacrifice\\C[0], le \\C[10]Sacrifice\\C[0] gagne\n et il peut s'échapper avec une personne de son choix.\"",
             "\\.\"Si la victime est un \\C[4]Roturier\\C[0] ou le \\C[3]Sage\\C[0],\n la victime en question et le \\C[10]Sacrifice\\C[0] mourront.\"",
-            "\\.\"Ah, oui...\n Je vous ai laissé des manuels sur vos sabliers.\n Servez-vous-en comme vos autres objets.\"",
+            "\\.\"Ah, oui... Je vous ai laissé un manuel des règles\n du jeu sur vos sabliers.\n Servez-vous-en comme vos autres objets.\"",
             "\\.\"Voilà, c'est tout... Hihihi.\n Profitez du temps qu'il vous reste.\"",
             "\\C[3]Rillante s'assoit tranquillement dans son fauteuil.",
             "\\.\\C[3]Et... dans un silence morbide...\nLe Jeu Principal commença."
@@ -16205,7 +16349,7 @@
             "\"J'en suis consciente !\"",
             "\\.\"J'me l'demande !\n On peut dire c'qu'on veut après tout !\"",
             "\\.\"Non, je veux dire...!\"",
-            "\\.\\C[4](On... On ne peut pas expliquer ce genre de choses !)",
+            "\\.\\C[4](Ce... Ce genre de choses ne s'expliquent pas !)",
             "\\.\\C[4](Ça n'a pas marché...!)"
         ],
         "3-5-message": [
@@ -24192,11 +24336,11 @@
         ]
     },
     "items-41": {
-        "name": "Manuel 1",
+        "name": "Règles du Jeu 1",
         "description": "5 personnes sont retenues au vote préliminaire.\nAu vote final, une victime doit être choisie."
     },
     "items-42": {
-        "name": "Manuel 2",
+        "name": "Règles du Jeu 2",
         "description": "Roturier : Rien. M. des Clés : Tous meurent si choisi.\nSacrifice : A 2 votes, mais ne survit que si choisi."
     },
     "map181": {
