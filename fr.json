@@ -15398,8 +15398,8 @@
             "\\.\\C[4](Argh...!! Ce n'était pas ça, alors...?!)"
         ],
         "297-0-message": [
-            null,
-            null,
+            "\"Ces déclarations... répondent à toutes\n nos questions !!\"",
+            "\\.\"Oh, vraiment...?\"",
             "\\.\"N-Ne te mets pas dans mon chemin, Sou !\"",
             "\\.\"Qu'est-ce qui te fait croire que tu peux prouver\n quoi que ce soit avec un raisonnement aussi plat ?\"",
             "\\.\"Urgh...!!\"",
@@ -15407,8 +15407,8 @@
             "\\.\\C[4](Argh...!! Je me suis trompée...?!)"
         ],
         "298-0-message": [
-            null,
-            null,
+            "\"La réponse se trouve dans cette déclaration !\n Développe !\"",
+            "\\.\"Oh, vraiment...?\"",
             "\\.\"N-Ne te mets pas dans mon chemin, Sou !\"",
             "\\.\"Qu'est-ce qui te fait croire que tu peux prouver\n quoi que ce soit avec un raisonnement aussi plat ?\"",
             "\\.\"Urgh...!!\"",
@@ -15416,10 +15416,34 @@
             "\\.\\C[4](Argh...!! Je me suis trompée...?!)"
         ],
         "302-0-message": [
-            "\\C[4](Le \\C[3]Sage\\C[4] sait qui est le \\C[2]Maître des Clés\\C[4]...\n Ça veut dire que certains disent la vérité et\n d'autres sont en train de mentir.)"
+            "\\C[4](Le \\C[3]Sage\\C[4] sait qui est le \\C[2]Maître des Clés\\C[4]...\n Ça veut dire que certains disent la vérité et\n d'autres sont en train de mentir.)",
+            "\\.\\C[4](On n'a sûrement plus le temps d'extraire\n de nouvelles déclarations maintenant...)",
+            "\\C[4](Confronter des déclarations...\n Ce serait une perte de temps.\n Ceux qui ne veulent pas être choisis ne feraient\n qu'attendre.)",
+            "\\C[4](Bon, alors tout ce que je peux faire,\n c'est utiliser un objet...!\n Mais sur qui... Et quoi ?)",
+            "\\C[4](Les règles...\n Je devrais leur montrer les règles !\n Mais je n'ai pas le temps d'exposer les menteurs...)",
+            "\\C[4](Je devrais les montrer à quelqu'un qui dit la vérité !\n Quelqu'un qui suit de près les règles du jeu...!)",
+            "\\C[4](Après tout, on parle d'images, mais...\n Où est-ce que les règles parlent d'image ?)",
+            "\\C[4](Mais alors... Si les règles n'en parlent pas...\n Ne serait-ce pas celui qui ne se prononce pas\n qui \"dit la vérité\"...?)"
         ],
         "289-0-choice": [
             "Commencer le Chapitre 2\nCommencer par le sommaire du Chapitre 1"
+        ],
+        "301-0-message": [
+            "\\.\\C[4](Attends...!\n J'ai déjà toutes leurs déclarations !\n Je n'ai sûrement pas besoin d'objet !)\\.",
+            "\\.\\C[4](J'ai déjà beaucoup de déclarations...!\n Je n'ai qu'à extraire pour en obtenir une nouvelle !\n Pas besoin d'objet, du coup...)\\.",
+            "\\.\\C[4](Pas besoin d'objets...\n J'ai déjà beaucoup de déclarations...!\n Même si à première vue, elles ne sont pas importantes,\n il doit bien y avoir quelque chose...!)\\.",
+            "\\.\\C[4](Pas besoin d'objets...\n J'ai déjà beaucoup de déclarations...!\n Même si elles n'ont pas l'air importantes, il doit\n bien y avoir quelque chose. Confrontons-les...!)\\."
+        ],
+        "302-0-choice": [
+            "Plus réfléchir (utilise de l'Influence)\nAnnuler",
+            "Plus réfléchir (utilise de l'Influence)\nAnnuler",
+            "Plus réfléchir (utilise de l'Influence)\nAnnuler",
+            "Plus réfléchir (utilise de l'Influence)\nAnnuler",
+            "Plus réfléchir (utilise de l'Influence)\nAnnuler",
+            "Plus réfléchir (utilise de l'Influence)\nAnnuler"
+        ],
+        "304-0-choice": [
+            "Jouer cette musique\nAnnuler"
         ]
     },
     "map107": {
