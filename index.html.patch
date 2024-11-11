@@ -1,9 +1,21 @@
-11a12,19
+11a12,21
 >         <script type="text/javascript" src="js/libs/sentry.js"></script>
+>         <script type="text/javascript" src="js/libs/sentry-http.js"></script>
+>         <script type="text/javascript" src="js/libs/sentry-captureconsole.js"></script>
 >         <script>
 >             Sentry.init({
 >                 dsn: "https://d52f42fec3ac47feb2b0d8b8ee8371e3@glitchtip.vinceh121.me/2",
 >                 tracesSampleRate: 1,
 >                 integrations: [Sentry.captureConsoleIntegration({ levels: ["warn", "error"] }), Sentry.httpClientIntegration()],
 >             });
+>         </script>
+33a44,52
+>         <script>
+>             const oldCatchException = SceneManager.catchException;
+> 
+>             SceneManager.catchException = (e) => {
+>                 Sentry.captureException(e);
+>                 Sentry.flush();
+>                 oldCatchException();
+>             };
 >         </script>
