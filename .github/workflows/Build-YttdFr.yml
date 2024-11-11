@@ -115,6 +115,10 @@ jobs:
           WEBLATE_TOKEN: ${{ secrets.WEBLATE_TOKEN }}
           WEBLATE_AVATAR_BASE_URL: ${{ secrets.WEBLATE_AVATAR_BASE_URL }}
           COMMIT_HASH: ${{ github.sha }}
+      - name: Install Sentry
+        run: |
+          curl -Lo yttd/www/js/libs/sentry.js
+          patch yttd/www/index.html index.html.patch
       - name: Uploading build artefacts
         uses: actions/upload-artifact@v4
         with:
