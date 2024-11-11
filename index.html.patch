@@ -1,8 +1,9 @@
-11a12,18
+11a12,19
 >         <script type="text/javascript" src="js/libs/sentry.js"></script>
 >         <script>
 >             Sentry.init({
 >                 dsn: "https://d52f42fec3ac47feb2b0d8b8ee8371e3@glitchtip.vinceh121.me/2",
 >                 tracesSampleRate: 1,
+>                 integrations: [Sentry.captureConsoleIntegration({ levels: ["warn", "error"] }), Sentry.httpClientIntegration()],
 >             });
 >         </script>
