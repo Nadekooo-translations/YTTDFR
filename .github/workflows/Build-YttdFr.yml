@@ -144,10 +144,13 @@ jobs:
             zip -r artifacts/yttd-${{ github.sha }}-$i.zip artifacts/yttd-${{ github.sha }}-$i
             rm -r artifacts/yttd-${{ github.sha }}-$i
           done
+      - uses: actions/checkout@v3
+        with:
+          path: yttdfr
       - name: Install Sentry
         run: |
           curl -Lo artifacts/yttd/js/libs/sentry.js https://browser.sentry-cdn.com/8.37.1/bundle.min.js
-          patch artifacts/yttd/www/index.html index.html.patch
+          patch artifacts/yttd/www/index.html yttdfr/index.html.patch
       - uses: appleboy/scp-action@master
         with:
           host: ${{ secrets.DEPLOY_HOST }}
