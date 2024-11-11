@@ -117,7 +117,7 @@ jobs:
           COMMIT_HASH: ${{ github.sha }}
       - name: Install Sentry
         run: |
-          curl -Lo yttd/www/js/libs/sentry.js
+          curl -Lo yttd/www/js/libs/sentry.js https://browser.sentry-cdn.com/8.37.1/bundle.min.js
           patch yttd/www/index.html index.html.patch
       - name: Uploading build artefacts
         uses: actions/upload-artifact@v4
