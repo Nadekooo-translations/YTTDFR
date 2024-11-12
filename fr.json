@@ -16856,21 +16856,21 @@
             "\"Je vous ai apporté votre déjeuner.\"",
             "\"Ohh, merci.\"",
             "\\.\"Kai, t'as une minute ?\"",
-            "\"O... Oui ?\"",
+            "\"O-Oui ?\"",
             "\"Kai. Ça fait combien d'années que t'es arrivé ici ?\"",
             "\\.\"Hm... Bonne question...\n Cela fait certainement assez longtemps.\"",
-            "\\.\"Bahaha ! Quel bosseur.\n Voilà pourquoi je veux te donner ça.\"",
+            "\\.\"Bahaha ! Quel bosseur.\n C'est pour ça que je veux te donner ça.\"",
             "\\.\"Qu'est-ce donc...?\"",
             "\\.\"Allez, allez, essaie-le.\"",
             "\"..........\"",
             "\\.\"Ouah ! Il te va plutôt bien, hein ?\"",
             "\\.\"Que, euh... Qu'est-ce qui vous a amené à...\"",
             "\\.\"Allons... C'est un cadeau.\"",
-            "\\.\"Ma femme et Sara vivent sans encombres grâce à toi.\"",
-            "\\.\"E... Euh... S'agit-il ainsi d'une manière\n de m'exprimer votre gratitude...?\"",
+            "\\.\"Ma femme et Sara sont en sécurité grâce à toi.\"",
+            "\\.\"E-Euh... S'agit-il ainsi d'une manière\n de m'exprimer votre gratitude...?\"",
             "\\.\"Nan. C'est pas de la gratitude en tant qu'employeur.\"",
             "\\.\"Ce tablier... appartenait à ma mère.\"",
-            "\\.\"En d'autres termes, ça montre que t'as fait ton\n entrée dans la tradition des assistants ménagers !\"",
+            "\\.\"En gros, ça veut dire que t'as fait ton entrée\n dans la tradition des assistants ménagers !\"",
             "\\.\"Des assistants ménagers...?\"",
             "\\.\"Et ça montre aussi... ton lien avec\n la famille Chidouin.\"",
             "\\.\"...!!\"",
@@ -16890,7 +16890,7 @@
             "\\.\"... Si nécessaire, je compte sur toi pour Sara.\"",
             "\\.\"...!\"",
             "\\.\"Un jour, cette fille... apprendra\n que je suis pas son vrai père.\"",
-            "\\.\"La destinée de cette fille a tellement de potentiel\n pour évoluer que j'ai mis ma propre vie en jeu...\n C'est loin d'être trivial.\"",
+            "\\.\"Sa destinée a tellement de potentiel que\n j'en ai mis ma propre vie en jeu...\n C'est loin d'être trivial.\"",
             "\\.\"Mais je m'inquiète pas.\"",
             "\\.\"Car notre famille a un héros qui la protégera\n depuis les ombres.\"",
             "\\.\"... Je vous en prie, ne dites pas que\n je suis un \"héros\".\"",
@@ -16900,14 +16900,14 @@
             "\\.\"...\"",
             "\\.\"... Toutefois.\"",
             "\\.\"Ce...\\.\\. Ce tablier...\"",
-            "\\.\"Je l'utiliserai affectueusement...\\.\\.\n Je le conserverai précieusement...!\"",
+            "\\.\"J'y ferai très attention...\\.\\.\n Je le conserverai précieusement...!\"",
             "\"Ta fonction...?\"",
-            "\\.\\C[10]\"Je compte peut-être sur toi pour elle...\n Mais je te donnerai jamais ma fille... Jamais...\"",
+            "\\.\\C[10]\"Je compte peut-être sur toi pour elle...\n Mais je te donnerai jamais ma fille...\n Jamais...\"",
             "\\.\"... E-Euh, maître ?\"",
             "\\.\\C[10]\"Ma fille... Ma fille...\"",
-            "\\.\\C[4](... Quand il s'agit de Madame Chidouin...\n Il perd bel et bien de vue tout le reste.)",
+            "\\.\\C[4](... Quand il s'agit de Madame Chidouin...\n Il perd de vue tout le reste.\n Je n'en ai aucun doute.)",
             "\\.\\C[4](De cet angle-là aussi...\n Je dois continuer de veiller sur Madame Chidouin.)",
-            "\\.\\C[4](Je me demande si elle est concentrée sur ces\n études, en ce moment-même...?)"
+            "\\.\\C[4](Je me demande si elle est concentrée sur ses\n études, en ce moment-même...?)"
         ]
     },
     "map67": {
@@ -17031,33 +17031,33 @@
     },
     "map74": {
         "1-2-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\.\"Tu... n'es pas Joe !!\"",
+            "\\.\"Ce... n'est qu'un cauchemar...!!\"",
+            "\\.\\C[10]\"Ouah, trop méchant.\n Je croyais qu'on était meilleurs amis ?\"",
+            "\\.\"La ferme...!!\"",
+            "\\.\"Ah...\"",
+            "\\.\\C[3]Une douleur aigüe se répand dans mon corps.",
+            "\\.\\C[10]\"Tu ferais mieux de pas aller par là !\"\\|\\^",
+            "\\.\"Ah...\"",
+            "\\.\\C[3]Une douleur aigüe se répand dans mon corps.",
+            "\\.\"J'ai... mal...\"",
+            "\\.\"À l'aide... Au secours...\"",
+            "\\.\\C[10]\"Je vais te mettre à l'aise.\"",
+            "\\.\"Arrête...!! Je n'arrive pas à respirer... Joe...!!\"",
+            "\\.\\C[10]\"Je t'aime... Sara.\"",
+            "\\.\"Arr... ête...!!\"",
+            "\\.\\C[10]\"Sara...\"",
+            "\\.\\C[10]\"Reprends-toi !!\\C[0] ... Sara !\"",
+            "\\.\"Tu m'entends ?\"",
+            "\\.\"Ah...\\.\\. Kei... ji...\"",
+            "\\.\"... Ouaip.\n Ton ami le policier, en chair et en os.\"",
+            "\\C[3]La chambre... est propre.",
+            "\\.\\C[4](Ouille... Je me suis fait mal en bougeant...?)",
+            "\\.\"Montre-moi tes blessures.\n J'ai entendu beaucoup de bruit...\n Il s'est passé quoi ?\"",
+            "\\.\"Hum...\"",
+            "\\.\"Pas besoin de le cacher.\n T'as eu des \\C[2]hallucinations\\C[0]...\n Je me trompe, Sara ?\"",
+            "\\.\"Comment... tu as deviné...?\"",
+            "\\.\"... Rien échappe à Monsieur le Policier.\"",
             null,
             null,
             null,
@@ -17095,6 +17095,61 @@
             null,
             null,
             "\\.\"...\""
+        ],
+        "2-1-message": [
+            "\\.\"Hah...!! Hah...!!\"",
+            "\\.\\C[4](Un rêve... Ce n'était qu'un rêve..!)",
+            "\\.\\C[4](Du calme...! Il faut que je me calme...!)",
+            "\\.\\C[4](Urgh... J'ai la tête qui tourne...)",
+            "\\.\\C[4](Où suis-je...?)"
+        ],
+        "5-1-message": [
+            "\\C[3]La lampe illumine la pièce d'une lueur vive.",
+            "\\.\\C[4](On dirait vraiment une chambre d'hôtel...)"
+        ],
+        "5-2-message": [
+            "\\C[3]La lampe illumine la pièce d'une lueur vive."
+        ],
+        "11-1-message": [
+            "\\C[3]La lampe illumine la pièce d'une lueur vive.",
+            "\\.\\C[4](On dirait vraiment une chambre d'hôtel...)"
+        ],
+        "5-3-message": [
+            "\\C[10]La lampe s'est éteinte."
+        ],
+        "9-1-message": [
+            "\\C[10]Monsieur Mishima..."
+        ],
+        "10-1-message": [
+            "\\C[10]Kai..."
+        ],
+        "11-3-message": [
+            "\\C[3]La lampe illumine la pièce d'une lueur vive."
+        ],
+        "11-5-message": [
+            "\\C[10]Un liquide découle le long de la lampe."
+        ],
+        "11-6-message": [
+            "\\C[10]Un liquide découle le long de la lampe."
+        ],
+        "11-7-message": [
+            "\\C[10]Un liquide découle le long de la lampe."
+        ],
+        "15-1-message": [
+            "\\C[10]\"Tu comptes fuir combien de temps...?\""
+        ],
+        "15-3-message": [
+            "\\C[10]\"Rejoins-moi, Sara.\""
+        ],
+        "16-1-message": [
+            "\\C[3]Je vois mon reflet dans la fenêtre.",
+            "\\.\\C[4](J'ai vraiment mauvaise mine...\n Je ressemble à un cadavre.)"
+        ],
+        "11-2-message": [
+            "\\C[3]La lampe illumine la pièce d'une lueur vive."
+        ],
+        "11-4-message": [
+            "\\C[10]Un liquide découle le long de la lampe."
         ]
     },
     "map75": {
@@ -18460,9 +18515,9 @@
             "\\.\"Hahaha ! Pas besoin de garder le silence.\"",
             "\\.\\C[10]\"T'es qu'une sale tueuse !\"",
             "\\.\"... Non...! Je...!!\"",
-            "\\.\"J'étais... juste obligée d'aller de l'avant...!!\"",
+            "\\.\"Je n'avais pas d'autre choix... que d'aller\n de l'avant...!!\"",
             "\\.\"J'ai fait... tout ce que j'ai pu...!\"",
-            "\\.\\C[10]\"Et c'est comme ça que les choses ont fini ?\"",
+            "\\.\\C[10]\"Et c'est comme ça que ça a fini ?\"",
             "\\.\"Je les ai tous protégés...! C'est vrai...!!\"",
             "\\.\\C[10]\"Mais je suis mort.\\! Kai est mort, aussi.\"",
             "\\.\"Mais... Mais...!!\"",
