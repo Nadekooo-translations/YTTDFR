@@ -15522,6 +15522,12 @@
         ],
         "373-0-message": [
             "Conclure les rappels ?"
+        ],
+        "332-0-message": [
+            "\\C[10]Niveau d'Hallucination : \\V[79]",
+            "\\.\\C[3]Le \\C[10]Niveau d'Hallucination\\C[3] est un nombre\nreprésentant l'état mental de Sara.",
+            "\\.\\C[3]À chaque fois qu'elle se souvient de Joe, il augmente.",
+            "\\.\\C[3]Faites attention, ne le laissez pas trop monter."
         ]
     },
     "map107": {
@@ -17069,32 +17075,37 @@
             "\\.\"Ils se reposent, eux-aussi.\n Te force pas.\"",
             "\\.\"Hmm... Y a pas l'heure ici...\"",
             "\\.\"Mais les autres se reposent quand même.\n Tu devrais te reposer, Sara.\"",
-            null,
-            null,
-            null,
+            "\\.\"... Vu comme t'es pas en forme, tu ferais\n que nous ralentir.\"",
+            "\\.\"Pour l'instant repose-toi, Sara.\n Les autres sont aussi en train de dormir.\"",
+            "\\.\"T'as pas fais une seule pause depuis le début...\n Tu mérites de dormir.\"",
             "\\.\"...\"",
-            null,
-            null,
+            "\\.\"Je... n'ai pas envie de dormir.\"",
+            "\\.\"Quoi...?\"",
             "\\.\"...\"",
-            null,
-            null,
+            "\\.\"Si tu veux ouais.\n Je reste là, tu peux dormir tranquille.\"",
+            "\\.\"... Non.\n ... Je ne veux pas rester couchée.\"",
             "\\.\"...\"",
-            null,
-            null,
+            "\\.\"Je peux pas te laisser te mettre en danger.\n Laisse tomber.\"",
+            "\\.\"... Écarte-toi, s'il te plait...\n Je préfère ça que rester seule.\"",
             "\\.\"...\"",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\.\"Fiou... Bon, voilà ce qu'on va faire.\"",
+            "\\.\"Tu peux te reposer sur mon épaule.\n Récupère un peu de sommeil.\"",
+            "\\.\"... D'accord.\"",
+            "\\.\"... Sara.\"",
+            "\\.\"..........\"",
+            "\\.\"... Endormie, hein...\"",
+            "\\.\"..........\"",
+            "\\.\"... Bah mince alors...\"",
+            "\\.\"Toi aussi, hein, Sara...?\"",
             "\\.\"...\"",
-            null,
-            null,
-            "\\.\"...\""
+            "\\.\"... Tu dois... ignorer les hallucinations.\"",
+            "\\.\"Car une fois gravées dans ton cerveau...\n Tu seras...\"",
+            "\\.\"...\"",
+            "\\.\"... Finis pas comme Monsieur le Policier.\"",
+            "\\.\"On dirait que t'as pu te reposer un peu.\"",
+            "\\.\"... Oui. Merci beaucoup.\"",
+            "\\.\"Tu te sens d'aller voir les autres ?\n Ils sont inquiets, donc...\"",
+            "\\.\"... Oui.\""
         ],
         "2-1-message": [
             "\\.\"Hah...!! Hah...!!\"",
@@ -17127,13 +17138,13 @@
             "\\C[3]La lampe illumine la pièce d'une lueur vive."
         ],
         "11-5-message": [
-            "\\C[10]Un liquide découle le long de la lampe."
+            "\\C[10]Un liquide dégouline de la lampe."
         ],
         "11-6-message": [
-            "\\C[10]Un liquide découle le long de la lampe."
+            "\\C[10]Un liquide dégouline de la lampe."
         ],
         "11-7-message": [
-            "\\C[10]Un liquide découle le long de la lampe."
+            "\\C[10]Un liquide dégouline de la lampe."
         ],
         "15-1-message": [
             "\\C[10]\"Tu comptes fuir combien de temps...?\""
@@ -17143,70 +17154,97 @@
         ],
         "16-1-message": [
             "\\C[3]Je vois mon reflet dans la fenêtre.",
-            "\\.\\C[4](J'ai vraiment mauvaise mine...\n Je ressemble à un cadavre.)"
+            "\\.\\C[4](J'ai vraiment mauvaise mine...\n Je ressemble à un cadavre.)",
+            "\\C[4](Ça suffit...\nCe n'est pas le moment de m'observer...)",
+            "\\.\\C[10]\"Sara...\"",
+            "\\.\\C[4](Hein...?)"
         ],
         "11-2-message": [
             "\\C[3]La lampe illumine la pièce d'une lueur vive."
         ],
         "11-4-message": [
-            "\\C[10]Un liquide découle le long de la lampe."
+            "\\C[10]Un liquide dégouline de la lampe."
+        ],
+        "1-2-choice": [
+            "Casser le miroir\nS'enfuir de la chambre",
+            "Ce n'est rien\nJ'ai vu une illusion de Joe",
+            "Merci beaucoup\nCombien de temps ai-je dormi ?\nReprenons nos recherches",
+            "Reste avec moi\nJ'ai besoin de sortir"
         ]
     },
     "map75": {
         "2-1-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\C[3]En rentrant dans ce grand hall illuminé, je remarque\nque des gens sont là.\\|",
+            "\\.\\C[3]Du chant résonne dans cette salle.",
+            "\\.\\C[4](C'est... la voix de Reko.)",
+            "\\.\"... Envoûtée, Sara Chidouin ?\"",
+            "\\.\"Hmph... Tu as une très mauvaise mine.\"",
+            "\\.\"... Voici ce qu'est un requiem pour Reko.\"",
+            "\\.\"N'importune pas son chant, Sara Chidouin.\"",
+            "\\.\"... Alice...\"",
+            "\\.\"Pourquoi tu l'écoutes caché derrière un mur ?\n C'est pas ta sœur ?\"",
+            "\\.\"Que vous êtes frustrants !\n Puisque je vous dis que nous ne sommes plus que\n de parfaits inconnus !!\"",
+            "\\.\\C[4](C'est vrai... Reko et Alice sont frère et sœur...)",
             "\\.\"...\"",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\.\"Reko... Elle chante purement par chagrin pour\n ceux qui ne sont plus parmi nous.\"",
+            "\\.\"Je ne souhaite pas que ma présence la distrait.\"",
+            "\\.\"C'est que t'es méticuleux avec elle, hein ?\"",
+            "\\.\"... Toujours provocateur, toi.\"",
+            "\\.\"..........\"",
+            "\\.\"... Vous...\"",
+            "\\.\"Que pensez-vous... de Reko ?\"",
+            "\\.\"Hein...?\"",
+            "\"Mouahaha... Je vois.\"",
+            "\\.\"Ça, c'est sûr. Elle a aucune pitié pour les hommes\n comme Monsieur le Policier.\"",
+            "\"... Effrayante... Hm...\"",
+            "\\.\"Je trouve qu'elle est plutôt gentille avec toi, Sara...\n Comparé à moi.\"",
+            "\"... Je suppose que ça peut être un compliment.\"",
+            "\\.\"Elle a pas l'air d'avoir froid aux yeux, même\n contre des hommes bien baraqués.\"",
+            "Quoi...?! Tu es vraiment exécrable !!\n Tu as écouté ma question, au moins ?!\"",
+            "\\.\"Elle a l'air plus audacieuse que toi.\n Même si elle fait un peu peur...\"",
+            "\\.\"Gentille avec les faibles, dure avec les forts...\n C'est l'impression qu'elle me donne.\"",
             "\\.\"...\"",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\"...\""
+            "\\.\"... Elle était différente, auparavant.\"",
+            "\\.\"Auparavant...?\"",
+            "\"... Non, l'inverse.\"",
+            "\"... Précisément.\"",
+            "\\.\"Elle a toujours été pleine d'énergie.\n Elle a un talent iné pour la musique et\n pour charmer les autres.\"",
+            "\\.\"Elle était sévère, y compris avec elle-même...\n Mais surtout envers les faibles qui parlaient\n beaucoup pour ne rien faire au final.\"",
+            "\\.\"Elle a terriblement changé.\"",
+            "\\.\"À cause de ton meurtre, j'imagine...?\"",
+            "\\.\"...!\"",
+            "\\.\"Mouahaha... C'est exactement cela...\"",
+            "\\.\"... Pardonnez mes divagations.\"",
+            "\\.\"Sara !!\"",
+            "\\.\"Sara, t'as repris connaissance !!\"",
+            "\\.\"Sara...!!\"",
+            "\\.\"Grande sœur Saraaaaaaaaaa !!\"",
+            "\\.\"Ça va ?!\"",
+            "\\.\"N-N'en fais pas trop, d'accord, Sara...?!\"",
+            "\\.\"Je... vais bien.\n Je suis juste... un peu épuisée.\"",
+            "\\.\"Je suis content que tu te sois réveillée, miaou...\"",
+            "\\.\\C[3]C'est chaleureux...",
+            "\\.\\C[3]Tout le monde doit être totalement épuisé,\nautant physiquement que mentalement...",
+            "\\.\\C[3]Mais leur gentillesse... Elle est réconfortante.",
+            "\\.\"...\"",
+            "\\.\"... Tu veux ma photo ?\"",
+            "\\.\"E-Euh, pardon...\"",
+            "\\.\"Sara, t'es au courant de tout ?\"",
+            "\\.\"À part le fait qu'on nous a emmené au 2ème Étage...\n Il s'est rien passé.\"",
+            "\\.\"Nous étions tous perdus, donc nous nous sommes\n reposés comme on nous l'avait ordonné...\"",
+            "\\.\"Pour l'instant, rien. Après cet affreux Jeu Principal,\n on a passé notre temps à nous reposer.\"",
+            "\\.\"Chaque personne a une chambre assignée, alors...\n On t'a emmenée là-bas, et on attend depuis...\"",
+            "\\.\"Mais la méchante poupée a disparu, ouaf.\n On doit la chercher, miaou ?\"",
+            "\\.\\C[4](Rillante... a disparu ?)",
+            "\\.\"S- Sara...\n Tu peux continuer à te reposer si tu veux, d'accord ?\"",
+            "\\.\"Non... Je veux faire quelque chose.\n Laisse-moi partir, s'il te plaît...\"",
+            "\\.\"On la retrouvera...\"",
+            "\\.\\C[10]\"Rillante... Je vais moi-même te régler ton compte...\"",
+            "\\.\"... Grande sœur Sara ?\"",
+            "\\.\"Ah-\n E-Euh, ce n'est rien.\"",
+            "\\.\"On devrait commencer par vérifier que cet endroit\n n'est pas dangereux. Des pièges pourraient déjà\n avoir été mis en place...\"",
+            "\\.\"... Punaise.\n J'allais te dire \"en fais pas trop\".\n Tu perds vraiment pas ton temps, Sara.\"",
+            "\\.\"Bon, aller. Je suis pas du genre à rester\n assis à rien faire non plus.\n Faites gaffe en explorant les alentours.\""
         ],
         "13-1-message": [
             null,
@@ -17453,6 +17491,13 @@
         "24-2-message": [
             null,
             "\\.\"..........\""
+        ],
+        "2-1-choice": [
+            "Quelle belle voix\nQuelle triste chanson...",
+            "Elle est gentille\nElle est effrayante\nOn dirait une grande sœur\nSon frère est décevant",
+            "Était-elle gentille avec tout le monde ?\nÉtait-elle sévère avec tout le monde ?",
+            "Que s'est-il passé ?\nQue faites-vous, maintenant ?",
+            "Partons à sa recherche\nPartons la battre\nExplorons les alentours"
         ]
     },
     "map76": {
@@ -17620,7 +17665,10 @@
             null,
             null,
             null,
-            "\\.\"...\""
+            "\\.\"...\"",
+            null,
+            null,
+            "\\.\\C[3]Niveau d'Hallucination revenu à 0."
         ],
         "6-1-message": [
             null,
@@ -17641,6 +17689,25 @@
             null,
             null,
             "\\.\"...\""
+        ],
+        "5-6-message": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.\\C[3]Niveau d'Hallucination revenu à 0."
         ]
     },
     "map77": {
