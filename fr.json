@@ -2088,7 +2088,7 @@
         "2-1-message": [
             "\\C[3]Nao et Reko s'occupent de Kanna,\ntoujours inconsciente.",
             "\"Sara, ramène-toi ici si t'es en danger, OK ?\n Hésite pas à laisser le plus difficile aux mecs.\"",
-            "\\.\"Bon après, le gars frêle au bonnet a pas l'air bien\n robuste non plus... Tu devrais aussi t'enfuir\n avec elle si ça arrive, petit.\"",
+            "\\.\"Bon après, le gars frêle au bonnet a pas l'air bien\n robuste non plus... Tu devrais aussi t'enfuir\n avec elle si y a besoin, petit.\"",
             "\"Q-Quelle remarque vexante... Ahaha.\"",
             "\"Bonne chance à vous...!\""
         ],
@@ -2158,7 +2158,7 @@
             "\\.\"Dites-moi si vous avez besoin de quoi\n que ce soit, Sara.\"",
             "\\C[3]Monsieur Mishima inspecte chaque recoin\nde la pièce.",
             "\"Oh... Sara.\"",
-            "\\.\"Avez-vous rencontré le moindre danger ?\n Je vous prie de faire preuve de prudence...\"",
+            "\\.\"Avez-vous rencontré le moindre danger ?\n Je vous somme de faire preuve de prudence...\"",
             "\\.\"Hmm ! Qu'est-ce que cela ?!\"",
             "\\.\"Hein...?\"",
             "\\.\"Ce cigare !\n Un mineur ne devrait pouvoir s'en procurer un !\"",
@@ -2301,7 +2301,7 @@
             "\\.\\C[3][Ne peuvent pas boire]\nAnzu, Kanna, Gin, Kugie, Sara, Joe,\nNao, Hinako, Ranmaru"
         ],
         "21-1-message": [
-            "\\C[3]De diverses boissons alcoolisées.",
+            "\\C[3]Diverses boissons alcoolisées.",
             "\\.\\C[4](Elles n'ont rien de particulier.)"
         ],
         "65-1-message": [
@@ -2392,7 +2392,7 @@
         ],
         "12-1-message": [
             "\\C[3]Un distributeur aux prix élevés.",
-            "\"L'eau et les boissons coûtent 1000 yens ?! Ouah !\n Je me demande quel goût ça a pour que ce soit si cher !\"",
+            "\"L'eau et les boissons coûtent 1000 yens ?! Ouah !\n J'me demande quel goût ça a pour que ce soit si cher !\"",
             "\"De l'eau et des sodas... Les deux coûtent 1000 yens.\n Ça, c'est du gonflement des prix.\"",
             "\\.\\C[4](Devrais-je insérer le billet de 1000 yens ?)",
             "\\C[10]Bras Gauche\\C[3] obtenu.",
@@ -2772,7 +2772,7 @@
             "\"Il y a un distributeur rouge de ce côté.\"",
             "\\.\"Il ne vend que des cigarettes.\n Je crois qu'au fond, il s'agit d'un espace fumeur...\"",
             "\\.\"Tu ne devrais pas en acheter si tu es mineure.\n Je ne voudrais pas que tu deviennes une délinquante.\"",
-            "\\.\\C[4](Tous les délinquants ne fument pas, mais bon...)"
+            "\\.\\C[4](Tous les fumeurs ne sont pas des délinquants,\n mais bon...)"
         ],
         "1-3-message": [
             "\"... Sara...\"",
@@ -3049,7 +3049,7 @@
             "\\.\"Sa tête est plutôt lourde.\"",
             "\\.\"Quand je la secoue, j'entends... un liquide qui\n se renverse à l'intérieur.\"",
             "\\.\"Un liquide...?\"",
-            "\\.\"Peut-être que les kidnappeurs comptent nous faire\n utiliser des pailles afin de nous réhydrater\n lorsque nous avons soif.\"",
+            "\\.\"Peut-être que les ravisseurs comptent nous donner\n des pailles que nous pourrons planter à l'intérieur\n pour boire.\"",
             "\\.\"Mais elles sont plutôt solides.\"",
             "\\.\"...\"",
             "\\.\"... Mes excuses.\n J'essayais de raconter une blague.\"",
@@ -3081,14 +3081,14 @@
             "\\.\"Dis, tu pourrais me le donner ?\"",
             "\\.\"...\"",
             "\\.\"...\"",
-            "\\.\"... Ahaha.\nTu n'as pas peur, à donner une arme à un inconnu ?\"",
+            "\\.\"... Ahahah. Tu n'as pas peur ?\n Tu donnes une arme à un parfait inconnu.\"",
             "\\.\"...\"",
-            "\\.\"Tu penses être en sécurité parce qu'il n'est pas\n chargé ?\"",
-            "\\.\"Je passe, Sara. Tu peux le garder.\n Tu ne devrais pas le lâcher aussi facilement.\"",
+            "\\.\"Tu penses être en sécurité juste parce qu'il\n n'est pas chargé ?\"",
+            "\\.\"Je passe, Sara. Tu peux le garder.\n Tu ne devrais pas le céder aussi facilement.\"",
             "\\.\"D'accord...\"",
-            "\\.\"Content que tu me fasses confiance en tout cas.\n Ahaha.\"",
+            "\\.\"Content que tu me fasses confiance en tout cas.\n Ahahah.\"",
             "\\.\"...\"",
-            "\\.\"Ahaha, tu as raison.\n Tu ne devrais pas le quitter du regard.\"",
+            "\\.\"Ahahah, tu as bien raison.\n Tu ne devrais pas le quitter du regard.\"",
             "\\.\"Il n'a pas l'air d'être chargé, mais...\n Tu devrais le garder sur toi.\"",
             "\\.\"D'accord...\"",
             "\\.\"...\""
@@ -3100,7 +3100,7 @@
             "\\.\"Continuez comme ça aussi, vous deux.\""
         ],
         "3-1-message": [
-            "\"Je m'demande à quoi sert cette énorme peinture.\"",
+            "\"J'me demande à quoi sert cette énorme peinture.\"",
             "\\.\"Trouves-tu qu'elle a quelque chose de louche ?\"",
             "\\.\"Ouais...\"",
             "\\.\"Essaie de la décrocher du mur pour voir.\"",
@@ -3145,7 +3145,7 @@
             "\"Euhh... Sou, c'est ça ?\"",
             "\"Ahaha, ravi que tu te souviennes de mon nom.\"",
             "\\.\"T'inquiète, mec !\n Garde un œil sur Sara pour moi !\"",
-            "\\.\"... Ahaha. Je pense que je devrais plutôt\n m'inquiéter de ne pas la ralentir.\""
+            "\\.\"... Ahahah. Je pense que je devrais plutôt\n faire attention à ne pas la ralentir.\""
         ],
         "3-3-message": [
             "\"J'ai essayé de décrocher la peinture tout à l'heure...\"",
@@ -4717,7 +4717,7 @@
             "\\.\\C[3][Ne peuvent pas boire]\nAnzu, Kanna, Gin, Kugie, Sara, Joe,\nNao, Hinako, Ranmaru"
         ],
         "48-1-message": [
-            "\\C[3]De diverses boissons alcoolisées.",
+            "\\C[3]Diverses boissons alcoolisées.",
             "\\.\\C[4](Elles n'ont rien de particulier.)"
         ],
         "67-1-message": [
@@ -15444,6 +15444,84 @@
         ],
         "304-0-choice": [
             "Jouer cette musique\nAnnuler"
+        ],
+        "360-0-message": [
+            "Sara Chidouin\nProtagoniste de l'histoire.\nUne lycéenne normale du Lycée Sonobeno.",
+            "\\.En rentrant tard chez elle des cours,\nelle tombe nez à nez avec son stalkeur.\nUne fois rentrée, elle retrouve sa mère inconsciente.",
+            "\\.Elle se réveille ensuite dans un endroit inconnu aux\ncôtés de 11 autres personnes. Elle parvient à gagner\nleur confiance en remportant des épreuves mortelles.",
+            "\\.Mais à l'issue du Jeu Principal...\nSon meilleur ami Joe meurt.\nSuite aux décès du professeur Mishima et de\nl'assistant-ménager Kai, il ne sont plus que 9..."
+        ],
+        "361-0-message": [
+            "Jou Tazuna\nCamarade de classe de Sara, la protagoniste.\nSon meilleur ami au tempérament agréable et enjoué.",
+            "\\.Il a maladroitement essayé d'aider Sara après\navoir appris qu'un stalkeur la harcelait.\nC'est la seule personne que Sara connaisse ici.",
+            "\\.La carte du \\C[10]Sacrifice\\C[0] a scellé son sort.\nÀ la fin du Jeu Principal...\nIl a déclaré \"vous avez tous bon fond\"...\nAvant de périr."
+        ],
+        "362-0-message": [
+            "Keiji Shinogi\nUn homme suspect qui dit être policier.",
+            "\\.Décontracté, mais bizarrement louche.\nIl incite souvent les autres à faire confiance à Sara.",
+            "\\.Il a admis avoir tiré sur quelqu'un dans le passé.\nIl n'est plus capable d'utiliser d'armes à feu depuis.",
+            "\\.Il a promis à Sara de lui en dire un peu plus sur\nlui-même après le Jeu Principal, mais qui sait s'il\ncompte vraiment le faire..."
+        ],
+        "363-0-message": [
+            "Kanna Kizuchi\nUne collégienne.\nSa grande sœur est morte lors de la Première Épreuve.",
+            "\\.Elle se déteste et se blâme pour le décès de sa sœur.\nSara et Mishima lui ont menti pour son bien, mais...\nRillante l'a insultée de \"tueuse de sœur\",\nce qui n'a fait qu'empirer son état.",
+            "\\.Durant le Jeu Principal, son comportement avait l'air\nd'insinuer qu'elle était de mèche avec Sou.\nCe qu'il s'est passé entre eux...\nC'est un mystère."
+        ],
+        "364-0-message": [
+            "Q-taro Burgerberg\nUn joueur de baseball qui dit être sur le\npoint de faire un comeback.",
+            "\\.Malgré son physique gigantesque et tape-à-l'œil, il\nest de nature très méfiante. Il aurait grandi dans un\nétrange orphelinat, ce qui expliquerait son accent\net son jargon désordonné.",
+            "\\.Il a été le premier à prouver sa volonté de\nsurvivre en remettant les autres en question\nlors du Jeu Principal.",
+            "\\.Il a du mal à croire que Kai était avec les kidnappeurs.\nC'est pourquoi il veut trouver la vérité derrière ses\nconfessions et ses dernières paroles."
+        ],
+        "365-0-message": [
+            "Sou Hiyori\nIl dit être intérimaire.\nIl se comportait de manière timide et enjouée...",
+            "\\.Il est incroyablement faible pour un homme adulte.\n Malgré le fait qu'il semblait ne pas aimer le conflit,\n il exhume en permanence une aura \"sombre.\"",
+            "\\.Il a été très bouleversé lorsque Nao l'a attaqué\npour lui voler l'ordinateur contenant des indices.",
+            "\\.Pendant le Jeu Principal, Sou a brisé la confiance\nque le groupe avait pour lui. Cela l'a rendu vicieux\net fou au point d'effrayer les autres survivants."
+        ],
+        "366-0-message": [
+            "Reko Yabusame\nUne auteure-compositrice devenue suffisamment\npopulaire pour être dans des magazines.",
+            "\\.Elle fait partie d'un groupe de musique très flashy.\nElle est inquiète pour ses bongos.\nElle les apprécie beaucoup.\nGentille avec les faibles, souvent dure avec les hommes.",
+            "\\.Elle a admis qu'Alice était son frère au Jeu Principal.\nDepuis qu'il a tué quelqu'un et qu'il s'est fait arrêter\npour homicide, ils ont totalement coupé les ponts."
+        ],
+        "367-0-message": [
+            "Nao Egokoro\nUne étudiante d'art en université.\nTient énormément à l'un de ses professeurs de lycée,\nMonsieur Mishima.",
+            "\\.Elle lui fait énormément confiance.\nElle a réussi la Première Épreuve en coopérant avec lui.",
+            "\\.Après le décès de Monsieur Mishima à l'issue du\nvote qui servait de test, elle a perdu l'esprit.\nElle a pris sa tête, l'a placée dans une boîte et\ns'est enfuie.",
+            "\\.Suite aux menaces de Kai, elle a assommé Sou pour\nlui donner l'ordinateur. Après avoir appris que la tête\nde Monsieur Mishima avait disparu, elle a réalisé\nqu'il l'avait trahie."
+        ],
+        "368-0-message": [
+            "Kai Satou\nIl dit être assistant-ménager.\n... C'est aussi un excellent combattant.",
+            "\\.Il agit de manière très particulière.\nSara s'est rendue compte que Kai était le stalkeur\nqui l'avait pourchassée le jour de son enlèvement.",
+            "\\.Il a menacé Nao pour récupérer l'ordinateur de Sou.\nIl est aussi suspecté d'avoir caché la tête de Monsieur\nMishima que Nao cherchait à protéger quelque part.",
+            "\\.Il a admis avoir été en contact avec les kidnappeurs\nlors du Jeu Principal. Malgré cela, il a montré une\nforte hostilité envers Rillante.",
+            "\\.Sou a révélé ses mails, prouvant qu'il est lié aux\nChidouins, la famille de Sara. Il a aussi montré une\naffection envers elle. Il s'est fait exécuter. Est-il\nvraiment possible de connaître la vérité à son sujet...?"
+        ],
+        "369-0-message": [
+            "Gin Ibushi\nUn collégien plutôt insolent qui finit ses phrases\npar \"ouaf\" et \"miaou\".\"",
+            "\\.Il adore sa \"grande sœur Sara\".\nIl a fait son dur à cuire lors des épreuves, mais après\navoir été piégé dans une cage, il a été terrorisé.",
+            "\\.La note que Gin a trouvée dans la déchiqueteuse\na révélé qu'Alice Yabusame était un meurtrier."
+        ],
+        "370-0-message": [
+            "Kazumi Mishima\nUn professeur de lycée qui a l'air très suspect,\nmais qui est en vérité un homme très noble.",
+            "\\.Il fait énormément confiance à son ancienne élève Nao.\nEnsemble, ils ont réussi la Première Épreuve.",
+            "\\.Ne voulant pas mettre en péril la vie de son élève,\nil a rassemblé des voix lors du vote servant de test.\nCela lui a coûté la vie.",
+            "\\.Cela a rendu Nao inconsolable.\nElle a mis sa tête dans une boîte pour ensuite\ns'enfuir avec."
+        ],
+        "371-0-message": [
+            "Alice Yabusame\nUn meurtrier.\nIl a menti en disant que c'était un voleur\net qu'il s'appelait Gonbee Yamada.",
+            "\\.Il est resté caché dans la Salle Rouge pendant\nque le reste du groupe s'occupait des épreuves\njusqu'à ce que Sara le trouve.",
+            "\\.Durant le Jeu Principal, il a admis être Alice Yabusame.\nC'est un meurtrier et le grand frère de Reko.",
+            "\\.Après le Jeu Principal, il a parlé avec Keiji.\n\"La personne que j'ai tuée s'appelait Sou Hiyori\"..."
+        ],
+        "372-0-message": [
+            "La Poupée Rieuse, Sue Rillante\nUne dame du côté des kidnappeurs.\nQuand sa poupée démembrée a été rassemblée,\nelle a pris vie.",
+            "\\.Elle dit être le Maître d'Étage.\nC'est elle qui a expliqué les règles du Jeu Principal\net qui a distribué les objets nécessaires au bon\nfonctionnement de la Démocratie Mortelle.",
+            "\\.Ses faits et gestes sont emplies de malveillance.\nElle déroute les participants et achève leurs vies.\nElle a détruit le mental de Kanna et de Sara.",
+            "\\.Kai et Q-taro ont réussi à la faire saigner en\nse battant avec et elle est souvent énervée...\nEst-elle vraiment une \"poupée\" ?"
+        ],
+        "373-0-message": [
+            "Conclure les rappels ?"
         ]
     },
     "map107": {
@@ -24184,7 +24262,7 @@
     "map63": {
         "2-1-message": [
             "Touchez un personnage pour consulter les\nfaits et informations qui le concernent\nantérieurs au Chapitre 2.",
-            "\\.Cliquez sur la porte \\C[2]EXIT\\C[0] pour commencer l'histoire."
+            "\\.Cliquez sur la porte \\C[2]SORTIE\\C[0] pour continuer l'histoire."
         ]
     },
     "map64": {
@@ -24506,6 +24584,18 @@
             null,
             null,
             null,
+            "\\.\"..........\""
+        ]
+    },
+    "map83": {
+        "1-1-message": [
+            "\\.\"..........\"",
+            "\\.\"... Je suis...\\.\\. désolée...\"",
+            "\\.\"..........\"",
+            "\\.\"... Gorille musclé...\"",
+            "\\.\"... Grande sœur Sara...\"",
+            "\\.\"..........\"",
+            "\\.\"M...\\.\\. Maman...\"",
             "\\.\"..........\""
         ]
     }
