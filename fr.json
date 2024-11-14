@@ -15447,9 +15447,9 @@
         ],
         "360-0-message": [
             "Sara Chidouin\nProtagoniste de l'histoire.\nUne lycéenne normale du Lycée Sonobeno.",
-            "\\.En rentrant tard chez elle des cours,\nelle tombe nez à nez avec son stalkeur.\nUne fois rentrée, elle retrouve sa mère inconsciente.",
-            "\\.Elle se réveille ensuite dans un endroit inconnu aux\ncôtés de 11 autres personnes. Elle parvient à gagner\nleur confiance en remportant des épreuves mortelles.",
-            "\\.Mais à l'issue du Jeu Principal...\nSon meilleur ami Joe meurt.\nSuite aux décès du professeur Mishima et de\nl'assistant-ménager Kai, il ne sont plus que 9..."
+            "\\.En rentrant tard chez elle des cours, elle est tombée\nnez à nez avec son stalkeur. Une fois rentrée, elle a\nretrouvé sa mère inconsciente.",
+            "\\.Elle s'est ensuite réveillée dans un endroit inconnu aux\ncôtés de 11 autres personnes. Elle a réussi à gagner\nleur confiance en remportant des épreuves mortelles.",
+            "\\.Mais à l'issue du Jeu Principal...\nSon meilleur ami Joe est mort.\nSuite aux décès du professeur Mishima et de\nl'assistant-ménager Kai, ils ne sont plus que 9..."
         ],
         "361-0-message": [
             "Jou Tazuna\nCamarade de classe de Sara, la protagoniste.\nSon meilleur ami au tempérament agréable et enjoué.",
@@ -15475,9 +15475,9 @@
         ],
         "365-0-message": [
             "Sou Hiyori\nIl dit être intérimaire.\nIl se comportait de manière timide et enjouée...",
-            "\\.Il est incroyablement faible pour un homme adulte.\n Malgré le fait qu'il semblait ne pas aimer le conflit,\n il exhume en permanence une aura \"sombre.\"",
+            "\\.Il est incroyablement faible pour un homme adulte.\nMalgré le fait qu'il semblait ne pas aimer le conflit,\nil exhume en permanence une aura \"sombre.\"",
             "\\.Il a été très bouleversé lorsque Nao l'a attaqué\npour lui voler l'ordinateur contenant des indices.",
-            "\\.Pendant le Jeu Principal, Sou a brisé la confiance\nque le groupe avait pour lui. Cela l'a rendu vicieux\net fou au point d'effrayer les autres survivants."
+            "\\.Pendant le Jeu Principal, Sou a brisé la confiance\nque le groupe avait en lui. Cela l'a rendu vicieux\net fou au point d'en effrayer les autres survivants."
         ],
         "366-0-message": [
             "Reko Yabusame\nUne auteure-compositrice devenue suffisamment\npopulaire pour être dans des magazines.",
@@ -15487,15 +15487,15 @@
         "367-0-message": [
             "Nao Egokoro\nUne étudiante d'art en université.\nTient énormément à l'un de ses professeurs de lycée,\nMonsieur Mishima.",
             "\\.Elle lui fait énormément confiance.\nElle a réussi la Première Épreuve en coopérant avec lui.",
-            "\\.Après le décès de Monsieur Mishima à l'issue du\nvote qui servait de test, elle a perdu l'esprit.\nElle a pris sa tête, l'a placée dans une boîte et\ns'est enfuie.",
-            "\\.Suite aux menaces de Kai, elle a assommé Sou pour\nlui donner l'ordinateur. Après avoir appris que la tête\nde Monsieur Mishima avait disparu, elle a réalisé\nqu'il l'avait trahie."
+            "\\.Après le décès de Monsieur Mishima à l'issue du\nvote qui servait de test, elle a perdu l'esprit.\nElle a pris sa tête, l'a placée dans une boîte et\ns'est enfuie avec.",
+            "\\.Suite aux menaces de Kai, elle a assommé Sou pour lui\ndonner l'ordinateur. Après avoir appris que la tête de\nMonsieur Mishima avait disparu, elle a réalisé qu'il\nl'avait trahie."
         ],
         "368-0-message": [
             "Kai Satou\nIl dit être assistant-ménager.\n... C'est aussi un excellent combattant.",
             "\\.Il agit de manière très particulière.\nSara s'est rendue compte que Kai était le stalkeur\nqui l'avait pourchassée le jour de son enlèvement.",
             "\\.Il a menacé Nao pour récupérer l'ordinateur de Sou.\nIl est aussi suspecté d'avoir caché la tête de Monsieur\nMishima que Nao cherchait à protéger quelque part.",
             "\\.Il a admis avoir été en contact avec les kidnappeurs\nlors du Jeu Principal. Malgré cela, il a montré une\nforte hostilité envers Rillante.",
-            "\\.Sou a révélé ses mails, prouvant qu'il est lié aux\nChidouins, la famille de Sara. Il a aussi montré une\naffection envers elle. Il s'est fait exécuter. Est-il\nvraiment possible de connaître la vérité à son sujet...?"
+            "\\.Sou a révélé ses mails, prouvant qu'il est lié aux\nChidouins, la famille de Sara. Il a aussi montré une\naffection envers elle. Il s'est fait exécuter. Est-il\nvraiment possible de trouver la vérité à son sujet...?"
         ],
         "369-0-message": [
             "Gin Ibushi\nUn collégien plutôt insolent qui finit ses phrases\npar \"ouaf\" et \"miaou\".\"",
@@ -15517,7 +15517,7 @@
         "372-0-message": [
             "La Poupée Rieuse, Sue Rillante\nUne dame du côté des kidnappeurs.\nQuand sa poupée démembrée a été rassemblée,\nelle a pris vie.",
             "\\.Elle dit être le Maître d'Étage.\nC'est elle qui a expliqué les règles du Jeu Principal\net qui a distribué les objets nécessaires au bon\nfonctionnement de la Démocratie Mortelle.",
-            "\\.Ses faits et gestes sont emplies de malveillance.\nElle déroute les participants et achève leurs vies.\nElle a détruit le mental de Kanna et de Sara.",
+            "\\.Ses faits et gestes sont emplis de malveillance.\nElle déroute les participants et achève leurs vies.\nElle a détruit le mental de Kanna et de Sara.",
             "\\.Kai et Q-taro ont réussi à la faire saigner en\nse battant avec et elle est souvent énervée...\nEst-elle vraiment une \"poupée\" ?"
         ],
         "373-0-message": [
@@ -16869,7 +16869,7 @@
             "\"O-Oui ?\"",
             "\"Kai. Ça fait combien d'années que t'es avec nous ?\"",
             "\\.\"Hm... Bonne question...\n Cela fait certainement assez longtemps.\"",
-            "\\.\"Bahaha ! Quel bosseur.\n C'est pour ça que je veux te donner ça.\"",
+            "\\.\"Bahaha ! T'es un bosseur, toi.\n C'est pour ça que je veux te donner ça.\"",
             "\\.\"Qu'est-ce donc...?\"",
             "\\.\"Allez, allez, essaie-le.\"",
             "\"..........\"",
@@ -16880,8 +16880,8 @@
             "\\.\"E-Euh... S'agit-il ainsi d'une manière\n de m'exprimer votre gratitude...?\"",
             "\\.\"Nan. C'est pas de la gratitude en tant qu'employeur.\"",
             "\\.\"Ce tablier... appartenait à ma mère.\"",
-            "\\.\"En gros, ça veut dire que t'as fait ton entrée\n dans la tradition des assistants ménagers !\"",
-            "\\.\"Des assistants ménagers...?\"",
+            "\\.\"En gros, ça veut dire que tu fais officiellement\n partie de notre tradition d'assistants ménagers !\"",
+            "\\.\"D'assistants ménagers...?\"",
             "\\.\"Et ça montre aussi... ton lien avec\n la famille Chidouin.\"",
             "\\.\"...!!\"",
             "\\.\"Pour moi... Tu fais partie de la famille.\"",
@@ -16905,7 +16905,7 @@
             "\\.\"Car notre famille a un héros qui la protégera\n depuis les ombres.\"",
             "\\.\"... Je vous en prie, ne dites pas que\n je suis un \"héros\".\"",
             "\\.\"Je ne suis rien qu'un traître...\"",
-            "\\.\"Je resterai une ombre, jamais connue...\n Et je continuerai simplement de protéger\n Madame Chidouin.\"",
+            "\\.\"Je resterai une ombre, jamais connue...\n Et je continuerai à protéger Madame Chidouin.\n Tout simplement.\"",
             "\\.\"... Telle est ma fonction.\"",
             "\\.\"...\"",
             "\\.\"... Toutefois.\"",
@@ -17116,8 +17116,8 @@
             "\\.\"... Rien échappe à Monsieur le Policier.\"",
             "\\.\"Alors... T'as eu une \\C[2]hallucination\\C[0] de Joe.\"",
             "\\.\"... Oui.\"",
-            "\\.\"Vraiment content que t'aies rien de grave.\n Viens, assis toi sur le lit.\"",
-            "\\.\"... On sommes-nous ?\"",
+            "\\.\"Vraiment content que t'aies rien de grave.\n Viens, assis-toi sur le lit.\"",
+            "\\.\"... Où sommes-nous ?\"",
             "\\.\"On est au \\C[2]deuxième étage\\C[0].\n Y a des chambres ici, une par personne.\n En gros : \"Reposez-vous\".\"",
             "\\.\"Ah, d'accord...\"",
             "\\.\"Avec plaisir, mais...\n Je pense que tu devrais dormir un peu plus.\"",
@@ -17205,7 +17205,7 @@
         "16-1-message": [
             "\\C[3]Je vois mon reflet dans la fenêtre.",
             "\\.\\C[4](J'ai vraiment mauvaise mine...\n Je ressemble à un cadavre.)",
-            "\\C[4](Ça suffit...\nCe n'est pas le moment de m'observer...)",
+            "\\C[4](Aller, ça suffit... Pas le moment de me scruter...)",
             "\\.\\C[10]\"Sara...\"",
             "\\.\\C[4](Hein...?)"
         ],
@@ -17238,14 +17238,14 @@
             "\\.\"...\"",
             "\\.\"Reko... Elle chante purement par chagrin pour\n ceux qui ne sont plus parmi nous.\"",
             "\\.\"Je ne souhaite pas que ma présence la distrait.\"",
-            "\\.\"C'est que t'es méticuleux avec elle, hein ?\"",
+            "\\.\"C'est que t'es attentionné avec elle, hein ?\"",
             "\\.\"... Toujours provocateur, toi.\"",
             "\\.\"..........\"",
             "\\.\"... Vous...\"",
             "\\.\"Que pensez-vous... de Reko ?\"",
             "\\.\"Hein...?\"",
             "\"Mouahaha... Je vois.\"",
-            "\\.\"Ça, c'est sûr. Elle a aucune pitié pour les hommes\n comme Monsieur le Policier.\"",
+            "\\.\"Après, elle a aucune pitié pour les hommes\n comme Monsieur le Policier.\"",
             "\"... Effrayante... Hm...\"",
             "\\.\"Je trouve qu'elle est plutôt gentille avec toi, Sara...\n Comparé à moi.\"",
             "\"... Je suppose que ça peut être un compliment.\"",
@@ -17256,10 +17256,10 @@
             "\\.\"...\"",
             "\\.\"... Elle était différente, auparavant.\"",
             "\\.\"Auparavant...?\"",
-            "\"... Non, l'inverse.\"",
+            "\"... Non, tout le contraire.\"",
             "\"... Précisément.\"",
             "\\.\"Elle a toujours été pleine d'énergie.\n Elle a un talent iné pour la musique et\n pour charmer les autres.\"",
-            "\\.\"Elle était sévère, y compris avec elle-même...\n Mais surtout envers les faibles qui parlaient\n beaucoup pour ne rien faire au final.\"",
+            "\\.\"Elle était sévère, y compris avec elle-même...\n Mais surtout envers les faibles qui parlaient\n beaucoup pour au final ne rien faire.\"",
             "\\.\"Elle a terriblement changé.\"",
             "\\.\"À cause de ton meurtre, j'imagine...?\"",
             "\\.\"...!\"",
@@ -17726,7 +17726,7 @@
             "\\.\"...\""
         ],
         "2-1-message": [
-            null,
+            "\\.\\C[3]Keiji traite la blessure de Gin.",
             null,
             null,
             null,
@@ -17763,21 +17763,29 @@
     "map77": {
         "2-1-message": [
             null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\"...\""
+            "\\.\"Sara !\\.\\. T'vas mieux, maintenant ?!\"",
+            "\\.\"Q-taro...\"",
+            "\\.\"Dieu merci...\n J'savais t'étais une dure à cuire...\n On sait jamais, t'sais...\"",
+            "\\.\"Je... ne suis pas... forte du tout...\"",
+            "\\.\"... Ouais, t'inquiète. Désolé.\"",
+            "\\.\"T'as beaucoup souffert...\n T'dire d'pas t'en faire après avoir vécu ça,\n c'serait juste être insensible.\"",
+            "\\.\"Mais laisse-moi t'dire un truc !\n T'as rien fait d'mal !!\"",
+            "\\.\"Rillante, c'juste une poupée à la con !\n T'sens pas coupable, Sara ! Jamais !!\"",
+            "\\.\"...\"",
+            "\\.\"M'remercie pas... J'ai rien pu faire.\"",
+            "\\.\"... C'est... Pour ça que...\n J'veux remplir sa dernière requête...!!\"",
+            "\\.\"Ouais...! J'veux venger ton meilleur pote...\n Mais aussi...\"",
+            "\\.\"Kai...! Sa dernière requête...\n J'vais m'assurer d'la réaliser...!!\"",
+            "\\.\"Q-taro...\"",
+            "\\.\"J'reprends les recherches. J'veux trouver des pistes.\n Que ce soit sur une sortie ou sur les kidnappeurs.\"",
+            "\\.\"Je... vais faire de mon mieux aussi.\"",
+            "\\.\"... Ce gorille...\n Il est gentil, en fait, miaou.\""
         ],
         "15-3-message": [
-            null,
-            null,
-            null,
-            null,
+            "\\.\"Bien, on est au Couloir en Ruines.\"",
+            "\\.\"Par ici ! Il y a un passage au fond !\"",
+            "\\.\\C[4](Ce n'est pas le même chemin que le passage\n de la Salle Effondrée...)",
+            "\\.\"Il fait vraiment sombre ici...\n Qui aurait-pu deviner que c'était là ?\"",
             null,
             null,
             null,
@@ -18014,6 +18022,108 @@
         "19-3-message": [
             null,
             "\\.\"Nao...\""
+        ],
+        "2-1-choice": [
+            "Merci beaucoup\nJe ferai payer Rillante"
+        ],
+        "2-2-message": [
+            "\\.\"Bon, c'bien beau tout ça...\n Mais j'commence à avoir un peu faim, moi.\"",
+            "\\.\\C[4](Je n'ai rien mangé depuis le début non plus...)"
+        ],
+        "3-1-message": [
+            "\\C[3]Il y a un bonnet vert par terre.",
+            "\\.\"C'est... le bonnet de Sou...?\"",
+            "\\.\"Il doit rôder dans les parages !\"",
+            "\\.\"Tu penses qu'on devrait appeller Reko\n et les autres...?\"",
+            "\\.\"Il doit rôder dans les parages !\"",
+            "\\.\"H-Hé, regardez !\n Au fond à droite, et derrière...\"",
+            "\\.\"Il y a des attractions, miaou !\"",
+            "\\.\\C[4](Ne me dites pas... que Sou y est allé seul...)",
+            "\\.\"On devrait pas pouvoir rentrer sans être\n en paire, mais...\"",
+            "\\.\"Quelqu'un ferait mieux d'aller vérifier... au cas où.\"",
+            "\\.\\C[4](..........)",
+            "\"Je vais y aller...!\"",
+            "\\.\"T-T'sérieuse, Sara ?!\"",
+            "\"Allez regarder dans les autres salles.\"",
+            "\\.\"Je... m'en occupe !\"",
+            "\\.\"T-T'sérieuse, Sara ?!\"",
+            "\\.\"... Tu t'es déjà décidée.\n Pas moyen de te faire changer d'avis, hein ?\n Choisis une \\C[2]attraction à faire\\C[0].\"",
+            "\\.\"... Et aussi \\C[2]qui prendre avec toi\\C[0].\""
+        ],
+        "4-2-message": [
+            "\\C[3]Je devrais chercher Sou."
+        ],
+        "5-2-message": [
+            "\\C[3]Je devrais chercher Sou."
+        ],
+        "13-2-message": [
+            "\\C[3]Je devrais chercher Sou."
+        ],
+        "14-3-message": [
+            "\"Ce couloir... C'un vrai labyrinthe.\""
+        ],
+        "15-1-message": [
+            "\\.\"T'es là ! Personne t'as vu, hein ?\"",
+            "\\.\"Non. Où allons-nous ?\"",
+            "\\.\"C'passage, là !\"",
+            "\\.\"Y a une ouverture dans les gravats, là.\n T'arrives à passer ?\"",
+            "\\.\"I-Il y a un trou...!\n Où est-ce qu'il amène ?\"",
+            "\\.\"Hahaha... T'vas bientôt l'découvrir !\"",
+            "\\.\\C[4](Où est-ce qu'on est...?)"
+        ],
+        "66-1-message": [
+            "\"J'vais pas laisser Ray faire tout c'qu'il veut...!\""
+        ],
+        "64-3-message": [
+            "\"Ce couloir... C'un vrai labyrinthe.\""
+        ],
+        "65-3-message": [
+            "\"Ce couloir... C'un vrai labyrinthe.\""
+        ],
+        "66-3-message": [
+            "\"Ce couloir... C'un vrai labyrinthe.\""
+        ],
+        "68-1-message": [
+            "\"J'vais pas laisser Ray faire tout c'qu'il veut...!\""
+        ],
+        "70-1-message": [
+            "\"J'vais pas laisser Ray faire tout c'qu'il veut...!\""
+        ],
+        "67-3-message": [
+            "\"Ce couloir... C'un vrai labyrinthe.\""
+        ],
+        "68-3-message": [
+            "\"Ce couloir... C'un vrai labyrinthe.\""
+        ],
+        "69-3-message": [
+            "\"Ce couloir... C'un vrai labyrinthe.\""
+        ],
+        "3-1-choice": [
+            "Je vais le faire\nRegardez ailleurs"
+        ],
+        "14-1-message": [
+            "\"J'vais pas laisser Ray faire tout c'qu'il veut...!\""
+        ],
+        "17-4-message": [
+            "\"J'vais pas laisser Ray faire tout c'qu'il veut...!\""
+        ],
+        "64-1-message": [
+            "\"J'vais pas laisser Ray faire tout c'qu'il veut...!\""
+        ],
+        "65-1-message": [
+            "\"J'vais pas laisser Ray faire tout c'qu'il veut...!\""
+        ],
+        "67-1-message": [
+            "\"J'vais pas laisser Ray faire tout c'qu'il veut...!\""
+        ],
+        "69-1-message": [
+            "\"J'vais pas laisser Ray faire tout c'qu'il veut...!\""
+        ],
+        "17-6-message": [
+            "\"Ce couloir... C'un vrai labyrinthe.\""
+        ],
+        "70-3-message": [
+            "\"Ce couloir... C'un vrai labyrinthe.\""
         ]
     },
     "map78": {
@@ -18611,8 +18721,8 @@
             "\\.\"Bon, d'accord !\n\\! ... T'es tellement bruyant.\n Ce n'est pas le moment de parler.\"",
             "\\.\"Oh, et hé, en échange...\"",
             "\\.\"... J'ai compris. Je ramène Ryoko.\"",
-            "\\.\"Hein, sérieux ?!\n\\! ... Non, c'est pas ce que je voulais !\"",
-            "\\.\"Sérieusement, fais moins de bruit...!!\n Qu'est-ce que tu voulais dire ?\"",
+            "\\.\"Hein, sérieux ?!\n\\! ... Non, c'est pas ce que je voulais demander !\"",
+            "\\.\"Sérieusement, fais moins de bruit...!!\n Qu'est-ce que t'allais dire ?\"",
             "\\.\"... Je vous en prie, montrez-moi vos réponses,\n Seigneure Sara...\"",
             "\\.\"O-On est en cours, tu sais ?\n Bien évidemment que je ne vais pas te les donner.\"",
             "\\.\"Juste pour une seconde !! Je recopie vite !\"",
@@ -18629,7 +18739,7 @@
             "\\.\"T'as quelque chose à dire à ce sujet ?\"",
             "\\.\"Je... Je...\"",
             "\\.\"Hahaha, mais pourquoi tu t'excuses ?\"",
-            "\\.\"Hahaha ! Pas besoin de garder le silence.\"",
+            "\\.\"Hahaha ! Pourquoi tu dis rien ?\"",
             "\\.\\C[10]\"T'es qu'une sale tueuse !\"",
             "\\.\"... Non...! Je...!!\"",
             "\\.\"Je n'avais pas d'autre choix... que d'aller\n de l'avant...!!\"",
@@ -24793,7 +24903,7 @@
         "name": "Longs Escaliers"
     },
     "items-110": {
-        "name": "Salon Principal"
+        "name": "Hall d'Entrée"
     },
     "items-112": {
         "name": "Salle de Relaxation"
