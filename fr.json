@@ -16972,7 +16972,22 @@
             "\\.\"Hein...? J-Je n'ai pas l'intention de faire quoi\n que ce soit de mal...\"",
             "\\.\"... Tss.\"",
             "\\.\"...\"",
-            "\\.\"...Alice.\""
+            "\\.\"... Alice.\"",
+            "\\.\"Toi aussi, tu la trouves intimidante...?\"",
+            "\\.\"... Les hommes...\"",
+            null,
+            "\\.\"... Reko n'était pas comme ça, avant.\"",
+            "\\.\"... Tu veux dire qu'elle était aussi sympa\n avec les mecs ?\"",
+            "\\.\"Non, l'inverse.\n Elle était en plus sévère avec les femmes.\"",
+            "\\.\"Depuis sa naissance, elle a un talent inné pour\n la musique et pour charmer les autres.\"",
+            "\\.\"Elle était sévère avec elle-même...\n Mais surtout avec les faibles et les incompétents.\"",
+            "\\.\"Elle a terriblement changé...\"",
+            "\\>\\C[10]Les faibles... hein ?\\<\\|\\^",
+            "\\.\"Cependant, je connais très bien Reko.\n J'ai remarqué ce changement l'instant où je l'ai vue.\n\\! ... Et je ne parle pas de son apparence.\"",
+            null,
+            "\\.\"Elle est simplement vulgaire.\n Ne lui en voulez pas...\"",
+            "\\.\"... A-Ahahah, mais naturellement...\"",
+            "\\.\"O-Oui. C'est bien cela.\""
         ],
         "2-1-message": [
             null,
@@ -16996,7 +17011,33 @@
             null,
             null,
             null,
-            "\\.\"...\""
+            "\\.\"...\"",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.\"... Reko n'était pas comme ça, avant.\"",
+            "\\.\"... Genre, elle était sympa avec les mecs aussi ?\"",
+            "\\.\"Non, l'inverse.\n Elle était en plus sévère avec les femmes.\"",
+            "\\.\"Depuis sa naissance, elle a un talent inné pour\n la musique et pour charmer les autres.\"",
+            "\\.\"Elle était sévère avec elle-même...\n Mais surtout avec les faibles qui n'essayaient\n même pas.\"",
+            "\\.\"Elle a terriblement changé.\"",
+            "\\.\"À cause de ton meurtre, j'imagine...?\"",
+            "\\.\"...!\"",
+            "\\.\"Mouahaha... C'est exactement cela...\"",
+            "\\.\"... Pardonnez mes divagations.\"",
+            "\\.\\C[4](Hmm... Le nom de la personne qu'Alice a tué...)",
+            "\\.\\C[4](C'était \\C[2]Sou Hiyori\\C[4]... Si je me rappelle bien.)"
+        ],
+        "2-1-choice": [
+            "Pourquoi pas lui parler ?\n... Un peu triste comme chanson, hein...?",
+            "Elle est dure avec les hommes\nJe l'aime bien\nElle est pas méchante"
         ]
     },
     "map72": {
@@ -24720,6 +24761,11 @@
             "\\.\"..........\"",
             "\\.\"M...\\.\\. Maman...\"",
             "\\.\"..........\""
+        ]
+    },
+    "map70": {
+        "2-1-message": [
+            "\\.\"OUAAAAAAAAAAaaaaah...!!\""
         ]
     }
 }
