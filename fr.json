@@ -16956,7 +16956,7 @@
             "\\.\"Alice...\"",
             "\\.\"... Reko et moi sommes de parfaits\n inconnus, désormais.\"",
             "\\.\"Même... malgré notre situation...\"",
-            "\\.\"Peut-être que pour Reko... C'est un requiem...\"",
+            "\\.\"Peut-être que c'est ça, pour Reko, un requiem...\"",
             "\\.\"...\"",
             "\\.\"... Vous voulez ma photo ?\"",
             "\\.\"...!\"",
@@ -16990,38 +16990,38 @@
             "\\.\"O-Oui. C'est bien cela.\""
         ],
         "2-1-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\C[3]Reko chante tout bas...",
+            "\\.\\C[4](... Hm...)",
+            "\\.\"... Jolie voix, n'est-ce pas ?\"",
+            "\\.\"Ouah, salut.\n Tu fais quoi, planqué là ?\"",
+            "\\.\"... Hmph.\n Je fais ce que j'ai envie de faire.\n Je me mets où je veux pour l'écouter chanter.\"",
+            "\\.\\C[4](... OK, j'imagine.)",
+            "\\.\"Ne sois pas absurde. Reko et moi, nous ne sommes plus\n que des inconnus désormais.\"",
+            "\\.\"Hmph... Vous devriez pas faire vos têtes de mule.\n Pas dans une situation pareille.\"",
+            "\\.\"Peut-être que c'est ça, pour Reko, un requiem...\"",
             "\\.\"...\"",
-            null,
-            null,
+            "\\.\"... Vous foutez quoi, tous les deux ?\"",
+            "\\.\"...!\"",
             "\\.\"...\"",
-            null,
-            null,
-            null,
+            "\\.\"... Hé, Reko.\n Comment elle va, Sara ?\"",
+            "\\.\"... Elle arrête pas de se retourner dans son sommeil.\"",
+            "\\.\"J'peux rien faire pour elle...\"",
             "\\.\"Si seulement ma chanson...\n Pouvait améliorer son état...\"",
-            null,
-            null,
-            null,
-            null,
+            "\\.\"Tu devrais penser à toi, aussi.\n Repose-toi un peu.\"",
+            "\\.\"... En espérant que t'ailles pas faire\n n'importe quoi pendant ce temps-là.\"",
+            "\\.\"Hé bah...\n Tu me fais pas confiance, hein.\"",
+            "\\.\"... Je suis pas méchant, contrairement à\n ce que tu penses.\"",
             "\\.\"...\"",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\.\"Keiji... Que penses-tu de Reko ?\"",
+            "\\.\"Reko...\"",
+            "\\.\"Elle a l'air d'avoir une dent contre moi...\n Ça, je parie que c'est parce que je suis un homme.\"",
+            "\\.\"Vraiment...?\"",
+            "\\.\"J'aime vraiment sa détermination.\"",
+            "\\.\"Si tu oses lever la main sur Reko, je te ferai\n découvrir ce que ça fait d'être aux portes\n de la mort !!\"",
+            "\\.\\C[4](Je vois bien Reko faire pareil...\n Sauf qu'elle, elle s'arrêterait pas juste\n aux portes de la mort.)",
+            "\\.\"Ben, elle est pas méchante.\n Juste intimidante.\"",
+            "\\.\"Intimidante...? Je vois...\"",
+            "\\.\"..........\"",
             "\\.\"... Reko n'était pas comme ça, avant.\"",
             "\\.\"... Genre, elle était sympa avec les mecs aussi ?\"",
             "\\.\"Non, l'inverse.\n Elle était en plus sévère avec les femmes.\"",
@@ -17038,6 +17038,10 @@
         "2-1-choice": [
             "Pourquoi pas lui parler ?\n... Un peu triste comme chanson, hein...?",
             "Elle est dure avec les hommes\nJe l'aime bien\nElle est pas méchante"
+        ],
+        "1-1-choice": [
+            "Tu vas pas parler à Reko ?\n... Un peu triste, comme chanson",
+            "Elle a toujours été aussi flippante ?\nElle déteste les hommes ?"
         ]
     },
     "map72": {
@@ -24765,7 +24769,29 @@
     },
     "map70": {
         "2-1-message": [
-            "\\.\"OUAAAAAAAAAAaaaaah...!!\""
+            "\\.\"OUAAAAAAAAAAaaaaah...!!\"",
+            "\\.\\C[4](C'est la voix de Sara...!)"
         ]
+    },
+    "items-111": {
+        "name": "Couloir en Ruines"
+    },
+    "items-114": {
+        "name": "Salle des Écrans"
+    },
+    "items-113": {
+        "name": "Ma Chambre"
+    },
+    "items-115": {
+        "name": "Cabinet Médical"
+    },
+    "items-116": {
+        "name": "Longs Escaliers"
+    },
+    "items-110": {
+        "name": "Salon Principal"
+    },
+    "items-112": {
+        "name": "Salle de Relaxation"
     }
 }
