@@ -15528,6 +15528,9 @@
             "\\.\\C[3]Le \\C[10]Niveau d'Hallucination\\C[3] est un nombre\nreprésentant l'état mental de Sara.",
             "\\.\\C[3]À chaque fois qu'elle se souvient de Joe, il augmente.",
             "\\.\\C[3]Faites attention, ne le laissez pas trop monter."
+        ],
+        "595-0-message": [
+            "Une longue corde blanche.\n... Je ne sais pas pourquoi elle s'appelle comme ça."
         ]
     },
     "map107": {
@@ -15793,7 +15796,8 @@
         "name": "Essence"
     },
     "items-173": {
-        "name": "Tablette"
+        "name": "Tablette",
+        "description": "Une tablette permettant de consulter son rôle.\nElle était à côté de Q-taro, inconscient dans\nla Salle Éffondrée."
     },
     "items-174": {
         "name": "Tablette"
@@ -24793,5 +24797,119 @@
     },
     "items-112": {
         "name": "Salle de Relaxation"
+    },
+    "items-155": {
+        "name": "Toile de la Joie",
+        "description": "Une longue corde blanche.\n... Je ne sais pas pourquoi elle s'appelle comme ça."
+    },
+    "items-164": {
+        "name": "Cookies (Nourriture)"
+    },
+    "items-117": {
+        "name": "Stand d'Échange"
+    },
+    "items-118": {
+        "name": "Chambre de Sou"
+    },
+    "items-119": {
+        "name": "Salle Effondrée"
+    },
+    "items-120": {
+        "name": "Salle de l'Ép. de Kanna"
+    },
+    "items-121": {
+        "name": "Fuir"
+    },
+    "items-122": {
+        "name": "Salle des Tromperies"
+    },
+    "items-123": {
+        "name": "Entrepôt des Poupées"
+    },
+    "items-124": {
+        "name": "Chambre de Nao"
+    },
+    "items-125": {
+        "name": "Profondeurs de l'Entr."
+    },
+    "items-126": {
+        "name": "Salle des Gagnants"
+    },
+    "items-127": {
+        "name": "Sortie du Complexe"
+    },
+    "items-156": {
+        "name": "Toile de la Joie"
+    },
+    "items-158": {
+        "name": "Article sur le Groupe"
+    },
+    "items-159": {
+        "name": "\\I[19]Quatre Notes",
+        "description": "Des notes listant les participants de la Démocratie\nMortelle. Il n'y a que 16 noms dessus."
+    },
+    "items-160": {
+        "name": "Quatre Notes"
+    },
+    "items-161": {
+        "name": "Registre des Émails",
+        "description": "Un historique des émails de l'ordinateur de Kai.\n... Pas vraiment un objet, je la retiens dans ma tête."
+    },
+    "items-162": {
+        "name": "Registre des Émails"
+    },
+    "items-163": {
+        "name": "Matériaux (20)"
+    },
+    "items-165": {
+        "name": "100 Points de Base"
+    },
+    "items-167": {
+        "name": "Puce de Ray Alizée",
+        "description": "Une petite puce que contenait la tête de Ray Alizée.\nPeut désactiver les systèmes de sécurité du complexe."
+    },
+    "items-168": {
+        "name": "Puce de Ray Alizée"
+    },
+    "items-169": {
+        "name": "V. Surveillance du RDC",
+        "description": "Une vidéo filmée par les caméras du rez-de-chaussée.\nOn apparaît dessus. Sou a vu Q-taro placer les cartes."
+    },
+    "items-170": {
+        "name": "V. Surveillance du RDC"
+    },
+    "items-171": {
+        "name": "Clé Étiquetée",
+        "description": "Une mystérieuse clé trouvée dans la cuisine du\nrez-de-chaussée."
+    },
+    "items-172": {
+        "name": "Clé Étiquetée"
+    },
+    "items-175": {
+        "name": "Taser",
+        "description": "Un pistolet à décharge électrique jetable.\nIl peut paralyser quelqu'un.\nIl est dangereux, donc Gin et moi le gardons en secret."
+    },
+    "items-176": {
+        "name": "Taser"
+    },
+    "items-177": {
+        "name": "Vidéo d'une Victime",
+        "description": "Une vidéo que Nao possédait. Elle montre une\npolicière mourrant lors de la Première Épreuve.\nL'homme au premier plan... Ne serait-ce pas Keiji ?"
+    },
+    "items-178": {
+        "name": "Vidéo d'une Victime"
+    },
+    "items-128": {
+        "name": "Escaliers"
+    },
+    "items-141": {
+        "name": "Va te faire voir"
+    },
+    "items-140": {
+        "name": "Arrêter le Visionnage",
+        "description": "Arrêter de visionner les informations personnelles\nou les vidéos des victimes depuis la Salle des Écrans."
+    },
+    "items-157": {
+        "description": "Un article qui annonce la dissolution de 36-Rai 818\n(Samurai Yaiba). Citation de la Chanteuse :\n\"Je peux plus chanter les chansons de ce groupe.\""
     }
 }
