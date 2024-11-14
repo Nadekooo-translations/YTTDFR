@@ -16975,7 +16975,7 @@
             "\\.\"... Alice.\"",
             "\\.\"Toi aussi, tu la trouves intimidante...?\"",
             "\\.\"... Les hommes...\"",
-            null,
+            "\\.\"..........\"",
             "\\.\"... Reko n'était pas comme ça, avant.\"",
             "\\.\"... Tu veux dire qu'elle était aussi sympa\n avec les mecs ?\"",
             "\\.\"Non, l'inverse.\n Elle était en plus sévère avec les femmes.\"",
@@ -16984,7 +16984,7 @@
             "\\.\"Elle a terriblement changé...\"",
             "\\>\\C[10]Les faibles... hein ?\\<\\|\\^",
             "\\.\"Cependant, je connais très bien Reko.\n J'ai remarqué ce changement l'instant où je l'ai vue.\n\\! ... Et je ne parle pas de son apparence.\"",
-            null,
+            "\\.\"Hmm...\"",
             "\\.\"Elle est simplement vulgaire.\n Ne lui en voulez pas...\"",
             "\\.\"... A-Ahahah, mais naturellement...\"",
             "\\.\"O-Oui. C'est bien cela.\""
