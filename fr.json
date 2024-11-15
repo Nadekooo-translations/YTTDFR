@@ -15541,6 +15541,32 @@
             null,
             null,
             "\\C[10]Niveau d'Hallucination empiré de 20."
+        ],
+        "428-0-message": [
+            "\\C[3]Victoire."
+        ],
+        "446-0-message": [
+            "\\C[3]Victoire."
+        ],
+        "452-0-message": [
+            "\\C[3]Victoire."
+        ],
+        "462-0-message": [
+            "\\C[3]Victoire."
+        ],
+        "325-0-message": [
+            "\\C[3]Victoire."
+        ],
+        "350-0-message": [
+            null,
+            null,
+            "\\C[3]Victoire."
+        ],
+        "403-0-message": [
+            "\\C[3]Victoire."
+        ],
+        "419-0-message": [
+            "\\C[3]Victoire."
         ]
     },
     "map107": {
@@ -24184,6 +24210,12 @@
             null,
             null,
             "\"Encore un petit peu, miaou ! Bonne chance, woooouf !!\""
+        ],
+        "1-11-message": [
+            "\\C[3]Victoire."
+        ],
+        "20-11-message": [
+            "\\C[3]Victoire."
         ]
     },
     "items-95": {
