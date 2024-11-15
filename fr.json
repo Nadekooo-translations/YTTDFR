@@ -15540,7 +15540,7 @@
             null,
             null,
             null,
-            "\\C[10]Niveau d'Hallucinations empiré de 20."
+            "\\C[10]Niveau d'Hallucination empiré de 20."
         ]
     },
     "map107": {
@@ -17234,8 +17234,8 @@
     },
     "map75": {
         "2-1-message": [
-            "\\C[3]En rentrant dans ce grand hall illuminé, je remarque\nque des gens sont là.\\|",
-            "\\.\\C[3]Du chant résonne dans cette salle.",
+            "\\C[3]Une fois rentrée dans ce grand hall illuminé,\nje remarque des gens.\\|",
+            "\\.\\C[3]Du chant résonne à travers la salle.",
             "\\.\\C[4](C'est... la voix de Reko.)",
             "\\.\"... Envoûtée, Sara Chidouin ?\"",
             "\\.\"Hmph... Tu as une très mauvaise mine.\"",
@@ -17292,11 +17292,11 @@
             "\\.\"Sara, t'es au courant de tout ?\"",
             "\\.\"À part le fait qu'on nous a emmené au 2ème Étage...\n Il s'est rien passé.\"",
             "\\.\"Nous étions tous perdus, donc nous nous sommes\n reposés comme on nous l'avait ordonné...\"",
-            "\\.\"Pour l'instant, rien. Après cet affreux Jeu Principal,\n on a passé notre temps à nous reposer.\"",
+            "\\.\"Pour l'instant, rien.\n Après cet affreux Jeu Principal, on a passé notre\n temps à nous reposer.\"",
             "\\.\"Chaque personne a une chambre assignée, alors...\n On t'a emmenée là-bas, et on attend depuis...\"",
             "\\.\"Mais la méchante poupée a disparu, ouaf.\n On doit la chercher, miaou ?\"",
             "\\.\\C[4](Rillante... a disparu ?)",
-            "\\.\"S- Sara...\n Tu peux continuer à te reposer si tu veux, d'accord ?\"",
+            "\\.\"S-Sara...\n Tu peux continuer à te reposer si tu veux, d'accord ?\"",
             "\\.\"Non... Je veux faire quelque chose.\n Laisse-moi partir, s'il te plaît...\"",
             "\\.\"On la retrouvera...\"",
             "\\.\\C[10]\"Rillante... Je vais moi-même te régler ton compte...\"",
@@ -17736,7 +17736,7 @@
             "\\.\"...\"",
             null,
             null,
-            "\\C[10]Niveau d'Hallucinations empiré de 20."
+            "\\C[10]Niveau d'Hallucination empiré de 20."
         ],
         "2-1-message": [
             "\\.\\C[3]Keiji traite la blessure de Gin.",
@@ -17775,10 +17775,10 @@
     },
     "map77": {
         "2-1-message": [
-            null,
+            "\\.\"...!\"",
             "\\.\"Sara !\\.\\. T'vas mieux, maintenant ?!\"",
             "\\.\"Q-taro...\"",
-            "\\.\"Dieu merci...\n J'savais t'étais une dure à cuire...\n On sait jamais, t'sais...\"",
+            "\\.\"Dieu merci...\n J'savais t'étais une dure à cuire...\n Mais on sait jamais, t'sais...\"",
             "\\.\"Je... ne suis pas... forte du tout...\"",
             "\\.\"... Ouais, t'inquiète. Désolé.\"",
             "\\.\"T'as beaucoup souffert...\n T'dire d'pas t'en faire après avoir vécu ça,\n c'serait juste être insensible.\"",
@@ -17790,7 +17790,7 @@
             "\\.\"Ouais...! J'veux venger ton meilleur pote...\n Mais aussi...\"",
             "\\.\"Kai...! Sa dernière requête...\n J'vais m'assurer d'la réaliser...!!\"",
             "\\.\"Q-taro...\"",
-            "\\.\"J'reprends les recherches. J'veux trouver des pistes.\n Que ce soit sur une sortie ou sur les kidnappeurs.\"",
+            "\\.\"J'reprends les recherches. J'veux trouver des pistes.\n Que c'soit sur une sortie ou sur les kidnappeurs.\"",
             "\\.\"Je... vais faire de mon mieux aussi.\"",
             "\\.\"... Ce gorille...\n Il est gentil, en fait, miaou.\""
         ],
@@ -18016,7 +18016,7 @@
             "\\.\"... Joe...\"",
             "\\.\\C[3]Je n'arrive même pas à prononcer \"Tu me manques\".",
             "\\.\\C[3]Je n'ai qu'une seule direction.\nAller de l'avant.",
-            "\\C[10]Niveau d'Hallucinations empiré de 20.",
+            "\\C[10]Niveau d'Hallucination empiré de 20.",
             "\\.\"... Il faut continuer les attractions.\"",
             "\\.\\C[4](Même si c'était bref, j'ai réussi à me reposer.)",
             "\\.\\C[4](C'est bizarre...\n S'endormir en pleurant, ça fait oublier.)",
@@ -18048,7 +18048,7 @@
             "\\.\"Ouais...!!\""
         ],
         "19-3-message": [
-            null,
+            "\\.\"Même sans le professeur... Je vais bien.\"",
             "\\.\"Nao...\""
         ],
         "2-1-choice": [
@@ -18165,7 +18165,24 @@
         ],
         "18-1-message": [
             "\\.\"Il y a des morceaux de bois ici aussi.\n Je me demande si ce qui a servi d'arme contre\n Sou venait d'ici...\"",
-            "\\.\"H-Hé... On pourrait se poser un instant?\""
+            "\\.\"H-Hé... On pourrait se poser un instant ?\"",
+            "\\.\"... On ne va pas aller bien loin si on\n passe notre temps à nous reposer.\""
+        ],
+        "30-1-message": [
+            "\\.\"Désolé, mais on va faire un échange.\"",
+            "\\.\"Hmph...\n Tu n'es pas la bienvenue, Sara Chidouin.\n Pourrais-tu partir d'ici ?\"",
+            "\\.\\C[4](Bizarrement, j'ai l'impression qu'il se comporte\n un peu gentiment.)",
+            "\\.\"Désolée... Sara.\""
+        ],
+        "30-3-message": [
+            "\\.\"Qu'est-ce qu'il y a, Sara...?\"",
+            "\\.\"Non, rien...\"",
+            "\\.\"..........\"",
+            "\\.\\C[4](Kanna...)",
+            "\\.\\C[4](Même après avoir réparé notre amitié...\n Voilà ce qui est arrivé...)"
+        ],
+        "77-1-message": [
+            "\\C[3]Des débris sont éparpillés un peu partout."
         ]
     },
     "map78": {
@@ -18706,7 +18723,7 @@
             null,
             null,
             null,
-            "\\C[10]Niveau d'Hallucinations empiré de 20."
+            "\\C[10]Niveau d'Hallucination empiré de 20."
         ]
     },
     "map54": {
@@ -19440,6 +19457,12 @@
             null,
             null,
             "\\.\"...\""
+        ],
+        "21-3-message": [
+            "\\C[3]Des débris sont éparpillés un peu partout."
+        ],
+        "21-1-message": [
+            "\\C[3]Des débris sont éparpillés un peu partout."
         ]
     },
     "map127": {
