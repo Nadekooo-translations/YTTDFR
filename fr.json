@@ -18216,10 +18216,33 @@
     },
     "map78": {
         "2-1-message": [
-            null,
-            null,
-            null,
-            "\\.\"...\""
+            "\\.\"Ahh... Je vais aller voir ailleurs.\n Préviens-moi quand tu pars.\"",
+            "\\.\\C[4](Reko...)",
+            "\\.\"Hé, toi, Sara Chidouin.\n Il y a une cour ici...\n Ne trouves-tu pas cela étrange ?\"",
+            "\\.\"...\"",
+            "\\.\"Hmph... Bien sûr que non.\n Ce n'est une cour qu'en apparence.\"",
+            "\\.\"Un ciel artificiel...\n Une fausse impression de liberté...\n Cet endroit est une prison en tout points.\"",
+            "\\.\"Hmph...\n Ce n'est que de la lumière artificielle.\n Pas un vrai ciel.\"",
+            "\\.\"Toutefois, si l'envie te prend de prendre l'air,\n pourquoi ne pas y rester un moment ? Mouahaha...\"",
+            "\\.\"Je peux te parler rapido, Alice ?\"",
+            "\\.\"Je refuse.\n ... Si tu me requiers, Keiji Shinogi, viens quand\n je suis seul.\"",
+            "\\.\"OK.\"",
+            "\\.\"C'est qu'il fait vraiment un peu peur, non...?\""
+        ],
+        "2-1-choice": [
+            "Peut-être que ça mène dehors ?\nJe veux prendre le soleil"
+        ],
+        "2-4-message": [
+            "\\.\"J'aimerais bien pouvoir retourner en taule...\n La vraie taule.\"",
+            "\\.\\C[4](Je hais son vocabulaire...)"
+        ],
+        "2-7-message": [
+            "\\.\"Je suis pas encore prêt mentalement !!\n Donne-moi un peu plus de temps !!\"",
+            "\\.\"Hmph... Sara Chidouin...\n As-tu les jetons de Reko ?\"",
+            "\\.\\C[4](Hm...)"
+        ],
+        "2-2-message": [
+            "\\.\"Cet endroit... est une prison en tout points.\""
         ]
     },
     "map81": {
