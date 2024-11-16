@@ -711,6 +711,9 @@
         ],
         "2-1-message": [
             "\\.Choisissez un chapitre où commencer."
+        ],
+        "2-1-choice": [
+            "Chapitre 2, deuxième partie\nChapitre 2, première partie\nChapitre 1, deuxième partie\nChapitre 1, première partie\n\\C[2]Sous-jeu (Nouveau !)\nAnnuler"
         ]
     },
     "map114": {
