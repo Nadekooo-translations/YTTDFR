@@ -18300,7 +18300,36 @@
             "\\.\"Ne me dis pas que... Tu ne les avais pas remarquées.\n Mouahaha... Je suis donc meilleur en observation...\"",
             "\\.\"Ici, là... et là !\"",
             "\\.\\C[3]3 Attractions Mortelles découvertes.",
-            "\\.\\C[3]Vous pouvez sélectionner une attraction\navec le menu Se Déplacer."
+            "\\.\\C[3]Vous pouvez sélectionner une attraction\navec le menu Se Déplacer.",
+            "\\.\"Relève-le défi, si tu penses être à la hauteur.\n\\! ... N'hésite pas à me demander si tu requiers\n mon sens supérieur de l'observation.\""
+        ],
+        "18-1-message": [
+            "\\.\"Même si c'est un faux jardin, c'est sympa ici, miaou !\""
+        ],
+        "18-3-message": [
+            "\\.\"Grande sœur Sara.\n T'as récupéré assez d'étoiles, miaou ?\"",
+            "\\.\"Les Pièces du Triomphe, tu veux dire ?\n ... Pas encore, non.\"",
+            "\\.\"Dans ce cas, je suis là, ouaf !\n Demande-moi quand tu veux, miaou !\"",
+            "\\.\\C[4](Gin... Il en a déjà assez...?)"
+        ],
+        "22-1-message": [
+            "\\.\"Euuh... N'ais pas peur.\n Je ne te ferai aucun mal.\"",
+            "\\.\"B-Bien sûr ! J-Je n'ai pas peur du tout !\n D-Donc de quoi voulais-tu me parler...?\"",
+            "\\.\"Euh- oui, alors... Je voulais savoir, hum...\n Avec qui tu as échangé des jetons...\"",
+            "\\.\\C[4](Alice...\n Il fait de son mieux pour obtenir des jetons à Reko...!\n\\! Sans aller la voir !)"
+        ],
+        "22-3-message": [
+            "\\.\"Je devrais... aller acheter un prix...\"",
+            "\\.\"Ah... Sara.\"",
+            "\\.\"Sara, qu'as-tu fait avec les jetons que\n tu as obtenus ?\"",
+            "\\.\"Avec les jetons...?\"",
+            "\\.\"Oui, bonne idée...\n On ne sait rien de ce qui nous attend...\n Nous ferions mieux d'acheter des prix pour\n obtenir des indices...\"",
+            "\\.\"Oh, vraiment...?\n Je ne vois pas trop comment les utiliser...\n J'hésite depuis un moment.\"",
+            "\\.\"J'imagine que nous n'avons pas d'autre choix...\n Que d'acheter les prix pour en savoir plus...\"",
+            "\\.\"Vraiment ?\n C'est aussi ce que Gin a décidé de faire...\""
+        ],
+        "21-1-message": [
+            "\\.\"... Depuis quand il est comme ça, mon corps...?\""
         ]
     },
     "map81": {
