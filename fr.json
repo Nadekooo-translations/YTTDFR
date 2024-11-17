@@ -18308,7 +18308,7 @@
         ],
         "18-3-message": [
             "\\.\"Grande sœur Sara.\n T'as récupéré assez d'étoiles, miaou ?\"",
-            "\\.\"Les Pièces du Triomphe, tu veux dire ?\n ... Pas encore, non.\"",
+            "\\.\"Des Médaillons du Triomphe, tu veux dire ?\n ... Pas encore, non.\"",
             "\\.\"Dans ce cas, je suis là, ouaf !\n Demande-moi quand tu veux, miaou !\"",
             "\\.\\C[4](Gin... Il en a déjà assez...?)"
         ],
@@ -18326,10 +18326,26 @@
             "\\.\"Oui, bonne idée...\n On ne sait rien de ce qui nous attend...\n Nous ferions mieux d'acheter des prix pour\n obtenir des indices...\"",
             "\\.\"Oh, vraiment...?\n Je ne vois pas trop comment les utiliser...\n J'hésite depuis un moment.\"",
             "\\.\"J'imagine que nous n'avons pas d'autre choix...\n Que d'acheter les prix pour en savoir plus...\"",
-            "\\.\"Vraiment ?\n C'est aussi ce que Gin a décidé de faire...\""
+            "\\.\"Vraiment ?\n C'est aussi ce que Gin a décidé de faire...\"",
+            "\\.\"J'en ai récupéré, donc... Je me disais que je\n pourrais payer une visite à la Borne d'Échange\n pour acheter des informations sur la Démocratie\n Mortelle.\"",
+            "\\.\"Peut-être que je devrais acheter quelque chose...?\""
         ],
         "21-1-message": [
             "\\.\"... Depuis quand il est comme ça, mon corps...?\""
+        ],
+        "22-3-choice": [
+            "Je les échange\nJe ne les ai pas encore utilisé\nJe n'en ai pas encore obtenu"
+        ],
+        "22-5-message": [
+            "\\.\"Hum... Je n'ai plus de Médaillon du Triomphe...\n Donc, je me demandais si...\n Tu voudrais bien m'en échanger...?\"",
+            "\\.\"Ah, tu en collectes encore...\n Mais... Tu me prends un peu par surprise...\"",
+            "\\.\"Je ne veux pas déranger Sara ou Reko...\"",
+            "\\.\"D-D'accord... Laisse-moi réfléchir.\""
+        ],
+        "22-6-message": [
+            "\\.\"Merci... du fond du cœur.\"",
+            "\\.\"Hmph... Content pour toi.\"",
+            "\\.\\C[4](Mh...? Ils se sont rapprochés, on dirait...)"
         ]
     },
     "map81": {
@@ -25035,14 +25051,14 @@
     },
     "map79": {
         "4-1-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\.\\C[3]Quelque chose est posé sur la chaise.",
+            "\\.\\C[4](Mais... qu'est-ce que c'est...?)",
+            "\\.\\C[3]Quatre Notes obtenues.",
+            "\\.\\C[4](Elles me disent quelque chose...!)",
+            "\\.\\C[4](Nos noms...?!)",
+            "\\.\\C[3]Des nombres mystérieux, des noms et des professions.",
+            "\\.\\C[3]Je les reconnais.",
+            "\"Qu'est-ce que c'est, miaou ?\"",
             "\\.\"Regarde.\n C'est une note que j'ai trouvée.\"",
             "\"Mia-Mia-Miaou ?!\n On dirait...!!\"",
             "\\.\"Celle-là, c'est celle de Gin.\"",
@@ -25050,7 +25066,17 @@
             "\\.\"Regardez. Si vous enlevez la partie gauche...\"",
             "\"Et que vous la reliez à ma note...!\"",
             "\"M-Miaou...?!\"",
-            "\\.\"C'est les bons morceaux, ouaf !!\""
+            "\\.\"C'est les bons morceaux, ouaf !!\"",
+            "\\.\"Ce sont les mêmes feuilles que Gin nous\n a montrées lors du Jeu Principal...!!\"",
+            "\\.\\C[4](Sauf qu'elles ne sont pas déchirées et il y en a 4...!\n Il y a les noms de 16 personnes...)",
+            "\\.\\C[4](... 16 ?)",
+            "\\.\\C[4](4 noms par page...)",
+            "\\.\\C[4](Mais... Il y a 20 participants, en tout...)",
+            "\\.\\C[4](Il... manque une feuille ?)",
+            "\\.\\C[4](Hm ? Attends, mais...)",
+            "\\.\\C[3]9.5% Keiji Shinogi ... \\C[2]Ex-Détective",
+            "\\.\\C[4](Ex... Détective...?)",
+            "\\.\\C[4](Keiji... a démissionné ?)"
         ]
     },
     "items-41": {
