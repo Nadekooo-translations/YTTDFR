@@ -16958,7 +16958,7 @@
             "\\.\"...\"",
             "\\.\"... C-Ce n'est rien...\"",
             "\\.\"Bahaha ! T'as les yeux rouges !\n Me dis pas que tu pleurais !\"",
-            "\\.\"D-De quoi parlez-vous...?\"",
+            "\\.\"J-Je ne vois pas de quoi vous parlez...\"",
             "\\.\"... Ça me fait plaisir. Bahaha...\"",
             "\\.\"...\"",
             "\\.\"... Si nécessaire, je compte sur toi pour Sara.\"",
@@ -17314,7 +17314,7 @@
             "\\.\"Je trouve qu'elle est plutôt gentille avec toi, Sara...\n Comparé à moi.\"",
             "\"... Je suppose que ça peut être un compliment.\"",
             "\\.\"Elle a pas l'air d'avoir froid aux yeux, même\n contre des hommes bien baraqués.\"",
-            "Quoi...?! Tu es vraiment exécrable !!\n Tu as écouté ma question, au moins ?!\"",
+            "\"Pardon...?! Tu es vraiment exécrable !!\n Tu as écouté ma question, au moins ?!\"",
             "\\.\"Elle a l'air plus audacieuse que toi.\n Même si elle fait un peu peur...\"",
             "\\.\"Gentille avec les faibles, dure avec les forts...\n C'est l'impression qu'elle me donne.\"",
             "\\.\"...\"",
@@ -18243,7 +18243,7 @@
         "2-1-message": [
             "\\.\"Ahh... Je vais aller voir ailleurs.\n Préviens-moi quand tu pars.\"",
             "\\.\\C[4](Reko...)",
-            "\\.\"Hé, toi, Sara Chidouin.\n Il y a une cour ici...\n Ne trouves-tu pas cela étrange ?\"",
+            "\\.\"Eh, toi, Sara Chidouin.\n Il y a une cour ici...\n Ne trouves-tu pas cela étrange ?\"",
             "\\.\"...\"",
             "\\.\"Hmph... Bien sûr que non.\n Ce n'est une cour qu'en apparence.\"",
             "\\.\"Un ciel artificiel...\n Une fausse impression de liberté...\n Cet endroit est une prison en tout points.\"",
@@ -25290,5 +25290,11 @@
     },
     "items-157": {
         "description": "Un article qui annonce la dissolution de 36-Rai 818\n(Samurai Yaiba). Citation de la Chanteuse :\n\"Je peux plus chanter les chansons de ce groupe.\""
+    },
+    "items-131": {
+        "name": "★Réminidanse"
+    },
+    "items-134": {
+        "name": "★Tapette à Bête"
     }
 }
