@@ -15573,6 +15573,28 @@
         ],
         "326-0-message": [
             "\\C[3]Victoire."
+        ],
+        "577-0-message": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.\\C[3]Vous avez donné 20 Jetons Reko à Alice."
         ]
     },
     "map107": {
@@ -18242,10 +18264,43 @@
         "2-7-message": [
             "\\.\"Je suis pas encore prêt mentalement !!\n Donne-moi un peu plus de temps !!\"",
             "\\.\"Hmph... Sara Chidouin...\n As-tu les jetons de Reko ?\"",
-            "\\.\\C[4](Hm...)"
+            "\\.\\C[4](Hm...)",
+            "\\.\"Je les ai.\"",
+            "\\.\"Hein ?! Déjà ?!\"",
+            "\\.\"J'ai rempli ma part du marché.\n Maintenant à toi, Alice.\"",
+            "\\.\"S'il te plaît, attends !\n Je suis pas prêt mentalement, j'ai besoin de plus\n de temps !!\"",
+            "\\.\"Pour l'instant, garde-les.\n Préviens-moi quand tu es prêt.\"",
+            "\\.\\C[3]Vous avez donné 20 Jetons Reko à Alice.",
+            "\\.\"B-Bien reçu. Je les accepte...\n Mais je suis un homme, je ne fuirai pas...!\"",
+            "\\.\"Comment...?! Montre-les moi !!\"",
+            "\\.\"Ah, c'était une blague.\"",
+            "\\.\"Je vais te faire bouffer le sol, tu m'entends ?!\"",
+            "\\.\"Hmm, il semblerait que cette tâche est plus\n difficile pour toi que ce que tu avais imaginé.\"",
+            "\\.\"Oui. Mais je mettrai la main dessus.\n Je te le certifie.\"",
+            "\\.\"Urgh... T-Très bien.\n En attendant... Je me prépare mentalement.\"",
+            "\\.\"Se déplacer avec ces menottes, cette chaîne et\n ce boulet est vraiment gênant...\n C'est angoissant.\"",
+            "\\.\\C[4](C'est vrai... Il les porte toujours.)",
+            "\\.\"Ce n'est pas du tout réconfortant !!\n C'est le genre de trucs qui vont bien qu'aux\n gens terribles !!\"",
+            "\\.\\C[4](Ça ne lui a pas fait plaisir.)",
+            "\\.\"J'ai essayé... en vain.\"",
+            "\\.\\C[4](S'il dit ça, c'est qu'il a dû essayer...)"
         ],
         "2-2-message": [
             "\\.\"Cet endroit... est une prison en tout points.\""
+        ],
+        "2-7-choice": [
+            "Je les ai\nJe ne les ai pas encore",
+            "Ça te va bien\nEssayons de les enlever"
+        ],
+        "17-1-message": [
+            "\\.\"Hmph... Que se passe-t-il, Sara Chidouin ?\"",
+            "\\.\"Alice.\"",
+            "\\.\"... Je suppose que la raison de ta visite est liée\n aux attractions environnantes, je me trompe ?\"",
+            "\\.\"C'est bien ce que je pensais...\n Des attractions sont apparues ici aussi ?\"",
+            "\\.\"Ne me dis pas que... Tu ne les avais pas remarquées.\n Mouahaha... Je suis donc meilleur en observation...\"",
+            "\\.\"Ici, là... et là !\"",
+            "\\.\\C[3]3 Attractions Mortelles découvertes.",
+            "\\.\\C[3]Vous pouvez sélectionner une attraction\navec le menu Se Déplacer."
         ]
     },
     "map81": {
@@ -18779,6 +18834,22 @@
             null,
             null,
             "\\C[10]Niveau d'Hallucination empiré de 20."
+        ],
+        "1-5-message": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.\\C[3]3 Attractions Mortelles découvertes.",
+            "\\.\\C[3]Vous pouvez sélectionner une attraction\navec le menu Se Déplacer."
         ]
     },
     "map54": {
