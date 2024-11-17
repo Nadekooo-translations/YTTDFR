@@ -18327,7 +18327,7 @@
             "\\.\"Oh, vraiment...?\n Je ne vois pas trop comment les utiliser...\n J'hésite depuis un moment.\"",
             "\\.\"J'imagine que nous n'avons pas d'autre choix...\n Que d'acheter les prix pour en savoir plus...\"",
             "\\.\"Vraiment ?\n C'est aussi ce que Gin a décidé de faire...\"",
-            "\\.\"J'en ai récupéré, donc... Je me disais que je\n pourrais payer une visite à la Borne d'Échange\n pour acheter des informations sur la Démocratie\n Mortelle.\"",
+            "\\.\"J'en ai récupéré, donc... Je me disais que je\n pourrais payer une visite au Stand d'Échange\n pour acheter des informations sur la Démocratie\n Mortelle.\"",
             "\\.\"Peut-être que je devrais acheter quelque chose...?\""
         ],
         "21-1-message": [
@@ -25076,7 +25076,14 @@
             "\\.\\C[4](Hm ? Attends, mais...)",
             "\\.\\C[3]9.5% Keiji Shinogi ... \\C[2]Ex-Détective",
             "\\.\\C[4](Ex... Détective...?)",
-            "\\.\\C[4](Keiji... a démissionné ?)"
+            "\\.\\C[4](Keiji... a démissionné ?)",
+            "\\.\\C[4](Qu'est-ce que c'est... que ces listes...?)",
+            "\\.\\C[4](Qui les a faites ? Et dans quel but ?)",
+            "\\.\\C[3]Je ne devrais pas m'emporter.\nC'est peut-être un piège.",
+            "\\.\\C[4](Allez, on se calme...)",
+            "\\.\\C[3]Je prends une bonne inspiration.",
+            "\\.\\C[3]Après avoir retrouvé mes esprits, j'ai réalisé\ndans quelle situation je me trouvais.",
+            "\\.\\C[4](Je n'ai pas de temps à perdre avec ça !\n Où sont les autres...?!)"
         ]
     },
     "items-41": {
