@@ -16055,18 +16055,33 @@
             "\\.\\C[4](...)"
         ],
         "67-1-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\"..........\""
+            "\\.\"... Ah... S-Sara...\"",
+            "\\.\"Nao...\"",
+            "\\.\"Qu'est-ce qu'il se passe ? Tu es pâle.\"",
+            "\\.\"Je... l'ai acheté...\"",
+            "\\.\"A-Acheté... quoi ?\"",
+            "\\.\"..........\"",
+            "\\.\"L'une... des vidéos... des victimes...\"",
+            "\\.\"Hein...?!\"",
+            "\\.\"Je me suis dite que ça pourrait nous donner\n un indice pour nous échapper, mais...\n\\! J'ai... trop peur... de la regarder...\"",
+            "\\.\"S'il te plaît ! Tu peux la regarder avec moi ?!\"",
+            "\\.\"M-Mais...\"",
+            "\\.\"E-Euh, tu peux garder les yeux fermés !\n\\! Tu peux juste rester avec moi et me tenir la main...!\"",
+            "\\.\"Ah, et...\n Si tu pouvais me réconforter et m'encourager, aussi...\n En me répétant \"tu peux le faire\"...!\"",
+            "\\.\\C[4](Je ne peux pas vraiment ne pas regarder\n si j'ai la vidéo en face...)",
+            "\\.\\C[4](Mais je ne peux pas refuser non plus...\n Nao est tout autant exténuée que moi...)",
+            "\\.\"... D'accord.\n Regardons-la ensemble.\"",
+            "\\.\"Ahh... Merci infiniment...!!\n\\! Je suis désolée de me reposer sur toi, Sara...\"",
+            "\\.\"... D'accord.\n Je vais garder les yeux fermés, je te tiendrai la main,\n et je te frotterai le dos intensément...!\"",
+            "\\.\"Vraiment, merci...!!\n\\! Et, hum... n'oublie pas de m'encourager\n en me disant \"tu peux le faire\", aussi !\"",
+            "\\.\\C[4](Nao... Elle compte vraiment le faire.)",
+            "\\.\"Apparemment, on peut les consulter à la\n Salle de Surveillance... Allons-y, Sara...!\""
         ],
         "2-1-choice": [
             "Quel jeu débile\nÇa ne tient pas la route\nJ'ai une idée !"
         ],
         "2-2-message": [
-            "\"Voici le Stand d'Échange.\n Je suis à votre service.\"",
+            "\"Vous vous trouvez au Stand d'Échange.\n Je suis à votre service.\"",
             "\\.\"À quelle question souhaitez-vous que je réponde ?\"",
             "\"Je suis une poupée réceptionniste.\n Ma fonction est de vous assister lors de votre\n séjour au deuxième étage.\n Je peux échanger et expliquer des prix.\"",
             "\"Il existe deux types de prix.\n \\C[4]Ceux dont le coût est bleu\\C[0] et \\C[10]ceux dont le\n coût est rouge\\C[0].\"",
@@ -16111,8 +16126,8 @@
             "\\C[3]Vous n'avez pas assez de jetons !"
         ],
         "8-2-message": [
-            null,
-            null,
+            "\\C[3][Prix] Informations Personnelles de Reko\n\n\\C[2]Déjà acheté.",
+            "\\C[3][Prix] Informations Personnelles de Reko\n\nJetons Requis : 50 Jetons de Reko",
             "\\.\\C[3]Acheter ce prix ?",
             "\\C[3]Vous avez échangé vos jetons contre un prix !",
             "\\C[3]Vous n'avez pas assez de jetons !"
@@ -16127,46 +16142,47 @@
         ],
         "8-1-message": [
             "\\C[3]Une photo de Reko.",
-            "\\.\\C[4](Elle est aussi cool en photo que dans la vraie vie...)"
+            "\\.\\C[4](Elle est tellement cool sur cette photo...)"
         ],
         "10-2-message": [
-            null,
-            null,
+            "\\C[3][Prix] Informations Personnelles de Gin\n\n\\C[2]Déjà acheté.",
+            "\\C[3][Prix] Informations Personnelles de Gin\n\nJetons Requis : 50 Jetons de Gin",
             "\\.\\C[3]Acheter ce prix ?",
             "\\C[3]Vous avez échangé vos jetons contre un prix !",
             "\\C[3]Vous n'avez pas assez de jetons !"
         ],
         "11-2-message": [
-            null,
+            "\\C[3][Prix] Informations Personnelles d'Alice\n\nJetons Requis : 50 Jetons d'Alice",
             "\\.\\C[3]Acheter ce prix ?",
             "\\C[3]Vous n'avez pas assez de jetons !"
         ],
         "12-2-message": [
-            null,
-            null,
-            "\\.\\C[3]Acheter ce prix ?"
+            "\\C[3][Prix] Médaillon du Triomphe\n\n\\C[2]Déjà acheté.",
+            "\\C[3][Prix] Médaillon du Triomphe\n\nJetons Requis : 30 Jetons",
+            "\\.\\C[3]Acheter ce prix ?",
+            "\\.\\C[4](Peut-être que je ne devrais me concentrer sur\n les Médaillons du Triomphe que lorsque je dois\n terminer une attraction...)"
         ],
         "14-2-message": [
-            null,
-            null,
+            "\\C[3][Prix] Vidéo d'une Victime 1\n\n\\C[2]Déjà acheté.",
+            "\\C[3][Prix] Vidéo d'une Victime 1\n\nJetons Requis : 20 Jetons",
             "\\.\\C[3]Acheter ce prix ?"
         ],
         "9-2-message": [
-            null,
-            null,
+            "\\C[3][Prix] Informations Personnelles de Nao\n\n\\C[2]Déjà acheté.",
+            "\\C[3][Prix] Informations Personnelles de Nao\n\nJetons Requis : 50 Jetons de Nao",
             "\\.\\C[3]Acheter ce prix ?",
             "\\C[3]Vous avez échangé vos jetons contre un prix !",
             "\\C[3]Vous n'avez pas assez de jetons !"
         ],
         "75-2-message": [
-            null,
-            null,
+            "\\C[3][Prix] Vidéo d'une Victime 3\n\n\\C[2]Déjà acheté.",
+            "\\C[3][Prix] Vidéo d'une Victime 3\n\nJetons Requis : 20 Jetons",
             "\\.\\C[3]Acheter ce prix ?"
         ],
         "79-2-message": [
-            null,
-            null,
-            null,
+            "\\C[3][Prix] Ticket Conciliant\n\n\\C[2]Déjà Acheté.",
+            "\\C[3][Prix] Ticket Conciliant\n\nJetons Requis : 10 Jetons",
+            "\\.\\C[3]Offre limitée ! Dernier exemplaire !\nIl réduit la difficulté des attractions.",
             "\\.\\C[3]Acheter ce prix ?"
         ],
         "3-2-message": [
@@ -16174,14 +16190,77 @@
             "\\.\\C[4](Puisque je ne peux pas utiliser mes propres jetons...\n Je ne peux pas acheter mes propres informations.)"
         ],
         "13-2-message": [
-            null,
-            null,
-            "\\.\\C[3]Acheter ce prix ?"
+            "\\C[3][Prix] Médaillon du Triomphe\n\n\\C[2]Déjà acheté.",
+            "\\C[3][Prix] Médaillon du Triomphe\n\nJetons Requis : 30 Jetons",
+            "\\.\\C[3]Acheter ce prix ?",
+            "\\.\\C[4](Peut-être que je ne devrais me concentrer sur\n les Médaillons du Triomphe que lorsque je dois\n terminer une attraction...)"
         ],
         "71-2-message": [
-            null,
-            null,
+            "\\C[3][Prix] Vidéo d'une Victime 2\n\n\\C[2]Déjà acheté.",
+            "\\C[3][Prix] Vidéo d'une Victime 2\n\nJetons Requis : 20 Jetons",
             "\\.\\C[3]Acheter ce prix ?"
+        ],
+        "9-1-message": [
+            "\\C[3]Une photo de Nao.",
+            "\\.\\C[4](Elle a vraiment bonne mine...\n Je me demande quand cette photo a été prise.)"
+        ],
+        "10-1-message": [
+            "\\C[3]Une photo de Gin.",
+            "\\.\\C[4](Maintenant que je le vois en photo...\n Il est couvert des pieds jusqu'à la tête.\n On ne voit que ses yeux.)"
+        ],
+        "11-1-message": [
+            "\\C[3]Une photo d'Alice.",
+            "\\.\\C[4](Sa coiffure ressort tellement...)"
+        ],
+        "12-1-message": [
+            "\\C[3]C'est une sorte de badge en forme d'étoile.",
+            "\\.\\C[4](Qu'est-ce que c'est que ça...?)"
+        ],
+        "13-1-message": [
+            "\\C[3]C'est une sorte de badge en forme d'étoile.",
+            "\\.\\C[4](Qu'est-ce que c'est que ça...?)"
+        ],
+        "14-1-message": [
+            "\\C[3]C'est une sorte d'appareil mécanique.",
+            "\\.\\C[4](Qu'est-ce que c'est que ça...?)"
+        ],
+        "67-1-choice": [
+            "Regardons-la ensemble\nJe te réconforterai du mieux que je peux"
+        ],
+        "67-3-message": [
+            "\"Très bien. Voici votre prix.\"",
+            "\\.\\C[3]Médaillon du Triomphe obtenu !",
+            "\\.\\C[3]Médaillon du Triomphe obtenu !",
+            "\\.\\C[3]Vidéo d'une Victime 1 obtenue !",
+            "\"Vous pouvez la visionner depuis la\n Salle de Surveillance.\"",
+            "\\.\\C[3]Vidéo d'une Victime 2 obtenue !",
+            "\"Vous pouvez la visionner depuis la\n Salle de Surveillance.\"",
+            "\\.\\C[3]Vidéo d'une Victime 3 obtenue !",
+            "\"Vous pouvez la visionner depuis la\n Salle de Surveillance.\"",
+            "\\.\\C[3]Ticket Conciliant obtenu !",
+            "\"Il prend effet tant que vous l'avez sur vous.\n Une sacrée aubaine, ne trouvez-vous pas ?\"",
+            "\\.\\C[3]Informations personnelles de Q-taro obtenues !",
+            "\"Mettez cet appareil dans la machine de la Salle\n de Surveillance pour visionner les informations\n personnelles.\"",
+            "\\.\\C[3]Informations personnelles de Reko obtenues !",
+            "\"Mettez cet appareil dans la machine de la Salle\n de Surveillance pour visionner les informations\n personnelles.\"",
+            "\\.\\C[3]Informations personnelles de Nao obtenues !",
+            "\"Hm... Ce prix-là est sous forme de documents.\n Vous êtes libres de le consulter quand vous\n le souhaitez.\"",
+            "\\.\\C[3]Informations personnelles de Gin obtenues !",
+            "\"Mettez cet appareil dans la machine de la Salle\n de Surveillance pour visionner les informations\n personnelles.\"",
+            "\"Avez-vous terminé ?\"",
+            "\\.\"Au plaisir de vous revoir.\""
+        ],
+        "79-1-message": [
+            "\\C[3]C'est une sorte de ticket.",
+            "\\.\\C[4](Qu'est-ce que c'est que ça...?)"
+        ],
+        "71-1-message": [
+            "\\C[3]C'est une sorte d'appareil mécanique.",
+            "\\.\\C[4](Qu'est-ce que c'est que ça...?)"
+        ],
+        "75-1-message": [
+            "\\C[3]C'est une sorte d'appareil mécanique.",
+            "\\.\\C[4](Qu'est-ce que c'est que ça...?)"
         ]
     },
     "map182": {
@@ -19493,7 +19572,7 @@
     },
     "map116": {
         "2-2-message": [
-            "\"Voici le Stand d'Échange.\n Je suis à votre service.\"",
+            "\"Vous vous trouvez au Stand d'Échange.\n Je suis à votre service.\"",
             "\\.\"... Euh.\"",
             "\\.\"Est-ce qu'on peut acheter le \\C[2]trésor\\C[0] de Reko, ici ?\"",
             "\\.\"Tout à fait.\n Il peut être échangé contre 20 des Jetons\n de Madame Reko.\"",
@@ -19501,14 +19580,14 @@
             "\\.\"Mais bien sûr.\"",
             "\"Voici le \\C[2]trésor\\C[0] de Madame Reko.\n Vous pouvez le prendre.\"",
             "\\.\"Ce sont...!\"",
-            null,
-            null,
-            null,
+            "\\.\"Les bongos que j'avais offert à Reko...!!\"",
+            "\\.\"Je le savais...\"",
+            "\\.\"Tu veux dire... que son trésor... \n C'est ce piètre cadeau que je lui avais fait...?\n Inconcevable...\"",
             "\\.\"...\"",
-            null,
+            "\\.\"Je pensais qu'il y avait erreur...\n\\! Je pensais que tu te trompais, Sara Chidouin...\"",
             "\\.\"...\"",
-            null,
-            null,
+            "\\.\"Mais ce n'est pas le cas.\n Tu n'es pas content, Alice ?\"",
+            "\\.\"... Que devrais-je faire...?\"",
             null,
             "\\.\"...\"",
             null,
@@ -19564,11 +19643,88 @@
             "\\C[3][Prix] Informations Personnelles de Sou\n\nJetons Requis : 50 Jetons de Sou"
         ],
         "8-1-message": [
-            "\\C[3]Une photo de Reko."
+            "\\C[3]Une photo de Reko.",
+            "\\C[4](Elle a l'air tellement cool dessus... Sans surprise.)"
         ],
         "3-1-message": [
             "\\C[3]Une photo de moi.",
             "\\C[4](Ça fait peur... Qu'est-ce... que ça signifie ?)"
+        ],
+        "13-2-message": [
+            "\\C[3][Prix] Médaillon du Triomphe\n\n\\C[2]Déjà acheté.",
+            "\\C[3][Prix] Médaillon du Triomphe\n\nJetons Requis : 30 Jetons"
+        ],
+        "8-2-message": [
+            "\\C[3][Prix] Informations Personnelles de Reko\n\n\\C[2]Déjà acheté.",
+            "\\C[3][Prix] Informations Personnelles de Reko\n\nJetons Requis : 50 Jetons de Reko"
+        ],
+        "9-1-message": [
+            "\\C[3]Une photo de Nao.",
+            "\\C[4](Elle a vraiment bonne mine...\n Je me demande quand cette photo a été prise.)"
+        ],
+        "9-2-message": [
+            "\\C[3][Prix] Informations Personnelles de Nao\n\n\\C[2]Déjà acheté.",
+            "\\C[3][Prix] Informations Personnelles de Nao\n\nJetons Requis : 50 Jetons de Nao"
+        ],
+        "10-1-message": [
+            "\\C[3]Une photo de Gin.",
+            "\\C[4](Maintenant que je le vois en photo...\n Il est couvert des pieds jusqu'à la tête.\n On ne voit que ses yeux.)"
+        ],
+        "10-2-message": [
+            "\\C[3][Prix] Informations Personnelles de Gin\n\n\\C[2]Déjà acheté.",
+            "\\C[3][Prix] Informations Personnelles de Gin\n\nJetons Requis : 50 Jetons de Gin"
+        ],
+        "11-1-message": [
+            "\\C[3]Une photo d'Alice.",
+            "\\C[4](Sa coiffure ressort tellement...)"
+        ],
+        "12-1-message": [
+            "\\C[3]C'est une sorte de badge en forme d'étoile.",
+            "\\C[4](Qu'est-ce que c'est que ça...?)"
+        ],
+        "12-2-message": [
+            "\\C[3][Prix] Médaillon du Triomphe\n\n\\C[2]Déjà acheté.",
+            "\\C[3][Prix] Médaillon du Triomphe\n\nJetons Requis : 30 Jetons"
+        ],
+        "13-1-message": [
+            "\\C[3]C'est une sorte de badge en forme d'étoile.",
+            "\\C[4](Qu'est-ce que c'est que ça...?)"
+        ],
+        "14-1-message": [
+            "\\C[3]C'est une sorte d'appareil mécanique.",
+            "\\C[4](Qu'est-ce que c'est que ça...?)"
+        ],
+        "71-1-message": [
+            "\\C[3]C'est une sorte d'appareil mécanique.",
+            "\\C[4](Qu'est-ce que c'est que ça...?)"
+        ],
+        "75-1-message": [
+            "\\C[3]C'est une sorte d'appareil mécanique.",
+            "\\C[4](Qu'est-ce que c'est que ça...?)"
+        ],
+        "14-2-message": [
+            "\\C[3][Prix] Vidéo d'une Victime 1\n\n\\C[2]Déjà acheté.",
+            "\\C[3][Prix] Vidéo d'une Victime 1\n\nJetons Requis : 20 Jetons"
+        ],
+        "71-2-message": [
+            "\\C[3][Prix] Vidéo d'une Victime 2\n\n\\C[2]Déjà acheté.",
+            "\\C[3][Prix] Vidéo d'une Victime 2\n\nJetons Requis : 20 Jetons"
+        ],
+        "79-1-message": [
+            "\\C[3]C'est une sorte de ticket.",
+            "\\C[4](Qu'est-ce que c'est que ça...?)"
+        ],
+        "79-2-message": [
+            "\\C[3][Prix] Ticket Conciliant\n\n\\C[2]Déjà Acheté.",
+            "\\C[3][Prix] Ticket Conciliant\n\nJetons Requis : 10 Jetons",
+            "\\.\\C[3]Offre limitée ! Dernier exemplaire !\nIl réduit la difficulté des attractions."
+        ],
+        "75-2-message": [
+            "\\C[3][Prix] Vidéo d'une Victime 3\n\n\\C[2]Déjà acheté.",
+            "\\C[3][Prix] Vidéo d'une Victime 3\n\nJetons Requis : 20 Jetons"
+        ],
+        "11-2-message": [
+            "\\C[3][Prix] Informations Personnelles d'Alice\n\nJetons Requis : 50 Jetons d'Alice"
         ]
     },
     "map117": {
@@ -25372,7 +25528,7 @@
         "name": "Couloir en Ruines"
     },
     "items-114": {
-        "name": "Salle des Écrans"
+        "name": "Salle de Surveillance"
     },
     "items-113": {
         "name": "Ma Chambre"
@@ -25498,7 +25654,7 @@
     },
     "items-140": {
         "name": "Arrêter le Visionnage",
-        "description": "Arrêter de visionner les informations personnelles\nou les vidéos des victimes depuis la Salle des Écrans."
+        "description": "Arrêter de visionner les informations personnelles\nou les vidéos des victimes depuis la Salle de Surv."
     },
     "items-157": {
         "description": "Un article qui annonce la dissolution de 36-Rai 818\n(Samurai Yaiba). Citation de la Chanteuse :\n\"Je peux plus chanter les chansons de ce groupe.\""
@@ -25541,13 +25697,26 @@
             "\\C[3]Une photo de Q-taro."
         ],
         "8-1-message": [
-            "\\C[3]Une photo de Reko."
+            "\\C[3]Une photo de Reko.",
+            "\\C[3]Un crâne figure sur la photo de Reko.",
+            "\\.\\C[4](Reko...)"
         ],
         "3-1-message": [
             "\\C[3]Une photo de moi."
         ],
         "7-1-message": [
             "\\C[3]Une photo de Sou."
+        ],
+        "9-1-message": [
+            "\\C[3]Une photo de Nao."
+        ],
+        "10-1-message": [
+            "\\C[3]Une photo de Gin."
+        ],
+        "11-1-message": [
+            "\\C[3]Une photo d'Alice.",
+            "\\C[3]Un crâne figure sur la photo d'Alice.",
+            "\\.\\C[4](Alice...)"
         ]
     }
 }
