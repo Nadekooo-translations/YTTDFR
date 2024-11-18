@@ -16013,10 +16013,45 @@
             "\\.\"Par contre...\"",
             "\\.\"Vous ne \\C[2]pouvez pas acheter de prix\\C[0]\n avec \\C[2]vos propres jetons\\C[0].\"",
             "\\.\"Comment ça, ouaf...?\"",
-            "\\.\"\\C[2]Vous pouvez utiliser que les jetons des autres\\C[0] !\""
+            "\\.\"\\C[2]Vous pouvez utiliser que les jetons des autres\\C[0] !\"",
+            "\\.\"Et si vous obtenez suffisamment de jetons d'une\n personne, vous pouvez choper des infos personnelles\n sur elle.\"",
+            "\\.\"Ces jetons, ils représentent la confiance.\"",
+            "\\.\"Vous allez devoir les vendre, les acheter, peut-être\n même les voler ou recourir à la force pour mettre la\n main sur ces merdes ! Compris, les salauds ?\"",
+            "\\.\"En gros, c'est \\C[2]un jeu où vous vendez et\n achetez votre confiance\\C[0] !\"",
+            "\\.\"Acheter et vendre... notre confiance...\"",
+            "\\.\"Quel jeu stupide...\n Je suis sûre que tu ne nous dis pas tout.\"",
+            "\\.\"J'une idée. Si quelqu'un arrive à acheter un prix,\n on à qu'à tous s'partager l'info.\"",
+            "\\.\"Heeeein ?\n C'est que vous êtes vachement sympa pour des enfoirés.\"",
+            "\"On pourrait tout simplement tous partager nos jetons\n et les informations qu'on obtient ici et maintenant.\n ... Difficile d'appeler ça un jeu.\"",
+            "\\.\"Ouahhh ! Vous essayez de la jouer mollo, hein ?\"",
+            "\"Je n'ai qu'à accepter les jetons de tout le monde...!\n Comme ça, je pourrais partager les informations\n avec tout le monde !\"",
+            "\\.\"Ça c'un bon plan, Sara !\n Si on s'partage toutes les infos, c'même plus du jeu !\"",
+            "\\.\"Uuurgh, vous êtes tellement ennuyeux !\n Vous ruinez totalement le fun du jeu.\n Bon sang de bonsoir, quoi...\"",
+            "\\.\"Mais c'est pas tout ! Dommage !\"",
+            "\\.\"Vous devrez remporter \\C[2]9 attractions\\C[0] situées au\n deuxième étage pour avoir le droit de participer\n au Jeu Principal.\"",
+            "\\.\"M-Miaw...?\"",
+            "\\.\"À chaque fois que vous finissez une attraction,\n vous gagnez un \\C[2]Médaillon du Triomphe\\C[0]...\"",
+            "\\.\"Et si vous en avez pas 10 avant le début du\n Jeu Principal, vous clamsez !\"",
+            "\\.\"Non... Ce n'est...!!\"",
+            "\\.\"Mouahaha...!\n Allons, je vous prie de vous calmer, Nao !\n Contrairement au Jeu Principal, si vous obtenez\n de bons résultats, personne n'aura à périr !\"",
+            "\\.\"A-Arrête... Ne l'imite pas...!!\"",
+            "\\.\"La plupart des attractions se font en paire.\n ... Sachez que vous ne pouvez jouer qu'une seule\n fois à la même attraction.\"",
+            "\\.\"Y a des \\C[2]Jetons\\C[0] et des \\C[2]Médaillons du Triomphe\\C[0]...\n Je commence à y voir plus clair.\"",
+            "\\.\"C'est bon, vous avez capté ce que vous devez faire ?\"",
+            "\\.\"Finissez les attractions et chopez 10 Médaillons\n du Triomphe.\"",
+            "\\.\"Faites ce que vous voulez de vos Égo-Jetons.\n\\! ... Juste, \\C[2]pour acheter des trucs, faut ceux\n des autres\\C[0] !\"",
+            "\\.\"Sachez.. que plus vous avez de jetons, mieux c'est.\n Juste pour info, il y a aussi une super récompense\n à la clé...\"",
+            "\\.\"\\C[2]Un ticket vers la surface\\C[0] !\n Vous savez ce qu'on dit.\n Premier arrivé, premier servi !\n Donc, chômez pas !\"",
+            "\\.\\C[4](Hein ?! Je ne le vois pas affiché...!)",
+            "\\.\"Vous avez 3 jours !\n Franchement, tranquille ! Vous avez plein de bouffe,\n des habits de rechange et même du temps libre pour\n vous reposer. Vous pouvez dormir à poings fermés !\"",
+            "\\.\"Vos chambres sont pas piégées ou quoi que ce\n soit, donc hésitez pas à en profiter!\"",
+            "\\.\"Et maintenant, que le Mini-Jeu...\n Que le \\C[2]Jeu du Troc de Confiance\\C[0] commence !\"",
+            "\\C[4](Pendant combien de temps... vont-ils\n continuer à se moquer de nous ?)",
+            "\\.\\C[4](Mais... Je dois jouer le jeu...\n Je ne peux pas mourir...)",
+            "\"... Des attractions...\n Tu veux qu'on les cherche ensemble ?\""
         ],
         "5-1-message": [
-            null,
+            "\\C[3]Une photo de Kanna.",
             "\\.\\C[4](...)"
         ],
         "67-1-message": [
@@ -16026,6 +16061,127 @@
             null,
             null,
             "\\.\"..........\""
+        ],
+        "2-1-choice": [
+            "Quel jeu débile\nÇa ne tient pas la route\nJ'ai une idée !"
+        ],
+        "2-2-message": [
+            "\"Voici le Stand d'Échange.\n Je suis à votre service.\"",
+            "\\.\"À quelle question souhaitez-vous que je réponde ?\"",
+            "\"Je suis une poupée réceptionniste.\n Ma fonction est de vous assister lors de votre\n séjour au deuxième étage.\n Je peux échanger et expliquer des prix.\"",
+            "\"Il existe deux types de prix.\n \\C[4]Ceux dont le coût est bleu\\C[0] et \\C[10]ceux dont le\n coût est rouge\\C[0].\"",
+            "\\.\"\\C[4]Ceux dont le coût est bleu\\C[0] sont normaux.\n Vous pouvez les acheter avec n'importe quel\n type de jetons à part les vôtres.\"",
+            "\\.\"\\C[10]Ceux dont le coût est rouge\\C[0] sont exclusifs.\n Vous ne pouvez les échanger qu'avec les jetons\n de la personne en question.\"",
+            "\\.\"Par exemple, pour acheter les informations\n personnelles de Monsieur Keiji, vous aurez\n besoin de 50 de ses jetons.\"",
+            "\"Nous ne proposons rien de la sorte ici.\"",
+            "\\.\\C[4](Rien \\C[2]ici\\C[4], hein...?)"
+        ],
+        "2-2-choice": [
+            "Lui poser des questions\nAnnuler",
+            "Qu'est-ce que tu es ?\nÀ propos des types de prix\nÀ propos du ticket pour partir\nAnnuler"
+        ],
+        "3-1-message": [
+            "\\C[3]Une photo de moi.",
+            "\\.\\C[4](Ça fait peur... Qu'est-ce... que ça signifie ?)"
+        ],
+        "4-1-message": [
+            "\\C[3]Une photo de Keiji.",
+            "\\.\\C[4](Ça, ce sont de sacrées cernes...\n Il est absolument épuisé.)"
+        ],
+        "4-2-message": [
+            "\\C[3][Prix] Informations Personnelles de Keiji\n\nJetons Requis : 50 Jetons de Keiji",
+            "\\.\\C[3]Acheter ce prix ?",
+            "\\C[3]Vous n'avez pas assez de jetons !"
+        ],
+        "5-2-message": [
+            "\\C[3][Prix] Informations Personnelles de Kanna\n\nJetons Requis : 50 Jetons de Kanna",
+            "\\.\\C[3]Acheter ce prix ?",
+            "\\C[3]Vous n'avez pas assez de jetons !"
+        ],
+        "6-2-message": [
+            "\\C[3][Prix] Informations Personnelles de Q-taro\n\n\\C[2]Déjà acheté.",
+            "\\C[3][Prix] Informations Personnelles de Q-taro\n\nJetons Requis : 50 Jetons de Q-taro",
+            "\\.\\C[3]Acheter ce prix ?",
+            "\\C[3]Vous avez échangé vos jetons contre un prix !",
+            "\\C[3]Vous n'avez pas assez de jetons !"
+        ],
+        "7-2-message": [
+            "\\C[3][Prix] Informations Personnelles de Sou\n\nJetons Requis : 50 Jetons de Sou",
+            "\\.\\C[3]Acheter ce prix ?",
+            "\\C[3]Vous n'avez pas assez de jetons !"
+        ],
+        "8-2-message": [
+            null,
+            null,
+            "\\.\\C[3]Acheter ce prix ?",
+            "\\C[3]Vous avez échangé vos jetons contre un prix !",
+            "\\C[3]Vous n'avez pas assez de jetons !"
+        ],
+        "6-1-message": [
+            "\\C[3]Une photo de Q-taro.",
+            "\\.\\C[4](C'est peut-être parce qu'il est joueur de baseball...\n Mais il rend bien sur cette photo.)"
+        ],
+        "7-1-message": [
+            "\\C[3]Une photo de Sou.",
+            "\\.\\C[4](Hm...?\n Maintenant que j'y pense, où est passé Sou...?)"
+        ],
+        "8-1-message": [
+            "\\C[3]Une photo de Reko.",
+            "\\.\\C[4](Elle est aussi cool en photo que dans la vraie vie...)"
+        ],
+        "10-2-message": [
+            null,
+            null,
+            "\\.\\C[3]Acheter ce prix ?",
+            "\\C[3]Vous avez échangé vos jetons contre un prix !",
+            "\\C[3]Vous n'avez pas assez de jetons !"
+        ],
+        "11-2-message": [
+            null,
+            "\\.\\C[3]Acheter ce prix ?",
+            "\\C[3]Vous n'avez pas assez de jetons !"
+        ],
+        "12-2-message": [
+            null,
+            null,
+            "\\.\\C[3]Acheter ce prix ?"
+        ],
+        "14-2-message": [
+            null,
+            null,
+            "\\.\\C[3]Acheter ce prix ?"
+        ],
+        "9-2-message": [
+            null,
+            null,
+            "\\.\\C[3]Acheter ce prix ?",
+            "\\C[3]Vous avez échangé vos jetons contre un prix !",
+            "\\C[3]Vous n'avez pas assez de jetons !"
+        ],
+        "75-2-message": [
+            null,
+            null,
+            "\\.\\C[3]Acheter ce prix ?"
+        ],
+        "79-2-message": [
+            null,
+            null,
+            null,
+            "\\.\\C[3]Acheter ce prix ?"
+        ],
+        "3-2-message": [
+            "\\C[3][Prix] Informations Personnelles de Sara\n\nJetons Requis : 50 Jetons de Sara",
+            "\\.\\C[4](Puisque je ne peux pas utiliser mes propres jetons...\n Je ne peux pas acheter mes propres informations.)"
+        ],
+        "13-2-message": [
+            null,
+            null,
+            "\\.\\C[3]Acheter ce prix ?"
+        ],
+        "71-2-message": [
+            null,
+            null,
+            "\\.\\C[3]Acheter ce prix ?"
         ]
     },
     "map182": {
@@ -19337,14 +19493,14 @@
     },
     "map116": {
         "2-2-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\"Voici le Stand d'Échange.\n Je suis à votre service.\"",
+            "\\.\"... Euh.\"",
+            "\\.\"Est-ce qu'on peut acheter le \\C[2]trésor\\C[0] de Reko, ici ?\"",
+            "\\.\"Tout à fait.\n Il peut être échangé contre 20 des Jetons\n de Madame Reko.\"",
+            "\\.\"... L-Les voilà.\n D-Donne-le moi...!\"",
+            "\\.\"Mais bien sûr.\"",
+            "\"Voici le \\C[2]trésor\\C[0] de Madame Reko.\n Vous pouvez le prendre.\"",
+            "\\.\"Ce sont...!\"",
             null,
             null,
             null,
@@ -19373,6 +19529,46 @@
             null,
             null,
             "\\.\"...\""
+        ],
+        "3-2-message": [
+            "\\C[3][Prix] Informations Personnelles de Sara\n\nJetons Requis : 50 Jetons de Sara",
+            "\\.\\C[4](Puisque je ne peux pas utiliser mes propres jetons...\n Je ne peux pas acheter mes propres informations.)"
+        ],
+        "4-1-message": [
+            "\\C[3]Une photo de Keiji.",
+            "\\C[4](Ça, ce sont de sacrées cernes...\n Il est absolument épuisé.)"
+        ],
+        "4-2-message": [
+            "\\C[3][Prix] Informations Personnelles de Keiji\n\nJetons Requis : 50 Jetons de Keiji"
+        ],
+        "5-1-message": [
+            "\\C[3]Une photo de Kanna.",
+            "\\C[4](..........)"
+        ],
+        "5-2-message": [
+            "\\C[3][Prix] Informations Personnelles de Kanna\n\nJetons Requis : 50 Jetons de Kanna"
+        ],
+        "6-1-message": [
+            "\\C[3]Une photo de Q-taro.",
+            "\\C[4](C'est peut-être parce qu'il est joueur de baseball...\n Mais il rend bien sur cette photo.)"
+        ],
+        "6-2-message": [
+            "\\C[3][Prix] Informations Personnelles de Q-taro\n\n\\C[2]Déjà acheté.",
+            "\\C[3][Prix] Informations Personnelles de Q-taro\n\nJetons Requis : 50 Jetons de Q-taro"
+        ],
+        "7-1-message": [
+            "\\C[3]Une photo de Sou.",
+            "\\C[4](Hm...?\n Maintenant que j'y pense, où est passé Sou...?)"
+        ],
+        "7-2-message": [
+            "\\C[3][Prix] Informations Personnelles de Sou\n\nJetons Requis : 50 Jetons de Sou"
+        ],
+        "8-1-message": [
+            "\\C[3]Une photo de Reko."
+        ],
+        "3-1-message": [
+            "\\C[3]Une photo de moi.",
+            "\\C[4](Ça fait peur... Qu'est-ce... que ça signifie ?)"
         ]
     },
     "map117": {
@@ -25333,5 +25529,25 @@
     },
     "items-139": {
         "name": "★Limite Mouvante"
+    },
+    "map131": {
+        "4-1-message": [
+            "\\C[3]Une photo de Keiji."
+        ],
+        "5-1-message": [
+            "\\C[3]Une photo de Kanna."
+        ],
+        "6-1-message": [
+            "\\C[3]Une photo de Q-taro."
+        ],
+        "8-1-message": [
+            "\\C[3]Une photo de Reko."
+        ],
+        "3-1-message": [
+            "\\C[3]Une photo de moi."
+        ],
+        "7-1-message": [
+            "\\C[3]Une photo de Sou."
+        ]
     }
 }
