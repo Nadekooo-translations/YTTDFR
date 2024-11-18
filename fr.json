@@ -15997,7 +15997,23 @@
             "Oui\nNon"
         ],
         "2-1-message": [
-            "\"..........\""
+            "\"..........\"",
+            "\\.\"Ouah ! C'est qui, lui ?!\"",
+            "\\.\\C[3]Il reste immobile, comme si nous n'existions pas.",
+            "\\.\"Ça, c'est le réceptionniste.\n C'est une poupée.\n Vous vous trouvez devant le Stand d'Échange !\"",
+            "\\.\"Lara, distribue-les.\"",
+            "\\.\"D'accooord...\"",
+            "\\C[3]Nous avons chacun reçu une sorte de portefeuille.",
+            "\\.\\C[4](À l'intérieur se trouvent... des jetons\n avec mon visage...?)",
+            "\\.\"Ce sont des \\C[2]Égo-Jetons\\C[0].\n Vous en avez 100 chacun.\"",
+            "\\.\"Hm... Laisse-moi deviner.\n On va pouvoir les échanger contre des prix ?\"",
+            "\\.\"Bravo ! J'en attendais pas moins de toi !\"",
+            "\\.\"Vous pourrez acheter des infos sur cet étage,\n sur vous-même... et plus encore !\"",
+            "\\.\"... Les prix sont des informations ?\"",
+            "\\.\"Par contre...\"",
+            "\\.\"Vous ne \\C[2]pouvez pas acheter de prix\\C[0]\n avec \\C[2]vos propres jetons\\C[0].\"",
+            "\\.\"Comment ça, ouaf...?\"",
+            "\\.\"\\C[2]Vous pouvez utiliser que les jetons des autres\\C[0] !\""
         ],
         "5-1-message": [
             null,
