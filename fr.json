@@ -18981,7 +18981,22 @@
             "\\.\"Des vies sont en jeu...\n Tu devrais choisir la personne en qui tu\n fais le plus confiance, Reko.\"",
             "\\.\"Sara...\"",
             "\\.\"Je ferais pareil si j'étais toi.\n Ne t'inquiète pas.\"",
-            "\\.\"..........\""
+            "\\.\"..........\"",
+            "\\.\"Bon, d'accord... Je me gêne pas, alors.\n Tu veux bien m'accompagner... Sara ?\"",
+            "\\.\"Mais bien sûr.\"",
+            "\\.\"Putain, yes ! Je t'en dois une !\n Je me voyais vraiment pas y aller avec\n quelqu'un d'autre !\"",
+            "\\.\"Allez, on y va et on en ressort en un seul morceau !\n Ensemble !\"",
+            "\\.\\C[3]Reko me tend la main, et je lui serre\nfermement en retour.",
+            "\\.\\C[3]Soudainement depuis l'un des gants de Reko,\nun liquide a coulé sur mes mains.",
+            "\\.\\C[3]C'était du sang.",
+            "\\.\\C[3]C'est à ce moment-là que je m'en suis rendue compte.",
+            "\\.\\C[3]Reko cachait des blessures et des bleus partout\nsur son corps.",
+            "\\.\\C[3]... Elle se dépasse.",
+            "\\.\\C[3]À tous les coups... Elle a été faire des attractions\npour obtenir des Médaillons du Triomphe pour les\nplus faibles comme Gin et Nao...",
+            "\\.\\C[3]Je suis sûre que c'est à cause de ça que\nses fines mains ont fini mutilées...",
+            "\\.\\C[4](... Reko...)",
+            "\\.\"Un problème, Sara ?\"",
+            "\\.\"Non, rien. Allons-y...!\""
         ],
         "10-1-message": [
             "\"..........\"",
@@ -19072,7 +19087,8 @@
             "\\.\\C[3]Le nombre \"200\" est écrit en bleu au-dessus\ndu distributeur."
         ],
         "44-1-choice": [
-            "Insister\nNe pas insister"
+            "Insister\nNe pas insister",
+            "Je t'accompagne\nIl ne reste plus qu'Alice alors"
         ]
     },
     "map82": {
