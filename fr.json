@@ -19443,21 +19443,38 @@
             "\\.\"Mon... sieur...?\"",
             "\\.\"..........\"",
             "\\.\"Nao...\"",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\.\"Quelqu'un... nous a encore bernés...\"",
+            "\\.\"..........\"",
+            "\\.\"Nao...\n Aurais-tu une idée de qui ça pourrait être...?\"",
+            "\\.\"..........\"",
+            "\\.\"Tu parles... de qui aurait pu le casser...?\"",
+            "\\.\"... Je ne sais pas qui... est le coupable.\"",
             "\\.\"...\"",
-            null,
-            null,
-            null,
-            null,
-            "\\.\"...\""
+            "\\.\"..........\"",
+            "\\.\\C[4](Je ne sais pas quoi lui dire...)",
+            "\\.\"..........\"",
+            "\\.\"Monsieur Mishima... est...\"",
+            "\\.\"...\"",
+            "\\.\"... Hum.\"",
+            "\\.\"S'il vous plaît...\n N'essayez pas de trouver la personne responsable.\"",
+            "\\.\"C-Comment ça ?\"",
+            "\\.\"..........\"",
+            "\\.\"J'ai besoin d'être seule un petit moment...\"",
+            "\\.\\C[4](Nao...?)",
+            "\\.\"Hmm...\n J'ai pas trouvé d'indice qui pourrait nous éclairer.\"",
+            "\\.\"Miaou ? Pas de morceaux de bois par terre\n comme la dernière fois, ouaf ?\"",
+            "\\.\"Nan, rien.\"",
+            "\\.\\C[4](Donc cette fois, les preuves ont été nettoyées...)",
+            "\\.\"Ça, c'est un incident sans queue ni tête.\n J'aimerais bien commencer à le résoudre, mais...\"",
+            "\\.\"On a besoin de repos.\n On fera une enquête approfondie demain.\"",
+            "\\.\"Demander à Reko et Q-taro ce qu'ils savent,\n ça peut attendre pour l'instant.\"",
+            "\\.\"Monsieur le Policier...\n Tu dois... trouver qui a fait ça, miaou...\"",
+            "\\.\"... Ouais.\"",
+            "\\.\\C[4](On doit trouver le coupable...\n Pour Nao, surtout...)",
+            "\\.\\C[4](... Aller. On y va.)"
         ],
         "2-10-message": [
-            null,
+            "\\C[3]Le moniteur est cassé.",
             "\\.\\C[4](Monsieur Mishima...)"
         ],
         "71-3-message": [
@@ -19561,6 +19578,50 @@
             "Ce n'est pas vrai du tout\nTout à fait\nVous êtes un bon professeur et fumeur",
             "Souvenirs de Mishima\nÀ propos de nos ravisseurs\nÀ propos de la Démocratie Mortelle\nÀ propos de Nao\nÀ propos du vrai Mishima",
             "Vous étiez une personne fantastique\nVous étiez comme un ange\nVotre mort n'avait pas de sens"
+        ],
+        "4-1-message": [
+            "\\.\"...!\"",
+            "\\.\\C[3]L'instant même où Kanna me remarqua,\nson regard se détourna.",
+            "\\.\\C[4](Je ne pense pas que... je puisse parler\n calmement avec Kanna.)",
+            "\\.\\C[4](Kanna... a collaboré avec Sou.)",
+            "\\.\\C[4](Même si c'est parce qu'elle se faisait manipuler...\n Je ne juste... pas. Pas maintenant.)"
+        ],
+        "4-2-message": [
+            "\\.\\C[3]Kanna n'ose même pas se retourner vers moi."
+        ],
+        "4-4-message": [
+            "\\.\"C'est terrible, pas vrai...?\"",
+            "\\.\"..........\""
+        ],
+        "9-7-message": [
+            "\\C[3]L'écran est cassé...!",
+            "\"H-Hé !\n C'était pas comme ça avant, si ?!\"",
+            "\\.\"... C'est le moniteur à qui ?\"",
+            "\\.\\C[4](Mais qu'est-ce qu'il se passe...?!)",
+            "\\.\\C[3]La photo qu'il y avait au dos du moniteur a été retirée.",
+            "\\.\\C[4](Il devait bien... y avoir la photo de quelqu'un, ici !)",
+            "\\.\\C[3]Sans perdre une seule seconde, j'inspecte\nles environs... Mais je ne remarque personne.",
+            "\\.\"Ahh... Dommage.\n La photo qu'y avait au dos a été retirée.\"",
+            "\\.\"Monsieur Mishima, vous avez vu qui a\n détruit le moniteur...?\"",
+            "\\.\\sw[324]\"Je crains que non...\n Sincèrement désolé.\"\\sw[325]",
+            "\\.\"Maintenant que j'y pense...\n Je n'ai vu Sou nulle part...\"",
+            "\\.\"Lui, encore...?!\n Mais bordel, c'est quoi son objectif ?!\"",
+            "\\.\"Hmm...\n Chercher des attractions, ou chercher Sou...\n T'en penses quoi, Sara ?\"",
+            "\\.\"Je vais...\"",
+            "\\.\"J'aimerais...\n Ne pas avoir à rester avec \\C[2]elle\\C[0] un petit moment.\n J'ai encore... du mal à garder mon sang-froid...\""
+        ],
+        "9-10-message": [
+            "\\C[3]Le moniteur est cassé."
+        ],
+        "9-7-choice": [
+            "Regarder au dos\nRegarder aux alentours",
+            "Chercher des attractions\nChercher Sou"
+        ],
+        "2-9-choice": [
+            "On s'est fait berner\nSaurais-tu qui est le coupable ?\n.........."
+        ],
+        "9-8-message": [
+            "\\C[3]Le moniteur est cassé."
         ]
     },
     "map54": {
@@ -20685,6 +20746,12 @@
         "21-1-message": [
             null,
             "\"..........\""
+        ],
+        "13-1-message": [
+            "\\C[3]Le moniteur est cassé."
+        ],
+        "12-1-message": [
+            "\\C[3]Le moniteur est cassé."
         ]
     },
     "map132": {
@@ -25685,8 +25752,11 @@
     },
     "map111": {
         "2-1-message": [
-            null,
+            "\\C[3]Le moniteur est cassé.",
             "\\.\\C[4](Monsieur Mishima...)"
+        ],
+        "9-1-message": [
+            "\\C[3]Le moniteur est cassé."
         ]
     },
     "map152": {
@@ -26166,6 +26236,14 @@
             "\\C[3]Une photo d'Alice.",
             "\\C[3]Un crâne figure sur la photo d'Alice.",
             "\\.\\C[4](Alice...)"
+        ]
+    },
+    "map176": {
+        "2-1-message": [
+            "\\C[3]Le moniteur est cassé."
+        ],
+        "1-1-message": [
+            "\\C[3]Le moniteur est cassé."
         ]
     }
 }
