@@ -19608,7 +19608,18 @@
             "\\.\"Lui, encore...?!\n Mais bordel, c'est quoi son objectif ?!\"",
             "\\.\"Hmm...\n Chercher des attractions, ou chercher Sou...\n T'en penses quoi, Sara ?\"",
             "\\.\"Je vais...\"",
-            "\\.\"J'aimerais...\n Ne pas avoir à rester avec \\C[2]elle\\C[0] un petit moment.\n J'ai encore... du mal à garder mon sang-froid...\""
+            "\\.\"J'aimerais...\n Ne pas avoir à rester avec \\C[2]elle\\C[0] pour l'instant.\n J'ai encore... du mal à garder mon sang-froid...\"",
+            "\\.\"... Pas de soucis.\"",
+            "\\.\"OK. Vous, allez chercher des attractions.\n Moi, je vais chercher le type au bonnet.\"",
+            "\\.\"Je vais pas le laisser refaire de la merde...!\"",
+            "\\.\"Hé, sois pas trop brutale.\"",
+            "\\.\"Je pense... qu'on ne devrait pas le laisser\n se balader librement.\"",
+            "\\.\"... C'est bien vrai. J'adorerais lui mettre une\n paire de menottes et l'enfermer.\"",
+            "\\.\"Bordel de merde !!\n Je vous jure que je vais le déglinguer, ce gars !!\"",
+            "\\.\"Venez ! Partons à sa recherche !\"",
+            "\\.\"Hum... Désolée, je...\n J'aimerais continuer de parler à Monsieur Mishima...\"",
+            "\\.\"Hein...? O-OK...\"",
+            "\\.\"Merci beaucoup...\""
         ],
         "9-10-message": [
             "\\C[3]Le moniteur est cassé."
