@@ -14534,8 +14534,8 @@
             "\\.\"..........\""
         ],
         "568-0-message": [
-            null,
-            null,
+            "\\C[3]Ce n'est pas le moment de faire des attractions.",
+            "\\C[3]J'ai déjà fait cette attraction.",
             null,
             null,
             null,
@@ -15813,6 +15813,53 @@
         "565-0-choice": [
             null,
             "Kanna\nNao\nGin\nAnnuler"
+        ],
+        "333-0-message": [
+            "\\>Égo-Jetons de Sara : \\V[131]\\<\n\\>Médaillons du Triomphe : \\V[130]\\<",
+            "\\.\\>Keiji : \\V[132]             Kanna : \\V[133]\\<\n\\>Q-taro : \\V[134]            Sou : \\V[135]\\<\n\\>Reko : \\V[136]              Nao : \\V[137]\\<\n\\>Gin : \\V[138]               Alice : \\V[139]\\<"
+        ],
+        "355-0-message": [
+            "\\C[3]Ce n'est pas le moment de faire des attractions.",
+            "\\C[3]J'ai déjà fait cette attraction.",
+            "\\C[3][007]\nNombre de participants : 2\nRécompense de Médaillons du Triomphe : ★★\nDifficulté : Moyenne",
+            "\\.\\C[3]Un jeu de carte où vous combattez vos adversaires\nen sélectionnant trois cartes à la fois.\nBattez les trois poupées pour gagner.",
+            "\\.Keiji Shinogi\nQuand vous jouez Keiji, vos instincts de détective\nrévèlent parfois 2 des cartes de l'adversaire.\nDifficulté : Facile"
+        ],
+        "357-0-message": [
+            "\\C[3]Ce n'est pas le moment de faire des attractions.",
+            "\\C[3]J'ai déjà fait cette attraction.",
+            "\\C[3][Réminidanse]\nNombre de participants : 2\nRécompense de Médaillons du Triomphe : \\C[2]★★★★\\C[3]\nDifficulté : \\C[2]Très Difficile\\C[3]"
+        ],
+        "382-0-message": [
+            "\\C[3]Ce n'est pas le moment de faire des attractions.",
+            "\\C[3]J'ai déjà fait cette attraction."
+        ],
+        "507-0-message": [
+            "\\C[3]Confirmer l'échange ?",
+            "\\C[3]Échange terminé !"
+        ],
+        "565-0-message": [
+            "\\C[3]Ce n'est pas le moment de faire des attractions.",
+            "\\C[3]J'ai déjà fait cette attraction."
+        ],
+        "566-0-message": [
+            "\\C[3]Ce n'est pas le moment de faire des attractions.",
+            "\\C[3]J'ai déjà fait cette attraction."
+        ],
+        "567-0-message": [
+            "\\C[3]Ce n'est pas le moment de faire des attractions.",
+            "\\C[3]J'ai déjà fait cette attraction."
+        ],
+        "569-0-message": [
+            "\\C[3]Ce n'est pas le moment de faire des attractions.",
+            "\\C[3]J'ai déjà fait cette attraction."
+        ],
+        "570-0-message": [
+            "\\C[3]Ce n'est pas le moment de faire des attractions.",
+            "\\C[3]J'ai déjà fait cette attraction."
+        ],
+        "506-0-message": [
+            "\\C[3]Annuler l'échange ?"
         ]
     },
     "map107": {
@@ -16311,7 +16358,7 @@
         ],
         "2-2-choice": [
             "Lui poser des questions\nAnnuler",
-            "Qu'est-ce que tu es ?\nÀ propos des types de prix\nÀ propos du ticket pour partir\nAnnuler"
+            "Qu'est-ce que vous êtes ?\nÀ propos des types de prix\nLe ticket pour partir...\nAnnuler"
         ],
         "3-1-message": [
             "\\C[3]Une photo de moi.",
@@ -16465,7 +16512,7 @@
             "\"Hm... Ce prix-là est sous forme de documents.\n Vous êtes libres de le consulter quand vous\n le souhaitez.\"",
             "\\.\\C[3]Informations personnelles de Gin obtenues !",
             "\"Mettez cet appareil dans la machine de la Salle\n de Surveillance pour visionner les informations\n personnelles.\"",
-            "\"Avez-vous terminé ?\"",
+            "\"Avez-vous changé d'avis ?\"",
             "\\.\"Au plaisir de vous revoir.\""
         ],
         "79-1-message": [
@@ -17655,7 +17702,7 @@
             "\\.\"Ah, d'accord...\"",
             "\\.\"Avec plaisir, mais...\n Je pense que tu devrais dormir un peu plus.\"",
             "\\.\"Je ne veux pas inquiéter les autres...\"",
-            "\\.\"Ils se reposent, eux-aussi.\n Te force pas.\"",
+            "\\.\"Ils se reposent, eux-aussi.\n Te pousse pas à bout.\"",
             "\\.\"Hmm... Y a pas l'heure ici...\"",
             "\\.\"Mais les autres se reposent quand même.\n Tu devrais te reposer, Sara.\"",
             "\\.\"... Vu comme t'es pas en forme, tu ferais\n que nous ralentir.\"",
@@ -17682,7 +17729,7 @@
             "\\.\"Toi aussi, hein, Sara...?\"",
             "\\.\"...\"",
             "\\.\"... Tu dois... ignorer les hallucinations.\"",
-            "\\.\"Car une fois gravées dans ton cerveau...\n Tu seras...\"",
+            "\\.\"Car une fois gravées dans ton cerveau...\n Tu..\"",
             "\\.\"...\"",
             "\\.\"... Finis pas comme Monsieur le Policier.\"",
             "\\.\"On dirait que t'as pu te reposer un peu.\"",
@@ -17772,7 +17819,7 @@
             "\\.\"Reko... Elle chante purement par chagrin pour\n ceux qui ne sont plus parmi nous.\"",
             "\\.\"Je ne souhaite pas que ma présence la distrait.\"",
             "\\.\"C'est que t'es attentionné avec elle, hein ?\"",
-            "\\.\"... Toujours provocateur, toi.\"",
+            "\\.\"... Toujours autant provocateur, toi.\"",
             "\\.\"..........\"",
             "\\.\"... Vous...\"",
             "\\.\"Que pensez-vous... de Reko ?\"",
@@ -18315,7 +18362,7 @@
             "\\.\"Q-taro...\"",
             "\\.\"J'reprends les recherches. J'veux trouver des pistes.\n Que c'soit sur une sortie ou sur les kidnappeurs.\"",
             "\\.\"Je... vais faire de mon mieux aussi.\"",
-            "\\.\"... Ce gorille...\n Il est gentil, en fait, miaou.\""
+            "\\.\"... Le gorille...\n Il est gentil, en fait, miaou.\""
         ],
         "15-3-message": [
             "\\.\"Bien, on est au Couloir en Ruines.\"",
@@ -18578,7 +18625,7 @@
             "Merci beaucoup\nJe ferai payer Rillante"
         ],
         "2-2-message": [
-            "\\.\"Bon, c'bien beau tout ça...\n Mais j'commence à avoir un peu faim, moi.\"",
+            "\\.\"Bon, c'bien beau tout ça...\n Mais j'commence à avoir un peu la dalle, moi.\"",
             "\\.\\C[4](Je n'ai rien mangé depuis le début non plus...)"
         ],
         "3-1-message": [
@@ -19260,7 +19307,7 @@
             "\\.\\C[3]J'étais en train d'examiner viscéralement\nle dos des écrans.",
             "\\.\\C[10]Pas là.",
             "\\.\\C[10]Pas là, pas là, pas là.",
-            "\\.\\C[10]C'est quoi, ça...?\n Il y a un écran avec ma photo...",
+            "\\.\\C[10]C'est quoi, ça...?\nIl y a aussi un écran avec ma photo...",
             "\\.\\C[10]Mais Joe n'est nulle part.",
             "\\.\"Sœurette...\n Pourquoi tu n'es pas là...?\n Tu... me manques...\"",
             "\\.\\C[4](Kanna aussi...)",
@@ -19270,7 +19317,7 @@
             "\\.\\sw[342]\"Bouh, ouh, ahh...! Qui c'est ?!\n Qui a lancé l'IA de Mishima...?!\"\\sw[343]",
             "\\.\"Q-Quoi ?!\"",
             "\\.\\sw[342]\"J'ai compris...! Alors... C'était vous, \\C[2]Ray\\C[0]...!\n N'est-ce pas...?!\"\\sw[343]",
-            "\\.\"Hé, tranquille !\n Ça leur fait plaisir, t'es pas d'accord ?\"",
+            "\\.\"Hé, tranquille !\n Tu trouves pas que ça leur fait plaisir ?\"",
             "\\.\\C[3]Nous nous retournons pour faire face à la\npersonne derrière nous.",
             "\\.\"Yo ! Alors les salauds, bien dormi ?\"",
             "\\.\"T-T'es qui toi, miaou ?!\"",
@@ -19289,7 +19336,7 @@
             "\\.\"C'quoi votre problème ?!\"",
             "\\.\"...\"",
             "\\.\"C'est niquel.\n On va vous expliquer \\C[2]les règles\\C[0] du 2ème Étage !\"",
-            "\\.\"L-Les règles du 2ème Étage...?\"",
+            "\\.\"L-Les règles du 3ème Étage...?\"",
             "\\.\"Ouaip. Vous devez être super sur les nerfs après\n s'être foutus sur la gueule lors du Jeu Principal,\n pas vrai les salauds ?\"",
             "\\.\"Du coup ! On a mis en place des activités géniales\n pour que vous vous réconciliiez avant le prochain\n Jeu Principal !\"",
             "\\.\"Attends !! Un Jeu Principal ?!\n On va devoir en refaire un...?!\"",
@@ -19580,7 +19627,7 @@
             "Ce sont peut-être des prix\nIl y en a 9..."
         ],
         "2-1-message": [
-            "\\C[3]J'entends de légers bruits venant de ce moniteur.",
+            "\\C[3]J'entends un faible son venant de ce moniteur.",
             "\\.\\C[4](Serait-ce... Un autre piège ?)",
             "\\C[3]... Hein...?",
             "\\.\\sw[324]\"Allons, allons... Que se passe-t-il, soudainement ?\"\\sw[325]",
@@ -19616,7 +19663,7 @@
             "\\.\\C[3]L'instant même où Kanna me remarqua,\nson regard se détourna.",
             "\\.\\C[4](Je ne pense pas que... je puisse parler\n calmement avec Kanna.)",
             "\\.\\C[4](Kanna... a collaboré avec Sou.)",
-            "\\.\\C[4](Même si c'est parce qu'elle se faisait manipuler...\n Je ne juste... pas. Pas maintenant.)"
+            "\\.\\C[4](Même si c'est parce qu'elle se faisait manipuler...\n Je ne peux juste... pas. Pas maintenant.)"
         ],
         "4-2-message": [
             "\\.\\C[3]Kanna n'ose même pas se retourner vers moi."
@@ -19854,7 +19901,7 @@
             "\\.\"Tu te sens pas responsable ?\"",
             "\\.\"...\"",
             "\\.\"C'est que j'ai souffert longtemps par ta\n faute aussi, tu sais ?\"",
-            "\\.\"T'as quelque chose à dire à ce sujet ?\"",
+            "\\.\"T'as quoi à dire pour ta défense ?\"",
             "\\.\"Je... Je...\"",
             "\\.\"Hahaha, mais pourquoi tu t'excuses ?\"",
             "\\.\"Hahaha ! Pourquoi tu dis rien ?\"",
@@ -19867,7 +19914,7 @@
             "\\.\\C[10]\"Mais je suis mort.\\! Kai est mort, aussi.\"",
             "\\.\"Mais... Mais...!!\"",
             "\\.\"Arrête, Joe !!\"",
-            "\\.\"Je t'en supplie... Je t'en supplie...!!\"",
+            "\\.\"Je t'en supplie... Pitié...!!\"",
             "\\.\\C[10]\"Tu veux pas voir les choses en face ?\"",
             "\\>   \\{\\{\\C[10]REGARDE-MOI DANS LES YEUX...\\<\\|\\.\\.\\^",
             "\\.\"OUAAAAAAAAAAaaaaaahhhhh...!!!!\""
@@ -26063,7 +26110,7 @@
             "\"Je vais me rappeler de tous les mouvements...!\"\n\n\\C[3](Tous les mouvements révélés, uniquement une fois.)",
             "\"Je m'en souviens maintenant...!\"",
             "\"Un œil poilu qui dance ?\n Ça, c'est hardcore !\"",
-            "\"C'est super simple, t'as intérêt à t'en rappeler.\"",
+            "\"C'est super simple, j'espère que tu t'en rappelles.\"",
             "\"Son look et ses mouvements sont dégoûtants...\n Je le veux presque dans mon groupe.\""
         ]
     },
