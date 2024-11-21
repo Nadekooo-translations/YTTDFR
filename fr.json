@@ -26013,12 +26013,12 @@
     },
     "map89": {
         "2-1-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\"... Ouh... Il fait peur...\"",
+            "\"Même Kanna peut se rappeler de trois mouvements...!\"",
+            "\"Bouh... Il est intimidant...\"",
+            "\"Ses premiers mouvements sont rapides, mais...\n Il doit y avoir un paterne.\"",
+            "\"Notre dernière ennemie...! Elle est belle...\"",
+            "\"Ouuh... Ces mouvements sont difficiles...\"",
             "\"..........\""
         ],
         "2-3-message": [
@@ -26050,11 +26050,21 @@
             "\"Quand mon ennemi brille, je dois prendre la pose...!\"\n\\C[4](En me concentrant sur moi-même...!)",
             "\"Je ne peux pas me laisser impressionner par\n leurs apparences ! Faut que je me rappelle\n de leurs mouvements !\"",
             "\"Quand mon ennemi brille, je dois prendre la pose...!\"\n\\C[4](En me concentrant sur moi-même...!)",
-            null,
+            "\"Cet ennemi a l'air beaucoup plus mignon...!\"",
             "\"Quand mon ennemi brille, je dois prendre la pose...!\"\n\\C[4](En me concentrant sur moi-même...!)"
         ],
         "6-1-choice": [
             "Revoir l'explication\nEssayer"
+        ],
+        "1-2-message": [
+            "\"Donne... tout ce que tu as...!\""
+        ],
+        "2-2-message": [
+            "\"Je vais me rappeler de tous les mouvements...!\"\n\n\\C[3](Tous les mouvements révélés, uniquement une fois.)",
+            "\"Je m'en souviens maintenant...!\"",
+            "\"Un œil poilu qui dance ?\n Ça, c'est hardcore !\"",
+            "\"C'est super simple, t'as intérêt à t'en rappeler.\"",
+            "\"Son look et ses mouvements sont dégoûtants...\n Je le veux presque dans mon groupe.\""
         ]
     },
     "map115": {
