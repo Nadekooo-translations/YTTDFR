@@ -25417,6 +25417,16 @@
         ],
         "20-11-message": [
             "\\C[3]Victoire."
+        ],
+        "21-1-message": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.Cliquer sur l'icône de votre partenaire vous donnera\ndes conseils et des encouragements, donc...\nBon courage."
         ]
     },
     "items-95": {
@@ -25991,6 +26001,30 @@
             null,
             null,
             "\"..........\""
+        ],
+        "2-3-message": [
+            "\\.\"Donne tout ce que t'as, miaou !!\"",
+            null,
+            null,
+            null,
+            "\\.\"Donne tout ce que t'as, miaou !!\"",
+            null,
+            null,
+            null,
+            "\\.\"Donne tout ce que t'as, miaou !!\""
+        ],
+        "6-1-message": [
+            "\\.\"J'y vais en première...!\"",
+            null,
+            null,
+            null,
+            null,
+            "\\.\"Miaou !\n Bonne chance, grande sœur Sara !\n Je t'encourage, ouaf !!\"",
+            null,
+            null,
+            null,
+            null,
+            "\\.Cliquer sur l'icône de votre partenaire vous donnera\ndes conseils et des encouragements, donc...\nBon courage."
         ]
     },
     "map115": {
@@ -26472,6 +26506,166 @@
         "5-1-message": [
             null,
             "\\.\\C[3]Une photo d'Alice est collée au dos."
+        ]
+    },
+    "map85": {
+        "8-3-message": [
+            "\"Mia ?! Un extraterrestre, ouaf !\nIl va nous retourner le cerveau, miaou !\"",
+            "\"Il fait peur, mais il est pas si fort que ça, miaou !\"",
+            "\\.\"Donne tout ce que t'as, miaou !!\"",
+            "\"Il attaque toujours en troisième, ouaf !!\n Ça veut dire que si tu te protèges en troisième...\n C'est dans la poche, non, miaou ?\"",
+            "\\.\"Donne tout ce que t'as, miaou !!\"",
+            "\"Il est baveux, lui, miaou ! \n Reste pas à côté de lui, le touche pas, ouaf !\"",
+            "\"... Je me demande quelle texture il a, miaou.\"",
+            "\\.\"Donne tout ce que t'as, miaou !!\"",
+            "\"Le baveux, à chaque fois, il se charge en premier\n et il attaque en deuxième, ouaf !\n ... Enfin, je crois.\"",
+            "\\.\"Donne tout ce que t'as, miaou !!\"",
+            "\"U-Un lapin, ouaf... Il fait peur, miaou...\"",
+            "\"J'ai peur, ouaf...\n Je te donnerai des carottes alors, laisse-nous\n tranquille, miaou...\"",
+            "\\.\"Donne tout ce que t'as, miaou !!\"",
+            "\"Ce truc... il se charge parfois en premier, miaou...\n J'ai peuuuur...\"",
+            "\\.\"Donne tout ce que t'as, miaou !!\""
+        ],
+        "5-1-message": [
+            "\"En tant que Terrienne...\n Je ne laisserai jamais un alien me vaincre.\"",
+            "\"Un tireur, hein...\n Avec mon mental de samurai, je serai victorieuse !\"",
+            "\"J'aime bien les lapins, mais là, c'est\n une autre histoire !\""
+        ],
+        "5-2-message": [
+            "\"Tout ce que je peux faire... C'est t'encourager...!\""
+        ],
+        "8-1-message": [
+            "\"On a un alien en face, hein...?\n Ça, c'est une rencontre paranormale.\"",
+            "\"Il a pas l'air bien malin.\n Ses premières et secondes cartes sont\n rarement des attaques.\"",
+            "\"Notre adversaire aime prendre son temps...\n Il attaque qu'à sa troisième carte.\"",
+            "\"Un cowboy... Il vient du Far-West ?\"",
+            "\"La première carte de notre ennemi a tendance à\n être une charge. Il nous attaque pas directement.\"",
+            "\"Notre adversaire adore concentrer une charge en\n premier pour ensuite passer à l'attaque...\n Comme un vrai tireur.\"",
+            "\"Voilà un lapin sacrément moche.\"",
+            "\"Comparé aux autres, il est plus imprévisible, mais...\n Sa première carte est rarement une attaque.\"",
+            "\"Sa première carte, c'est soit une charge soit une\n attaque. Après ça, il est plutôt imprévisible...\""
+        ],
+        "8-2-message": [
+            "\"Y a un alien !\"",
+            "\"Notre ennemi... S'premières et deuxièmes\n cartes sont rarement une attaque.\"",
+            "\"Notre ennemi attaque qu'à la troisième carte.\n T'as qu'à choisir \"GARDE\" en troisième !\"",
+            "\"L'est visqueux, lui ! Dégoûtant !\"",
+            "\"J'ai l'impression qu'not' ennemi attaque\n rarement en premier.\"",
+            "\"Notre ennemi prépare tout l'temps des charges avec\n en premier pour attaquer juste après !\"",
+            "\"Un lapin, hein ? On va l'déguster !\"",
+            "\"L'attaque rarement en premier, on dirait.\"",
+            "\"L'a tendance à se charger en premier, mais c'pas\n toujours le cas. L'est globalement imprédictible.\""
+        ],
+        "25-1-message": [
+            "\\.\"J'y vais en première...!\"",
+            "\\.\"Je te surveille.\"",
+            "\\.\"À toi d'jouer, Sara !\"",
+            "\\.\"Miaou !\n Bonne chance, grande sœur Sara !\n Je t'encourage, ouaf !!\"",
+            "007 ~ Règles ~",
+            "\\.Il existe quatre types de cartes.\nVous et votre ennemi en choisirez trois par manche.\nElles sont jouées dans l'ordre.",
+            "\\.\\C[4]Charge\\C[0]   : Donne 1 Énergie.\n\\C[2]Rayon\\C[0]    : Dépense 1 Énergie pour attaquer.\n\\C[6]Spécial\\C[0]  : Dépense 3 Énergies pour un coup spécial.\n\\C[3]Garde\\C[0]    : Protège complètement des attaques.",
+            "\\.Si l'ennemi prend \\C[4]Charge\\C[0] et vous \\C[2]Rayon\\C[0], il est touché !\nMais sachez qu'attaquer requiert une \\C[4]Charge\\C[0] !\n\n... Voilà l'essentiel des règles du jeu.",
+            "\\.Dans la situation où un \\C[2]Rayon\\C[0] est contre un \\C[6]Spécial\\C[0],\nle coup \\C[6]Spécial\\C[0] le submerge et gagne."
+        ]
+    },
+    "map97": {
+        "6-1-message": [
+            "\\.\"J'y vais en première...!\"",
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.Cliquer sur l'icône de votre partenaire vous donnera\ndes conseils et des encouragements, donc...\nBon courage."
+        ],
+        "8-3-message": [
+            "\\.\"Donne tout ce que t'as, miaou !!\"",
+            null,
+            null,
+            null,
+            "\\.\"Donne tout ce que t'as, miaou !!\"",
+            null,
+            null,
+            null,
+            "\\.\"Donne tout ce que t'as, miaou !!\""
+        ],
+        "5-2-message": [
+            "\"Tout ce que je peux faire... C'est t'encourager...!\""
+        ]
+    },
+    "map99": {
+        "22-1-message": [
+            "\\.\"J'y vais en première...!\"",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.Cliquer sur l'icône de votre partenaire vous donnera\ndes conseils et des encouragements, donc...\nBon courage."
+        ],
+        "5-2-message": [
+            "\"Tout ce que je peux faire... C'est t'encourager...!\""
+        ]
+    },
+    "map103": {
+        "27-1-message": [
+            "\\.\"J'y vais en première...!\"",
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.Cliquer sur l'icône de votre partenaire vous donnera\ndes conseils et des encouragements, donc...\nBon courage."
+        ],
+        "5-2-message": [
+            "\"Tout ce que je peux faire... C'est t'encourager...!\""
+        ]
+    },
+    "map105": {
+        "23-1-message": [
+            "\\.\"J'y vais en première...!\"",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.Cliquer sur l'icône de votre partenaire vous donnera\ndes conseils et des encouragements, donc...\nBon courage."
+        ],
+        "5-2-message": [
+            "\"Tout ce que je peux faire... C'est t'encourager...!\""
+        ]
+    },
+    "map108": {
+        "19-1-message": [
+            "\\.\"J'y vais en première...!\"",
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.Cliquer sur l'icône de votre partenaire vous donnera\ndes conseils et des encouragements, donc...\nBon courage."
+        ],
+        "5-2-message": [
+            "\"Tout ce que je peux faire... C'est t'encourager...!\""
+        ]
+    },
+    "map95": {
+        "5-2-message": [
+            "\"Tout ce que je peux faire... C'est t'encourager...!\""
+        ],
+        "19-1-message": [
+            "\\.\"J'y vais en première...!\"",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.Cliquer sur l'icône de votre partenaire vous donnera\ndes conseils et des encouragements, donc...\nBon courage."
         ]
     }
 }
