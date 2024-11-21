@@ -15797,6 +15797,22 @@
         ],
         "397-0-choice": [
             "Ne pas négocier\nAnnuler"
+        ],
+        "568-0-choice": [
+            null,
+            "Keiji\nKanna\nAlice\nAnnuler"
+        ],
+        "357-0-choice": [
+            null,
+            "Kanna\nReko\nGin\nAnnuler"
+        ],
+        "355-0-choice": [
+            null,
+            "Keiji\nQ-taro\nGin\nAnnuler"
+        ],
+        "565-0-choice": [
+            null,
+            "Kanna\nNao\nGin\nAnnuler"
         ]
     },
     "map107": {
@@ -25427,6 +25443,9 @@
             null,
             null,
             "\\.Cliquer sur l'icône de votre partenaire vous donnera\ndes conseils et des encouragements, donc...\nBon courage."
+        ],
+        "21-1-choice": [
+            "Revoir l'explication\nEssayer"
         ]
     },
     "items-95": {
@@ -26025,6 +26044,17 @@
             null,
             null,
             "\\.Cliquer sur l'icône de votre partenaire vous donnera\ndes conseils et des encouragements, donc...\nBon courage."
+        ],
+        "1-1-message": [
+            "\"Reste calme...\n Je n'ai qu'à répéter les mouvements de mon adversaire.\"",
+            "\"Quand mon ennemi brille, je dois prendre la pose...!\"\n\\C[4](En me concentrant sur moi-même...!)",
+            "\"Je ne peux pas me laisser impressionner par\n leurs apparences ! Faut que je me rappelle\n de leurs mouvements !\"",
+            "\"Quand mon ennemi brille, je dois prendre la pose...!\"\n\\C[4](En me concentrant sur moi-même...!)",
+            null,
+            "\"Quand mon ennemi brille, je dois prendre la pose...!\"\n\\C[4](En me concentrant sur moi-même...!)"
+        ],
+        "6-1-choice": [
+            "Revoir l'explication\nEssayer"
         ]
     },
     "map115": {
@@ -26565,7 +26595,11 @@
             "\\.Il existe quatre types de cartes.\nVous et votre ennemi en choisirez trois par manche.\nElles sont jouées dans l'ordre.",
             "\\.\\C[4]Charge\\C[0]   : Donne 1 Énergie.\n\\C[2]Rayon\\C[0]    : Dépense 1 Énergie pour attaquer.\n\\C[6]Spécial\\C[0]  : Dépense 3 Énergies pour un coup spécial.\n\\C[3]Garde\\C[0]    : Protège complètement des attaques.",
             "\\.Si l'ennemi prend \\C[4]Charge\\C[0] et vous \\C[2]Rayon\\C[0], il est touché !\nMais sachez qu'attaquer requiert une \\C[4]Charge\\C[0] !\n\n... Voilà l'essentiel des règles du jeu.",
-            "\\.Dans la situation où un \\C[2]Rayon\\C[0] est contre un \\C[6]Spécial\\C[0],\nle coup \\C[6]Spécial\\C[0] le submerge et gagne."
+            "\\.Dans la situation où un \\C[2]Rayon\\C[0] est contre un \\C[6]Spécial\\C[0],\nle coup \\C[6]Spécial\\C[0] le submerge et gagne.",
+            "\\.Cliquer sur l'icône de votre partenaire vous donnera\ndes conseils et des encouragements, donc...\nBon courage."
+        ],
+        "25-1-choice": [
+            "Revoir l'explication\nEssayer"
         ]
     },
     "map97": {
@@ -26591,6 +26625,9 @@
         ],
         "5-2-message": [
             "\"Tout ce que je peux faire... C'est t'encourager...!\""
+        ],
+        "6-1-choice": [
+            "Revoir l'explication\nEssayer"
         ]
     },
     "map99": {
@@ -26607,6 +26644,9 @@
         ],
         "5-2-message": [
             "\"Tout ce que je peux faire... C'est t'encourager...!\""
+        ],
+        "22-1-choice": [
+            "Revoir l'explication\nEssayer"
         ]
     },
     "map103": {
@@ -26621,6 +26661,9 @@
         ],
         "5-2-message": [
             "\"Tout ce que je peux faire... C'est t'encourager...!\""
+        ],
+        "27-1-choice": [
+            "Revoir l'explication\nEssayer"
         ]
     },
     "map105": {
@@ -26636,6 +26679,9 @@
         ],
         "5-2-message": [
             "\"Tout ce que je peux faire... C'est t'encourager...!\""
+        ],
+        "23-1-choice": [
+            "Revoir l'explication\nEssayer"
         ]
     },
     "map108": {
@@ -26650,6 +26696,9 @@
         ],
         "5-2-message": [
             "\"Tout ce que je peux faire... C'est t'encourager...!\""
+        ],
+        "19-1-choice": [
+            "Revoir l'explication\nEssayer"
         ]
     },
     "map95": {
@@ -26666,6 +26715,92 @@
             null,
             null,
             "\\.Cliquer sur l'icône de votre partenaire vous donnera\ndes conseils et des encouragements, donc...\nBon courage."
+        ],
+        "19-1-choice": [
+            "Revoir l'explication\nEssayer"
+        ]
+    },
+    "map86": {
+        "1-1-choice": [
+            "007\nRéminidanse\nSafari Hanté\nBras de Fer\nTapette à Bête\nDégaine Agile",
+            "Keiji\nQ-taro\nGin\nAnnuler",
+            "Y aller avec Keiji\nAnnuler",
+            "Y aller avec Q-taro\nAnnuler",
+            "Y aller avec Gin\nAnnuler",
+            "Kanna\nReko\nGin\nAnnuler",
+            "Y aller avec Kanna\nAnnuler",
+            "Y aller avec Reko\nAnnuler",
+            "Y aller avec Gin\nAnnuler",
+            "Reko\nNao\nAlice\nAnnuler",
+            "Y aller avec Reko\nAnnuler",
+            "Y aller avec Nao\nAnnuler",
+            "Y aller avec Alice\nAnnuler",
+            "Q-taro\nKeiji\nAlice\nAnnuler",
+            "Y aller avec Q-taro\nAnnuler",
+            "Y aller avec Keiji\nAnnuler",
+            "Y aller avec Alice\nAnnuler",
+            "Kanna\nNao\nGin\nAnnuler",
+            "Y aller avec Kanna\nAnnuler",
+            "Y aller avec Nao\nAnnuler",
+            "Y aller avec Gin\nAnnuler",
+            "Kanna\nSou\nReko\nAnnuler",
+            "Y aller avec Kanna\nAnnuler",
+            "Y aller avec Sou\nAnnuler",
+            "Y aller avec Reko\nAnnuler",
+            "Destruction Murale\nCache-Cache\nLimite Mouvante",
+            "Sou\nQ-taro\nGin\nAnnuler",
+            "Y aller avec Sou\nAnnuler",
+            "Y aller avec Q-taro\nAnnuler",
+            "Y aller avec Gin\nAnnuler",
+            "Keiji\nKanna\nAlice\nAnnuler",
+            "Y aller avec Keiji\nAnnuler",
+            "Y aller avec Kanna\nAnnuler",
+            "Y aller avec Alice\nAnnuler",
+            "Keiji\nQ-taro\nNao\nAnnuler",
+            "Y aller avec Keiji\nAnnuler",
+            "Y aller avec Q-taro\nAnnuler",
+            "Y aller avec Nao\nAnnuler"
+        ],
+        "1-1-message": [
+            "À quel jeu jouer ?",
+            "Choisissez un partenaire.",
+            "[Keiji]\nCapacité : Quand Keiji est en jeu, tous les 2 tours,\n           il prédit 2 des cartes de l'adversaire.",
+            "[Q-taro]\nCapacité : Quand Q-taro est en jeu, vous infligez\n           plus de dégâts.",
+            "[Gin]\nCapacité : Quand Sara est en jeu, vous soigne parfois.\n           Peut aussi vous soigner via son icône.",
+            "Choisissez un partenaire.",
+            "[Kanna]\nCapacité : Quand Kanna est en jeu, elle se rappelle\n           partiellement des mouvements de l'adversaire.",
+            "[Reko]\nCapacité : Quand en jeu, se souvient la dernière moitié.\n           La solliciter révèle tous les mouvements\n           (utilisable une fois).",
+            "[Gin]\nCapacité : Quand Sara est en jeu, vous soigne parfois.\n           Peut aussi vous soigner via son icône.",
+            "Choisissez un partenaire.",
+            "[Reko]\nCapacité : Quand Reko est en jeu, a un pressentiment\n           quand les fantômes vont apparaître.",
+            "[Nao]\nCapacité : Quand Nao est en jeu, des flammes bleues\n           accélèrent la jauge.",
+            "[Alice]\nCapacité : Quand Alice est en jeu, la jauge\n           ne diminue pas.",
+            "Choisissez un partenaire.",
+            "[Q-taro]\nCapacité : Quand Q-taro est en jeu, vos attaques vous\n           fait avancer de 2 étapes (2× plus d'attaque).",
+            "[Keiji]\nCapacité : Quand Keiji est en jeu, la jauge est\n           moins intense.",
+            "[Alice]\nCapacité : Quand Alice est en jeu, le nombre de\n           clics requis pour endurer une attaque\n           est réduit.",
+            "Choisissez un partenaire.",
+            "[Kanna]\nCapacité : Quand Kanna est en jeu, moins\n           d'ennemis apparaissent.",
+            "[Nao]\nCapacité : Quand Nao est en jeu, vous avez\n           plus de temps.",
+            "[Gin]\nCapacité : Quand Sara est en jeu, vous soigne parfois.\n           Peut aussi vous soigner via son icône.",
+            "Choisissez un partenaire.",
+            "[Kanna]\nCapacité : Quand Kanna est en jeu, vous avez un\n           pressentiment 1 mesure avant le signal.",
+            "[Sou]\nCapacité : Quand Sou est en jeu, vous savez à\n           l'avance ce que l'ennemi va utiliser.",
+            "[Reko]\nCapacité : Quand Reko est en jeu, vous avez un\n           peu plus de temps pour attaquer.",
+            "Choisissez un partenaire.",
+            "[Sou]\nCapacité : Augmente la vitesse du wagonnet.",
+            "[Q-taro]\nCapacité : Réduit la quantité de clics nécessaires.",
+            "[Gin]\nCapacité : Augmente le nombre d'accélérations.",
+            "Choisissez un partenaire.",
+            "[Keiji]\nCapacité : Quand Keiji est en jeu, la jauge ne diminue\n           pas même quand le levier n'est pas actionné.",
+            "[Kanna]\nCapacité : Quand Kanna est en jeu, la vitesse\n           de charge de la jauge augmente.",
+            "[Alice]\nCapacité : Quand Alice est en jeu, vous savez quand\n           vous cacher légèrement en avance.",
+            "Choisissez un partenaire."
+        ]
+    },
+    "map87": {
+        "1-1-message": [
+            "\\C[3]La lampe illumine la pièce d'une lueur vive."
         ]
     }
 }
