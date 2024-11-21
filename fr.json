@@ -19478,25 +19478,41 @@
             "\\.\\C[4](Monsieur Mishima...)"
         ],
         "71-3-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\C[3]Nao parle, les yeux rivés sur l'écran.",
+            "\\.\"... Nao.\"",
+            "\\.\"Et ensuite... Après que vous êtes partis...\"",
+            "\\.\\C[3]C'est comme si je n'étais pas là.",
+            "\\.\\C[4](Je... la comprends totalement.)",
+            "\\.\\C[4](Si...)",
+            "\\.\\C[4](Si c'était Joe sur ce moniteur...)",
+            "\\.\\C[4](Moi aussi... Je resterais plantée devant cet écran.)",
             "\\.\\C[4](...)",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\C[10]Niveau d'Hallucination empiré de 20."
+            "\\.\\C[3]Peu importe si c'est un faux.",
+            "\\.\\C[3]Je veux le revoir et m'excuser.",
+            "\\.\\C[3]Je veux qu'il me pardonne.",
+            "\\.\\C[3]... Je ne peux pas m'empêcher d'y penser.",
+            "\\.\\C[10]\"Comme si j'allais te pardonner.\"\\.\\.\\^",
+            "\\.\\C[4](...!!)",
+            "\\.\\C[4](Du calme...)",
+            "\\.\\C[4](Il n'y a que moi...)",
+            "\\.\\C[4](Ce n'est qu'une hallucination...)",
+            "\\C[10]Niveau d'Hallucination empiré de 20.",
+            "\\.\\C[4](Je suis sûre...)",
+            "\\.\\C[4](Que Nao est pleine de regrets, elle aussi...)",
+            "\\.\\C[4](Elle doit se demander... si elle aurait pu le sauver...)",
+            "\\.\\C[4](..........)",
+            "\\.\\C[4](Je ne peux pas la faire revenir à la réalité...\n Je ne peux juste pas.)",
+            "\\.\\C[4](Ce serait... injuste.)",
+            "\\.\\C[4](À ce que je vois, c'est exactement comme si\n elle parlait au vrai Monsieur Mishima.)",
+            "\\.\\C[3]Devant nous se tient un homme mort.",
+            "\\.\\C[3]Il lui sourit et l'écoute parler tendrement.",
+            "\\.\\C[4](C'est comme... si c'était un rêve.)",
+            "\\.\\C[4](Comment lui montrer une chose pareille pour ensuite\n la ramener dans la réalité de la Démocratie Mortelle ?)",
+            "\\.\\C[4](Si ça continue, je me demande si elle...)",
+            "\\.\\C[4](Peut-être que... Nao finira par...)",
+            "\\.\\C[3]Quand bien même...\n Je ne peux pas lui faire ça.\n Je n'en suis pas capable.",
+            "\\.\\C[3]Je ne veux pas porter la responsabilité\nde ramener Nao à la réalité.",
+            "\\.\\C[4](... Pardonne-moi...)"
         ],
         "1-5-message": [
             "\\.\"Sara !\"",
@@ -19633,6 +19649,114 @@
         ],
         "9-8-message": [
             "\\C[3]Le moniteur est cassé."
+        ],
+        "12-1-message": [
+            "\\C[3]L'un des nombreux moniteurs."
+        ],
+        "12-2-message": [
+            "\\C[3]L'un des nombreux moniteurs.",
+            "\\.\\C[3]Une photo de moi est collée au dos."
+        ],
+        "43-4-message": [
+            "\\.\"Hé, Sara.\n T'as trouvé un chargeur pour l'ordinateur ?\"",
+            "\\.\"Non...\"",
+            "\\.\"Je m'en doutais...\n Plus un truc est normal, plus c'est dur de mettre\n la main dessus, ici.\""
+        ],
+        "37-2-message": [
+            "\\C[3]L'un des nombreux moniteurs.",
+            "\\.\\C[3]Une photo de Keiji est collée au dos."
+        ],
+        "43-1-message": [
+            "\\.\"..........\"",
+            "\\.\\C[4](Il est perdu dans ses pensées...\n Je ne devrais pas le déranger.)"
+        ],
+        "43-2-message": [
+            "\\C[3]Keiji discute avec Alice.",
+            "\\.\"... Q-Qu'est-ce qu'il y a, Sara ?!\n Reste pas plantée là, vas-t'en !!\"",
+            "\\.\"Qu'est-ce que vous manigancez ?\"",
+            "\\.\"C-C'est... Dis pas de conneries !!\"",
+            "\\.\\C[4](Ça, c'est louche...)",
+            "\\.\"... De quoi...?\"",
+            "\\.\"Compris ?\n Acheter son information personnelle, c'est\n la seule solution...\"",
+            "\\.\"... De quoi discutez-vous ?\"",
+            "\\.\"Ahh... Urgh... Sara Chidouin...!!\"",
+            "\\.\"Je lui pose juste quelques questions.\n Tu trouves pas que c'est un peu comme si je bossais ?\"",
+            "\\.\"... Non, pas vraiment.\"",
+            "\\.\"Ohh, triste.\"",
+            "\\.\\C[4](De quoi parlaient-ils ? J'ai cru les entendre\n marmonner à propos d'autre chose que de l'incident...)"
+        ],
+        "43-3-message": [
+            "\\.\"... Je suis sûr qu'Alice pourrait...\"",
+            "\\.\\C[4](Il marmonne quelque chose...)",
+            "\\.\"... Oh, Sara. Quoi de neuf ?\"",
+            "\\.\"Rien...\"",
+            "\\.\\C[4](J'ai l'impression qu'il manigance quelque chose...)"
+        ],
+        "59-2-message": [
+            "\\C[3]L'un des nombreux moniteurs.",
+            "\\.\\C[3]Une photo de Reko est collée au dos."
+        ],
+        "59-1-message": [
+            "\\C[3]L'un des nombreux moniteurs."
+        ],
+        "60-1-message": [
+            "\\C[3]L'un des nombreux moniteurs."
+        ],
+        "60-2-message": [
+            "\\C[3]L'un des nombreux moniteurs.",
+            "\\.\\C[3]Une photo de Q-taro est collée au dos."
+        ],
+        "61-1-message": [
+            "\\C[3]L'un des nombreux moniteurs."
+        ],
+        "61-2-message": [
+            "\\C[3]L'un des nombreux moniteurs.",
+            "\\.\\C[3]Une photo de Kanna est collée au dos."
+        ],
+        "62-2-message": [
+            "\\C[3]L'un des nombreux moniteurs.",
+            "\\.\\C[3]Une photo de Gin est collée au dos."
+        ],
+        "43-6-message": [
+            "\\.\"... Hé.\"",
+            "\\.\"... Salut...\""
+        ],
+        "43-7-message": [
+            "\\.\"... Ça a servi à rien.\"",
+            "\\.\"Tss...! Ça veut dire que la personne qui a\n détruit le moniteur, c'est...!\"",
+            "\\.\"... J'en suis quasi certain.\n C'est pour ça que j'ai accepté de faire l'échange.\"",
+            "\\.\\C[4](Ces deux-là ont une conversation\n sacrément louche...)"
+        ],
+        "44-1-message": [
+            "\\.\"On dirait qu'y a plein de zones non explorées, ici...\""
+        ],
+        "57-2-message": [
+            "\\C[3]L'un des nombreux moniteurs.",
+            "\\.\\C[3]Une photo d'Alice est collée au dos."
+        ],
+        "71-1-message": [
+            "\\C[3]Nao a les yeux rivés sur l'écran."
+        ],
+        "71-2-message": [
+            "\\C[3]Nao a les yeux rivés sur l'écran."
+        ],
+        "71-4-message": [
+            "\\C[3]Nao parle, les yeux rivés sur l'écran."
+        ],
+        "37-1-message": [
+            "\\C[3]L'un des nombreux moniteurs."
+        ],
+        "62-1-message": [
+            "\\C[3]L'un des nombreux moniteurs."
+        ],
+        "71-3-choice": [
+            "Si c'était moi...\nPeut-être que Nao perdra la raison..."
+        ],
+        "57-1-message": [
+            "\\C[3]L'un des nombreux moniteurs."
+        ],
+        "94-1-message": [
+            "\\C[3]Devant les écrans se trouve une machine, qui, malgré\nles apparences, ne propose que des fonctionnalités\ntrès basiques."
         ]
     },
     "map54": {
@@ -20763,6 +20887,43 @@
         ],
         "12-1-message": [
             "\\C[3]Le moniteur est cassé."
+        ],
+        "10-2-message": [
+            null,
+            "\\.\\C[3]Une photo de Kanna est collée au dos."
+        ],
+        "15-2-message": [
+            null,
+            "\\.\\C[3]Une photo de Reko est collée au dos."
+        ],
+        "18-2-message": [
+            null,
+            "\\.\\C[3]Une photo de Keiji est collée au dos."
+        ],
+        "14-2-message": [
+            null,
+            "\\.\\C[3]Une photo d'Alice est collée au dos."
+        ],
+        "20-2-message": [
+            null,
+            "\\.\\C[3]Une photo de Q-taro est collée au dos."
+        ],
+        "1-1-message": [
+            "\\C[3]Devant les écrans se trouve une machine, qui, malgré\nles apparences, ne propose que des fonctionnalités\ntrès basiques."
+        ],
+        "1-3-message": [
+            "\\C[3]Devant les écrans se trouve une machine, qui, malgré\nles apparences, ne propose que des fonctionnalités\ntrès basiques."
+        ],
+        "17-2-message": [
+            null,
+            "\\.\\C[3]Une photo de moi est collée au dos."
+        ],
+        "16-2-message": [
+            null,
+            "\\.\\C[3]Une photo de Gin est collée au dos."
+        ],
+        "1-2-message": [
+            "\\C[3]Devant les écrans se trouve une machine, qui, malgré\nles apparences, ne propose que des fonctionnalités\ntrès basiques."
         ]
     },
     "map132": {
@@ -25768,6 +25929,34 @@
         ],
         "9-1-message": [
             "\\C[3]Le moniteur est cassé."
+        ],
+        "4-1-message": [
+            "\\C[3]L'un des nombreux moniteurs.",
+            "\\.\\C[3]Une photo de Gin est collée au dos."
+        ],
+        "5-1-message": [
+            "\\C[3]L'un des nombreux moniteurs.",
+            "\\.\\C[3]Une photo d'Alice est collée au dos."
+        ],
+        "6-1-message": [
+            "\\C[3]L'un des nombreux moniteurs.",
+            "\\.\\C[3]Une photo de Reko est collée au dos."
+        ],
+        "31-1-message": [
+            "\\C[3]L'un des nombreux moniteurs.",
+            "\\.\\C[3]Une photo de Kanna est collée au dos."
+        ],
+        "37-1-message": [
+            "\\C[3]L'un des nombreux moniteurs.",
+            "\\.\\C[3]Une photo de Keiji est collée au dos."
+        ],
+        "8-1-message": [
+            "\\C[3]L'un des nombreux moniteurs.",
+            "\\.\\C[3]Une photo de Q-taro est collée au dos."
+        ],
+        "48-1-message": [
+            null,
+            "\\.\\C[3]Une photo de moi est collée au dos."
         ]
     },
     "map152": {
@@ -26255,6 +26444,34 @@
         ],
         "1-1-message": [
             "\\C[3]Le moniteur est cassé."
+        ],
+        "6-1-message": [
+            null,
+            "\\.\\C[3]Une photo de Reko est collée au dos."
+        ],
+        "7-1-message": [
+            null,
+            "\\.\\C[3]Une photo de Gin est collée au dos."
+        ],
+        "10-1-message": [
+            null,
+            "\\.\\C[3]Une photo de Keiji est collée au dos."
+        ],
+        "11-1-message": [
+            null,
+            "\\.\\C[3]Une photo de Kanna est collée au dos."
+        ],
+        "9-1-message": [
+            null,
+            "\\.\\C[3]Une photo de Q-taro est collée au dos."
+        ],
+        "8-1-message": [
+            null,
+            "\\.\\C[3]Une photo de moi est collée au dos."
+        ],
+        "5-1-message": [
+            null,
+            "\\.\\C[3]Une photo d'Alice est collée au dos."
         ]
     }
 }
