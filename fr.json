@@ -14416,7 +14416,7 @@
             "\\.\"Gin ! Tiens... bon...!\"",
             "\"Désolé... Monsieur le Policier... a rien pu faire...\"",
             "\\.\"..........\"",
-            "\"Pardon... Sara...\n Essaie... D'au moins sauver ta peau...\"",
+            "\"Pardon... Sara...\n Essaie... Au moins d'sauver ta peau...\"",
             "\\.\"..........\"",
             "\"G-Gin... Ohé...\"",
             "\\.\"..........\"",
@@ -16128,7 +16128,7 @@
         ],
         "342-0-message": [
             "\"Vas-y !! Grande sœur Sara !!\"",
-            null,
+            "\"Vas-y !! Grande sœur Sara !!\"",
             null,
             null,
             null,
