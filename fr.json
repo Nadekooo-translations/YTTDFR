@@ -16124,7 +16124,20 @@
         "319-0-message": [
             null,
             null,
-            "\"Je la vois...! La carte adverse...!\""
+            "\"Je la vois...! La carte de l'ennemi...!\""
+        ],
+        "342-0-message": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\"Aah...!! Est-ce vraiment la fin...?!\""
         ]
     },
     "map107": {
