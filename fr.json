@@ -16127,7 +16127,7 @@
             "\"Je la vois...! La carte de l'ennemi...!\""
         ],
         "342-0-message": [
-            null,
+            "\"Vas-y !! Grande sœur Sara !!\"",
             null,
             null,
             null,
@@ -27021,6 +27021,10 @@
         ],
         "6-1-choice": [
             "Revoir l'explication\nEssayer"
+        ],
+        "1-2-message": [
+            "\"Vas-y !! Grande sœur Sara !!\"",
+            "\"Vas-y !! Grande sœur Sara !!\""
         ]
     },
     "map99": {
