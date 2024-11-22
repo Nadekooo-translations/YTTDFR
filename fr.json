@@ -15799,20 +15799,35 @@
             "Ne pas négocier\nAnnuler"
         ],
         "568-0-choice": [
-            null,
-            "Keiji\nKanna\nAlice\nAnnuler"
+            "Sélectionner ce partenaire\nAnnuler",
+            "Keiji\nKanna\nAlice\nAnnuler",
+            "S'associer à Keiji\nChanger sa sélection",
+            "S'associer à Kanna\nChanger sa sélection",
+            "S'associer à Kanna\nChanger sa sélection"
         ],
         "357-0-choice": [
-            null,
-            "Kanna\nReko\nGin\nAnnuler"
+            "Sélectionner ce partenaire\nAnnuler",
+            "Kanna\nReko\nGin\nAnnuler",
+            "S'associer à Kanna\nChanger sa sélection",
+            "S'associer à Kanna\nChanger sa sélection",
+            "S'associer à Kanna\nChanger sa sélection",
+            "S'associer à Reko\nChanger sa sélection",
+            "S'associer à Gin\nChanger sa sélection"
         ],
         "355-0-choice": [
-            null,
-            "Keiji\nQ-taro\nGin\nAnnuler"
+            "Sélectionner ce partenaire\nAnnuler",
+            "Keiji\nQ-taro\nGin\nAnnuler",
+            "S'associer à Keiji\nChanger sa sélection",
+            "S'associer à Q-taro\nChanger sa sélection",
+            "S'associer à Gin\nChanger sa sélection"
         ],
         "565-0-choice": [
+            "Sélectionner ce partenaire\nAnnuler",
+            "Kanna\nNao\nGin\nAnnuler",
+            "S'associer à Kanna\nChanger sa sélection",
+            "S'associer à Kanna\nChanger sa sélection",
             null,
-            "Kanna\nNao\nGin\nAnnuler"
+            "S'associer à Gin\nChanger sa sélection"
         ],
         "333-0-message": [
             "\\>Égo-Jetons de Sara : \\V[131]\\<\n\\>Médaillons du Triomphe : \\V[130]\\<",
@@ -15823,16 +15838,40 @@
             "\\C[3]J'ai déjà fait cette attraction.",
             "\\C[3][007]\nNombre de participants : 2\nRécompense de Médaillons du Triomphe : ★★\nDifficulté : Moyenne",
             "\\.\\C[3]Un jeu de carte où vous combattez vos adversaires\nen sélectionnant trois cartes à la fois.\nBattez les trois poupées pour gagner.",
-            "\\.Keiji Shinogi\nQuand vous jouez Keiji, vos instincts de détective\nrévèlent parfois 2 des cartes de l'adversaire.\nDifficulté : Facile"
+            "\\.Keiji Shinogi\nQuand vous jouez Keiji, vos instincts de détective\nrévèlent parfois 2 des cartes de l'adversaire.\nDifficulté : Facile",
+            "\\.\"Bahaha... Être le coéquipier de Sara...\n Ça m'a pas l'air trop mal.\"",
+            "\\.Q-taro Burgerberg\nQuand vous jouez Q-taro, son physique augmente\nparfois grandement votre attaque.\nDifficulté : Difficile",
+            "\\.\"J'ai une idée, Sara ! Si tu m'choisis, j'veux bien\n qu'on s'échange 10 Égo-Jetons pour la peine !\"",
+            "\\.\"T'peux compter sur moi !\n J'vais t'prouver que j'suis pas juste musclé !!\"",
+            "\\.Gin Ibushi\nQuand vous jouez Sara, ses encouragements vous soigne.\nIl peut aussi vous soigner si vous le sollicitez.\nDifficulté : Moyenne",
+            "\\.\"Ç-Ça fait peur, mais je vais essayer, ouaf !\n Je vais te protéger, grande sœur Sara, miaouuu !\""
         ],
         "357-0-message": [
             "\\C[3]Ce n'est pas le moment de faire des attractions.",
             "\\C[3]J'ai déjà fait cette attraction.",
-            "\\C[3][Réminidanse]\nNombre de participants : 2\nRécompense de Médaillons du Triomphe : \\C[2]★★★★\\C[3]\nDifficulté : \\C[2]Très Difficile\\C[3]"
+            "\\C[3][Réminidanse]\nNombre de participants : 2\nRécompense de Médaillons du Triomphe : \\C[2]★★★★\\C[3]\nDifficulté : \\C[2]Très Difficile\\C[3]",
+            "\\.\\C[3]Un jeu mettant à l'épreuve votre mémoire qui requiert\nde répéter la dance et les mouvements de l'ennemi.\nBattez les trois poupées pour gagner.",
+            "\\.Kanna Kizuchi\nQuand vous jouez Kanna, vous vous rappelez\npartiellement des mouvements de l'adversaire.\nDifficulté : Difficile",
+            "\\.\"..........\"",
+            "\\.Kanna Kizuchi\nQuand vous jouez Kanna, vous vous rappelez\npartiellement des mouvements de l'adversaire.\nDifficulté : Difficile",
+            "\\.\"D-D'accord...!\n Je ferai de mon mieux pour être utile...!\"",
+            "\\.Kanna Kizuchi\nQuand vous jouez Kanna, vous vous rappelez\npartiellement des mouvements de l'adversaire.\nDifficulté : Difficile",
+            "\\.\"D-D'accord...!\n Je ferai de mon mieux pour être utile...!\"",
+            "\\.\"... Je ferai de mon mieux.\"",
+            "\\.Reko Yabusame\nQuand vous jouez Reko, elle retient la dernière moitié\ndes mouvements. La solliciter vous les révèle tous.\nDifficulté : Moyenne",
+            "\\.\"Oh, yes ! Ça, c'est mon domaine !\n T'es dans de bonnes mains, Sara !\"",
+            "\\.Gin Ibushi\nQuand vous jouez Sara, ses encouragements vous soigne.\nIl peut aussi vous soigner si vous le sollicitez.\nDifficulté : Difficile",
+            "\\.\"Ç-Ça fait peur, mais je vais essayer, ouaf !\n Je vais te protéger, tu peux me croire sur ça,\n grande sœur Sara, miaou !\""
         ],
         "382-0-message": [
             "\\C[3]Ce n'est pas le moment de faire des attractions.",
-            "\\C[3]J'ai déjà fait cette attraction."
+            "\\C[3]J'ai déjà fait cette attraction.",
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.\"J'ai une idée, Sara ! Si tu m'choisis, j'veux bien\n qu'on s'échange 10 Égo-Jetons pour la peine !\""
         ],
         "507-0-message": [
             "\\C[3]Confirmer l'échange ?",
@@ -15840,15 +15879,33 @@
         ],
         "565-0-message": [
             "\\C[3]Ce n'est pas le moment de faire des attractions.",
-            "\\C[3]J'ai déjà fait cette attraction."
+            "\\C[3]J'ai déjà fait cette attraction.",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.Gin Ibushi\nQuand vous jouez Sara, ses encouragements vous soigne.\nIl peut aussi vous soigner si vous le sollicitez.\nDifficulté : Moyenne"
         ],
         "566-0-message": [
             "\\C[3]Ce n'est pas le moment de faire des attractions.",
-            "\\C[3]J'ai déjà fait cette attraction."
+            "\\C[3]J'ai déjà fait cette attraction.",
+            null,
+            null,
+            null,
+            "\\.\"... Je ferai de mon mieux.\""
         ],
         "567-0-message": [
             "\\C[3]Ce n'est pas le moment de faire des attractions.",
-            "\\C[3]J'ai déjà fait cette attraction."
+            "\\C[3]J'ai déjà fait cette attraction.",
+            null,
+            null,
+            "\\.Q-taro Burgerberg\nQuand vous jouez Q-taro, son physique augmente\nparfois grandement votre attaque.\nDifficulté : Difficile",
+            "\\.\"J'ai une idée, Sara ! Si tu m'choisis, j'veux bien\n qu'on s'échange 10 Égo-Jetons pour la peine !\"",
+            "\\.\"T'peux compter sur moi !\n J'vais t'prouver que j'suis pas juste musclé !!\""
         ],
         "569-0-message": [
             "\\C[3]Ce n'est pas le moment de faire des attractions.",
@@ -15860,6 +15917,198 @@
         ],
         "506-0-message": [
             "\\C[3]Annuler l'échange ?"
+        ],
+        "330-0-message": [
+            "\\.\"On s'en est sortis... Je suis exténué.\"",
+            "\\.\"Voilà les Médaillons.\n On en prend un chacun.\"",
+            "\\.\\C[3]Vous avez obtenu 1 Médaillon du Triomphe.",
+            "\\.\"Bon travail ! T'es vraiment incroyable !\"",
+            "\\.\"Voilà nos fameux Médaillons d'Triomphe...\n On en prend un chacun !\"",
+            "\\.\\C[3]Vous avez obtenu 1 Médaillon du Triomphe.",
+            "\\.\"Et aussi, comme promis, on échange nos jetons !\n C'un échange d'confiance, après tout.\"",
+            "\\.\\C[3]Vous avez échangé 10 Égo-Jetons avec Q-taro.",
+            "\\.\"Youhou, miaou ! Grande sœur Sara !\n On est les meilleurs, ouaf !\"",
+            "\\.\"On se partage les étoiles, miaou !\n Une pour ma grande sœur Sara, ouaf !\n Et une pour moi, miaou !\"",
+            "\\.\\C[3]Vous avez obtenu 1 Médaillon du Triomphe.",
+            "\\.\"Bon... Sou n'était pas là, on dirait.\"",
+            "\\.\"Ouaip... On dirait qu'on peut vraiment pas faire\n d'attractions seul au final.\"",
+            "\\.\"Bon... Est-ce que vous avez vu Sou, vous ?\"",
+            "\\.\"Merde... On était pas sur l'bonne piste, alors...?\"",
+            "\\.\"Bon... Sou n'était pas là.\"",
+            "\\.\"Ouaf... Il est créatif le ténébreux, miaou...\"",
+            "\\.\"Ah ! Vous êtes sains et sauf, hein ?!\n Désolée, mais faut que vous veniez avec moi !!\"",
+            "\\.\"Hein...?\"",
+            "\\.\"J'ai retrouvé l'enfoiré au bonnet !\n Il est dans sa chambre !\"",
+            "\\.\\C[4](Qu'est-ce que...?!)",
+            "\\.\"Bon... Sou n'était pas là, on dirait.\"",
+            "\\.\"Je comprends mieux comment fonctionnent les\n attractions maintenant... Je pense qu'on devrait\n se regrouper et partir à la recherche de Sou.\"",
+            "\\.\"Pas de soucis.\n C'est comme tu le sens, Sara.\"",
+            "\\.\"Bon... Sou n'était pas là, on dirait.\"",
+            "\\.\"Je comprends mieux comment fonctionnent les\n attractions maintenant... Je pense qu'on devrait\n se regrouper et partir à la recherche de Sou.\"",
+            "\\.\"Faudrait pas qu'il complote quelqu'chose pendant\n qu'on a le dos tourné, ouais...\"",
+            "\\.\"Bon... Sou n'était pas là.\"",
+            "\\.\"Je comprends mieux comment fonctionnent les\n attractions maintenant... Je pense qu'on devrait\n se regrouper et partir à la recherche de Sou.\"",
+            "\\.\"Chercher le ténébreux, ouaf...?\n Trop nul, miaou...\""
+        ],
+        "356-0-message": [
+            "\\.\"Nous, on s'occupe de cette attraction !\n Vous... occupez-vous d'inspecter les autres !\"",
+            "\\.\"Hé, si vous tombez sur Sou... faites vraiment gaffe.\""
+        ],
+        "358-0-message": [
+            "\\.\"Bordel... Il y était pas !!\n Ce putain d'enfoiré au bonnet...!!\"",
+            "\\.\"C'est vraiment un type à problème.\n Il mériterait de se faire arrêter.\"",
+            "\\.\"On fait quoi, on s'occupe pas d'lui pour l'instant ?\n On a un temps limité pour ce mini-jeu, nan ?\"",
+            "\\.\"Le ténébreux m'inquiète plus, miaou !\n Il peut pas faire d'attraction s'il est tout\n seul, ouaf !\"",
+            "\\.\"Hmm...\"",
+            "\\.\"Je vous jure que je vais finir par le\n déglinguer ce connard...!!\"",
+            "\\.\"Je suis sûr qu'il est juste sous son lit ou\n un truc du genre, ouaf !!\"",
+            "\\.\"La planque parfaite pour un traître à la con\n comme lui ! Allons jeter un coup d'œil !\"",
+            "\\.\\C[4](Qu'est-ce que...?!)"
+        ],
+        "359-0-message": [
+            "\"E-Euh ! J'espère... avoir été utile !\"",
+            "\\.\"Allez... partageons-nous les Médaillons, d'accord ?\"",
+            "\"E-Euh ! J'espère... avoir été utile !\"",
+            "\\.\"Allez... partageons-nous les Médaillons, d'accord ?\"",
+            "\"..........\"",
+            "\\.\"..........\n Allez, partageons-nous les Médaillons du Triomphe.\"",
+            "\\.\\C[3]Vous avez obtenu 2 Médaillons du Triomphe.",
+            "\"C-C'était du gâteau, hein, Sara ?!\"",
+            "\\.\"Tiens, les Médaillons du Triomphe ! Moitié moitié !\"",
+            "\\.\\C[3]Vous avez obtenu 2 Médaillons du Triomphe.",
+            "\\.\"Youhou, miaou ! Grande sœur Sara !\n On est les meilleurs, ouaf !\"",
+            "\\.\"On se partage les étoiles, miaou !\n Deux pour ma grande sœur Sara, ouaf !\n Et deux pour moi, miaou !\"",
+            "\\.\\C[3]Vous avez obtenu 2 Médaillons du Triomphe.",
+            "\\.\"Bon... Sou n'était pas là.\"",
+            "\\.\"C'est vrai... Hmm...\"",
+            "\\.\"Bon... Sou n'était pas là, on dirait.\"",
+            "\\.\"Merde ! C'est vrai !\n Il est où, l'autre type au bonnet ?!\"",
+            "\\.\"Bon... Sou n'était pas là.\"",
+            "\\.\"Ouaf... Il est créatif le ténébreux, miaou...\"",
+            null,
+            null,
+            null,
+            "\\.\"Ah ! Vous êtes sains et sauf, hein ?!\n Désolée, mais faut que vous veniez avec moi !!\"",
+            null,
+            "\\.\"J'ai retrouvé l'enfoiré au bonnet !\n Il est dans sa chambre !\"",
+            "\\.\\C[4](Qu'est-ce que...?!)",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.\"Bon... Sou n'était pas là, on dirait.\"",
+            "\\.\"Je comprends mieux comment fonctionnent les\n attractions maintenant... Je pense qu'on devrait\n se regrouper et partir à la recherche de Sou.\"",
+            null,
+            "\\.\"Bon... Sou n'était pas là.\"",
+            "\\.\"Je comprends mieux comment fonctionnent les\n attractions maintenant... Je pense qu'on devrait\n se regrouper et partir à la recherche de Sou.\"",
+            "\\.\"Chercher le ténébreux, ouaf...?\n Trop nul, miaou...\""
+        ],
+        "382-0-choice": [
+            "Sélectionner ce partenaire\nAnnuler",
+            null,
+            "S'associer à Keiji\nChanger sa sélection",
+            "S'associer à Q-taro\nChanger sa sélection"
+        ],
+        "395-0-message": [
+            "\\.\"On s'en est sortis... Je suis exténué.\"",
+            "\\.\"Voilà les Médaillons.\n On en prend un chacun.\"",
+            "\\.\\C[3]Vous avez obtenu 1 Médaillon du Triomphe.",
+            "\"E-Euh ! J'espère... avoir été utile !\"",
+            "\\.\"Allez... partageons-nous les Médaillons, d'accord ?\"",
+            "\"E-Euh ! J'espère... avoir été utile !\"",
+            "\\.\"Allez... partageons-nous les Médaillons, d'accord ?\"",
+            "\"E-Euh ! J'espère... avoir été utile !\"",
+            "\\.\"Allez... partageons-nous les Médaillons, d'accord ?\"",
+            "\"..........\"",
+            "\\.\"..........\n Allez, partageons-nous les Médaillons du Triomphe.\"",
+            "\\.\\C[3]Vous avez obtenu 2 Médaillons du Triomphe.",
+            "\\.\\C[3]Vous avez obtenu 1 Médaillon du Triomphe.",
+            "\\.\"Bon travail ! T'es vraiment incroyable !\"",
+            "\\.\"Voilà nos fameux Médaillons d'Triomphe...\n On en prend un chacun !\"",
+            "\\.\\C[3]Vous avez obtenu 1 Médaillon du Triomphe.",
+            "\\.\"Et aussi, comme promis, on échange nos jetons !\n C'un échange d'confiance, après tout.\"",
+            "\\.\\C[3]Vous avez échangé 10 Égo-Jetons avec Q-taro.",
+            "\\.\"Ahahah, ce n'est pas passé loin.\n Sans toi, je n'aurais pas survécu, Sara.\"",
+            "\\.\"Voilà les Médaillons du Triomphe.\n Comme promis, j'en prends deux.\"",
+            "\\.\"Voilà les Médaillons du Triomphe.\n Ne nous disputons pas, partageons-nous les.\"",
+            "\\.\\C[3]Vous avez obtenu 1 Médaillon du Triomphe.",
+            "\"Allez ! C'était du gâteau, Sara !\"",
+            null,
+            null,
+            "\\.\"Tiens, les Médaillons du Triomphe ! Moitié moitié !\"",
+            "\\.\\C[3]Vous avez obtenu 2 Médaillons du Triomphe.",
+            "\\.\\C[3]Vous avez obtenu 1 Médaillon du Triomphe.",
+            null,
+            null,
+            "\\.\\C[3]Vous avez obtenu 1 Médaillon du Triomphe.",
+            "\\.\"Youhou, miaou ! Grande sœur Sara !\n On est les meilleurs, ouaf !\"",
+            "\\.\"On se partage les étoiles, miaou !\n Deux pour ma grande sœur Sara, et deux pour moi, ouaf !\n Elles scintillent, miaou ! \"",
+            "\\.\\C[3]Vous avez obtenu 2 Médaillons du Triomphe.",
+            "\\.\"On se partage les étoiles, miaou !\n Une pour ma grande sœur Sara, ouaf !\n Et une pour moi, miaou !\"",
+            "\\.\\C[3]Vous avez obtenu 1 Médaillon du Triomphe.",
+            "\\.\"Hmph... Mais ce n'est rien...\"",
+            null,
+            "\\.\"Ne t'inquiète pas, Sara Chidouin.\n Nous nous partageons les Médaillons équitablement.\"",
+            "\\.\\C[3]Vous avez obtenu 1 Médaillon du Triomphe."
+        ],
+        "405-0-message": [
+            "\\.\"On s'en est sortis... Je suis exténué.\"",
+            "\\.\"Voilà les Médaillons.\n On en prend un chacun.\"",
+            "\\.\\C[3]Vous avez obtenu 1 Médaillon du Triomphe.",
+            "\\.\"Bon travail ! T'es vraiment incroyable !\"",
+            "\\.\"Voilà nos fameux Médaillons d'Triomphe...\n On en prend un chacun !\"",
+            "\\.\\C[3]Vous avez obtenu 1 Médaillon du Triomphe.",
+            "\\.\"Et aussi, comme promis, on échange nos jetons !\n C'un échange d'confiance, après tout.\"",
+            "\\.\\C[3]Vous avez échangé 10 Égo-Jetons avec Q-taro.",
+            "\\.\"Hmph... Mais ce n'est rien...\"",
+            "\\.\"Ne t'inquiète pas, Sara Chidouin.\n Nous nous partageons les Médaillons équitablement.\"",
+            "\\.\\C[3]Vous avez obtenu 1 Médaillon du Triomphe.",
+            "\\.\"Bon... Sou n'était pas là, on dirait.\"",
+            "\\.\"Ouaip... On dirait qu'on peut vraiment pas faire\n d'attractions seul au final.\"",
+            "\\.\"Bon... Est-ce que vous avez vu Sou, vous ?\"",
+            "\\.\"Merde... On était pas sur l'bonne piste, alors...?\"",
+            "\\.\"Bon... Sou n'était pas là, on dirait.\"",
+            null,
+            null,
+            null,
+            null,
+            "\\.\"Ah ! Vous êtes sains et sauf, hein ?!\n Désolée, mais faut que vous veniez avec moi !!\"",
+            null,
+            "\\.\"J'ai retrouvé l'enfoiré au bonnet !\n Il est dans sa chambre !\"",
+            "\\.\\C[4](Qu'est-ce que...?!)",
+            "\\.\"Bon... Sou n'était pas là, on dirait.\"",
+            "\\.\"Je comprends mieux comment fonctionnent les\n attractions maintenant... Je pense qu'on devrait\n se regrouper et partir à la recherche de Sou.\"",
+            "\\.\"Pas de soucis.\n C'est comme tu le sens, Sara.\"",
+            "\\.\"Bon... Sou n'était pas là, on dirait.\"",
+            "\\.\"Je comprends mieux comment fonctionnent les\n attractions maintenant... Je pense qu'on devrait\n se regrouper et partir à la recherche de Sou.\"",
+            "\\.\"Faudrait pas qu'il complote quelqu'chose pendant\n qu'on a le dos tourné, ouais...\"",
+            "\\.\"Bon... Sou n'était pas là, on dirait.\"",
+            "\\.\"Je comprends mieux comment fonctionnent les\n attractions maintenant... Je pense qu'on devrait\n se regrouper et partir à la recherche de Sou.\""
+        ],
+        "566-0-choice": [
+            "Sélectionner ce partenaire\nAnnuler",
+            null,
+            null,
+            "S'associer à Reko\nChanger sa sélection"
+        ],
+        "567-0-choice": [
+            "Sélectionner ce partenaire\nAnnuler",
+            null,
+            "S'associer à Q-taro\nChanger sa sélection",
+            null,
+            "S'associer à Gin\nChanger sa sélection"
+        ],
+        "569-0-choice": [
+            "Sélectionner ce partenaire\nAnnuler",
+            null,
+            "S'associer à Keiji\nChanger sa sélection",
+            "S'associer à Reko\nChanger sa sélection"
+        ],
+        "570-0-choice": [
+            "Sélectionner ce partenaire\nAnnuler"
         ]
     },
     "map107": {
@@ -26110,8 +26359,14 @@
             "\"Je vais me rappeler de tous les mouvements...!\"\n\n\\C[3](Tous les mouvements révélés, uniquement une fois.)",
             "\"Je m'en souviens maintenant...!\"",
             "\"Un œil poilu qui dance ?\n Ça, c'est hardcore !\"",
-            "\"C'est super simple, j'espère que tu t'en rappelles.\"",
-            "\"Son look et ses mouvements sont dégoûtants...\n Je le veux presque dans mon groupe.\""
+            "\"C'est super simple, j'espère que tu te rappelles.\"",
+            "\"Son look et ses mouvements sont dégoûtants...\n Je le veux presque dans mon groupe.\"",
+            "\"Je suis sûre que ses mouvements rapides suivent\n un paterne !\"",
+            "\"Argh...!! Ça, c'est une sacré choré !!\"",
+            "\"J'ai trop de fierté pour perdre contre cette nana !\""
+        ],
+        "2-2-choice": [
+            "Faire appel à sa mémoire infaillible\nAnnuler"
         ]
     },
     "map115": {
@@ -26181,7 +26436,7 @@
             null,
             null,
             null,
-            null,
+            "\\.\\C[3]Vous avez obtenu 1 Médaillon du Triomphe.",
             null,
             null,
             "\\.\"Sara...\""
