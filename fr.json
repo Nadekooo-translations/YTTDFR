@@ -14404,7 +14404,7 @@
             "\\.\"..........\""
         ],
         "324-0-message": [
-            "\"Aah...!! Serait-ce ma fin...?!\"",
+            "\"Aah...!! Est-ce vraiment la fin...?!\"",
             "\\.\"Dacodac, Monsieur le Policier se charge du reste.\"",
             "\\.\"J'm'occupe d'la suite !\"",
             "\\.\"Sois pas méchant avec grande sœur Sara, ouaf !!\n Je suis en colère, miaou !!\"",
@@ -16141,6 +16141,44 @@
         ],
         "310-0-message": [
             "\\.\"Sara... C'est dangereux d'aller par là toute seule.\""
+        ],
+        "418-0-message": [
+            "\"Aah...!! Est-ce vraiment la fin...?!\""
+        ],
+        "427-0-message": [
+            "\"Aah...!! Est-ce vraiment la fin...?!\""
+        ],
+        "445-0-message": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\"Aah...!! Est-ce vraiment la fin...?!\""
+        ],
+        "451-0-message": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\"Aah...!! Est-ce vraiment la fin...?!\""
+        ],
+        "464-0-message": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\"Aah...!! Est-ce vraiment la fin...?!\""
         ]
     },
     "map107": {
