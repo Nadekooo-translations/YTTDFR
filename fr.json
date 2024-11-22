@@ -14411,7 +14411,7 @@
             "\"Bahaha... On dirait... que c'est foutu...\"",
             "\\.\"N-Non... Keiji...!\"",
             "\"Y m'ont... bien eu...\"",
-            "\\.\"Q... Q-taro...!\"",
+            "\\.\"Q-Q-taro...!\"",
             "\"Aïe, miaou... J'ai peur, ouaf...\"",
             "\\.\"Gin ! Tiens... bon...!\"",
             "\"Désolé... Monsieur le Policier... a rien pu faire...\"",
@@ -16114,6 +16114,12 @@
         ],
         "570-0-choice": [
             "Sélectionner ce partenaire\nAnnuler"
+        ],
+        "404-0-message": [
+            null,
+            null,
+            null,
+            "\\.\"Q-Q-taro...!\""
         ]
     },
     "map107": {
