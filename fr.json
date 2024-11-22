@@ -16142,7 +16142,8 @@
         "310-0-message": [
             "\\.\"Sara... C'est dangereux d'aller là-bas toute seule.\"",
             "\\.\"Devrais-je t'accompagner, Sara ?\"",
-            "\\.\"... Non, c'est bon.\""
+            "\\.\"... Non, c'est bon.\"",
+            "\\.\\C[4](S'y rendre maintenant serait difficile...)"
         ],
         "418-0-message": [
             "\"Aah...!! Est-ce vraiment la fin...?!\""
@@ -16181,6 +16182,9 @@
             null,
             null,
             "\"Aah...!! Est-ce vraiment la fin...?!\""
+        ],
+        "312-0-message": [
+            "\"...Hein ? Où es-tu...?\""
         ]
     },
     "map107": {
