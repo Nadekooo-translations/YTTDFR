@@ -11526,7 +11526,7 @@
             "\\.\"J'ai suffisamment de raisons de penser que Kai\n est dangereux... Mais je refuse de croire que\n Sara et Joe soient nos ennemis !\"",
             "\\.\"Hein...?\"",
             "\\.\"C'grâce à eux qu'on a réussi à remporter\n la Roulette Russe !!\"",
-            "\\.\"C'est grand sœur Sara qui m'a sauvé de la cage,\n miaou !! T'es p'tet' frêle, mais tu manques\n vraiment de respect, ouaf !\"",
+            "\\.\"C'est grande sœur Sara qui m'a sauvé de la cage,\n miaou !! T'es p'tet' frêle, mais tu manques\n vachement de respect, ouaf !\"",
             "\\.\"U-Une minute... Ce n'est pas...\"",
             "\\.\"Je veux juste m'assurer d'un truc...\n Tu les as pas mal lus, ces mails, hein ?\"",
             "\\.\"..........\"",
@@ -11805,7 +11805,7 @@
             "\\.\\C[4](Alors Kanna... ne se faisait pas vraiment\n manipuler par Sou...)",
             "\\.\"Une fausse règle, hein...\n C'est que c'est impossible de le prouver, ça.\"",
             "\\.\"... Non, attends.\"",
-            "\\.\"Dans la salle secrète où se trouvait l'ordinateur\n de Kai...\"",
+            "\\.\"Dans la salle cachée où se trouvait l'ordinateur\n de Kai...\"",
             "\\.\"Quand Sou était encore inconscient après\n l'attaque de Nao...\"",
             "\\.\"J'ai trouvé une carte sous le bureau.\"",
             "\\.\"Vous l'avez compris...\n C'était la \\C[10]carte du Sacrifice\\C[0] !\"",
@@ -11822,7 +11822,7 @@
             "\\.\\C[4](Non... Ce n'est pas ça.)",
             "\\.\\C[4](Gin a raison. Sou s'est fait assommer \\C[2]avant\\C[4] de\n donner à Kanna la \\C[10]carte du Sacrifice\\C[4].)",
             "\\.\"Et si...?\"",
-            "\\.\"D'abord, Sou s'est fait attaquer dans la salle secrète.\n Il a perdu connaissance.\"",
+            "\\.\"D'abord, Sou s'est fait attaquer dans la salle cachée.\n Il a perdu connaissance.\"",
             "\\.\"Plus tard, il a ramassé la \\C[10]carte du Sacrifice\\C[0] et\n une autre du \\C[4]Roturier\\C[0], puis il est resté se\n reposer au bar.\"",
             "\\.\"Là, il a placé la \\C[10]carte du Sacrifice\\C[0] de manière\n à ce que Kanna la trouve...\"",
             "\\.\"Et quand Kanna est tombée dessus...\"",
@@ -11831,14 +11831,14 @@
             "\\.\\C[4](...!)",
             "\\.\\C[4](Et si...!)",
             "\\.\\C[4](Ce n'est qu'une théorie, mais...\n En partant du principe que la carte que je n'ai pas\n pu examiner était une \\C[10]carte du Sacrifice\\C[4]...)",
-            "\\.\"D'abord, Sou s'est fait attaquer dans la salle secrète.\n Il a perdu connaissance.\"",
+            "\\.\"D'abord, Sou s'est fait attaquer dans la salle cachée.\n Il a perdu connaissance.\"",
             "\\.\"Ensuite, il a trouvé la \\C[10]carte du Sacrifice\\C[0] et une\n \\C[4]carte du Roturier\\C[0] et il est parti se reposer.\"",
             "\\.\"Au bar, il a placé la \\C[10]carte du Sacrifice\\C[0] de manière\n à ce que Kanna la trouve...\"",
             "\\.\"Et quand Kanna l'a ramassée...\"",
             "\\.\"Sou a proposé de le lui échanger contre une\n \\C[4]carte du Roturier\\C[0]...\"",
             "\\.\"Comme s'il lui faisait une faveur...!\"",
             "\\.\"Et si...?\"",
-            "\\.\"D'abord, Sou s'est fait attaquer dans la salle secrète.\n Il a perdu connaissance.\"",
+            "\\.\"D'abord, Sou s'est fait attaquer dans la salle cachée.\n Il a perdu connaissance.\"",
             "\\.\"Plus tard, il a ramassé la \\C[10]carte du Sacrifice\\C[0] et\n une autre du \\C[4]Roturier\\C[0], puis il est resté se\n reposer au bar.\"",
             "\\.\"Là, il a placé la \\C[10]carte du Sacrifice\\C[0] de manière\n à ce que Kanna la trouve...\"",
             "\\.\"Et quand Kanna est tombée dessus...\"",
@@ -27125,7 +27125,7 @@
             "\"J'aime bien les lapins, mais là, c'est\n une autre histoire !\""
         ],
         "5-2-message": [
-            "\"Tout ce que je peux faire... C'est t'encourager...!\""
+            "\"Je ne peux plus... que t'encourager...!\""
         ],
         "8-1-message": [
             "\"On a un alien en face, hein...?\n Ça, c'est une rencontre paranormale.\"",
@@ -27168,11 +27168,11 @@
     "map97": {
         "6-1-message": [
             "\\.\"J'y vais en première...!\"",
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\.\"B-Bonne chance à toi !\"",
+            "\\.\"Tu es tellement courageuse, Sara !\"",
+            "\\.\"T'es trop cool, miaou...!\n Mais fais attention à toi, ouaf...\"",
+            "Tapette à Bête ~ Règles ~",
+            "\\.Un charmeur d'insecte va lâcher des insectes.\nTouchez-les et battez-les tous avant la fin\ndu temps imparti.",
             "\\.Cliquer sur l'icône de votre partenaire vous donnera\ndes conseils et des encouragements, donc...\nBon courage."
         ],
         "8-3-message": [
@@ -27187,7 +27187,7 @@
             "\\.\"Donne tout ce que t'as, miaou !!\""
         ],
         "5-2-message": [
-            "\"Tout ce que je peux faire... C'est t'encourager...!\""
+            "\"Je ne peux plus... que t'encourager...!\""
         ],
         "6-1-choice": [
             "Revoir l'explication\nEssayer"
@@ -27195,6 +27195,16 @@
         "1-2-message": [
             "\"Vas-y !! Grande sœur Sara !!\"",
             "\"Vas-y !! Grande sœur Sara !!\""
+        ],
+        "5-1-message": [
+            "\"Urgh... D'énormes monstres-insectes...?!\"",
+            "\"On dirait des moustiques...\n Ou plutôt des lucioles ?\"",
+            "\"Ce ne sont même plus des insectes...!\""
+        ],
+        "8-1-message": [
+            "\"Ouaaah ! On doit battre des insectes aussi grands ?!\"",
+            "\"Urrrgh, je n'aime pas ça...\n Je n'aime pas les insectes...\"",
+            "\"Des araignées !! Nooooon...!!\""
         ]
     },
     "map99": {
@@ -27210,7 +27220,7 @@
             "\\.Cliquer sur l'icône de votre partenaire vous donnera\ndes conseils et des encouragements, donc...\nBon courage."
         ],
         "5-2-message": [
-            "\"Tout ce que je peux faire... C'est t'encourager...!\""
+            "\"Je ne peux plus... que t'encourager...!\""
         ],
         "22-1-choice": [
             "Revoir l'explication\nEssayer"
@@ -27220,14 +27230,14 @@
         "27-1-message": [
             "\\.\"J'y vais en première...!\"",
             null,
-            null,
+            "\\.\"B-Bonne chance à toi !\"",
             null,
             null,
             null,
             "\\.Cliquer sur l'icône de votre partenaire vous donnera\ndes conseils et des encouragements, donc...\nBon courage."
         ],
         "5-2-message": [
-            "\"Tout ce que je peux faire... C'est t'encourager...!\""
+            "\"Je ne peux plus... que t'encourager...!\""
         ],
         "27-1-choice": [
             "Revoir l'explication\nEssayer"
@@ -27245,7 +27255,7 @@
             "\\.Cliquer sur l'icône de votre partenaire vous donnera\ndes conseils et des encouragements, donc...\nBon courage."
         ],
         "5-2-message": [
-            "\"Tout ce que je peux faire... C'est t'encourager...!\""
+            "\"Je ne peux plus... que t'encourager...!\""
         ],
         "23-1-choice": [
             "Revoir l'explication\nEssayer"
@@ -27262,7 +27272,7 @@
             "\\.Cliquer sur l'icône de votre partenaire vous donnera\ndes conseils et des encouragements, donc...\nBon courage."
         ],
         "5-2-message": [
-            "\"Tout ce que je peux faire... C'est t'encourager...!\""
+            "\"Je ne peux plus... que t'encourager...!\""
         ],
         "19-1-choice": [
             "Revoir l'explication\nEssayer"
@@ -27274,17 +27284,55 @@
         ],
         "19-1-message": [
             "\\.\"J'y vais en première...!\"",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\.\"T'as ton ami le policier à tes côtés.\n Reste tranquille.\"",
+            "\\.\"T'as la motiv' ?!\n Montre-leur ta force !\"",
+            "\\.\"Hmph...\n J'observerai la puissance de tes maigres bras.\n Montre-moi leur pleine force.\"",
+            "Bras de Fer ~ Règles ~",
+            "\\.La jauge se remplit et se vide.\nAppuyez sur le bouton au bon moment.\nLe bras de l'ennemi sera repoussé si vous réussissez.",
+            "\\.Lorsque vous êtes sur le point d'infliger un coup\nde grâce ou de perdre, un bouton avec un poing\napparaît. Gardez votre curseur dessus.",
+            "\\.Lorsque vous êtes sur le point d'infliger un coup\nde grâce ou de perdre, un bouton avec un poing\napparaît. Cliquez répétitivement dessus.",
             "\\.Cliquer sur l'icône de votre partenaire vous donnera\ndes conseils et des encouragements, donc...\nBon courage."
         ],
         "19-1-choice": [
             "Revoir l'explication\nEssayer"
+        ],
+        "8-2-message": [
+            "\"Ouaaaaah ! Perds pas contre l'premier gars !!\"",
+            "\"Il ressemble p'tet' à une brute, mais l'est pas\n fort du tout !\"",
+            "\"À nous deux, on va vite se charger d'toi !\"",
+            "\"Gnnnngh...! On va perdre !! Sérieux ?!\"",
+            "\"Notre ennemi a l'air d'souffrir, aussi !\n Achevons-le !\"",
+            "\"On peut pas s'permettre de perdre !\n Peu importe qui s'ramène, je m'en charge !\"",
+            "\"Ouaaaaah !\n On est si proches, on peut pas perdre maintenant !\"",
+            "\"Trop facile ! Prends ça !\"",
+            "\"Notre dernier ennemi...!\n Il émane une sacrée aura, c'lui-là !\""
+        ],
+        "5-1-message": [
+            "\"Le bras de fer est un duel de tenacité...!\n Pas de force !\"",
+            "\"Hmm...?! Ce n'est pas... du deux contre un ?\"",
+            "\"Comment ça se fait que ce soit du trois contre un...?!\""
+        ],
+        "8-1-message": [
+            "\"Ils sont en supériorité numérique, mais...\n On peut pas perdre contre un ennemi pareil.\n Pas vrai ?\"",
+            "\"On y est presque...!\n Donnons le coup de grâce.\"",
+            "\"C'est que notre premier adversaire...\n On peut pas déjà galérer.\"",
+            "\"Faut s'accrocher jusqu'à la fin...\n C'est toi qui m'a appris ça, Sara.\"",
+            "\"Encore un peu...! Faut en finir !\"",
+            "\"Il a l'air un peu plus fort que l'autre...\n C'est pas bon signe.\"",
+            "\"On peut pas perdre maintenant...!\n Faut tenir le coup...!\"",
+            "\"Il est temps de l'achever...\"",
+            "\"C'est notre dernier ennemi.\n Il est aussi robuste qu'il en a l'air.\n Finissons-en et prenons une pause, OK ?\""
+        ],
+        "8-3-message": [
+            "\"Oh non ! On va perdre ?!\"",
+            "\"Allez, encore un peu ! Va crever, toi !!\"",
+            "\"Mouahaha...\n Je ne pense pas pouvoir gagner en combat.\n Mais gagner en bras de fer ? Du gâteau...\"",
+            "\"Aaaaah...?! Il a quoi, lui ?!\n C'est quoi cette force ?!\"",
+            "\"Hmph...\n Cet ennemi n'a pas été divertissant non plus.\"",
+            "\"As-tu compris, Sara Chidouin ?\n Les bras de fer demandent de la sagesse...\n Je n'en ai pas beaucoup fait, mais j'en suis sûr...\"",
+            "\"Hiiiiiiiii !! Allez-y doucement avec moi !!\"",
+            "\"Hmph... C'est fini. Ô pauvre faible perdant...\n Maudis ton manque de confiance et, euh...\n Pleure, j'imagine...\"",
+            "\"... Hm ? Un troisième adversaire ?\n Mais c'est du trois contre deux !\n C'est d'une lâcheté...!\""
         ]
     },
     "map86": {
@@ -27410,15 +27458,105 @@
     },
     "map92": {
         "5-1-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\"Hein...?\""
+            "\\C[3]C'est exactement la même scène...\nQue celle dont je me rappelle.",
+            "\\.\\C[3]C'est comme quand Sou s'est fait attaquer\ndans la salle cachée...",
+            "\\.\"Urgh...\"",
+            "\\.\"S-Sou !\"",
+            "\\.\"Ouuurgh...\"",
+            "\\.\"E-Euh...\"",
+            "\\.\"Aïe aïe aïe, la vache...\n Je me sens vraiment pas bien...\"",
+            "\\.\"Mais qu'est-ce qu'il t'est arrivé ?\"",
+            "\\.\"Hein...?\"",
+            "\\.\"C-C'est ce que j'aimerais savoir...\"",
+            "\\.\"Où suis-je...?\n Depuis combien de temps suis-je ici...?\"",
+            "\\.\"Alors toi, enfoiré-!\n Comme si on allait s'inquiéter pour toi !\"",
+            "\\.\"Tu manigances quoi ?! Réponds !\"",
+            "\\.\"O-Ouah ?! Attends...!\"",
+            "\\.\"Hé là.\n La violence, c'est pas la bonne solution, Reko.\"",
+            "\\.\"Tss...!!\"",
+            "\\.\"Q-Qu'est-ce qu'il y a...?\n Pourquoi êtes-vous tous si méchants d'un coup...?\"",
+            "\\.\"Sou...\"",
+            "\\.\"J-Je n'en sais rien... On m'a attaqué...?\"",
+            "\\.\"Pardon ?!\n Ben tu foutais quoi par terre, sinon, hein ?!\"",
+            "\\.\"E-Euh... Hum... Il me semble...\n Que je regardais l'ordinateur dans la salle cachée...\"",
+            "\\.\"Et ensuite, je... ...?\"",
+            "\\.\"L-Le moniteur ?\n Tu veux dire l'ordinateur...?\"",
+            "\\.\"Écoute, je ne le casserais pas juste parce que\n je ne connais pas le mot de passe...\"",
+            "\\.\"E-Euh... Hum... Il me semble...\n Que je regardais l'ordinateur dans la salle cachée...\"",
+            "\\.\"Euh... Humm... Et ensuite...\"",
+            "\\.\\C[4](Mais qu'est-ce qu'il raconte...?)",
+            "\\.\"Ferme-la, putain !!\n Tout ça, c'était avant le Jeu Principal !!\"",
+            "\\.\"Le Jeu Principal-! C'est vrai !\n Avant le Jeu Principal, il faut que je...\"",
+            "\\.\"Il faut que je trouve ce qu'il y a sur l'ordinateur...!\n Mais le mot de passe... Huum...\"",
+            "\\.\"T-T'as complètement perdu la tête ou quoi ?!\"",
+            "\\.\"... Ça fait un bon moment que le Jeu Principal\n est fini.\"",
+            "\\.\"C-Comment ça, Keiji ?!\"",
+            "\\.\"Fini...? Le Jeu Principal...?!\"",
+            "\\.\"Qu...\"",
+            "\\.\"Qui... est mort...?\"",
+            "\\C[10]Hein...?",
+            "\\.\\C[10]...",
+            "\\.\\C[10]Sou...",
+            "\\.\\C[10]De quoi... il parle...?",
+            "\\.\"Qui...?! Qui n'est pas là... Nao...?!\"",
+            "\\.\"H-Hé...\n M'dis pas... que t'as perdu la mémoire...\"",
+            "\\.\"Ou alors... Kai...?\"",
+            "\\C[10]Arrête.",
+            "\\.\\C[10]Ça suffit, arrête...",
+            "\\.\"Non, ne me dis pas... Joe...?!\"",
+            "\\.\\C[10]\\{Arrête.\\.\\. Arrête...",
+            "\\.\"Sara, dis-moi que je me trompe !!\n Joe... Joe est mort ?! Pourquoi ?!\"",
+            "\\.\\C[10]\\{Arrête !!\\.\\. Arrête !!!\\.\\. Arrête !!!!\\.\\.\\.\\^",
+            "\\.\\C[10] \\{\\{\\{        ARRÊTE !!!!\\.\\.\\.\\^",
+            "\"... Ça va, Sara ?\"",
+            "\\.\"O-Oui... Je vais bien.\"",
+            "\\.\"Quel énorme tas de merde !\n Il continue de mentir, ce connard !!\"",
+            "\\.\"Y fait vraiment semblant...?\"",
+            "\\.\"Bah bien sûr !! Il est en mauvaise posture donc\n il fait semblant d'avoir tout oublié !!\"",
+            "\\.\"... En plus... Il va pas nous répondre à\n nos questions vu son attitude.\"",
+            "\\.\"Hum... Est-ce que vous pourriez vous reposer\n sur Kanna pour ça ?\"",
+            "\\.\"Kanna...!\"",
+            "\\.\"Je vais essayer de trouver ce que Sou manigance...!\"",
+            "\\.\"Je suis certaine qu'il me fait plus confiance\n que vous...!\"",
+            "\\.\"... Bonne idée.\"",
+            "\\.\"Vous avez pris quoi ?!\n Ce gars... C'est une mauvaise influence pour Kanna !\"",
+            "\\.\"... Moi, je dirais plutôt qu'on a trop\n sous-estimé Kanna.\"",
+            "\\.\"C'est peut-être une fillette plus tenace que\n ce qu'on pense.\"",
+            "\\.\"Monsieur le Policier...!\"",
+            "\\.\"... Juste.\n Le laisse pas te manipuler, Kanna.\"",
+            "\\.\"Les adultes malintentionnés... font bien plus peur\n que ce que tu peux imaginer.\"",
+            "\\.\"... Bien reçu !\"",
+            "\\.\"Je peux pas accepter... Je...\"",
+            "\\.\"Faisons-lui confiance, Reko.\"",
+            "\\.\"..........\"",
+            "\\.\\C[4](Kanna...)",
+            "\\.\"... Et maintenant, on fait quoi, miaou ?\"",
+            "\\.\"On a trois jours devant nous.\n On ferait mieux d'pas en faire trop d'un coup.\n On pourrait s'blesser.\"",
+            "\\.\"... On pourrait être malin et discuter de\n quoi faire de nos jetons, aussi.\"",
+            "\\.\"... De nos jetons... miaou...\"",
+            "~ Négociations ~",
+            "\\.Après avoir terminé une attraction, vous pouvez\nchoisir de négocier avec quelqu'un au hall d'entrée.",
+            "\\.Vous feriez mieux de collecter leurs jetons\net de renforcer vos liens...\n\nVos actes pourraient déterminer leurs sorts."
+        ],
+        "3-1-message": [
+            "\\C[3]Sou est par terre, inconscient.",
+            "\\.\"Hmm...\n Il a des échardes dans les cheveux...\n Et une bosse, aussi.\"",
+            "\\C[3]Sou est par terre, inconscient.",
+            "\\.\"C-C'est pareil, miaou...! Que la dernière fois...!\"",
+            "\\.\"Ouais...\"",
+            "\\.\"Vous inquiétez pas... Il respire.\"",
+            "\\.\"C'qu'il a dans les cheveux...\n C'sont des échardes ?\""
+        ],
+        "4-1-message": [
+            "\\C[3]Une solide planche est posée sur le lit.",
+            "\\.\"Pile la bonne taille pour être utilisée comme arme.\"",
+            "\\C[3]Une solide planche est posée sur le lit.",
+            "\\.\"H-Hé, c'est quoi ce truc...?\"",
+            "\\.\"Hmm, voyez-vous ça...\n Pile la bonne taille pour être portée et\n frapper quelqu'un avec.\"",
+            "\\.\"Tu veux dire... que Sou s'est fait...\""
+        ],
+        "5-1-choice": [
+            "Qui c'est qui t'a attaqué ?\nTu as cassé le moniteur, n'est-ce pas ?\nOù étais-tu passé ?"
         ]
     },
     "map119": {
@@ -27460,6 +27598,9 @@
             "\"Alors les salauds, vous les récoltez ces jetons ?\"",
             "\\.\"Les jetons...\"",
             "\\.\"Ouais...\""
+        ],
+        "24-1-message": [
+            "\\.\"Grande sœur Nao... Elle va bien, miaou...?\""
         ]
     }
 }
