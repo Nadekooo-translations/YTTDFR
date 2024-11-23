@@ -10338,7 +10338,7 @@
             "Mémoriser la déclaration\nAnnuler",
             "Oublier la déclaration mémorisée\nAnnuler",
             "Appliquer la déclaration mémorisée\nAnnuler",
-            "Allez, réponds-moi\nN'ais pas peur de Q-taro"
+            "Allez, réponds-moi\nN'aie pas peur de Q-taro"
         ],
         "208-0-choice": [
             "Utiliser l'objet sélectionné\nAnnuler",
@@ -19294,7 +19294,7 @@
             "\\.\\C[4](Gin... Il en a déjà assez...?)"
         ],
         "22-1-message": [
-            "\\.\"Euuh... N'ais pas peur.\n Je ne te ferai aucun mal.\"",
+            "\\.\"Euuh... N'aie pas peur.\n Je ne te ferai aucun mal.\"",
             "\\.\"B-Bien sûr ! J-Je n'ai pas peur du tout !\n D-Donc de quoi voulais-tu me parler...?\"",
             "\\.\"Euh- oui, alors... Je voulais savoir, hum...\n Avec qui tu as échangé des jetons...\"",
             "\\.\\C[4](Alice...\n Il fait de son mieux pour obtenir des jetons à Reko...!\n\\! Sans aller la voir !)"
@@ -26540,21 +26540,24 @@
         ],
         "2-3-message": [
             "\\.\"Donne tout ce que t'as, miaou !!\"",
-            null,
-            null,
-            null,
+            "\"Bonne chance, grande sœur Sara, ouaaaaaf !\"",
+            "\"Un monstre cyclope, dégoûtant, miaou !\"",
+            "\"Ce truc est dégoûtant, mais...\n Bonne chance à toi, miaou !\"",
             "\\.\"Donne tout ce que t'as, miaou !!\"",
-            null,
-            null,
-            null,
-            "\\.\"Donne tout ce que t'as, miaou !!\""
+            "\"Bonne chance, grande sœur Sara, ouaaaaaf !\"",
+            "\"Beurk ! Il est rouge et gluant...\n Il me dégoûte aussi, miaou !\"",
+            "\"Je vais te protéger, grande sœur Sara, miaou !\"",
+            "\\.\"Donne tout ce que t'as, miaou !!\"",
+            "\"Bonne chance, grande sœur Sara, ouaaaaaf !\"",
+            "\"C'est une fille, miaou !\n Mais t'es plus cool qu'elle, grande sœur Sara, ouaf !\"",
+            "\"Je suis le seul à pouvoir protéger grande sœur\n Sara, miaou !\""
         ],
         "6-1-message": [
             "\\.\"J'y vais en première...!\"",
-            null,
-            null,
-            null,
-            null,
+            "\\.\"Donne tout ce que tu as, Sara...!\"",
+            "\\.\"Donne tout ce que tu as, Sara...!\"",
+            "\\.\"D-D'accord...\"",
+            "\\.\"Allez, amuse-toi bien !\"",
             "\\.\"Miaou !\n Bonne chance, grande sœur Sara !\n Je t'encourage, ouaf !!\"",
             "Réminidanse ~ Règles ~",
             "\\.Observez les pas de danse de votre adversaire et\nrépétez-les dans l'ordre.",
@@ -27450,6 +27453,13 @@
             null,
             null,
             "\\.\"Hein...?\""
+        ]
+    },
+    "map90": {
+        "3-1-message": [
+            "\"Alors les salauds, vous les récoltez ces jetons ?\"",
+            "\\.\"Les jetons...\"",
+            "\\.\"Ouais...\""
         ]
     }
 }
