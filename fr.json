@@ -11156,32 +11156,49 @@
             "Veuillez choisir pour qui voter."
         ],
         "353-0-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\C[3]Avant de sortir, je me retourne une dernière fois\nvers le moniteur.",
+            "\\.\\sw[324]\"Vraiment...?\n Vous n'avez donc fait que passer d'épreuves\n en épreuves...\"\\sw[325]",
+            "\\.\\sw[324]\"Malgré tout... Même dans de telles circonstances,\n vous êtes parvenue à vous entourer d'amis merveilleux,\n Madame Nao.\"\\sw[325]",
+            "\\.\"Des... amis...?\"",
+            "\\.\\sw[324]\"Tout à fait !\n L'âge et la durée de vos relations ne change rien.\"\\sw[325]",
+            "\\.\\sw[324]\"Ce sont de fantastiques personnes qui s'entraident.\n De la manière dont vous parlez d'eux, cela est\n évident.\"\\sw[325]",
+            "\\.\\sw[324]\"Prenez bien soin d'eux, Madame Nao.\"\\sw[325]",
+            "\\.\"... Oui...\"",
             "\\.\"..........\"",
-            null,
-            null,
+            "\\.\"Depuis le début... Ils me sauvent sans arrêt...\"",
+            "\\.\"Donc à partir de maintenant...\n Je veux être leur être utile...\n À Sara, à Reko, et à tous les autres...\"",
             "\\.\"..........\"",
             "\\.\"...\"",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\.\"C'est pourquoi...\"",
+            "\\.\"Je... m'en vais, Monsieur.\"",
+            "\\.\\sw[324]\"Mais bien sûr.\n Vous pouvez revenir me voir quand vous voulez.\n Je reste ici.\"\\sw[325]",
+            "\\.\"..........\"",
+            "\\.\"Non...\"",
+            "\\.\"... Je... ne reviendrai pas.\"",
             "\\.\"...\"",
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\"..........\""
+            "\\.\"..........\"",
+            "\\.\\sw[324]\"Madame Nao...\"\\sw[325]",
+            "\\.\\sw[324]\"Vous êtes vraiment devenue très forte.\"\\sw[325]",
+            "\\.\\sw[324]\"Je suis honoré d'avoir été votre professeur.\"\\sw[325]",
+            "\\.\\sw[324]\"... Adieu, Madame Nao.\"\\sw[325]",
+            "\\.\"..........\"",
+            "\\.\"... Ouhh...\"",
+            "\\.\"Je...\"",
+            "\\.\"... Je ne suis...\\.\\. pas forte...\\.\\. du tout...\"",
+            "\\.\"Je voulais que vous restiez à mes côtés...\n Pour toujours...\"",
+            "\\.\"... Monsieur...\"",
+            "\\.\\C[4](Nao...)",
+            "\\.\\C[3]Nao essaie de passer à autre chose.",
+            "\\.\\C[3]Pour ne plus être dans le déni et faire face\nà la réalité.",
+            "\\.\\C[4](Nao... est vraiment tenace.)",
+            "\\.\\C[4](Elle est bien... meilleure que moi...)",
+            "\\.\\C[4](...)",
+            "\\.\\C[4](... Je devrais y aller.)",
+            "\\.\\C[4](Je ferai tout... pour me rapprocher\n d'une telle force...!)",
+            "\\.\\C[4](Hm...? Qu'est-ce qu'il se passe ?)",
+            "\\.\"Arrête tes plaisanteries, toi !!\"",
+            "\\.\"La seule blague, ici, c'est ton nom !\"",
+            "\\.\\C[4](Q-taro et Ray se disputent...\n Je me demande ce qui a pu leur arriver.)"
         ],
         "376-0-message": [
             null,
@@ -11690,22 +11707,22 @@
             "\\.\"D-Donne-moi ça !!\""
         ],
         "354-0-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\.\"E-Euh... Est-ce que vous pourriez vous concentrer\n sur les attractions...\n Pendant que je cherche Sou...?\"",
+            "\\.\"Kanna...!\"",
+            "\\.\"..........\"",
+            "\\.\\C[3]Kanna me regarde droit dans les yeux.",
+            "\\.\"C'est normal que vous détestiez Kanna... Mais...\n Elle peut au moins garder un œil Sou...\"",
+            "\\.\"... S'il vous plaît... Croyez-la...\"",
+            "\\.\\C[4](...)",
+            "\\.\"Pas moyen, Kanna !!\n T'approche pas de ce type seule !!\"",
+            "\\.\"C'est... ma responsabilité...\"",
+            "\\.\\C[4](Kanna... collaborait avec Sou...)",
+            "\\.\\C[4](Non. Elle s'est peut-être fait manipuler...)",
+            "\\.\\C[4](..........)",
+            "\"... Vas-y...\"",
+            "\\C[10]\"... Fais ce que tu veux...\"",
+            "\\.\"S-Sara !!\"",
+            "\\.\"Ce que tu fais, Kanna...\"",
             null,
             "\\.\"..........\"",
             null,
@@ -15566,15 +15583,17 @@
             "\\C[3]Victoire."
         ],
         "350-0-message": [
-            null,
-            null,
+            "\"Grande sœur Sara !! T'es incroyable, miaou!!\"",
+            "\"C'est le dernier, lui, miaou !!\n Bonne chance, grande sœur Sara !!\"",
             "\\C[3]Victoire."
         ],
         "403-0-message": [
             "\\C[3]Victoire."
         ],
         "419-0-message": [
-            "\\C[3]Victoire."
+            "\\C[3]Victoire.",
+            "\"Grande sœur Sara !! T'es incroyable, miaou!!\"",
+            "\"Grande sœur Sara !! T'es incroyable, miaou!!\""
         ],
         "326-0-message": [
             "\\C[3]Victoire."
@@ -15804,14 +15823,14 @@
             "Ne pas négocier\nAnnuler"
         ],
         "568-0-choice": [
-            "Sélectionner ce partenaire\nAnnuler",
+            "Sélectionner un partenaire\nAnnuler",
             "Keiji\nKanna\nAlice\nAnnuler",
             "S'associer à Keiji\nChanger sa sélection",
             "S'associer à Kanna\nChanger sa sélection",
             "S'associer à Kanna\nChanger sa sélection"
         ],
         "357-0-choice": [
-            "Sélectionner ce partenaire\nAnnuler",
+            "Sélectionner un partenaire\nAnnuler",
             "Kanna\nReko\nGin\nAnnuler",
             "S'associer à Kanna\nChanger sa sélection",
             "S'associer à Kanna\nChanger sa sélection",
@@ -15820,14 +15839,14 @@
             "S'associer à Gin\nChanger sa sélection"
         ],
         "355-0-choice": [
-            "Sélectionner ce partenaire\nAnnuler",
+            "Sélectionner un partenaire\nAnnuler",
             "Keiji\nQ-taro\nGin\nAnnuler",
             "S'associer à Keiji\nChanger sa sélection",
             "S'associer à Q-taro\nChanger sa sélection",
             "S'associer à Gin\nChanger sa sélection"
         ],
         "565-0-choice": [
-            "Sélectionner ce partenaire\nAnnuler",
+            "Sélectionner un partenaire\nAnnuler",
             "Kanna\nNao\nGin\nAnnuler",
             "S'associer à Kanna\nChanger sa sélection",
             "S'associer à Kanna\nChanger sa sélection",
@@ -15927,7 +15946,7 @@
             "\\.\"On s'en est sortis... Je suis exténué.\"",
             "\\.\"Voilà les Médaillons.\n On en prend un chacun.\"",
             "\\.\\C[3]Vous avez obtenu 1 Médaillon du Triomphe.",
-            "\\.\"Bon travail ! T'es vraiment incroyable !\"",
+            "\\.\"Bon travail ! T'vraiment incroyable !\"",
             "\\.\"Voilà nos fameux Médaillons d'Triomphe...\n On en prend un chacun !\"",
             "\\.\\C[3]Vous avez obtenu 1 Médaillon du Triomphe.",
             "\\.\"Et aussi, comme promis, on échange nos jetons !\n C'un échange d'confiance, après tout.\"",
@@ -16012,7 +16031,7 @@
             "\\.\"Chercher le ténébreux, ouaf...?\n Trop nul, miaou...\""
         ],
         "382-0-choice": [
-            "Sélectionner ce partenaire\nAnnuler",
+            "Sélectionner un partenaire\nAnnuler",
             null,
             "S'associer à Keiji\nChanger sa sélection",
             "S'associer à Q-taro\nChanger sa sélection"
@@ -16031,7 +16050,7 @@
             "\\.\"..........\n Allez, partageons-nous les Médaillons du Triomphe.\"",
             "\\.\\C[3]Vous avez obtenu 2 Médaillons du Triomphe.",
             "\\.\\C[3]Vous avez obtenu 1 Médaillon du Triomphe.",
-            "\\.\"Bon travail ! T'es vraiment incroyable !\"",
+            "\\.\"Bon travail ! T'vraiment incroyable !\"",
             "\\.\"Voilà nos fameux Médaillons d'Triomphe...\n On en prend un chacun !\"",
             "\\.\\C[3]Vous avez obtenu 1 Médaillon du Triomphe.",
             "\\.\"Et aussi, comme promis, on échange nos jetons !\n C'un échange d'confiance, après tout.\"",
@@ -16063,7 +16082,7 @@
             "\\.\"On s'en est sortis... Je suis exténué.\"",
             "\\.\"Voilà les Médaillons.\n On en prend un chacun.\"",
             "\\.\\C[3]Vous avez obtenu 1 Médaillon du Triomphe.",
-            "\\.\"Bon travail ! T'es vraiment incroyable !\"",
+            "\\.\"Bon travail ! T'vraiment incroyable !\"",
             "\\.\"Voilà nos fameux Médaillons d'Triomphe...\n On en prend un chacun !\"",
             "\\.\\C[3]Vous avez obtenu 1 Médaillon du Triomphe.",
             "\\.\"Et aussi, comme promis, on échange nos jetons !\n C'un échange d'confiance, après tout.\"",
@@ -16094,26 +16113,26 @@
             "\\.\"Je comprends mieux comment fonctionnent les\n attractions maintenant... Je pense qu'on devrait\n se regrouper et partir à la recherche de Sou.\""
         ],
         "566-0-choice": [
-            "Sélectionner ce partenaire\nAnnuler",
+            "Sélectionner un partenaire\nAnnuler",
             null,
             null,
             "S'associer à Reko\nChanger sa sélection"
         ],
         "567-0-choice": [
-            "Sélectionner ce partenaire\nAnnuler",
+            "Sélectionner un partenaire\nAnnuler",
             null,
             "S'associer à Q-taro\nChanger sa sélection",
             null,
             "S'associer à Gin\nChanger sa sélection"
         ],
         "569-0-choice": [
-            "Sélectionner ce partenaire\nAnnuler",
+            "Sélectionner un partenaire\nAnnuler",
             null,
             "S'associer à Keiji\nChanger sa sélection",
             "S'associer à Reko\nChanger sa sélection"
         ],
         "570-0-choice": [
-            "Sélectionner ce partenaire\nAnnuler"
+            "Sélectionner un partenaire\nAnnuler"
         ],
         "404-0-message": [
             null,
@@ -16129,15 +16148,19 @@
         "342-0-message": [
             "\"Vas-y !! Grande sœur Sara !!\"",
             "\"Vas-y !! Grande sœur Sara !!\"",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\"Aah...!! Est-ce vraiment la fin...?!\""
+            "\\.\"Sara... Je suis... désolée...\"",
+            "\\.\"Réveille-toi... Kan... na...!\"",
+            "\\.\"... A-Aaahh...\"",
+            "\\.\"... Kan... na...!\"",
+            "\\.\"Merde... Je l'ai... Sous-estimé...!\"",
+            "\\.\"Non...! Reko...!\"",
+            "\\.\"J'ai pas... réussi... à la protéger...\n Ma... grande sœur... Sara...\"",
+            "\\.\"Gin...! Reste avec moi...!\"",
+            "\"Aah...!! Est-ce vraiment la fin...?!\"",
+            "\\.\"Kanna... donnera tout ce qu'elle a...!\"",
+            "\\.\"... C'est au tour... de Kanna...\"",
+            "\\.\"Laisse-moi faire, Sara !\n Va te reposer, tu peux compter sur moi !\"",
+            "\\.\"Grande sœur Sara !\n Je m'occupe du reste, miaou !\""
         ],
         "310-0-message": [
             "\\.\"Sara... C'est dangereux d'aller là-bas toute seule.\"",
