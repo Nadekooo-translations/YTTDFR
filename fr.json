@@ -16075,7 +16075,7 @@
         "358-0-message": [
             "\\.\"Bordel... Il y était pas !!\n Ce putain d'enfoiré au bonnet...!!\"",
             "\\.\"C'est vraiment un type à problème.\n Il mériterait de se faire arrêter.\"",
-            "\\.\"On fait quoi, on s'occupe pas d'lui pour l'instant ?\n On a un temps limité pour ce mini-jeu, nan ?\"",
+            "\\.\"On fait quoi, on passe à aut'chose pour l'instant ?\n On a un temps limité pour le Jeu Secondaire, nan ?\"",
             "\\.\"Le ténébreux m'inquiète plus, miaou !\n Il peut pas faire d'attraction s'il est tout\n seul, ouaf !\"",
             "\\.\"Hmm...\"",
             "\\.\"Je vous jure que je vais finir par le\n déglinguer ce connard...!!\"",
@@ -16763,7 +16763,7 @@
             "\\.\\C[4](Hein ?! Je ne le vois pas affiché...!)",
             "\\.\"Vous avez 3 jours !\n Franchement, tranquille ! Vous avez plein de bouffe,\n des habits de rechange et même du temps libre pour\n vous reposer. Vous pouvez dormir à poings fermés !\"",
             "\\.\"Vos chambres sont pas piégées ou quoi que ce\n soit, donc hésitez pas à en profiter!\"",
-            "\\.\"Et maintenant, que le Mini-Jeu...\n Que le \\C[2]Jeu du Troc de Confiance\\C[0] commence !\"",
+            "\\.\"Et maintenant, que le Jeu Secondaire...\n Que le \\C[2]Jeu du Troc de Confiance\\C[0] commence !\"",
             "\\C[4](Pendant combien de temps... vont-ils\n continuer à se moquer de nous ?)",
             "\\.\\C[4](Mais... Je dois jouer le jeu...\n Je ne peux pas mourir...)",
             "\"... Des attractions...\n Tu veux qu'on les cherche ensemble ?\""
@@ -27367,9 +27367,9 @@
     "map108": {
         "19-1-message": [
             "\\.\"J'y vais en première...!\"",
-            null,
-            null,
-            null,
+            "\\.\"Hmph... Voyons de quoi tu es capable.\"",
+            "\\.\"Ça ne devrait pas être compliqué pour toi, Sara.\"",
+            "\\.\"Crois en toi, Sara !\"",
             "Limite Mouvante ~ Règles ~",
             "\\.Gardez la zone de l'adversaire pressée et suivez-la\nsans quitter les bordures.",
             "\\.En cliquant sur l'icône de votre partenaire, vous\nobtiendrez des conseils et des encouragements...\nBon courage à vous."
@@ -27398,7 +27398,8 @@
         ],
         "8-3-message": [
             "\"Il faut rester enfermé dans la zone ?\n Cela sera du gâteau...\"",
-            "\"Notre adversaire est agile...\n Je lui montrerai de quoi sont vraiments\n capable les confinés.\""
+            "\"Notre adversaire est agile...\n Je lui montrerai de quoi sont vraiment capables\n les prisonniers.\"",
+            "\"Je refuse de mourir !\n Je ne tomberai pas au combat !\""
         ]
     },
     "map95": {
@@ -27724,6 +27725,35 @@
         ],
         "24-1-message": [
             "\\.\"Grande sœur Nao... Elle va bien, miaou...?\""
+        ]
+    },
+    "map109": {
+        "1-1-message": [
+            "\\.\"Vous vous êtes tous rassemblés, les salauds !\"",
+            "\\.\"Tu nous veux quoi, miaou ?!\"",
+            "\\.\"On a récupéré tous les Médaillons d'Triomphe !!\n On devrait pas avoir d'problèmes !!\"",
+            "\\.\"Ton jeu à la con est fini, poupée de merde !\"",
+            "\\.\"Désolé, mais nan.\n Le Jeu Secondaire est pas encore terminé.\"",
+            "\\.\"Heiiin...?!\"",
+            "\\.\"Passons à l'annonce des résultats !\n Me dites pas que vous aviez oublié que le but\n du jeu, c'était d'obtenir des jetons, hein ?\"",
+            "\\.\"... Ah, j'ai compris.\"",
+            "\\.\"Le nombre de jetons qu'on a obtenu...?\"",
+            "\\.\"Pour être très spécifique, on compte le nombre de\n \\C[2]jetons appartenant à d'autres personnes que vous\n avez touché au moins une fois\\C[0].\"",
+            "\\.\"Ça veut dire que \\C[2]les jetons que vous avez perdus\n après avoir mis la main dessus\\C[0] comptent aussi.\"",
+            "\\.\"... Tu veux dire qu'on a pas à les avoir sur nous ?\"",
+            "\\.\"Eh ouais ! Je vous avais dit que les jetons\n représentent la confiance, pas vrai ?\"",
+            "\\.\"C'est la quantité de confiance qu'on vous a accordée...\n Qui compte.\"",
+            "\\.\"Donc du coup, la quantité de jetons à votre effigie\n que vous avez sur vous compte paaaaas !\"",
+            "\\.\"Et maintenant, les résultats ! Alignez-vous !\"",
+            "\\.\"La fabuleuse personne qui a récolté le plus de\n confiance a droit à un traitement de faveur !\"",
+            "\\.\"Un traitement de faveur...?\"",
+            "\\.\"Allons-y !\n Notre fameux gagnant est...!\"",
+            "\\.\"B-Badoum-badoum-badoum-badoum...\"",
+            "\\.\"Q-taro Burgerbeeerg !\n Bravoooo !!\"",
+            "\\.\"Y-Yes !\"",
+            "\\.\"Vas-y, mets-toi là !\"",
+            "\\.\"Ahém ! Alors, voyons voir...\n Je peux avoir une interview ?\"",
+            "\\.\"Alors toi...! Arrête d'faire le con !\n C'quoi le privilège ?!\""
         ]
     }
 }
