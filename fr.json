@@ -25946,9 +25946,9 @@
     },
     "map101": {
         "8-3-message": [
-            null,
-            null,
-            "\"Encore un petit peu, miaou ! Bonne chance, woooouf !!\""
+            "\"Miaouuuuu ! C'est trop fun, ouaf !\"",
+            "\"Grande sœur Sara !\n Je te donnerai plein d'accélérations, miaou !\"",
+            "\"Encore un petit peu, miaou ! Bonne chance, ouaaaaf !!\""
         ],
         "1-11-message": [
             "\\C[3]Victoire."
@@ -25957,17 +25957,32 @@
             "\\C[3]Victoire."
         ],
         "21-1-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.Cliquer sur l'icône de votre partenaire vous donnera\ndes conseils et des encouragements, donc...\nBon courage."
+            "\\.\"À nous 2, on peut réussir...!\"",
+            "\\.\"Allons-y !\n Avec ma force, j'vais casser tout c'qui passe !\"",
+            "\\.\"Je ferai de mon mieux pour ne pas te gêner...\"",
+            "\\.\"Je protégerai ma grande sœur Sara, miaou !!\"",
+            "Wagon Express ~ Règles ~",
+            "\\.Éliminez les obstacles sur votre chemin et atteignez\nl'objectif avant la fin du temps imparti à bord du\nwagonnet.",
+            "\\.Mur en Bois   : Martelez-le pour le détruire !\nMur de Fer    : Martelez les vis pour le détruire !\nChauve-Souris : Touchez le \\C[2]panneau de danger\\C[0] !\nAccélération  : Touchez le \\C[2]symbole d'accélération\\C[0] !",
+            "\\.En cliquant sur l'icône de votre partenaire, vous\nobtiendrez des conseils et des encouragements...\nBon courage à vous."
         ],
         "21-1-choice": [
             "Revoir l'explication\nEssayer"
+        ],
+        "5-1-message": [
+            "\"On doit s'assurer d'accélérer et d'esquiver\n les obstacles !\"",
+            "\"Je file... comme le vent...!\"",
+            "\"On doit à tout prix... Atteindre l'objectif...!\""
+        ],
+        "8-1-message": [
+            "\"Compte sur moi pour dégommer les murs !\n T'verras que j'suis aussi fort que j'en ai l'air !\"",
+            "\"Chope autant d'accélérations qu'tu peux !\"",
+            "\"Elle fait du bien la brise, hein ?!\n Ça met d'bonne humeur !\""
+        ],
+        "8-2-message": [
+            "\"Je suis désolé si on est serrés, Sara.\"",
+            "\"Assure-toi de suivre les avertissements\n et d'accélérer.\"",
+            "\"Nous y sommes presque. Bonne chance, Sara !\""
         ]
     },
     "items-95": {
@@ -26568,7 +26583,7 @@
             "\\.Observez les pas de danse de votre adversaire et\nrépétez-les dans l'ordre.",
             "\\.Les directions sont \\C[2]Haut, Bas, Droite, Gauche, et Corps\\C[0].\n\\C[2]Corps\\C[0] est fait en touchant le corps de votre personnage.",
             "\\.Certains personnages peuvent garder des pas en mémoire.\nCeux-ci sont affichés en bas.",
-            "\\.Cliquer sur l'icône de votre partenaire vous donnera\ndes conseils et des encouragements, donc...\nBon courage."
+            "\\.En cliquant sur l'icône de votre partenaire, vous\nobtiendrez des conseils et des encouragements...\nBon courage à vous."
         ],
         "1-1-message": [
             "\"Reste calme...\n Je n'ai qu'à répéter les pas de danse\n de mon adversaire.\"",
@@ -27164,7 +27179,7 @@
             "\\.\\C[4]Charge\\C[0]   : Donne 1 Énergie.\n\\C[2]Rayon\\C[0]    : Dépense 1 Énergie pour attaquer.\n\\C[6]Spécial\\C[0]  : Dépense 3 Énergies pour un coup spécial.\n\\C[3]Garde\\C[0]    : Protège complètement des attaques.",
             "\\.Si l'ennemi prend \\C[4]Charge\\C[0] et vous \\C[2]Rayon\\C[0], il est touché !\nMais sachez qu'attaquer requiert une \\C[4]Charge\\C[0] !\n\n... Voilà l'essentiel des règles du jeu.",
             "\\.Dans la situation où un \\C[2]Rayon\\C[0] est contre un \\C[6]Spécial\\C[0],\nle coup \\C[6]Spécial\\C[0] le submerge et gagne.",
-            "\\.Cliquer sur l'icône de votre partenaire vous donnera\ndes conseils et des encouragements, donc...\nBon courage."
+            "\\.En cliquant sur l'icône de votre partenaire, vous\nobtiendrez des conseils et des encouragements...\nBon courage à vous."
         ],
         "25-1-choice": [
             "Revoir l'explication\nEssayer"
@@ -27178,7 +27193,7 @@
             "\\.\"T'es trop cool, miaou...!\n Mais fais attention à toi, ouaf...\"",
             "Tapette à Bête ~ Règles ~",
             "\\.Un charmeur d'insecte va lâcher des insectes.\nTouchez-les et battez-les tous avant la fin\ndu temps imparti.",
-            "\\.Cliquer sur l'icône de votre partenaire vous donnera\ndes conseils et des encouragements, donc...\nBon courage."
+            "\\.En cliquant sur l'icône de votre partenaire, vous\nobtiendrez des conseils et des encouragements...\nBon courage à vous."
         ],
         "8-3-message": [
             "\\.\"Donne tout ce que t'as, miaou !!\"",
@@ -27229,20 +27244,49 @@
     "map99": {
         "22-1-message": [
             "\\.\"J'y vais en première...!\"",
-            null,
-            null,
-            null,
+            "\\.\"Bonne chance à toi, Sara.\"",
+            "\\.\"Vas-y ! Démonte-les !\"",
+            "\\.\"Je te souhaite bonne chance, Sara !\"",
             "Dégaine Agile ~ Règles ~",
             "\\.Un logo d'une arme apparaîtra à l'écran.\n\\C[2]Cliquez vite sur l'arme en question\\C[0] pour attaquer.",
             "\\.Déplacez votre curseur sur l'une des armes\npour la sélectionner.\n(Vous ne pouvez pas en sélectionner avant le signal.)",
-            "\\.Si vous prenez trop de temps, l'ennemi passera\nà l'attaque en premier.\nMal choisir une arme vous rend vulnérable aussi.",
-            "\\.Cliquer sur l'icône de votre partenaire vous donnera\ndes conseils et des encouragements, donc...\nBon courage."
+            "\\.Si vous prenez trop de temps ou que vous sélectionnez\nla mauvaise arme, l'ennemi passera à l'attaque.",
+            "\\.En cliquant sur l'icône de votre partenaire, vous\nobtiendrez des conseils et des encouragements...\nBon courage à vous."
         ],
         "5-2-message": [
             "\"Je ne peux plus... que t'encourager...!\""
         ],
         "22-1-choice": [
             "Revoir l'explication\nEssayer"
+        ],
+        "8-1-message": [
+            "\"Urgh-\n E-Elles sont lourdes, ces armes...\"",
+            "\"Ça devrait être du gâteau pour toi, Sara !\"",
+            "\"Je sais... Ce que l'adversaire va utiliser...\"",
+            "\"C'est un duel de réflexes, Sara.\"",
+            "\"Ça va aller... Je ne mourrai pas...\"",
+            "\"Les choses deviennent sérieuses !\n Vide ton esprit et concentre-toi...!\""
+        ],
+        "5-1-message": [
+            "\"Comment est-ce qu'une poupée en paille peut\n porter un aussi gros marteau ?!\"",
+            "\"Je te ferai savoir que j'étais en club de kendo\n au collège...\"",
+            "\"Je ne peux pas l'approcher...\n Il est trop chaud...!\""
+        ],
+        "8-2-message": [
+            "\"Allez... Faut juste garder le rythme.\"",
+            "\"Te presse pas, Sara...\n Regarde l'arme que tu dois utiliser d'abord.\"",
+            "\"Je suis jeune, tu sais !\n J'ai confiance en mes réflexes !\"",
+            "\"Tant qu'il y a pas eu le signal, bouge pas...!\"",
+            "\"Je le sens arriver...!\n Je fais confiance à mon intuition !\"",
+            "\"Garde ton calme, Sara !\n Tu vas t'étouffer si tu garde ta respiration\n trop longtemps!\""
+        ],
+        "8-3-message": [
+            "\"Si j'essaie... J-Je peux le faire, moi aussi...!\"",
+            "\"Il faut juste choisir ce que le signal montre !\"",
+            "\"Ouuurgh...\n Je n'ai pas de bons réflexes, je suis inquiète...\"",
+            "\"Les choses se compliquent...\n L'important, c'est de rester concentré !\"",
+            "\"Haaa... Haaa...\n J'oublie presque de respirer...\"",
+            "\"... Et si on tentait notre chance en choisissant\n une arme à l'avance ?!\""
         ]
     },
     "map103": {
@@ -27253,7 +27297,7 @@
             null,
             null,
             null,
-            "\\.Cliquer sur l'icône de votre partenaire vous donnera\ndes conseils et des encouragements, donc...\nBon courage."
+            "\\.En cliquant sur l'icône de votre partenaire, vous\nobtiendrez des conseils et des encouragements...\nBon courage à vous."
         ],
         "5-2-message": [
             "\"Je ne peux plus... que t'encourager...!\""
@@ -27271,7 +27315,7 @@
             null,
             null,
             null,
-            "\\.Cliquer sur l'icône de votre partenaire vous donnera\ndes conseils et des encouragements, donc...\nBon courage."
+            "\\.En cliquant sur l'icône de votre partenaire, vous\nobtiendrez des conseils et des encouragements...\nBon courage à vous."
         ],
         "5-2-message": [
             "\"Je ne peux plus... que t'encourager...!\""
@@ -27288,7 +27332,7 @@
             null,
             null,
             null,
-            "\\.Cliquer sur l'icône de votre partenaire vous donnera\ndes conseils et des encouragements, donc...\nBon courage."
+            "\\.En cliquant sur l'icône de votre partenaire, vous\nobtiendrez des conseils et des encouragements...\nBon courage à vous."
         ],
         "5-2-message": [
             "\"Je ne peux plus... que t'encourager...!\""
@@ -27310,7 +27354,7 @@
             "\\.La jauge se remplit et se vide.\nAppuyez sur le bouton au bon moment.\nLe bras de l'ennemi sera repoussé si vous réussissez.",
             "\\.Lorsque vous êtes sur le point d'infliger un coup\nde grâce ou de perdre, un bouton avec un poing\napparaît. Gardez votre curseur dessus.",
             "\\.Lorsque vous êtes sur le point d'infliger un coup\nde grâce ou de perdre, un bouton avec un poing\napparaît. Cliquez répétitivement dessus.",
-            "\\.Cliquer sur l'icône de votre partenaire vous donnera\ndes conseils et des encouragements, donc...\nBon courage."
+            "\\.En cliquant sur l'icône de votre partenaire, vous\nobtiendrez des conseils et des encouragements...\nBon courage à vous."
         ],
         "19-1-choice": [
             "Revoir l'explication\nEssayer"
