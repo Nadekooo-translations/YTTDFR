@@ -27292,11 +27292,11 @@
     "map103": {
         "27-1-message": [
             "\\.\"J'y vais en première...!\"",
-            null,
+            "\\.\"Restons vigilants.\"",
             "\\.\"B-Bonne chance à toi !\"",
-            null,
-            null,
-            null,
+            "\\.\"Hmph. Faisons preuve de prudence et cachons-nous !\"",
+            "Cache-Cache ~ Règles ~",
+            "\\.Gardez les trois leviers activés pour accumuler\nde l'énergie. Cliquez sur le rocher pour vous y\ncacher avant que le démon ne se retourne.",
             "\\.En cliquant sur l'icône de votre partenaire, vous\nobtiendrez des conseils et des encouragements...\nBon courage à vous."
         ],
         "5-2-message": [
@@ -27304,17 +27304,37 @@
         ],
         "27-1-choice": [
             "Revoir l'explication\nEssayer"
+        ],
+        "5-1-message": [
+            "\"Ce monstre est gigantesque...\n Il doit faire plus de 2 mètres de haut...\"",
+            "\"D'effroyables masques sont apparus aussi...!\"",
+            "\"J'ai l'impression d'être dans une maison hantée\n bizarre !\""
+        ],
+        "8-1-message": [
+            "\"Activer les 3 leviers à la fois, ou les faire un\n par un... On ferait mieux de vite se décider.\"",
+            "\"J'aperçois plus d'ennemis.\n... On devrait être prudents.\"",
+            "\"On en est au dernier.\n Attends le bon moment et fonce.\""
+        ],
+        "8-2-message": [
+            "\"Si on laisse les leviers trop longtemps...\n On perd de l'énergie...!\"",
+            "\"J-J'ai le cœur qui bat de plus en plus vite...\"",
+            "\"Ouuuh... Je dois rester courageuse...!\""
+        ],
+        "8-3-message": [
+            "\"Hmph... J'étais un expert pour me cacher des gardiens\n de prison. Ne me prends pas à la légère !\"",
+            "\"I-Il y a plus d'ennemis ?\n Tu ne m'en as pas informé, Sara Chidouin !\"",
+            "\"J'en ai marre, sortez-moi de là !\n Ils me fichent tous tellement la trouille !!\""
         ]
     },
     "map105": {
         "23-1-message": [
             "\\.\"J'y vais en première...!\"",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\.\"O-Ouuh... Même des fantômes suffisent pas\n à te décourager, hein...\"",
+            "\\.\"Ça fait peur, mais... Des fantômes...\n Je me demande comment ils les ont fait...!\"",
+            "\\.\"..........\"",
+            "Safari Hanté ~ Règles ~",
+            "\\.Touchez les esprits bleus pour les récupérer.\nNe touchez pas les esprits rouges.",
+            "\\.Quand des fantômes apparaissent à l'écran, appuyez\nrapidement sur le bouton pour les faire partir.",
             "\\.En cliquant sur l'icône de votre partenaire, vous\nobtiendrez des conseils et des encouragements...\nBon courage à vous."
         ],
         "5-2-message": [
@@ -27322,6 +27342,26 @@
         ],
         "23-1-choice": [
             "Revoir l'explication\nEssayer"
+        ],
+        "5-1-message": [
+            "\"Récupérons autant de flammes bleues que possible !\"",
+            "\"Quand un fantôme apparaît, il faut vite appuyer\n sur le bouton !\"",
+            "\"Je me demande si des photos seront développées...\""
+        ],
+        "8-1-message": [
+            "\"... Des illusions, hein...\"",
+            "\"J'ai pas particulièrement peur, mais...\n Je peux pas m'amener à les regarder dans les yeux.\"",
+            "\"On y est presque... Faut continuer comme ça.\""
+        ],
+        "8-2-message": [
+            "\"A-Attends... Je supporte pas les fantômes...\n Je déconne pas...!\"",
+            "\"Merde... Vous approchez pas, fantômes à la con !\n Je veux partir d'ici...!\"",
+            "\"On y est presque !\n Allez... Plus vite...\""
+        ],
+        "8-3-message": [
+            "\"D-Des esprits...? Quelles incroyables illusions...\"",
+            "\"C'est comme si c'étaient de vrais fantômes...!\n Snif... Ça me touche un peu !\"",
+            "\"Haa... Haa... Ouuh... Nous y sommes presque !\""
         ]
     },
     "map108": {
@@ -27330,8 +27370,8 @@
             null,
             null,
             null,
-            null,
-            null,
+            "Limite Mouvante ~ Règles ~",
+            "\\.Gardez la zone de l'adversaire pressée et suivez-la\nsans quitter les bordures.",
             "\\.En cliquant sur l'icône de votre partenaire, vous\nobtiendrez des conseils et des encouragements...\nBon courage à vous."
         ],
         "5-2-message": [
@@ -27339,11 +27379,31 @@
         ],
         "19-1-choice": [
             "Revoir l'explication\nEssayer"
+        ],
+        "5-1-message": [
+            "\"Il faut toucher ses lèvres...!\"",
+            "\"J'espère que je ne vais pas m'en mettre\n sur les habits...\"",
+            "\"C'est comme l'art moderne !\""
+        ],
+        "8-1-message": [
+            "\"Il faut tenir le coup et suivre ses mouvements !\n C'est une épreuve d'endurance.\"",
+            "\"Mes réflexes... Vont-ils suffire ?\"",
+            "\"Sara, je suis sûre que tu es capable de te\n charger même avec des plus délicats !\"",
+            "\"C'est une question de courage...! Tiens bon !\""
+        ],
+        "8-2-message": [
+            "\"Faut bien suivre ses mouvements des yeux !\"",
+            "\"Ça devient plus compliqué ! Faut rester concentré...\"",
+            "\"Faut juste pas le lâcher du regard...!\n Ça devrait être faisable !\""
+        ],
+        "8-3-message": [
+            "\"Il faut rester enfermé dans la zone ?\n Cela sera du gâteau...\"",
+            "\"Notre adversaire est agile...\n Je lui montrerai de quoi sont vraiments\n capable les confinés.\""
         ]
     },
     "map95": {
         "5-2-message": [
-            "\"Tout ce que je peux faire... C'est t'encourager...!\""
+            "\"Je ne peux plus... que t'encourager...!\""
         ],
         "19-1-message": [
             "\\.\"J'y vais en première...!\"",
@@ -27451,7 +27511,7 @@
             "[Gin]\nCapacité : Quand Sara est en jeu, vous soigne parfois.\n           Peut aussi vous soigner via son icône.",
             "Choisissez un partenaire.",
             "[Reko]\nCapacité : Quand Reko est en jeu, a un pressentiment\n           quand les fantômes vont apparaître.",
-            "[Nao]\nCapacité : Quand Nao est en jeu, des flammes bleues\n           accélèrent la jauge.",
+            "[Nao]\nCapacité : Quand Nao est en jeu, les flammes bleues\n           augmentent plus la jauge d'énergie.",
             "[Alice]\nCapacité : Quand Alice est en jeu, la jauge\n           ne diminue pas.",
             "Choisissez un partenaire.",
             "[Q-taro]\nCapacité : Quand Q-taro est en jeu, vos attaques vous\n           fait avancer de 2 étapes (2× plus d'attaque).",
