@@ -6339,7 +6339,7 @@
             "\\C[10]                       9 Restants",
             "\"... Comment va Sara ?\"",
             "\\.\"... Elle fait un cauchemar.\"",
-            "\\.\"J-Je suis là, grand sœur Sara... Miaou...\"",
+            "\\.\"J-Je suis là, grande sœur Sara... Miaou...\"",
             "\\.\"Je veux être avec elle aussi...!\n Je ne sais pas ce que je peux faire, mais...\n Au moins, je reste à ses côtés...!\"",
             "\\.\"Ouais... T'as raison.\"",
             "\\.\"Cette fois, on lui prêtera nos forces...!!\"",
@@ -11103,7 +11103,7 @@
             "\\.\"Oui...?\"",
             "\\.\"Donne-moi... les résultats de ta révélation...\n S'il te plaît...\"",
             "\\.\"..........\"",
-            "\\.\"Laisse tomber, Sara !!\n Parler à Kai, c'est qu'une perte de temps !\n Ais confiance en moi !!\"",
+            "\\.\"Laisse tomber, Sara !!\n Parler à Kai, c'est qu'une perte de temps !\n Aie confiance en moi !!\"",
             "\\.\"....................\"",
             "\\.\"... Tu ne vas rien dire, pas vrai, Kai ?\"",
             "\\.\"Peut-être parce que... tu ne peux pas le dire...?\"",
@@ -12027,7 +12027,7 @@
             "\\C[10]                       9 Restants",
             "\"... Comment va Sara ?\"",
             "\\.\"... Elle fait un cauchemar.\"",
-            "\\.\"J-Je suis là, grand sœur Sara... Miaou...\"",
+            "\\.\"J-Je suis là, grande sœur Sara... Miaou...\"",
             "\\.\"Je veux être avec elle aussi...!\n Je ne sais pas ce que je peux faire, mais...\n Au moins, je reste à ses côtés...!\"",
             "\\.\"Ouais... T'as raison.\"",
             "\\.\"Cette fois, on lui prêtera nos forces...!!\"",
@@ -15917,7 +15917,8 @@
             "Keiji\nKanna\nAlice\nAnnuler",
             "S'associer à Keiji\nChanger sa sélection",
             "S'associer à Kanna\nChanger sa sélection",
-            "S'associer à Kanna\nChanger sa sélection"
+            "S'associer à Kanna\nChanger sa sélection",
+            "S'associer à Alice\nChanger sa sélection"
         ],
         "357-0-choice": [
             "Sélectionner un partenaire\nAnnuler",
@@ -15980,12 +15981,15 @@
         "382-0-message": [
             "\\C[3]Ce n'est pas le moment de faire des attractions.",
             "\\C[3]J'ai déjà fait cette attraction.",
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\"J'ai une idée, Sara ! Si tu m'choisis, j'veux bien\n qu'on s'échange 10 Égo-Jetons pour la peine !\""
+            "\\C[3][Bras de Fer]\nNombre de participants : 2\nRécompense de Médaillons du Triomphe : ★★\nDifficulté : Moyenne",
+            "\\.\\C[3]Appuyez sur le bouton au bon moment pour\nrepousser le bras de l'ennemi.\nBattez les trois poupées pour gagner.",
+            "\\.Keiji Shinogi\nQuand vous jouez Keiji, votre œil de détective\nfacilite le timing pour presser le bouton.\nDifficulté : Facile",
+            "\\.\"Je suis plutôt fier de mes bras.\"",
+            "\\.Q-taro Burgerberg\nQuand vous jouez Q-taro, votre force exceptionnelle\nvous fait deux fois plus repousser le bras ennemi.\nDifficulté : Moyenne",
+            "\\.\"J'ai une idée, Sara ! Si tu m'choisis, j'veux bien\n qu'on s'échange 10 Égo-Jetons pour la peine !\"",
+            "\\.\"J'ai trop hâte !\n Avec moi, c'dans la poche, Sara !\"",
+            "\\.Alice Yabusame\nQuand vous jouez Alice, sa fermeté réduit le nombre\nde fois que vous devez cliquer pour vous défendre.\nDifficulté : Moyenne",
+            "\\.\"Hmph... Tu requiers mon assistance ?\n Ainsi, tu sais prendre les bonnes décisions\n quand il faut, Sara Chidouin...\""
         ],
         "507-0-message": [
             "\\C[3]Confirmer l'échange ?",
@@ -16122,9 +16126,10 @@
         ],
         "382-0-choice": [
             "Sélectionner un partenaire\nAnnuler",
-            null,
+            "Keiji\nQ-taro\nAlice\nAnnuler",
             "S'associer à Keiji\nChanger sa sélection",
-            "S'associer à Q-taro\nChanger sa sélection"
+            "S'associer à Q-taro\nChanger sa sélection",
+            "S'associer à Alice\nChanger sa sélection"
         ],
         "395-0-message": [
             "\\.\"On s'en est sortis... Je suis exténué.\"",
