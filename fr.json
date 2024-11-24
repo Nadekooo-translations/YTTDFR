@@ -27182,14 +27182,17 @@
         ],
         "8-3-message": [
             "\\.\"Donne tout ce que t'as, miaou !!\"",
-            null,
-            null,
-            null,
+            "\"Grande sœur Sara !\n Perds pas contre les insectes dégueux, miaou !!\"",
+            "\"Miaaaa !! Des insectes, ouaf !! Dégoûtant, miaou !!\"",
+            "\"Je hais les insectes, ouaf !!\n Je veux rentrer à la maison, miaou !!\"",
             "\\.\"Donne tout ce que t'as, miaou !!\"",
-            null,
-            null,
-            null,
-            "\\.\"Donne tout ce que t'as, miaou !!\""
+            "\"Grande sœur Sara... Ourgh...\n Je peux rien faire à part t'encourager...\n Alors bonne chance, miaou !!\"",
+            "\"Y a plein d'insectes, ouaf !\n Dégoûtant, miaou !!\"",
+            "\"Je vais faire de mon mieux pour toi,\n grande sœur Sara, miaouuu...\n Mais je sens que je vais bientôt craquer, ouaaaf...\"",
+            "\\.\"Donne tout ce que t'as, miaou !!\"",
+            "\"Grande sœur Sara... T'es trop cool, miaou !!\"",
+            "\"Ah ben enfin, miaou !\n Un vrai monstre qui fait peur, ouaf !!\"",
+            "\"On peut pas perdre, miaou !\n J'ai juré de protéger ma grande sœur Sara, ouaf !!\""
         ],
         "5-2-message": [
             "\"Je ne peux plus... que t'encourager...!\""
@@ -27209,7 +27212,18 @@
         "8-1-message": [
             "\"Ouaaah ! On doit battre des insectes aussi grands ?!\"",
             "\"Urrrgh, je n'aime pas ça...\n Je n'aime pas les insectes...\"",
-            "\"Des araignées !! Nooooon...!!\""
+            "\"Des araignées !! Nooooon...!!\"",
+            "\"Ourgh... J'ai la chair de poule...!\"",
+            "\"Ce sont même plus vraiment des insectes...\"",
+            "\"Ce ne sont plus des insectes...\n Ils font beaucoup moins peur, maintenant !\""
+        ],
+        "8-2-message": [
+            "\"Je n'avais vu de telles créatures auparavant...\n Est-ce vraiment des insectes...?\"",
+            "\"Quelle est cette espèce d'insectes ?\n Je veux les dessiner...!\"",
+            "\"Un autre étrange insecte...!\n D'où peuvent-ils bien venir ?!\"",
+            "\"Il faut que je dessine cet insecte bizarre !\n Cette curieuse créature !\"",
+            "\"C'est... un insecte ?\n Quelle étrange créature...\"",
+            "\"On ne peut plus se permettre de perdre !\n Le dessin attendra après !\""
         ]
     },
     "map99": {
@@ -27218,10 +27232,10 @@
             null,
             null,
             null,
-            null,
-            null,
-            null,
-            null,
+            "Dégaine Agile ~ Règles ~",
+            "\\.Un logo d'une arme apparaîtra à l'écran.\n\\C[2]Cliquez vite sur l'arme en question\\C[0] pour attaquer.",
+            "\\.Déplacez votre curseur sur l'une des armes\npour la sélectionner.\n(Vous ne pouvez pas en sélectionner avant le signal.)",
+            "\\.Si vous prenez trop de temps, l'ennemi passera\nà l'attaque en premier.\nMal choisir une arme vous rend vulnérable aussi.",
             "\\.Cliquer sur l'icône de votre partenaire vous donnera\ndes conseils et des encouragements, donc...\nBon courage."
         ],
         "5-2-message": [
