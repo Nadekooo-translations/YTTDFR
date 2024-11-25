@@ -569,7 +569,8 @@
         "itemextradesc39": "Jusqu'à 4 candidats sont choisis au vote préliminaire.\\nSi seulement 1 candidat est élu, pas de vote final.",
         "itemextradesc41": "Jusqu'à 5 candidats sont choisis au vote préliminaire.\\nSi seulement 1 candidat est élu, pas de vote final.",
         "midori_ノエル": "arranger",
-        "midori_トトノエル": "rayarranger"
+        "midori_トトノエル": "rayarranger",
+        "// expression strings are english by default, but can be defined here ala talkspritedescription_cara0-1": "Default (no collar)"
     },
     "items-16": {
         "name": "??????????????",
@@ -27829,5 +27830,8 @@
             "\\.\"Me dis pas... qu'le \"traitement d'faveur\"\n dont t'parlais, c'était...\"",
             "\\.\"Le traitement de faveur, c'est de pouvoir choisir\n de se sacrifier à la place de Gin !\""
         ]
+    },
+    "extrakeys": {
+        "// expression strings are english by default, but can be defined here ala talkspritedescription_cara0-1": "// Expression strings are English by default, but can be defined here ala TalkSpriteDescription_cara0-1"
     }
 }
