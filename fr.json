@@ -14682,12 +14682,16 @@
         "568-0-message": [
             "\\C[3]Ce n'est pas le moment de faire des attractions.",
             "\\C[3]J'ai déjà fait cette attraction.",
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\"..........\""
+            "\\C[3][Cache-Cache]\nNombre de participants : 2\nRécompense de Médaillons du Triomphe : ★★\nDifficulté : Moyenne",
+            "\\.\\C[3]Cachez-vous des poupées malveillantes et activez\n3 leviers jusqu'à ce que la jauge d'énergie soit\npleine pour gagner.",
+            "\\.Keiji Shinogi\nQuand vous jouez Keiji, la jauge d'énergie ne diminue\npas avec le temps.\nDifficulté : Moyenne",
+            "\\.\"Dacodac.\n La surveillance et la filature, ça fait partie\n des compétences des policiers.\"",
+            "\\.Kanna Kizuchi\nQuand vous jouez Kanna, la jauge se remplit plus vite.\n\nDifficulté : Moyenne",
+            "\\.\"..........\"",
+            "\\.Kanna Kizuchi\nQuand vous jouez Kanna, la jauge se remplit plus vite.\n\nDifficulté : Moyenne",
+            "\\.\"Je n'ai jamais vraiment joué à cache-cache avant...\n Je vais donner tout ce que j'ai...!\"",
+            "\\.Alice Yabusame\nQuand vous jouez Alice, votre instinct de prisonnier\nvous alerte 1 seconde avant que l'ennemi se retourne.\nDifficulté : Facile",
+            "\\.\"Hmph... Éviter les gardiens est ma spécialité...\n Réjouis-toi-en Sara Chidouin.\""
         ],
         "541-0-message": [
             "\"Gin... tu pourrais me répéter ça ?\"",
@@ -15747,35 +15751,40 @@
             "\\C[3]Victoire."
         ],
         "577-0-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\"Sara Chidouin !!\n L'heure promise est arrivée !\n Dépêchons-nous d'aller au Stand d'Échange !!\"",
+            "\"Me dis pas que t'as oublié ?!\n Tu m'avais promis qu'on irait acheter le trésor\n de Reko dès que t'avais les jetons !!\"",
+            "\\.\"Tu pensais en avoir fini après m'avoir donné\n les jetons ?! Reste jusqu'à la fin, Sara !!\"",
+            "\\.\"Me dis pas que t'as pas les jetons...!!\n Je te le pardonnerai jamais !!\"",
+            "\\.\\C[4](C'est vrai, je lui ai fais une promesse...)",
+            "\"Récupérer des jetons de Reko... Et acheter son trésor !\n Il est temps de mettre ce plan à l'œuvre !\"",
+            "\\.\"Bien évidemment, les jetons de Reko que tu as\n collecté sont maintenant en ma possession...!\"",
+            "\\.\"À présent, payons une visite au Stand d'Échange...!\n\\! Que ta curiosité effrontée devienne ma force !!\"",
+            "\\.\\C[4](C'est méchant de le tourner comme ça...)",
+            "\\.\"...Hmph.\n As-tu vraiment obtenu les jetons de Reko ?\n Montre-les moi.\"",
+            "\\.\"Hmm...\n Voyez-vous cela, tu les as vraiment récupérés...\"",
+            "\\.\"Bon travail, Sara Chidouin.\n Je t'en félicite.\"",
+            "\\.\"Hmm...\"",
+            "\\.\"Si tu ne changes pas d'attitude, je ne te\n les donnerai pas.\"",
+            "\\.\"M-Minute ! Sara !!\"",
+            "\\.\"... Qu'est-ce qu'il y a ?\"",
+            "\\.\"E-Euh... Merci beaucoup... Du fond du cœur...\n Mademoiselle Sara Chidouin...\"",
+            "\\.\\C[4](J'ai peut-être été un peu trop sévère...)",
+            "\\.\"Voilà les jetons.\"",
             "\\.\\C[3]Vous avez donné 20 Jetons Reko à Alice.",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\C[4](Bon... On dirait que les négociations sont finies.)"
+            "\\.\"Je les ai... Maintenant, allons-y !\n Direction, le Stand d'Échange...!\"",
+            "\\.\"... Heiiiin ?! Tu les as pas du tout, là !!\n Comment ça se fait ?!\"",
+            "\\.\"Bizarre...\"",
+            "\\.\"T-T'es absolument affreuse !!\n Comment t'as pu oser me donner de faux espoirs...!!\"",
+            "\\.\"J'ai passé tout ce temps à me préparer\n mentalement pour rien !!\"",
+            "\\.\"Je... vais pleurer... pour de vrai...\"",
+            "\\.\"... Je suis désolée...\n Je peux te prêter mon épaule si tu as besoin...\"",
+            "\\.\\{\"Dégage !! Je te déteste !!\"",
+            "\\C[4](Bon... On dirait que les négociations sont finies.)",
+            "\"Bon, allez... Je vais l'acheter... T'es prête ?\"",
+            "\\.\"Oui.\"",
+            "\\.\"..........\"",
+            "\\.\"Ouh, j'ai mal au veeeeeentre !!\"",
+            "\\.\\C[4](Ça fait 5 minutes qu'il est comme ça.\n Qu'est-ce que je devrais faire...?)"
         ],
         "981-0-message": [
             null,
@@ -16081,34 +16090,34 @@
         "568-0-choice": [
             "Sélectionner un partenaire\nAnnuler",
             "Keiji\nKanna\nAlice\nAnnuler",
-            "S'associer à Keiji\nChanger sa sélection",
-            "S'associer à Kanna\nChanger sa sélection",
-            "S'associer à Kanna\nChanger sa sélection",
-            "S'associer à Alice\nChanger sa sélection"
+            "S'associer à Keiji\nChanger de personnage",
+            "S'associer à Kanna\nChanger de personnage",
+            "S'associer à Kanna\nChanger de personnage",
+            "S'associer à Alice\nChanger de personnage"
         ],
         "357-0-choice": [
             "Sélectionner un partenaire\nAnnuler",
             "Kanna\nReko\nGin\nAnnuler",
-            "S'associer à Kanna\nChanger sa sélection",
-            "S'associer à Kanna\nChanger sa sélection",
-            "S'associer à Kanna\nChanger sa sélection",
-            "S'associer à Reko\nChanger sa sélection",
-            "S'associer à Gin\nChanger sa sélection"
+            "S'associer à Kanna\nChanger de personnage",
+            "S'associer à Kanna\nChanger de personnage",
+            "S'associer à Kanna\nChanger de personnage",
+            "S'associer à Reko\nChanger de personnage",
+            "S'associer à Gin\nChanger de personnage"
         ],
         "355-0-choice": [
             "Sélectionner un partenaire\nAnnuler",
             "Keiji\nQ-taro\nGin\nAnnuler",
-            "S'associer à Keiji\nChanger sa sélection",
-            "S'associer à Q-taro\nChanger sa sélection",
-            "S'associer à Gin\nChanger sa sélection"
+            "S'associer à Keiji\nChanger de personnage",
+            "S'associer à Q-taro\nChanger de personnage",
+            "S'associer à Gin\nChanger de personnage"
         ],
         "565-0-choice": [
             "Sélectionner un partenaire\nAnnuler",
             "Kanna\nNao\nGin\nAnnuler",
-            "S'associer à Kanna\nChanger sa sélection",
-            "S'associer à Kanna\nChanger sa sélection",
-            null,
-            "S'associer à Gin\nChanger sa sélection"
+            "S'associer à Kanna\nChanger de personnage",
+            "S'associer à Kanna\nChanger de personnage",
+            "S'associer à Nao\nChanger de personnage",
+            "S'associer à Gin\nChanger de personnage"
         ],
         "333-0-message": [
             "\\>Égo-Jetons de Sara : \\V[131]\\<\n\\>Médaillons du Triomphe : \\V[130]\\<",
@@ -16164,36 +16173,51 @@
         "565-0-message": [
             "\\C[3]Ce n'est pas le moment de faire des attractions.",
             "\\C[3]J'ai déjà fait cette attraction.",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.Gin Ibushi\nQuand vous jouez Sara, ses encouragements vous soigne.\nIl peut aussi vous soigner si vous le sollicitez.\nDifficulté : Moyenne"
+            "\\C[3][Tapette à Bête]\nNombre de participants : 2\nRécompense de Médaillons de Triomphe : ★★\nDifficulté : Moyenne",
+            "\\.\\C[3]Vos ennemis invoquent des créatures qui vous attaquent.\nFrappez-les et battez trois invocateurs pour gagner.",
+            "\\.Kanna Kizuchi\nQuand vous jouez Kanna, le nombre d'ennemis\ninvoqués est réduit.\nDifficulté : Moyenne",
+            "\\.\"..........\"",
+            "\\.Kanna Kizuchi\nQuand vous jouez Kanna, le nombre d'ennemis\ninvoqués est réduit.\nDifficulté : Moyenne",
+            "\\.\"D-Des mouches...?\n Je ne suis pas très à l'aise avec les insectes, mais...\n Je ferai de mon mieux...\"",
+            "\\.Nao Egokoro\nQuand vous jouez Nao, vos ennemis mettent\nplus de temps à attaquer.\nDifficulté : Moyenne",
+            "\\.\"Compris !\n Je vais essayer de remplir tes attentes, Sara !\"",
+            "\\.Gin Ibushi\nQuand vous jouez Sara, ses encouragements vous soigne.\nIl peut aussi vous soigner si vous le sollicitez.\nDifficulté : Moyenne",
+            "\\.\"Quoiii !? Des insectes, miaou ?!\n Grrr... Je vais faire de mon mieux, ouaf !!\""
         ],
         "566-0-message": [
             "\\C[3]Ce n'est pas le moment de faire des attractions.",
             "\\C[3]J'ai déjà fait cette attraction.",
-            null,
-            null,
-            null,
-            "\\.\"... Je ferai de mon mieux.\""
+            "\\C[3][Dégaine Agile]\nNombre de participants : 2\nRécompense de Médaillons du Triomphe : ★★\nDificulté : Facile",
+            "\\.\\C[3]Au signal, sélectionnez l'arme affichée pour attaquer.\nBattez les trois poupées pour gagner.",
+            "\\.Sou Hiyori\nQuand vous jouez Sou, vous pouvez voir\nl'arme qui va être affichée à l'avance.\nDifficulté : Facile",
+            "\\.\"... Je ferai de mon mieux.\"",
+            "\\.Reko Yabusame\nQuand vous jouez Reko, votre intimidation augmente\nle temps que vous avez pour réagir.\nDifficulté : Moyenne",
+            "\\.\"C'est parti, Sara !\n Je vais te montrer ce que je vaux en combat !\"",
+            "\\.Nao Egokoro\nGrâce à sa vision aiguisée, elle sent le signal\narriver une seconde à l'avance.\nDifficulté : Facile",
+            "\\.\"Bien reçu !\n Je me concentrerai comme quand je dessine !\""
         ],
         "567-0-message": [
             "\\C[3]Ce n'est pas le moment de faire des attractions.",
             "\\C[3]J'ai déjà fait cette attraction.",
-            null,
-            null,
+            "\\C[3][Wagonnet Express]\nNombre de participants : 2\nRécompense de Médaillons du Triomphe : ★★\nDifficulté : Moyenne",
+            "\\.\\C[3]Surmontez les obstacles sur le chemin de votre\nwagonnet et atteignez l'objectif avant la fin\ndu temps imparti.",
             "\\.Q-taro Burgerberg\nQuand vous jouez Q-taro, son physique augmente\nparfois grandement votre attaque.\nDifficulté : Difficile",
             "\\.\"J'ai une idée, Sara ! Si tu m'choisis, j'veux bien\n qu'on s'échange 10 Égo-Jetons pour la peine !\"",
-            "\\.\"T'peux compter sur moi !\n J'vais t'prouver que j'suis pas juste musclé !!\""
+            "\\.\"T'peux compter sur moi !\n J'vais t'prouver que j'suis pas juste musclé !!\"",
+            "\\.Sou Hiyori\nGrâce à son poids léger, le wagonnet avance plus vite.\n\nDifficulté : Moyenne",
+            "\\.\"... Je ferai tout ce que je peux pour\n ne pas te gêner.\"",
+            "\\.Gin Ibushi\nAugmente le nombre d'accélérations.\n\nDifficulté : Facile",
+            "\\.\"Je vais monter dans un wagonnet avec ma\n grande sœur Sara, miaou !\""
         ],
         "569-0-message": [
             "\\C[3]Ce n'est pas le moment de faire des attractions.",
-            "\\C[3]J'ai déjà fait cette attraction."
+            "\\C[3]J'ai déjà fait cette attraction.",
+            "\\C[3][Safari Hanté]\nNombre de participants : 2\nRécompense de Médaillons du Triomphe : ★★\nDifficulté : Moyenne",
+            "\\.\\C[3]Attrapez les esprits bleus, évitez les rouges et\nquand des fantômes apparaissent, appuyez sur le\nbouton pour les prendre en photo et les repousser.\nRécupérez suffisamment d'âmes pour gagner.",
+            "\\.Keiji Shinogi\nQuand vous jouez Keiji, la jauge d'énergie ne diminue\npas avec le temps.\nDifficulté : Moyenne",
+            "\\.\"... Dacodac. Je vais t'aider.\"",
+            "\\.Reko Yabusame\nQuand vous jouez Reko, ses sens aiguisés vous\npréviennent lorsqu'un fantôme va apparaître.\nDifficulté : Facile",
+            "\\.\"D-Des fantômes...?! Attends un peu, Sara !!\n J'ai pas rassemblé mon courage...!\""
         ],
         "570-0-message": [
             "\\C[3]Ce n'est pas le moment de faire des attractions.",
@@ -16293,9 +16317,9 @@
         "382-0-choice": [
             "Sélectionner un partenaire\nAnnuler",
             "Keiji\nQ-taro\nAlice\nAnnuler",
-            "S'associer à Keiji\nChanger sa sélection",
-            "S'associer à Q-taro\nChanger sa sélection",
-            "S'associer à Alice\nChanger sa sélection"
+            "S'associer à Keiji\nChanger de personnage",
+            "S'associer à Q-taro\nChanger de personnage",
+            "S'associer à Alice\nChanger de personnage"
         ],
         "395-0-message": [
             "\\.\"On s'en est sortis... Je suis exténué.\"",
@@ -16375,22 +16399,24 @@
         ],
         "566-0-choice": [
             "Sélectionner un partenaire\nAnnuler",
-            null,
-            null,
-            "S'associer à Reko\nChanger sa sélection"
+            "Sou\nReko\nNao\nAnnuler",
+            "S'associer à Sou\nChanger de personnage",
+            "S'associer à Reko\nChanger de personnage",
+            "S'associer à Nao\nChanger de personnage"
         ],
         "567-0-choice": [
             "Sélectionner un partenaire\nAnnuler",
-            null,
-            "S'associer à Q-taro\nChanger sa sélection",
-            null,
-            "S'associer à Gin\nChanger sa sélection"
+            "Q-taro\nSou\nGin\nAnnuler",
+            "S'associer à Q-taro\nChanger de personnage",
+            "S'associer à Sou\nChanger de personnage",
+            "S'associer à Gin\nChanger de personnage"
         ],
         "569-0-choice": [
             "Sélectionner un partenaire\nAnnuler",
             null,
-            "S'associer à Keiji\nChanger sa sélection",
-            "S'associer à Reko\nChanger sa sélection"
+            "S'associer à Keiji\nChanger de personnage",
+            "S'associer à Reko\nChanger de personnage",
+            "S'associer à Nao\nChanger de personnage"
         ],
         "570-0-choice": [
             "Sélectionner un partenaire\nAnnuler"
@@ -16492,7 +16518,8 @@
             "Accepter\nNe pas accepter"
         ],
         "577-0-choice": [
-            "Discuter\nAvoir un résumé\nAnnuler"
+            "Discuter\nAvoir un résumé\nAnnuler",
+            "Lui donner les jetons\nQuelle mauvaise attitude"
         ],
         "586-0-choice": [
             "Discuter\nAvoir un résumé\nAnnuler",
@@ -16536,7 +16563,12 @@
             "Discuter\nAvoir un résumé\nAnnuler"
         ],
         "576-0-choice": [
-            "Discuter\nAvoir un résumé\nAnnuler"
+            "Discuter\nAvoir un résumé\nAnnuler",
+            "Quelque chose cloche\nRien n'a changé chez elle\nJe ne saurais pas dire",
+            "Sa personnalité\nSon identité\nSon comportement",
+            "Elle a visité La Chambre des Tromperies\nRien",
+            "Maintenant que tu le dis...\nJe ne savais pas",
+            "Je vais te donner un coup de main\nCe n'est rien\nDéjà meilleures potes, hein ?"
         ],
         "580-0-choice": [
             "Discuter\nAvoir un résumé\nAnnuler"
@@ -16767,12 +16799,12 @@
             "\\.\"... Bouhhh...\"",
             "\\.\\C[4](Ce n'était pas une bonne manière de lui\n montrer mon support...)",
             "\\.\"Nao, Reko et toi, vous n'êtes pas juste amies...\"",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\.\"Vous êtes BFF !!\"",
+            "\\.\"Qu'est-ce que ça veut dire, \"BFF\" ?\"",
+            "\\.\"Urgh... Fais juste au feeling, OK...?!\"",
+            "\\.\"D-D'accord ! Désolée...!\"",
+            "\\.\"... Merci beaucoup, Sara.\"",
+            "\\.\"J'ai vraiment bien fait... de discuter avec toi.\"",
             "\\C[4](Bon... On dirait que les négociations sont finies.)"
         ],
         "581-0-message": [
@@ -17041,6 +17073,14 @@
             null,
             null,
             "\"Désolée, je ne peux pas accepter.\""
+        ],
+        "578-0-message": [
+            "\\.\"Sara !\"",
+            "\\.\"Ouaoh...! Q-Qu'est-ce qu'il y a ?\"",
+            "\\.\"Oups... Désolé d't'avoir fichu la trouille.\n J'voudrais juste t'montrer quelque part.\"",
+            "\\.\"Viens au Couloir en Ruines, OK ?!\"",
+            "\\.\"Et m'fais pas attendre !\"",
+            "\\.\"Mais qu'est-ce qu'il a...?\""
         ]
     },
     "map107": {
