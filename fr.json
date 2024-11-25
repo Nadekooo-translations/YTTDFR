@@ -15399,37 +15399,37 @@
             "\\.\"..........\""
         ],
         "589-0-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\"Sara. T'veux... échanger d'jetons...?\"",
+            "\"T'en veux... combien ?\"",
+            "\\.\"J't'en file... 40.\n J'demande juste 10 d'tes jetons en échange.\"",
+            "\\.\"J't'en file... 40.\n J'demande juste 20 d'tes jetons en échange.\"",
+            "\\.\"Pas mal comme marché, hein...?\"",
+            "\\.\\C[4](Qu'est-ce...?\n Q-taro agit bizarrement...)",
+            "\"D-D'accord. Parlons affaires, Sara.\"",
+            "\\.\"Huuum... Hé, Sara.\n T'as pas des jetons...?\"",
+            "\\.\"Genre... 10 jetons !\n T'as bien 10 jetons quand même, nan...?\"",
+            "\\.\"Désolée... Je ne les ai pas...\"",
+            "\\.\"..........\"",
+            "\\.\"... Si t'les as pas, tant pis.\"",
+            "\\.\"À plus tard... Sara.\"",
+            "\\C[4](... Il est parti...)",
+            "\\.\\C[4](Il ne marche pas droit non plus.)",
+            "\\.\\C[4](Je me demande ce qui lui arrive...)",
+            "\\.\"Genre... 20 jetons !\n T'as bien 20 jetons quand même, nan...?\"",
+            "\\.\"Désolée... Je ne les ai pas...\"",
+            "\\.\"..........\"",
+            "\\.\"... Si t'les as pas, tant pis.\"",
+            "\\.\"À plus tard... Sara.\"",
+            "\\C[4](... Il est parti...)",
+            "\\.\\C[4](Il ne marche pas droit non plus.)",
+            "\\.\\C[4](Je me demande ce qui lui arrive...)",
+            "\\.\"O-Oui...?\"",
+            "\\.\"...!\"",
+            "\\.\"Juste 10 jetons, ça m'suffit !\n Échange-les moi.\"",
+            "\\.\"Juste 20 jetons, ça m'suffit !\n Échange-les moi.\"",
+            "\\.\"J't'en file... 40.\n Pas mal comme marché, hein...?\"",
+            "\\.\"Q-taro...\"",
+            "\\.\"C'est vrai... J'y gagne vraiment beaucoup.\"",
             null,
             null,
             null,
@@ -16314,6 +16314,74 @@
             "Fais ce que tu veux\nJe t'accompagne",
             "Se réconcilier\nFaire semblant de se réconcilier",
             "Kanna l'a eue en première\nSou l'a eue en premier\nKeiji, tu en penses quoi ?"
+        ],
+        "378-0-choice": [
+            "Discuter\nAvoir un résumé\nAnnuler",
+            null,
+            "Accepter\nNe pas accepter"
+        ],
+        "391-0-choice": [
+            "Discuter\nAvoir un résumé\nAnnuler",
+            null,
+            null,
+            "Accepter\nNe pas accepter"
+        ],
+        "577-0-choice": [
+            "Discuter\nAvoir un résumé\nAnnuler"
+        ],
+        "586-0-choice": [
+            "Discuter\nAvoir un résumé\nAnnuler",
+            "Accepter\nNe pas accepter"
+        ],
+        "587-0-message": [
+            "\\.\"Grande sœur Sara...\"",
+            "\\.\"Qu'est-ce qu'il se passe, Gin ?\"",
+            "\\.\"Grande sœur Nao était au Stand d'Échange, miaou.\n Et...\"",
+            "\\.\"Elle avait l'air... très pâle, miaou.\n Je me fais du soucis pour elle, ouaf.\"",
+            "\\.\"D'accord. Je vais vérifier si elle va bien.\"",
+            "\\.\"Merci, miaou !\""
+        ],
+        "589-0-choice": [
+            "Discuter\nAvoir un résumé\nAnnuler"
+        ],
+        "385-0-choice": [
+            "Discuter\nAvoir un résumé\nAnnuler"
+        ],
+        "389-0-choice": [
+            "Discuter\nAvoir un résumé\nAnnuler"
+        ],
+        "575-0-choice": [
+            "Discuter\nAvoir un résumé\nAnnuler"
+        ],
+        "376-0-choice": [
+            "Discuter\nAvoir un résumé\nAnnuler"
+        ],
+        "593-0-choice": [
+            "Discuter\nAvoir un résumé\nAnnuler"
+        ],
+        "377-0-choice": [
+            "Discuter\nAvoir un résumé\nAnnuler"
+        ],
+        "384-0-choice": [
+            "Discuter\nAvoir un résumé\nAnnuler"
+        ],
+        "390-0-choice": [
+            "Discuter\nAvoir un résumé\nAnnuler"
+        ],
+        "576-0-choice": [
+            "Discuter\nAvoir un résumé\nAnnuler"
+        ],
+        "580-0-choice": [
+            "Discuter\nAvoir un résumé\nAnnuler"
+        ],
+        "581-0-choice": [
+            "Discuter\nAvoir un résumé\nAnnuler"
+        ],
+        "582-0-choice": [
+            "Discuter\nAvoir un résumé\nAnnuler"
+        ],
+        "585-0-choice": [
+            "Discuter\nAvoir un résumé\nAnnuler"
         ]
     },
     "map107": {
@@ -16402,6 +16470,10 @@
         "3-10-message": [
             null,
             "\\.\\C[4](Mince...! Je me suis trompée !)"
+        ],
+        "1-2-message": [
+            "\\.\"Je vais te forcer d'admettre...\n Que c'est moi, la vraie Reko !!\"",
+            "\\.\\C[4](Elle s'adresse directement à Nao...!)"
         ]
     },
     "items-21": {
@@ -17325,6 +17397,20 @@
             null,
             null,
             "\\.\"Sara...\""
+        ],
+        "1-1-message": [
+            "\\.\"Ce connard...!!\n Je savais que quelque chose tournait pas rond !!\"",
+            "\\.\"Ahh... Gin...! Il faut qu'on le tire de là !\"",
+            "\\.\\C[4](L'affichage s'est allumé...!!)",
+            "\\.\"Le compte à rebours a commencé !!\"",
+            "\\.\"Merde !! Et maintenant ?!\n On fait quoi ?!\"",
+            "\\.\"On peut pas descendre, c'est trop haut...!\"",
+            "\\.\"Rien à faire...\n On est trop loin pour l'atteindre...!\"",
+            "\\C[3]Que... peut-on faire...?"
+        ],
+        "2-1-message": [
+            "\\.\"Je vais te forcer d'admettre...\n Que c'est moi, la vraie Reko !!\"",
+            "\\.\\C[4](Cette personne... Ce n'est pas la vraie...!)"
         ]
     },
     "map123": {
@@ -27799,7 +27885,7 @@
             "\\.\"Laissez-nous sortir, par pitié !!\"",
             "\\.\"Ray !! Tu fous quoi ?! Laisse-les partir !!\"",
             "\\.\"Tu... ne vas rien leur faire, hein...?!\"",
-            "\\.\"Oui, oui, c'est ça.\n Vous, là, les trois idiotes qui parlent trop !\n Allez garder un œil sur eux depuis la Salle\n des Impressions !\"",
+            "\\.\"Oui, oui, c'est ça.\n Vous, là, les trois idiotes qui parlent trop !\n Allez les regarder depuis la Salle des Impressions !\"",
             "\\.\"Hein...?\"",
             "\\.\"Qu'est-ce... que c'est...?!\"",
             "\\.\"O-On est en hauteur !\n Le sol s'est relevé...!\"",
@@ -27828,7 +27914,14 @@
             "\\.\"Presse-le et la cible se retournera.\n Le dard te visera toi à la place.\"",
             "\\.\"Urghh...!!\"",
             "\\.\"Me dis pas... qu'le \"traitement d'faveur\"\n dont t'parlais, c'était...\"",
-            "\\.\"Le traitement de faveur, c'est de pouvoir choisir\n de se sacrifier à la place de Gin !\""
+            "\\.\"Le traitement de faveur, c'est de pouvoir choisir\n de se sacrifier à la place de Gin !\"",
+            "\\.\"...!!\"",
+            "\\.\\C[10]\"Au final, tu fais ce que tu veux.\n C'est pas une obligation, juste un privilège.\"",
+            "\\.\"Gorille... musclé...\"",
+            "\\.\"....................\"",
+            "\\.\"C'est bon, on peut commencer ?\n Vous autres, vous pouvez juste vous tourner\n les pouces !\"",
+            "\\.\"Au secours...\"",
+            "\\.\"Au secours !! Sors-moi de là, miaou !!\n Gorille musclé !!\""
         ]
     },
     "extrakeys": {
