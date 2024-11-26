@@ -14550,7 +14550,7 @@
             "\\.\"Je vois... Allons regarder ensemble.\""
         ],
         "324-0-message": [
-            "\"Aah...!! Est-ce vraiment la fin...?!\"",
+            "\"Argh...!! Tout ça pour ça...?!\"",
             "\\.\"Dacodac, Monsieur le Policier se charge du reste.\"",
             "\\.\"J'm'occupe d'la suite !\"",
             "\\.\"Sois pas méchant avec grande sœur Sara, ouaf !!\n Je suis en colère, miaou !!\"",
@@ -15743,7 +15743,9 @@
             "\\.\\C[4](Je ne peux pas rester les bras croisés !\n Il faut finir les attractions !)"
         ],
         "428-0-message": [
-            "\\C[3]Victoire."
+            "\\C[3]Victoire.",
+            "\\C[3]Le Ticket Conciliant envoie un signal...!",
+            "\"J'ai un pressentiment...\""
         ],
         "446-0-message": [
             "\\C[3]Victoire."
@@ -16154,7 +16156,7 @@
             "\\.Keiji Shinogi\nQuand vous jouez Keiji, vos instincts de détective\nrévèlent parfois 2 des cartes de l'adversaire.\nDifficulté : Facile",
             "\\.\"Bahaha... Être le coéquipier de Sara...\n Ça m'a pas l'air trop mal.\"",
             "\\.Q-taro Burgerberg\nQuand vous jouez Q-taro, son physique augmente\nparfois grandement votre attaque.\nDifficulté : Difficile",
-            "\\.\"J'ai une idée, Sara ! Si tu m'choisis, j'veux bien\n qu'on s'échange 10 Égo-Jetons pour la peine !\"",
+            "\\.\"J'ai une idée, Sara ! Si tu m'choisis, j'veux bien\n qu'on s'échange 10 Égo-Jetons au passage !\"",
             "\\.\"T'peux compter sur moi !\n J'vais t'prouver que j'suis pas juste musclé !!\"",
             "\\.Gin Ibushi\nQuand vous jouez Sara, ses encouragements vous soigne.\nIl peut aussi vous soigner si vous le sollicitez.\nDifficulté : Moyenne",
             "\\.\"Ç-Ça fait peur, mais je vais essayer, ouaf !\n Je vais te protéger, grande sœur Sara, miaouuu !\""
@@ -16183,10 +16185,10 @@
             "\\.\\C[3]Appuyez sur le bouton au bon moment pour\nrepousser le bras de l'ennemi.\nBattez les trois poupées pour gagner.",
             "\\.Keiji Shinogi\nQuand vous jouez Keiji, votre œil de détective\nfacilite le timing pour presser le bouton.\nDifficulté : Facile",
             "\\.\"Je suis plutôt fier de mes bras.\"",
-            "\\.Q-taro Burgerberg\nQuand vous jouez Q-taro, votre force exceptionnelle\nvous fait deux fois plus repousser le bras ennemi.\nDifficulté : Moyenne",
-            "\\.\"J'ai une idée, Sara ! Si tu m'choisis, j'veux bien\n qu'on s'échange 10 Égo-Jetons pour la peine !\"",
+            "\\.Q-taro Burgerberg\nQuand vous jouez Q-taro, vous repoussez deux fois plus\nle bras de l'ennemi grâce à votre force exceptionnelle.\nDifficulté : Moyenne",
+            "\\.\"J'ai une idée, Sara ! Si tu m'choisis, j'veux bien\n qu'on s'échange 10 Égo-Jetons au passage !\"",
             "\\.\"J'ai trop hâte !\n Avec moi, c'dans la poche, Sara !\"",
-            "\\.Alice Yabusame\nQuand vous jouez Alice, sa fermeté réduit le nombre\nde fois que vous devez cliquer pour vous défendre.\nDifficulté : Moyenne",
+            "\\.Alice Yabusame\nQuand vous jouez Alice, sa fermeté réduit le nombre\nde clics requis pour vous défendre.\nDifficulté : Moyenne",
             "\\.\"Hmph... Tu requiers mon assistance ?\n Ainsi, tu sais prendre les bonnes décisions\n quand il faut, Sara Chidouin...\""
         ],
         "507-0-message": [
@@ -16225,7 +16227,7 @@
             "\\C[3][Wagonnet Express]\nNombre de participants : 2\nRécompense de Médaillons du Triomphe : ★★\nDifficulté : Moyenne",
             "\\.\\C[3]Surmontez les obstacles sur le chemin de votre\nwagonnet et atteignez l'objectif avant la fin\ndu temps imparti.",
             "\\.Q-taro Burgerberg\nQuand vous jouez Q-taro, son physique augmente\nparfois grandement votre attaque.\nDifficulté : Difficile",
-            "\\.\"J'ai une idée, Sara ! Si tu m'choisis, j'veux bien\n qu'on s'échange 10 Égo-Jetons pour la peine !\"",
+            "\\.\"J'ai une idée, Sara ! Si tu m'choisis, j'veux bien\n qu'on s'échange 10 Égo-Jetons au passage !\"",
             "\\.\"T'peux compter sur moi !\n J'vais t'prouver que j'suis pas juste musclé !!\"",
             "\\.Sou Hiyori\nGrâce à son poids léger, le wagonnet avance plus vite.\n\nDifficulté : Moyenne",
             "\\.\"... Je ferai tout ce que je peux pour\n ne pas te gêner.\"",
@@ -16382,23 +16384,26 @@
             "\\.\"Voilà les Médaillons du Triomphe.\n Ne nous disputons pas, partageons-nous les.\"",
             "\\.\\C[3]Vous avez obtenu 1 Médaillon du Triomphe.",
             "\"Allez ! C'était du gâteau, Sara !\"",
-            null,
-            null,
+            "\\.\"Désolée de faire mon égoïste...\n Mais je prends 2 des Médaillons du Triomphe.\n Voilà 30 de mes jetons pour la peine.\"",
+            "\\.\\C[3]Vous avez obtenu 30 Égo-Jetons de Reko.",
             "\\.\"Tiens, les Médaillons du Triomphe ! Moitié moitié !\"",
             "\\.\\C[3]Vous avez obtenu 2 Médaillons du Triomphe.",
             "\\.\\C[3]Vous avez obtenu 1 Médaillon du Triomphe.",
-            null,
-            null,
+            "\"On a réussi, Sara !\n On s'en est sorties saines et sauves !\"",
+            "\\.\"Partageons-nous les Médaillons du Triomphe !\"",
             "\\.\\C[3]Vous avez obtenu 1 Médaillon du Triomphe.",
             "\\.\"Youhou, miaou ! Grande sœur Sara !\n On est les meilleurs, ouaf !\"",
             "\\.\"On se partage les étoiles, miaou !\n Deux pour ma grande sœur Sara, et deux pour moi, ouaf !\n Elles scintillent, miaou ! \"",
             "\\.\\C[3]Vous avez obtenu 2 Médaillons du Triomphe.",
             "\\.\"On se partage les étoiles, miaou !\n Une pour ma grande sœur Sara, ouaf !\n Et une pour moi, miaou !\"",
             "\\.\\C[3]Vous avez obtenu 1 Médaillon du Triomphe.",
-            "\\.\"Hmph... Mais ce n'est rien...\"",
-            null,
+            "\\.\"Hmph... Ça n'avait rien de bien compliqué...\"",
+            "\\.\"Les plus vieux passent en priorité, Sara Chidouin.\n Tu ne reçois qu'un seul Médaillon du Triomphe...!\"",
             "\\.\"Ne t'inquiète pas, Sara Chidouin.\n Nous nous partageons les Médaillons équitablement.\"",
-            "\\.\\C[3]Vous avez obtenu 1 Médaillon du Triomphe."
+            "\\.\\C[3]Vous avez obtenu 1 Médaillon du Triomphe.",
+            "\\.\\C[4](J'ai pu récupérer un Médaillon du Triomphe,\n je devrais peut-être ne pas faire d'attraction\n et me reposer cette fois-ci...)",
+            "\\.\\C[4](Et maintenant, une attraction de faite en plus.)",
+            "\\.\\C[4](Je devrais donner les Médaillons du Triomphe que j'ai\n en trop à quelqu'un qui n'en a pas assez...)"
         ],
         "405-0-message": [
             "\\.\"On s'en est sortis... Je suis exténué.\"",
@@ -16409,7 +16414,7 @@
             "\\.\\C[3]Vous avez obtenu 1 Médaillon du Triomphe.",
             "\\.\"Et aussi, comme promis, on échange nos jetons !\n C'un échange d'confiance, après tout.\"",
             "\\.\\C[3]Vous avez échangé 10 Égo-Jetons avec Q-taro.",
-            "\\.\"Hmph... Mais ce n'est rien...\"",
+            "\\.\"Hmph... Ça n'avait rien de bien compliqué...\"",
             "\\.\"Ne t'inquiète pas, Sara Chidouin.\n Nous nous partageons les Médaillons équitablement.\"",
             "\\.\\C[3]Vous avez obtenu 1 Médaillon du Triomphe.",
             "\\.\"Bon... Sou n'était pas là, on dirait.\"",
@@ -16417,12 +16422,12 @@
             "\\.\"Bon... Est-ce que vous avez vu Sou, vous ?\"",
             "\\.\"Merde... On était pas sur l'bonne piste, alors...?\"",
             "\\.\"Bon... Sou n'était pas là, on dirait.\"",
-            null,
+            "\\.\"Sou Hiyori, hm...?\"",
             "\\.\"Ouah ! Vous allez bien ?!\n Faut que vous veniez avec moi !!\"",
-            null,
+            "\\.\"Hein...?\"",
             "\\.\"J'ai trouvé Sou ! L'est dans sa chambre !\"",
             "\\.\"Ah ! Vous êtes sains et sauf, hein ?!\n Désolée, mais faut que vous veniez avec moi !!\"",
-            null,
+            "\\.\"Hein...?\"",
             "\\.\"J'ai retrouvé l'enfoiré au bonnet !\n Il est dans sa chambre !\"",
             "\\.\\C[4](Qu'est-ce que...?!)",
             "\\.\"Bon... Sou n'était pas là, on dirait.\"",
@@ -16432,7 +16437,8 @@
             "\\.\"Je comprends mieux comment fonctionnent les\n attractions maintenant... Je pense qu'on devrait\n se regrouper et partir à la recherche de Sou.\"",
             "\\.\"Faudrait pas qu'il complote quelqu'chose pendant\n qu'on a le dos tourné, ouais...\"",
             "\\.\"Bon... Sou n'était pas là, on dirait.\"",
-            "\\.\"Je comprends mieux comment fonctionnent les\n attractions maintenant... Je pense qu'on devrait\n se regrouper et partir à la recherche de Sou.\""
+            "\\.\"Je comprends mieux comment fonctionnent les\n attractions maintenant... Je pense qu'on devrait\n se regrouper et partir à la recherche de Sou.\"",
+            "\\.\"Sou Hiyori, hm...?\""
         ],
         "566-0-choice": [
             "Sélectionner un partenaire\nAnnuler",
@@ -16484,7 +16490,7 @@
             "\\.\"Non...! Reko...!\"",
             "\\.\"J'ai pas... réussi... à la protéger...\n Ma... grande sœur... Sara...\"",
             "\\.\"Gin...! Reste avec moi...!\"",
-            "\"Aah...!! Est-ce vraiment la fin...?!\"",
+            "\"Argh...!! Tout ça pour ça...?!\"",
             "\\.\"Kanna... donnera tout ce qu'elle a...!\"",
             "\\.\"... C'est au tour... de Kanna...\"",
             "\\.\"Laisse-moi faire, Sara !\n Va te reposer, tu peux compter sur moi !\"",
@@ -16497,32 +16503,64 @@
             "\\.\\C[4](S'y rendre maintenant serait difficile...)"
         ],
         "418-0-message": [
-            "\"Aah...!! Est-ce vraiment la fin...?!\""
+            "\"Aah...!! Est-ce vraiment la fin...?!\"",
+            "\\.\"K-Kanna va se battre !\"",
+            "\\.\"Ça va aller ?!\n N'en fais pas trop, repose-toi pour le moment !\"",
+            "\\.\"Grande sœur Sara !!\n Tu m'as mis en rogne, ouaf !\n Je vais me battre, miaou !!\"",
+            "\"Ahh... je suis... fichue...\"",
+            "\\.\"Ahh... Kanna ! Reste avec moi...!\"",
+            "\"Je... n'arrive plus... à bouger...\n... Au secours... Monsieur...\"",
+            "\\.\"Non ! Nao...!\"",
+            "\"Miaaauu... Ma grande sœur Sara... Je dois la...\"",
+            "\\.\"Gin !! Non...!!\"",
+            "\\.\"A-Attendez...! Arrêtez...!\""
         ],
         "427-0-message": [
-            "\"Aah...!! Est-ce vraiment la fin...?!\""
+            "\"Argh...!! Tout ça pour ça...?!\"",
+            "\\.\"J-Je vais me battre !\n Sara... Écarte-toi, s'il te plaît !\"",
+            "\\.\"Oh punaise...\n Bon, j'imagine que c'est à moi de jouer...!\"",
+            "\\.\"Comment oses-tu faire ça à Sara !!\n Je vais t'anéantir !\"",
+            "\"Trop forts... Je ne pouvais... rien...\"",
+            "\\.\"Ahh... Nao ! Réveille-toi...!\"",
+            "\"Tiens... c'est drôle...\n Comment... ai-je pu me râter ici...\"",
+            "\\.\"Sou ! S'il te plaît, reste avec moi...!\"",
+            "\"Merde... Désolée... Sara...\"",
+            "\\.\"Reko...! Non... Tu ne peux pas...!!\"",
+            "\\.\"R-Reculez ! N'approchez-!\"",
+            "\\.\"C'est... impossible...\"",
+            "\\.\"A-Arrêtez...!\"",
+            "\"Graaahh !! Sara ! Fuis !\"",
+            "\\.\"A-Arrêtez...!\"",
+            "\\.\"Sauve-toi, Sara... Cours...!\"",
+            "\\.\"Je... ne peux plus bouger...\""
         ],
         "445-0-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\"Aah...!! Est-ce vraiment la fin...?!\""
+            "\"J'en peux plus...!\"",
+            "\\.\"Keiji ! Cache-toi !\"",
+            "\"Je n'en... peux plus...!\"",
+            "\\.\"Cache-toi, Kanna !\"",
+            "\"À-À L'AIIIIIIIIIIDE !!\"",
+            "\\.\"Alice, cache-toi !\"",
+            "\"Argh...!! Tout ça pour ça...?!\"",
+            "\\.\"En fais pas trop. Je prends le relais, Sara.\"",
+            "\\.\"Au tour de Kanna !\"",
+            "\\.\"Mon expérience pour grignoter en cachette...\n Je vais t'en faire une démonstration...\""
         ],
         "451-0-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\"Aah...!! Est-ce vraiment la fin...?!\""
+            "\"C'est ici... que tout se termine...?\"",
+            "\\.\"Non... Ce n'est pas vrai...!! Keiji...!!\"",
+            "\"D-Dégagez... fantômes de merde...!!\"",
+            "\\.\"C-Cours... Reko...!!\"",
+            "\"Je... ne tiens plus debout...\"",
+            "\\.\"Nao...! Non...!!\"",
+            "\\.\"Je... ne peux pas... respirer...!!\"",
+            "\\.\"A-Arrêtez !! Sara !!\"",
+            "\\.\"S-Sara...! Sara !!\"",
+            "\\.\"A-Attendez ! Au moins, commencez par moi...!!\"",
+            "\"Argh...!! Tout ça pour ça...?!\"",
+            "\\.\"A-Ahh...!! Ç-Ça va a-aller, Sara !\n P-Putain de fantômes !\n J-Je vais... vous démonter...!!\"",
+            "\\.\"Sara ! Par ici !\n Je vais m'occuper de les photographier !!\"",
+            "\\.\"Dacodac. Allez, Sara.\n C'est l'heure pour moi d'accomplir mon devoir.\""
         ],
         "464-0-message": [
             null,
@@ -16532,7 +16570,7 @@
             null,
             null,
             null,
-            "\"Aah...!! Est-ce vraiment la fin...?!\""
+            "\"Argh...!! Tout ça pour ça...?!\""
         ],
         "312-0-message": [
             "\"...Hein ? Où vas-tu...?\"",
@@ -17162,6 +17200,11 @@
         ],
         "597-0-message": [
             "Un jeton de Reko qu'elle a oublié dans le distributeur.\nSon visage est gravé dessus."
+        ],
+        "435-0-message": [
+            "\"Q-Qu'est-ce qu'il se passe...?\"",
+            "\"Merde...! Y s'passe quoi...?!\"",
+            "\"Qu'est-ce qu'il se passe, ouaf ?! J'ai peur, miaou !\""
         ]
     },
     "map107": {
@@ -28339,7 +28382,7 @@
             "\\.\"T'as la motiv' ?!\n Montre-leur ta force !\"",
             "\\.\"Hmph...\n J'observerai la puissance de tes maigres bras.\n Montre-moi leur pleine force.\"",
             "Bras de Fer ~ Règles ~",
-            "\\.La jauge se remplit et se vide.\nAppuyez sur le bouton au bon moment.\nLe bras de l'ennemi sera repoussé si vous réussissez.",
+            "\\.La jauge se remplit et se vide.\nAppuyez sur le bouton quand elle est pleine.\nLe bras de l'ennemi sera repoussé si vous réussissez.",
             "\\.Lorsque vous êtes sur le point d'infliger un coup\nde grâce ou de perdre, un bouton avec un poing\napparaît. Gardez votre curseur dessus.",
             "\\.Lorsque vous êtes sur le point d'infliger un coup\nde grâce ou de perdre, un bouton avec un poing\napparaît. Cliquez répétitivement dessus.",
             "\\.En cliquant sur l'icône de votre partenaire, vous\nobtiendrez des conseils et des encouragements...\nBon courage à vous."
@@ -28377,7 +28420,7 @@
         "8-3-message": [
             "\"Oh non ! On va perdre ?!\"",
             "\"Allez, encore un peu ! Va crever, toi !!\"",
-            "\"Mouahaha...\n Je ne pense pas pouvoir gagner en combat.\n Mais gagner en bras de fer ? Du gâteau...\"",
+            "\"Mouahaha...\n Je ne pense pas pouvoir gagner en combat.\n Mais gagner au bras de fer ? Du gâteau...\"",
             "\"Aaaaah...?! Il a quoi, lui ?!\n C'est quoi cette force ?!\"",
             "\"Hmph...\n Cet ennemi n'a pas été divertissant non plus.\"",
             "\"As-tu compris, Sara Chidouin ?\n Les bras de fer demandent de la sagesse...\n Je n'en ai pas beaucoup fait, mais j'en suis sûr...\"",
