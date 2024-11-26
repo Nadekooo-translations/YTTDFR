@@ -14521,28 +14521,33 @@
             "Voter for \\C[2]Alice\\C[0] ?"
         ],
         "573-0-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\"..........\""
+            "\"Sara.\"",
+            "\\.\"Kanna... Tu n'es pas avec Sou ?\"",
+            "\\.\"Il ne se sentait pas bien, donc il est\n parti se coucher.\"",
+            "\\.\"Et... Alice garde un œil sur lui...\"",
+            "\\.\"Alice...?\"",
+            "\\.\"Oui... Il peut être gentil, lui aussi.\"",
+            "\\.\\C[4](Je me demande... si c'est vraiment de la gentillesse.)",
+            "\\.\"D'ailleurs... Euh...\n J'ai trouvé quelque chose d'intéressant\n durant mes recherches...\"",
+            "\\.\"C'était au Couloir en Ruines...\"",
+            "\\.\\C[4](...!)",
+            "\\.\\C[4](Ce ne serait pas la salle qu'on a trouvée, si...?)",
+            "\\.\"Sara, j'aimerais que tu viennes avec moi.\"",
+            "\\.\\C[4](Que devrais-je faire...?)",
+            "\\.\"D'accord. Allons-y ensemble, Kanna.\"",
+            "\\.\"... Il y avait une salle dans les débris ?\"",
+            "\\.\"Dans les débris...? Non...\n C'est une porte dans un couloir à peine visible.\"",
+            "\\.\\C[4](Elle parle d'autre chose, on dirait.)",
+            "\\.\"Sara, s'il te plaît ! Viens avec moi !\"",
+            "\\.\\C[4](... Je ne peux pas refuser.)",
+            "\\.\"D'accord. Allons-y.\"",
+            "\\.\"Hmm...\n Pourquoi ne pas demander à Q-taro?\n Il est beaucoup plus fort...\"",
+            "\\.\"..........\"",
+            "\\.\\C[4](Ah... Elle est au bord des larmes.\n Elle a peur...?)",
+            "\\.\"... Bon, d'accord. Allons-y ensemble.\"",
+            "\\.\"Merci beaucoup !\"",
+            "\\.\"Je n'y suis pas encore allée, donc...\n Ça m'inquiétait.\"",
+            "\\.\"Je vois... Allons regarder ensemble.\""
         ],
         "324-0-message": [
             "\"Aah...!! Est-ce vraiment la fin...?!\"",
@@ -16217,11 +16222,25 @@
             "\\.Keiji Shinogi\nQuand vous jouez Keiji, la jauge d'énergie ne diminue\npas avec le temps.\nDifficulté : Moyenne",
             "\\.\"... Dacodac. Je vais t'aider.\"",
             "\\.Reko Yabusame\nQuand vous jouez Reko, ses sens aiguisés vous\npréviennent lorsqu'un fantôme va apparaître.\nDifficulté : Facile",
-            "\\.\"D-Des fantômes...?! Attends un peu, Sara !!\n J'ai pas rassemblé mon courage...!\""
+            "\\.\"D-Des fantômes...?! Attends un peu, Sara !!\n J'ai pas encore le courage...!\"",
+            "\\.Nao Egokoro\nQuand vous jouez Nao, les âmes bleues vous\ndonnent plus d'énergie.\nDifficulté : Moyenne",
+            "\\.\"Des fantômes ?!\n J'ai hâte de voir comment ils les ont faits, mais...\n Je ne devrais pas prendre tout ça à la légère...!\""
         ],
         "570-0-message": [
             "\\C[3]Ce n'est pas le moment de faire des attractions.",
-            "\\C[3]J'ai déjà fait cette attraction."
+            "\\C[3]J'ai déjà fait cette attraction.",
+            "\\C[3][Limite Mouvante]\nNombre de participants : 2\nRécompense de Médaillons du Triomphe : \\C[2]★★★\\C[3]\nDifficulté : \\C[2]Difficile\\C[3]",
+            "\\.\\C[3]Restez dans la zone de vos adversaires.\nBattez les trois poupées pour gagner.",
+            "\\.Sou Hiyori\nQuand vous jouez Sou, vous vous chargez plus rapidement\nlorsque vous êtes dans la zone.\nDifficulté : Moyenne",
+            "\\.\"Hé, Sara. Cette attraction est à 3 étoiles, non ?\n Ça me gêne de te demander, mais...\n Pourrais-tu me donner deux des Médaillons ?\"",
+            "\\.\"Merci.\n Pour la peine, je vais donner tout ce que j'ai !\"",
+            "\"Désolée, Sara.\n J'ai déjà fait cette attraction.\"",
+            "\\.Reko Yabusame\nQuand vous jouez Reko, votre concentration affûtée\nralentit la vitesse de déplacement de la zone.\nDifficulté : Facile",
+            "\\.\"Hé, Sara. Cette attraction est à 3 étoiles...\n Si je te donne \\C[2]30 de mes jetons\\C[0], tu veux\n bien m'en laisser deux ?\"",
+            "\\.\"Faut juste rester dans la zone, c'est ça ?\n Faut savoir bouger et rester immobile...\n Je vais te montrer que je suis bonne aux deux.\"",
+            "\\.Alice Yabusame\nQuand vous jouez Alice, vous avez un cœur en plus.\n\nDifficulté : Moyenne",
+            "\\.\"Sara Chidouin, cette attraction est à 3 étoiles.\n Bien évidemment, j'en prendrai 2.\n Cela ne te gêne pas, j'espère ?\"",
+            "\\.\"Hmph...\n Il suffit que je reste dans la \"zone\", correct ?\n Ce n'est qu'un jeu d'enfant pour un prisonnier modèle\n comme moi...!\""
         ],
         "506-0-message": [
             "\\C[3]Annuler l'échange ?"
@@ -16413,13 +16432,17 @@
         ],
         "569-0-choice": [
             "Sélectionner un partenaire\nAnnuler",
-            null,
+            "Keiji\nReko\nNao\nAnnuler",
             "S'associer à Keiji\nChanger de personnage",
             "S'associer à Reko\nChanger de personnage",
             "S'associer à Nao\nChanger de personnage"
         ],
         "570-0-choice": [
-            "Sélectionner un partenaire\nAnnuler"
+            "Sélectionner un partenaire\nAnnuler",
+            "Sou\nReko\nAlice\nAnnuler",
+            "S'associer à Sou (Accepter)\nChanger de personnage",
+            "S'associer à Reko (Accepter)\nChanger de personnage",
+            "S'associer à Alice (Accepter)\nChanger de personnage"
         ],
         "404-0-message": [
             null,
@@ -17081,6 +17104,9 @@
             "\\.\"Viens au Couloir en Ruines, OK ?!\"",
             "\\.\"Et m'fais pas attendre !\"",
             "\\.\"Mais qu'est-ce qu'il a...?\""
+        ],
+        "573-0-choice": [
+            "Allons-y ensemble\nDemander pour l'ordinateur\nSuggérer quelqu'un d'autre"
         ]
     },
     "map107": {
@@ -19346,16 +19372,40 @@
         ],
         "13-8-message": [
             null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\"..........\""
+            "\\.\"Kanna... Tu n'es pas avec Sou ?\"",
+            "\\.\"Il ne se sentait pas bien, donc il est\n parti se coucher.\"",
+            "\\.\"Et... Alice garde un œil sur lui...\"",
+            "\\.\"Alice...?\"",
+            "\\.\"Oui... Il peut être gentil, lui aussi.\"",
+            "\\.\\C[4](Je me demande... si c'est vraiment de la gentillesse.)",
+            "\\.\"Kanna... Tu ne devrais pas faire confiance\n aux autres si facilement.\"",
+            "\\.\"P-Pardon...\"",
+            "\\.\"Mais Kanna... ne peut juste pas croire\n qu'Alice soit méchant...\"",
+            "\\.\"..........\"",
+            "\\.\"Dans ce cas, ne t'excuse pas.\n Tu y as réfléchi, et tu as choisi de te\n reposer sur lui pour ça.\"",
+            "\\.\"D-D'accord !\"",
+            "\\.\"C'est bien. Ça doit être fatigant de le surveiller.\"",
+            "\\.\"Oui... Je suis un tout petit peu fatiguée.\"",
+            "\\.\"Bon. Ça te dit de nous reposer ensemble ?\"",
+            "\\.\"Ooh, hum... J'aimerais bien... Mais...\"",
+            "\\.\"Euh... Sara.\n J'ai trouvé quelque chose de curieux\n durant mes recherches.\"",
+            "\\.\"C'était au Couloir en Ruines...\"",
+            "\\.\\C[4](...!)",
+            "\\.\\C[4](Ce ne serait pas la salle qu'on a trouvée, si...?)",
+            "\\.\"Sara, j'aimerais que tu viennes avec moi.\"",
+            "\\.\\C[4](Que devrais-je faire...?)",
+            "\\.\"D'accord. Allons-y ensemble, Kanna.\"",
+            "\\.\"... Il y avait une salle dans les débris ?\"",
+            "\\.\"Dans les débris...?\\! Non...\n C'est une porte dans un couloir à peine visible.\"",
+            "\\.\\C[4](Elle parle d'autre chose, on dirait.)",
+            "\\.\"Sara, s'il te plaît ! Viens avec moi !\"",
+            "\\.\\C[4](... Je ne peux pas refuser.)",
+            "\\.\"D'accord. Allons-y.\"",
+            "\\.\"Hmm...\n Pourquoi ne pas demander à Q-taro?\n Il est beaucoup plus fort...\"",
+            "\\.\"..........\"",
+            "\\.\\C[4](Ah... Elle est au bord des larmes.\n Elle a peur...?)",
+            "\\.\"... Bon, d'accord. Allons-y ensemble.\"",
+            "\\.\"Merci beaucoup !\""
         ],
         "24-2-message": [
             null,
@@ -19384,6 +19434,24 @@
             null,
             null,
             "\\.\"Hein...?\""
+        ],
+        "13-8-choice": [
+            "Tu fais trop confiance aux autres\nC'est bien",
+            "Allons-y ensemble\nDemander pour l'ordinateur\nSuggérer quelqu'un d'autre"
+        ],
+        "14-1-message": [
+            "\\.\"... L'exploration passe en priorité.\n On pourrait tomber sur d'autres trucs\n que des attractions...\""
+        ],
+        "14-3-message": [
+            "\\.\"Sara, je peux t'emprunter une minute ?\"",
+            "\\.\"Q-Qu'est-ce qu'il y a ?\"",
+            "\\.\"J'ai trouvé un endroit bizarre.\n Je voulais te le montrer avant de prévenir les autres.\"",
+            "\\.\"Un endroit bizarre...?\"",
+            "\\.\"Allez, suis-moi.\"",
+            "\\.\"Où sommes-nous...?\"",
+            "\\.\"Pas vrai ? Bizarre comme endroit, hein ?\"",
+            "\\.\"Le plus louche, ce sont ces escaliers.\n Y a un distributeur en haut.\"",
+            "\\.\\C[4](Un distributeur...?)"
         ]
     },
     "map76": {
