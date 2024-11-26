@@ -15715,14 +15715,32 @@
             "Une longue corde blanche.\n... Je ne sais pas pourquoi elle s'appelle comme ça."
         ],
         "638-0-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\C[10]Niveau d'Hallucination empiré de 20."
+            "\"Hé... Ça va, miaou...?\"",
+            "\"Ah...! Grande sœur Sara !\n T'es réveillée, ouaf ?\"",
+            "\\.\"Tu faisais un cauchemar, miaou.\n Tu te sens bien, ouaf...?\"",
+            "\\.\"... Urgh...\"",
+            "\\.\\C[3]J'ai dû m'endormir sur la table du hall\nà un moment donné.",
+            "\\.\"J-Je vais t'amener de l'eau, miaou !\n Tu devrais boire, ouaf !\"",
+            "\\.\"...\"",
+            "\\C[10]Niveau d'Hallucination empiré de 20.",
+            "\\.\"Grande sœur Sara, je t'ai amenée de l'eau, miaou !\"",
+            "\\.\"... M-Merci, Gin...\"",
+            "\\.\\C[3]Le fait de boire de l'eau m'a un peu calmée.",
+            "\\.\"... Merci. J'ai dû faire un cauchemar...\"",
+            "\\.\"O-Ouais...\"",
+            "\\.\\C[4](Gin est inquiet de m'avoir vue comme ça...\n Il faut que je lui sourie...)",
+            "\\.\"... T'as pas besoin de te forcer à sourire, miaou.\"",
+            "\\.\"Gin...\"",
+            "\\.\\C[3]Une patte moelleuse se pose sur ma main.",
+            "\\.\"Tu feras pas de cauchemar si on est ensemble, ouaf.\n Détends-toi et t'inquiète pas, miaou.\"",
+            "\\.\"Mais Gin, et les attractions...?\"",
+            "\\.\"C'est à force de t'inquiéter pour les autres\n comme ça que t'es autant fatiguée, miaou !\"",
+            "\\.\"Grande sœur Sara !\n Fais-nous confiance et repose-toi, miaou !\"",
+            "\\.\\C[4](Leur faire... confiance ?)",
+            "\\.\"Tu as raison, Gin...\"",
+            "\\.\\C[3]En nous tenant la main en guise de présence\nréconfortante, nous nous sommes reposés.",
+            "\\C[4](C'est notre dernière chance d'obtenir des Médaillons\n du Triomphe avant la fin du Jeu Secondaire...!)",
+            "\\.\\C[4](Je ne peux pas rester les bras croisés !\n Il faut finir les attractions !)"
         ],
         "428-0-message": [
             "\\C[3]Victoire."
@@ -17107,6 +17125,43 @@
         ],
         "573-0-choice": [
             "Allons-y ensemble\nDemander pour l'ordinateur\nSuggérer quelqu'un d'autre"
+        ],
+        "594-0-message": [
+            "\\C[4](C'est notre dernière chance d'obtenir des Médaillons\n du Triomphe avant la fin du Jeu Secondaire...!)",
+            "\\.\\C[4](Je ne peux pas rester les bras croisés !\n Il faut finir les attractions !)"
+        ],
+        "596-0-message": [
+            "Des notes listant les participants de la Démocratie\nMortelle. Il n'y a que 16 noms dessus."
+        ],
+        "596-0-choice": [
+            "Examiner\nAnnuler"
+        ],
+        "635-0-message": [
+            "\"..........\"",
+            "\"..........\""
+        ],
+        "635-0-choice": [
+            "Discuter\nTranspercer son corps\nAnnuler"
+        ],
+        "636-0-message": [
+            "\"..........\"",
+            "\"..........\""
+        ],
+        "637-0-message": [
+            "\"..........\"",
+            "\"..........\""
+        ],
+        "637-0-choice": [
+            "Discuter\nBrûler sa tête\nAnnuler"
+        ],
+        "1404-0-choice": [
+            "Examiner\nAnnuler"
+        ],
+        "636-0-choice": [
+            "Discuter\nTailler ses veines\nAnnuler"
+        ],
+        "597-0-message": [
+            "Un jeton de Reko qu'elle a oublié dans le distributeur.\nSon visage est gravé dessus."
         ]
     },
     "map107": {
@@ -19419,21 +19474,24 @@
             "Partons à sa recherche\nPartons la battre\nExplorons les alentours"
         ],
         "14-5-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\"Hein...?\""
+            "\\.\"... J'ai rien d'autre à ajouter.\"",
+            "\\.\"Dacodac. Je te fais confiance.\"",
+            "\\.\"Oh, Sara. T'as besoin de moi ?\"",
+            "\\.\"Euh...\"",
+            "\\.\"... Mhm. Tant pis.\"",
+            "\\.\"Nan, rien de rien.\"",
+            "\\.\"Ça me pose une sacrée colle.\n Q-taro a pas l'air de savoir quoique ce\n soit non plus...\"",
+            "\\.\"Ouaip. Mais elle vient de me rejeter.\"",
+            "\\.\"Arrête tes conneries !\n Il faisait que m'interroger !\"",
+            "\\.\"Ooh, tu fais peur.\n Tu serais une bonne détective, Reko.\"",
+            "\\.\"Si t'as finis de me causer, casse-toi, Keiji !!\"",
+            "\\.\"Je continue d'enquêter.\n À la prochaine.\"",
+            "\\.\"Fiou... Il est parti.\"",
+            "\\.\"Sara, j'ai besoin de toi.\n Tu peux venir avec moi une minute ?\"",
+            "\\.\"Hein...?\"",
+            "\\.\"J'ai trouvé quelque chose de bizarre ici.\"",
+            "\\.\"Quelque chose de bizarre...?\"",
+            "\\.\"C'est difficile à distinguer dans ce noir, mais...\n Regarde ce mur.\""
         ],
         "13-8-choice": [
             "Tu fais trop confiance aux autres\nC'est bien",
@@ -19452,6 +19510,9 @@
             "\\.\"Pas vrai ? Bizarre comme endroit, hein ?\"",
             "\\.\"Le plus louche, ce sont ces escaliers.\n Y a un distributeur en haut.\"",
             "\\.\\C[4](Un distributeur...?)"
+        ],
+        "14-5-choice": [
+            "Rien\nTu as appris quelque chose ?\nTu la dragues ?"
         ]
     },
     "map76": {
@@ -24213,6 +24274,15 @@
             null,
             null,
             "\\.\"...\""
+        ],
+        "96-2-choice": [
+            "Examiner\nAnnuler"
+        ],
+        "96-1-choice": [
+            "Examiner\nAnnuler"
+        ],
+        "107-1-choice": [
+            "Examiner\nAnnuler"
         ]
     },
     "map201": {
@@ -27022,6 +27092,9 @@
         ],
         "7-1-message": [
             "\\C[3]Les livres verts de la bibliothèque.\nIls parlent de la poupée la plus forte, Maple."
+        ],
+        "5-2-choice": [
+            "Examiner\nAnnuler"
         ]
     },
     "map52": {
