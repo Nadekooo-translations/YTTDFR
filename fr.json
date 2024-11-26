@@ -7955,7 +7955,7 @@
             "\\.\\C[4](Mince...! C'était une erreur !)",
             "\"Une remarque futile...\n En quoi cela prouve-t-il quoi que ce soit ?\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
-            null,
+            "\"Voici le dialogue en utilisant Extraire sur\n une nouvelle déclaration.\"",
             "\"Tu souhaites extraire une nouvelle déclaration,\n n'est-ce pas ?\"",
             "\\.\"Quand cette ligne sera finie, ça le feraaaa\"",
             "\\.\\C[4](J'ai extrait une nouvelle déclaration...!)"
@@ -8377,7 +8377,7 @@
             "\\.\\C[4](Mince...! C'était une erreur !)",
             "\"Une remarque futile...\n En quoi cela prouve-t-il quoi que ce soit ?\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
-            null,
+            "\"Voici le dialogue en utilisant Extraire sur\n une nouvelle déclaration.\"",
             "\"Tu souhaites extraire une nouvelle déclaration,\n n'est-ce pas ?\"",
             "\\.\"Quand cette ligne sera finie, ça le feraaaa\"",
             "\\.\\C[4](J'ai extrait une nouvelle déclaration...!)"
@@ -16563,14 +16563,17 @@
             "\\.\"Dacodac. Allez, Sara.\n C'est l'heure pour moi d'accomplir mon devoir.\""
         ],
         "464-0-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\"Argh...!! Tout ça pour ça...?!\""
+            "\"A-Au... secours...\"",
+            "\\.\"Sou...!!\"",
+            "\"Non... Pas comme... ça...!\"",
+            "\\.\"Reko ! Tiens bon...!!\"",
+            "\"Vous foutez pas de moi...!\n Je vais vraiment... crever comme ça...?!\"",
+            "\\.\"A-Alice...! Aaah... aah...\"",
+            "\\.\"N-Non ! Ne me mangez pas...!!\"",
+            "\"Argh...!! Tout ça pour ça...?!\"",
+            "\\.\"Tu peux compter sur moi, Sara.\"",
+            "\\.\"Allez, on échange...\n Fais une pause, Sara.\"",
+            "\\.\"Hmph... Vous feriez mieux d'abandonner.\n Je suis tout à fait capable de rester au même\n endroit aussi longtemps que nécessaire...!\""
         ],
         "312-0-message": [
             "\"...Hein ? Où vas-tu...?\"",
@@ -17205,6 +17208,9 @@
             "\"Q-Qu'est-ce qu'il se passe...?\"",
             "\"Merde...! Y s'passe quoi...?!\"",
             "\"Qu'est-ce qu'il se passe, ouaf ?! J'ai peur, miaou !\""
+        ],
+        "469-0-message": [
+            "\\C[2]Du temps s'est écoulé."
         ]
     },
     "map107": {
