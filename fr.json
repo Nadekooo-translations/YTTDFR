@@ -17386,7 +17386,7 @@
             null,
             null,
             null,
-            null,
+            "\\.\"Miaou...\"",
             null,
             "\\.\"Grande sœur Sara...\"",
             null,
@@ -17555,6 +17555,109 @@
             null,
             null,
             "\\.\"Grande sœur Sara...\""
+        ],
+        "380-0-message": [
+            "\\.\"B-Bon... Dans ce cas...\"",
+            "\\.\"Hum... Mrblm...Mrblm...\"",
+            "\\.\"Qu'est-ce que tu as ?\"",
+            "\\.\"\\}Je veux que tu me berces-\\{\n E-Euh, que tu me caresses, miaou !\"",
+            "\\.\"Hmm... Gin...\"",
+            "\\.\"Hihi... Tu es garçon sacrément gâté, toi.\"",
+            "\\.\"Je suis pas si gâté que ça, miaou !\n Je veux juste qu'on me caresse, ouaf !\"",
+            "\\.\\C[3]Je caresse gentiment la tête Gin.",
+            "\\.\"Miaou...\"",
+            "\\.\"Haha... J'ai compris !\n Tu veux que je te berce !\"",
+            "\\.\"M-Miaou ?! J'ai jamais dit ça, miaou !!\"",
+            "\\.\"Oh hisse...! Ouh...\n Tu es plus lourd que tu en as l'air...\n Tant pis.\"",
+            "\\.\\C[3]Puisque je n'ai pas réussi à le porter, je me suis\ncontentée de lui faire un câlin.",
+            "\\.\"Miaou...\"",
+            "\\.\"Hihi... Prends ça !\"",
+            "\\.\"Ron... Ron... Ron...\"",
+            "\\.\"Je suis pas un chat, miaou !!\"",
+            "\\.\"Ahahah... Désolée, Gin.\"",
+            "\\.\\C[3]Je caresse gentiment la tête Gin.",
+            "\\.\"Miaou...\"",
+            "\\.\\C[3]Son expression se relâcha et il ferma les yeux.",
+            "\\.\\C[3]Mais ce n'est pas tout.",
+            "\\.\\C[3]Je n'en suis pas sûre à cause de son masque, mais...\nJ'ai entendu de légers reniflements.",
+            "\\.\\C[3]Tout ça a dû être effrayant pour Gin.\nCe n'est qu'un collégien.",
+            "\\.\\C[3]Il a tout enduré. La mort des autres.\nLa malveillance répugnante qu'on nous a fait subir.",
+            "\\.\\C[3]Il n'est pas gâté du tout.",
+            "\\.\\C[3]Encore maintenant, il ne nous montre pas son visage\npour qu'on ne puisse pas voir ses larmes.",
+            "\\.\\C[3]Je décide d'oublier ce que j'ai remarqué.\n... Pour respecter sa volonté."
+        ],
+        "380-0-choice": [
+            "Lui caresser la tête\nLe bercer\nLui caresser la gorge"
+        ],
+        "381-0-message": [
+            "\\.\\C[4](Bon... On a trouvé toutes les attractions.)",
+            "\\.\\C[4](Ça devrait bientôt être l'heure de continuer\n à les terminer...)"
+        ],
+        "603-0-message": [
+            "\\C[10]\\sp[15]\\}clic-clic-clic-clic-clic-clic-clic-clic-clic-clic-clic-clic-clic-clic-clic-clic-clic-clic-clic\\.\\^",
+            "\\.\"Urgh...!!\"",
+            "\\.\\C[4](C'était quoi, ça...?)",
+            "\\.\\C[4](Respire... Du calme...)"
+        ],
+        "604-0-message": [
+            "\\.\"Urghh...!!\"",
+            "\\.\\C[4](Quoi...?! Qu'est-ce qu'il m'est arrivé, d'un coup...?!)",
+            "\\.\\C[4](C'était une hallucination... Faut que je l'ignore...)"
+        ],
+        "605-0-message": [
+            "\\C[10]Sara...",
+            "\\.\\C[10]Pourquoi...?",
+            "\\.\\C[10]Pourquoi tu m'as pas sauvé, Sara...?",
+            "\\.\\C[10]..........",
+            "\\.\"Urghhh...!!\"",
+            "\\.\\C[4](J'en... ai... assez...)"
+        ],
+        "606-0-message": [
+            "\\C[10]\"Hé, Sara.\"",
+            "\\C[10]\"Comment ça va ?\"",
+            "\\.\"...\"",
+            "\\C[10]\"Hm... Cool pour toi.\"",
+            "\\.\\C[10]\"Moi, je pourrais pas aller moins bien, Sara.\"",
+            "\\C[10]\"Hm...? Comment ça se fait ?\n C'est pas génial d'être en vie ?\"",
+            "\\.\\C[10]\"Moi, je pourrais pas aller moins bien, Sara.\"",
+            "\\.\\C[10]\"Hé. C'est quand que tu me rejoins ?\"",
+            "\\C[10]\"Quoi...? Tu veux encore vivre ?\"",
+            "\\.\\C[10]\"Tu vas continuer à massacrer les autres juste\n pour te garder en vie, pas vrai ?\"",
+            "\\.\\C[10]\"Hahaha... T'es vraiment la pire.\"",
+            "\\C[10]\"Ohh, vraiment ? Dépêche.\"",
+            "\\.\\C[10]\"J'ai hâte.\n Tu veux te faire torturer comment en enfer, Sara ?\"",
+            "\\.\\C[10]\"Hahaha...\"",
+            "\\.\\C[10]\"Grouille-toi de crever, Sara.\n Ça facilitera la vie des autres.\"",
+            "\\.\\C[10]\"Tu pourrais pas leur rendre meilleur service.\"",
+            "\\.\\C[10]\"Hahaha...\"",
+            "\\.\"..........\"",
+            "\\.\\C[10](Désolée, Joe. Patiente encore un peu...)"
+        ],
+        "606-0-choice": [
+            "\\C[10]Bien\n\\C[10]Mal",
+            "\\C[10]Pas encore\n\\C[10]Bientôt"
+        ],
+        "607-0-message": [
+            "\\C[3]Les ténèbres s'étendent devant moi.",
+            "\\C[3]Elles sont teintées rouge sang.",
+            "\"C'est... moi...?\"",
+            "\"Joe...!\"",
+            "\\.\"Encore... Encore... Ce moment...!!\"",
+            "\\.\"Épargnez-moi...! Au moins dans mes rêves...\n Par pitié... Sauvez Joe...!!\"",
+            "\"Qu'est-ce que... tu fais...?\"",
+            "\\.\"Non...! Arrête ! C'est...!!\"",
+            "\\.\\{\"Arrête...!!\"",
+            "\\.\"Aaaaah... Aaahhh...\"",
+            "\\.\\C[10]Alors, Sara ? C'est ma douleur.",
+            "\\.\"C'est faux... Car... Je n'ai...!\"",
+            "\\.\\C[10]En quoi j'ai tort ? Tu m'as tué.",
+            "\\.\"J'ai tué Joe...\"",
+            "\\.\"J'ai... tué...\"",
+            "\\{\\sp[20]\\C[10]OUAAAAAAAAAAAAAAAAAAAAAAAAHHH...!!!!\\|\\^",
+            "\\sp[10]\"Grande sœur... Sara...\"",
+            "\\sp[7]\"Ahahahahaha... Hahaha...\"",
+            "\"... Trop tard...\"",
+            "\\.\"Sara... Elle est...\""
         ]
     },
     "map107": {
