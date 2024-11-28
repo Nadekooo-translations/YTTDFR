@@ -19796,12 +19796,32 @@
             null,
             null,
             null,
-            null,
-            null,
-            "\\.\"..........\""
+            "\\.\"Mais... au final, l'organisation est tombée après\n quand même.\"",
+            "\\.\"La justice finit toujours par triompher.\n ... Comme quoi, la police fait son boulot\n parfois, hein ?\"",
+            "\\.\"..........\"",
+            "\\.\"..........\"",
+            "\\.\"C'est improbable, je pense.\n ... Vu que l'organisation s'est faite démanteler.\"",
+            "\\.\"Et de toute façon, Sara...\n T'as pas de connexion au monde criminel, hein ?\"",
+            "\\.\"T-Tu n'oserais pas...!\"",
+            "\\.\"Bien sûr que non, pas vrai ?\"",
+            "\\.\"... C'est pour ça qu'il faut pas toujours\n essayer de tout relier, Sara.\"",
+            "\\.\"..........\"",
+            "\\.\"Parce qu'on m'a pas demandé.\n Et je me disait que ça pouvait pas être lié.\"",
+            "\\.\\C[4](L'a-t'il caché parce que ça l'arrangeait ?\n Ou alors pour ne pas nous perturber...?)",
+            "\\.\\C[4](Je dois vraiment insister avec gars, sinon\n il va continuer à esquiver mes question...)",
+            "\\.\"C'est bien, bon travail.\"",
+            "\\.\"T'inquiète.\n\\! ... Me traite pas comme un chien.\"",
+            "\\.\"Pas de friandises pour toi, alors.\"",
+            "\\.\"... Si on arrive à sortir d'ici en vie, j'en\n prendrais bien.\"",
+            "\\.\"Bon, allez. On ferait mieux de reprendre.\"",
+            "\\.\"Ray a dit que les attractions restantes se sont\n ouvertes aux alentours.\"",
+            "\\.\"Vraiment...?\"",
+            "\\.\"On ferait mieux d'aller regarder, tu penses pas ?\"",
+            "\\.\"Préviens-moi si je peux t'aider pour quoi que ce soit.\n Le policer... sera ton coéquipier, Sara.\"",
+            "\\.\\C[4](Les attractions... Je devrais aller en chercher.)"
         ],
         "13-6-message": [
-            null,
+            "\\.\"On peut plus parler au vieux, ouaf...?\"",
             "\\.\"...\""
         ],
         "24-1-message": [
@@ -19922,7 +19942,7 @@
             "\\.\"...\""
         ],
         "13-8-message": [
-            null,
+            "\"Sara.\"",
             "\\.\"Kanna... Tu n'es pas avec Sou ?\"",
             "\\.\"Il ne se sentait pas bien, donc il est\n parti se coucher.\"",
             "\\.\"Et... Alice garde un œil sur lui...\"",
@@ -20013,7 +20033,14 @@
         "13-1-choice": [
             "Tu penses qu'il était bienveillant ?\nTu penses qu'il était malveillant ?",
             "C'est inconcevable\nC'est possible",
-            "Y a-t-il déjà eu des affaires similaires ?\nQuelle organisation aurait pu faire ça ?"
+            "Y a-t-il déjà eu des affaires similaires ?\nQuelle organisation aurait pu faire ça ?",
+            "Est-ce probable que ce soit lié ?\nPourquoi tu n'en as pas parlé plus tôt\nC'est bien"
+        ],
+        "13-2-message": [
+            "\\.\"Tu peux toujours compter sur Monsieur le Policier.\""
+        ],
+        "14-8-message": [
+            "\\.\"..........\""
         ]
     },
     "map76": {
