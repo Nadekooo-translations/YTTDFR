@@ -194,6 +194,13 @@ const saveAllAsZip = async () => {
 	background-color: $brown;
 	border: solid 1px $gold;
 	align-items: center;
+	user-select: none;
+	transition: box-shadow 0.3s;
+	
+	&:hover {
+		box-shadow: 0px 0px 26px 12px black;
+		z-index: 1;
+	}
 
 	.grow {
 		flex-grow: 1;
