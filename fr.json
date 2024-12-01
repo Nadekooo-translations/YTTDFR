@@ -2427,7 +2427,7 @@
         ],
         "1-1-message": [
             "\"On dirait qu'ici c'est... une cafétéria.\"",
-            "\\.\"Je me demande si nos kidnappeurs nous\n disent de manger ici.\"",
+            "\\.\"Je me demande si nos kidnappeurs comptent\n nous faire prendre nos repas ici.\"",
             "\\.\"...\""
         ],
         "2-1-message": [
@@ -3018,7 +3018,7 @@
             "\\.\"Il sera en sécurité, le Concurrent, ou pas ?\"",
             "\\.\\sw[99]\"Ouaip ! Seules les cibles pourront vivre ce frisson !\n Quel dommage !\"\\sw[100]",
             "\\.\"... Je vois.\"",
-            "\\.\"Sara, j'peux te demander d'être le Concurrent ?\"",
+            "\\.\"Sara, tu veux bien être le Concurrent ?\"",
             "\\.\"... Quoi ?!\"",
             "\\.\"C-C'une blague !\n T'peux pas décider d'ça tout seul, gamin !\"",
             "\\.\"J'assertis qu'il n'est pas très approprié de demander\n à une jeune fille de manier une arme...\"",
@@ -10555,7 +10555,7 @@
             "\\.\"Mais ! J'ai pas dit mon dernier mot.\"",
             "\\.\"Je t'écoute...\"",
             "\\.\"Keiji ! Pourquoi on t'prend pas juste toi ?!\"",
-            "\\.\"J'suis sûr que t'as déjà vécu c'genre de situation\n au taff' !\"",
+            "\\.\"J'suis sûr que t'as déjà été dans c'genre de\n situations au taf !\"",
             "\\.\"...\"",
             "\\.\"I-Il a pas tord...\"",
             "\\.\"En effet, c'est justement ce que je me demandais.\"",
@@ -18888,7 +18888,7 @@
             "\"Bon, discutons d'qui devrait être\n le Concurrent.\"",
             "\\.\"Lorsque nous aurons tous fait nos choix,\n nous pourrons voter.\"",
             "\\.\"Sara...\"",
-            "\\.\"Tu sais ce qu'il te reste à faire !\n Montre à Q-taro que t'es de confiance !\"",
+            "\\.\"Tu sais ce qu'il te reste à faire !\n Montre à Q-taro que t'es digne de confiance !\"",
             "\\.\"...\""
         ],
         "3-9-message": [
@@ -19708,7 +19708,7 @@
             "\\.\"Keiji...\"",
             "\\.\"Je suis persuadé que Q-taro compte trouver\n la vérité sur Kai.\"",
             "\\.\"Sur Kai...?\"",
-            "\\.\"Quel type énigmatique...\n C'est mystère sur mystère avec lui.\"",
+            "\\.\"Quel type énigmatique...\n Avec lui, c'est mystère après mystère.\"",
             "\\.\"...\"",
             "\\.\"Je me demande si Kai était de notre côté, au final...\"",
             "\\.\"... Certains aspects de lui le suggéraient.\n Sa colère pour les victimes, sa rébellion\n contre les kidnappeurs...\"",
@@ -19768,7 +19768,7 @@
             "\\.\"Bahaha... T'as vraiment pas l'air d'être d'accord.\"",
             "\\.\"Je suis vraiment pas fait pour m'imaginer des\n scénarios... Je suis pas tellement un intello.\"",
             "\"Je n'ai aucune preuve concrète... Mais...!!\"",
-            "\\.\"T'as pas l'air d'être sûre de toi.\"",
+            "\\.\"T'as pas l'air sûre de toi.\"",
             "\\.\"C'est juste que certaines choses ne collent pas...\"",
             "\\.\"Bon, dans tous les cas...\n Tout ça, c'est juste ce que j'espère.\"",
             "\\.\"Ça serait pour le moins... Intéressant...\n Que Rillante ait quelque chose à voir dans tout ça.\n Bahaha...\"",
@@ -28785,7 +28785,7 @@
             "\"Urrrgh, je n'aime pas ça...\n Je n'aime pas les insectes...\"",
             "\"Des araignées !! Nooooon...!!\"",
             "\"Ourgh... J'ai la chair de poule...!\"",
-            "\"Ce sont même plus vraiment des insectes...\"",
+            "\"Ce ne sont même plus vraiment des insectes...\"",
             "\"Ce ne sont plus des insectes...\n Ils font beaucoup moins peur, maintenant !\""
         ],
         "8-2-message": [
