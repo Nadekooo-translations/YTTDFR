@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { computed, reactive, watch } from 'vue';
 import { buildIndexEntry, deleteSaveData, getRawSave, isValidSaveFile, readSaveIndex, writeSaveData, writeSaveIndex } from './SaveUtils';
+import JSZip from 'jszip';
 
 const modal = reactive<{text: null | string}>({ text: null });
 const index = reactive(readSaveIndex());
@@ -19,6 +20,16 @@ const nextFreeSlot = computed(() => {
 	return null;
 });
 
+const saveAs = (data: Blob, filename: string) => {
+	const url = URL.createObjectURL(data);
+	const anchor = document.createElement("a");
+	anchor.href = url;
+	anchor.download = filename;
+	document.body.appendChild(anchor);
+	anchor.click();
+	document.body.removeChild(anchor);
+};
+
 const downloadSave = (idx: number) => {
 	const str = getRawSave(idx);
 
@@ -29,13 +40,7 @@ const downloadSave = (idx: number) => {
 	const buf = new Blob([str], {
 		type: "application/octet-stream",
 	});
-	const url = URL.createObjectURL(buf);
-	const anchor = document.createElement("a");
-	anchor.href = url;
-	anchor.download = `file${idx}.rpgsave`;
-	document.body.appendChild(anchor);
-	anchor.click();
-	document.body.removeChild(anchor);
+	saveAs(buf, `file${idx}.rpgsave`);
 };
 
 const deleteSave = (idx: number) => {
@@ -71,6 +76,22 @@ const uploadSave = () => {
 
 	input.click();
 };
+
+const saveAllAsZip = async () => {
+	const zip = new JSZip();
+
+	for (let i = 1; i <= 102; i++) {
+		if (index[i] === null) {
+			continue;
+		}
+
+		const data = getRawSave(i) as string;
+		zip.file(`file${i}.rpgsave`, data, {binary: true, dir: false});
+	}
+
+	const zipBlob = await zip.generateAsync({comment: "Généré par https://yttd.fr/sauvegardes/", type: "blob"});
+	saveAs(zipBlob, `Sauvegardes YTTD ${new Date().toLocaleString()}`);
+};
 </script>
 
 <template>
@@ -83,8 +104,12 @@ const uploadSave = () => {
 	<h1>
 		Sauvegardes
 
-		<button class="upload" :disabled="!nextFreeSlot" @click="uploadSave()">
+		<button class="upload" :disabled="!nextFreeSlot" @click="uploadSave()" title="Envoyer une sauvegarde">
 			<i class="ph-duotone ph-tray-arrow-up"></i>
+		</button>
+
+		<button class="download" @click="saveAllAsZip()" title="Tout télécharger">
+			<i class="ph-duotone ph-box-arrow-down"></i>
 		</button>
 	</h1>
 	<div v-if="index.length === 0">
@@ -102,10 +127,10 @@ const uploadSave = () => {
 				<span class="timestamp">
 					<i class="ph ph-clock"></i> {{ new Date(save.timestamp).toLocaleString() }}
 				</span>
-				<button class="download" @click="downloadSave(key)">
+				<button class="download" @click="downloadSave(key)" title="Télécharger">
 					<i class="ph-duotone ph-box-arrow-down"></i>
 				</button>
-				<button class="delete" @click="deleteSave(key)">
+				<button class="delete" @click="deleteSave(key)" title="Supprimer">
 					<i class="ph-duotone ph-trash"></i>
 				</button>
 			</div>
