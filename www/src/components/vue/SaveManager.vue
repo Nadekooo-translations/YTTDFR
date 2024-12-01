@@ -3,7 +3,7 @@ import { computed, reactive, watch } from 'vue';
 import { buildIndexEntry, deleteSaveData, getRawSave, isValidSaveFile, readSaveIndex, writeSaveData, writeSaveIndex } from './SaveUtils';
 import JSZip from 'jszip';
 
-const modal = reactive<{text: null | string}>({ text: null });
+const modal = reactive<{ text: null | string }>({ text: null });
 const index = reactive(readSaveIndex());
 
 watch(index, (newValue) => {
@@ -86,10 +86,10 @@ const saveAllAsZip = async () => {
 		}
 
 		const data = getRawSave(i) as string;
-		zip.file(`file${i}.rpgsave`, data, {binary: true, dir: false});
+		zip.file(`file${i}.rpgsave`, data, { binary: true, dir: false });
 	}
 
-	const zipBlob = await zip.generateAsync({comment: "Généré par https://yttd.fr/sauvegardes/", type: "blob"});
+	const zipBlob = await zip.generateAsync({ comment: "Généré par https://yttd.fr/sauvegardes/", type: "blob" });
 	saveAs(zipBlob, `Sauvegardes YTTD ${new Date().toLocaleString()}`);
 };
 </script>
@@ -97,25 +97,26 @@ const saveAllAsZip = async () => {
 <template>
 	<div class="modal" v-if="modal.text" @click="modal.text = null">
 		<div class="modal-content">
-			<i class="ph-duotone ph-warning modal-icon"></i><br/>
+			<i class="ph-duotone ph-warning modal-icon"></i><br />
 			{{ modal.text }}
 		</div>
 	</div>
 	<h1>
 		Sauvegardes
-
-		<button class="upload" :disabled="!nextFreeSlot" @click="uploadSave()" title="Envoyer une sauvegarde">
-			<i class="ph-duotone ph-tray-arrow-up"></i>
-		</button>
-
-		<button class="download" @click="saveAllAsZip()" title="Tout télécharger">
-			<i class="ph-duotone ph-box-arrow-down"></i>
-		</button>
 	</h1>
 	<div v-if="index.length === 0">
 		Aucune sauvegarde présente
 	</div>
 	<div v-else>
+		<div class="toolbar">
+			<button class="upload" :disabled="!nextFreeSlot" @click="uploadSave()" title="Envoyer une sauvegarde">
+				<i class="ph-duotone ph-upload"></i>
+			</button>
+
+			<button class="download" @click="saveAllAsZip()" title="Tout télécharger">
+				<i class="ph-duotone ph-box-arrow-down"></i>
+			</button>
+		</div>
 		<template v-for="(save, key) in index">
 			<div v-if="save" class="row">
 				<span class="number">{{ key }}</span>
@@ -161,8 +162,8 @@ const saveAllAsZip = async () => {
 	.modal-content {
 		background-color: $brown;
 		border: solid 1px $gold;
-  		padding: 2em;
-  		width: 20ch;
+		padding: 2em;
+		width: 20ch;
 		animation-name: dialog;
 		animation-duration: 0.1s;
 		animation-timing-function: linear;
@@ -232,6 +233,13 @@ const saveAllAsZip = async () => {
 	}
 }
 
+.toolbar {
+	display: flex;
+	justify-content: space-evenly;
+	align-items: baseline;
+	margin-bottom: 2em;
+}
+
 button {
 	border: 0;
 	background: 0;
@@ -246,7 +254,6 @@ button {
 
 	&.upload {
 		color: $gold;
-		margin-bottom: 2em;
 
 		&[disabled] {
 			color: $lightGray;
