@@ -199,7 +199,6 @@ const saveAllAsZip = async () => {
 	
 	&:hover {
 		box-shadow: 0px 0px 26px 12px black;
-		z-index: 1;
 	}
 
 	.grow {
