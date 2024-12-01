@@ -200,6 +200,7 @@ const saveAllAsZip = async () => {
 
 	.number {
 		width: 3ch;
+		font-weight: bold;
 	}
 
 	.playtime {
