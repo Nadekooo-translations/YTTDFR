@@ -19712,7 +19712,7 @@
             "\\.\"...\"",
             "\\.\"Je me demande si Kai était de notre côté, au final...\"",
             "\\.\"... Certains aspects de lui le suggéraient.\n Sa colère pour les victimes, sa rébellion\n contre les kidnappeurs...\"",
-            "\\.\"Je me demande si Kai était de notre côté, au final...\"",
+            "\\.\"Je me demande si Kai n'était pas de notre côté,\n au final...\"",
             "\\.\"... Certains aspects de lui le suggéraient.\n Comme le fait d'utiliser Nao pour attaquer Sou...\n Tu te souviens ?\"",
             "\\.\"Kai, bienfaisant ou malfaisant ?\"",
             "\\.\"Mais de quel côté était-il vraiment...?\"",
@@ -19779,7 +19779,7 @@
             "\\.\"Y a-t-il déjà eu une affaire similaire à cette\n Démocratie Mortelle, dans le passé...?\"",
             "\\.\"...\"",
             "\\.\"... Ouais.\"",
-            "\\.\"Tu es policier.\n Ne saurais-tu pas quelle organisation aurait pu\n organiser cette Démocratie Mortelle ?\"",
+            "\\.\"Tu es policier.\n Ne saurais-tu pas quelle organisation aurait pu\n réaliser une telle Démocratie Mortelle ?\"",
             "\\.\"...\"",
             "\\.\"... J'ai peut-être une idée.\"",
             "\\.\"Quoi...?!\"",
@@ -19809,7 +19809,7 @@
             "\\.\"..........\"",
             "\\.\"Parce qu'on m'a pas demandé.\n Et je me disait que ça pouvait pas être lié.\"",
             "\\.\\C[4](L'a-t'il caché parce que ça l'arrangeait ?\n Ou alors pour ne pas nous perturber...?)",
-            "\\.\\C[4](Je dois vraiment insister avec gars, sinon\n il va continuer à esquiver mes question...)",
+            "\\.\\C[4](Je dois vraiment insister avec ce type, sinon il\n va continuer à esquiver mes questions...)",
             "\\.\"C'est bien, bon travail.\"",
             "\\.\"T'inquiète.\n\\! ... Me traite pas comme un chien.\"",
             "\\.\"Pas de friandises pour toi, alors.\"",
@@ -27510,7 +27510,7 @@
             "\\C[3]Victoire."
         ],
         "21-1-message": [
-            "\\.\"À nous 2, on peut réussir...!\"",
+            "\\.\"À nous 2, on peut le faire..!\"",
             "\\.\"Allons-y !\n Avec ma force, j'vais casser tout c'qui passe !\"",
             "\\.\"Je ferai de mon mieux pour ne pas te gêner...\"",
             "\\.\"Je protégerai ma grande sœur Sara, miaou !!\"",
@@ -28939,7 +28939,7 @@
         "5-1-message": [
             "\"Il faut toucher ses lèvres...!\"",
             "\"J'espère que je ne vais pas m'en mettre\n sur les habits...\"",
-            "\"C'est comme l'art moderne !\""
+            "\"On dirait de l'art moderne !\""
         ],
         "8-1-message": [
             "\"Il faut tenir le coup et suivre ses mouvements !\n C'est une épreuve d'endurance.\"",
