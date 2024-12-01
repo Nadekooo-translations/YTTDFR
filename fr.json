@@ -17087,7 +17087,8 @@
             "\\.\\C[4](J'ai l'ai vu se diriger vers les \\C[2]Long Escaliers\\C[4].\n Je devrais peut-être aller y jeter un coup d'œil...)"
         ],
         "591-0-message": [
-            "\\.\\C[4](Et maintenant... Que faire ?)"
+            "\\.\\C[4](Et maintenant... Que faire ?)",
+            "\\.\"Salut les salauds !\n Comment ça va ?\""
         ],
         "390-0-message": [
             null,
