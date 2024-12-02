@@ -17659,6 +17659,17 @@
             "\\sp[7]\"Ahahahahaha... Hahaha...\"",
             "\"... Trop tard...\"",
             "\\.\"Sara... Elle est...\""
+        ],
+        "610-0-message": [
+            "Informations Personnelles de Nao Egokoro",
+            "\\.\\C[4](Il y a beaucoup de choses écrites...\n Que devrais-je lire ?)",
+            "\\.École Primaire Egasaki : Finie\nCollège Egasaki : Diplômée\nTroisième Lycée Privé Kurotsuki : Diplômée\nUniversité d'Art Privée Takesasa : en Première Année",
+            "\\.Née dans une famille ordinaire de moyenne classe.\nNotes en dessous de la moyenne.\nSe concentre sur l'art depuis le lycée.\nIl semble être son seul intérêt.",
+            "\\.Admire l'un des conseillers du club d'art de son lycée.\nL'a rencontré quand elle était lycéenne.\nMême après avoir été diplômée, reste très proche avec.\nVa souvent à l'atelier de cet homme.",
+            "\\.\\C[4](Ce doit être Monsieur Mishima...)"
+        ],
+        "610-0-choice": [
+            "Passé\nDonnées physiques\nRelatifs\nInfo de la Démocratie Mortelle\nCe qu'elle tient à cœur\nAnnuler"
         ]
     },
     "map107": {
@@ -28079,6 +28090,9 @@
         "48-1-message": [
             null,
             "\\.\\C[3]Une photo de moi est collée au dos."
+        ],
+        "6-2-choice": [
+            "Passé\nDonnées physiques\nRelatifs\nInfo de la Démocratie Mortelle\nCe qu'elle tient à cœur\nAnnuler"
         ]
     },
     "map152": {
