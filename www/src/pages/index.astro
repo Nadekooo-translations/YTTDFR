@@ -12,16 +12,19 @@ const translationPercent = await fetchTranslationPercentage();
 	title="Your Turn To Die en français"
 	description="Your Turn To Die en français est un projet communautaire visant à traduire le roman visuel écrit par Nankidai."
 >
-	<Image
-		src={titleClean}
-		widths={[
-			titleClean.width / 8,
-			titleClean.width / 4,
-			titleClean.width / 2,
-			titleClean.width,
-		]}
-		alt="Écran titre de Your Turn To Die"
-	/>
+	<h1> <!-- FIXME center this again -->
+		<Image
+			src={titleClean}
+			widths={[
+				titleClean.width / 8,
+				titleClean.width / 4,
+				titleClean.width / 2,
+				titleClean.width,
+			]}
+			alt="Your Turn To Die"
+		/>
+	</h1>
+
 	<div class="translation-progress">
 		<span id="translationProgressText">Traduit à <span>{translationPercent}&nbsp;%</span></span>
 		<ProgressBar progress={translationPercent} style={{ height: "1em" }} aria-labelledby="translationProgressText" />
@@ -48,16 +51,31 @@ const translationPercent = await fetchTranslationPercentage();
 	</blockquote>
 
 	<h2>Chapitres</h2>
-	<ul>
+	<nav class="chapters">
         <!-- TODO insert an image representing each chapter. image in grey scale for chapters that aren't yet translated, with an explanation of that on hover -->
-		<li>Chapitre 1, partie une</li>
-		<li>Chapitre 1, partie deux</li>
-		<li>Chapitre 2, partie une</li>
-		<li>Chapitre 2, partie deux</li>
-		<li>Chapitre 3, partie une</li>
-		<li>Chapitre 3, partie une, section A</li>
-		<li>Chapitre 3, partie une, section B</li>
-	</ul>
+		<figure>
+			<Image src={titleClean} alt="" />
+			<figcaption>Chapitre 1, partie une</figcaption>
+		</figure>
+		<figure>
+			<figcaption>Chapitre 1, partie deux</figcaption>
+		</figure>
+		<figure>
+			<figcaption>Chapitre 2, partie une</figcaption>
+		</figure>
+		<figure class="not-translated">
+			<figcaption>Chapitre 2, partie deux</figcaption>
+		</figure>
+		<figure class="not-translated">
+			<figcaption>Chapitre 3, partie une</figcaption>
+		</figure>
+		<figure class="not-translated">
+			<figcaption>Chapitre 3, partie une, section A</figcaption>
+		</figure>
+		<figure class="not-translated">
+			<figcaption>Chapitre 3, partie une, section B</figcaption>
+		</figure>
+	</nav>
 
 	<h2>Contribution</h2>
 	<p>
@@ -95,5 +113,16 @@ const translationPercent = await fetchTranslationPercentage();
 		margin: 1em 2em;
 		font-style: italic;
 		line-height: 1.7em;
+	}
+
+	.chapters {
+		display: flex;
+		justify-content: space-evenly;
+		flex-wrap: wrap;
+		text-wrap: nowrap;
+
+		.not-translated {
+			filter: grayscale(1);
+		}
 	}
 </style>
