@@ -46,11 +46,11 @@
             "\\.\"Écoute, quelqu'un devra bien examiner Mishima.\n J'ai pas raison ?\"",
             "\\.\"Et même moi, je suis pas un sergent, je vais pas\n demander à quelqu'un d'autre de le faire.\"",
             "\\.\"... Pas besoin d'épuiser quelqu'un d'autre,\n puisqu'il se trouve qu'on a un pro parmi nous.\"",
-            "\\.\"... Ouais, je pense pas non plus.\"",
+            "\\.\"... Ouais, ce serait bien.\"",
             "\\.\"C'est dur, mais il faut bien que quelqu'un le fasse...\n Et il se trouve que je suis un pro.\"",
-            "\\.\"... Par contre c'est la première fois que j'examine\n un corps à qui j'avais parlé.\"",
+            "\\.\"... C'est la première fois que j'examine le\n corps de quelqu'un que je connaissais.\"",
             "\\.\"..........\"",
-            "\\.\"C'est... difficile pour toi au final, hein ?\"",
+            "\\.\"Alors toi aussi... Tu galères, hein ?\"",
             "\\.\"... T'es bête.\n C'est mille fois pire pour Nao.\"",
             "\\.\"Perdre quelqu'un qu'elle respecte...\n La vache...\"",
             "\\.\"...\"",
@@ -4275,7 +4275,7 @@
         "2-3-message": [
             "\"Hé ! C'est quoi son problème ?!\"",
             "\\.\"Il a perdu connaissance...!\"",
-            "\\.\"J'jamais entendu parler d'lui !\nTrouve quelqu'un qui saurait l'examiner !\""
+            "\\.\"C'qui, lui ?!\n Trouve quelqu'un qui saurait l'examiner !\""
         ],
         "3-1-message": [
             "\"Regarde, Sara !\n Il y a des escaliers ici, maintenant.\"",
