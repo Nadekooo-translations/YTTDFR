@@ -4418,7 +4418,7 @@
             "\\.\"Et merde...! Pourquoi...\"",
             "\\.\"Pourquoi j'ai insulté Mishima de timbré...?\"",
             "\\.\"Reko...\"",
-            "\\.\"J'aurais pas dû assumer que c'était un enfoiré\n juste parce que c'était un mec...\"",
+            "\\.\"J'aurais pas dû penser que c'était un enfoiré\n juste parce que c'était un mec...\"",
             "\\.\"Bon, je comprends la réaction de Kanna, maintenant.\n J'serai là pour elle, Sara. \"",
             "\\.\"C'est ce qu'on décide de faire à partir de\n maintenant qui compte, nan ?\"",
             "\\.\"Oui...!\"",
@@ -4476,7 +4476,7 @@
             "\\C[3]Une carte portant l'inscription \"Maître des Clés\".\nElle indique : \"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe."
         ],
         "2-3-message": [
-            "\\.\"Kanna c'est une chose...\n Mais Nao, c'en est une autre.\n Je suis inquiète pour elle, aussi.\"",
+            "\\.\"Kanna m'inquiète, mais...\n Nao, me préoccupe aussi.\"",
             "\\.\"... Ouais.\""
         ],
         "2-2-choice": [
@@ -5100,8 +5100,8 @@
             "\\.\\C[3]Tournevis Cruciforme obtenu.",
             "\\.\\C[4](Il ne se passe rien...)",
             "\\.\\C[4](Peut-être qu'il y a un indice dans cette pièce...?)",
-            "\\.\\C[4](J'aperçois un réveil numérique dans l'étagère.\n Il affiche une heure bizarre. 28:75...?)",
-            "\\.\\C[4](Le réveil numérique dans l'étagère\n indique 28:75, mais...)",
+            "\\.\\C[4](J'aperçois un réveil numérique sur l'étagère.\n Il affiche une heure bizarre. 28:75...?)",
+            "\\.\\C[4](Le réveil numérique sur l'étagère\n indique 28:75, mais...)",
             "\\.\\C[4](Si on indiquait \"28 heures\" sur une horloge\n analogique, ça donnerait 4:00... non ?)",
             "\\.\\C[4](Le réveil numérique sur l'étagère\n indique 28:75.)",
             "\\.\\C[4](75 minutes font 1 heure et 15 minutes.)",
@@ -5110,8 +5110,8 @@
             "\\.\\C[4](Je vais positionner l'aiguille des heures sur 5\n pour 5 heures et celle des minutes sur 3 pour\n 15 minutes.)",
             "\\.\\C[4](Il ne se passe rien...)",
             "\\.\\C[4](Y aurait-il un indice caché dans cette pièce...?)",
-            "\\.\\C[4](J'aperçois un réveil numérique dans l'étagère.\n Il affiche une heure bizarre. 28:75...?)",
-            "\\.\\C[4](Le réveil numérique dans l'étagère\n indique 28:75, mais...)",
+            "\\.\\C[4](J'aperçois un réveil numérique sur l'étagère.\n Il affiche une heure bizarre. 28:75...?)",
+            "\\.\\C[4](Le réveil numérique sur l'étagère\n indique 28:75, mais...)",
             "\\.\\C[4](Si on indiquait \"28 heures\" sur une horloge\n analogique, ça donnerait 4:00... non ?)",
             "\\.\\C[4](Le réveil numérique sur l'étagère\n indique 28:75.)",
             "\\.\\C[4](75 minutes font 1 heure et 15 minutes.)",
@@ -5137,7 +5137,7 @@
             "\\.\\C[3]L'horloge tourne silencieusement."
         ],
         "5-1-message": [
-            "\\.\\C[3]Il y a des livres dans l'étagère.",
+            "\\.\\C[3]Il y a des livres sur l'étagère.",
             "\\.\\C[4](Les couvertures ressemblent à des vraies, mais\n toutes les pages à l'intérieur de ces livres sont\n blanches...)",
             "\\.\\C[4](Ce n'est pas très poli...\n Mais je vais me servir de ces livres pour pouvoir\n atteindre la boîte.)",
             "\\.\\C[4](Ça fera l'affaire.)"
@@ -5247,7 +5247,7 @@
             "\\.\\C[4](Je ne sais pas s'il est une bonne personne...\n Mais il a dit \"à l'aide\"...!)",
             "\\.\\C[4](Donc... Je vais le prendre avec moi !)",
             "\\.\\C[3]Difficilement, je réussis à porter l'homme sur\nmon épaule.",
-            "\\.\\C[4](Il n'a pas l'air d'être blessé, mais...\n Je devrais faire doucement.)"
+            "\\.\\C[4](Il n'a pas l'air d'être blessé, mais...\n Je devrais y aller doucement.)"
         ],
         "15-2-message": [
             "\\.\\C[3]Il n'y a plus rien dans le casier."
