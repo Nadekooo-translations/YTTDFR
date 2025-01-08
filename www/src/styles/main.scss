@@ -12,11 +12,11 @@ body {
 
 	background-image: url("../images/background.webp");
 	background-blend-mode: overlay;
-	background-repeat: no-repeat;
-	background-size: cover;
+	background-repeat: repeat;
 	background-attachment: fixed;
 	background-position-x: center;
 	background-position-y: top;
+	backdrop-filter: grayscale(1) contrast(5);
 	image-rendering: smooth;
 
 	display: flex;

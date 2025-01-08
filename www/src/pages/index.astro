@@ -4,6 +4,15 @@ import Layout from "../layouts/Layout.astro";
 import titleClean from "../images/title-clean.webp";
 import ProgressBar from "../components/ProgressBar.astro";
 import { fetchTranslationPercentage } from "../api";
+import chapter1a from "../images/chapters/1.webp";
+import chapter1b from "../images/chapters/2.webp";
+import chapter2a from "../images/chapters/3.webp";
+import chapter2b from "../images/chapters/4.webp";
+import chapter3a from "../images/chapters/5.webp";
+import chapter3b from "../images/chapters/6.webp";
+import chapter3c from "../images/chapters/7.webp";
+
+const chapterNotTranslated = "Pas encore traduit";
 
 const translationPercent = await fetchTranslationPercentage();
 ---
@@ -12,18 +21,16 @@ const translationPercent = await fetchTranslationPercentage();
 	title="Your Turn To Die en français"
 	description="Your Turn To Die en français est un projet communautaire visant à traduire le roman visuel écrit par Nankidai."
 >
-	<h1> <!-- FIXME center this again -->
-		<Image
-			src={titleClean}
-			widths={[
-				titleClean.width / 8,
-				titleClean.width / 4,
-				titleClean.width / 2,
-				titleClean.width,
-			]}
-			alt="Your Turn To Die"
-		/>
-	</h1>
+	<Image
+		src={titleClean}
+		widths={[
+			titleClean.width / 8,
+			titleClean.width / 4,
+			titleClean.width / 2,
+			titleClean.width,
+		]}
+		alt="Écran titre de Your Turn To Die"
+	/>
 
 	<div class="translation-progress">
 		<span id="translationProgressText">Traduit à <span>{translationPercent}&nbsp;%</span></span>
@@ -54,25 +61,31 @@ const translationPercent = await fetchTranslationPercentage();
 	<nav class="chapters">
         <!-- TODO insert an image representing each chapter. image in grey scale for chapters that aren't yet translated, with an explanation of that on hover -->
 		<figure>
-			<Image src={titleClean} alt="" />
+			<Image src={chapter1a} alt=""  />
 			<figcaption>Chapitre 1, partie une</figcaption>
 		</figure>
 		<figure>
+			<Image src={chapter1b} alt="" />
 			<figcaption>Chapitre 1, partie deux</figcaption>
 		</figure>
 		<figure>
+			<Image src={chapter2a} alt="" />
 			<figcaption>Chapitre 2, partie une</figcaption>
 		</figure>
-		<figure class="not-translated">
+		<figure class="not-translated" title={chapterNotTranslated}>
+			<Image src={chapter2b} alt="" />
 			<figcaption>Chapitre 2, partie deux</figcaption>
 		</figure>
-		<figure class="not-translated">
+		<figure class="not-translated" title={chapterNotTranslated}>
+			<Image src={chapter3a} alt="" />
 			<figcaption>Chapitre 3, partie une</figcaption>
 		</figure>
-		<figure class="not-translated">
+		<figure class="not-translated" title={chapterNotTranslated}>
+			<Image src={chapter3b} alt="" />
 			<figcaption>Chapitre 3, partie une, section A</figcaption>
 		</figure>
-		<figure class="not-translated">
+		<figure class="not-translated" title={chapterNotTranslated}>
+			<Image src={chapter3c} alt="" />
 			<figcaption>Chapitre 3, partie une, section B</figcaption>
 		</figure>
 	</nav>
@@ -122,7 +135,22 @@ const translationPercent = await fetchTranslationPercentage();
 		text-wrap: nowrap;
 
 		.not-translated {
-			filter: grayscale(1);
+			img {
+				filter: grayscale(1) blur(2px);
+
+				&:hover {
+					filter: grayscale(0.8);
+				}
+			}
+		}
+
+		figure {
+			display: flex;
+			flex-direction: column;
+
+			img {
+				width: 15ch;
+			}
 		}
 	}
 </style>
