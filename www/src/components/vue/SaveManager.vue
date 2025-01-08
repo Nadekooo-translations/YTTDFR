@@ -1,8 +1,9 @@
 <script setup lang="ts">
 import { computed, reactive, watch } from 'vue';
 import { buildIndexEntry, deleteSaveData, getRawSave, isValidSaveFile, readSaveIndex, writeSaveData, writeSaveIndex } from './SaveUtils';
+import JSZip from 'jszip';
 
-const modal = reactive<{text: null | string}>({ text: null });
+const modal = reactive<{ text: null | string }>({ text: null });
 const index = reactive(readSaveIndex());
 
 watch(index, (newValue) => {
@@ -19,6 +20,16 @@ const nextFreeSlot = computed(() => {
 	return null;
 });
 
+const saveAs = (data: Blob, filename: string) => {
+	const url = URL.createObjectURL(data);
+	const anchor = document.createElement("a");
+	anchor.href = url;
+	anchor.download = filename;
+	document.body.appendChild(anchor);
+	anchor.click();
+	document.body.removeChild(anchor);
+};
+
 const downloadSave = (idx: number) => {
 	const str = getRawSave(idx);
 
@@ -29,13 +40,7 @@ const downloadSave = (idx: number) => {
 	const buf = new Blob([str], {
 		type: "application/octet-stream",
 	});
-	const url = URL.createObjectURL(buf);
-	const anchor = document.createElement("a");
-	anchor.href = url;
-	anchor.download = `file${idx}.rpgsave`;
-	document.body.appendChild(anchor);
-	anchor.click();
-	document.body.removeChild(anchor);
+	saveAs(buf, `file${idx}.rpgsave`);
 };
 
 const deleteSave = (idx: number) => {
@@ -71,26 +76,47 @@ const uploadSave = () => {
 
 	input.click();
 };
+
+const saveAllAsZip = async () => {
+	const zip = new JSZip();
+
+	for (let i = 1; i <= 102; i++) {
+		if (index[i] === null) {
+			continue;
+		}
+
+		const data = getRawSave(i) as string;
+		zip.file(`file${i}.rpgsave`, data, { binary: true, dir: false });
+	}
+
+	const zipBlob = await zip.generateAsync({ comment: "Généré par https://yttd.fr/sauvegardes/", type: "blob" });
+	saveAs(zipBlob, `Sauvegardes YTTD ${new Date().toLocaleString()}`);
+};
 </script>
 
 <template>
 	<div class="modal" v-if="modal.text" @click="modal.text = null">
 		<div class="modal-content">
-			<i class="ph-duotone ph-warning modal-icon"></i><br/>
+			<i class="ph-duotone ph-warning modal-icon"></i><br />
 			{{ modal.text }}
 		</div>
 	</div>
 	<h1>
 		Sauvegardes
-
-		<button class="upload" :disabled="!nextFreeSlot" @click="uploadSave()">
-			<i class="ph-duotone ph-tray-arrow-up"></i>
-		</button>
 	</h1>
 	<div v-if="index.length === 0">
 		Aucune sauvegarde présente
 	</div>
 	<div v-else>
+		<div class="toolbar">
+			<button class="upload" :disabled="!nextFreeSlot" @click="uploadSave()" title="Envoyer une sauvegarde">
+				<i class="ph-duotone ph-upload"></i>
+			</button>
+
+			<button class="download" @click="saveAllAsZip()" title="Tout télécharger">
+				<i class="ph-duotone ph-box-arrow-down"></i>
+			</button>
+		</div>
 		<template v-for="(save, key) in index">
 			<div v-if="save" class="row">
 				<span class="number">{{ key }}</span>
@@ -102,10 +128,10 @@ const uploadSave = () => {
 				<span class="timestamp">
 					<i class="ph ph-clock"></i> {{ new Date(save.timestamp).toLocaleString() }}
 				</span>
-				<button class="download" @click="downloadSave(key)">
+				<button class="download" @click="downloadSave(key)" title="Télécharger">
 					<i class="ph-duotone ph-box-arrow-down"></i>
 				</button>
-				<button class="delete" @click="deleteSave(key)">
+				<button class="delete" @click="deleteSave(key)" title="Supprimer">
 					<i class="ph-duotone ph-trash"></i>
 				</button>
 			</div>
@@ -136,8 +162,8 @@ const uploadSave = () => {
 	.modal-content {
 		background-color: $brown;
 		border: solid 1px $gold;
-  		padding: 2em;
-  		width: 20ch;
+		padding: 2em;
+		width: 20ch;
 		animation-name: dialog;
 		animation-duration: 0.1s;
 		animation-timing-function: linear;
@@ -168,6 +194,12 @@ const uploadSave = () => {
 	background-color: $brown;
 	border: solid 1px $gold;
 	align-items: center;
+	user-select: none;
+	transition: box-shadow 0.3s;
+	
+	&:hover {
+		box-shadow: 0px 0px 26px 12px black;
+	}
 
 	.grow {
 		flex-grow: 1;
@@ -175,6 +207,7 @@ const uploadSave = () => {
 
 	.number {
 		width: 3ch;
+		font-weight: bold;
 	}
 
 	.playtime {
@@ -206,6 +239,13 @@ const uploadSave = () => {
 	}
 }
 
+.toolbar {
+	display: flex;
+	justify-content: space-evenly;
+	align-items: baseline;
+	margin-bottom: 2em;
+}
+
 button {
 	border: 0;
 	background: 0;
@@ -220,7 +260,6 @@ button {
 
 	&.upload {
 		color: $gold;
-		margin-bottom: 2em;
 
 		&[disabled] {
 			color: $lightGray;

@@ -52,10 +52,12 @@ export const readSaveData = (): SaveData => {
 };
 
 export const writeSaveData = (idx: number, raw: string) => {
+	console.debug("Writing save", idx);
 	localStorage.setItem(saveKey(idx), raw);
 };
 
 export const deleteSaveData = (idx: number) => {
+	console.debug("Deleting save", idx);
 	localStorage.removeItem(saveKey(idx));
 };
 
@@ -78,6 +80,7 @@ export const readSaveIndex = (): SaveIndex => {
 };
 
 export const writeSaveIndex = (index: SaveIndex) => {
+	console.debug("Writing index", index);
 	const b64 = lz.compressToBase64(JSON.stringify(index));
 	localStorage.setItem(GLOBAL_KEY, b64);
 };
