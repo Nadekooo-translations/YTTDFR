@@ -1,5 +1,5 @@
 ---
-import { Image } from "astro:assets";
+import { Image, Picture } from "astro:assets";
 import Layout from "../layouts/Layout.astro";
 import titleClean from "../images/title-clean.webp";
 import ProgressBar from "../components/ProgressBar.astro";
@@ -21,14 +21,9 @@ const translationPercent = await fetchTranslationPercentage();
 	title="Your Turn To Die en français"
 	description="Your Turn To Die en français est un projet communautaire visant à traduire le roman visuel écrit par Nankidai."
 >
-	<Image
+	<Picture
 		src={titleClean}
-		widths={[
-			titleClean.width / 8,
-			titleClean.width / 4,
-			titleClean.width / 2,
-			titleClean.width,
-		]}
+		formats={['avif', 'webp']}
 		alt="Écran titre de Your Turn To Die"
 	/>
 

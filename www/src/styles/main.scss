@@ -1,7 +1,13 @@
+@use "sass:color";
 @import "@fontsource/poppins/200.css";
 @import "@fontsource/poppins/400.css";
 @import "@fontsource/poppins/700.css";
 @import "./_colors.scss";
+
+* {
+	scrollbar-width: thin;
+	scrollbar-color: color.adjust($purple, $lightness: 25%) color.adjust($purple, $lightness: -15%);
+}
 
 body {
 	padding: 0;
@@ -38,7 +44,7 @@ body {
 			padding: 0 2ch 5em;
 		}
 
-		img {
+		img, picture {
 			align-self: center;
 			max-width: 100%;
 			height: auto;
