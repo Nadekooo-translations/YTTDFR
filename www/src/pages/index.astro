@@ -134,22 +134,34 @@ const translationPercent = await fetchTranslationPercentage();
 		flex-wrap: wrap;
 		text-wrap: nowrap;
 
-		.not-translated {
-			img {
-				filter: grayscale(1) blur(2px);
-
-				&:hover {
-					filter: grayscale(0.8);
-				}
-			}
-		}
-
 		figure {
 			display: flex;
 			flex-direction: column;
 
 			img {
 				width: 15ch;
+			}
+
+			figcaption {
+				color: $gold;
+				margin-top: 0.2em;
+				font-weight: 200;
+				letter-spacing: 0.1em;
+			}
+
+			&.not-translated {
+				img {
+					filter: grayscale(1) blur(2px);
+					transition: filter 0.25s;
+
+					&:hover {
+						filter: grayscale(0.8);
+					}
+				}
+
+				figcaption {
+					color: $lightGray;
+				}
 			}
 		}
 	}
