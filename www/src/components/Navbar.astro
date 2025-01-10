@@ -1,12 +1,36 @@
 ---
 const path = Astro.url.pathname;
+
+const nav = [
+	{
+		href: "/",
+		title: "Accueil",
+	},
+	{
+		href: "/jouer/",
+		title: "Jouer",
+	},
+	{
+		href: "/contribuer/",
+		title: "Contribuer",
+	},
+	{
+		href: "/apropos/",
+		title: "À propos",
+	},
+];
 ---
 
 <nav>
-	<a class={path === '/' ? 'active' : ''} href="/">Accueil</a>
-	<a class={path === '/jouer/' ? 'active' : ''} href="/jouer/">Jouer</a>
-	<a class={path === '/contribuer/' ? 'active' : ''} href="/contribuer/">Contribuer</a>
-	<a class={path === '/apropos/' ? 'active' : ''} href="/apropos/">À propos</a>
+	{
+		nav.map(n => {
+			if (n.href === path) {
+				return <a class="active" href={n.href}><h1>{n.title}</h1></a>;
+			} else {
+				return <a href={n.href}>{n.title}</a>;
+			}
+		})
+	}
 </nav>
 
 <style lang="scss">
@@ -53,6 +77,11 @@ const path = Astro.url.pathname;
 			&:hover {
 				background-color: $brown;
 				border-color: $gold;
+			}
+
+			h1 {
+				margin: 0;
+				font-size: inherit;
 			}
 		}
 	}

@@ -1,6 +1,13 @@
+@use "sass:color";
+@import "@fontsource/poppins/200.css";
 @import "@fontsource/poppins/400.css";
 @import "@fontsource/poppins/700.css";
 @import "./_colors.scss";
+
+* {
+	scrollbar-width: thin;
+	scrollbar-color: color.adjust($purple, $lightness: 25%) color.adjust($purple, $lightness: -15%);
+}
 
 body {
 	padding: 0;
@@ -12,11 +19,10 @@ body {
 
 	background-image: url("../images/background.webp");
 	background-blend-mode: overlay;
-	background-repeat: no-repeat;
-	background-size: cover;
+	background-repeat: repeat;
 	background-attachment: fixed;
 	background-position-x: center;
-	background-position-y: top;
+	background-position-y: bottom;
 	image-rendering: smooth;
 
 	display: flex;
@@ -38,7 +44,7 @@ body {
 			padding: 0 2ch 5em;
 		}
 
-		img {
+		img, picture {
 			align-self: center;
 			max-width: 100%;
 			height: auto;
