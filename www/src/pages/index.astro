@@ -1,5 +1,5 @@
 ---
-import { Image, Picture } from "astro:assets";
+import { Image, Picture, type LocalImageProps } from "astro:assets";
 import Layout from "../layouts/Layout.astro";
 import titleClean from "../images/title-clean.webp";
 import ProgressBar from "../components/ProgressBar.astro";
@@ -13,6 +13,7 @@ import chapter3b from "../images/chapters/6.webp";
 import chapter3c from "../images/chapters/7.webp";
 
 const chapterNotTranslated = "Pas encore traduit";
+const chapterSizes: Partial<LocalImageProps> = {width: 300, height: 300};
 
 const translationPercent = await fetchTranslationPercentage();
 ---
@@ -54,33 +55,32 @@ const translationPercent = await fetchTranslationPercentage();
 
 	<h2>Chapitres</h2>
 	<nav class="chapters">
-        <!-- TODO insert an image representing each chapter. image in grey scale for chapters that aren't yet translated, with an explanation of that on hover -->
 		<figure>
-			<Image src={chapter1a} alt=""  />
+			<Image src={chapter1a} alt="" {...chapterSizes} />
 			<figcaption>Chapitre 1, partie une</figcaption>
 		</figure>
 		<figure>
-			<Image src={chapter1b} alt="" />
-			<figcaption>Chapitre 1, partie deux</figcaption>
+			<Image src={chapter1b} alt="" {...chapterSizes} />
+			<figcaption class="pixel">Chapitre 1, partie deux</figcaption>
 		</figure>
 		<figure>
-			<Image src={chapter2a} alt="" />
+			<Image src={chapter2a} alt="" {...chapterSizes} />
 			<figcaption>Chapitre 2, partie une</figcaption>
 		</figure>
 		<figure class="not-translated" title={chapterNotTranslated}>
-			<Image src={chapter2b} alt="" />
+			<Image src={chapter2b} alt="" {...chapterSizes} />
 			<figcaption>Chapitre 2, partie deux</figcaption>
 		</figure>
 		<figure class="not-translated" title={chapterNotTranslated}>
-			<Image src={chapter3a} alt="" />
+			<Image src={chapter3a} alt="" {...chapterSizes} />
 			<figcaption>Chapitre 3, partie une</figcaption>
 		</figure>
 		<figure class="not-translated" title={chapterNotTranslated}>
-			<Image src={chapter3b} alt="" />
+			<Image src={chapter3b} alt="" {...chapterSizes} />
 			<figcaption>Chapitre 3, partie une, section A</figcaption>
 		</figure>
 		<figure class="not-translated" title={chapterNotTranslated}>
-			<Image src={chapter3c} alt="" />
+			<Image src={chapter3c} alt="" {...chapterSizes} />
 			<figcaption>Chapitre 3, partie une, section B</figcaption>
 		</figure>
 	</nav>
@@ -142,10 +142,16 @@ const translationPercent = await fetchTranslationPercentage();
 				margin-top: 0.2em;
 				font-weight: 200;
 				letter-spacing: 0.1em;
+
+				&.pixel {
+					image-rendering: crisp-edges;
+				}
 			}
 
 			&.not-translated {
 				img {
+					width: 300;
+					height: 300;
 					filter: grayscale(1) blur(2px);
 					transition: filter 0.25s;
 
