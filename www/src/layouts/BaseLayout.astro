@@ -1,4 +1,6 @@
 ---
+import { Debug } from "astro:components";
+
 interface Props {
 	title: string;
 	/**
@@ -8,6 +10,83 @@ interface Props {
 }
 
 const { title, description } = Astro.props;
+
+let site = Astro.site?.toString();
+site = site?.substring(0, site.length - 1); // remove trailing /
+
+const path = Astro.url.pathname;
+
+const jsonld = {
+	"@context": "https://schema.org",
+	"@graph": [
+		{
+			"@type": "WebPage",
+			"@id": site + path,
+			url: site + path,
+			name: title,
+			isPartOf: {
+				"@id": site + "/#website",
+			},
+			datePublished: new Date().toISOString(),
+			dateModified: new Date().toISOString(),
+			description: description,
+			breadcrumb: {
+				"@id": `${site}${path}#breadcrumb`,
+			},
+			inLanguage: "fr-FR",
+			potentialAction: [
+				{
+					"@type": "ReadAction",
+					target: [site + path],
+				},
+			],
+		},
+		{
+			"@type": "BreadcrumbList",
+			"@id": `${site}${path}#breadcrumb`,
+			itemListElement: [
+				...[
+					{
+						"@type": "ListItem",
+						position: 1,
+						name: "Accueil",
+						item: site,
+					},
+				],
+				...(path === "/"
+					? []
+					: [
+							{
+								"@type": "ListItem",
+								position: 2,
+								name: title,
+							},
+						]),
+			],
+		},
+		{
+			"@type": "WebSite",
+			"@id": site + "/#website",
+			url: site,
+			name: "Your Turn To Die en français",
+			description:
+				"Your Turn To Die en français est un projet communautaire visant à traduire le roman visuel écrit par Nankidai.",
+			publisher: {
+				"@id": site + "/#organization",
+			},
+			alternateName: "YTTD-FR",
+			inLanguage: "fr-FR",
+		},
+		{
+			"@type": "Organization",
+			"@id": site + "/#organization",
+			name: "Your Turn To Die en français",
+			alternateName: "YTTD-FR",
+			url: site,
+			sameAs: ["https://x.com/YTTDFR", "https://discord.gg/PXyEMNEV4J"],
+		},
+	],
+};
 ---
 
 <!doctype html>
@@ -37,9 +116,14 @@ const { title, description } = Astro.props;
 
 		<link rel="sitemap" href="/sitemap-index.xml" />
 
+		<script
+			type="application/ld+json"
+			set:html={JSON.stringify(jsonld)}
+		/>
+
 		<title>{title}</title>
 	</head>
 	<body>
-		<slot/>
+		<slot />
 	</body>
 </html>
