@@ -44,6 +44,7 @@ else()
             ${PROJECT_SOURCES}
             pages/intro.h pages/intro.cpp
             pages/license.h pages/license.cpp
+            pages/path.h pages/path.cpp
 
         )
     endif()

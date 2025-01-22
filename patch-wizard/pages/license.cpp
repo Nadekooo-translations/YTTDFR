@@ -3,8 +3,9 @@
 #include <QVBoxLayout>
 
 PageLicense::PageLicense() {
-    setTitle("Licence");
-    setSubTitle("Blabla");
+    setTitle(tr("Licence"));
+    setSubTitle(tr("Blabla"));
+    setButtonText(QWizard::NextButton, tr("J'accepte"));
 
     QTextEdit *text = new QTextEdit();
     text->setLineWrapMode(QTextEdit::LineWrapMode::WidgetWidth);
