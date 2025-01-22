@@ -6,6 +6,8 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 find_package(Qt6 REQUIRED COMPONENTS Quick)
 
+set(CMAKE_AUTORCC ON)
+
 qt_standard_project_setup(REQUIRES 6.5)
 
 qt_add_executable(apppatch-wizard
@@ -17,6 +19,7 @@ qt_add_qml_module(apppatch-wizard
     VERSION 1.0
     QML_FILES
         Main.qml
+        RESOURCES application.qrc
 )
 
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.
