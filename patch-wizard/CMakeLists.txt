@@ -45,6 +45,7 @@ else()
             pages/intro.h pages/intro.cpp
             pages/license.h pages/license.cpp
             pages/path.h pages/path.cpp
+            pages/progress.h pages/progress.cpp
 
         )
     endif()
