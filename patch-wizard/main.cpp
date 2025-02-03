@@ -3,9 +3,11 @@
 #include <QApplication>
 #include <QLocale>
 #include <QTranslator>
+#include <QtResource>
 
 int main(int argc, char *argv[])
 {
+    Q_INIT_RESOURCE(patch);
     QApplication a(argc, argv);
 
     QTranslator translator;
