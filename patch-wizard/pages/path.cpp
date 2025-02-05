@@ -62,6 +62,8 @@ QDir findValidGamePath() {
 PagePath::PagePath() {
     setTitle(tr("Chemin d'installation de Your Turn to Die"));
     setSubTitle(tr("Choisir l'emplacement d'installation du jeu a patcher"));
+    setCommitPage(true);
+    setButtonText(QWizard::CommitButton, tr("Installer"));
 
     error = new QLabel();
     error->setStyleSheet("color: red;");
