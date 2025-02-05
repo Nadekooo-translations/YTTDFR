@@ -25,6 +25,7 @@ set(PROJECT_SOURCES
 )
 
 if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
+    file(COPY ${CMAKE_CURRENT_SOURCE_DIR}/../LICENSE DESTINATION ${CMAKE_CURRENT_SOURCE_DIR})
     set(BIG_SOURCES patch.qrc)
     qt_add_big_resources(BIG_SOURCES patch.qrc)
     set_property(SOURCE patch.qrc PROPERTY SKIP_AUTORCC ON)
