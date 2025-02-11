@@ -19850,7 +19850,7 @@
             "\\.\"T'inquiète.\n\\! ... Me traite pas comme un chien.\"",
             "\\.\"Pas de friandises pour toi, alors.\"",
             "\\.\"... Si on arrive à sortir d'ici en vie, j'en\n prendrais bien.\"",
-            "\\.\"Bon, allez. On ferait mieux de reprendre.\"",
+            "\\.\"Bon, aller. On ferait mieux de reprendre.\"",
             "\\.\"Ray a dit que les attractions restantes se sont\n ouvertes aux alentours.\"",
             "\\.\"Vraiment...?\"",
             "\\.\"On ferait mieux d'aller regarder, tu penses pas ?\"",
@@ -20077,7 +20077,8 @@
             "\\.\"Tu peux toujours compter sur Monsieur le Policier.\""
         ],
         "14-8-message": [
-            "\\.\"..........\""
+            "\\.\"..........\"",
+            "\\.\\C[4](On dirait qu'elle est perdue dans ses pensées...)"
         ]
     },
     "map76": {
