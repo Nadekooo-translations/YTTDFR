@@ -20094,7 +20094,15 @@
         "15-1-message": [
             "\\.\"... Ouaip, j'ai que dalle.\"",
             "\\.\"Hmm...\"",
-            "\\.\\C[4](On dirait que Kenji lui pose des questions\n à propos de l'incident d'hier...)"
+            "\\.\\C[4](On dirait que Kenji lui pose des questions\n sur l'incident d'hier...)"
+        ],
+        "15-3-message": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.\\C[4](... On dirait qu'ils ont passé toute la matinée\n à se disputer pour rien.)"
         ]
     },
     "map76": {
