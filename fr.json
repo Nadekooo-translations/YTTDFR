@@ -17738,7 +17738,13 @@
             "\\.\"Ahh... non. Ce que vous voyez\"dehors\" n'est qu'une\n image projetée sur les vitres des cabinets.\"",
             "\\.\"Une image...?\"",
             "\\.\"Tout à fait !\n Actuellement, un environnement tropical est projeté\n pour créer une ambiance rafraîchissante !\n Qu'en pensez-vous ?\"",
-            "\\.\"Hum... T'as raison, c'est sympa.\n La clim est réglée juste comme il faut, en plus.\""
+            "\\.\"Hum... T'as raison, c'est sympa.\n La clim est réglée juste comme il faut, en plus.\"",
+            "\\.\"Héhéhé, vous êtes perspicace.\n C'est moi, celle qui gère cette pièce...\n Elle sert aussi de laboratoire...\"",
+            "\\.\"Euh... Du coup, on peut s'occuper de Gin ?\"",
+            "\\.\"Ah... Oui, c'est vrai...\n L'équipement médical se trouve ici...\""
+        ],
+        "387-0-choice": [
+            "Faire confiance à Lara\nNe pas faire confiance à Lara"
         ]
     },
     "map107": {
