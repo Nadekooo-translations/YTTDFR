@@ -16658,7 +16658,7 @@
         ],
         "389-0-choice": [
             "Discuter\nAvoir un résumé\nAnnuler",
-            null,
+            "J'en collecte\nJe n'en collecte pas\nJe vise ceux de certaines personnes",
             "Échanger 20 jetons\nRefuser l'échange"
         ],
         "575-0-choice": [
@@ -16818,17 +16818,17 @@
             "\\C[4](Bon... On dirait que les délibérations sont finies.)"
         ],
         "389-0-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\"Sara ! Ça t'dit d'échanger des jetons ?\n 20, ça te va ?!\"",
+            "\"J'hais le fait que j'fais exactement ce que Ray et\n compagnie veulent, mais j'me suis dis que j'devrais\n récupérer des jetons.\"",
+            "\\.\"T'en dis quoi ?\n 20 jetons, c'pas tant qu'ça, si ?\"",
+            "\\.\"Nickel ! Écoute au moins c'que j'ai à dire.\"",
+            "\\.\"Sara, t'essaies d'récupérer des jetons ?\"",
+            "\\.\"Des jetons...\"",
+            "\\.\"OK, parce qu'moi aussi !\n Ça ira plus vite !\"",
+            "\\.\"Ah ouais...? Parce qu'moi, oui.\"",
+            "\\.\"C'est vrai, ils avaient dit qu'on pouvait acheter\n les infos persos d'quelqu'un avec 50 d'ses jetons.\"",
+            "\\.\"Mais t'sais...\n J'pense pas qu'beaucoup de gens ici comptent\n donner 50 d'leurs jetons...\"",
+            "\\.\"Enfin bref. Moi aussi, j'essaie d'choper des jetons.\"",
             null,
             null,
             null,
