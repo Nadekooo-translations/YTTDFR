@@ -15912,7 +15912,7 @@
             "\\.\"... Tu fais peur. Je déteste ça.\"",
             "\\.\"Hé, ça suffit ! Excuse-toi, Kugie !\"",
             "\\.\"J'ai continué à garder le sourire malgré tout...\n Je ne voulais pas... que ma sœur devienne la méchante.\"",
-            "\\.\"Mais un jour, quand c'est devenu insupportable...\n Je suis partie de chez moi.\"",
+            "\\.\"Mais un jour, quand c'est devenu insupportable...\n Je me suis enfuie de chez moi.\"",
             "\\.\"\\}... Snif... Bouh...\\{\"",
             "\\.\"Je ne pouvais pas retourner chez moi.\n Je n'en avais pas envie...\n Alors, je me suis réfugiée dans un parc.\n Avec un seau sur la tête, je suis restée là à pleurer.\"",
             "\\.\"Hé ! Quess' tu fais ?\"",
@@ -15938,7 +15938,7 @@
             "\\.\"..........\"",
             "\\.\"Kanna... Je suis désolée...\"",
             "\\.\"... Sœurette...\"",
-            "\\.\"Papa et maman sont inquiets.\n Dépêchons-nous de rentrer à la maison, d'accord ?\"",
+            "\\.\"Papa et Maman sont inquiets.\n Dépêchons-nous de rentrer à la maison, d'accord ?\"",
             "\\.\"D-D'accord ! Héhéhé...\"",
             "\\.\"... Depuis, moi et ma sœur, on s'entend vraiment bien.\"",
             "\\.\"Je vois...\"",
@@ -15946,7 +15946,7 @@
             "\\.\"..........\"",
             "\\.\"Kanna...\"",
             "\\.\"Kanna... réussira à rentrer chez elle !\"",
-            "\\.\"Elle doit tout raconter à papa et maman...!\"",
+            "\\.\"Elle doit tout raconter à Papa et Maman...!\"",
             "\\.\\C[3]Sa détermination...",
             "\\.\\C[3]C'est une sorte de détermination...\nQui est beaucoup trop lourde à porter pour une\nfille de son âge.",
             "\\.\"... Je devrais bientôt y aller.\n Sou pourrait se réveiller n'importe quand,\n après tout...\"",
@@ -17095,7 +17095,11 @@
         ],
         "591-0-message": [
             "\\.\\C[4](Et maintenant... Que faire ?)",
-            "\\.\"Salut les salauds !\n Comment ça va ?\""
+            "\\.\"Salut les salauds !\n Comment ça va ?\"",
+            "\\.\"Qu'est-ce que tu nous veux ?!\"",
+            "\\.\"Ouuuuh, j'ai peur !\n C'est bon, je vous demande juste comment vous allez !\"",
+            "\\.\"Pas de délinquance sous ma surveillance !\n C'est l'heure de la réunion parents-professeur !\"",
+            "\\.\\C[4](De... la réunion parents-professeur ?)"
         ],
         "390-0-message": [
             "\"Sara, c'est pas pour un échange, mais ça\n te dit de discuter ?\"",
@@ -17713,7 +17717,7 @@
             "\\.\"Aimeriez-vous... accéder au Cabinet Médical ?\"",
             "\\.\"T-Tu nous veux quoi ?! Bas les pattes, ouaf !\"",
             "\\.\"M-Mais... La blessure pourrait s'infecter si elle\n n'est pas traitée...\"",
-            "\\.\"Je veux pas de ton inquiétude, madame pastèque !\n Miaou !\"",
+            "\\.\"Je veux pas de ton inquiétude, Madame la Pastèque !\n Miaou !\"",
             "\\.\"Snif... Voyez-vous, m'occuper de la santé des\n participants n'est qu'une de mes responsabilités...\"",
             "\\.\"Hmm, difficile de te croire.\"",
             "\\.\"À moins que tu sois prête à le promettre, Lara ?\"",
@@ -17732,7 +17736,7 @@
             "\\.\"Je ne peux pas faire confiance à Lara.\"",
             "\\.\"Bouhouh...\"",
             "\\.\"Mais je veux bien que tu nous guides jusqu'à ce\n fameux cabinet médical.\"",
-            "\\.\"... Mais bien sûr.\n Si ce cabinet médical existe vraiment,\n on peut s'occuper de le soigner nous-même.\"",
+            "\\.\"... Bon plan.\n Si ce cabinet médical existe vraiment,\n on peut s'occuper de le soigner nous-même.\"",
             "\\.\"Bien sûr ! Si vous le voulez...\"",
             "\\.\"Je vous prie de bien vouloir me suivre.\"",
             "\\.\"Vous voici au cabinet médical.\"",
@@ -17747,6 +17751,13 @@
         ],
         "387-0-choice": [
             "Faire confiance à Lara\nNe pas faire confiance à Lara"
+        ],
+        "593-0-message": [
+            "\"Bon aller, c'est pas le moment de partir dans vos\n délires de négociations, là !\n Écoutez un peu ce que j'ai en réserve pour vous !\"",
+            "\"Je peux être honnête une minute ?\"",
+            "\\.\"Vous SCHLINGUEZ, les salauds !\n Et en plus, vous êtes fatigués à mort.\n Alors, ça vous dit un bain ?\"",
+            "\\.\\C[4](Un bain...?!)",
+            "\\.\"Ahh, Dieu merci.\n J'ai une annonce à faire, donc je vais appeler\n les autres !\""
         ]
     },
     "map107": {
@@ -18675,7 +18686,7 @@
             "\\.\"Ce serait plutôt que Sara soit une traîtresse...\n Pas vrai ?\"",
             "\\.\"..........\"",
             "\\.\"Alors toi, tu vas voir...\"",
-            "\"Oui, allez, votre attention, s'il vous plaît.\"",
+            "\"Oui, aller, votre attention, s'il vous plaît.\"",
             "\\.\"Héhihi... Désolée de vous interrompre\n pendant que vous vous enflammez.\"",
             "\\.\"C'est bientôt l'heure du \\C[2]vote préliminaire\\C[0] !\"",
             "\\.\\C[4](Que...?!)",
@@ -20114,7 +20125,7 @@
             "\\.\"Un endroit bizarre...?\"",
             "\\.\"Allez, suis-moi.\"",
             "\\.\"Où sommes-nous...?\"",
-            "\\.\"Pas vrai ? Bizarre comme endroit, hein ?\"",
+            "\\.\"Ouais... Bizarre comme endroit, hein ?\"",
             "\\.\"Le plus louche, ce sont ces escaliers.\n Y a un distributeur en haut.\"",
             "\\.\\C[4](Un distributeur...?)"
         ],
@@ -20160,7 +20171,7 @@
         ],
         "27-1-message": [
             "\\.\"Me faire soigner ma blessure, ça m'a\n donné faim, miaou !\"",
-            "\\.\"Vous voulez que je demande des poivrons ?\"",
+            "\\.\"Tu veux que je demande des poivrons ?\"",
             "\\.\"Je déteste les poivrons, miaou !!\""
         ],
         "27-3-message": [
@@ -20179,6 +20190,12 @@
         ],
         "27-6-choice": [
             "Trouver un sujet de discussion\nSuggérer du rab"
+        ],
+        "78-1-message": [
+            "\\.\"C'est vraiment étrange.\n Il fait même nuit, derrière ces fenêtres...\""
+        ],
+        "39-1-message": [
+            "\\.\"C'est vraiment étrange.\n Il fait même nuit, derrière ces fenêtres...\""
         ]
     },
     "map76": {
@@ -20201,7 +20218,7 @@
             "\\.\"Le truc... à grand frère Joe... ouaf.\"",
             "\\.\\C[4](C'est le porte-clé en forme de chien qu'il\n gardait toujours dans la poche de sa veste...)",
             "\\.\\C[4](C'est celui... que je lui ai donné.)",
-            "\\.\"Je... Je l'ai ramassé par terre, ouaf...\"",
+            "\\.\"Je... Je l'ai ramassé par terre quand il... Ouaf...\"",
             "\\.\"Je voulais pas que les ravisseurs le prennent,\n miaou...\"",
             "\\.\"Désolé, ouaf...\"",
             "\\C[10]Niveau d'Hallucination empiré de 30.",
@@ -20242,7 +20259,7 @@
         "5-3-message": [
             "\\.\"Prévenez-moi si vous avez besoin de quoi que ce soit !\n Ne fouillez pas partout sans m'en informer...\"",
             "\\.\"...\"",
-            null,
+            "\\.\"Lara...! Réponds-moi...!\n C'est quoi, ça ?!\"",
             null,
             null,
             null,
@@ -20378,7 +20395,19 @@
             "\\.\"...\"",
             "\\.\"Pas... encore...\"",
             "\\.\\C[3]Ce n'est qu'une hallucination.\nJe dois encore voir des choses.",
-            "\\C[10]Niveau d'Hallucination empiré de 20."
+            "\\C[10]Niveau d'Hallucination empiré de 20.",
+            "\\.\\C[4](Combien de temps vais-je tenir...?\n Pendant combien de temps encore... vais-je...)",
+            "\\.\\C[3]Je m'approche du placard, mais l'hallucination\nne disparaît pas.",
+            "\\.\\C[3]Elle ne fait que devenir de plus en plus claire.",
+            "\\.\"...?\"",
+            "\\.\"Ne me dites pas... que c'est...!\"",
+            "\\.\"Joe...?!\"",
+            "\\.\"..........\"",
+            "\\.\\C[4](Non... Il ne réagit pas...!)",
+            "\\.\\C[4](Mais... Mes yeux...\n Qu'est-ce qui ne va pas avec mes yeux...?!)",
+            "\\.\"Qu'est-ce que vous faites ?!\"",
+            "\\.\"Je vous prie de ne rien ouvrir sans demander !\"",
+            "\\.\"Lara...!!\""
         ],
         "2-1-message": [
             "\\.\\C[3]Keiji traite la blessure de Gin.",
@@ -20389,7 +20418,7 @@
             "\\.\"Ah !\n J'ai une crème qui accélère la régénération cellulaire.\n Si vous l'appliquez, la plaie guérira plus rapid-\"",
             "\\.\"Euh... T'es sûre que c'est pas dangereux ?\"",
             "\\.\"..........\"",
-            "\\.\"Très bien. Je vous prie de bien vouloir me\n diriger votre attention.\"",
+            "\\.\"Très bien. Je vous prie de bien vouloir diriger\n votre attention vers moi.\"",
             "\\.\\C[3]Lara se taille la main jusqu'au sang.",
             "\\.\"Vous pouvez l'appliquer sur la plaie comme tel...!\"",
             "\\.\"Comme vous pouvez le constater, ce n'est\n pas dangereux.\"",
@@ -20488,6 +20517,16 @@
             "Réutiliser l'appareil\nAnnuler",
             "Insister quand même\nAnnuler",
             "Je t'en supplie !\nAnnuler"
+        ],
+        "7-1-message": [
+            "\\.\\C[3]Un kit de premiers secours et de l'équipement médical."
+        ],
+        "6-2-message": [
+            "\\.\\C[10]Quelque chose qui ressemble comme deux gouttes\nd'eau à Joe me regarde."
+        ],
+        "48-7-message": [
+            "\\.\"Même grande sœur Nao se sent pas bien, miaou...\"",
+            "\\.\"Je peux pas continuer à rien faire...\n Pourquoi les seuls qui sont heureux, c'est la fille\n meurtrière et le ténébreux, miaou ?\""
         ]
     },
     "map77": {
@@ -21255,7 +21294,7 @@
             "\\.\"On dirait qu'il accepte les pièces.\"",
             "\\.\"..........\"",
             "\\.\"Ah...\"",
-            "\\.\"Et les jetons, peut-être...?\"",
+            "\\.\"Comme des jetons, peut-être...?\"",
             "\\.\"...!\"",
             "\\.\"... O-On fait quoi ?\n On insère des jetons, ou pas...?\"",
             "\\.\"A-Attends...!\"",
@@ -21285,9 +21324,9 @@
             "\\.\"Ah... Reko.\"",
             "\\.\"Hm ?\"",
             "\\.\\C[3]Je récupère le jeton que Reko avait inséré dans\nla machine depuis la fente de remboursement et\nje lui rends.",
-            "\\.\"Oh, merci.\n Maintenant allez, Sara.\"",
+            "\\.\"Oh, merci.\n Maintenant, viens, Sara.\"",
             "\\.\"Oui...\"",
-            "\\.\\C[4](On pourra revenir si on arrive à résoudre l'énigme...)",
+            "\\.\\C[4](Je pourrai toujours revenir quand je serai\n sûre de ce qu'il faut faire...)",
             "\\.\\C[4](De toute façon, c'est l'heure des attractions.)"
         ],
         "4-2-message": [
@@ -23326,6 +23365,9 @@
             null,
             null,
             "\\.\\C[4](...?)"
+        ],
+        "68-1-message": [
+            "\\C[3]Un kit de premiers secours et de l'équipement médical."
         ]
     },
     "map136": {
