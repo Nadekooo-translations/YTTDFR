@@ -20354,13 +20354,25 @@
             "\\.\"Je vivais avec ma mère célibataire.\n On était pas riche.\"",
             "\\.\"Du coup, quand je voulais aller chez mes amis...\n Je devais emprunter le vélo de ma mère.\n À la base, elle s'en servait pour faire les courses.\"",
             "\\.\"Les freins marchaient plus du tout.\n Un jour, je suis tombé du vélo et il a plongé\n dans une rivière.\"",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\"...\""
+            "\\.\"À cause de l'embarras de mon ami qui se moquait de\n moi et de la culpabilité d'avoir cassé le précieux vélo\n de ma mère, j'ai fondu en larmes comme pas possible.\"",
+            "\\.\"Et là... se tenait le gentil policier du coin.\"",
+            "\\.\"Il a plongé dans la rivière et a récupéré le vélo.\n Il a même passé des heures au commissariat à\n le réparer.\"",
+            "\\.\"Trempé et cool, mais maladroit...\n Il était mon héros.\"",
+            "\\.\"Alors c'était lui... la personne qui t'était chère.\"",
+            "\\.\"C'est ce qui m'a convaincu de devenir policier.\n\\! Je l'oublierai jamais...\n C'est un de mes précieux souvenirs.\"",
+            "\\.\"...\"",
+            "\\.\"C'est la première fois... que j'ai l'impression\n d'avoir appris quelque chose sur toi, Keiji.\"",
+            "\\.\"Hein ? Quoi, vraiment ?\"",
+            "\\.\"... Merci beaucoup.\"",
+            "\\.\"Pas de soucis.\"",
+            "\\.\"Puisque tu es devenu policier...\n Est-ce que vous vous êtes retrouvés ?\"",
+            "\\.\"..........\"",
+            "\\.\"Hé bien... Il y a beaucoup de polices dans le monde.\"",
+            "\\.\"Et voilà, fin de l'histoire.\n Tu t'es un peu calmée ?\"",
+            "\\.\"Oui... Merci beaucoup.\"",
+            "\\.\"Tu peux toujours te reposer sur Monsieur le Policier.\n Aller, à la prochaine.\"",
+            "\\.\\C[4](En tout cas... J'ai réussi à découvrir la vérité\n sur le fantôme du cabinet médical.)",
+            "\\.\\C[4](J'ai envie de bouger...\n Je vais continuer à terminer des attractions.)"
         ],
         "5-5-message": [
             "\\.\"C'est moi, Lara.\n ... Je ne quitterai plus mon poste désormais.\"",
@@ -20542,7 +20554,8 @@
             "C'est quoi, ça ?\nJ'ai le droit d'explorer où je veux",
             "À quoi servent-elles ?\nCe sont vraiment des poupées ?\nQui les a faites ?",
             "Je vais bien\nJe suis épuisée",
-            "C'était un ami proche\nJe ne sais pas\nC'était juste une connaissance"
+            "C'était un ami proche\nJe ne sais pas\nC'était juste une connaissance",
+            "Merci beaucoup\nVous êtes vous retrouvés ?"
         ]
     },
     "map77": {
