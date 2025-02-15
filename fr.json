@@ -29767,7 +29767,9 @@
     },
     "map71": {
         "1-1-message": [
-            "\"S'il te plait ! Keiji !\""
+            "\"S'il te plait ! Keiji !\"",
+            "\"Dacodac. J'y vais.\"",
+            "\\.\\C[4](Il s'est passé quelque chose dans la Chambre Bleue)"
         ]
     }
 }
