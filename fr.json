@@ -571,7 +571,7 @@
         "midori_ノエル": "arranger",
         "midori_トトノエル": "rayarranger",
         "// expression strings are english by default, but can be defined here ala talkspritedescription_cara0-1": "Default (no collar)",
-        "itemdesc156": "Une longue corde blanche.\\n... Je ne sais pas pourquoi elle s'appelle comme ça."
+        "itemdesc156": "Une longue corde blanche.\\n... Je ne sais pas pourquoi elle s'appelle\\ncomme ça."
     },
     "items-16": {
         "name": "??????????????",
@@ -16231,7 +16231,7 @@
             "\\C[3]Ce n'est pas le moment de faire des attractions.",
             "\\C[3]J'ai déjà fait cette attraction.",
             "\\C[3][Tapette à Bête]\nNombre de participants : 2\nRécompense de Médaillons de Triomphe : ★★\nDifficulté : Moyenne",
-            "\\.\\C[3]Vos ennemis invoquent des créatures qui vous attaquent.\nFrappez-les et battez trois invocateurs pour gagner.",
+            "\\.\\C[3]Vos ennemis invoquent des créatures pour vous attaquer.\nFrappez-les et battez trois invocateurs pour gagner.",
             "\\.Kanna Kizuchi\nQuand vous jouez Kanna, le nombre d'ennemis\ninvoqués est réduit.\nDifficulté : Moyenne",
             "\\.\"..........\"",
             "\\.Kanna Kizuchi\nQuand vous jouez Kanna, le nombre d'ennemis\ninvoqués est réduit.\nDifficulté : Moyenne",
@@ -16840,7 +16840,7 @@
             "\\.\"Et du coup, j'me disais... que si je récupérais\n assez d'jetons, peut-être que j'trouverai.\"",
             "\\.\"Alors c'est pour ça que tu en collectes.\"",
             "\\.\"C'ça. Si j'arrive à mettre la main sur un ticket\n vers la sortie et à l'atteindre...\"",
-            "\\.\"On pourra peut-être s'révolter et réussir\n à tous s'barrer d'ici!\"",
+            "\\.\"On pourrait peut-être retourner la situation\n et tous s'barrer d'ici !\"",
             "\\.\"... Après, j'pense vraiment pas que c'sera\n aussi simple.\"",
             "\\.\\C[4](... Je vois.)",
             "\\.\\C[4](Q-taro est venu me dire son plan plutôt que de\n le garder secret.)",
@@ -20137,11 +20137,11 @@
             "\\.\"Arrête tes conneries !\n Il faisait que m'interroger !\"",
             "\\.\"Ooh, tu fais peur.\n Tu serais une bonne détective, Reko.\"",
             "\\.\"Si t'as finis de me causer, casse-toi, Keiji !!\"",
-            "\\.\"Je continue d'enquêter.\n À la prochaine.\"",
+            "\\.\"Je continue l'enquête.\n À la prochaine.\"",
             "\\.\"Fiou... Il est parti.\"",
             "\\.\"Sara, j'ai besoin de toi.\n Tu peux venir avec moi une minute ?\"",
             "\\.\"Hein...?\"",
-            "\\.\"J'ai trouvé quelque chose de bizarre ici.\"",
+            "\\.\"Je suis tombée sur un truc bizarre ici.\"",
             "\\.\"Quelque chose de bizarre...?\"",
             "\\.\"C'est difficile à remarquer dans ce noir, mais...\n Regarde ce mur.\""
         ],
@@ -22164,7 +22164,7 @@
     },
     "map112": {
         "1-3-message": [
-            null,
+            "\\.\\C[3]Une machine émet de la lumière rouge.",
             null,
             null,
             null,
@@ -22191,28 +22191,28 @@
             "\\.\"...\""
         ],
         "1-1-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\.\\C[3]Une machine émet de la lumière rouge.",
+            "\\.\\C[4](Serait-ce un ordinateur...?)",
+            "\\.\\C[4](Rien à faire... Il n'a pas l'air de s'allumer.)",
+            "\\.\"Hm, t'es en retard.\"",
+            "\\.\"Hé, par ici.\"",
+            "\\.\"Keiji...?\"",
+            "\\.\"Pas de bruit...\n Essaie de pas ramener les autres ici...\n Juste au cas où.\"",
+            "\\.\"Q-taro a enfin trouvé où il était...\"",
+            "\\.\"Il a trouvé... quoi ?\"",
+            "\\.\"Ben, l'ordinateur de Kai.\"",
+            "\\.\"... Quoi ?!\"",
+            "\\.\\C[3]Q-taro déniche l'ordinateur de derrière les débris.",
+            "\\.\\C[3]C'est sans l'ombre d'un doute l'ordinateur de Kai...\nCelui que l'on a trouvé au rez-de-chaussée.",
+            "\\.\"Tu... l'as trouvé ici ?!\"",
+            "\\.\"Hé, ouais.\"",
+            "\\.\"Mais l'ordinateur avait disparu au rez-de-chaussée\n après que Kai l'ait récupéré...\"",
+            "\\.\"Alors... Qu'est-ce qu'il fait au deuxième étage ?!\"",
+            "\\.\"Aucune idée...\n Mais c'l'ordinateur d'Kai. C'est un fait.\"",
+            "\\.\"J'ai que deux possibilités en tête :\n Soit quelqu'un l'a pris et l'a mis ici...\"",
+            "\\.\"Soit... c'est Kai qui l'a emmené ici.\"",
+            "\\.\"...?!\"",
+            "\\.\"Minute, tout le monde.\n La vérité peut attendre, OK ?\"",
             null,
             null,
             null,
@@ -22354,6 +22354,9 @@
         ],
         "1-1-choice": [
             "Sou nous a menti\nKai a modifié le mot de passe"
+        ],
+        "1-2-message": [
+            "\\.\\C[3]Une machine émet de la lumière rouge."
         ]
     },
     "map113": {
@@ -22981,6 +22984,9 @@
             null,
             null,
             "\\.\"...\""
+        ],
+        "16-1-message": [
+            "\\.\\C[3]Une machine émet de la lumière rouge."
         ]
     },
     "map128": {
@@ -28405,11 +28411,23 @@
             "\\.\\C[3]Une photo de Q-taro est collée au dos."
         ],
         "48-1-message": [
-            null,
+            "\\C[3]L'un des nombreux moniteurs.",
             "\\.\\C[3]Une photo de moi est collée au dos."
         ],
         "6-2-choice": [
             "Passé\nDonnées physiques\nRelatifs\nInfo de la Démocratie Mortelle\nCe qu'elle tient à cœur\nAnnuler"
+        ],
+        "48-2-message": [
+            "\\C[3]La vidéo d'une des victimes est branchée au\nmoniteur central.",
+            "\\C[4](Je n'ai pas la Vidéo 1...)",
+            "\\C[4](La Vidéo d'une Victime 1...\n Regardons-la.)",
+            "\\C[4](Je n'ai pas la Vidéo 2...)",
+            "\\C[4](La Vidéo d'une Victime 2...\n Regardons-la.)",
+            "\\C[4](Je n'ai pas la Vidéo 3...)",
+            "\\C[4](La Vidéo d'une Victime 3...\n Regardons-la.)"
+        ],
+        "48-2-choice": [
+            "Regarder la Vidéo d'une Victime 1\nRegarder la Vidéo d'une Victime 2\nRegarder la Vidéo d'une Victime 3\nAnnuler"
         ]
     },
     "map152": {
@@ -28420,6 +28438,9 @@
         "3-1-message": [
             null,
             "\\.\\C[4](...?)"
+        ],
+        "31-1-message": [
+            "\\.\\C[3]Une machine émet de la lumière rouge."
         ]
     },
     "map175": {
