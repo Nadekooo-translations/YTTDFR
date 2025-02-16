@@ -2,7 +2,7 @@ name: Build
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "**" ]
 
   workflow_dispatch:
 
@@ -135,6 +135,7 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     needs: [package, installer, website]
+    if: github.ref == 'refs/heads/main'
     environment:
       name: Production
       url: "https://yttd.fr"
