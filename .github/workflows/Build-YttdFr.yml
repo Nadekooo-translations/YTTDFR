@@ -111,7 +111,7 @@ jobs:
           uses: jurplel/install-qt-action@v4.1.1
           with:
             version: 6.7.*
-            arch: win64_msvc2022_64
+            arch: win64_msvc2019_64
         - run: $QT_ROOT_DIR/bin/qt-cmake -S patch-wizard -B patch-wizard/build
 
   website:
