@@ -22544,18 +22544,31 @@
             "\\.\\C[4](Ce que Sou a en tête n'est pas important...!)",
             "\\.\\C[4](Je dois récupérer ce téléphone !\n Je dois le détruire, pour le bien de Kanna !!)",
             "\\.\"Ton regard est terrifiant, Sara.\n C'est à ça que tu ressembles vraiment ?\"",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\\C[4](...)"
+            "\\.\\C[4](... Je...)",
+            "\\.\\C[4](... passe à l'offensive...\n Dès qu'il baisse sa garde...!!)",
+            "\\.\"Ouargh ! Qu'est-ce que-?!\"",
+            "\\.\\C[3]Ça s'est étonnamment bien passé.",
+            "\\.\\C[3]La résistance de Sou était extrêmement faible.",
+            "\\.\\C[3]Mais...",
+            "\\.\\C[3]Il y avait bien...\nUne chose à laquelle je ne m'attendais pas.",
+            "\\.\\C[4](Qu'est-ce que c'est... que ça...?)",
+            "\\.\\C[4](Le message... n'est plus le même...)",
+            "\"Rends-le-moi !!\"",
+            "\\.\\C[3]Il récupère le téléphone en me prenant par surprise.",
+            "\\.\\C[4](...)",
+            "\\.\"Sou... C'est toi qui...?\"",
+            "\\.\"... Fiou.\"",
+            "\\.\"Je ne vais pas te laisser faire.\"",
+            "\\.\\C[4](... Je ne peux pas utiliser la force...)",
+            "\\.\\C[4](Je ne sais pas ce que Sou pourrait faire.)",
+            "\\.\\C[4](Je ne peux pas être violente sans précautions...!)",
+            "\\.\"Allez, à plus, Sara.\"",
+            "\\.\"A-Attends !!\"",
+            "\\.\\C[4](Argh...!!)",
+            "\\.\\C[4](Il m'a encore... bien eue...!\n Comment est-ce qu'il fait ?!)",
+            "\\.\\C[3]Affligée, je quitte la salle.",
+            "\\.\\C[4](Où est passé Sou...?)",
+            "\\.\\C[4](Je ne peux pas simplement faire comme s'il\n n'existait pas...)"
         ],
         "2-1-choice": [
             "Regarder le téléphone\nNe pas le prendre",
@@ -22567,6 +22580,9 @@
             "Rends-le-moi !\nTu as vu ce qu'il contient ?!\nQu'est-ce que tu cherches à faire ?!",
             "Je l'ai caché pour qu'elle ne le lise pas\nJe l'aurais gardé si je voulais lui montrer\nQuelle fausse accusation !",
             "Le récupérer de force\nNe rien faire"
+        ],
+        "3-1-message": [
+            "\\.\\C[4](J'ai réussi à revenir ici sans me faire remarquer.\n Je n'ai plus qu'à regarder...)"
         ]
     },
     "map116": {
