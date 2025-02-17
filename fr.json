@@ -7526,7 +7526,7 @@
             "\\.\\C[4](Mince...! C'était une erreur !)",
             "\"J'sais pas, miaou... Je comprends pas, ouaf...\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
-            "\"Qui aurait-pu écrire ça, miaou...?\n Ouaf... Je sais que ça peut pas être toi,\n grande sœur Sara...\"",
+            "\"Qui aurait pu écrire ça, miaou...?\n Ouaf... Je sais que ça peut pas être toi,\n grande sœur Sara...\"",
             "\\.\\C[4](Hm... Devrais-je lui demander autre chose ?)",
             "\"Mais qu'est-ce que ça faisait là, miaou ?\n Je comprends pas, ouaf...\"",
             "\\.\\C[4](Hm... Devrais-je lui demander autre chose ?)",
@@ -11889,16 +11889,16 @@
             "\\.\"Ce qui veut dire... qu'il a peut-être fait exprès\n de lui donner.\""
         ],
         "580-0-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\"Sara, t'as une minute ?\n Ça t'dit d'discuter sans faire d'échange\n pour une fois ?\"",
+            "\"On s'est jamais assis papoter.\n On a pas beaucoup d'occasions et d'temps.\"",
+            "\\.\"T'en dis quoi ?\n Si t'es occupée, c'pas grave.\"",
+            "\\.\\C[4](Hm...)",
+            "\\.\"Ouah, ça m'fait plaisir !\n Allez, assieds-toi.\"",
+            "\\.\"Dis, t'prends suffisamment d'pauses ?\n T'es bien pâle.\"",
+            "\\.\"Oh... Vraiment ?\"",
+            "\\.\"Ouaip.\n On mettrait pas quelqu'un avec ta tête sur l'terrain.\"",
+            "\\.\"Tu parles... de baseball ?\"",
+            "\\.\"... Ouais.\n Ah, c'vrai, tu t'y connais rien en baseball...\n Au temps pour moi.\"",
             null,
             null,
             null,
@@ -14547,7 +14547,7 @@
             "\\.\"Sara, s'il te plaît ! Viens avec moi !\"",
             "\\.\\C[4](... Je ne peux pas refuser.)",
             "\\.\"D'accord. Allons-y.\"",
-            "\\.\"Hmm...\n Pourquoi ne pas demander à Q-taro?\n Il est beaucoup plus fort...\"",
+            "\\.\"Hmm...\n Pourquoi ne pas demander à Q-taro ?\n Il est beaucoup plus fort...\"",
             "\\.\"..........\"",
             "\\.\\C[4](Ah... Elle est au bord des larmes.\n Elle a peur...?)",
             "\\.\"... Bon, d'accord. Allons-y ensemble.\"",
@@ -15791,7 +15791,7 @@
             "\\.\"Bien évidemment, les jetons de Reko que tu as\n collecté sont maintenant en ma possession...!\"",
             "\\.\"À présent, payons une visite au Stand d'Échange...!\n\\! Que ta curiosité effrontée devienne ma force !!\"",
             "\\.\\C[4](C'est méchant de le tourner comme ça...)",
-            "\\.\"...Hmph.\n As-tu vraiment obtenu les jetons de Reko ?\n Montre-les moi.\"",
+            "\\.\"... Hmph.\n As-tu vraiment les jetons de Reko en ta possession ?\n Montre-les-moi.\"",
             "\\.\"Hmm...\n Voyez-vous cela, tu les as vraiment récupérés...\"",
             "\\.\"Bon travail, Sara Chidouin.\n Je t'en félicite.\"",
             "\\.\"Hmm...\"",
@@ -17622,8 +17622,8 @@
             "\\.\\C[10]Pourquoi...?",
             "\\.\\C[10]Pourquoi tu m'as pas sauvé, Sara...?",
             "\\.\\C[10]..........",
-            "\\.\"Urghhh...!!\"",
-            "\\.\\C[4](J'en... ai... assez...)"
+            "\\.\"Arghhh...!!\"",
+            "\\.\\C[4](J'en... ai... marre...)"
         ],
         "606-0-message": [
             "\\C[10]\"Hé, Sara.\"",
@@ -20108,7 +20108,7 @@
             "\\.\"Sara, s'il te plaît ! Viens avec moi !\"",
             "\\.\\C[4](... Je ne peux pas refuser.)",
             "\\.\"D'accord. Allons-y.\"",
-            "\\.\"Hmm...\n Pourquoi ne pas demander à Q-taro?\n Il est beaucoup plus fort...\"",
+            "\\.\"Hmm...\n Pourquoi ne pas demander à Q-taro ?\n Il est beaucoup plus fort...\"",
             "\\.\"..........\"",
             "\\.\\C[4](Ah... Elle est au bord des larmes.\n Elle a peur...?)",
             "\\.\"... Bon, d'accord. Allons-y ensemble.\"",
@@ -20607,7 +20607,7 @@
             "\\.\"Bien, on est au Couloir en Ruines.\"",
             "\\.\"Par ici ! Il y a un passage au fond !\"",
             "\\.\\C[4](Ce n'est pas le même chemin que le passage\n de la Salle Effondrée...)",
-            "\\.\"Il fait vraiment sombre ici...\n Qui aurait-pu deviner que c'était là ?\"",
+            "\\.\"Il fait vraiment sombre ici...\n Qui aurait pu deviner que c'était là ?\"",
             "\\.\"Si tu continues... Il fait encore plus noir.\"",
             "\\.\\C[4](Elle risque sûrement de trébucher...)",
             "\\.\"Tiens-moi bien la main, Kanna.\"",
@@ -20652,8 +20652,8 @@
             "\\.\\C[3]Je comprimais ses épaules tremblantes contre moi.",
             "\\.\"..........\"",
             "\\.\"..........\"",
-            "\\.\"... Désolée... De m'être emportée...\"",
-            "\\.\"Ça va... Maintenant...\"",
+            "\\.\"... Désolée... de m'être emportée...\"",
+            "\\.\"Ça va mieux... maintenant...\"",
             "\\.\"Kanna... Je laisse la porte ouverte.\n ... Attends-moi dehors.\"",
             "\\.\"... D'accord...\"",
             "\\.\\C[4](C'est la salle où Kanna et sa sœur ont passé\n la Première Épreuve.)",
@@ -22166,29 +22166,33 @@
         "1-3-message": [
             "\\.\\C[3]Une machine émet de la lumière rouge.",
             "\\.\\C[3]Il n'y a pas l'air d'avoir de prises ou de câbles\nnormalement requis pour allumer un ordinateur.",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\"...\""
+            "\\.\"... Tu fais quoi ?\"",
+            "\\.\"Tu viens visiter Monsieur le Policier, c'est ça...?\"",
+            "\\.\"K-Keiji ! Où étais-tu passé...?!\"",
+            "\\.\"Je suis juste dans le noir, je réfléchis...\n\\! Hmm, c'est horrible.\"",
+            "\\.\"Tu réfléchis ?\"",
+            "\\.\" Ouaip...\n J'essaie de trouver des points communs entre nous\n qu'on a pas encore trouvé.\"",
+            "\\.\"Des points communs...\"",
+            "\\.\"Si on arrive à les trouver, je pense qu'on saura.\"",
+            "\\.\"... On saura qui est le vrai coupable.\"",
+            "\\.\"...\"",
+            "\\.\"... Laisse-moi tranquille un petit moment, Sara.\"",
+            "\\.\\C[4](Keiji... n'est pas le coupable... hein...?)"
         ],
         "7-1-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\"...\""
+            "\\.\\C[3]Un écran éteint.",
+            "\\.\"... Tu fais quoi ?\"",
+            "\\.\"Tu viens visiter Monsieur le Policier, c'est ça...?\"",
+            "\\.\"K-Keiji ! Où étais-tu passé...?!\"",
+            "\\.\"Je suis juste dans le noir, je réfléchis...\n\\! Hmm, c'est horrible.\"",
+            "\\.\"Tu réfléchis ?\"",
+            "\\.\" Ouaip...\n J'essaie de trouver des points communs entre nous\n qu'on a pas encore trouvé.\"",
+            "\\.\"Des points communs...\"",
+            "\\.\"Si on arrive à les trouver, je pense qu'on saura.\"",
+            "\\.\"... On saura qui est le vrai coupable.\"",
+            "\\.\"...\"",
+            "\\.\"... Laisse-moi tranquille un petit moment, Sara.\"",
+            "\\.\\C[4](Keiji... n'est pas le coupable... hein...?)"
         ],
         "1-1-message": [
             "\\.\\C[3]Une machine émet de la lumière rouge.",
@@ -22345,7 +22349,7 @@
             "\\.\"... La batterie est vide.\"",
             "\\.\"On a pas pu trouver quoi que ce soit qui pourrait\n nous permettre de sortir de là, au final.\"",
             "\\.\"Mais bon... Je le savais...\n Kai est pas une satanée crapule !!\"",
-            "\\.\"Mais est-ce que... ça nous aide ?\"",
+            "\\.\"Mais est-ce que... ça nous avance ?\"",
             "\\.\"...!!\"",
             "\\.\"... Il reste d'autres choses à vérifier dessus.\"",
             "\\.\"..........\"",
@@ -22455,7 +22459,7 @@
             "\\.\"D'un fantôme dans le \\C[2]Cabinet Médical\\C[0]...\"",
             "\\.\"... Un fantôme ?\"",
             "\\.\"C'est tout ce que je sais.\n Tu devrais t'en occuper.\"",
-            "\\.\"*... Ah-ha...\n Se pourrait-il que tu aies peur ?\"",
+            "\\.\"... Ah-ha...\n Se pourrait-il que tu aies peur ?\"",
             "\\.\"Mais naturellement...!\n Je ne peux continuer d'attractions tant que l'affaire\n n'est pas résolue !\"",
             "\\.\\C[4](Difficile de trouver la motivation de refuser\n face à tant d'honnêteté.)",
             "\\.\\C[4](Tant pis...\n Le fantôme du Cabinet Médical passe en priorité.)",
@@ -22628,7 +22632,7 @@
             "\\.\"... D'accord.\"",
             "\\.\\C[4](Je me demande si ça suffira...)",
             "\\.\\C[4](Étant donné que c'est moi qui aie commencé tout ça,\n je me sens un peu responsable de ce qui arrive.\n Je devrais aller superviser la situation.)",
-            "\\.\\C[4](Je pars suivre Alice...?)"
+            "\\.\\C[4](Je me demande si je devrais suivre Alice...)"
         ],
         "3-2-message": [
             "\\C[3][Prix] Informations Personnelles de Sara\n\nJetons Requis : 50 Jetons de Sara",
@@ -22753,7 +22757,7 @@
     },
     "map117": {
         "1-1-message": [
-            "\\C[3]Alice et Reko discutent dans la salle principale.",
+            "\\C[3]Alice et Reko discutent dans le hall d'entrée.",
             "\"..........\"",
             "\\.\"..........\"",
             "\\.\"... Si t'as rien à me dire, je me casse.\"",
@@ -22778,7 +22782,7 @@
             "\\.\"T'as pas pu trouver la volonté de jeter ces bongos...\"",
             "\\.\"..........\"",
             "\\.\"Hahaha...\n Tu peux en trouver partout, des bongos comme ça...\"",
-            "\\.\"Ils sont usés... mais ils ont été entretenus de\n manière à ce que ça ne se voit pas.\n Plus je les regarde, et plus j'ai l'impression\n de voir ta souffrance.\"",
+            "\\.\"Ils sont usés... mais ils ont été entretenus de\n manière à ce que ça ne se voit pas.\n Plus je les regarde, plus je vois ta souffrance.\"",
             "\\.\"Urgh...!!\"",
             "\\.\"Bon, ta gueule !\n Abrège, tu me veux quoi ?!\"",
             "\\.\"Reko...\"",
@@ -22803,7 +22807,7 @@
             "\\.\"Dégage de ma vue !! \\C[10]Sale meurtrier !!\\C[0]\"",
             "\\C[4](C'est... horrible...)",
             "\\.\\C[3]Je pensais qu'ils se réconcilieraient.",
-            "\\.\\C[3]Je n'avais jamais vu Reko aussi terrifiante auparavant.",
+            "\\.\\C[3]Je n'avais jamais vu Reko avoir l'air si\nterrifiante auparavant.",
             "\\.\\C[3]Ce n'est pas le genre de situation où un\ninconnu peut donner son avis.",
             "\\.\\C[4](Mais...!!)",
             "\\.\"Reko !! Attends une minute !!\"",
@@ -22815,7 +22819,7 @@
             "\\.\"Reko ! S'il te plaît, attends !\"",
             "\\.\\C[4](Bon, pour l'instant... Alice passe en priorité.)",
             "\\.\"Alice...\"",
-            "\\.\\C[3]Alice est en train de ramasser les morceaux des bongos.",
+            "\\.\\C[3]Alice est en train de ramasser les morceaux de bongos.",
             "\\.\\C[3]... Très délicatement, sans manquer une seule pièce.",
             "\"..........\"",
             "\\.\"Reko... a pas changé du tout.\"",
@@ -23087,6 +23091,9 @@
         "16-1-message": [
             "\\.\\C[3]Une machine émet de la lumière rouge.",
             "\\.\\C[3]Il n'y a pas l'air d'avoir de prises ou de câbles\nnormalement requis pour allumer un ordinateur."
+        ],
+        "19-1-message": [
+            "\\.\\C[3]Un écran éteint."
         ]
     },
     "map128": {
@@ -28542,6 +28549,9 @@
         "31-1-message": [
             "\\.\\C[3]Une machine émet de la lumière rouge.",
             "\\.\\C[3]Il n'y a pas l'air d'avoir de prises ou de câbles\nnormalement requis pour allumer un ordinateur."
+        ],
+        "25-1-message": [
+            "\\.\\C[3]Un écran éteint."
         ]
     },
     "map175": {
