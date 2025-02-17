@@ -103,7 +103,7 @@ jobs:
           path: ${{ env.YTTD_FOLDER }}
 
   installer:
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
     needs: [package]
     steps:
         - uses: actions/checkout@v3
@@ -111,7 +111,6 @@ jobs:
           uses: jurplel/install-qt-action@v4.1.1
           with:
             version: 6.7.*
-            arch: win64_msvc2019_64
         - run: $QT_ROOT_DIR/bin/qt-cmake -S patch-wizard -B patch-wizard/build
 
   website:
