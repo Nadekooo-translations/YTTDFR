@@ -111,7 +111,8 @@ jobs:
           uses: jurplel/install-qt-action@v4.1.1
           with:
             version: 6.7.*
-        - run: $QT_ROOT_DIR\bin\qt-cmake -S patch-wizard -B patch-wizard\build
+            dir: qt
+        - run: qt\bin\qt-cmake -S patch-wizard -B patch-wizard\build
 
   website:
     runs-on: ubuntu-latest
