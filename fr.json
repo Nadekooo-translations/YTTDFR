@@ -22451,7 +22451,15 @@
             "\\.\\C[4](J'y retournerai quand j'aurai une opportunité...)",
             "\\.\"Ah, oui, Sara Chidouin.\"",
             "\\.\"Ouah...? Q-Qu'est-ce qu'il y a ?\"",
-            "\\.\"Hé bien...\n J'ai simplement entendu le jeune Gin parler...\""
+            "\\.\"Hé bien...\n J'ai simplement entendu le jeune Gin parler...\"",
+            "\\.\"D'un fantôme dans le \\C[2]Cabinet Médical\\C[0]...\"",
+            "\\.\"... Un fantôme ?\"",
+            "\\.\"C'est tout ce que je sais.\n Tu devrais t'en occuper.\"",
+            "\\.\"*... Ah-ha...\n Se pourrait-il que tu aies peur ?\"",
+            "\\.\"Mais naturellement...!\n Je ne peux continuer d'attractions tant que l'affaire\n n'est pas résolue !\"",
+            "\\.\\C[4](Difficile de trouver la motivation de refuser\n face à tant d'honnêteté.)",
+            "\\.\\C[4](Tant pis...\n Le fantôme du Cabinet Médical passe en priorité.)",
+            "\\.\\C[4](En attendant...\n Je vais aller faire une attraction, je pense...)"
         ],
         "2-3-message": [
             null,
@@ -22548,6 +22556,12 @@
             null,
             null,
             "\\.\\C[4](...)"
+        ],
+        "2-1-choice": [
+            "Regarder le téléphone\nNe pas le prendre",
+            "Cacher le téléphone\nModifier le message",
+            "Cacher le téléphone\nEffacer le message",
+            "Cacher le téléphone\nÉteindre le téléphone"
         ]
     },
     "map116": {
