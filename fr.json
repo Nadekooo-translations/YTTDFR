@@ -20285,9 +20285,9 @@
         "15-3-message": [
             "\\.\"Tu m'entends ?!\n Jamais je ne mangerai de céleri aussi amer !!\"",
             "\\.\"... N'aviez-vous pas demandé du céleri frit ?\"",
-            "\\.\"J'ai dit du RIZ frit!!\"",
-            null,
-            null,
+            "\\.\"J'ai dit du RIZ frit !!\"",
+            "\\.\"... Ouuuh...\n Le riz frit, n'est-ce pas trop lourd pour un\n petit déjeuner...?\"",
+            "\\.\"Parce que le céleri frit amer, c'est léger,\n peut-être ?!\"",
             "\\.\\C[4](... On dirait qu'ils ont passé toute la matinée\n à se disputer pour rien.)"
         ],
         "27-1-message": [
