@@ -17881,7 +17881,16 @@
             "\\.\"Haaah...\"",
             "\\.\"C'est le paradis...\"",
             "\\.\"Oui, c'est vraiment le paradis...\"",
-            "\\.\\C[3]Même si ce n'était que temporaire, j'ai pu oublier\ntoutes les mauvaises choses qui étaient arrivées."
+            "\\.\\C[3]Même si ce n'était que temporaire, j'ai pu oublier\ntoutes les mauvaises choses qui étaient arrivées.",
+            "\\.\\C[3]Nous avons tous récupéré le sourire et nous avons pu\ndiscuter sans avoir à s'inquiéter de quoi que ce soit.",
+            "\\.\\C[3]Même si nous allions bientôt retourner à la réalité...\nJe voulais rester dans ce rêve aussi longtemps que\npossible.",
+            "\\.\"Sara...\"",
+            "\\.\\C[3]Je pouvais même parler normalement... à Kanna.",
+            "\\.\"Haha... Qu'est-ce qu'il y a, Kanna ?\"",
+            "\\.\"H-Hum...\"",
+            "\\.\"... Pardon...!!\"",
+            "\\.\"O-Ouah ?!\n Arrête ! Kanna !!\"",
+            "\\.\\C[3]Ainsi, nous avons passé un fabuleux moment."
         ],
         "546-0-message": [
             null,
@@ -18101,6 +18110,48 @@
             "\\.\\C[3]Ray... émanait une sorte de jalousie.",
             "\\.\\C[4](Je me demande...\n Serait-il jaloux envers les humains...?)",
             "\\.\\C[4](... Je ne devrais pas continuer.\n Rien que penser à quelqu'un comme lui...\n Ça me donne la migraine.)"
+        ],
+        "620-0-message": [
+            "\\C[3]Vidéo d'une Victime 1\n\nUne vidéo d'une des victimes de la Démocratie Mortelle.\nConsultable uniquement dans la Salle de Surveillance.",
+            "\\.\\C[3]Consulter la vidéo ?",
+            "\\.\\C[4](Je devrais le faire quand il n'y a personne\n aux alentours...)",
+            "\\.\\C[4](Parfait, ça devrait être bon...\n Je vais la jouer sur le moniteur central.)",
+            "\\.\\C[4](Je ne peux pas utiliser ça ici...)"
+        ],
+        "621-0-message": [
+            "\\C[3]Vidéo d'une Victime 2\n\nUne vidéo d'une des victimes de la Démocratie Mortelle.\nConsultable uniquement dans la Salle de Surveillance.",
+            "\\.\\C[3]Consulter la vidéo ?",
+            "\\.\\C[4](Je devrais le faire quand il n'y a personne\n aux alentours...)",
+            "\\.\\C[4](Parfait, ça devrait être bon...\n Je vais la jouer sur le moniteur central.)",
+            "\\.\\C[4](Je ne peux pas utiliser ça ici...)"
+        ],
+        "622-0-message": [
+            "\\C[3]Vidéo d'une Victime 3\n\nUne vidéo d'une des victimes de la Démocratie Mortelle.\nConsultable uniquement dans la Salle de Surveillance.",
+            "\\.\\C[3]Consulter la vidéo ?",
+            "\\.\\C[4](Je devrais le faire quand il n'y a personne\n aux alentours...)",
+            "\\.\\C[4](Parfait, ça devrait être bon...\n Je vais la jouer sur le moniteur central.)",
+            "\\.\\C[4](Je ne peux pas utiliser ça ici...)"
+        ],
+        "623-0-message": [
+            "\\C[3]Informations Personnelles de Q-taro Burgerberg\n\n\nConsultables uniquement dans la Salle de Surveillance.",
+            "\\.\\C[3]Consulter les informations personnelles ?",
+            "\\.\\C[4](Je devrais le faire quand il n'y a personne\n aux alentours...)",
+            "\\.\\C[4](On dirait que c'est une IA de Q-taro qui va répondre\n à mes questions.)",
+            "\\.\\C[4](Je ne peux pas utiliser ça ici...)"
+        ],
+        "624-0-message": [
+            "\\C[3]Informations Personnelles de Reko Yabusame\n\n\nConsultables uniquement dans la Salle de Surveillance.",
+            "\\.\\C[3]Consulter les informations personnelles ?",
+            "\\.\\C[4](Je devrais le faire quand il n'y a personne\n aux alentours...)",
+            "\\.\\C[4](On dirait que c'est une IA de Reko qui va répondre\n à mes questions.)",
+            "\\.\\C[4](Je ne peux pas utiliser ça ici...)"
+        ],
+        "625-0-message": [
+            "\\C[3]Informations Personnelles de Gin Ibushi\n\n\nConsultables uniquement dans la Salle de Surveillance.",
+            "\\.\\C[3]Consulter les informations personnelles ?",
+            "\\.\\C[4](Je devrais le faire quand il n'y a personne\n aux alentours...)",
+            "\\.\\C[4](On dirait que c'est une IA de Gin qui va répondre\n à mes questions.)",
+            "\\.\\C[4](Je ne peux pas utiliser ça ici...)"
         ]
     },
     "map107": {
