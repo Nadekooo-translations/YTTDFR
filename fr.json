@@ -15554,7 +15554,7 @@
             "\\.\\C[4](Bon... On dirait que les négociations sont finies.)"
         ],
         "589-0-message": [
-            "\"Sara. T'veux... échanger d'jetons...?\"",
+            "\"Sara. T'veux... échanger des j'tons...?\"",
             "\"T'en veux... combien ?\"",
             "\\.\"J't'en file... 40.\n J'demande juste 10 d'tes jetons en échange.\"",
             "\\.\"J't'en file... 40.\n J'demande juste 20 d'tes jetons en échange.\"",
@@ -29039,8 +29039,23 @@
             "\\.\\sw[564]\"Je suis fou de rage rien qu'en me rappelant, ouaf !\n Maman devrait lui crier dessus à nouveau, miaouuuu !\"\\sw[567]"
         ],
         "6-2-message": [
-            null,
-            "\\.\\C[4](C'est... une IA de Reko...)"
+            "\\.\\sw[560]\"Hm...? Yo, Sara. Ça roule ?\"\\sw[565]",
+            "\\.\\C[4](C'est... une IA de Reko...)",
+            "\\.\\sw[560]\"Tiens...? Quelque chose cloche.\n Ah, oui. Je suis une IA, c'est ça...?\"\\sw[565]",
+            "\\.\"... Ça te dérangerait de répondre à mes questions ?\"",
+            "\\.\\sw[560]\"Carrément pas, vas-y.\"\\sw[565]",
+            "\\.\\sw[560]\"Tu voulais me demander quelque chose ?\"\\sw[565]",
+            "\\.\\sw[560]\"Hum...\n Je suis une autrice-compositrice trop cool de 23 ans...\nOu un truc du genre ?\"\\sw[565]",
+            "\\.\\sw[560]\"J'ai toujours aimé la musique.\n La musique classique, la folk, le heavy metal...\n J'écoutais de tout.\"\\sw[565]",
+            "\\.\\sw[560]\"Je crois, c'était en école primaire.\n Je me retrouvais à composer et à écrire des chansons.\n C'était automatique, par pur instinct.\"\\sw[565]",
+            "\\.\\sw[560]\"C'était une bonne époque... \n Les gens m'encourageaient et mes parents étaient\n juste contents...\"\\sw[565]",
+            "\\.\\sw[560]\"C'est quand ils ont commencé à dire que j'étais douée\n qu'il y a commencé à y avoir du bruit.\"\\sw[565]",
+            "\\.\\sw[560]\"Des vieux connards cherchaient de l'argent...\n Et mes parents voulaient le feu des projecteurs.\n Avant même que je m'en rende compte...\n Je faisais de la musique qui me passionnait pas.\"\\sw[565]",
+            "\\.\\sw[560]\"Au collège, je me suis rebellée.\n J'étais une rockeuse !\n J'ai fait plein de chansons que personne voulait !\"\\sw[565]",
+            "\\.\\sw[560]\"Mais même à ce moment, ce bruit affluait en masse.\n Fallait bien que je finisse par craquer.\"\\sw[565]",
+            "\\.\\sw[560]\"À partir du lycée, j'avais perdu toute ma passion...\n J'étais même plus en colère...\n J'avais plus aucune activité.\"\\sw[565]",
+            "\\.\\sw[560]\"J'ai eu plein d'opportunité de devenir connue.\n Mais je les ai toutes ruinées.\n J'étais carrément l'enfant difficile de l'industrie.\"\\sw[565]",
+            "\\.\\sw[560]\"Tout le monde a fini par s'éloigner de moi.\n Et quand j'arrivais même plus à trouver de membres,\n j'empruntais Alice pour créer un groupe... Hahaha.\"\\sw[565]"
         ],
         "8-2-message": [
             null,
@@ -30310,7 +30325,24 @@
             "\\.\"Putain, comment t'es déprimante ! Hahaha !\"",
             "\\.\"Bon, allez. Je vais t'en dire plus !\"",
             "\\.\"En gros, ces IA, ce sont des imitations super\n détaillées de vous, les participants.\"",
-            "\\.\"En réalité, ce sont des IA aux capacités\n émotionnelles phénoménales !\""
+            "\\.\"En réalité, ce sont des IA aux capacités\n émotionnelles phénoménales !\"",
+            "\\.\"Leurs personnalités et leur mémoire sont, elles aussi,\n construites autour d'informations que l'on a récoltées\n sur vous en vous observant pendant des lustres !\"",
+            "\\.\"En nous observant depuis des lustres ?!\"",
+            "\\.\"Ouaip !\n Et on les met à jour avec votre mémoire régulièrement,\n tous les 6 mois.\"",
+            "\\.\"Mais en s'y mettant sérieusement, on peut le\n faire en un jour !\"",
+            "\\.\"En vérité, on comptait les synchroniser avec votre\n mémoire tout au long de la Démocratie Mortelle...\"",
+            "\\.\\C[10]\"Mais quand on a essayé de donner le souvenir de sa\n propre mort à l'IA de Mishima, ça l'a cassée...\n Hahahaha...\"",
+            "\\.\"Alors, toi...!!\"",
+            "\\.\"Et puis, tu sais... Une IA, c'est pas que la mémoire.\n Il y a aussi la personnalité.\n Et ça, c'est beaucoup plus dur à modeler.\"",
+            "\\.\"Contrairement à la mémoire, on galère déjà assez\n comme ça \\C[2]à les mettre à jour tous les 3 ans\\C[0] !\"",
+            "\\.\\C[4](Tous les 3 ans...?\n Mais pendant combien de temps avons-nous été...?!)",
+            "\\.\\C[10]\"T'as enfin capté ?\n Vos vies normales de tous les jours...\n Elles ont été surveillées en permanence.\"",
+            "\\.\"...!!\"",
+            "\\.\"Bref, c'est à peu près tout.\"",
+            "\\.\"Fais de ton mieux pour pas crever, Sara Chidouin !\"",
+            "\\.\"Sache que si tu meurs, je te prendrai tes habits... \n Capiche ?\"",
+            "\\.\\C[4](C'est vraiment un sacré cas, lui...!)",
+            "\\.\\C[4](Bon... Continuons les attractions.)"
         ],
         "24-1-message": [
             "\\.\"Grande sœur Nao... Elle va bien, miaou...?\""
