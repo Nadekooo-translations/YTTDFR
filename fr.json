@@ -17795,7 +17795,7 @@
             "\\.\\C[4](C'est tout ce qu'il y a écrit...)"
         ],
         "610-0-choice": [
-            "Passé\nDonnées physiques\nRelatifs\nInfo de la Démocratie Mortelle\nCe qu'elle tient à cœur\nAnnuler"
+            "Passé\nDonnées physiques\nRelatifs\nInfo de la Démocratie Mortelle\nCe à quoi elle tient\nAnnuler"
         ],
         "387-0-message": [
             "\\.\"Ouuuuuaf ! Ça fait mal, miaou...\"",
@@ -28955,7 +28955,7 @@
             "\\.\\C[3]Une photo de moi est collée au dos."
         ],
         "6-2-choice": [
-            "Passé\nDonnées physiques\nRelatifs\nInfo de la Démocratie Mortelle\nCe qu'elle tient à cœur\nAnnuler"
+            "Passé\nDonnées physiques\nRelatifs\nInfo de la Démocratie Mortelle\nCe à quoi elle tient\nAnnuler"
         ],
         "48-2-message": [
             "\\C[3]La vidéo d'une des victimes est branchée au\nmoniteur central.",
@@ -28968,6 +28968,89 @@
         ],
         "48-2-choice": [
             "Regarder la Vidéo d'une Victime 1\nRegarder la Vidéo d'une Victime 2\nRegarder la Vidéo d'une Victime 3\nAnnuler"
+        ],
+        "4-2-message": [
+            "\\.\\sw[564]\"Houaf...? Miaou !\n Pourquoi tu m'as réveillé, grande sœur Sara ?\"\\sw[567]",
+            "\\.\\C[4](C'est... une IA de Gin...)",
+            "\\.\"Désolée. On peut discuter un petit moment, Gin ?\"",
+            "\\.\\sw[564]\"Bien sûr, miaou !\n Youpiiii !!\"\\sw[567]",
+            "\\.\\C[4](Hihi, il est si joyeux...)",
+            "\\.\\sw[564]\"Tu veux me poser des questions, miaou ?\"\\sw[567]",
+            "\\.\\sw[564]\"... Mon passé ?\n De quoi tu veux que je parle, ouaf ?\"\\sw[567]",
+            "\\.\"Hm... Ça me ferait plaisir que tu te présentes.\"",
+            "\\.\\sw[564]\"Gin Ibushi, en classe 6-3 de l'École Primaire Heiwa !\n J'ai 12 ans, miaou !\"\\sw[567]",
+            "\\.\\sw[564]\"Je prends soin des animaux, miaou !!\"\\sw[567]",
+            "\\.\"Tu t'amuses, à l'école ?\"",
+            "\\.\\sw[564]\"Hmm... Pas tant que ça...\n À cause de certains gars que j'aime pas, miaou.\"\\sw[567]",
+            "\\.\\sw[564]\"Mais c'est fun de se faire de nouveaux amis, ouaf !\n On joue ensemble, miaouuuu !\"\\sw[567]",
+            "\\.\"Tu portes cette tenue à l'école, aussi ?\"",
+            "\\.\\sw[564]\"Nan, parce que ça énerve les gens.\n C'est que pour quand je suis à la maison, ouaf !\"\\sw[567]",
+            "\\.\\sw[564]\"... J'arrive mieux à parler comme ça, miaou.\n Mais comme je peux pas le porter à l'école...\n Je finis par me sentir gêné, ouaf.\"\\sw[567]",
+            "\\.\\sw[564]\"Du coup, on me dit que je suis sage à l'école, ouaf !\n Même si c'est pas trop vrai... miaou...\"\\sw[567]",
+            "\\.\\C[4](Peut-être... qu'il n'est pas bon en communication\n à part quand il porte cette tenue.)",
+            "\\.\\sw[564]\"Mon rêve...\n C'est de vivre aux côtés des animaux, miaou !\"\\sw[567]",
+            "\\.\"Hihi... Quelles sortes d'animaux ?\"",
+            "\\.\\sw[564]\"En ce moment, je m'intéresse aux crocodiles, miaou !\n Ils sont trop mignons, ouaf !\"\\sw[567]",
+            "\\.\\C[4](H-Hm...? Peut-être parce que c'est un garçon...?)",
+            "\\.\\sw[564]\"Je fais 138 centimètres de haut et je pèse\n 35 kilos et demi, miaou !\"\\sw[567]",
+            "\\.\\sw[564]\"Et depuis mon dernier bilan de santé,\n j'ai pris 2 centimètres, miaou !\"\\sw[567]",
+            "\\.\"Tu vas bientôt avoir des poussées de croissance\n et la voix qui va muer.\"",
+            "\\.\\sw[564]\"Bien évidemment, miaou !\n Je serai plus grand que toi, grande sœur Sara !\"\\sw[567]",
+            "\\.\"Hahaha, je suis sûre que tu deviendras très cool.\n J'ai de grands espoirs pour toi.\"",
+            "\\.\\sw[564]\"Tu peux y aller !\n Tu vas être surprise, miaou !\n Sois reconnaissante, ouaf !\"\\sw[567]",
+            "\\.\"OK, faisons une promesse.\"",
+            "\\.\\sw[564]\"D'accord, miaou !\n Une promesse pour quand je te dépasserai, ouaf !\"\\sw[567]",
+            "\\.\\C[4](Une promesse pour le futur...)",
+            "\\.\\C[4](Gin et moi, nous avons un futur.)",
+            "\\.\\C[4](Il est hors de question... que l'on meure.)",
+            "\\.\\sw[564]\"Mes parents travaillent tous les deux, miaou !\"\\sw[567]",
+            "\\.\\sw[564]\"J'ai pas de frère ou de sœur, donc...\n Je me sens souvent isolé tout seul, miaou...\"\\sw[567]",
+            "\\.\\sw[564]\"Ma maman est super gentille,\n même quand elle est très fatiguée, ouaf.\"\\sw[567]",
+            "\\.\\sw[564]\"Peu importe l'heure où elle rentre...\n Même si je lui dis de pas trop faire d'efforts,\n elle prépare toujours le dîner.\"\\sw[567]",
+            "\\.\"Tu l'aimes bien, ta maman ?\"",
+            "\\.\\sw[564]\"Je l'aime de tout mon cœur, miaou !\n Mais je suis inquiet, car elle a l'air encore plus\n occupée ces derniers temps, ouaf...\"\\sw[567]",
+            "\\.\"Et ton père ?\"",
+            "\\.\\sw[564]\"Il y a des trucs que j'aime pas chez lui...\n Mais je l'aime, miaou.\"\\sw[567]",
+            "\\.\\sw[564]\"Mais je déteste vraiment quand il est bourré, ouaf...\n Il fait n'importe quoi, miaou !\n C'est embarrassant, ouaf !\"\\sw[567]",
+            "\\.\\sw[564]\"Et il passe son temps à se faire crier dessus par\n Maman et à s'excuser comme s'il avait aucune dignité,\n ouaf.\"\\sw[567]",
+            "\\.\\sw[564]\"Je veux pas devenir un adulte pathétique comme lui,\n miaouuu !\"\\sw[567]",
+            "\\.\\C[4](Hm... C'est une famille convenable, alors...)",
+            "\\.\\sw[564]\"... Mais je sais que je serai pas comme ça, miaou.\n Parce que j'ai aucun lien de parenté avec mon père,\n ouaf.\"\\sw[567]",
+            "\\.\"Hein...?\"",
+            "\\.\\sw[564]\"J'ai entendu dire qu'ils se sont mariés quand j'avais\n 2 ans, miaou ! À cause des trucs génétiques, je serai\n pas comme lui, ouaf !\"\\sw[567]",
+            "\\.\"Ah... Vraiment...?\"",
+            "\\.\\sw[564]\"Après, c'est pas que je déteste Papa, ouaf.\n C'est vrai, miaou !\"\\sw[567]",
+            "\\.\\sw[564]\"Mais je sais pas, miaou...\n Ça me fait peur, ouaf...\"\\sw[567]",
+            "\\.\\sw[564]\"Ça fait quoi, de mourir...?\"\\sw[567]",
+            "\\.\"Je... ne sais pas, moi non plus.\"",
+            "\\.\\sw[564]\"Je veux rester avec Papa et Maman pour toujours,\n miaou...\"\\sw[567]",
+            "\\.\\sw[564]\"Grande sœur Sara...\n Toi aussi, tu as peur, miaou ?\"\\sw[567]",
+            "\\.\"... Ouais, moi aussi.\n ... J'ai vraiment très peur...\"",
+            "\\.\\sw[564]\"..........\"\\sw[567]",
+            "\\.\\sw[564]\"Je te protégerai à tout prix, miaou !\n Hésite pas à me demander ce que tu veux !\"\\sw[567]",
+            "\\.\"Hihi... Merci...\"",
+            "\\.\\sw[564]\"Ce à quoi je tiens...?\n Pas facile, miaouuuu.\"\\sw[567]",
+            "\\.\\sw[564]\"Hmm...\n Papa et Maman, je dirais, miaou !\n S'ils partaient, je serais triste, ouaf !\"\\sw[567]",
+            "\\.\\sw[564]\"Ah !\n Et le coussin Mia-chan que j'ai toujours avec moi !\n J'y tiens super énormément aussi, miaou !\"\\sw[567]",
+            "\\.\\sw[564]\"Comme on est toujours ensemble,\n ça m'est complètement sorti de la tête, miaou !\n Désolé Mia-chaaaan ! Ouaaaf...\"\\sw[567]",
+            "\\.\"Mia-chan fait partie de la famille pour toi, c'est ça ?\"",
+            "\\.\\sw[564]\"C'est ça, miaou !\n J'étais terriblement furieux quand Papa a dit qu'il\n allait s'en débarrasser, miaou !\n C'est impardonnable, ouaf !\"\\sw[567]",
+            "\\.\\sw[564]\"Racheter Mia-chan ?! Jamais, miaou !!\n T'es un crétin, ouaf !\"\\sw[567]",
+            "\\.\\sw[564]\"Je suis fou de rage rien qu'en me rappelant, ouaf !\n Maman devrait lui crier dessus à nouveau, miaouuuu !\"\\sw[567]"
+        ],
+        "6-2-message": [
+            null,
+            "\\.\\C[4](C'est... une IA de Reko...)"
+        ],
+        "8-2-message": [
+            null,
+            "\\.\\C[4](C'est... une IA de Q-taro...)"
+        ],
+        "8-2-choice": [
+            "Passé\nDonnées physiques\nRelatifs\nInfo de la Démocratie Mortelle\nCe à quoi il tient\nAnnuler"
+        ],
+        "4-2-choice": [
+            "Passé\nDonnées physiques\nRelatifs\nInfo de la Démocratie Mortelle\nCe à quoi il tient\nAnnuler"
         ]
     },
     "map152": {
