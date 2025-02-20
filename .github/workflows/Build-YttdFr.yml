@@ -115,6 +115,10 @@ jobs:
             version: 6.7.3
             dir: qt
             modules: qt5compat
+        - name: Install Conan
+          uses: turtlebrowser/get-conan@main
+        - run: conan profile detect
+        - run: conan install --requires=zlib/1.3.1
         - run: .\qt\Qt\6.7.3\msvc2019_64\bin\qt-cmake.bat -S patch-wizard -B patch-wizard\build
 
   website:
