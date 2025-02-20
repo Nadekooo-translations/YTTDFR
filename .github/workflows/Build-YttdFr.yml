@@ -114,6 +114,7 @@ jobs:
           with:
             version: 6.7.3
             dir: qt
+            modules: qt5compat
         - run: .\qt\Qt\6.7.3\msvc2019_64\bin\qt-cmake.bat -S patch-wizard -B patch-wizard\build
 
   website:
