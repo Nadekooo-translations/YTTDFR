@@ -103,16 +103,17 @@ jobs:
           path: ${{ env.YTTD_FOLDER }}
 
   installer:
-    runs-on: ubuntu-latest
-    needs: [package]
+    runs-on: windows-latest
+    #needs: [package]
     steps:
         - uses: actions/checkout@v3
         - name: Install Qt
           uses: jurplel/install-qt-action@v4.1.1
           with:
-            version: 6.7.*
-            arch: win64_msvc2019_64
-        - run: $QT_ROOT_DIR/bin/qt-cmake -S patch-wizard -B patch-wizard/build
+            version: 6.7.3
+            dir: qt
+        - run: .\qt\bin\qt-cmake -S patch-wizard -B patch-wizard\build
+        - run: .\qt\Qt\6.7.3\msvc2019_64\bin\qt-cmake.bat -S patch-wizard -B patch-wizard\build
 
   website:
     runs-on: ubuntu-latest
