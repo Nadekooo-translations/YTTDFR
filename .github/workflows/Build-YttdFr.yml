@@ -112,7 +112,6 @@ jobs:
           with:
             version: 6.7.3
             dir: qt
-        - run: .\qt\bin\qt-cmake -S patch-wizard -B patch-wizard\build
         - run: .\qt\Qt\6.7.3\msvc2019_64\bin\qt-cmake.bat -S patch-wizard -B patch-wizard\build
 
   website:
