@@ -571,8 +571,9 @@
         "midori_ノエル": "arranger",
         "midori_トトノエル": "rayarranger",
         "// expression strings are english by default, but can be defined here ala talkspritedescription_cara0-1": "Default (no collar)",
-        "itemdesc156": "Une longue corde blanche.\\n... Je ne sais pas pourquoi elle s'appelle\\ncomme ça.",
-        "itemdesc158": "Un article qui annonce la dissolution de 36-Rai 818 (Samurai Yaiba).\\nCitation de la Chanteuse :\\n\"Je peux plus chanter les chansons de ce groupe.\""
+        "itemdesc156": "Une longue corde blanche.\\n... Je ne sais pas d'où elle tire son nom.",
+        "itemdesc158": "Un article sur 36-Rai 818 (Samurai Yaiba).\\nIl traite de sa dissolution.\\nCitation de la Chanteuse :\\n\"Je peux plus chanter les chansons de ce groupe.\"",
+        "itemdesc160": "Une liste des participants de la Démocratie Mortelle.\\nIl n'y a que 16 noms dessus."
     },
     "items-16": {
         "name": "??????????????",
@@ -14251,7 +14252,7 @@
             "\\.\\C[4](Hmm... Je me demande si...\n Devrais-je lui demander de rajouter cette\n information à sa déclaration ?)",
             "\"Donc c'est important, ouaf ?\n Compris, miaou !\n Je vais le dire haut et fort, ouaf !\"",
             "\"Cette lettre, ou je ne sais quoi...\n Elle était destinée à quelqu'un d'autre ?\"",
-            "\\.\"Euum, voyons voir...\n Laisse-moi réfléchir...\"",
+            "\\.\"Huum, voyons voir...\n Laisse-moi réfléchir...\"",
             "\\.\"Hmmouaiiis...\n Ça ressemblait plutôt à une \\C[2]liste\\C[0].\n Pas vraiment à un message écrit du coup, miaou.\"",
             "\\.\\C[4](Hmm... Je me demande si...\n Devrais-je lui demander de rajouter cette\n information à sa déclaration ?)",
             "\"Donc c'est important, ouaf ?\n Compris, miaou !\n Je vais le dire haut et fort, ouaf !\"",
@@ -15803,7 +15804,7 @@
             "\\.\\C[3]Faites attention, ne le laissez pas trop monter."
         ],
         "595-0-message": [
-            "Une longue corde blanche.\n... Je ne sais pas pourquoi elle s'appelle comme ça."
+            "Une longue corde blanche.\n... Je ne sais pas d'où elle tire son nom."
         ],
         "638-0-message": [
             "\"Hé... Ça va, miaou...?\"",
@@ -16216,14 +16217,14 @@
         ],
         "397-0-message": [
             "\\C[3]Ne pas négocier avec les hallucinations ?\nCela fera passer le temps.",
-            "\\C[3]Ne pas négocier avec eux ?\nCela fera passer le temps.",
+            "\\C[3]Ne pas négocier avec ?\nCela fera passer le temps.",
             "\\C[4](Qu'est-ce... qu'il se passe...?)",
             "\\.\\C[4](Je... rêve...?)",
             "\\C[4](Disparus...)",
             "\\.\\C[4](Ce n'étaient... que des hallucinations.)",
             "\\.\\C[4](Hahaha... Mais... Qu'est-ce qu'il m'arrive...?)",
             "\\.\\C[4](...)",
-            "\\.\\C[4](... Je ne vais pas y succomber...)",
+            "\\.\\C[4](... Je ne céderai pas...)",
             "\\C[4](Pas cette fois... Non.)"
         ],
         "397-0-choice": [
@@ -17322,7 +17323,7 @@
             "\\.\\C[4](Je ne peux pas rester les bras croisés !\n Il faut finir les attractions !)"
         ],
         "596-0-message": [
-            "Des notes listant les participants de la Démocratie\nMortelle. Il n'y a que 16 noms dessus."
+            "Des notes.\nLes participants de la Démocratie Mortelle y figurent.\nIl n'y a que 16 noms dessus."
         ],
         "596-0-choice": [
             "Examiner\nAnnuler"
@@ -18152,6 +18153,10 @@
             "\\.\\C[4](Je devrais attendre qu'il n'y ait personne\n aux alentours...)",
             "\\.\\C[4](On dirait que c'est une IA de Gin qui va répondre\n à mes questions.)",
             "\\.\\C[4](Je ne peux pas utiliser ça ici...)"
+        ],
+        "619-0-message": [
+            "\\.\\C[4](Je dois tout remettre comme c'était pour que\n personne ne remarque quoi que ce soit...)",
+            "\\.\\C[4](... Ça devrait être bon.)"
         ]
     },
     "map107": {
@@ -20601,7 +20606,7 @@
         ],
         "27-9-message": [
             "\\.\"... Tu veux bien m'aider à récupérer\n des étoiles, miaou ?\"",
-            "\\.\"Ouaip.\n Un bon policier doit être gentil avec les enfants.\"",
+            "\\.\"Ouaip.\n Un bon policier ce doit d'être gentil avec\n les enfants.\"",
             "\\.\"Si tu me traites comme un gamin,\n je demande à quelqu'un d'autre, ouaf !\""
         ],
         "38-6-message": [
@@ -21469,10 +21474,10 @@
             "Je les échange\nJe ne les ai pas encore utilisé\nJe n'en ai pas encore obtenu"
         ],
         "22-5-message": [
-            "\\.\"Hum... Je n'ai plus de Médaillon du Triomphe...\n Donc, je me demandais si...\n Tu voudrais bien m'en échanger...?\"",
+            "\\.\"Hum...\n Je n'ai plus beaucoup de Médaillons du Triomphe...\n Donc, je me demandais...\n Si tu voulais bien m'en échanger...?\"",
             "\\.\"Ah, tu en collectes encore...\n Mais... Tu me prends un peu par surprise...\"",
             "\\.\"Je ne veux pas déranger Sara ou Reko...\"",
-            "\\.\"D-D'accord... Laisse-moi réfléchir.\""
+            "\\.\"T-Très bien... Laisse-moi y réfléchir.\""
         ],
         "22-6-message": [
             "\\.\"Merci... du fond du cœur.\"",
@@ -22404,7 +22409,7 @@
             "\\.\"... Ça a servi à rien.\"",
             "\\.\"Tss...! Ça veut dire que la personne qui a\n détruit le moniteur, c'est...!\"",
             "\\.\"... J'en suis quasi certain.\n C'est pour ça que j'ai accepté de faire l'échange.\"",
-            "\\.\\C[4](Ces deux-là ont une conversation\n sacrément louche...)"
+            "\\.\\C[4](Ces deux-là tiennent une réunion stratégique\n sacrément louche...)"
         ],
         "44-1-message": [
             "\\.\"On dirait qu'y a plein de zones non explorées, ici...\""
@@ -29117,7 +29122,7 @@
             "\\.\\C[4](Je ne suis pas familière avec ce qu'il dit,\n mais il a l'air fort...!)",
             "\\.\\sw[562]\"Mais ma meilleure arme, c'ma tête.\n Faut être intelligent pour être un athlète\n d'première classe.\"\\sw[566]",
             "\\.\"Vraiment ?\"",
-            "\\.\\sw[562]\"Et je m'sens toujours désolé d'avoir\n cassé les bagues puzzle à cause d'ma force...\"\\sw[566]",
+            "\\.\\sw[562]\"Et je m'sens toujours mal d'avoir\n cassé des bagues puzzle à cause d'ma force...\"\\sw[566]",
             "\\.\\C[4](Quoi qu'il fasse, sa force physique reste de loin\n supérieure au reste...)",
             "\\.\\sw[562]\"..........\"\\sw[566]",
             "\\.\"Est-ce un sujet difficile, pour toi...?\"",
@@ -29582,7 +29587,7 @@
     },
     "items-155": {
         "name": "Toile du Bonheur",
-        "description": "Une longue corde blanche.\n... Je ne sais pas pourquoi elle s'appelle comme ça."
+        "description": "Une longue corde blanche.\n... Je ne sais pas d'où elle tire son nom."
     },
     "items-164": {
         "name": "Cookies (Nourriture)"
@@ -29628,7 +29633,7 @@
     },
     "items-159": {
         "name": "\\I[19]Quatre Notes",
-        "description": "Des notes listant les participants de la Démocratie\nMortelle. Il n'y a que 16 noms dessus."
+        "description": "Des notes.\nLes participants de la Démocratie Mortelle y figurent.\nIl n'y a que 16 noms dessus."
     },
     "items-160": {
         "name": "Quatre Notes"
@@ -29685,7 +29690,7 @@
         "name": "Escaliers"
     },
     "items-141": {
-        "name": "Va te faire voir"
+        "name": "Va crever"
     },
     "items-140": {
         "name": "Arrêter le Visionnage",
@@ -30355,12 +30360,12 @@
     },
     "map119": {
         "1-1-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\.\\C[3]Le hall d'entrée est vide.",
+            "\\.\"Ne me dites pas que...\"",
+            "\\.\"Tout le monde...! Où êtes-vous ?!\"",
+            "\\.\\C[3]En regardant à travers la fenêtre, les éclats\nresplendissants du soleil levant se reflètent\ndans mes yeux.",
+            "\\.\\C[4](Aujourd'hui, c'est le quatrième jour...!\n Le temps est écoulé !)",
+            "\\.\"Hmph... Ce n'était pas si mal que ça, au final...\"",
             null,
             null,
             null,
