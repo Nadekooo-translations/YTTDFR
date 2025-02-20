@@ -16,6 +16,7 @@ set(BUILD_SHARED_LIBS NO)
 find_package(QT NAMES Qt6 REQUIRED COMPONENTS Widgets)
 find_package(Qt${QT_VERSION_MAJOR} REQUIRED COMPONENTS Widgets)
 # find_package(QuaZip-Qt6)
+add_subdirectory(${PROJECT_SOURCE_DIR}/lib/zlib)
 add_subdirectory(${PROJECT_SOURCE_DIR}/lib/quazip)
 
 set(TS_FILES patch-wizard_fr_FR.ts)
