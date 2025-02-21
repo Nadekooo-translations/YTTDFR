@@ -125,7 +125,7 @@ jobs:
             path: artifacts
         - run: tree /f
         - run: cp LICENSE patch-wizard
-        - run: cp artifacts/yttd-${{ github.sha }}-win-x64.zip patch-wizard/patch.zip
+        - run: Get-ChildItem -Path yttd-${{ github.sha }}-win-x64\www -Recurse | Compress-Archive -DestinationPath patch-wizard/patch.zip
         - run: .\qt\Qt\6.7.3\msvc2019_64\bin\qt-cmake.bat -DCMAKE_TOOLCHAIN_FILE="conan_toolchain.cmake" -S patch-wizard -B patch-wizard\build
         - run: cmake --build patch-wizard\build
         - run: tree /f
