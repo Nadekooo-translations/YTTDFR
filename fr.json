@@ -7964,7 +7964,7 @@
             "\\.\\C[4](J'ai extrait une nouvelle déclaration...!)"
         ],
         "475-0-message": [
-            "\"Peu importe ce qu'on fait, ça change rien...\n La Salle des Impressions, c'est que pour les autres...\"",
+            "\"Peu importe ce qu'on fait, ça change rien...\n La Salle des Impressions sert juste à nous isoler...\"",
             "\"Si on rajoute 35,5 kilos de pression sur la plateforme,\n peut-être que ça enclenchera une machine qui sortira\n Gin de là ?!\"",
             "\"Je vois pas pourquoi tu me montres ça, là !\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
@@ -7973,7 +7973,28 @@
             "\"Ouais, et alors ?\n Elle a quoi de bizarre, cette déclaration ?!\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
             "\"Ouais, et alors ?\n Elle a quoi de bizarre, cette déclaration ?!\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\"Putain, on fait quoi...?!\"",
+            "\\.\"Ray, ce connard... Il va le regretter !!\"",
+            "\"Mais comment pourrait-on nous en assurer...?\"",
+            "\\.\"Attends ! On a un moyen !\"",
+            "\\.\"Dis-nous ! Comment faire ?!\"",
+            "\\.\"On saute !\"",
+            "\\.\"Si cette plateforme est bien une balance\n qui nous pèse...\"",
+            "\\.\"Le poids requis devrait augmenter tant\n qu'on reste en l'air !\n Et après, il devrait baisser quand on retombe !\"",
+            "\\.\"En gros, si on saute, l'affichage devrait changer !!\"",
+            "\\.\"Mais oui, bien sûr !\n Saute, s'il te plaît !\"",
+            "\\.\"C'est parti !!\"",
+            "\\.\\C[3]Reko bondit haut en l'air.",
+            "\\.\"Alors, Sara ?!\n Il a changé ?!\"",
+            "\\.\"Non, il n'a pas bougé...\"",
+            "\\.\"Argh...!! Sérieux ?!\n Même pas pendant une seconde ?!\"",
+            "\\.\"Non... Pas de réaction.\"",
+            "\\.\"Alors c'est pas une question de poids, au final...?!\"",
+            "\\.\"Ça voudrait dire que cette 'Salle des Impressions'\n sert vraiment juste à avoir une impression ?!\"",
+            "\\.\"..........\"",
+            "\\.\"Peu importe ce qu'on fait, ça change rien...\n La Salle des Impressions sert juste à nous isoler...\"",
+            "\\.\\C[4](Même sauter n'a pas changé l'affichage...)"
         ],
         "509-0-message": [
             null,
@@ -8931,16 +8952,24 @@
             "\"Mais... Quel choix est le plus sûr, alors...?!\""
         ],
         "476-0-message": [
+            "\"Et si la Salle des Impressions... servait à\n nous punir ?!\"",
+            "\"Du poids... Du poids...\n Diminuer... ou augmenter...?\n 35,5 kilogrammes...?\"",
+            "\"H-Hum, je pense que nous devrions plutôt discuter !\"",
+            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\"H-Hum...\"",
             null,
+            "\"H-Hum...\"",
             null,
-            null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\"H-Hum...\""
         ],
         "510-0-message": [
             null,
             null,
+            "\"H-Hum, je pense que nous devrions plutôt discuter !\"",
+            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\"H-Hum...\"",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\"H-Hum...\""
         ],
         "514-0-message": [
             null,
@@ -8977,8 +9006,13 @@
             null,
             null,
             null,
+            "\"H-Hum, je pense que nous devrions plutôt discuter !\"",
+            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\"H-Hum...\"",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\"H-Hum...\"",
+            null,
+            "\"H-Hum...\""
         ],
         "614-0-message": [
             null,
@@ -8990,8 +9024,13 @@
         "616-0-message": [
             null,
             "\"Il faut \\C[2]réfléchir\\C[0]... N'est-ce pas, Sara ?!\"",
+            "\"H-Hum, je pense que nous devrions plutôt discuter !\"",
+            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\"H-Hum...\"",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\"H-Hum...\"",
+            null,
+            "\"H-Hum...\""
         ],
         "653-0-message": [
             null,
@@ -18177,6 +18216,26 @@
         "619-0-message": [
             "\\.\\C[4](Je dois tout remettre comme c'était pour que\n personne ne remarque quoi que ce soit...)",
             "\\.\\C[4](... Ça devrait être bon.)"
+        ],
+        "563-0-message": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\"Du poids... Du poids...\n Diminuer... ou augmenter...?\n 35,5 kilogrammes...?\""
         ]
     },
     "map107": {
