@@ -120,9 +120,7 @@ jobs:
         - run: conan profile detect
         - run: conan install -of patch-wizard\build --requires=zlib/1.3.1 -g CMakeDeps -g CMakeToolchain
         - run: tree /f
-        - run: .\qt\Qt\6.7.3\msvc2019_64\bin\qt-cmake.bat -DCMAKE_TOOLCHAIN_FILE="conan_toolchain.cmake" -S patch-wizard -B patch-wizard\build
-        - run: make -j2
-          working-directory: patch-wizard\build
+        - run: .\qt\Qt\6.7.3\msvc2019_64\bin\qt-cmake.bat --build patch-wizard -DCMAKE_TOOLCHAIN_FILE="conan_toolchain.cmake" -S patch-wizard -B patch-wizard\build
 
   website:
     runs-on: ubuntu-latest
