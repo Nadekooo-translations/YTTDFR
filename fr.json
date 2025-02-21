@@ -8281,8 +8281,8 @@
             "\\.\\C[4](Mince...! C'était une erreur !)"
         ],
         "615-0-message": [
-            null,
-            null,
+            "\"L'affichage de droite montre \"Restant 35,5.\"\n Ça doit être le chronomètre pour le dard.\"",
+            "\"C'est bien beau tout ça, mais...\n À part regarder, on peut rien faire d'autre...!\"",
             "\"Je vois pas pourquoi tu me montres ça, là !\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
             "\"Ouais, et alors ?\n Elle a quoi de bizarre, cette déclaration ?!\"",
@@ -8290,7 +8290,23 @@
             "\"Ouais, et alors ?\n Elle a quoi de bizarre, cette déclaration ?!\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
             "\"Ouais, et alors ?\n Elle a quoi de bizarre, cette déclaration ?!\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\"Merde !\n Faut qu'on trouve quelque chose avant que\n le compteur tombe à 0...!\"",
+            "\"T'as pas une idée en tête ?!\"",
+            "\\.\"Que pourrait-on bien faire...?\"",
+            "\\.\"On pourrait regarder s'il y a une astuce\n à cette Salle des Impressions.\"",
+            "\\.\"Une astuce...!\"",
+            "\\.\"...\"",
+            "\\.\"OK...\"",
+            "\\.\"Le premier truc qu'on remarque,\n ce sont ces deux affichages numériques...\"",
+            "\\.\"L'affichage de droite montre \"Restant 35,5.\"\n Ça doit être le chronomètre pour le dard.\"",
+            "\\.\"Quand il passera à \"Restant: 0\"...\n Gin va...!\"",
+            "\\.\\C[4](Ça va aller... Reko a récupéré son calme...!)",
+            "\\.\"Passons en revue les positions de tout le monde.\"",
+            "\\.\"O-OK !\"",
+            "\\.\"Hmm... Q-taro et Gin sont coincés sur la cible...\n Keiji, Kanna, Sou, et Alice sont un peu plus loin.\"",
+            "\\.\"... Par contre, ils sont enfermés dans une cage.\"",
+            "\\.\\C[4](Malgré nos observations, nous n'avons\n pas trouvé de piste...)"
         ],
         "652-0-message": [
             null,
@@ -9042,14 +9058,15 @@
             "\\.\\C[4](Non...! Elle hésite...!)"
         ],
         "614-0-message": [
-            null,
-            null,
+            "\"Allez, les gars... J'vous en supplie...!!\n Faites quelque chose !! Z'avez pas une idée...?!\"",
+            "\"D-Déso...! J'écoutais pas !\n J'suis pas trop en position d'parler, là !!\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
-            null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\"C-C'quoi, cette idée ?!\"",
+            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\"Vous devez l'aider...!!\n Gin...! Gin...!!\""
         ],
         "616-0-message": [
-            null,
+            "\"Dans ce cas, l'affichage de gauche doit être\n le chronomètre.\n Il n'arrête pas de descendre...\"",
             "\"Il faut \\C[2]réfléchir\\C[0]... N'est-ce pas, Sara ?!\"",
             "\"H-Hum, je pense que nous devrions plutôt discuter !\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
@@ -9058,7 +9075,19 @@
             "\"H-Hum...\"",
             "\\.\\C[4](Non...! Elle hésite...!)",
             "\"H-Hum...\"",
-            "\\.\\C[4](Non...! Elle hésite...!)"
+            "\\.\\C[4](Non...! Elle hésite...!)",
+            "\"Petit à petit, je retrouve mon calme.\"",
+            "\\.\"Merci beaucoup...\"",
+            "\"Humm... Tout d'abord...\n Nous devrions commencer par...!\"",
+            "\\.\"Nao, du calme.\n ... Essaie de penser à ce qu'on pourrait faire.\"",
+            "\\.\"C-C'est vrai, désolée...\"",
+            "\\.\"Ce que je peux faire, c'est regarder...!\"",
+            "\\.\"Et ce qui m'intrigue le plus ici, c'est...\"",
+            "\\.\"À quoi servent ces deux écrans...?\"",
+            "\\.\"J'imagine que l'un est le chronomètre qui indique\n quand le dard sera tiré.\"",
+            "\\.\"Oui... Exactement.\"",
+            "\\.\"Dans ce cas, l'affichage de gauche doit être\n le chronomètre.\n Il n'arrête pas de descendre...\"",
+            "\\.\\C[4](Parfait... Nao a regagné son sang-froid !)"
         ],
         "653-0-message": [
             null,
@@ -9810,7 +9839,8 @@
             "Utiliser l'objet sélectionné\nAnnuler",
             "Mémoriser la déclaration\nAnnuler",
             "Oublier la déclaration mémorisée\nAnnuler",
-            "Appliquer la déclaration mémorisée\nAnnuler"
+            "Appliquer la déclaration mémorisée\nAnnuler",
+            "Essayer de trouver une astuce\nExaminer les positions de tout le monde"
         ],
         "652-0-choice": [
             "Utiliser l'objet sélectionné\nAnnuler",
@@ -13761,14 +13791,14 @@
             "\\.\"Les gens au sol auraient peut-être pu\n faire quelque chose, mais...\"",
             "\\.\"D'ici, on peut même pas s'approcher de Gin !!\"",
             "\\.\"Reko...!\"",
-            "\\.\"On nous a encore et encore donné espoir...\n Pour au final l'écraser. Ça va encore être pareil...\"",
+            "\\.\"Encore et encore, on nous a donné espoir...\n Et à chaque fois, ça a mal fini.\n Ça va encore être pareil...\"",
             "\\.\\C[4](Même Reko perd espoir...)",
             "\"Il faut \\C[2]réfléchir\\C[0]... N'est-ce pas, Sara ?!\"",
             "\\.\"Oui...!\"",
             "\\.\"Quand je suis avec toi, Sara...\n J'ai l'impression que rien ne peut m'arrêter...!\"",
-            "\\.\"Si on y réfléchit tous ensembles, on devrait\n trouver quelque chose !!\"",
+            "\\.\"Si on y réfléchit tous ensemble, on devrait\n trouver quelque chose !!\"",
             "\\.\"...!\"",
-            "\\.\"Allez, les gars... J'vous en supplie...!!\n Faites quelque chose !! Z'avez pas une idée...?! \"",
+            "\\.\"Allez, les gars... J'vous en supplie...!!\n Faites quelque chose !! Z'avez pas une idée...?!\"",
             "\\.\"Vous avez pas beaucoup de temps !\n Bonne chance à vous !\"",
             "\\C[3]Ces délibérations ont une limite de temps.\nQuand il sera écoulé, le dard sera tiré.",
             "\\C[2]Extraire\\C[3] des déclarations, échouer des \\C[2]Confrontations\\C[3]\nou mal utiliser votre \\C[2]Inventaire\\C[3] consommera du temps.",
@@ -18265,6 +18295,29 @@
             null,
             null,
             "\"Du poids... Du poids...\n Diminuer... ou augmenter...?\n 35,5 kilogrammes...?\""
+        ],
+        "617-0-message": [
+            "\\.\"Une petite minute ! Reko !\"",
+            "\\.\"Q-Quoi ?!\"",
+            "\\.\"Le chronomètre du dard, ne se trouverait-il\n pas à \\C[2]gauche LCD\\C[0]...?!\"",
+            "\\.\"Mais... \\C[2]l'écran de droite\\C[0] affiche \"Restant 35,5\" !\n C'est pas celui-là, le chronomètre ?\"",
+            "\\.\"...\"",
+            "\\.\"Mais il ne bouge pas...\"",
+            "\\.\"C'est vrai...!\"",
+            "\\.\"L'écran qui montre \"Restant 35,5\" ne bouge pas\n d'un pouce !\"",
+            "\\.\"Hein...?!\n T'as raison, il descend pas !\"",
+            "\\.\"Mais si c'est pas un chronomètre...\n Il montre quoi, l'écran de droite...?\"",
+            "\\.\"Hum...\"",
+            "\\.\"Je ne sais pas.\n Mais en tout cas, j'ai bien ma petite idée...\"",
+            "\\.\"C'est sûrement la clé pour gagner\n cette attraction...!\"",
+            "\\.\"V-Vraiment ?!\"",
+            "\\.\"... T'es vraiment sûre de pouvoir trouver\n un moyen de sauver Gin, hein...\"",
+            "\\.\"Dans ce cas...\n Hors de question que je baisse les bras !\n Allez, on va résoudre cette attraction !!\"",
+            "\\.\"D'abord, on doit trouver ce que \"Restant 35,5\"\n veut dire, pas vrai ?!\"",
+            "\\.\"Ça doit vouloir dire qu'il manque quelque chose...\n Peut-être qu'on doit diminuer ce nombre jusqu'à\n zéro pour les libérer...?\"",
+            "\\.\"Si c'est bel et bien le cas...\"",
+            "\"Ce qui est cardinal, c'est l'unité de mesure...!\"",
+            "\\.\"La taille, le poids, le volume...\n Si on connaît l'unité, on découvrira peut-être\n le mystère...?!\""
         ]
     },
     "map107": {
