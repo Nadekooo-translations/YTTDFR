@@ -8957,10 +8957,35 @@
             "\"H-Hum, je pense que nous devrions plutôt discuter !\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
             "\"H-Hum...\"",
-            null,
+            "\\.\\C[4](Non...! Elle hésite...!)",
             "\"H-Hum...\"",
-            null,
-            "\"H-Hum...\""
+            "\\.\\C[4](Non...! Elle hésite...!)",
+            "\"H-Hum...\"",
+            "\\.\\C[4](Non...! Elle hésite...!)",
+            "\"Si c'est bien le cas, alors...\"",
+            "\"Hum... Sara.\"",
+            "\\.\"Contrairement à ce que pense Reko...\n Je me demande si ce qu'on dit est si éloigné\n de la vérité que ça.\"",
+            "\\.\"Hein...?\"",
+            "\\.\"Le chronomètre et l'affichage qui montre\n \"Restant: 35,5kg\"...\"",
+            "\\.\"Comment ça se fait qu'on soit les seules\n à y avoir accès...?\"",
+            "\\.\"Ah...\"",
+            "\\.\"Et aussi...\n Pourquoi avons-nous été isolées des autres ?\n Pourquoi nous ?\"",
+            "\\.\"Ray a dit qu'on avait une \"invitation spéciale\"...\"",
+            "\\.\\C[4](... Elle a raison, trop de choses ne collent pas.)",
+            "\\.\"Ray a dit que c'était une récompense pour\n nos efforts...\"",
+            "\\.\"O-Où veux-tu en venir ?\"",
+            "\\.\"En prenant ça en compte, n'est-ce pas étrange\n que se soit celles qui soient à la fin du\n classement qui soient ici ?\"",
+            "\\.\"... Hein...?\"",
+            "\\.\"Je... Je me demande...\n Et si le but de la Salle des Impressions...\"",
+            "\\.\"C'était de nous pénaliser...?!\n Pour punir les recalées...!\"",
+            "\\.\\C[4](C'est raisonnable...)",
+            "\\.\"C'est difficile d'avoir une bonne \"impression\" d'ici...\n Non ?\"",
+            "\\.\"C'est vrai...! Il est difficile de bien voir...\n Je me demande ce que ça signifie...\"",
+            "\\.\"Peut-être que nous pouvons améliorer notre situation\n pour avoir un meilleur aperçu...?\"",
+            "\\.\"...\"",
+            "\\.\"Je ne pense pas que ce soit ça...\"",
+            "\\.\\C[4](Je me suis loupée...\n Je n'ai fait que perdre du temps !)",
+            "\"Laisse-moi un peu plus de temps pour y réfléchir...!\""
         ],
         "510-0-message": [
             null,
@@ -8968,8 +8993,9 @@
             "\"H-Hum, je pense que nous devrions plutôt discuter !\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
             "\"H-Hum...\"",
-            null,
-            "\"H-Hum...\""
+            "\\.\\C[4](Non...! Elle hésite...!)",
+            "\"H-Hum...\"",
+            "\\.\\C[4](Non...! Elle hésite...!)"
         ],
         "514-0-message": [
             null,
@@ -9009,10 +9035,11 @@
             "\"H-Hum, je pense que nous devrions plutôt discuter !\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
             "\"H-Hum...\"",
-            null,
+            "\\.\\C[4](Non...! Elle hésite...!)",
             "\"H-Hum...\"",
-            null,
-            "\"H-Hum...\""
+            "\\.\\C[4](Non...! Elle hésite...!)",
+            "\"H-Hum...\"",
+            "\\.\\C[4](Non...! Elle hésite...!)"
         ],
         "614-0-message": [
             null,
@@ -9027,10 +9054,11 @@
             "\"H-Hum, je pense que nous devrions plutôt discuter !\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
             "\"H-Hum...\"",
-            null,
+            "\\.\\C[4](Non...! Elle hésite...!)",
             "\"H-Hum...\"",
-            null,
-            "\"H-Hum...\""
+            "\\.\\C[4](Non...! Elle hésite...!)",
+            "\"H-Hum...\"",
+            "\\.\\C[4](Non...! Elle hésite...!)"
         ],
         "653-0-message": [
             null,
@@ -10423,7 +10451,8 @@
             "Utiliser l'objet sélectionné\nAnnuler",
             "Mémoriser la déclaration\nAnnuler",
             "Oublier la déclaration mémorisée\nAnnuler",
-            "Appliquer la déclaration mémorisée\nAnnuler"
+            "Appliquer la déclaration mémorisée\nAnnuler",
+            "Les mieux classés ne sont pas là\nIl est difficile d'y bien voir"
         ],
         "520-0-choice": [
             "Utiliser l'objet sélectionné\nAnnuler",
