@@ -8083,15 +8083,15 @@
             null,
             null,
             null,
-            null,
+            "\"Je n'arrive pas à comprendre ta logique supérieure,\n Sara.\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
-            null,
+            "\"Je n'arrive pas à comprendre ta logique supérieure,\n Sara.\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
-            null,
+            "\"Euuuh... Ça ne me dit rien...\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
-            null,
+            "\"Euuuh... Ça ne me dit rien...\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
-            null,
+            "\"Euuuh... Ça ne me dit rien...\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
             null,
             null,
@@ -8137,10 +8137,10 @@
             "\\.\\C[4](Mince...! C'était une erreur !)"
         ],
         "534-0-message": [
-            null,
-            null,
+            "\"Le seul moment où quelqu'un aurait pu prendre\n la place de Reko... C'est quand elle était seule.\n Y a-t-il eu un tel moment ?\"",
+            "\"Je n'arrive pas à comprendre ta logique supérieure,\n Sara.\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
-            null,
+            "\"Euuuh... Ça ne me dit rien...\"",
             "\\.\\C[4](Mince...! C'était une erreur !)"
         ],
         "535-0-message": [
@@ -8229,9 +8229,9 @@
         "555-0-message": [
             null,
             null,
-            null,
+            "\"Je n'arrive pas à comprendre ta logique supérieure,\n Sara.\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
-            null,
+            "\"Euuuh... Ça ne me dit rien...\"",
             "\\.\\C[4](Mince...! C'était une erreur !)"
         ],
         "556-0-message": [
@@ -9043,10 +9043,16 @@
             "\"Si cette Reko est une fausse...\n Alors quand est-ce qu'elle s'est fait échanger\n avec la vraie...?\"",
             "\"Ouuh... Ce... Ce n'est... sûrement pas lié...\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
-            null,
+            "\"Ohh... Hum... Je ne suis pas sûre...\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
             "\"Faire une imitation parfaite...\n Ce serait difficile sans photo, mais...\"",
-            "\\.\"Il y avait des photographies de nous tous au dos\n des écrans de la Salle de Surveillance, donc...\""
+            "\\.\"Il y avait des photographies de nous tous au dos\n des écrans de la Salle de Surveillance, donc...\"",
+            "\"Si c'était pour pas très longtemps...\n Elle ne se serait peut-être pas faite remarquer.\"",
+            "\\.\"Reko porte du maquillage, après tout...\"",
+            "\\.\"En portant le même maquillage qu'elle...\n On pourrait lui ressembler.\"",
+            "\\.\"... Mais elle est juste allée voir Monsieur Mishima\n pour lui poser des questions, non...?\"",
+            "\\.\"Était-il vraiment nécessaire de se déguiser pour ça ?\"",
+            "\\.\\C[4](Elle a raison... Pourquoi ça aurait été nécessaire ?)"
         ],
         "562-0-message": [
             "\"35,5 kilogrammes...\n C'est à peu près le poids d'un enfant\n en école primaire...\"",
