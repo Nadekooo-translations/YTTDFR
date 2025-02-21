@@ -119,7 +119,7 @@ jobs:
           uses: turtlebrowser/get-conan@main
         - run: conan profile detect
         - run: conan install -of patch-wizard\build --requires=zlib/1.3.1
-        - run: tree patch-wizard\build
+        - run: tree
         - run: .\qt\Qt\6.7.3\msvc2019_64\bin\qt-cmake.bat -DCMAKE_TOOLCHAIN_FILE="patch-wizard\build\conan_toolchain.cmake" -S patch-wizard -B patch-wizard\build
 
   website:
