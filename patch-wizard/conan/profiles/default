@@ -3,5 +3,5 @@ arch=x86_64
 build_type=Release
 compiler=gcc
 compiler.cppstd=14
-compiler.version=12.2.0
+compiler.version=12.2
 os=Windows
