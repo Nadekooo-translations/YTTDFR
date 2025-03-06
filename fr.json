@@ -7976,7 +7976,7 @@
             "\\.\\C[4](Mince...! C'était une erreur !)",
             "\"Putain, on fait quoi...?!\"",
             "\\.\"Ray, ce connard... Il va le regretter !!\"",
-            "\"Mais comment pourrait-on nous en assurer...?\"",
+            "\"Mais comment le vérifier...?\"",
             "\\.\"Attends ! On a un moyen !\"",
             "\\.\"Dis-nous ! Comment faire ?!\"",
             "\\.\"On saute !\"",
@@ -7994,7 +7994,8 @@
             "\\.\"Ça voudrait dire que cette 'Salle des Impressions'\n sert vraiment juste à avoir une impression ?!\"",
             "\\.\"..........\"",
             "\\.\"Peu importe ce qu'on fait, ça change rien...\n La Salle des Impressions sert juste à nous isoler...\"",
-            "\\.\\C[4](Même sauter n'a pas changé l'affichage...)"
+            "\\.\\C[4](Même sauter n'a pas changé l'affichage...)",
+            "\\.\\C[4](Mais allons-nous vraiment dans la\n mauvaise direction...?)"
         ],
         "509-0-message": [
             "\"Grrrr !!\n On a vraiment aucun moyen de le tirer de là ?!\"",
@@ -8004,7 +8005,17 @@
             "\"Ouais, et alors ?\n Elle a quoi de bizarre, cette déclaration ?!\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
             "\"Ouais, et alors ?\n Elle a quoi de bizarre, cette déclaration ?!\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\"On peut plus rien faire d'autre...!\"",
+            "\"Putain ! Merde !!\"",
+            "\\.\"Je m'en fous...\n Je vais détruire ces écrans et ces murs à la main...!!\"",
+            "\\.\\C[3]Reko frappe le mur, en vain.",
+            "\\.\"Dans ce cas, on a qu'à utiliser la tuile !\n On la casse et on l'envoie tomber...\"",
+            "\\.\"Je ne pense pas qu'elle fasse 35,3 kilogrammes...\"",
+            "\\.\"Alors... Alors...!!\"",
+            "\\.\"Gaaaaah !! Y a vraiment pas moyen de le sauver ?!\"",
+            "\\.\\C[4](Non, il y a bien un seul et unique moyen...)",
+            "\\.\\C[4](Mais... c'est le pire possible...)"
         ],
         "513-0-message": [
             null,
@@ -9023,16 +9034,16 @@
             "\\.\"Le chronomètre et l'affichage qui montre\n \"Restant: 35,5kg\"...\"",
             "\\.\"Comment ça se fait qu'on soit les seules\n à y avoir accès...?\"",
             "\\.\"Ah...\"",
-            "\\.\"Et aussi...\n Pourquoi avons-nous été isolées des autres ?\n Pourquoi nous ?\"",
+            "\\.\"Et aussi...\n Pourquoi avons-nous été isolées des autres ?\n Pourquoi nous spécifiquement ?\"",
             "\\.\"Ray a dit qu'on avait une \"invitation spéciale\"...\"",
             "\\.\\C[4](... Elle a raison, trop de choses ne collent pas.)",
             "\\.\"Ray a dit que c'était une récompense pour\n nos efforts...\"",
             "\\.\"O-Où veux-tu en venir ?\"",
-            "\\.\"En prenant ça en compte, n'est-ce pas étrange\n que se soit celles qui soient à la fin du\n classement qui soient ici ?\"",
+            "\\.\"En prenant ça en compte, n'est-il pas étrange\n que seuls les derniers du classement sont ici ?\"",
             "\\.\"... Hein...?\"",
             "\\.\"Je... Je me demande...\n Et si le but de la Salle des Impressions...\"",
             "\\.\"C'était de nous pénaliser...?!\n Pour punir les recalées...!\"",
-            "\\.\\C[4](C'est raisonnable...)",
+            "\\.\\C[4](Ce n'est pas impossible...)",
             "\\.\"C'est difficile d'avoir une bonne \"impression\" d'ici...\n Non ?\"",
             "\\.\"C'est vrai...! Il est difficile de bien voir...\n Je me demande ce que ça signifie...\"",
             "\\.\"Peut-être que nous pouvons améliorer notre situation\n pour avoir un meilleur aperçu...?\"",
@@ -9042,14 +9053,25 @@
             "\"Laisse-moi un peu plus de temps pour y réfléchir...!\""
         ],
         "510-0-message": [
-            null,
-            null,
+            "\"L'une d'entre nous... doit se jeter dedans...\"",
+            "\"..........\"",
             "\"H-Hum, je pense que nous devrions plutôt discuter !\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
             "\"H-Hum...\"",
             "\\.\\C[4](Non...! Elle hésite...!)",
             "\"H-Hum...\"",
-            "\\.\\C[4](Non...! Elle hésite...!)"
+            "\\.\\C[4](Non...! Elle hésite...!)",
+            "\"Et dire que ce raisonnement...\n Nous fait arriver à une telle conclusion...\"",
+            "\"... Sara...\"",
+            "\\.\"Tu l'as réalisé, n'est-ce pas...?\n Le seul moyen...\"",
+            "\\.\"... Tu veux parler de...\"",
+            "\\.\"Je comprends mieux pourquoi ceux qui sont en haut\n du classement ne sont pas ici, maintenant...\"",
+            "\\.\"C'est évident.\n Ce n'est pas une situation où l'on veut être...\"",
+            "\\.\"C'est un endroit où il y aura des disputes...\"",
+            "\\.\"..........\"",
+            "\\.\"... J'ai la réponse...\"",
+            "\\.\"L'une d'entre nous... doit se jeter dedans...\"",
+            "\\.\\C[4](Non...!!\n N'y a-t-il vraiment aucune autre option...?!)"
         ],
         "514-0-message": [
             null,
@@ -10559,7 +10581,7 @@
             "Mémoriser la déclaration\nAnnuler",
             "Oublier la déclaration mémorisée\nAnnuler",
             "Appliquer la déclaration mémorisée\nAnnuler",
-            "Les mieux classés ne sont pas là\nIl est difficile d'y bien voir"
+            "Les mieux classés ne sont pas là\nIl est difficile de bien voir d'ici"
         ],
         "520-0-choice": [
             "Utiliser l'objet sélectionné\nAnnuler",
@@ -18489,7 +18511,7 @@
             "\\.\"... Miaou ?\"",
             "\\.\"Tu pèses combien ?!\n Donne-nous ton poids en kilogrammes !!\"",
             "\\.\"..........\"",
-            "\\.\"...35,5 kilos... ouaf...\"",
+            "\\.\"... 35,5 kilos... ouaf...\"",
             "\\.\"Bingo !!\n C'est tout pile le même que sur l'écran...!\"",
             "\\.\"Serait-ce une coïncidence...?\"",
             "\\.\"C'est trop spécifique pour que ça en soit une !\"",
@@ -18498,7 +18520,7 @@
             "\\.\"Du coup, c'est bien \"Restant: 35,5kg\", hein ?!\n Dans ce cas...\"",
             "\\.\"En augmentant ou en diminuant la valeur,\n on devrait savoir ce qu'il faut faire !\"",
             "\\.\\\\C[4](Augmenter ou diminuer de 35,5 kilogrammes...\n Quoi...? Où...? Qui...?)",
-            "\\.\"Aller, on s'y remet !\n Sortez tout ce qui vous passe par la tête !!\"",
+            "\\.\"Allez, on s'y remet !\n Sortez tout ce qui vous passe par la tête !!\"",
             "\"Du poids... Du poids...\n Diminuer... ou augmenter de 35,5 kilogrammes...?\"",
             "\\.\"Rien à faire ! Je commence à paniquer !\"",
             "\\.\"Attends une seconde, je sais !\"",
@@ -18513,7 +18535,7 @@
         "617-0-message": [
             "\\.\"Une petite minute ! Reko !\"",
             "\\.\"Q-Quoi ?!\"",
-            "\\.\"Le chronomètre du dard, ne se trouverait-il\n pas à \\C[2]gauche\\C[0]...?!\"",
+            "\\.\"Le chronomètre du dard, ne se trouverait-il\n pas plutôt à \\C[2]gauche\\C[0]...?!\"",
             "\\.\"Mais... \\C[2]l'écran de droite\\C[0] affiche \"Restant 35,5\" !\n C'est pas celui-là, le chronomètre ?\"",
             "\\.\"...\"",
             "\\.\"Mais il ne bouge pas...\"",
@@ -18539,7 +18561,7 @@
             "\\.\"Si je dois changer ma coiffure pour sauver Gin,\n j'en couperai autant qu'il le faudra !!\"",
             "\\.\"Je ne pense pas que ce soit ça...\n\\! Mais on ne peut que suggérer tout ce qui nous\n traverse l'esprit, après tout !\"",
             "\\.\\C[4](Honnêtement, il est plus question d'intuition\n que de logique pour cette attraction...)",
-            "\\.\\C[4](Mais je suis persuadée que ce nombre a\n quelque chose à voir avec ce qu'il nous entoure...!!)",
+            "\\.\\C[4](Mais je suis persuadée que ce nombre a\n quelque chose à voir avec ce qui nous entoure...!!)",
             "\\.\\C[4](On doit trouver un moyen de le sauver...!!\n Même si on doit tout essayer !!)"
         ],
         "530-0-choice": [
@@ -18743,6 +18765,27 @@
             "\\.\\C[10]\"Je peux vous l'assurer sans l'ombre d'un doute :\n Le troisième dard sera létal pour ce gamin.\"",
             "\\.\\sp[10]\"... ouuh...\"",
             "\\.\\C[10]\"C'est votre dernière chance... Bon couraaage~ !\""
+        ],
+        "511-0-message": [
+            "\\.\"T-Tu... viens de dire quoi, là...?!\"",
+            "\\.\"Il n'y a qu'un seul moyen d'atteindre un poids\n de 35,5kg...\"",
+            "\\.\"... Un corps humain...\"",
+            "\\.\"Si quelqu'un tombe...\n Cela activera la balance et Gin sera sauvé.\"",
+            "\\.\"..........\"",
+            "\\.\"... Pour finir empalé...?!\"",
+            "\\.\"Tu dis que si on veut les sauver tous les deux...\n L'une de nous doit se sacrifier ?!\"",
+            "\\.\"Hahaha... Tu viens à peine de remarquer ?\"",
+            "\\.\"Hé oui, la \\C[2]Salle des Impressions\\C[0] vous permet\n de laisser une dernière \\C[2]impression\\C[0]...\n En vous sacrifiant, vous pouvez arrêter la machine.\"",
+            "\\.\"Espèce de putain de...!!\"",
+            "\\.\"Mais vous savez...\n Vous êtes sacrément chanceuses pour des salopes !\n Pas vrai, Lara ?!\"",
+            "\\.\"... Si Q-taro avait été en fin de classement,\n puisqu'il fait plus de 100 kilogrammes...\"",
+            "\\.\"J'imagine que vous auriez toutes les trois dû\n \\C[2]descendre\\C[0] pour le sauver.\"",
+            "\\.\\C[4](Hm...? C'est moi, ou elle vient de...?)",
+            "\\.\"Allez, là.\n Faites plus attention au temps qu'il vous reste !\n Ça commence à faire court, capiiiiche ?\"",
+            "\\.\"Bientôt... Cette discussion sera finie.\n Vous devriez vite vous mettre d'accord...\"",
+            "\\.\\C[10]\"Sur qui sacrifier.\"",
+            "\"Faire un sacrifice... pour Gin...?\"",
+            "\\.\"..........\""
         ]
     },
     "map107": {
