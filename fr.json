@@ -8018,11 +8018,14 @@
             "\\.\\C[4](Mais... c'est le pire possible...)"
         ],
         "513-0-message": [
-            null,
+            "\"... Doit forcément avoir moyen de pas se faire empaler.\n J'ai pas raison, Sara ?\"",
             "\"Nan, tu t'es trompée. Ça va aller, Sara.\n Reste calme, garde le rythme.\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
             "\"Raté, Sara.\n Passe à la suite. On a pas le temps.\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\"Tu peux le faire, c'est sûr.\n T'es pas d'accord ?\"",
+            "\\.\\C[4](Un moyen d'éviter de se faire empaler...\n Peut-être que j'ai besoin d'un objet...?)",
+            "\\.\\C[4](Je devrais le montrer à Keiji...!)"
         ],
         "515-0-message": [
             null,
@@ -8030,7 +8033,18 @@
             null,
             "\\.\\C[4](Mince...! C'était une erreur !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! C'était une erreur !)",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.\\C[4](Je crois... que je commence à voir l'utilité de\n l'objet qui me déroutait depuis tout ce temps...!)"
         ],
         "518-0-message": [
             null,
@@ -9074,12 +9088,25 @@
             "\\.\\C[4](Non...!!\n N'y a-t-il vraiment aucune autre option...?!)"
         ],
         "514-0-message": [
-            null,
-            null,
+            "\"Épargnez-moi les trucs gores, s'il vous plaît...\n Je supporte pas ça...\"",
+            "\"M-Me dis pas qu'on va devoir se démembrer...?!\n Ouuuh...\n Je peux pas faire quelque chose d'aussi dégoutant !!\"",
             "\"Je vois pas pourquoi tu me montres ça, là !\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
             "\"Ouais, et alors ?\n Elle a quoi de bizarre, cette déclaration ?!\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\"Ouuuh... Je commence à être malade...\"",
+            "\"Si on a pas à \"mourir\", c'est que c'est ça, nan ?!\n Genre... on rassemble tous nos membres...\"",
+            "\\.\"...\"",
+            "\\.\"... Exactement.\"",
+            "\\.\"T-T'es sérieuse, là ?!\n J-Je pourrai plus jouer d'instrument, alors !!\"",
+            "\\.\\C[4](Aucun doute à avoir, c'est bizarre.\n Aucun des autres pièges n'étaient aussi radicaux...)",
+            "\\.\\C[4](Et si c'était Q-taro qui avait fini en dernière place ?\n Même en nous démembrant toutes, nous n'aurions\n pas été en mesure de le sauver...)",
+            "\\.\\C[4](Il y a forcément... quelque chose...)",
+            "\\.\"Non, rappelle-toi de ce que Ray et Lara avaient dit.\n Si Q-taro avait été en dernière place...\"",
+            "\\.\"Même en nous démembrant, ça n'aurait pas été suffisant.\n ... Impossible d'utiliser nos torses ou nos têtes.\"",
+            "\\.\"Pour un truc aussi dégoûtant, t'en parles\n sacrément calmement...!\"",
+            "\\.\"Mais est-ce qu'on peut croire ce qu'ils disent ?\n Est-ce qu'on peut être sûres qu'ils sont pas juste\n assoiffés de sang ?!\"",
+            "\\.\\C[4](Je crois... que je commence à voir l'utilité de\n l'objet qui me déroutait depuis tout ce temps...!)"
         ],
         "521-0-message": [
             null,
@@ -9812,7 +9839,8 @@
             "Utiliser l'objet sélectionné\nAnnuler",
             "Mémoriser la déclaration\nAnnuler",
             "Oublier la déclaration mémorisée\nAnnuler",
-            "Appliquer la déclaration mémorisée\nAnnuler"
+            "Appliquer la déclaration mémorisée\nAnnuler",
+            "Exactement\nJe ne pense pas"
         ],
         "515-0-choice": [
             "Utiliser l'objet sélectionné\nAnnuler",
@@ -15788,7 +15816,7 @@
             "\\.\"OK ! Dégageons-la !\"",
             "\\.\"Un, deux, et...\"",
             "\\.\\C[3]En dessous...",
-            "\\.\\C[3]Au fin fond d'une longue crevasse se trouvait\nd'énormes piques.",
+            "\\.\\C[3]Au fin fond d'une très, très longue cavité\nse trouvaient d'énormes piques.",
             "\\.\"L-La vache...!!\n C'est quoi ça ?! Un piège ?!\"",
             "\\.\"Sara ! Il y a quelque chose écrit au dos...!!\"",
             "\\.\\C[3]Derrière, il se trouvait les mots \"Secourir\".",
@@ -18785,7 +18813,27 @@
             "\\.\"Bientôt... Cette discussion sera finie.\n Vous devriez vite vous mettre d'accord...\"",
             "\\.\\C[10]\"Sur qui sacrifier.\"",
             "\"Faire un sacrifice... pour Gin...?\"",
-            "\\.\"..........\""
+            "\\.\"..........\"",
+            "\\.\"Hein ? Ben aloooors, c'est quoi le problème ?\n Depuis tout ce temps...\n C'était pas justement ce que vous cherchiez à faire ?\"",
+            "\\.\"C-C'est odieux...\n Je ne peux pas décider d'une chose pareille...\"",
+            "\\.\"Hein ? Mais qu'est-ce que tu gazouilles ?\"",
+            "\\.\\C[10]\"Si ça avait été Mishima à la place de Gin...\n T'aurais direct jeté un de tes alliés sans hésiter.\n Pas vrai, Nao ?\"",
+            "\\.\"C'est ridicule !!\n Je ne ferai jamais ça...!!\"",
+            "\\.\"... Hahaha.\n Si ça t'enchante pas de jeter les autres,\n t'as qu'à te sacrifier toi-même.\"",
+            "\\.\"...!!\"",
+            "\\.\"Toute fille bien aimable souhaitant sauver Gin\n est priée de se faire empaler !\"",
+            "\\.\\C[10]\\sp[10]\"Ahahahahahahahahaha...\"",
+            "\\.\"... Tu interfères trop avec les discussions d'humain,\n poupée.\"",
+            "\\.\"... Hmm ?\"",
+            "\\.\"Vous trois... Vous vous rappelez ?\"",
+            "\\.\"Ce que Ray avait dit quand on l'a rencontré.\n\\! \"Si vous obtenez de bons résultats, personne\n n'aura à périr.\"",
+            "\\.\"Ah...! Je me le rappelle !\"",
+            "\\.\"Louche, hein ?\n Si quelqu'un doit mourir pour qu'on gagne,\n ça va à l'encontre des règles.\"",
+            "\\.\"... Ce qui veut dire...\"",
+            "\\.\"... Qu'y a forcément moyen de pas empaler quelqu'un.\"",
+            "\\.\"Sérieux...?! Mais c'est 35 kilos !!\n À nous trois, qu'est-ce qu'on peut faire d'autre...?\"",
+            "\\.\"M-Me dis pas qu'on va devoir se démembrer...?!\n Ouuuh...\n Je peux pas faire quelque chose d'aussi dégoutant !!\"",
+            "\\.\"La tuile !\n Peut-être que si on se place sur la tuile qu'on\n vient d'enlever, on ne se fera pas transpercer...!\""
         ]
     },
     "map107": {
