@@ -8099,10 +8099,10 @@
             "\"Kanna...\n Sois honnête, dis-moi tout ce que tu sais !\"",
             "\"K-Kanna ne sait rien !\n C'est la vérité, Sara...!\"",
             "\\C[4](Cette déclaration est inutile...!)",
-            null,
-            null,
-            null,
-            null,
+            "\"Hmm... Quelle perte de temps...\n Perdue, Sara ?\"",
+            "\\.\\C[4](Il a raison...\n Je devrais peut-être reprendre mes esprits...)",
+            "\"Bien sûr... Tu devrais être au courant, Sou...\"",
+            "\"Pardon...?!\n Désolé, mais je dormais quand c'est arrivé...\n Tu te souviens...?\"",
             null,
             null,
             null,
@@ -8134,7 +8134,9 @@
             "\\C[4](Quoi...?!)",
             "\"Kanna...\n Sois honnête, dis-moi tout ce que tu sais !\"",
             null,
-            "\\C[4](Cette déclaration est inutile...!)"
+            "\\C[4](Cette déclaration est inutile...!)",
+            "\"Bien sûr... Tu devrais être au courant, Sou...\"",
+            "\"Pardon...?!\n Désolé, mais je dormais quand c'est arrivé...\n Tu te souviens...?\""
         ],
         "522-0-message": [
             null,
