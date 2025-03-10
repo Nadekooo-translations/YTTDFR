@@ -7964,7 +7964,7 @@
             "\\.\\C[4](J'ai extrait une nouvelle déclaration...!)"
         ],
         "475-0-message": [
-            "\"Peu importe ce qu'on fait, ça change rien...\n La Salle des Impressions sert juste à nous isoler...\"",
+            "\"Peu importe ce qu'on fait, ça change rien...\n La Salle des Impressions sert juste à nous isoler\n des autres...\"",
             "\"Si on rajoute 35,5 kilos de pression sur la plateforme,\n peut-être que ça enclenchera une machine qui sortira\n Gin de là ?!\"",
             "\"Je vois pas pourquoi tu me montres ça, là !\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
@@ -7993,7 +7993,7 @@
             "\\.\"Alors c'est pas une question de poids, au final...?!\"",
             "\\.\"Ça voudrait dire que cette 'Salle des Impressions'\n sert vraiment juste à avoir une impression ?!\"",
             "\\.\"..........\"",
-            "\\.\"Peu importe ce qu'on fait, ça change rien...\n La Salle des Impressions sert juste à nous isoler...\"",
+            "\\.\"Peu importe ce qu'on fait, ça change rien...\n La Salle des Impressions sert juste à nous isoler\n des autres...\"",
             "\\.\\C[4](Même sauter n'a pas changé l'affichage...)",
             "\\.\\C[4](Mais allons-nous vraiment dans la\n mauvaise direction...?)"
         ],
@@ -9364,7 +9364,7 @@
             "\\.\\C[4](Elle a raison... Pourquoi aurait-ce été nécessaire ?)"
         ],
         "562-0-message": [
-            "\"35,5 kilogrammes...\n C'est à peu près le poids d'un enfant\n en école primaire...\"",
+            "\"35,5 kilogrammes...\n C'est à peu près le poids d'un enfant...\"",
             "\"Au final, peut-être que je ferais mieux de couper\n 35,5 centimètres de mes cheveux au cas où...!\"",
             "\"Peut-être que si on versait 35,5 litres de sang,\n ça sauverait Gin...?\"",
             "\"Ce qui est cardinal, c'est l'unité de mesure...!\n La taille, le poids, le volume...\n Si on connaît l'unité, on devrait pouvoir résoudre\n l'énigme...!\"\"",
@@ -9384,8 +9384,8 @@
             "\\.\\C[4](Je ne peux pas la laisser se couper les cheveux\n à cause de la panique...!)",
             "\\.\"Peut-être un poids ?!\"",
             "\\.\"35,5 kilogrammes... 35,5 grammes... Hum...\"",
-            "\\.\"35,5 kilogrammes...\n C'est à peu près le poids d'un enfant\n en école primaire...\"",
-            "\\.\\C[4](Le poids... d'un enfant en école primaire ?)",
+            "\\.\"35,5 kilogrammes...\n C'est à peu près le poids d'un enfant...\"",
+            "\\.\\C[4](Le poids... d'un enfant ?)",
             "\\.\"Peut-être un volume ?!\"",
             "\\.\"35,5 centilitres... 35,5 demi-litres...\n 35,5 litres... Hum...\"",
             "\\.\"Peut-être que si on versait 35,5 litres de sang,\n ça sauverait Gin...?\"",
@@ -9399,8 +9399,8 @@
             "\\.\\C[4](Je ne peux pas la laisser se couper les cheveux\n à cause de la panique...!)",
             "\\.\"Peut-être un poids ?!\"",
             "\\.\"35,5 kilogrammes... 35,5 grammes... Hum...\"",
-            "\\.\"35,5 kilogrammes...\n C'est à peu près le poids d'un enfant\n en école primaire...\"",
-            "\\.\\C[4](Le poids... d'un enfant en école primaire ?)",
+            "\\.\"35,5 kilogrammes...\n C'est à peu près le poids d'un enfant...\"",
+            "\\.\\C[4](Le poids... d'un enfant ?)",
             "\\.\"Peut-être un volume ?!\"",
             "\\.\"35,5 centilitres... 35,5 demi-litres...\n 35,5 litres... Hum...\"",
             "\\.\"Peut-être que si on versait 35,5 litres de sang,\n ça sauverait Gin...?\"",
@@ -18921,11 +18921,11 @@
         ],
         "563-0-message": [
             "\\.\"Attends, Nao !\n Tu viens de dire quoi, là ?!\"",
-            "\\.\"E-Euh...\n Que 35,5 kilogrammes, c'est à peu près le\n poids d'un enfant d'école primaire ?\"",
+            "\\.\"E-Euh...\n Que 35,5 kilogrammes, c'est à peu près le\n poids d'un enfant ?\"",
             "\\.\"Je me demande...\"",
             "\\.\"Hé ! Gin !! Tu t'es fait peser à l'école, non ?!\"",
             "\\.\"... Miaou ?\"",
-            "\\.\"Tu pèses combien ?!\n Donne-nous ton poids en kilogrammes !!\"",
+            "\\.\"Tu pèses combien ?!\n Donne ton poids en kilos !!\"",
             "\\.\"..........\"",
             "\\.\"... 35,5 kilos... ouaf...\"",
             "\\.\"Bingo !!\n C'est tout pile le même que sur l'écran...!\"",
