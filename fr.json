@@ -8484,21 +8484,33 @@
             "\\.\\C[4](Mais quand bien même... Une poupée...\n Pourrait-elle vraiment chanter de manière si\n émotionnelle...?!)"
         ],
         "557-0-message": [
-            null,
+            "\"C'est vrai...\n L'IA de Monsieur Mishima était parfaite...\n Je pouvais vraiment me dire que c'était lui...\"",
             "\"Je... ne suis pas trop !\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
             "\"Je... ne suis pas trop !\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
             "\"Je ne vois pas le rapport...?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\"Mais...\n Il est vrai que je n'ai connu Monsieur Mishima\n que 4 ans.\"",
+            "\\.\"Il est possible que je n'ai pas remarqué les\n petites différences entre l'IA et le vrai...\""
         ],
         "558-0-message": [
-            null,
-            null,
-            null,
+            "\"Même sans l'avoir rencontrée pendant 2 ans et demi...\n Reko reste Reko !\n Impossible que je me trompe !!\"",
+            "\"Imiter un être humain à la perfection...\n C'est tout bonnement impossible...!!\n Il doit forcément y avoir une différence !\"",
+            "\"Quoi ?! T'as un problème ?!\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
-            null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\"Quoi ?! T'as un problème ?!\"",
+            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\"La ferme ! C'est quoi, ça ?!\"",
+            "\\.\\C[4](Rien à faire ! Il refuse de m'écouter...!)",
+            "\"L'essence même d'une personne... ne change pas !!\"",
+            "\"Et il est juste impensable que je ne remarque pas\n la moindre différence dans son comportement !!\"",
+            "\\.\"Calme-toi, s'il te plaît !\"",
+            "\\.\"Oui...\n J'ai été en prison pendant 2 ans et demi...\n Et je n'ai pas eu le moindre contact avec Reko.\"",
+            "\\.\"Et quand on s'est retrouvés, j'avais bien\n l'impression qu'elle s'était adoucie...\n Qu'elle avait un peu changé...!\"",
+            "\\.\"Mais ces derniers jours !\n Je me suis rendu compte qu'elle n'avait pas changé !\n Reko est toujours Reko !\"",
+            "\\.\"Cette Reko, un imposteur...?!\n Vous foutez pas de ma gueule !!\"",
+            "\\.\\C[4](Alice est totalement persuadé que\n c'est la vraie Reko...!)"
         ],
         "561-0-message": [
             "\"Et si le nombre 35,5 était en rapport avec Gin...?\n C'est lui, la cible du dard, après tout...\n Nan, ça peut pas être ça...\"",
@@ -16290,7 +16302,7 @@
         "295-0-message": [
             "\\C[3]Non...\nJ'ai fait une erreur au tout dernier moment...",
             "\\.\\C[3]Sans avoir fait de décisions, le vote commença.",
-            "\\.\\C[3]J'étais tellement emplie d'incertitude et\nirritée face à mon échec que j'en fus aveuglée.",
+            "\\.\\C[3]J'étais tellement emplie d'incertitude et\nd'irritation face à mon échec que j'en fus aveuglée.",
             "\\.\\C[3]J'arrive à peine à me souvenir de ce qu'il\ns'est passé ensuite...",
             "\\.\\C[3]Pas même... de qui a été choisi... et de qui est mort."
         ],
@@ -18578,7 +18590,7 @@
             "\\.\"Et à la Chambre des Tromperies,\n la vraie et la fausse Reko se sont fait échanger.\"",
             "\\.\"Ça veut dire que la Reko qui est là est fausse...\n Et d'après ta théorie, c'est copie d'elle-même.\n Une poupée.\"",
             "\\.\"... Mais elle refuse de l'admettre.\"",
-            "\\.\"Il est vrai...\n Que l'IA de Monsieur Mishima était parfaite...\n Je pouvais vraiment me dire que c'était lui...\"",
+            "\\.\"C'est vrai...\n L'IA de Monsieur Mishima était parfaite...\n Je pouvais vraiment me dire que c'était lui...\"",
             "\\.\"Imiter un être humain à la perfection...\n C'est tout bonnement impossible...!!\n Il doit forcément y avoir une différence !\"",
             "\\.\"Je vais vous prouver que je suis humaine, OK ?!\n Je ferai tout ce que vous voudrez !!\n Vous voulez que je fasse quoi ?!\"",
             "\\.\"Je me demande...\n Pourquoi l'IA de Mishima ne se souvenait-elle\n pas de nous...?\"",
@@ -19551,37 +19563,37 @@
             "\\.\"Pardon... Sara.\""
         ],
         "2-3-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\"Je n'y suis pas allée !!\n Prouve-moi que c'est le cas !!\"",
+            "\\.\"C'est le seul endroit où y avait la Toile du Bonheur !\n Vu que tu l'as, c'est que t'y es allée !\"",
+            "\\.\"C'est la Reko qui en est sortie qui me l'a donnée !\n Ce n'est pas une preuve !!\"",
+            "\\.\"Ben prouve-moi que t'y étais pas, alors !\"",
+            "\\.\\C[4](Argh...! Je n'ai pas l'avantage sur ce point !)",
+            "\"C'est toi qui as gardé la plupart des Médaillons\n du Triomphe qu'il y avait dans la Chambre des\n Tromperies, Reko !!\"",
+            "\\.\"Si on avait vraiment tout partagé équitablement,\n ça aurait aussi pris en compte les Médaillons !!\"",
+            "\\.\"Argh...!!\"",
+            "\"C-C'est impensable !!\n Je suis la vraie Sara !!\"",
+            "\\.\"Et moi, je suis la vraie Reko !!\n Parce qu'on est toutes les deux allées à la\n Chambre des Tromperies !!\"",
+            "\\.\"Mrgh...!!\"",
             "\\.\\C[4](Ça n'a pas marché...!)"
         ],
         "3-2-message": [
-            null,
+            "\"Ben alors, Sara ?! Plus rien à rétorquer ?!\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "3-4-message": [
-            null,
+            "\"Ben alors, Sara ?! Plus rien à rétorquer ?!\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "3-6-message": [
-            null,
+            "\"Ben alors, Sara ?! Plus rien à rétorquer ?!\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "3-8-message": [
-            null,
+            "\"Ben alors, Sara ?! Plus rien à rétorquer ?!\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "3-10-message": [
-            null,
+            "\"Ben alors, Sara ?! Plus rien à rétorquer ?!\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "1-2-message": [
@@ -19591,6 +19603,36 @@
         "5-1-choice": [
             "Regarder\nJe ne veux pas regarder",
             "Dis quelque chose !\nNe pas le brusquer"
+        ],
+        "2-1-message": [
+            "\"Non, vous avez été séparé au moins depuis qu'Alice\n s'est fait emprisonner !\"",
+            "\\.\"C'est que 2 ans et demi !!\"",
+            "\\.\"C'est assez de temps pour qu'une personne\n puisse changer !!\"",
+            "\\.\"C'est très probable que l'arrestation d'Alice a\n fortement impacté Reko mentalement !!\"",
+            "\\.\"Argh...!!\"",
+            "\"Non... Ce n'est juste pas vrai !\"",
+            "\\.\"Pourquoi ?! C'est mon propre frère !!\"",
+            "\\.\"Alice est un drôle d'individu !\n Il n'est pas convaincant du tout !\"",
+            "\\.\"Non seulement t'as pas de preuve...\n Mais en plus c'est super impoli !!\n ... Même si je suis d'accord !!\"",
+            "\\.\\C[4](Argh...! Ça n'a pas marché !)",
+            "\"Frère ou pas, j'ai du mal à croire qu'il puisse\n en être sûr juste à l'intuition !!\"",
+            "\\.\"Faut des années pour se faire une intuition !!\"",
+            "\\.\"Tu crois vraiment pouvoir ignorer toutes les années\n de nos vies où on a été ensemble ?!\"",
+            "\\.\"Argh...!!\"",
+            "\\.\\C[4](Le lien entre un frère et une sœur...\n Je ne peux pas le battre !)"
+        ],
+        "2-5-message": [
+            "\"Tout à l'heure, tu as dit que tu ne t'en\n souvenais pas !!\"",
+            "\\.\"Je faisais semblant...!\n On m'interrogeait, j'ai fait ça par réflexe !!\"",
+            "\\.\"Maintenant, je l'admets !\n Désolée... d'avoir cassé le moniteur...!!\"",
+            "\\.\\C[4](Grr...!!\n C'est faux, tu es quelqu'un d'autre que la Reko\n qui a cassé le moniteur !)",
+            "\\.\\C[4](Mais... Je n'ai pas de quoi l'attaquer comme ça !!)",
+            "\"Oh, vraiment ?!\n Il te manque la gentillesse et l'attention\n aux autres que la vraie Reko avait !\"",
+            "\\.\"Nao a dit exactement pareil quand elle\n t'a entendu !!\"",
+            "\\.\"J'ai été maladroite...! Je paniquais...\n Du coup, j'ai agi bizarrement !\"",
+            "\\.\"Au fond, je veux pas qu'on me déteste !\n Ça t'es jamais arrivé d'agir différemment\n de ce que te dictent tes émotions, Sara ?!\"",
+            "\\.\"Argh... Ce n'est pas important...!!\"",
+            "\\.\\C[4](Rien à faire... Elle évite habilement le sujet !)"
         ]
     },
     "items-21": {
@@ -20477,34 +20519,34 @@
             "Oui\nNon"
         ],
         "3-3-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\"Tu en es vraiment sûre ?!\"",
+            "\\.\"Tu l'as dit toi-même tout à l'heure !!\"",
+            "\\.\\C[4](Gh...!\n Je ne vais pas pouvoir le réfuter, celui-là !)",
+            "\"Mais était-ce vraiment équitable ?!\"",
+            "\\.\"Tu as gardé la plupart des Médaillons du Triomphe\n qu'on a trouvé dans la Chambre des Tromperies, Reko !!\"",
+            "\\.\"Et après ça, est-ce que tu as vraiment distribué\n les Médaillons du Triomphe aux autres comme convenu ?!\"",
+            "\\.\"J-Je...!!\"",
+            "\\.\"La vraie Reko... n'aurait pas été aussi égoïste !!\"",
+            "\\.\"Gh...!!\"",
+            "\"C-C'est impensable !!\n Je suis la vraie Sara !!\"",
+            "\\.\"Et moi, je suis la vraie Reko !!\n Parce qu'on est toutes les deux allées à la\n Chambre des Tromperies !!\"",
+            "\\.\"Mrgh...!!\"",
             "\\.\\C[4](Ça n'a pas marché...!)"
         ],
         "4-2-message": [
-            null,
+            "\"Ben alors, Sara ?! Plus rien à rétorquer ?!\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "4-4-message": [
-            null,
+            "\"Ben alors, Sara ?! Plus rien à rétorquer ?!\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "4-6-message": [
-            null,
+            "\"Ben alors, Sara ?! Plus rien à rétorquer ?!\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "4-8-message": [
-            null,
+            "\"Ben alors, Sara ?! Plus rien à rétorquer ?!\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "15-1-message": [
@@ -20599,6 +20641,23 @@
         "5-1-choice": [
             "Regarder\nJe ne veux pas regarder",
             "Dis quelque chose !\nNe pas le brusquer"
+        ],
+        "3-1-message": [
+            "\"Non, vous avez été séparé au moins depuis qu'Alice\n s'est fait emprisonner !\"",
+            "\\.\"C'est que 2 ans et demi !!\"",
+            "\\.\"C'est assez de temps pour qu'une personne\n puisse changer d'opinions et de personnalité !!\"",
+            "\\.\"Et pourtant, Alice répète en boucle que tu\n n'as pas du tout changé !\n Il en est totalement convaincu !!\"",
+            "\\.\"Argh...!!\"",
+            "\"Non... Ce n'est juste pas vrai !\"",
+            "\\.\"Pourquoi ?! C'est mon propre frère !!\"",
+            "\\.\"Alice est un drôle d'individu !\n Il n'est pas convaincant du tout !\"",
+            "\\.\"Non seulement t'as pas de preuve...\n Mais en plus c'est super impoli !!\n ... Même si je suis d'accord !!\"",
+            "\\.\\C[4](Argh...! Ça n'a pas marché !)",
+            "\"Frère ou pas, j'ai du mal à croire qu'il puisse\n en être sûr juste à l'intuition !!\"",
+            "\\.\"Faut des années pour se faire une intuition !!\"",
+            "\\.\"Tu crois vraiment pouvoir ignorer toutes les années\n de nos vies où on a été ensemble ?!\"",
+            "\\.\"Argh...!!\"",
+            "\\.\\C[4](Le lien entre un frère et une sœur...\n Je ne peux pas le battre !)"
         ]
     },
     "map123": {
