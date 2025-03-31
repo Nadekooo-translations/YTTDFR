@@ -20965,6 +20965,17 @@
             null,
             null,
             "\\.\"..........\""
+        ],
+        "2-1-message": [
+            "*snif snif snif*...",
+            "\\.\"Hmm... En temps normal, je te ferais partir.\n Mais là, je suis de bonne humeur...\"",
+            "\\.\"Vas-y, renifles autant que tu veux !!\"",
+            "\\.\"Argh... Nan, c'est bon, miaou. J'ai peur, ouaf.\"",
+            "\\.\"Khehehe... Comme tu veux.\n Tu as laissé passer ta chance...\"",
+            "\"Khehe... Mon esprit est clair \n comme de l'eau de roche...\""
+        ],
+        "3-1-message": [
+            "\\.\"Je te préviendrai si je trouve quelque chose, Sara.\""
         ]
     },
     "map135": {
