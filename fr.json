@@ -20826,7 +20826,13 @@
             null,
             null,
             null,
-            "\\.\"...\""
+            "\\.\"...\"",
+            null,
+            null,
+            "\\.\"T'as toi aussi vu un truc, Sara?\"",
+            "\\.\"Hein... ?!\"",
+            "\\.\"Bahaha... T'avais les mêmes pupilles que moi.\"",
+            "\\.\"Le regard rusé d'un détective qui\n ne néglige jamais les déboires du cœur...\""
         ],
         "6-3-message": [
             null,
@@ -31186,13 +31192,22 @@
     },
     "map181": {
         "2-1-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\"..........\""
+            "\\C[3]La tête de Ray Arranger.",
+            "\\.\\C[4](Il était une poupée, tout comme la fausse Reko...)",
+            "\\.\\C[3]La barrette de Joe est encore dans ses cheveux.",
+            "\\.\"...\n ...\"",
+            "\\.\\C[4](Rends-le... ! C'est à Joe !!)",
+            "\\.\\C[3]Obtenu la barrette de Joe.",
+            "\\.\"...\n ...\"",
+            "\\.\\C[4](...)"
+        ],
+        "2-1-choice": [
+            "Prendre la barrette\nAnnuler"
+        ],
+        "2-2-message": [
+            "\\C[3]La tête de Ray Arranger.",
+            "\\.\\C[4](La puce... Il ne faut pas l'endommager...\n Comment peut-on la retirer ?)",
+            "\"Hmm... J'aimerais prendre la tête pour l'inspecter,\n mais si on s'fait cramer, ils vont capter la combine.\""
         ]
     },
     "map204": {
