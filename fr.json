@@ -31207,7 +31207,34 @@
         "2-2-message": [
             "\\C[3]La tête de Ray Arranger.",
             "\\.\\C[4](La puce... Il ne faut pas l'endommager...\n Comment peut-on la retirer ?)",
-            "\"Hmm... J'aimerais prendre la tête pour l'inspecter,\n mais si on s'fait cramer, ils vont capter la combine.\""
+            "\"Hmm... J'aimerais prendre la tête pour l'inspecter,\n mais si on s'fait cramer, ils vont capter la combine.\"",
+            "\\.\\C[4](Je m'inquiète pour Gin... Allons dans la Salle des\n Écrans et vérifions le système de surveillance !)"
+        ],
+        "2-3-message": [
+            "\\C[3]La tête de Ray Arranger.",
+            "\\.\\C[4](Il était une poupée, tout comme la fausse Reko...)",
+            "\\.\\C[3]La barrette de Joe est encore dans ses cheveux.",
+            "\\.\"...\n ...\"",
+            "\\.\\C[4](Rends-le... ! C'est à Joe !!)",
+            "\\.\\C[3]Obtenu la barrette de Joe.",
+            "\\.\"...\n ...\"",
+            "\\.\\C[4](...)"
+        ],
+        "2-3-choice": [
+            "Prendre la barrette\nAnnuler"
+        ],
+        "4-1-message": [
+            "\\C[3]Le torse de Ray Arranger.",
+            "\\.\\C[4](À cause de Ray... Alice et la fausse Reko sont...)",
+            "\\.\\C[4](À cause de Ray... Alice et la fausse Reko sont...)"
+        ],
+        "5-1-message": [
+            "\\C[3]Alice se trouve au centre de la Chambre des Tromperies.",
+            "\\.\\C[4](Il y a... un trou béant dans son estomac...)"
+        ],
+        "5-2-message": [
+            "\\C[3]Reko se trouve au centre de la Chambre des Tromperies.",
+            "\\.\\C[4](Des litres de sang s'écoulent de sa poitrine...)"
         ]
     },
     "map204": {
