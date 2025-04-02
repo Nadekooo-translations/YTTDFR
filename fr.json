@@ -31235,6 +31235,44 @@
         "5-2-message": [
             "\\C[3]Reko se trouve au centre de la Chambre des Tromperies.",
             "\\.\\C[4](Des litres de sang s'écoulent de sa poitrine...)"
+        ],
+        "6-1-message": [
+            "\\C[3]Nao fixe intensément le corps d'Alice.",
+            "\\C[3]Nao fixe le corps de Reko.",
+            "\\.\\C[3]Elle ne semble pas nous remarquer du tout.",
+            "\\.\\C[4](Elle agit bizarrement, c'est certain... !)",
+            "\\.\"Sara... Pas tout de suite...\"",
+            "\\C[4](Argh... !)"
+        ],
+        "6-4-message": [
+            "\\C[3]Nao est dans la lune.",
+            "\\.\\C[3]Elle ne semble pas nous remarquer du tout.",
+            "\\.\\C[4](Tout va bien, Nao... ?!)",
+            "\\.\"Sara... On a pas le temps...\"",
+            "\\C[4](Argh... !)"
+        ],
+        "6-2-message": [
+            "\\C[3]Je ressens de vives émotions émanant de Nao...",
+            "\"...On a pas le temps pour ça, Sara.\""
+        ],
+        "6-5-message": [
+            "\\C[3]Je ne ressens aucune énergie de la part de Nao...",
+            "\"Qu'est-ce qui a bien pu se produire...\""
+        ],
+        "39-1-message": [
+            "\\C[3]Disque Victime E\n\nUn disque victime trouvé au 1er Ét."
+        ],
+        "40-1-message": [
+            "\\C[3]Disque Victime F\n\nUn disque victime trouvé au 1er Ét."
+        ],
+        "41-1-message": [
+            "\\C[3]Enregistrement Vidéo 1er Ét.\n\nFilmé par les caméras du 1er Ét. Montre nos actions passées.\nSou a aperçu Q-taro en train de répartir les cartes."
+        ],
+        "36-1-message": [
+            "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
+        ],
+        "38-1-message": [
+            "\\C[3]Vidéo Victime\n\nLa vidéo victime que Nao possédait. Elle montre\nla mort d'une policière lors de la Première Épreuve.\nEst-ce Keiji que l'on aperçoit au premier plan ?"
         ]
     },
     "map204": {
