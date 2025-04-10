@@ -19543,8 +19543,8 @@
             "Dis quelque chose !\nNe pas le brusquer"
         ],
         "840-0-message": [
-            "\"Est-ce que ?\"",
-            null,
+            "\"Est-ce que \\C[2]Reko Yabusame\\C[0] est morte ?\"",
+            "\"Correctamundo! Good for you!\"",
             "\"\\C[2]Reko Yabusame\\C[0] était-elle la victime ?\"",
             null,
             "\"\\C[2]Kanna Kizuchi\\C[0] était-elle la victime ?\""
