@@ -14594,7 +14594,7 @@
             "\\.\"On doit suspecter cinq personnes...?!\"",
             "\\.\\C[3]La situation... ne pourrait pas être pire.",
             "\\.\\C[3]L'air est devenu lourd.",
-            "\\.\"Voyez-vous cela...\n Toutes ces belles paroles se sont déjà vaporisées.\"",
+            "\\.\"Voyez-vous cela...\n Toutes ces belles paroles se sont déjà évaporées.\"",
             "\\.\"... Très bien.\n Moi, je sais de quoi nous pourrions parler.\"",
             "\\.\"Sara Chidouin, sache que je voterai pour toi !\n Qu'as-tu à dire pour ta défense ?\"",
             "\\.\"Hein...?!\"",
@@ -14635,7 +14635,7 @@
             "\\.\"On doit suspecter CINQ personnes...?!\"",
             "\\.\\C[3]La situation... ne pourrait pas être pire.",
             "\\.\\C[3]L'air est devenu lourd.",
-            "\\.\"Voyez-vous cela...\n Toutes ces belles paroles se sont déjà vaporisées.\"",
+            "\\.\"Voyez-vous cela...\n Toutes ces belles paroles se sont déjà évaporées.\"",
             "\\.\"... Très bien.\n Moi, je sais de quoi nous pourrions parler.\"",
             "\\.\"Sara Chidouin, sache que je voterai pour toi !\n Qu'as-tu à dire pour ta défense ?\"",
             "\\.\"Hein...?!\"",
@@ -21581,7 +21581,7 @@
     },
     "map60": {
         "1-1-message": [
-            "\\C[3]Devant moi se trouvaient d'étranges tables\nqui m'arrivent à la taille.",
+            "\\C[3]Devant moi se trouvaient d'étranges tables\nqui m'arrivaient à la taille.",
             "\"... On y est.\"",
             "\\.\\C[4](Keiji...)",
             "\\.\"...! Z'avez fait vite... les gars...\"",
