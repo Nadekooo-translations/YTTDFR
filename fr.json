@@ -15751,7 +15751,7 @@
             null,
             null,
             null,
-            null,
+            "\"C'est exact...\"",
             null,
             null,
             null,
@@ -19543,7 +19543,7 @@
             "Dis quelque chose !\nNe pas le brusquer"
         ],
         "840-0-message": [
-            null,
+            "\"Est-ce que ?\"",
             null,
             "\"\\C[2]Reko Yabusame\\C[0] était-elle la victime ?\"",
             null,
@@ -19554,24 +19554,79 @@
             null,
             "\\C[2]Alice Yabusame\\C[5] était-il la victime ?",
             null,
+            "\\C[5]C'est exact...",
+            "\\C[2]Sou Hiyori\\C[5] était-il la victime ?",
+            null,
+            "\\C[5]Excellent, tu t'en rappelles bel et bien...",
+            "M. \\C[2]Alice\\C[5] était-il la victime ?",
             null,
             null,
-            null,
-            null,
-            "M. \\C[2]Alice\\C[5] était-il la victime ?"
+            "M. \\C[2]Sou\\C[5] était-il la victime ?"
         ],
         "841-0-message": [
             null,
             null,
-            "\"\\C[2]Alice Yabusame\\C[5] était-il la victime ?\""
+            "\"\\C[2]Alice Yabusame\\C[5] était-il la victime ?\"",
+            null,
+            "\"\\C[2]Sou Hiyori\\C[0] était-il la victime ?\""
         ],
         "1060-0-message": [
             null,
             null,
             "\\C[2]Reko Yabusame\\C[5] était-elle la victime ?",
             null,
+            "\\C[5]C'est exact...",
+            "\\C[2]Kanna Kizuchi\\C[5] était-elle la victime ?",
             null,
-            "\\C[2]Kanna Kizuchi\\C[5] était-elle la victime ?"
+            "\\C[5]Bien, ...",
+            "Cette chère \\C[2]Reko\\C[5] était-elle la victime?",
+            null,
+            null,
+            "Cette chère \\C[2]Kanna\\C[5] était-elle la victime ?"
+        ],
+        "722-0-message": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\"C'est exact...\""
         ]
     },
     "map107": {
@@ -20355,7 +20410,12 @@
             "Et \\C[2]Sou Hiyori\\C[0], qui échoua à protéger Kanna,\ncultiva une haine incommensurable envers Sara.",
             "En raison d'une IA malveillante de Joe...",
             "\\.Sara oublia l'existence même de son meilleur ami...",
-            "La victime suivante fut l'intérimaire \\C[2]Sou Hiyori\\C[0]."
+            "La victime suivante fut l'intérimaire \\C[2]Sou Hiyori\\C[0].",
+            "Après avoir retiré son collier,\nil usa de ses dernières forces...",
+            "... pour démarrer une IA de Joe.",
+            "\\.Sara et son meilleur ami furent enfin\nréunis, et s'éveilla de son long cauchemar.",
+            "Le Jeu Mortel... n'est pas encore terminé.",
+            "\n\n                       \\C[10]6 Restants"
         ],
         "1-1-message": [
             "\\C[5]\"Salut, toi. Est-ce que tu m'entends ?\"",
@@ -20440,7 +20500,11 @@
         "5-3-message": [
             "\\C[2]Reko Yabusame\\C[0] était la victime.",
             "\\C[2]Alice Yabusame\\C[0] était la victime.",
-            "Ray Arranger, la poupée en proie à la démence, \nfut purgée..."
+            "Ray Arranger, la poupée en proie à la démence, \nfut purgée...",
+            "Gashu, lui, s'est donné la mort.",
+            "Le Jeu Principal eut lieu une fois de plus, \net \\C[2]Nao Egokoro\\C[0] y laissa la vie.",
+            "\"Alors, voici une deuxième question !\"",
+            "\"Laquelle de ces personnes était l'autre\n victime du second Jeu Principal ?\""
         ],
         "5-5-message": [
             "\\C[2]Kanna Kizuchi\\C[0] était la victime.",
@@ -29572,6 +29636,23 @@
             null,
             null,
             "\\.\"...\""
+        ],
+        "1-1-message": [
+            "Je me demande ce que c'est...",
+            "\\.J'ai l'étrange sensation d'avoir oublié quelque chose...",
+            "\\.Quelque chose... de très, très important...",
+            "Hé, Keiji, dis-moi ce que c'est.",
+            "\"...T'en fais pas. C'est parfaitement normal.\"",
+            "Vraiment... ?",
+            "\"...T'es juste fatiguée. Faut que tu t'reposes.\"",
+            "Non, mon esprit semble parfaitement clair...",
+            "\"A... alors y'a pas d'quoi s'inquiéter, pas vrai ?\"",
+            "\"...Hmpf. Dans ce cas, je me fais du souci pour rien ?\"",
+            "Mais...",
+            "\"...\n ...\"",
+            "Je veux me rappeler... tout ce qui s'est passé ici...",
+            "\\.Nao... et aussi Kanna...\nToutes les personnes qui ont perdu la vie...",
+            "\\.Mais qu'est-ce que j'ai oublié, au juste... ?"
         ]
     },
     "map194": {
