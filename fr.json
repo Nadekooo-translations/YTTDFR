@@ -19541,6 +19541,37 @@
         "549-0-choice": [
             "Regarder\nJe ne veux pas regarder",
             "Dis quelque chose !\nNe pas le brusquer"
+        ],
+        "840-0-message": [
+            null,
+            null,
+            "\"\\C[2]Reko Yabusame\\C[0] était-elle la victime ?\"",
+            null,
+            "\"\\C[2]Kanna Kizuchi\\C[0] était-elle la victime ?\""
+        ],
+        "1061-0-message": [
+            null,
+            null,
+            "\\C[2]Alice Yabusame\\C[5] était-il la victime ?",
+            null,
+            null,
+            null,
+            null,
+            null,
+            "M. \\C[2]Alice\\C[5] était-il la victime ?"
+        ],
+        "841-0-message": [
+            null,
+            null,
+            "\"\\C[2]Alice Yabusame\\C[5] était-il la victime ?\""
+        ],
+        "1060-0-message": [
+            null,
+            null,
+            "\\C[2]Reko Yabusame\\C[5] était-elle la victime ?",
+            null,
+            null,
+            "\\C[2]Kanna Kizuchi\\C[5] était-elle la victime ?"
         ]
     },
     "map107": {
@@ -20319,7 +20350,7 @@
             "Oui\nNon"
         ],
         "6-5-message": [
-            null,
+            "La victime suivante fut la collégienne \\C[2]Kanna Kizuchi\\C[0].",
             null,
             null,
             null,
@@ -20334,11 +20365,11 @@
             "\\C[5]\"... Merci.\"",
             "\\C[5]\"Compris. Une autre fois, alors.\"",
             "\\.\\C[5]\"... Contacte-moi quand tu auras envie de discuter.\"",
-            "C'est l'histoire de\\C[2]Sara Chidouin\\C[0], une lycéenne ordinaire.\nEt de \\C[2]Jou Tazuna (Joe)\\C[0], son meilleur ami.",
-            "Un jour, ils se retrouvèrent piégés dans un Jeu Mortel...",
+            "Voici \\C[2]Sara Chidouin\\C[0], une lycéenne ordinaire.\nEt \\C[2]Jou Tazuna (Joe)\\C[0], son meilleur ami.",
+            "Un jour, ils furent piégés dans un Jeu Mortel...",
             "Plutôt que de se soumettre à la peur, ils décidèrent\nde coopérer avec les autres participants...\\|\\|",
             "Mais hélas, le professeur \\C[2]Kazumi Mishima\\C[0]\ndevint la première victime.",
-            "Plus rien n'irait à l'encontre\nde leur destin : \\C[10]s'entretuer\\C[0].",
+            "Plus rien n'irait à l'encontre\nde leur destin, celui de \\C[10]s'entretuer\\C[0].",
             "Après un vote majoritaire des plus cruels,\nL'assistant-ménager \\C[2]Kai Satou\\C[0] n'était plus...",
             "Vient ensuite le tour de Joe, meilleur ami de Sara, \nde connaître son sort funeste.",
             "\\C[10]Sara fut tourmentée par des hallucinations...",
@@ -20365,6 +20396,10 @@
             "\\.Sara et son meilleur ami furent enfin\nréunis, et s'éveilla de son long cauchemar.",
             "Le Jeu Mortel... n'est pas encore terminé.",
             "\n\n                       \\C[10]6 Restants"
+        ],
+        "6-3-message": [
+            "La victime suivante fut\nl'autrice-compositrice \\C[2]Reko Yabusame\\C[0].",
+            "La victime suivante fut le meurtrier \\C[2]Alice Yabusame\\C[0]."
         ]
     },
     "map44": {
@@ -21056,6 +21091,13 @@
     "map222": {
         "3-5-choice": [
             "Oui\nNon"
+        ],
+        "3-5-message": [
+            "La victime suivante fut la collégienne \\C[2]Kanna Kizuchi\\C[0]."
+        ],
+        "3-3-message": [
+            "La victime suivante fut\nl'autrice-compositrice \\C[2]Reko Yabusame\\C[0].",
+            "La victime suivante fut le meurtrier \\C[2]Alice Yabusame\\C[0]."
         ]
     },
     "map150": {
