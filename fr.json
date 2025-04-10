@@ -573,7 +573,7 @@
         "// expression strings are english by default, but can be defined here ala talkspritedescription_cara0-1": "Default (no collar)",
         "itemdesc156": "Une longue corde blanche.\\n... Je ne sais pas d'où elle tire son nom.",
         "itemdesc158": "Un article sur 36-Rai 818 (Samurai Yaiba).\\nIl traite de sa dissolution.\\nCitation de la Chanteuse :\\n\"Je peux plus chanter les chansons de ce groupe.\"",
-        "itemdesc160": "Une liste des participants de la Démocratie Mortelle.\\nIl n'y a que 16 noms dessus."
+        "itemdesc160": "Une liste des participants du Jeu Mortel.\\nIl n'y a que 16 noms dessus."
     },
     "items-16": {
         "name": "??????????????",
@@ -20323,6 +20323,21 @@
             null,
             null,
             "La prochaine victime fut\nl'intérimaire \\C[2]Sou Hiyori\\C[0]."
+        ],
+        "1-1-message": [
+            "\\C[5]\"Salut, toi. Est-ce que tu m'entends ?\"",
+            "\\C[5]\"Bien... Ravi que tu aies répondu.\"",
+            "\\C[5]\"Hahaha. Flûte, alors.\"",
+            "\\.\\C[5]\"... J'aimerais que tu me racontes.\n Ce Jeu Mortel dans lequel tu étais impliquée.\"",
+            "\\.\\C[5]\"Ça ne devait pas être trop difficile, pas vrai ?\n Allez, je t'en supplie...\"",
+            "\\C[5]\"... Merci.\"",
+            "\\C[5]\"Compris. Une autre fois, alors.\"",
+            "\\.\\C[5]\"... Contacte-moi quand tu auras envie de discuter.\"",
+            "C'est l'histoire de\\C[2]Sara Chidouin\\C[0], une lycéenne ordinaire.\nEt de \\C[2]Jou Tazuna (Joe)\\C[0], son meilleur ami.",
+            "Un jour, ils se sont retrouvés piégés dans un Jeu Mortel...",
+            "Plutôt que de se soumettre à la peur,\nils décidèrent de coopérer avec les autres participants...\\|\\|",
+            "Mais hélas, le professeur \\C[2]Kazumi Mishima\\C[0]\ndevint la première victime.",
+            "Rien n'irait à l'encontre de leur destin : ils \\C[10]s'entretueraient\\C[0]."
         ]
     },
     "map44": {
@@ -31266,7 +31281,7 @@
             "\\C[3]Disque Victime F\n\nUn disque victime trouvé au 1er Ét."
         ],
         "41-1-message": [
-            "\\C[3]Enregistrement Vidéo 1er Ét.\n\nFilmé par les caméras du 1er Ét. Montre nos actions passées.\nSou a aperçu Q-taro en train de répartir les cartes."
+            "\\C[3]Enregistrement Vidéo 1er Ét.\n\nFilmé par les caméras du 1er Ét. Montre nos actions passées.\nSou a aperçu Q-taro en train de répartir les cartes de rôle."
         ],
         "36-1-message": [
             "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
@@ -31278,7 +31293,7 @@
             "\\C[3]Tablette\n\nUne tablette permettant de vérifier votre carte de rôle.\nTrouvée près de Q-taro évanouï dans la Salle Effondrée ."
         ],
         "43-1-message": [
-            "\\C[3]Tazer\n\nUn tazer de poche capable d'immobiliser quelqu'un.\nC'est dangereux, donc Gin et moi l'avons pris en secret."
+            "\\C[3]Tazer\n\nUn tazer de poche capable d'immobiliser quelqu'un.\nC'est dangereux, donc Gin et moi l'avons pris secrètement."
         ]
     },
     "map204": {
@@ -31401,7 +31416,7 @@
     },
     "items-159": {
         "name": "\\I[19]Quatre Notes",
-        "description": "Des notes.\nLes participants de la Démocratie Mortelle y figurent.\nIl n'y a que 16 noms dessus."
+        "description": "Des notes.\nLes participants du Jeu Mortel y figurent.\nIl n'y a que 16 noms dessus."
     },
     "items-160": {
         "name": "Quatre Notes"
