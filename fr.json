@@ -31273,6 +31273,12 @@
         ],
         "38-1-message": [
             "\\C[3]Vidéo Victime\n\nLa vidéo victime que Nao possédait. Elle montre\nla mort d'une policière lors de la Première Épreuve.\nEst-ce Keiji que l'on aperçoit au premier plan ?"
+        ],
+        "42-1-message": [
+            "\\C[3]Tablette\n\nUne tablette permettant de vérifier votre carte de rôle.\nTrouvée près de Q-taro évanouï dans la Salle Effondrée ."
+        ],
+        "43-1-message": [
+            "\\C[3]Tazer\n\nUn tazer de poche capable d'immobiliser quelqu'un.\nC'est dangereux, donc Gin et moi l'avons pris en secret."
         ]
     },
     "map204": {
