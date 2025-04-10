@@ -12577,7 +12577,7 @@
             "\\.Mais Monsieur Mishima... s'est fait tuer par Rillante.\n... L'état de Nao me préoccupe."
         ],
         "284-0-message": [
-            "Kai Satou\nIl dit être assistant ménager.\nUn énergumène obsédé par les œufs Bénédicte.",
+            "Kai Satou\nIl dit être assistant-ménager.\nUn énergumène obsédé par les œufs Bénédicte.",
             "\\.Il est perché et il dit des choses qui pourraient autant\nêtre interprétées comme une blague que sérieusement.\nDurant la Roulette Russe, il a accepté de me faire\nconfiance malgré le fait qu'il n'ait pas voté pour moi.",
             "\\.Mais... C'est mon stalkeur. Il se pourrait qu'il ait\nquelque chose à voir avec les kidnappings. Ou du\nmoins, c'est ce que je pensais, car il a donné un\nsacré coup à Rillante. C'est un mystère ambulant..."
         ],
@@ -20312,7 +20312,8 @@
             "Oui\nNon"
         ],
         "1-1-choice": [
-            "Oui\nNon"
+            "Oui\nNon",
+            "Se remémorer\nPartir"
         ],
         "6-1-choice": [
             "Oui\nNon"
@@ -20334,10 +20335,36 @@
             "\\C[5]\"Compris. Une autre fois, alors.\"",
             "\\.\\C[5]\"... Contacte-moi quand tu auras envie de discuter.\"",
             "C'est l'histoire de\\C[2]Sara Chidouin\\C[0], une lycéenne ordinaire.\nEt de \\C[2]Jou Tazuna (Joe)\\C[0], son meilleur ami.",
-            "Un jour, ils se sont retrouvés piégés dans un Jeu Mortel...",
-            "Plutôt que de se soumettre à la peur,\nils décidèrent de coopérer avec les autres participants...\\|\\|",
+            "Un jour, ils se retrouvèrent piégés dans un Jeu Mortel...",
+            "Plutôt que de se soumettre à la peur, ils décidèrent\nde coopérer avec les autres participants...\\|\\|",
             "Mais hélas, le professeur \\C[2]Kazumi Mishima\\C[0]\ndevint la première victime.",
-            "Rien n'irait à l'encontre de leur destin : ils \\C[10]s'entretueraient\\C[0]."
+            "Plus rien n'irait à l'encontre\nde leur destin : \\C[10]s'entretuer\\C[0].",
+            "Après un vote majoritaire des plus cruels,\nL'assistant-ménager \\C[2]Kai Satou\\C[0] n'était plus...",
+            "Vient ensuite le tour de Joe, meilleur ami de Sara, \nde connaître son sort funeste.",
+            "\\C[10]Sara fut tourmentée par des hallucinations...",
+            "Alors que son cœur s'effondra,\nle péril perdura de plus belle...",
+            "\\C[5]Désormais, voici une question.",
+            "\\C[5]Laquelle de ces deux personnes trouva la mort ?"
+        ],
+        "1-3-message": [
+            "La victime suivante fut\nl'autrice-compositrice \\C[2]Reko Yabusame\\C[0].",
+            "La victime suivante fut le meurtrier \\C[2]Alice Yabusame\\C[0].",
+            "Alors qu'ils tentèrent désespérément de s'échapper,\nleurs ennemis donnèrent corps et âme pour les arrêter.",
+            "Lorsque le Jeu Principal eut de nouveau lieu,\nl'étudiante d'art \\C[2]Nao Egokoro\\C[0] mourut.",
+            "\\C[5]Et maintenant, une autre question.",
+            "\\C[5]Laquelle de ces deux personnes trouva la mort ?"
+        ],
+        "1-5-message": [
+            "La victime suivante fut la collégienne \\C[2]Kanna Kizuchi\\C[0].",
+            "Et \\C[2]Sou Hiyori\\C[0], qui échoua à protéger Kanna,\ncultiva une haine incommensurable envers Sara.",
+            "En raison d'une IA malveillante de Joe...",
+            "\\.Sara oublia l'existence même de son meilleur ami...",
+            "La victime suivante fut l'intérimaire \\C[2]Sou Hiyori\\C[0].",
+            "Après avoir retiré son collier,\nil usa de ses dernières forces...",
+            "... pour démarrer une IA de Joe.",
+            "\\.Sara et son meilleur ami furent enfin\nréunis, et s'éveilla de son long cauchemar.",
+            "Le Jeu Mortel... n'est pas encore terminé.",
+            "\n\n                       . . . . . . . . . . . . . . . . . . . . . . .\\C[10]6 Restants"
         ]
     },
     "map44": {
@@ -31293,7 +31320,7 @@
             "\\C[3]Tablette\n\nUne tablette permettant de vérifier votre carte de rôle.\nTrouvée près de Q-taro évanouï dans la Salle Effondrée ."
         ],
         "43-1-message": [
-            "\\C[3]Tazer\n\nUn tazer de poche capable d'immobiliser quelqu'un.\nC'est dangereux, donc Gin et moi l'avons pris secrètement."
+            "\\C[3]Tazer\n\nUn tazer de poche capable d'immobiliser quelqu'un.\nDangereux, donc Gin et moi l'avons pris secrètement."
         ]
     },
     "map204": {
