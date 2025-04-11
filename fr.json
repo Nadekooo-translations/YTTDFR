@@ -19544,11 +19544,11 @@
         ],
         "840-0-message": [
             "\"Est-ce que \\C[2]Reko Yabusame\\C[0] est morte ?\"",
-            "“Bingo ! Quelle perspicacité !”",
+            "“Dans le mille ! Quelle perspicacité !”",
             "\"\\C[2]Reko Yabusame\\C[0] était-elle la victime ?\"",
-            null,
+            "\"Bingooooo ! C'est une bonne réponse !\"",
             "\"\\C[2]Kanna Kizuchi\\C[0] était-elle la victime ?\"",
-            "\"Ohh ! C'est la bonne réponse, une fois de plus !"
+            "\"Ohh ! Encore une bonne réponse ! Deux d'affilée !\""
         ],
         "1061-0-message": [
             null,
@@ -19565,11 +19565,12 @@
             "M. \\C[2]Sou\\C[5] était-il la victime ?"
         ],
         "841-0-message": [
-            null,
-            null,
+            "\"\\C[2]Alice Yabusame\\C[0] est-il décédé ?\"",
+            "“Dans le mille ! Quelle perspicacité !”",
             "\"\\C[2]Alice Yabusame\\C[5] était-il la victime ?\"",
-            null,
-            "\"\\C[2]Sou Hiyori\\C[0] était-il la victime ?\""
+            "\"Bingooooo ! C'est une bonne réponse !\"",
+            "\"\\C[2]Sou Hiyori\\C[0] était-il la victime ?\"",
+            "\"Ohh ! Encore une bonne réponse ! Deux d'affilée !\""
         ],
         "1060-0-message": [
             null,
@@ -19628,6 +19629,12 @@
             null,
             null,
             "\"C'est exact...\""
+        ],
+        "842-0-message": [
+            "\\.\"Nao...\"",
+            "\\.\"O-Oui... ?\"",
+            "\\.\"C'est toi qui possède le \\C[10]Sacrifice\\C[0],\n n'est-ce pas ?\"",
+            "\\.\"Hein... ?!\""
         ]
     },
     "map107": {
