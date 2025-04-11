@@ -737,7 +737,7 @@
             "Après avoir remporté cette épreuve, 9 personnes d'âge,\nde genre et de professions différents nous attendaient.",
             "N'étant sûrs de rien, nous avons tous collaboré\npour nous échapper de cet endroit et nous avons\névité des pièges placés spécifiquement pour nous tuer.",
             "Mais...",
-            "À cause d'un coup cruel du Maître d'Étage apparu\nsubitement appelé \\C[2]Sue Rillante la Poupée Rieuse\\C[0]...",
+            "À cause d'un coup cruel du Maître d'Étage apparu\nsubitement appelé \\C[2]Sue Rillante la Poupée Ricanante\\C[0]...",
             "Le professeur \\C[2]Kazumi Mishima\\C[0]... est mort.",
             "Nous avons aussi rencontré un meurtrier qui\nétait resté caché du nom d'\\C[2]Alice Yabusame\\C[0]...",
             "Et nous avons commencé un vote mettant\nnos vies en jeu...\n\nLe \\C[2]Jeu Principal\\C[0].",
@@ -4008,7 +4008,7 @@
             "\\.\"Réponds-nous !! Qu'est-ce que t'es ?!?\"",
             "\\.\"Le policier du coin aimerait savoir aussi.\n Je suis pas trop, là...\"",
             "\\.\"Héhéhé. Dans ce cas, nous commencerons\n d'abord par ma présentation...\"",
-            "\\.\"Hi hi. Je suis \\C[2]Sue Rillante, la Poupée Rieuse\\C[0].\n Appelez-moi juste Rillante.\n Je suis la poupée qui vous servira de guide pour cet\n étage.\"",
+            "\\.\"Hi hi. Je suis \\C[2]Sue Rillante, la Poupée Ricanante\\C[0].\n Appelez-moi juste Rillante.\n Je suis la poupée qui vous servira de guide pour cet\n étage.\"",
             "\\.\"Hihi. Mon maître m'a ordonné de vous guider,\n courageux survivants, jusqu'au Jeu Principal.\"",
             "\\.\"Ton maître...\n En d'autres mots, t'es avec les kidnappeurs.\"",
             "\\.\"T-T'es notre ennemie ?!\n Essaie même pas de mentir !\"",
@@ -7563,7 +7563,7 @@
             "\\.\\C[4](Rien à faire... Gin s'est renfermé sur lui-même...)"
         ],
         "142-0-message": [
-            "\\.\"Il y avait une note déchirée dans la déchiqueteuse...\n Et il y avait écrit dessus que... grande sœur Sara\n est \\C[2]une meurtrière\\C[0]...\"",
+            "\\.\"Il y avait une note déchirée dans la déchiqueteuse...\n Et il était écrit dessus... que grande sœur Sara\n est \\C[2]une meurtrière\\C[0]...\"",
             "\\.\"Le texte qui disait que grande sœur Sara est\n une meurtrière a été écrit à la main, miaou...\"",
             "\\.\"Le papier qui disait que grande sœur Sara est une\n meurtrière ressemblait à une liste, miaou.\n Ça avait pas l'air d'une lettre, ouaf...\"",
             "\\.\"La note qui dit que grande sœur Sara est une\n meurtrière... Je l'ai sur moi !\n J'avais bien raison...\n C'est écrit juste là, ouaf...\"",
@@ -14467,7 +14467,7 @@
             "\\.\"... Aah, bon, ben...\n On dirait que personne a rien à redire.\n Revenons à nos moutons...\"",
             "\\.\"Écoutez. Les rôles des cartes importent vraiment\n qu'au dernier vote.\"",
             "\\.\"Tout d'abord... Notre priorité,\n c'est de trouver des potentiels suspects.\"",
-            "\\.\"... Après tout, s'il faut y a vraiment un de\n nos ravisseurs parmi nous.\"",
+            "\\.\"... Parce qu'au fond, y a peut-être bien\n un de nos ravisseurs parmi nous.\"",
             "\\.\\C[4](Je ne sais pas ce que Sou a en tête...)",
             "\\.\\C[4](Mais pour l'instant, je dois me concentrer\n sur la discussion en cours...!!)"
         ],
@@ -16479,7 +16479,7 @@
             "\\.Après le Jeu Principal, il a parlé avec Keiji.\n\"La personne que j'ai tuée s'appelait Sou Hiyori\"..."
         ],
         "372-0-message": [
-            "La Poupée Rieuse, Sue Rillante\nUne dame du côté des kidnappeurs.\nQuand sa poupée démembrée a été rassemblée,\nelle a pris vie.",
+            "La Poupée Ricanante, Sue Rillante\nUne dame du côté des kidnappeurs.\nQuand sa poupée démembrée a été rassemblée,\nelle a pris vie.",
             "\\.Elle dit être le Maître d'Étage.\nC'est elle qui a expliqué les règles du Jeu Principal\net qui a distribué les objets nécessaires au bon\nfonctionnement de la Démocratie Mortelle.",
             "\\.Ses faits et gestes sont emplis de malveillance.\nElle déroute les participants et achève leurs vies.\nElle a détruit le mental de Kanna et de Sara.",
             "\\.Kai et Q-taro ont réussi à la faire saigner en\nse battant avec et elle est souvent énervée...\nEst-elle vraiment une \"poupée\" ?"
@@ -20584,7 +20584,7 @@
             "\\.\\C[4](... Pourquoi moi...?)",
             "\\.\\C[4](J'ai vraiment... essayé...)",
             "\\.\\C[4](Et pas juste pour moi-même...)",
-            "\\.\\C[4](C'était... pour qu'on puisse tous se sortir de là...\n Alors pourquoi...)",
+            "\\.\\C[4](C'était... pour qu'on puisse tous sortir de là...\n Alors pourquoi...)",
             "\\.\\C[4](Je ne veux pas mourir... Je...)",
             "\\.\\{\"Reprends-toi, Sara !!\"",
             "\\.\\C[4](...!!)",
