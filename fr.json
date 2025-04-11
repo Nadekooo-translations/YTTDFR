@@ -19634,7 +19634,15 @@
             "\\.\"Nao...\"",
             "\\.\"O-Oui... ?\"",
             "\\.\"C'est toi qui possède le \\C[10]Sacrifice\\C[0],\n n'est-ce pas ?\"",
-            "\\.\"Hein... ?!\""
+            "\\.\"Hein... ?!\"",
+            "\\.\"Cette liste contient les noms des \"candidats,\"\n ceux qui peuvent se qualifier pour la victoire.\"",
+            "\\.\"Même Shin Tsukimi figure sur la liste,\n alors qu'il a un taux de victoire de 0% !\"",
+            "\\.\"Mais, Nao... Parmis nous, les survivants,\n TON nom est le seul qui manque !\"",
+            "\\.\"Et aussi, dans la Salle des Écrans...\n Il n'y avait pas d'IA de toi !\"",
+            "\\.\"Non... En réalité, une IA Nao n'a jamais existé !!\"",
+            "\\.\"Parce que tu étais \\C[2]étrangère\\C[0] au système qui\n définit les critères pour être une candidate... !\"",
+            "\\.\"... !!\"",
+            "\\.\"Et c'est ainsi que Gashu a tenté de te tuer !\""
         ]
     },
     "map107": {
