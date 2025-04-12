@@ -19545,9 +19545,9 @@
         "840-0-message": [
             "\"Est-ce que \\C[2]Reko Yabusame\\C[0] est morte ?\"",
             "“Dans le mille ! Quelle perspicacité !”",
-            "\"\\C[2]Reko Yabusame\\C[0] était-elle la victime ?\"",
+            "\"\\C[2]Reko Yabusame\\C[0], était-elle la victime ?\"",
             "\"Bingooooo ! C'est une bonne réponse !\"",
-            "\"\\C[2]Kanna Kizuchi\\C[0] était-elle la victime ?\"",
+            "\"\\C[2]Kanna Kizuchi\\C[0], était-elle la victime ?\"",
             "\"Ohh ! Encore une bonne réponse ! Deux d'affilée !\""
         ],
         "1061-0-message": [
@@ -19567,9 +19567,9 @@
         "841-0-message": [
             "\"\\C[2]Alice Yabusame\\C[0] est-il décédé ?\"",
             "“Dans le mille ! Quelle perspicacité !”",
-            "\"\\C[2]Alice Yabusame\\C[5] était-il la victime ?\"",
+            "\"\\C[2]Alice Yabusame\\C[5], était-il la victime ?\"",
             "\"Bingooooo ! C'est une bonne réponse !\"",
-            "\"\\C[2]Sou Hiyori\\C[0] était-il la victime ?\"",
+            "\"\\C[2]Sou Hiyori\\C[0], était-il la victime ?\"",
             "\"Ohh ! Encore une bonne réponse ! Deux d'affilée !\""
         ],
         "1060-0-message": [
@@ -20478,9 +20478,9 @@
         ],
         "1-1-message": [
             "\\C[5]\"Salut, toi. Est-ce que tu m'entends ?\"",
-            "\\C[5]\"Bien... Ravi que tu aies répondu.\"",
+            "\\C[5]\"Parfait... Merci d'avoir répondu.\"",
             "\\C[5]\"Hahaha. Flûte, alors.\"",
-            "\\.\\C[5]\"... J'aimerais que tu me racontes.\n Ce Jeu Mortel dans lequel tu étais impliquée.\"",
+            "\\.\\C[5]\"... J'aimerais que tu me racontes ce qu'il s'est passé\n durant le Jeu Mortel dans lequel tu étais impliquée.\"",
             "\\.\\C[5]\"Ça ne devrait pas être trop difficile, pas vrai ?\n Allez, je t'en supplie...\"",
             "\\C[5]\"... Merci.\"",
             "\\C[5]\"Compris. Une autre fois, alors.\"",
@@ -20491,9 +20491,9 @@
             "Mais hélas, le professeur \\C[2]Kazumi Mishima\\C[0]\ndevint la première victime.",
             "Rien ni personne n'irait à l'encontre\nde leur destin, celui de \\C[10]s'entretuer\\C[0].",
             "Après un vote majoritaire des plus cruels,\nl'assistant-ménager \\C[2]Kai Satou\\C[0] n'était plus...",
-            "Ce fut ensuite au tour de Joe, meilleur ami de Sara, \nde connaître son sort funeste.",
+            "Ce fut ensuite au tour de Joe, le meilleur ami de Sara,\nde connaître son sort funeste.",
             "\\C[10]Sara fut tourmentée par des hallucinations...",
-            "Alors que son cœur s'effondra,\nle péril perdura de plus belle...",
+            "Alors que son cœur s'effondra,\nle péril perdurait de plus belle...",
             "\\C[5]Désormais, voici une question.",
             "\\C[5]Laquelle de ces deux personnes trouva la mort ?"
         ],
@@ -20553,7 +20553,7 @@
             "Hélas, leur travail d'équipe ne permit\npas à \\C[2]Kazumi Mishima\\C[0] d'échapper à la mort.",
             "S'ensuivit un Jeu Mortel de plus en plus rapide...",
             "Après un vote majoritaire des plus cruels, \\C[2]Kai Satou\\C[0] n'était plus...",
-            "Ce fut ensuite au tour de Joe, meilleur ami de Sara, \nde connaître son sort funeste.",
+            "Ce fut ensuite au tour de Joe, le meilleur ami de Sara,\nde connaître son sort funeste.",
             "\\C[10]Sara fut tourmentée par des hallucinations..."
         ],
         "5-3-message": [
@@ -20573,9 +20573,9 @@
         ],
         "6-1-message": [
             "\\C[5]\"Salut, toi. Est-ce que tu m'entends ?\"",
-            "\\C[5]\"Bien... Ravi que tu aies répondu.\"",
+            "\\C[5]\"Parfait... Merci d'avoir répondu.\"",
             "\\C[5]\"Hahaha. Flûte, alors.\"",
-            "\\.\\C[5]\"... J'aimerais que tu me racontes.\n Ce Jeu Mortel dans lequel tu étais impliquée.\"",
+            "\\.\\C[5]\"... J'aimerais que tu me racontes ce qu'il s'est passé\n durant le Jeu Mortel dans lequel tu étais impliquée.\"",
             "\\.\\C[5]\"Ça ne devrait pas être trop difficile, pas vrai ?\n Allez, je t'en supplie...\"",
             "\\C[5]\"... Merci.\"",
             "\\C[5]\"Compris. Une autre fois, alors.\"",
@@ -20586,9 +20586,9 @@
             "Mais hélas, le professeur \\C[2]Kazumi Mishima\\C[0]\ndevint la première victime.",
             "Rien ni personne n'irait à l'encontre\nde leur destin, celui de \\C[10]s'entretuer\\C[0].",
             "Après un vote majoritaire des plus cruels,\nl'assistant-ménager \\C[2]Kai Satou\\C[0] n'était plus...",
-            "Ce fut ensuite au tour de Joe, meilleur ami de Sara, \nde connaître son sort funeste.",
+            "Ce fut ensuite au tour de Joe, le meilleur ami de Sara,\nde connaître son sort funeste.",
             "\\C[10]Sara fut tourmentée par des hallucinations...",
-            "Alors que son cœur s'effondra,\nle péril perdura de plus belle...",
+            "Alors que son cœur s'effondra,\nle péril perdurait de plus belle...",
             "\\C[5]Désormais, voici une question.",
             "\\C[5]Laquelle de ces deux personnes trouva la mort ?"
         ]
@@ -21329,6 +21329,7 @@
             null,
             null,
             null,
+            "\\.\\C[5]\"... J'aimerais que tu me racontes ce qu'il s'est passé\n durant le Jeu Mortel dans lequel tu étais impliquée.\"",
             null,
             null,
             null,
@@ -21341,8 +21342,9 @@
             null,
             null,
             null,
+            "Ce fut ensuite au tour de Joe, le meilleur ami de Sara,\nde connaître son sort funeste.",
             null,
-            "Ce fut ensuite au tour de Joe, meilleur ami de Sara, \nde connaître son sort funeste."
+            "Alors que son cœur s'effondra,\nle péril perdurait de plus belle..."
         ]
     },
     "map150": {
