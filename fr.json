@@ -19685,7 +19685,9 @@
             "\\.\"Sara Chidouin...\"",
             "\\.\"... Vous avez omis un point important\n dans le règlement du Maître d'Étage.\"",
             "\\.\"Dans le règlement... ?\"",
-            "\\.\"C'est pourtant écrit noir sur blanc...\""
+            "\\.\"C'est pourtant écrit noir sur blanc...\"",
+            null,
+            "\\.\"... Hein...?\""
         ]
     },
     "map107": {
