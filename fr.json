@@ -21271,26 +21271,26 @@
             "Oui\nNon\nLa ferme"
         ],
         "1-1-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\"Dis.\n Tu sais ce que c'est, un vote à la majorité ?\"",
+            "                       1 vote...",
+            "                    Un autre vote...",
+            "\"Hein ? Tu savais pas qu'ils allaient mourir ?\"",
+            "\\.\"Hahaha...\"",
+            "\"Yo. Ça fait un bail.\"",
+            "\\.\"Alors ? Tu t'es habitué aux votes à la majorité ?\"",
+            "\"Ah ouais ? Ravi de l'entendre.\"",
+            "\\.\"Au point où tu en es, autant juste voter pour\n ceux que tu détestes.\"",
+            "\"Hmm... C'est pas évident, hein ?\"",
+            "\\.\"Mais c'est pas grave.\n Vote simplement pour ceux que tu détestes.\"",
+            "\"Hahaha, t'as les nerfs ?\"",
+            "\\.\"Hé bah, continue comme ça et vote pour ceux\n que tu détestes.\"",
+            "\\.\"Tue impitoyablement pour survivre.\"",
+            "\\.\"Tue tous ceux qui se trouvent sur ton chemin.\"",
+            "\\.\"Tranquille. C'est pas comme si c'était ta faute.\"",
+            "\\.\"Pas vrai, Sou Hiyori...?\"",
             "\\.\"...\n ...\n ...\"",
-            null,
-            null,
+            "\\.\"Tiens...?\n C'est qu'elle a vraiment changé, ton attitude.\"",
+            "\\.\"Hahaha, intéressant. Donne tout ce que tu as.\"",
             "\\.\\C[4](...\n ...\n ...)"
         ]
     },
@@ -25974,58 +25974,89 @@
     "map136": {
         "1-1-message": [
             "\\.\"...\n ...\n ...\"",
-            null,
-            null,
-            null,
-            null,
+            "\\C[3]Reko... n'a pas quitté des yeux Alice, inerte.",
+            "\\.\\C[3]Elle ne me remarque même pas derrière elle...",
+            "\\.\"Gros con...\"",
+            "\\.\"T'as encore... brisé une promesse...\"",
             "\\.\"...\n ...\n ...\"",
-            null,
-            null,
-            null,
+            "\\.\"Non... C'est peut-être moi qui l'ai cassée...\"",
+            "\\.\"À dire des trucs comme...\n \"Qu'est-ce que t'en sais\"...\"",
+            "\\.\"Je refusais même... de te laisser une chance...\"",
             "\\.\"...\"",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\.\"C'était moi... celle qui était en tord ?\"",
+            "\\.\"Le fait que tu ne m'adressais plus la parole...!!\"",
+            "\\.\"Et même le fait que t'aille buter un type...!!\"",
+            "\\.\"C'était entièrement ma faute...!!\"",
+            "\\.\"C'est ma faute...!! Tout était ma faute !!\"",
+            "\\.\"Alors... reviens...\"",
+            "\\.\"Putain...! Merde !!\"",
+            "\\.\"J'aurais pu... te pardonner tellement de fois...!!\"",
+            "\\.\\C[4](... Qu'est-ce que je pourrais lui dire...?)",
+            "\\.\"Reko...\"",
+            "\\.\"Les filles...!\"",
+            "\\.\"H-Hum... Je comprends... ce que tu ressens...\"",
+            "\\.\"Mais le Jeu Principal va bientôt commencer...\"",
+            "\\.\"Laissez-moi tranquille à la fin, bordel !!\"",
+            "\\.\"R-Reko...\"",
+            "\\.\"On nous a dit de nous regrouper, c'est ça ?!\n Je sais !!\"",
+            "\\.\"Mais là, si je vois la gueule de ces autres enfoirés,\n je sens que je vais pas pouvoir me retenir...!!\"",
+            "\\.\"N-Non, ne fais pas ça !\n On ne peut pas te perdre toi aussi, Reko...!!\"",
+            "\\.\"E-Exactement... Alors...\n Laissez-moi tranquille, Nao...!\n S'il te plaît...\"",
             "\\.\"...\n ...\n ...\"",
-            null,
-            null,
+            "\\.\"Je... comprends.\"",
+            "\\.\"Nao...\"",
             "\\.\"...\n ...\n ...\"",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\.\\C[4](Qu'est-ce que je devrais faire...?)",
+            "\\.\\C[4](Si Nao et moi ne convainquons pas Reko, elle va...!)",
+            "\\.\\C[4](Si je la laisse seul...\n Son esprit finira par...!!)",
+            "\\.\\C[4](Je ne peux... rien faire...)",
+            "\\.\"A-Attends, Nao !!\"",
+            "\\.\"O-Oui...?!\"",
             "\\.\"...\n ...\n ...\"",
-            null,
-            null,
-            null,
-            "\\.\"...\n ...\n ...\""
+            "\\.\"Finalement... juste un petit peu...\"",
+            "\\.\"Reste... avec moi...\"",
+            "\\.\"...!\n Reko...!\"",
+            "\\.\"...\n ...\n ...\"",
+            "\\.\"Hum, Sara...\"",
+            "\\.\"Ouais...\"",
+            "\\.\"Laisse-moi m'en occuper, s'il te plaît !\"",
+            "\\.\"Je ne peux pas aider tout le monde comme\n tu le fais, Sara...\"",
+            "\\.\"Mais je pense pouvoir aider Reko, cette fois...!!\"",
+            "\\.\"... D'accord.\"",
+            "\\.\"Je vous rejoins juste après !\n Reko se relèvera, je le sais...!!\"",
+            "\\.\\C[4](Je la laisse s'en occuper !\n Direction, le Cabinet Médical...!)"
         ],
         "2-1-message": [
-            null,
-            null,
-            null,
+            "\\C[3]La tête de Ray Arranger.",
+            "\\.\\C[4](C'était une poupée, comme la fausse Reko...)",
+            "\\.\\C[3]La barrette de Joe est encore dans ses cheveux.",
             "\\.\"...\n ...\n ...\"",
-            null,
-            null,
-            "\\.\"..........\""
+            "\\.\\C[4](Rends-la-moi... ! C'est à Joe !!)",
+            "\\.\\C[3]Obtenu la barrette de Joe.",
+            "\\.\"..........\"",
+            "\\.\\C[4](...)"
+        ],
+        "4-1-message": [
+            "\\C[3]Le torse de Ray Arranger.",
+            "\\.\\C[4](À cause de Ray...\n Alice et la fausse Reko se sont fait...)"
+        ],
+        "6-1-message": [
+            "\"Tu peux compter sur moi, Sara...!\"",
+            "\\C[4](Nao est pleine de confiance.)"
+        ],
+        "3-1-message": [
+            "\"... Je...\"",
+            "\\C[4](Reko...)"
+        ],
+        "5-1-message": [
+            "\\C[3]Alice se trouve au centre de la Chambre des Tromperies.",
+            "\\.\\C[4](Il a... un trou béant au ventre...)"
+        ],
+        "1-1-choice": [
+            "Rappeler Nao\nForcer Reko à venir\nNe rien faire"
+        ],
+        "2-1-choice": [
+            "Prendre la barrette\nAnnuler"
         ]
     },
     "map138": {
@@ -26685,15 +26716,27 @@
         ],
         "2-1-message": [
             null,
-            null,
-            null,
+            "\\.\\C[4](C'était une poupée, comme la fausse Reko...)",
+            "\\.\\C[3]La barrette de Joe est encore dans ses cheveux.",
             "\\.\"...\n ...\n ...\"",
-            null,
-            null,
+            "\\.\\C[4](Rends-la-moi... ! C'est à Joe !!)",
+            "\\.\\C[3]Obtenu la barrette de Joe.",
             "\\.\"...\n ...\n ...\""
         ],
         "3-1-message": [
             "\"...\n ...\n ...\""
+        ],
+        "4-1-message": [
+            "\\C[3]Le torse de Ray Arranger.",
+            "\\.\\C[4](À cause de Ray...\n Reko et la fausse Reko se sont fait...)"
+        ],
+        "5-1-message": [
+            "\\C[3]Reko se trouve au centre de la Chambre des Tromperies.",
+            "\\.\\C[4](Des litres de sang s'écoulent de sa poitrine...)"
+        ],
+        "6-1-message": [
+            "\"Tu peux compter sur moi, Sara...!\"",
+            "\\C[4](Nao est pleine de confiance.)"
         ]
     },
     "map146": {
@@ -32152,10 +32195,10 @@
     "map181": {
         "2-1-message": [
             "\\C[3]La tête de Ray Arranger.",
-            "\\.\\C[4](Il était une poupée, tout comme la fausse Reko...)",
+            "\\.\\C[4](C'était une poupée, comme la fausse Reko...)",
             "\\.\\C[3]La barrette de Joe est encore dans ses cheveux.",
             "\\.\"...\n ...\n ...\"",
-            "\\.\\C[4](Rends-le... ! C'est à Joe !!)",
+            "\\.\\C[4](Rends-la-moi... ! C'est à Joe !!)",
             "\\.\\C[3]Obtenu la barrette de Joe.",
             "\\.\"...\n ...\n ...\"",
             "\\.\\C[4](...)"
@@ -32171,10 +32214,10 @@
         ],
         "2-3-message": [
             "\\C[3]La tête de Ray Arranger.",
-            "\\.\\C[4](Il était une poupée, tout comme la fausse Reko...)",
+            "\\.\\C[4](C'était une poupée, comme la fausse Reko...)",
             "\\.\\C[3]La barrette de Joe est encore dans ses cheveux.",
             "\\.\"...\n ...\n ...\"",
-            "\\.\\C[4](Rends-le... ! C'est à Joe !!)",
+            "\\.\\C[4](Rends-la-moi... ! C'est à Joe !!)",
             "\\.\\C[3]Obtenu la barrette de Joe.",
             "\\.\"...\n ...\n ...\"",
             "\\.\\C[4](...)"
@@ -32184,12 +32227,12 @@
         ],
         "4-1-message": [
             "\\C[3]Le torse de Ray Arranger.",
-            "\\.\\C[4](À cause de Ray... Alice et la fausse Reko sont...)",
-            "\\.\\C[4](À cause de Ray... Alice et la fausse Reko sont...)"
+            "\\.\\C[4](À cause de Ray...\n Alice et la fausse Reko se sont fait...)",
+            "\\.\\C[4](À cause de Ray...\n Reko et la fausse Reko se sont fait...)"
         ],
         "5-1-message": [
             "\\C[3]Alice se trouve au centre de la Chambre des Tromperies.",
-            "\\.\\C[4](Il y a... un trou béant dans son estomac...)"
+            "\\.\\C[4](Il a... un trou béant au ventre...)"
         ],
         "5-2-message": [
             "\\C[3]Reko se trouve au centre de la Chambre des Tromperies.",
@@ -32206,17 +32249,17 @@
         "6-4-message": [
             "\\C[3]Nao est dans la lune.",
             "\\.\\C[3]Elle ne semble pas nous remarquer du tout.",
-            "\\.\\C[4](Tout va bien, Nao... ?!)",
+            "\\.\\C[4](Qu'est-ce que tu as, Nao... ?!)",
             "\\.\"Sara... On a pas le temps...\"",
             "\\C[4](Argh... !)"
         ],
         "6-2-message": [
-            "\\C[3]Je ressens de vives émotions émanant de Nao...",
-            "\"...On a pas le temps pour ça, Sara.\""
+            "\\C[3]De vives émotions s'émanent de Nao...",
+            "\"... On a pas le temps pour ça, Sara.\""
         ],
         "6-5-message": [
-            "\\C[3]Je ne ressens aucune énergie de la part de Nao...",
-            "\"Qu'est-ce qui a bien pu se produire...\""
+            "\\C[3]Je ne ressens aucune énergie chez Nao...",
+            "\"Qu'est-ce qui a bien pu se produire...?\""
         ],
         "39-1-message": [
             "\\C[3]Disque Victime E\n\nUn disque victime trouvé au 1er Ét."
