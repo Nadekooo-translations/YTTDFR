@@ -6363,13 +6363,13 @@
             "Au final, Kai est mort à la fin du \\C[2]Jeu Principal\\C[0].\n\nJuste parce qu'il avait récupéré la carte du \\C[3]Sage\\C[0] !",
             "Et Joe aussi.\nIl a ramassé la carte du \\C[10]Sacrifice\\C[0]... et il en est mort.",
             "\\C[10]Des hallucinations ont fini par ronger Sara...",
-            "La deuxième étape, c'était le Jeu Secondaire.\nLe but, c'était de s'échanger des \\C[2]jetons\\C[0] entre\nparticipants.",
+            "Le deuxième niveau, c'était le Jeu Secondaire.\nLe but, c'était de s'échanger des \\C[2]jetons\\C[0] entre\nparticipants.",
             "Au beau milieu de la partie, une IA de Mishima\nest sortie de nulle part...",
             "Tout comme la poupée imposteur qui ressemblait\ncomme deux gouttes d'eau à Reko !\nC'était une énorme catastrophe.",
             "Entre temps, \\C[2]Q-taro Burgerberg\\C[0] est retombé sur\nle fameux ordi portable.\n\nIl se rapprochait du cœur de la Démocratie Mortelle...",
             "Mais appâté par les jetons, il a donné le PC à Sou.\n\nAh là là, il y a vraiment rien de mieux que la trahison.",
             "Q-taro en a collecté le plus, et \\C[2]Gin Ibushi\\C[0]\nen a pas eu un seul.\n\nJ'avais hâte de voir l'un d'eux crever, mais...",
-            "\"Allez, un petit quiz surprise pour toi !\"",
+            "\"Aller, un petit quiz surprise pour toi !\"",
             "\"Qui de ces deux-là est mort ?\""
         ],
         "1-3-message": [
@@ -19544,8 +19544,8 @@
             "Dis quelque chose !\nNe pas le brusquer"
         ],
         "840-0-message": [
-            "\"Est-ce que \\C[2]Reko Yabusame\\C[0] est morte ?\"",
-            "“Dans le mille ! Quelle perspicacité !”",
+            "\"C'est \\C[2]Reko Yabusame\\C[0] qui a clamsé ?\"",
+            "“Dans le mille ! Bien joué !”",
             "\"\\C[2]Reko Yabusame\\C[0], était-elle la victime ?\"",
             "\"Bingooooo ! C'est une bonne réponse !\"",
             "\"\\C[2]Kanna Kizuchi\\C[0], était-elle la victime ?\"",
@@ -19566,8 +19566,8 @@
             "M. \\C[2]Sou\\C[5] était-il la victime ?"
         ],
         "841-0-message": [
-            "\"\\C[2]Alice Yabusame\\C[0] est-il décédé ?\"",
-            "“Dans le mille ! Quelle perspicacité !”",
+            "\"C'est \\C[2]Alice Yabusame\\C[0] qui a clamsé ?\"",
+            "“Dans le mille ! Bien joué !”",
             "\"\\C[2]Alice Yabusame\\C[5], était-il la victime ?\"",
             "\"Bingooooo ! C'est une bonne réponse !\"",
             "\"\\C[2]Sou Hiyori\\C[0], était-il la victime ?\"",
@@ -19689,6 +19689,69 @@
             "\\.\"C'est pourtant écrit noir sur blanc...\"",
             null,
             "\\.\"... Hein... ?\""
+        ],
+        "963-0-message": [
+            "\\.\"...\"",
+            "\\.\\C[10]\"Jusqu'où comptes-tu t'enfuir...?\"",
+            "\\.\"M'enfuir...? Moi ?\"",
+            "\\.\\C[10]\"Personne n'a besoin de toi.\n Pourquoi es-tu en vie ?\"",
+            "\\.\"...\"",
+            "\\.\"Je suis stupéfaite que tout le monde arrive à\n penser que tu puisses avoir raison.\"",
+            "\\.\\C[10]\"Tu en as assez fait.\"",
+            "\\.\\C[10]\"Je vais y mettre un terme de mes propres mains.\"",
+            "\\.\"...!\"",
+            "\\.\"J'avais raison... C'est ça, ta vraie nature...\"",
+            "\\.\\C[10]\"Ton heure est venue... Sou.\"",
+            "\\.\" \\{... Sara !!\\} \"",
+            "\\.\"Sou !!\"",
+            "\\.\"Aller, réveille-toi !\"",
+            "\\.\"Rgh...\"",
+            "\\.\"Kanna...\"",
+            "\\.\\C[4](Je suis dans... ma chambre...)",
+            "\\.\"Ne me refais plus peur comme ça...!\"",
+            "\\.\"T-Tu es tout ce qu'il me reste, Sou...\"",
+            "\\.\"S'il te plaît...\n Ne t'écroule pas comme ça d'un coup...\"",
+            "\\.\"...\n ...\n ....\"",
+            "\\.\"... C'est vrai.\"",
+            "\\.\"C'est la deuxième fois que tu trahis Sara.\n Tu n'as nulle part où aller.\"",
+            "\\.\"...\n ....\n ...\"",
+            "\\.\"... Pardon.\"",
+            "\\.\"Aller, du calme.\n Si tu m'obéis, je te dirai comment faire\n pour survivre.\"",
+            "\\.\"...\n ...\n ...\"",
+            "\\.\"Kanna.\"",
+            "\\.\"T'as pas intérêt à me trahir.\"",
+            "\\.\"...\n ...\n ...\"",
+            "\\.\"... Bien sûr.\"",
+            "\\.\"Bon... Commençons notre réunion stratégique.\"",
+            "\\.\"... Toi aussi, Q-taro.\"",
+            "\\.\"...\n ...\n ...\"",
+            "\\.\"Hahaha...\n Les choses commencent à devenir intéressantes.\"",
+            "\"... Dis.\"",
+            "\\.\"C'est drôle de jouer un instrument...?\"",
+            "\"Quoi ? T'es curieux, frangin ?\"",
+            "\"Te voir jouer me donner envie d'en faire, Reko.\"",
+            "\"T'es trop empoté.\n Je pense même pas que t'en sois capable.\"",
+            "\"Trop méchaaante !\"",
+            "\"Hahaha ! Aller, arrête de te plaindre !\"",
+            "\\.\"... C'est bon. Je vais t'apprendre.\"",
+            "\"Vraiment ?!\"",
+            "\"Par contre si au bout d'un moment, t'en as marre,\n je t'en mettrai une.\"",
+            "\"J'en aurai jamais marre ! Hihihi...\"",
+            "\\.\"... Dis, Reko.\"",
+            "\"Haha... Ouais ?\"",
+            "\"Un jour... On aura notre propre groupe.\"",
+            "\"... Sérieux ?\"",
+            "\"Moi, j'écrirai les paroles, et toi, tu les chanteras !\n Tu penses pas que ce serait génial ?!\"",
+            "\"Haha...!\"",
+            "\\.\"Ce serait trop bien !\n T'as pas intérêt à l'oublier, frangin !\"",
+            "\"T'as pas intérêt... à l'oublier.\"\\."
+        ],
+        "963-0-choice": [
+            "C'est vrai\nPardon"
+        ],
+        "965-0-message": [
+            "\\.\"On doit aller au Couloir en Ruines.\"",
+            "\\.\\C[4](Allons à la Salle Effondrée.)"
         ]
     },
     "map107": {
@@ -21282,7 +21345,7 @@
             "\\.\"Au point où tu en es, autant juste voter pour\n ceux que tu détestes.\"",
             "\"Hmm... C'est pas évident, hein ?\"",
             "\\.\"Mais c'est pas grave.\n Vote simplement pour ceux que tu détestes.\"",
-            "\"Hahaha, t'as les nerfs ?\"",
+            "\"Hahaha, t'es sur les nerfs ?\"",
             "\\.\"Hé bah, continue comme ça et vote pour ceux\n que tu détestes.\"",
             "\\.\"Tue impitoyablement pour survivre.\"",
             "\\.\"Tue tous ceux qui se trouvent sur ton chemin.\"",
@@ -22550,7 +22613,7 @@
         "15-1-message": [
             "\\.\"... Ouaip, j'ai que dalle.\"",
             "\\.\"Hmm...\"",
-            "\\.\\C[4](On dirait que Kenji l'interroge sur l'incident\n d'hier...)"
+            "\\.\\C[4](On dirait que Keiji l'interroge sur l'incident\n d'hier...)"
         ],
         "15-3-message": [
             "\\.\"Tu m'entends ?!\n Jamais je ne mangerai de céleri aussi amer !!\"",
@@ -29908,15 +29971,36 @@
     },
     "map161": {
         "2-2-message": [
-            null,
-            "\\.\"...\""
+            "\\.\\C[10]Je suis mort.",
+            "\\.\"...\"",
+            "\\.\"J'ai compris. Quand Nao m'a attaqué...\"",
+            "\\.\"Tout ce qu'il restait...\n Absolument tout...\""
+        ],
+        "2-1-message": [
+            "\\.\\C[10]Je suis affaissé par terre."
+        ],
+        "4-1-message": [
+            "\\.\\C[10]Un ordinateur important.",
+            "\\.\\C[4](C'est...)",
+            "\\.\\C[4](Je me souviens.\n C'est l'ordinateur de Kai que j'ai trouvé au\n rez-de-chaussée.)",
+            "\\.\\C[4](Il a disparu...)",
+            "\\.\\C[4](Il a été dérobé...)",
+            "\\.\\C[4](Nao l'a volé quand elle...)"
+        ],
+        "2-3-message": [
+            "\\.\\C[10]Je suis mort."
+        ],
+        "4-2-message": [
+            "\\.\\C[10]L'ordinateur a été volé."
         ]
     },
     "map162": {
         "2-1-message": [
-            null,
-            null,
-            "\\.\"...\""
+            "\\.\"Qu'est-ce que c'est...?\"",
+            "\\.\\C[3]Obtenu une Poêle.",
+            "\\.\"...\"",
+            "\\.\"C'est tellement glauque...\"",
+            "\\.\"Morte la bête, mort le venin... Pas vrai, Kai ?\""
         ]
     },
     "map168": {
@@ -33531,6 +33615,17 @@
             null,
             null,
             "\\.\\C[4](...\n ...\n ...)"
+        ]
+    },
+    "map139": {
+        "26-1-message": [
+            "\\.\\C[10]Je dois jeter tous les documents dans la déchiqueteuse."
+        ],
+        "2-1-message": [
+            "\\.\\C[10]Je dois les arracher et m'en débarrasser."
+        ],
+        "30-4-message": [
+            "\\.\"C'est tellement glauque...\""
         ]
     }
 }
