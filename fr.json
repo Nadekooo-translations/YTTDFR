@@ -6344,7 +6344,7 @@
             "\"Yo ! Comment ça va ?\"",
             "\\.\"Je vais te passer une petite séquence nostalgie\n histoire de résumer tout ce qui s'est passé.\n T'as intérêt à être reconnaissante, salope !\"",
             "\\.\"Après, si tu te dis \"merci mais non merci\",\n tu peux toujours te casser. Capiche ?\"",
-            "\"Allez ! Assieds-toi et écoute !\"",
+            "\"Aller ! Assieds-toi et écoute !\"",
             "\"À la revoyure, salope !\"",
             "\\.\"Je vais te passer une petite séquence nostalgie\n histoire de résumer tout ce qui s'est passé.\n T'as intérêt à être reconnaissante, salope !\"",
             "\"Assieds-toi, relève le dos et écoute !\"",
@@ -6352,7 +6352,7 @@
             "\"Comme je suis un chef-d'œuvre absoluuuu,\n je vais te faire la version abrégée.\"",
             "\"Assieds-toi, relève le dos et écoute !\"",
             "\"... Mais sache que tu paieras pour ça, OK ?\"",
-            "Ces deux-là, ce sont \\C[2]Sara Chidouin\\C[0] et\nson meilleur ami \\C[2]Joe Tazuna\\C[0].\nCe sont deux blaireaux qui ont débarqué ensemble\ndans la Démocratie Mortelle, tous sympas tous gentils !",
+            "Ces deux-là, ce sont \\C[2]Sara Chidouin\\C[0] et\nson meilleur ami \\C[2]Joe Tazuna\\C[0].\nCe sont deux blaireaux qui ont débarqué ensemble\ndans la Démocratie Mortelle, tout sympas tout gentils !",
             "Totalement paumés et sans repères...\nLeur \\C[2]Première Épreuve\\C[0] commença.\nAprès ça, ils en remportèrent bien d'autres encore...",
             "Ils ont décidé de coopérer pour survivre avec\nles autres participants.\\|\\|",
             "Mais leur coopération a servi à rien !\nEt le professeur de lycée \\C[2]Kazumi Mishima\\C[0] péri.",
@@ -6365,9 +6365,9 @@
             "\\C[10]Des hallucinations ont fini par ronger Sara...",
             "Le deuxième niveau, c'était le Jeu Secondaire.\nLe but, c'était de s'échanger des \\C[2]jetons\\C[0] entre\nparticipants.",
             "Au beau milieu de la partie, une IA de Mishima\nest sortie de nulle part...",
-            "Tout comme la poupée imposteur qui ressemblait\ncomme deux gouttes d'eau à Reko !\nC'était une énorme catastrophe.",
+            "En plus de la poupée imposteur qui ressemblait\ncomme deux gouttes d'eau à Reko !\nC'était une énorme catastrophe.",
             "Entre temps, \\C[2]Q-taro Burgerberg\\C[0] est retombé sur\nle fameux ordi portable.\n\nIl se rapprochait du cœur de la Démocratie Mortelle...",
-            "Mais appâté par les jetons, il a donné le PC à Sou.\n\nAh là là, il y a vraiment rien de mieux que la trahison.",
+            "Mais appâté par les jetons, il a donné le PC à Sou.\n\nAh là là, y a vraiment rien de mieux que la trahison.",
             "Q-taro en a collecté le plus, et \\C[2]Gin Ibushi\\C[0]\nen a pas eu un seul.\n\nJ'avais hâte de voir l'un d'eux crever, mais...",
             "\"Aller, un petit quiz surprise pour toi !\"",
             "\"Qui de ces deux-là est mort ?\""
@@ -6377,7 +6377,7 @@
             "C'est \\C[2]Alice Yabusame\\C[0] qui est mort au final.\n\n... Il s'est fait piéger dans ma toile de mensonges !",
             "\"Punaise... Vous êtes vraiment trop débiles.\"",
             "\\.\"Vous faites copain-copain, alors que\n vous vous entretuez...\n Ça vous fait du mal pour rien, vous savez ?\"",
-            "Ce que j'ignorais... c'est que je me ferais tuer aussi.",
+            "Ce que j'ignorais...\nC'est que j'allais aussi me faire tuer.",
             "Mais...\nMais j'étais censé être le chef-d'œuvre de Papa...!",
             "\\.\"Et maintenant, tout le monde.\\!\n Si votre mémoire est en ordre, permettez-moi de vous\n inviter une fois de plus...\"",
             "\\.\"Au Jeu Principal...\"",
@@ -21335,9 +21335,9 @@
         ],
         "1-1-message": [
             "\"Dis.\n Tu sais ce que c'est, un vote à la majorité ?\"",
-            "                       1 vote...",
-            "                    Un autre vote...",
-            "\"Hein ? Tu savais pas qu'ils allaient mourir ?\"",
+            "                       Un vote...",
+            "                    Un vote de plus...",
+            "\"Hein ? Tu ne savais pas qu'ils allaient mourir ?\"",
             "\\.\"Hahaha...\"",
             "\"Yo. Ça fait un bail.\"",
             "\\.\"Alors ? Tu t'es habitué aux votes à la majorité ?\"",
@@ -21353,7 +21353,7 @@
             "\\.\"Pas vrai, Sou Hiyori...?\"",
             "\\.\"...\n ...\n ...\"",
             "\\.\"Tiens...?\n C'est qu'elle a vraiment changé, ton attitude.\"",
-            "\\.\"Hahaha, intéressant. Donne tout ce que tu as.\"",
+            "\\.\"Hahaha, intéressant.\n Aller, donne tout ce que tu as.\"",
             "\\.\\C[4](...\n ...\n ...)"
         ]
     },
@@ -32188,13 +32188,13 @@
     },
     "map134": {
         "3-1-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\"Gh...\"",
+            "\\.\"J'ai mal... au cou...\"",
+            "\\.\"Juste à l'instant, des graines de Fleurs Humaines\n ont été injectées via votre collier dans votre corps.\"",
+            "\\.\"Lara, arrête...!! Qu'est-ce que tu fabriques ?!\"",
+            "\\.\"... Ne soyez pas alarmés.\n Elle ne souffrira pas comme Nao.\"",
+            "\\.\"Des racines vont pousser dans son corps...\n Et dans une berçante torpeur...\n Elle mourra gracieusement...\"",
+            "\\.\"Et maintenant, elles vont germer...\"",
             "\\C[10]Kanna s'est éteinte.",
             null,
             null,
@@ -32211,6 +32211,18 @@
             null,
             null,
             "\\.\"...\n ...\n ...\""
+        ],
+        "1-2-message": [
+            "\"Aaaaah...!!\"\\|\\^"
+        ],
+        "1-4-message": [
+            "\"Aahh... aahh...!!\"\\|\\^"
+        ],
+        "1-6-message": [
+            "\"Ouaaaaah !! Nooooon...!!\"\\|\\^"
+        ],
+        "1-8-message": [
+            "\"AAAAAAAAAAAAAAAAAAAAaaaaah...!!\"\\|\\|\\^"
         ]
     },
     "map164": {
