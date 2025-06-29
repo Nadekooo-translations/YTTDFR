@@ -574,7 +574,11 @@
         "itemdesc156": "Une longue corde blanche.\\n... Je ne sais pas d'où elle tire son nom.",
         "itemdesc158": "Un article sur 36-Rai 818 (Samurai Yaiba).\\nIl traite de sa dissolution.\\nCitation de la Chanteuse :\\n\"Je peux plus chanter les chansons de ce groupe.\"",
         "itemdesc160": "Une liste des participants du Jeu Mortel.\\nIl n'y a que 16 noms dessus.",
-        "talkspriteformatwithexpression": "{0}: {1} / {2}"
+        "talkspriteformatwithexpression": "{0}: {1} / {2}",
+        "itemdesc178": "La vidéo d'une victime que Nao avait achetée.\\nMontre la mort d'une policière lors de la P. Épreuve.\\nL'homme au premier plan... Serait-ce Keiji ?",
+        "itemdesc170": "Une vidéo filmée par les caméras du rez-de-chaussée.\\nOn apparaît dessus.\\nSou a vu Q-taro placer les cartes.",
+        "itemdesc174": "Une tablette pour consulter le rôle de sa carte.\\nElle était à côté de Q-taro, inconscient dans\\nla Salle Effondrée.",
+        "itemdesc176": "Un pistolet à décharge électrique jetable.\\nIl peut paralyser quelqu'un.\\nIl est dangereux, donc Gin et moi le gardons en secret."
     },
     "items-16": {
         "name": "??????????????",
@@ -20114,7 +20118,7 @@
     },
     "items-173": {
         "name": "Tablette",
-        "description": "Une tablette permettant de consulter son rôle.\nElle était à côté de Q-taro, inconscient dans\nla Salle Éffondrée."
+        "description": "Une tablette pour consulter le rôle de sa carte.\nElle était à côté de Q-taro, inconscient dans\nla Salle Effondrée."
     },
     "items-174": {
         "name": "Tablette"
@@ -21327,6 +21331,27 @@
             null,
             null,
             "\\.\"...\n ...\n ...\""
+        ],
+        "56-1-message": [
+            "\\C[3]Vidéo d'une Victime\nLa vidéo d'une victime que Nao avait achetée.\nMontre la mort d'une policière lors de la P. Épreuve.\nL'homme au premier plan... Serait-ce Keiji ?"
+        ],
+        "59-1-message": [
+            "\\C[3]Vidéo Surveillance du RDC\n\nUne vidéo filmée par les caméras du rez-de-chaussée.\nOn apparaît dessus. Sou a vu Q-taro placer les cartes."
+        ],
+        "61-1-message": [
+            "\\C[3]Taser\nUn pistolet à décharge électrique jetable.\nIl peut paralyser quelqu'un.\nIl est dangereux, donc Gin et moi le gardons en secret."
+        ],
+        "57-1-message": [
+            "\\C[3]Disque d'une Victime E\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "58-1-message": [
+            "\\C[3]Disque d'une Victime F\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "60-1-message": [
+            "\\C[3]Tablette\n\nUne tablette pour consulter le rôle de sa carte.\nÉtait dans la Salle Effondrée à côté de Q-taro, évanoui."
+        ],
+        "83-1-message": [
+            "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
         ]
     },
     "map135": {
@@ -21348,8 +21373,8 @@
             "\"Hahaha, t'es sur les nerfs ?\"",
             "\\.\"Hé bah, continue comme ça et vote pour ceux\n que tu détestes.\"",
             "\\.\"Tue impitoyablement pour survivre.\"",
-            "\\.\"Tue tous ceux qui se trouvent sur ton chemin.\"",
-            "\\.\"Tranquille. C'est pas comme si c'était ta faute.\"",
+            "\\.\"Massacre tous ceux qui se trouvent sur ton chemin.\"",
+            "\\.\"Hé, tranquille. C'est pas comme si c'était ta faute.\"",
             "\\.\"Pas vrai, Sou Hiyori...?\"",
             "\\.\"...\n ...\n ...\"",
             "\\.\"Tiens...?\n C'est qu'elle a vraiment changé, ton attitude.\"",
@@ -21426,6 +21451,27 @@
         ],
         "1-1-message": [
             "\\C[3]La porte rouge est fermement verrouillée."
+        ],
+        "15-1-message": [
+            "\\C[3]Vidéo d'une Victime\nLa vidéo d'une victime que Nao avait achetée.\nMontre la mort d'une policière lors de la P. Épreuve.\nL'homme au premier plan... Serait-ce Keiji ?"
+        ],
+        "17-1-message": [
+            "\\C[3]Disque d'une Victime F\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "20-1-message": [
+            "\\C[3]Taser\nUn pistolet à décharge électrique jetable.\nIl peut paralyser quelqu'un.\nIl est dangereux, donc Gin et moi le gardons en secret."
+        ],
+        "16-1-message": [
+            "\\C[3]Disque d'une Victime E\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "18-1-message": [
+            "\\C[3]Vidéo Surveillance du RDC\n\nUne vidéo filmée par les caméras du rez-de-chaussée.\nOn apparaît dessus. Sou a vu Q-taro placer les cartes."
+        ],
+        "19-1-message": [
+            "\\C[3]Tablette\n\nUne tablette pour consulter le rôle de sa carte.\nÉtait dans la Salle Effondrée à côté de Q-taro, évanoui."
+        ],
+        "22-1-message": [
+            "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
         ]
     },
     "map27": {
@@ -25518,6 +25564,48 @@
             null,
             null,
             "(...\n ...\n ...)"
+        ],
+        "17-1-message": [
+            "\\C[3]Disque d'une Victime F\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "18-1-message": [
+            "\\C[3]Vidéo Surveillance du RDC\n\nUne vidéo filmée par les caméras du rez-de-chaussée.\nOn apparaît dessus. Sou a vu Q-taro placer les cartes."
+        ],
+        "19-3-message": [
+            "\\C[3]Tablette\n\nUne tablette pour consulter le rôle de sa carte.\nÉtait dans la Salle Effondrée à côté de Q-taro, évanoui."
+        ],
+        "20-3-message": [
+            "\\C[3]Taser\nUn pistolet à décharge électrique jetable.\nIl peut paralyser quelqu'un.\nIl est dangereux, donc Gin et moi le gardons en secret."
+        ],
+        "10-1-message": [
+            "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
+        ],
+        "15-1-message": [
+            "\\C[3]Vidéo d'une Victime\nLa vidéo d'une victime que Nao avait achetée.\nMontre la mort d'une policière lors de la P. Épreuve.\nL'homme au premier plan... Serait-ce Keiji ?"
+        ],
+        "15-3-message": [
+            "\\C[3]Vidéo d'une Victime\nLa vidéo d'une victime que Nao avait achetée.\nMontre la mort d'une policière lors de la P. Épreuve.\nL'homme au premier plan... Serait-ce Keiji ?"
+        ],
+        "10-3-message": [
+            "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
+        ],
+        "16-1-message": [
+            "\\C[3]Disque d'une Victime E\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "17-3-message": [
+            "\\C[3]Disque d'une Victime F\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "18-3-message": [
+            "\\C[3]Vidéo Surveillance du RDC\n\nUne vidéo filmée par les caméras du rez-de-chaussée.\nOn apparaît dessus. Sou a vu Q-taro placer les cartes."
+        ],
+        "19-1-message": [
+            "\\C[3]Tablette\n\nUne tablette pour consulter le rôle de sa carte.\nÉtait dans la Salle Effondrée à côté de Q-taro, évanoui."
+        ],
+        "16-3-message": [
+            "\\C[3]Disque d'une Victime F\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "20-1-message": [
+            "\\C[3]Taser\nUn pistolet à décharge électrique jetable.\nIl peut paralyser quelqu'un.\nIl est dangereux, donc Gin et moi le gardons en secret."
         ]
     },
     "map127": {
@@ -25552,6 +25640,27 @@
         ],
         "19-1-message": [
             "\\.\\C[3]Un écran éteint."
+        ],
+        "10-1-message": [
+            "\\C[3]Disque d'une Victime E\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "12-1-message": [
+            "\\C[3]Vidéo Surveillance du RDC\n\nUne vidéo filmée par les caméras du rez-de-chaussée.\nOn apparaît dessus. Sou a vu Q-taro placer les cartes."
+        ],
+        "15-1-message": [
+            "\\C[3]Taser\nUn pistolet à décharge électrique jetable.\nIl peut paralyser quelqu'un.\nIl est dangereux, donc Gin et moi le gardons en secret."
+        ],
+        "9-1-message": [
+            "\\C[3]Vidéo d'une Victime\nLa vidéo d'une victime que Nao avait achetée.\nMontre la mort d'une policière lors de la P. Épreuve.\nL'homme au premier plan... Serait-ce Keiji ?"
+        ],
+        "11-1-message": [
+            "\\C[3]Disque d'une Victime F\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "14-1-message": [
+            "\\C[3]Tablette\n\nUne tablette pour consulter le rôle de sa carte.\nÉtait dans la Salle Effondrée à côté de Q-taro, évanoui."
+        ],
+        "8-1-message": [
+            "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
         ]
     },
     "map128": {
@@ -25730,6 +25839,27 @@
             null,
             null,
             "\\.\"...\""
+        ],
+        "13-1-message": [
+            "\\C[3]Vidéo d'une Victime\nLa vidéo d'une victime que Nao avait achetée.\nMontre la mort d'une policière lors de la P. Épreuve.\nL'homme au premier plan... Serait-ce Keiji ?"
+        ],
+        "15-1-message": [
+            "\\C[3]Disque d'une Victime F\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "16-1-message": [
+            "\\C[3]Vidéo Surveillance du RDC\n\nUne vidéo filmée par les caméras du rez-de-chaussée.\nOn apparaît dessus. Sou a vu Q-taro placer les cartes."
+        ],
+        "17-1-message": [
+            "\\C[3]Tablette\n\nUne tablette pour consulter le rôle de sa carte.\nÉtait dans la Salle Effondrée à côté de Q-taro, évanoui."
+        ],
+        "18-1-message": [
+            "\\C[3]Taser\nUn pistolet à décharge électrique jetable.\nIl peut paralyser quelqu'un.\nIl est dangereux, donc Gin et moi le gardons en secret."
+        ],
+        "14-1-message": [
+            "\\C[3]Disque d'une Victime E\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "52-1-message": [
+            "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
         ]
     },
     "map130": {
@@ -25811,6 +25941,27 @@
         ],
         "1-2-message": [
             "\\C[3]Devant les écrans se trouve une machine, qui, malgré\nles apparences, ne propose que des fonctionnalités\ntrès basiques."
+        ],
+        "71-1-message": [
+            "\\C[3]Vidéo d'une Victime\nLa vidéo d'une victime que Nao avait achetée.\nMontre la mort d'une policière lors de la P. Épreuve.\nL'homme au premier plan... Serait-ce Keiji ?"
+        ],
+        "74-1-message": [
+            "\\C[3]Vidéo Surveillance du RDC\n\nUne vidéo filmée par les caméras du rez-de-chaussée.\nOn apparaît dessus. Sou a vu Q-taro placer les cartes."
+        ],
+        "76-1-message": [
+            "\\C[3]Taser\nUn pistolet à décharge électrique jetable.\nIl peut paralyser quelqu'un.\nIl est dangereux, donc Gin et moi le gardons en secret."
+        ],
+        "72-1-message": [
+            "\\C[3]Disque d'une Victime E\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "73-1-message": [
+            "\\C[3]Disque d'une Victime F\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "75-1-message": [
+            "\\C[3]Tablette\n\nUne tablette pour consulter le rôle de sa carte.\nÉtait dans la Salle Effondrée à côté de Q-taro, évanoui."
+        ],
+        "105-1-message": [
+            "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
         ]
     },
     "map132": {
@@ -25836,6 +25987,27 @@
             null,
             null,
             "\\.\\C[4](...\n...\n...)"
+        ],
+        "16-1-message": [
+            "\\C[3]Vidéo d'une Victime\nLa vidéo d'une victime que Nao avait achetée.\nMontre la mort d'une policière lors de la P. Épreuve.\nL'homme au premier plan... Serait-ce Keiji ?"
+        ],
+        "19-1-message": [
+            "\\C[3]Vidéo Surveillance du RDC\n\nUne vidéo filmée par les caméras du rez-de-chaussée.\nOn apparaît dessus. Sou a vu Q-taro placer les cartes."
+        ],
+        "21-1-message": [
+            "\\C[3]Taser\nUn pistolet à décharge électrique jetable.\nIl peut paralyser quelqu'un.\nIl est dangereux, donc Gin et moi le gardons en secret."
+        ],
+        "32-1-message": [
+            "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
+        ],
+        "17-1-message": [
+            "\\C[3]Disque d'une Victime E\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "18-1-message": [
+            "\\C[3]Disque d'une Victime F\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "20-1-message": [
+            "\\C[3]Tablette\n\nUne tablette pour consulter le rôle de sa carte.\nÉtait dans la Salle Effondrée à côté de Q-taro, évanoui."
         ]
     },
     "map133": {
@@ -26032,6 +26204,27 @@
             null,
             null,
             "\\.\"...\n ...\n ...\""
+        ],
+        "56-1-message": [
+            "\\C[3]Vidéo d'une Victime\nLa vidéo d'une victime que Nao avait achetée.\nMontre la mort d'une policière lors de la P. Épreuve.\nL'homme au premier plan... Serait-ce Keiji ?"
+        ],
+        "60-1-message": [
+            "\\C[3]Vidéo Surveillance du RDC\n\nUne vidéo filmée par les caméras du rez-de-chaussée.\nOn apparaît dessus. Sou a vu Q-taro placer les cartes."
+        ],
+        "59-1-message": [
+            "\\C[3]Taser\nUn pistolet à décharge électrique jetable.\nIl peut paralyser quelqu'un.\nIl est dangereux, donc Gin et moi le gardons en secret."
+        ],
+        "48-1-message": [
+            "\\C[3]Disque d'une Victime E\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "55-1-message": [
+            "\\C[3]Disque d'une Victime F\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "58-1-message": [
+            "\\C[3]Tablette\n\nUne tablette pour consulter le rôle de sa carte.\nÉtait dans la Salle Effondrée à côté de Q-taro, évanoui."
+        ],
+        "73-1-message": [
+            "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
         ]
     },
     "map136": {
@@ -26216,6 +26409,27 @@
             null,
             null,
             "\\.\"...\n ...\n ...\""
+        ],
+        "33-1-message": [
+            "\\C[3]Vidéo d'une Victime\nLa vidéo d'une victime que Nao avait achetée.\nMontre la mort d'une policière lors de la P. Épreuve.\nL'homme au premier plan... Serait-ce Keiji ?"
+        ],
+        "36-1-message": [
+            "\\C[3]Vidéo Surveillance du RDC\n\nUne vidéo filmée par les caméras du rez-de-chaussée.\nOn apparaît dessus. Sou a vu Q-taro placer les cartes."
+        ],
+        "38-1-message": [
+            "\\C[3]Taser\nUn pistolet à décharge électrique jetable.\nIl peut paralyser quelqu'un.\nIl est dangereux, donc Gin et moi le gardons en secret."
+        ],
+        "34-1-message": [
+            "\\C[3]Disque d'une Victime E\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "37-1-message": [
+            "\\C[3]Tablette\n\nUne tablette pour consulter le rôle de sa carte.\nÉtait dans la Salle Effondrée à côté de Q-taro, évanoui."
+        ],
+        "35-1-message": [
+            "\\C[3]Disque d'une Victime F\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "40-1-message": [
+            "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
         ]
     },
     "map160": {
@@ -26284,6 +26498,27 @@
             null,
             null,
             "\\.\"...\""
+        ],
+        "15-1-message": [
+            "\\C[3]Vidéo d'une Victime\nLa vidéo d'une victime que Nao avait achetée.\nMontre la mort d'une policière lors de la P. Épreuve.\nL'homme au premier plan... Serait-ce Keiji ?"
+        ],
+        "16-1-message": [
+            "\\C[3]Disque d'une Victime E\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "17-1-message": [
+            "\\C[3]Disque d'une Victime F\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "18-1-message": [
+            "\\C[3]Vidéo Surveillance du RDC\n\nUne vidéo filmée par les caméras du rez-de-chaussée.\nOn apparaît dessus. Sou a vu Q-taro placer les cartes."
+        ],
+        "19-1-message": [
+            "\\C[3]Tablette\n\nUne tablette pour consulter le rôle de sa carte.\nÉtait dans la Salle Effondrée à côté de Q-taro, évanoui."
+        ],
+        "20-1-message": [
+            "\\C[3]Taser\nUn pistolet à décharge électrique jetable.\nIl peut paralyser quelqu'un.\nIl est dangereux, donc Gin et moi le gardons en secret."
+        ],
+        "23-1-message": [
+            "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
         ]
     },
     "map163": {
@@ -26337,6 +26572,27 @@
             null,
             null,
             "\\.\"Grande sœur Sara...\""
+        ],
+        "112-1-message": [
+            "\\C[3]Vidéo d'une Victime\nLa vidéo d'une victime que Nao avait achetée.\nMontre la mort d'une policière lors de la P. Épreuve.\nL'homme au premier plan... Serait-ce Keiji ?"
+        ],
+        "113-1-message": [
+            "\\C[3]Disque d'une Victime E\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "115-1-message": [
+            "\\C[3]Vidéo Surveillance du RDC\n\nUne vidéo filmée par les caméras du rez-de-chaussée.\nOn apparaît dessus. Sou a vu Q-taro placer les cartes."
+        ],
+        "117-1-message": [
+            "\\C[3]Taser\nUn pistolet à décharge électrique jetable.\nIl peut paralyser quelqu'un.\nIl est dangereux, donc Gin et moi le gardons en secret."
+        ],
+        "114-1-message": [
+            "\\C[3]Disque d'une Victime F\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "116-1-message": [
+            "\\C[3]Tablette\n\nUne tablette pour consulter le rôle de sa carte.\nÉtait dans la Salle Effondrée à côté de Q-taro, évanoui."
+        ],
+        "119-1-message": [
+            "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
         ]
     },
     "map165": {
@@ -26447,6 +26703,27 @@
             null,
             null,
             "\\.\"...\""
+        ],
+        "15-1-message": [
+            "\\C[3]Vidéo d'une Victime\nLa vidéo d'une victime que Nao avait achetée.\nMontre la mort d'une policière lors de la P. Épreuve.\nL'homme au premier plan... Serait-ce Keiji ?"
+        ],
+        "18-1-message": [
+            "\\C[3]Vidéo Surveillance du RDC\n\nUne vidéo filmée par les caméras du rez-de-chaussée.\nOn apparaît dessus. Sou a vu Q-taro placer les cartes."
+        ],
+        "20-1-message": [
+            "\\C[3]Taser\nUn pistolet à décharge électrique jetable.\nIl peut paralyser quelqu'un.\nIl est dangereux, donc Gin et moi le gardons en secret."
+        ],
+        "16-1-message": [
+            "\\C[3]Disque d'une Victime E\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "19-1-message": [
+            "\\C[3]Tablette\n\nUne tablette pour consulter le rôle de sa carte.\nÉtait dans la Salle Effondrée à côté de Q-taro, évanoui."
+        ],
+        "17-1-message": [
+            "\\C[3]Disque d'une Victime F\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "26-1-message": [
+            "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
         ]
     },
     "map143": {
@@ -26525,6 +26802,27 @@
             null,
             null,
             "\\.\\C[4](...?)"
+        ],
+        "3-1-message": [
+            "\\C[3]Vidéo d'une Victime\nLa vidéo d'une victime que Nao avait achetée.\nMontre la mort d'une policière lors de la P. Épreuve.\nL'homme au premier plan... Serait-ce Keiji ?"
+        ],
+        "4-1-message": [
+            "\\C[3]Disque d'une Victime E\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "6-1-message": [
+            "\\C[3]Vidéo Surveillance du RDC\n\nUne vidéo filmée par les caméras du rez-de-chaussée.\nOn apparaît dessus. Sou a vu Q-taro placer les cartes."
+        ],
+        "8-1-message": [
+            "\\C[3]Taser\nUn pistolet à décharge électrique jetable.\nIl peut paralyser quelqu'un.\nIl est dangereux, donc Gin et moi le gardons en secret."
+        ],
+        "5-1-message": [
+            "\\C[3]Disque d'une Victime F\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "7-1-message": [
+            "\\C[3]Tablette\n\nUne tablette pour consulter le rôle de sa carte.\nÉtait dans la Salle Effondrée à côté de Q-taro, évanoui."
+        ],
+        "18-1-message": [
+            "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
         ]
     },
     "map167": {
@@ -26732,6 +27030,31 @@
             null,
             null,
             "\\.\\C[3]La vidéo est finie."
+        ],
+        "33-1-message": [
+            "\\C[3]Vidéo d'une Victime\nLa vidéo d'une victime que Nao avait achetée.\nMontre la mort d'une policière lors de la P. Épreuve.\nL'homme au premier plan... Serait-ce Keiji ?"
+        ],
+        "34-1-message": [
+            "\\C[3]Disque d'une Victime E\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "36-2-message": [
+            "\\C[3]Vidéo Surveillance du RDC\n\nUne vidéo filmée par les caméras du rez-de-chaussée.\nOn apparaît dessus. Sou a vu Q-taro placer les cartes."
+        ],
+        "2-3-choice": [
+            null,
+            "Disque d'une Victime E\nDisque d'une Victime F\nAnnuler"
+        ],
+        "38-1-message": [
+            "\\C[3]Taser\nUn pistolet à décharge électrique jetable.\nIl peut paralyser quelqu'un.\nIl est dangereux, donc Gin et moi le gardons en secret."
+        ],
+        "66-1-message": [
+            "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
+        ],
+        "35-1-message": [
+            "\\C[3]Disque d'une Victime F\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "37-1-message": [
+            "\\C[3]Tablette\n\nUne tablette pour consulter le rôle de sa carte.\nÉtait dans la Salle Effondrée à côté de Q-taro, évanoui."
         ]
     },
     "map169": {
@@ -26742,7 +27065,7 @@
             "\\.\\C[3]Alice... a perdu une personne qui lui était chère.",
             "\\.\\C[3]Comme Nao, qui a perdu son professeur.",
             "\\.\\C[3]Comme Kanna, qui a perdu sa sœur.",
-            "\\.\\C[3]Comme moi... qui ait perdu mon meilleur ami.",
+            "\\.\\C[3]Comme moi... qui a perdu mon meilleur ami.",
             "\\.\\C[4](Reko...)",
             "\\.\\C[3]C'était une alliée en qui j'avais confiance, moi aussi.",
             "\\.\\C[3]C'est douloureux... C'est tragique...",
@@ -26755,7 +27078,7 @@
             "\\.\"... Je comprends ce que tu traverses.\n Mais le Jeu Principal va recommencer...!\"",
             "\\.\"...\"",
             "\\.\"Ils sont en train de donner les explications...!\n Il faut que tu viennes au Cabinet Médical !\"",
-            "\\.\"... Comme tu es aimable.\"",
+            "\\.\"... Tiens donc, comme tu es aimable.\"",
             "\\.\"Pardon...?\"",
             "\\.\"Qu'il nous arrive du mal ou non, tu ne devrais\n pas en avoir quoi que ce soit à faire.\"",
             "\\.\"Pendant le Jeu Principal, tout le monde est\n ton ennemi...\"",
@@ -26853,6 +27176,27 @@
         ],
         "42-1-message": [
             "\\C[3]Cette salle est bien climatisée."
+        ],
+        "29-1-message": [
+            "\\C[3]Vidéo d'une Victime\nLa vidéo d'une victime que Nao avait achetée.\nMontre la mort d'une policière lors de la P. Épreuve.\nL'homme au premier plan... Serait-ce Keiji ?"
+        ],
+        "46-1-message": [
+            "\\C[3]Taser\nUn pistolet à décharge électrique jetable.\nIl peut paralyser quelqu'un.\nIl est dangereux, donc Gin et moi le gardons en secret."
+        ],
+        "31-1-message": [
+            "\\C[3]Disque d'une Victime F\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "32-1-message": [
+            "\\C[3]Vidéo Surveillance du RDC\n\nUne vidéo filmée par les caméras du rez-de-chaussée.\nOn apparaît dessus. Sou a vu Q-taro placer les cartes."
+        ],
+        "33-1-message": [
+            "\\C[3]Tablette\n\nUne tablette pour consulter le rôle de sa carte.\nÉtait dans la Salle Effondrée à côté de Q-taro, évanoui."
+        ],
+        "30-1-message": [
+            "\\C[3]Disque d'une Victime E\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "48-1-message": [
+            "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
         ]
     },
     "map148": {
@@ -26863,11 +27207,53 @@
             null,
             "\\.\\C[3][Peuvent boire]\nAlice, Kai, Kazumi, Keiji, Shunsuke,\nSou, Naomichi, Mai, Megumi, Reko, Q-taro",
             "\\.\\C[3][Ne peuvent pas boire]\nAnzu, Kanna, Gin, Kugie, Sara, Joe,\nNao, Hinako, Ranmaru"
+        ],
+        "26-1-message": [
+            "\\C[3]Disque d'une Victime F\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "27-1-message": [
+            "\\C[3]Vidéo Surveillance du RDC\n\nUne vidéo filmée par les caméras du rez-de-chaussée.\nOn apparaît dessus. Sou a vu Q-taro placer les cartes."
+        ],
+        "28-1-message": [
+            "\\C[3]Tablette\n\nUne tablette pour consulter le rôle de sa carte.\nÉtait dans la Salle Effondrée à côté de Q-taro, évanoui."
+        ],
+        "29-1-message": [
+            "\\C[3]Taser\nUn pistolet à décharge électrique jetable.\nIl peut paralyser quelqu'un.\nIl est dangereux, donc Gin et moi le gardons en secret."
+        ],
+        "24-1-message": [
+            "\\C[3]Vidéo d'une Victime\nLa vidéo d'une victime que Nao avait achetée.\nMontre la mort d'une policière lors de la P. Épreuve.\nL'homme au premier plan... Serait-ce Keiji ?"
+        ],
+        "25-1-message": [
+            "\\C[3]Disque d'une Victime E\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "31-1-message": [
+            "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
         ]
     },
     "map151": {
         "4-1-message": [
             "\\.\"...\""
+        ],
+        "7-1-message": [
+            "\\C[3]Vidéo d'une Victime\nLa vidéo d'une victime que Nao avait achetée.\nMontre la mort d'une policière lors de la P. Épreuve.\nL'homme au premier plan... Serait-ce Keiji ?"
+        ],
+        "10-1-message": [
+            "\\C[3]Vidéo Surveillance du RDC\n\nUne vidéo filmée par les caméras du rez-de-chaussée.\nOn apparaît dessus. Sou a vu Q-taro placer les cartes."
+        ],
+        "12-1-message": [
+            "\\C[3]Taser\nUn pistolet à décharge électrique jetable.\nIl peut paralyser quelqu'un.\nIl est dangereux, donc Gin et moi le gardons en secret."
+        ],
+        "8-1-message": [
+            "\\C[3]Disque d'une Victime E\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "9-1-message": [
+            "\\C[3]Disque d'une Victime F\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "11-1-message": [
+            "\\C[3]Tablette\n\nUne tablette pour consulter le rôle de sa carte.\nÉtait dans la Salle Effondrée à côté de Q-taro, évanoui."
+        ],
+        "29-1-message": [
+            "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
         ]
     },
     "map153": {
@@ -27065,6 +27451,27 @@
             null,
             null,
             "\\C[4](...\n ...\n ...)"
+        ],
+        "59-1-message": [
+            "\\C[3]Vidéo Surveillance du RDC\n\nUne vidéo filmée par les caméras du rez-de-chaussée.\nOn apparaît dessus. Sou a vu Q-taro placer les cartes."
+        ],
+        "56-1-message": [
+            "\\C[3]Vidéo d'une Victime\nLa vidéo d'une victime que Nao avait achetée.\nMontre la mort d'une policière lors de la P. Épreuve.\nL'homme au premier plan... Serait-ce Keiji ?"
+        ],
+        "61-1-message": [
+            "\\C[3]Taser\nUn pistolet à décharge électrique jetable.\nIl peut paralyser quelqu'un.\nIl est dangereux, donc Gin et moi le gardons en secret."
+        ],
+        "60-1-message": [
+            "\\C[3]Tablette\n\nUne tablette pour consulter le rôle de sa carte.\nÉtait dans la Salle Effondrée à côté de Q-taro, évanoui."
+        ],
+        "57-1-message": [
+            "\\C[3]Disque d'une Victime E\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "58-1-message": [
+            "\\C[3]Disque d'une Victime F\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "63-1-message": [
+            "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
         ]
     },
     "map188": {
@@ -29749,6 +30156,27 @@
             "\\.\"...\"",
             null,
             "\\.\"...\n ...\n ...\""
+        ],
+        "1-1-message": [
+            "\\C[3]Vidéo d'une Victime\nLa vidéo d'une victime que Nao avait achetée.\nMontre la mort d'une policière lors de la P. Épreuve.\nL'homme au premier plan... Serait-ce Keiji ?"
+        ],
+        "3-1-message": [
+            "\\C[3]Disque d'une Victime E\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "5-1-message": [
+            "\\C[3]Vidéo Surveillance du RDC\n\nUne vidéo filmée par les caméras du rez-de-chaussée.\nOn apparaît dessus. Sou a vu Q-taro placer les cartes."
+        ],
+        "7-1-message": [
+            "\\C[3]Taser\nUn pistolet à décharge électrique jetable.\nIl peut paralyser quelqu'un.\nIl est dangereux, donc Gin et moi le gardons en secret."
+        ],
+        "6-1-message": [
+            "\\C[3]Tablette\n\nUne tablette pour consulter le rôle de sa carte.\nÉtait dans la Salle Effondrée à côté de Q-taro, évanoui."
+        ],
+        "4-1-message": [
+            "\\C[3]Disque d'une Victime F\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "9-1-message": [
+            "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
         ]
     },
     "map156": {
@@ -30184,6 +30612,27 @@
         ],
         "3-1-message": [
             "\\.\"...\n ...\n ...\""
+        ],
+        "20-1-message": [
+            "\\C[3]Vidéo d'une Victime\nLa vidéo d'une victime que Nao avait achetée.\nMontre la mort d'une policière lors de la P. Épreuve.\nL'homme au premier plan... Serait-ce Keiji ?"
+        ],
+        "22-1-message": [
+            "\\C[3]Disque d'une Victime F\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "23-1-message": [
+            "\\C[3]Vidéo Surveillance du RDC\n\nUne vidéo filmée par les caméras du rez-de-chaussée.\nOn apparaît dessus. Sou a vu Q-taro placer les cartes."
+        ],
+        "24-1-message": [
+            "\\C[3]Tablette\n\nUne tablette pour consulter le rôle de sa carte.\nÉtait dans la Salle Effondrée à côté de Q-taro, évanoui."
+        ],
+        "21-1-message": [
+            "\\C[3]Disque d'une Victime E\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "25-1-message": [
+            "\\C[3]Taser\nUn pistolet à décharge électrique jetable.\nIl peut paralyser quelqu'un.\nIl est dangereux, donc Gin et moi le gardons en secret."
+        ],
+        "27-1-message": [
+            "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
         ]
     },
     "map170": {
@@ -31338,6 +31787,27 @@
         ],
         "12-1-message": [
             "\\C[3]Je peux voir la cuisine à travers la vitre."
+        ],
+        "5-1-message": [
+            "\\C[3]Vidéo d'une Victime\nLa vidéo d'une victime que Nao avait achetée.\nMontre la mort d'une policière lors de la P. Épreuve.\nL'homme au premier plan... Serait-ce Keiji ?"
+        ],
+        "8-1-message": [
+            "\\C[3]Vidéo Surveillance du RDC\n\nUne vidéo filmée par les caméras du rez-de-chaussée.\nOn apparaît dessus. Sou a vu Q-taro placer les cartes."
+        ],
+        "10-1-message": [
+            "\\C[3]Taser\nUn pistolet à décharge électrique jetable.\nIl peut paralyser quelqu'un.\nIl est dangereux, donc Gin et moi le gardons en secret."
+        ],
+        "7-1-message": [
+            "\\C[3]Disque d'une Victime F\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "9-1-message": [
+            "\\C[3]Tablette\n\nUne tablette pour consulter le rôle de sa carte.\nÉtait dans la Salle Effondrée à côté de Q-taro, évanoui."
+        ],
+        "6-1-message": [
+            "\\C[3]Disque d'une Victime E\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "36-1-message": [
+            "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
         ]
     },
     "map216": {
@@ -31628,6 +32098,27 @@
     "map141": {
         "9-1-message": [
             "\\C[3]Cette pièce a de nombreux chemins."
+        ],
+        "5-1-message": [
+            "\\C[3]Vidéo Surveillance du RDC\n\nUne vidéo filmée par les caméras du rez-de-chaussée.\nOn apparaît dessus. Sou a vu Q-taro placer les cartes."
+        ],
+        "7-1-message": [
+            "\\C[3]Taser\nUn pistolet à décharge électrique jetable.\nIl peut paralyser quelqu'un.\nIl est dangereux, donc Gin et moi le gardons en secret."
+        ],
+        "50-1-message": [
+            "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
+        ],
+        "3-1-message": [
+            "\\C[3]Disque d'une Victime F\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "1-1-message": [
+            "\\C[3]Vidéo d'une Victime\nLa vidéo d'une victime que Nao avait achetée.\nMontre la mort d'une policière lors de la P. Épreuve.\nL'homme au premier plan... Serait-ce Keiji ?"
+        ],
+        "6-1-message": [
+            "\\C[3]Tablette\n\nUne tablette pour consulter le rôle de sa carte.\nÉtait dans la Salle Effondrée à côté de Q-taro, évanoui."
+        ],
+        "2-1-message": [
+            "\\C[3]Disque d'une Victime E\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
         ]
     },
     "items-54": {
@@ -31936,6 +32427,27 @@
             null,
             null,
             "\\.\\C[4](...\n ...\n ...)"
+        ],
+        "20-1-message": [
+            "\\C[3]Disque d'une Victime E\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "22-1-message": [
+            "\\C[3]Vidéo Surveillance du RDC\n\nUne vidéo filmée par les caméras du rez-de-chaussée.\nOn apparaît dessus. Sou a vu Q-taro placer les cartes."
+        ],
+        "23-1-message": [
+            "\\C[3]Tablette\n\nUne tablette pour consulter le rôle de sa carte.\nÉtait dans la Salle Effondrée à côté de Q-taro, évanoui."
+        ],
+        "21-1-message": [
+            "\\C[3]Disque d'une Victime F\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "19-1-message": [
+            "\\C[3]Vidéo d'une Victime\nLa vidéo d'une victime que Nao avait achetée.\nMontre la mort d'une policière lors de la P. Épreuve.\nL'homme au premier plan... Serait-ce Keiji ?"
+        ],
+        "24-1-message": [
+            "\\C[3]Taser\nUn pistolet à décharge électrique jetable.\nIl peut paralyser quelqu'un.\nIl est dangereux, donc Gin et moi le gardons en secret."
+        ],
+        "37-1-message": [
+            "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
         ]
     },
     "map175": {
@@ -31949,6 +32461,27 @@
         ],
         "5-1-message": [
             "\\C[3]La lampe est pointée vers le tableau."
+        ],
+        "39-1-message": [
+            "\\C[3]Vidéo d'une Victime\nLa vidéo d'une victime que Nao avait achetée.\nMontre la mort d'une policière lors de la P. Épreuve.\nL'homme au premier plan... Serait-ce Keiji ?"
+        ],
+        "42-1-message": [
+            "\\C[3]Vidéo Surveillance du RDC\n\nUne vidéo filmée par les caméras du rez-de-chaussée.\nOn apparaît dessus. Sou a vu Q-taro placer les cartes."
+        ],
+        "44-1-message": [
+            "\\C[3]Taser\nUn pistolet à décharge électrique jetable.\nIl peut paralyser quelqu'un.\nIl est dangereux, donc Gin et moi le gardons en secret."
+        ],
+        "41-1-message": [
+            "\\C[3]Disque d'une Victime F\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "43-1-message": [
+            "\\C[3]Tablette\n\nUne tablette pour consulter le rôle de sa carte.\nÉtait dans la Salle Effondrée à côté de Q-taro, évanoui."
+        ],
+        "40-1-message": [
+            "\\C[3]Disque d'une Victime E\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "46-1-message": [
+            "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
         ]
     },
     "map89": {
@@ -32189,6 +32722,27 @@
             null,
             null,
             "\\.\"...\n ...\n ...\""
+        ],
+        "23-1-message": [
+            "\\C[3]Vidéo d'une Victime\nLa vidéo d'une victime que Nao avait achetée.\nMontre la mort d'une policière lors de la P. Épreuve.\nL'homme au premier plan... Serait-ce Keiji ?"
+        ],
+        "25-1-message": [
+            "\\C[3]Disque d'une Victime F\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "26-1-message": [
+            "\\C[3]Vidéo Surveillance du RDC\n\nUne vidéo filmée par les caméras du rez-de-chaussée.\nOn apparaît dessus. Sou a vu Q-taro placer les cartes."
+        ],
+        "28-1-message": [
+            "\\C[3]Taser\nUn pistolet à décharge électrique jetable.\nIl peut paralyser quelqu'un.\nIl est dangereux, donc Gin et moi le gardons en secret."
+        ],
+        "27-1-message": [
+            "\\C[3]Tablette\n\nUne tablette pour consulter le rôle de sa carte.\nÉtait dans la Salle Effondrée à côté de Q-taro, évanoui."
+        ],
+        "24-1-message": [
+            "\\C[3]Disque d'une Victime E\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "30-1-message": [
+            "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
         ]
     },
     "map220": {
@@ -32215,6 +32769,27 @@
         ],
         "2-1-message": [
             "\\C[3]Un extravagant festin."
+        ],
+        "37-1-message": [
+            "\\C[3]Vidéo d'une Victime\nLa vidéo d'une victime que Nao avait achetée.\nMontre la mort d'une policière lors de la P. Épreuve.\nL'homme au premier plan... Serait-ce Keiji ?"
+        ],
+        "40-1-message": [
+            "\\C[3]Vidéo Surveillance du RDC\n\nUne vidéo filmée par les caméras du rez-de-chaussée.\nOn apparaît dessus. Sou a vu Q-taro placer les cartes."
+        ],
+        "39-1-message": [
+            "\\C[3]Disque d'une Victime F\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "41-1-message": [
+            "\\C[3]Tablette\n\nUne tablette pour consulter le rôle de sa carte.\nÉtait dans la Salle Effondrée à côté de Q-taro, évanoui."
+        ],
+        "38-1-message": [
+            "\\C[3]Disque d'une Victime E\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "42-1-message": [
+            "\\C[3]Taser\nUn pistolet à décharge électrique jetable.\nIl peut paralyser quelqu'un.\nIl est dangereux, donc Gin et moi le gardons en secret."
+        ],
+        "44-1-message": [
+            "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
         ]
     },
     "map134": {
@@ -32227,21 +32802,27 @@
             "\\.\"Des racines vont pousser dans son corps...\n Et dans une berçante torpeur...\n Elle mourra gracieusement...\"",
             "\\.\"Et maintenant, elles vont germer...\"",
             "\\C[10]Kanna s'est éteinte.",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\"...\n ...\n ...\""
+            "\"... Voilà comment se clôt la vie de l'élue.\"",
+            "\\.\"Tant que les fleurs ne fanent pas...\n Son corps sera préservé dans toute sa beauté\n pour l'éternité...\"",
+            "\\C[3]Kanna...",
+            "\\C[3]Pardonne-moi, Kanna...",
+            "\\C[3]On a besoin de Sou pour s'échapper d'ici...",
+            "\\C[3]J'ai... choisi la logique...",
+            "\\C[3]Le pire choix possible...",
+            "\\C[3]Je...",
+            "\\sp[15]\\C[10]... Je vais te buter...",
+            "\\.\\sp[15]\\C[10]Sans espoir... Tout est sans espoir...",
+            "\\.\\sp[15]\\C[10]Les Maîtres d'Étage... Sara...",
+            "\\.\\sp[15]\\C[10]Toute la vermine...",
+            "\\.\\sp[15]\\C[10]Je vais buter tous ceux qui ont tué Kanna...!!",
+            "\\.\\sp[15]\\C[10]Ouais... et la première... sera Sara...",
+            "\\.\"...\n ...\n ...\"",
+            "\\.\\C[3]Je me demande où Sou est passé...",
+            "\\.\\C[3]Je partis à sa recherche, l'esprit complètement\nà l'ouest.",
+            "\\.\\C[3]Je n'ai pu sauver ni Nao, ni Kanna.",
+            "\\.\\C[3]... Je m'en fiche.",
+            "\\.\\C[3]Je ne veux plus regarder la réalité en face.",
+            "\\.\\C[3]Pour l'instant... Je devrais chercher Sou..."
         ],
         "1-2-message": [
             "\"Aaaaah...!!\"\\|\\^"
@@ -32389,25 +32970,25 @@
             "\"Qu'est-ce qui a bien pu se produire...?\""
         ],
         "39-1-message": [
-            "\\C[3]Disque Victime E\n\nUn disque victime trouvé au 1er Ét."
+            "\\C[3]Disque d'une Victime E\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
         ],
         "40-1-message": [
             "\\C[3]Disque Victime F\n\nUn disque victime trouvé au 1er Ét."
         ],
         "41-1-message": [
-            "\\C[3]Enregistrement Vidéo 1er Ét.\n\nFilmé par les caméras du 1er Ét. Montre nos actions passées.\nSou a aperçu Q-taro en train de répartir les cartes de rôle."
+            "\\C[3]Vidéo Surveillance du RDC\n\nUne vidéo filmée par les caméras du rez-de-chaussée.\nOn apparaît dessus. Sou a vu Q-taro placer les cartes."
         ],
         "36-1-message": [
             "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
         ],
         "38-1-message": [
-            "\\C[3]Vidéo Victime\n\nLa vidéo victime que Nao possédait. Elle montre\nla mort d'une policière lors de la Première Épreuve.\nEst-ce Keiji que l'on aperçoit au premier plan ?"
+            "\\C[3]Vidéo d'une Victime\nLa vidéo d'une victime que Nao avait achetée.\nMontre la mort d'une policière lors de la P. Épreuve.\nL'homme au premier plan... Serait-ce Keiji ?"
         ],
         "42-1-message": [
-            "\\C[3]Tablette\n\nUne tablette permettant de vérifier votre carte de rôle.\nTrouvée près de Q-taro évanouï dans la Salle Effondrée ."
+            "\\C[3]Tablette\n\nUne tablette pour consulter le rôle de sa carte.\nÉtait dans la Salle Effondrée à côté de Q-taro, évanoui."
         ],
         "43-1-message": [
-            "\\C[3]Tazer\n\nUn tazer de poche capable d'immobiliser quelqu'un.\nDangereux, donc Gin et moi l'avons pris secrètement."
+            "\\C[3]Taser\nUn pistolet à décharge électrique jetable.\nIl peut paralyser quelqu'un.\nIl est dangereux, donc Gin et moi le gardons en secret."
         ]
     },
     "map204": {
@@ -32475,6 +33056,27 @@
             null,
             null,
             "\\.\\C[4](...\n ...\n ...)"
+        ],
+        "21-1-message": [
+            "\\C[3]Vidéo d'une Victime\nLa vidéo d'une victime que Nao avait achetée.\nMontre la mort d'une policière lors de la P. Épreuve.\nL'homme au premier plan... Serait-ce Keiji ?"
+        ],
+        "24-1-message": [
+            "\\C[3]Vidéo Surveillance du RDC\n\nUne vidéo filmée par les caméras du rez-de-chaussée.\nOn apparaît dessus. Sou a vu Q-taro placer les cartes."
+        ],
+        "22-1-message": [
+            "\\C[3]Disque d'une Victime E\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "26-1-message": [
+            "\\C[3]Taser\nUn pistolet à décharge électrique jetable.\nIl peut paralyser quelqu'un.\nIl est dangereux, donc Gin et moi le gardons en secret."
+        ],
+        "25-1-message": [
+            "\\C[3]Tablette\n\nUne tablette pour consulter le rôle de sa carte.\nÉtait dans la Salle Effondrée à côté de Q-taro, évanoui."
+        ],
+        "23-1-message": [
+            "\\C[3]Disque d'une Victime F\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "28-1-message": [
+            "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
         ]
     },
     "map83": {
@@ -32584,14 +33186,14 @@
     },
     "items-167": {
         "name": "Puce de Ray Alizée",
-        "description": "Une petite puce que contenait la tête de Ray Alizée.\nPeut désactiver les systèmes de sécurité du complexe."
+        "description": "Une petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
     },
     "items-168": {
         "name": "Puce de Ray Alizée"
     },
     "items-169": {
         "name": "V. Surveillance du RDC",
-        "description": "Une vidéo filmée par les caméras du rez-de-chaussée.\nOn apparaît dessus. Sou a vu Q-taro placer les cartes."
+        "description": "Une vidéo filmée par les caméras du rez-de-chaussée.\nOn apparaît dessus.\nSou a vu Q-taro placer les cartes."
     },
     "items-170": {
         "name": "V. Surveillance du RDC"
@@ -32689,6 +33291,27 @@
             "\\C[3]Une photo d'Alice.",
             "\\C[3]Un crâne figure sur la photo d'Alice.",
             "\\.\\C[4](Alice...)"
+        ],
+        "54-1-message": [
+            "\\C[3]Vidéo Surveillance du RDC\n\nUne vidéo filmée par les caméras du rez-de-chaussée.\nOn apparaît dessus. Sou a vu Q-taro placer les cartes."
+        ],
+        "56-1-message": [
+            "\\C[3]Taser\nUn pistolet à décharge électrique jetable.\nIl peut paralyser quelqu'un.\nIl est dangereux, donc Gin et moi le gardons en secret."
+        ],
+        "60-1-message": [
+            "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
+        ],
+        "50-1-message": [
+            "\\C[3]Vidéo d'une Victime\nLa vidéo d'une victime que Nao avait achetée.\nMontre la mort d'une policière lors de la P. Épreuve.\nL'homme au premier plan... Serait-ce Keiji ?"
+        ],
+        "52-1-message": [
+            "\\C[3]Disque d'une Victime E\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "53-1-message": [
+            "\\C[3]Disque d'une Victime F\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "55-1-message": [
+            "\\C[3]Tablette\n\nUne tablette pour consulter le rôle de sa carte.\nÉtait dans la Salle Effondrée à côté de Q-taro, évanoui."
         ]
     },
     "map176": {
@@ -32725,6 +33348,27 @@
         "5-1-message": [
             null,
             "\\.\\C[3]Une photo d'Alice est collée au dos."
+        ],
+        "59-1-message": [
+            "\\C[3]Vidéo d'une Victime\nLa vidéo d'une victime que Nao avait achetée.\nMontre la mort d'une policière lors de la P. Épreuve.\nL'homme au premier plan... Serait-ce Keiji ?"
+        ],
+        "62-1-message": [
+            "\\C[3]Vidéo Surveillance du RDC\n\nUne vidéo filmée par les caméras du rez-de-chaussée.\nOn apparaît dessus. Sou a vu Q-taro placer les cartes."
+        ],
+        "64-1-message": [
+            "\\C[3]Taser\nUn pistolet à décharge électrique jetable.\nIl peut paralyser quelqu'un.\nIl est dangereux, donc Gin et moi le gardons en secret."
+        ],
+        "60-1-message": [
+            "\\C[3]Disque d'une Victime E\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "61-1-message": [
+            "\\C[3]Disque d'une Victime F\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "63-1-message": [
+            "\\C[3]Tablette\n\nUne tablette pour consulter le rôle de sa carte.\nÉtait dans la Salle Effondrée à côté de Q-taro, évanoui."
+        ],
+        "73-1-message": [
+            "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
         ]
     },
     "map85": {
@@ -33625,6 +34269,27 @@
             null,
             null,
             "\\.\"...\n ...\n ...\""
+        ],
+        "12-1-message": [
+            "\\C[3]Vidéo d'une Victime\nLa vidéo d'une victime que Nao avait achetée.\nMontre la mort d'une policière lors de la P. Épreuve.\nL'homme au premier plan... Serait-ce Keiji ?"
+        ],
+        "15-1-message": [
+            "\\C[3]Vidéo Surveillance du RDC\n\nUne vidéo filmée par les caméras du rez-de-chaussée.\nOn apparaît dessus. Sou a vu Q-taro placer les cartes."
+        ],
+        "13-1-message": [
+            "\\C[3]Disque d'une Victime E\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "14-1-message": [
+            "\\C[3]Disque d'une Victime F\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "16-1-message": [
+            "\\C[3]Tablette\n\nUne tablette pour consulter le rôle de sa carte.\nÉtait dans la Salle Effondrée à côté de Q-taro, évanoui."
+        ],
+        "17-1-message": [
+            "\\C[3]Taser\nUn pistolet à décharge électrique jetable.\nIl peut paralyser quelqu'un.\nIl est dangereux, donc Gin et moi le gardons en secret."
+        ],
+        "56-1-message": [
+            "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
         ]
     },
     "map177": {
@@ -33638,6 +34303,27 @@
         "2-3-message": [
             null,
             "\"...\n ...\n ...\""
+        ],
+        "64-1-message": [
+            "\\C[3]Vidéo d'une Victime\nLa vidéo d'une victime que Nao avait achetée.\nMontre la mort d'une policière lors de la P. Épreuve.\nL'homme au premier plan... Serait-ce Keiji ?"
+        ],
+        "66-1-message": [
+            "\\C[3]Disque d'une Victime F\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "67-1-message": [
+            "\\C[3]Vidéo Surveillance du RDC\n\nUne vidéo filmée par les caméras du rez-de-chaussée.\nOn apparaît dessus. Sou a vu Q-taro placer les cartes."
+        ],
+        "69-1-message": [
+            "\\C[3]Taser\nUn pistolet à décharge électrique jetable.\nIl peut paralyser quelqu'un.\nIl est dangereux, donc Gin et moi le gardons en secret."
+        ],
+        "65-1-message": [
+            "\\C[3]Disque d'une Victime E\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "68-1-message": [
+            "\\C[3]Tablette\n\nUne tablette pour consulter le rôle de sa carte.\nÉtait dans la Salle Effondrée à côté de Q-taro, évanoui."
+        ],
+        "71-1-message": [
+            "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
         ]
     },
     "map157": {
@@ -33658,6 +34344,27 @@
             null,
             null,
             "\\.\\C[4](...\n ...\n ...)"
+        ],
+        "49-1-message": [
+            "\\C[3]Vidéo d'une Victime\nLa vidéo d'une victime que Nao avait achetée.\nMontre la mort d'une policière lors de la P. Épreuve.\nL'homme au premier plan... Serait-ce Keiji ?"
+        ],
+        "52-1-message": [
+            "\\C[3]Vidéo Surveillance du RDC\n\nUne vidéo filmée par les caméras du rez-de-chaussée.\nOn apparaît dessus. Sou a vu Q-taro placer les cartes."
+        ],
+        "54-1-message": [
+            "\\C[3]Taser\nUn pistolet à décharge électrique jetable.\nIl peut paralyser quelqu'un.\nIl est dangereux, donc Gin et moi le gardons en secret."
+        ],
+        "51-1-message": [
+            "\\C[3]Disque d'une Victime F\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "53-1-message": [
+            "\\C[3]Tablette\n\nUne tablette pour consulter le rôle de sa carte.\nÉtait dans la Salle Effondrée à côté de Q-taro, évanoui."
+        ],
+        "50-1-message": [
+            "\\C[3]Disque d'une Victime E\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "56-1-message": [
+            "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
         ]
     },
     "map139": {
@@ -33665,10 +34372,152 @@
             "\\.\\C[10]Je dois jeter tous les documents dans la déchiqueteuse."
         ],
         "2-1-message": [
-            "\\.\\C[10]Je dois les arracher et m'en débarrasser."
+            "\\.\\C[10]Il faut que je les arrache et que je m'en débarrasse."
         ],
         "30-4-message": [
             "\\.\"C'est tellement glauque...\""
+        ]
+    },
+    "map147": {
+        "2-1-message": [
+            "\\C[3]Vidéo d'une Victime\nLa vidéo d'une victime que Nao avait achetée.\nMontre la mort d'une policière lors de la P. Épreuve.\nL'homme au premier plan... Serait-ce Keiji ?"
+        ],
+        "5-1-message": [
+            "\\C[3]Vidéo Surveillance du RDC\n\nUne vidéo filmée par les caméras du rez-de-chaussée.\nOn apparaît dessus. Sou a vu Q-taro placer les cartes."
+        ],
+        "6-1-message": [
+            "\\C[3]Tablette\n\nUne tablette pour consulter le rôle de sa carte.\nÉtait dans la Salle Effondrée à côté de Q-taro, évanoui."
+        ],
+        "9-1-message": [
+            "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
+        ],
+        "4-1-message": [
+            "\\C[3]Disque d'une Victime F\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "3-1-message": [
+            "\\C[3]Disque d'une Victime E\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "7-1-message": [
+            "\\C[3]Taser\nUn pistolet à décharge électrique jetable.\nIl peut paralyser quelqu'un.\nIl est dangereux, donc Gin et moi le gardons en secret."
+        ]
+    },
+    "map149": {
+        "1-1-message": [
+            "\\C[3]Vidéo d'une Victime\nLa vidéo d'une victime que Nao avait achetée.\nMontre la mort d'une policière lors de la P. Épreuve.\nL'homme au premier plan... Serait-ce Keiji ?"
+        ],
+        "4-1-message": [
+            "\\C[3]Vidéo Surveillance du RDC\n\nUne vidéo filmée par les caméras du rez-de-chaussée.\nOn apparaît dessus. Sou a vu Q-taro placer les cartes."
+        ],
+        "6-1-message": [
+            "\\C[3]Taser\nUn pistolet à décharge électrique jetable.\nIl peut paralyser quelqu'un.\nIl est dangereux, donc Gin et moi le gardons en secret."
+        ],
+        "2-1-message": [
+            "\\C[3]Disque d'une Victime E\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "3-1-message": [
+            "\\C[3]Disque d'une Victime F\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "5-1-message": [
+            "\\C[3]Tablette\n\nUne tablette pour consulter le rôle de sa carte.\nÉtait dans la Salle Effondrée à côté de Q-taro, évanoui."
+        ],
+        "8-1-message": [
+            "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
+        ]
+    },
+    "map145": {
+        "3-1-message": [
+            "\\C[3]Disque d'une Victime E\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "5-1-message": [
+            "\\C[3]Disque d'une Victime F\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "7-1-message": [
+            "\\C[3]Tablette\n\nUne tablette pour consulter le rôle de sa carte.\nÉtait dans la Salle Effondrée à côté de Q-taro, évanoui."
+        ],
+        "8-1-message": [
+            "\\C[3]Taser\nUn pistolet à décharge électrique jetable.\nIl peut paralyser quelqu'un.\nIl est dangereux, donc Gin et moi le gardons en secret."
+        ],
+        "21-1-message": [
+            "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
+        ],
+        "6-1-message": [
+            "\\C[3]Vidéo Surveillance du RDC\n\nUne vidéo filmée par les caméras du rez-de-chaussée.\nOn apparaît dessus. Sou a vu Q-taro placer les cartes."
+        ],
+        "2-1-message": [
+            "\\C[3]Vidéo d'une Victime\nLa vidéo d'une victime que Nao avait achetée.\nMontre la mort d'une policière lors de la P. Épreuve.\nL'homme au premier plan... Serait-ce Keiji ?"
+        ],
+        "1-1-message": [
+            null,
+            "\\.\\C[3]Obtenu Disque d'une Victime F."
+        ]
+    },
+    "map126": {
+        "2-1-message": [
+            "\\C[3]Disque d'une Victime E\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "5-1-message": [
+            "\\C[3]Vidéo Surveillance du RDC\n\nUne vidéo filmée par les caméras du rez-de-chaussée.\nOn apparaît dessus. Sou a vu Q-taro placer les cartes."
+        ],
+        "7-1-message": [
+            "\\C[3]Taser\nUn pistolet à décharge électrique jetable.\nIl peut paralyser quelqu'un.\nIl est dangereux, donc Gin et moi le gardons en secret."
+        ],
+        "1-1-message": [
+            "\\C[3]Vidéo d'une Victime\nLa vidéo d'une victime que Nao avait achetée.\nMontre la mort d'une policière lors de la P. Épreuve.\nL'homme au premier plan... Serait-ce Keiji ?"
+        ],
+        "3-1-message": [
+            "\\C[3]Disque d'une Victime F\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "6-1-message": [
+            "\\C[3]Tablette\n\nUne tablette pour consulter le rôle de sa carte.\nÉtait dans la Salle Effondrée à côté de Q-taro, évanoui."
+        ],
+        "9-1-message": [
+            "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
+        ]
+    },
+    "map174": {
+        "29-1-message": [
+            "\\C[3]Disque d'une Victime F\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "27-1-message": [
+            "\\C[3]Vidéo d'une Victime\nLa vidéo d'une victime que Nao avait achetée.\nMontre la mort d'une policière lors de la P. Épreuve.\nL'homme au premier plan... Serait-ce Keiji ?"
+        ],
+        "32-1-message": [
+            "\\C[3]Taser\nUn pistolet à décharge électrique jetable.\nIl peut paralyser quelqu'un.\nIl est dangereux, donc Gin et moi le gardons en secret."
+        ],
+        "28-1-message": [
+            "\\C[3]Disque d'une Victime E\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "30-1-message": [
+            "\\C[3]Vidéo Surveillance du RDC\n\nUne vidéo filmée par les caméras du rez-de-chaussée.\nOn apparaît dessus. Sou a vu Q-taro placer les cartes."
+        ],
+        "31-1-message": [
+            "\\C[3]Tablette\n\nUne tablette pour consulter le rôle de sa carte.\nÉtait dans la Salle Effondrée à côté de Q-taro, évanoui."
+        ],
+        "34-1-message": [
+            "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
+        ]
+    },
+    "map129": {
+        "8-1-message": [
+            "\\C[3]Taser\nUn pistolet à décharge électrique jetable.\nIl peut paralyser quelqu'un.\nIl est dangereux, donc Gin et moi le gardons en secret."
+        ],
+        "2-1-message": [
+            "\\C[3]Disque d'une Victime F\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "4-1-message": [
+            "\\C[3]Vidéo Surveillance du RDC\n\nUne vidéo filmée par les caméras du rez-de-chaussée.\nOn apparaît dessus. Sou a vu Q-taro placer les cartes."
+        ],
+        "3-1-message": [
+            "\\C[3]Vidéo d'une Victime\nLa vidéo d'une victime que Nao avait achetée.\nMontre la mort d'une policière lors de la P. Épreuve.\nL'homme au premier plan... Serait-ce Keiji ?"
+        ],
+        "1-1-message": [
+            "\\C[3]Disque d'une Victime E\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "7-1-message": [
+            "\\C[3]Tablette\n\nUne tablette pour consulter le rôle de sa carte.\nÉtait dans la Salle Effondrée à côté de Q-taro, évanoui."
+        ],
+        "10-1-message": [
+            "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
         ]
     }
 }
