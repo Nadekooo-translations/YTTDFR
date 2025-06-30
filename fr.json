@@ -26252,19 +26252,31 @@
             "\\.\\C[4](Je ne m'y attendais pas...\n On trouvera forcément une manière de sortir d'ici\n en pensant à ce dont les ravisseurs n'ont pas pensé !)",
             "\\.\"Pour l'instant, retournons à nos chambres...\"",
             "\\.\"O-Oui...\"",
-            null,
-            null,
+            "\\.\"Une fois que ce sera fait, on trouvera comment\n s'échapper d'ici.\"",
+            "\\.\"Je ne les laisserai pas faire !!\"",
             "\\.\"...\n ...\n ...\"",
-            null,
-            null,
-            null,
-            "\\.\"...\""
+            "\\.\"Je... Je...\"",
+            "\\.\"Je ne baisserai pas les bras !\n Il doit bien y avoir un moyen... quelque part...!!\"",
+            "\\.\"Nao...!\"",
+            "\\.\"...\"",
+            "\\.\"Pas vrai, Sara ?!\"",
+            "\\.\"O-Oui, tu as raison !\n C'est obligé...!!\"",
+            "\\.\\C[4](Je ne peux pas laisser ma morale s'effondrer !)",
+            "\\.\"Bon, j'y vais en premier.\n Je n'ai pas envie de me faire tuer pour avoir\n été en retard.\"",
+            "\\.\"Allons-y, tout le monde.\""
         ],
         "7-1-message": [
-            null,
-            null,
-            null,
-            "\\.\\C[4](...?)"
+            "\"Ah... Sara et Gin.\"",
+            "\\.\"Grande sœur Nao ? Tu fais quoi, miaou ?\"",
+            "\\.\"Je cherchais juste Lara...\"",
+            "\\.\\C[4](...?)",
+            "\"Pourquoi tu cherches Lara...?\"",
+            "\\.\"Ah... euh... Rien d'important...\"",
+            "\\.\"Elle était pas là, miaou ?\"",
+            "\\.\"Hmm...\n J'ai cru l'avoir vue entrer dans le Cabinet Médical...\"",
+            "\"Tu l'as trouvée ?\"",
+            "\\.\"Non, je ne la trouve nulle part...\"",
+            "\\.\"C'est curieux...\n Je pensais l'avoir vue entrer dans\n le Cabinet Médical...\""
         ],
         "68-1-message": [
             "\\C[3]Un kit de premiers secours et de l'équipement médical."
@@ -26354,7 +26366,8 @@
             "\\.\\C[4](Pas exactement le genre de discussion dans\n laquelle je peux m'immiscer...)"
         ],
         "5-1-choice": [
-            "Merci beaucoup\n... Bravo pour avoir su où il était"
+            "Merci beaucoup\n... Bravo pour avoir su où il était",
+            "On finira bien par nous échapper\nPour l'instant, allons-y\n.........."
         ],
         "2-3-choice": [
             "Vraiment ?\nMontre-nous le chemin"
@@ -26370,6 +26383,29 @@
         ],
         "3-5-choice": [
             "Aller à l'Entrepôt des Poupées\nAnnuler"
+        ],
+        "6-1-message": [
+            "\\C[3]Q-taro discute joyeusement avec Gin et Keiji.",
+            "\\.\\C[4](C'est... difficile de se dire que le Jeu Principal\n approche à grand pas.)"
+        ],
+        "7-1-choice": [
+            "Pourquoi Lara ?\nTu l'as trouvée ?"
+        ],
+        "7-2-message": [
+            "\"Je me demande où elle a bien pu passer...?\""
+        ],
+        "7-4-message": [
+            "\"Miaou...\n Elle sent une bonne odeur mélangée à l'odeur\n qu'il y a dans les salles d'art, ouaf.\"",
+            "\\.\"Hiiii...! Vraiment ?!\"",
+            "\\.\"C'est vraiment une odeur propre à \"grande sœur Nao\",\n miaou !\"",
+            "\\.\"Bouuh... Tu me mets mal à l'aise...\""
+        ],
+        "66-1-message": [
+            "\\C[3]Une Allô-Boîte est installée ici.",
+            "\\.\\C[4](On peut échanger sa carte avec qui on veut\n pour 50 jetons... Hm.)"
+        ],
+        "7-3-message": [
+            "\"Si vous avez choisi d'y aller...\n Je vous accompagne !\""
         ]
     },
     "map136": {
