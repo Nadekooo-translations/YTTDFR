@@ -21280,15 +21280,22 @@
             "\\.\"Euuh... C'est vers le Couloir en Ruines.\""
         ],
         "15-5-message": [
-            null,
+            "\\C[4](Nao est là...?)",
             "\\.\"Sara...\"",
-            null,
-            null,
+            "\\.\"Il y a un problème ?\"",
+            "\\.\"...\n ...\"",
             "\\.\"...\"",
-            null,
+            "\\.\"Oh, je me disais juste que je ne devrais pas\n rester les bras croisés à rien faire...\"",
             "\\.\"...\"",
-            null,
-            "\\.\"Je te préviendrai si je trouve quelque chose, Sara.\""
+            "\\.\"... Je me suis dit que je devrais moi aussi\n chercher un moyen de sortir d'ici...\"",
+            "\\.\"Je te préviendrai si je trouve quelque chose, Sara.\"",
+            "\\.\"... Bizarre.\"",
+            "\\.\"Hm ?\"",
+            "\\.\"Je devrais peut-être te filer un coup de main, Sara.\"",
+            "\\.\"Comment ça...?\"",
+            "\\.\\C[3]Vous pouvez maintenant utiliser la\ncapacité partenaire de Keiji.",
+            "\\.\"Ma vue de détective...\n Elle devrait te servir un minimum.\"",
+            "\\.\\C[3]Touchez l'icône pour activer la capacité\nde votre partenaire."
         ],
         "6-1-message": [
             "\\.\"Mais que donc faites-vous ?!\"",
@@ -21336,7 +21343,7 @@
             "\\.\\C[4](Quelque chose d'important...?)"
         ],
         "2-1-message": [
-            "Sniff sniff sniff...",
+            "Sniff sniff...",
             "\\.\"Hmm... En temps normal, je te ferais partir.\n Mais là, je suis de bonne humeur...\"",
             "\\.\"Vas-y, renifles autant que tu veux !!\"",
             "\\.\"Argh... Nan, c'est bon, miaou. J'ai peur, ouaf.\"",
@@ -21347,11 +21354,23 @@
             "\\.\"Je te préviendrai si je trouve quelque chose, Sara.\""
         ],
         "15-9-message": [
-            null,
-            null,
-            null,
-            null,
-            "\\.\"...\n ...\n ...\""
+            "\"Ah, Sara.\"",
+            "\\.\"Héhéhé, tu arrives pile au bon moment.\"",
+            "\\.\"Sou...?\"",
+            "\\.\"N-N'aie pas l'air aussi ennuyée...\n Je veux juste discuter un petit moment.\"",
+            "\\.\"...\n ...\n ...\"",
+            "\\.\"À propos de quoi ?\"",
+            "\\.\"Quoi ?\n Ouah, je ne pensais pas que tu accepterais...\"",
+            "\\.\"... Bon, sérieusement.\"",
+            "\\.\"Ouais ! On a pas l'temps, Sou.\"",
+            "\\.\"Je te remercie, Sara.\"",
+            "\\.\"Q-taro... Kanna...\"",
+            "\\.\"Je n'ai pas envie.\"",
+            "\\.\"T-Tu n'essaies même pas de le cacher...\n Aïe, mon cœur.\"",
+            "\\.\"C'rien d'bien méchant, Sara.\n Tu peux l'laisser parler ?\"",
+            "\\.\"S'il te plaît...\"",
+            "\\.\"Q-taro... Kanna...\"",
+            "\\.\\C[4](Depuis quand ils collaborent, ces trois-là...?)"
         ],
         "56-1-message": [
             "\\C[3]Vidéo d'une Victime\nLa vidéo d'une victime que Nao avait achetée.\nMontre la mort d'une policière lors de la P. Épreuve.\nL'homme au premier plan... Serait-ce Keiji ?"
@@ -21431,6 +21450,48 @@
             "\\.\"Ça sent les phéromones bizarres, miaou !\"",
             "\\.\"Grande sœur Sara, renifle surtout pas ça !\n Bouge de là !\"",
             "\\.\"...?\""
+        ],
+        "7-1-message": [
+            "\"Yo, vous deux.\n C'est quoi qui vous presse autant ?\"",
+            "\\.\"... On est en rencard.\"",
+            "\\.\"Enfoiré...! Laisse Sara tranquille !\"",
+            "\\.\\C[4](Ce n'est pas le moment de plaisanter...!!)"
+        ],
+        "7-2-message": [
+            "\\C[3]Reko est... calme.",
+            "\"Ouaip... Rien d'anormal.\""
+        ],
+        "7-3-message": [
+            "\"L'enfoiré au bonnet...\n Il fabrique quoi, à garder Kanna avec lui ?\""
+        ],
+        "7-4-message": [
+            "\\C[3]Reko... se méfie de Sou.",
+            "\"Tu peux même sentir son aura dans l'air...\""
+        ],
+        "7-6-message": [
+            "Sniff sniff...",
+            "\\.Sniff sniff...",
+            "\\.\"Arrête de me copier, miaou !!\"",
+            "\\.\"Tu sens le Shiba Inu, Gin.\"",
+            "\\.\"C'est vrai, ouaf...?\"",
+            "\"Je suis sûre qu'oublier les moments difficiles,\n ça me rendrait plus heureuse, mais...\""
+        ],
+        "15-8-message": [
+            "\"Toi, je vais te tuer !!\"",
+            "\\C[4](C-C'était quoi, ça ?!)"
+        ],
+        "15-9-choice": [
+            "À propos de quoi ?\nPas envie"
+        ],
+        "15-12-message": [
+            "\\C[4](Nao... Elle s'est dirigée vers les chambres...?!)\\.",
+            "\\.\"Y a-t-il un problème, tout le monde ?\"",
+            "\\.\"Mia !! Mêle-toi de tes oignons, ouaf !\n On est pressés, miaou !!\"",
+            "\\.\"Oh, pardonnez-moi.\"",
+            "\\.\"Mais il pourrait être dangereux de chuter\n dans votre course.\"",
+            "\\.\"Du balai, Maître d'Étage.\n ... Tu essaies de nous mettre des bâtons\n dans les roues, ou quoi ?\"",
+            "\\.\"Absolument pas.\n Je ne faisais qu'exprimer mon inquiétude.\n ... Vous pouvez y aller.\"",
+            "\\.\\C[4](Il faut qu'on aille à la chambre de Nao !)"
         ]
     },
     "map135": {
@@ -25637,7 +25698,13 @@
         "3-2-message": [
             null,
             null,
-            "\\.\"Hein...?\""
+            "\\.\"Hein...?\"",
+            null,
+            null,
+            null,
+            null,
+            null,
+            "Sniff sniff..."
         ],
         "2-5-message": [
             null,
@@ -26721,7 +26788,12 @@
             "\\.\"...\""
         ],
         "6-2-message": [
-            "\\.\"...\""
+            "\\.\"...\"",
+            null,
+            null,
+            null,
+            null,
+            "Sniff sniff..."
         ],
         "6-1-message": [
             "\\.\"...\"",
@@ -26757,6 +26829,53 @@
         ],
         "40-1-message": [
             "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
+        ],
+        "4-1-message": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "Sniff sniff..."
         ]
     },
     "map160": {
@@ -26846,6 +26965,9 @@
         ],
         "23-1-message": [
             "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
+        ],
+        "2-3-message": [
+            "Sniff sniff..."
         ]
     },
     "map163": {
@@ -27051,6 +27173,9 @@
         ],
         "26-1-message": [
             "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
+        ],
+        "4-3-message": [
+            "Sniff sniff..."
         ]
     },
     "map143": {
@@ -32775,6 +32900,9 @@
         ],
         "37-1-message": [
             "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
+        ],
+        "1-5-message": [
+            "Sniff sniff..."
         ]
     },
     "map175": {
@@ -33070,6 +33198,15 @@
         ],
         "30-1-message": [
             "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
+        ],
+        "3-2-message": [
+            "Sniff sniff..."
+        ],
+        "4-2-message": [
+            "Sniff sniff..."
+        ],
+        "3-4-message": [
+            "Sniff sniff..."
         ]
     },
     "map220": {
