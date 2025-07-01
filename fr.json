@@ -21492,6 +21492,27 @@
             "\\.\"Du balai, Maître d'Étage.\n ... Tu essaies de nous mettre des bâtons\n dans les roues, ou quoi ?\"",
             "\\.\"Absolument pas.\n Je ne faisais qu'exprimer mon inquiétude.\n ... Vous pouvez y aller.\"",
             "\\.\\C[4](Il faut qu'on aille à la chambre de Nao !)"
+        ],
+        "15-14-message": [
+            "\\C[4](Je pense avoir prévenu tout le monde...)",
+            "\"Yo, Sara.\n Vous mijotez quoi ?\"",
+            "\"Toi, là, Sara Chidouin.\n Qu'est-ce qu'il se passe ?\"",
+            "\"Fiou... La vache, c'est qu'il pèse, Q-taro...\"",
+            "\"Y a-t-il vraiment une sortie...?\"",
+            "\"Faisons confiance à Sou...!\"",
+            "\\C[4](Tout le monde est réuni...)"
+        ],
+        "15-16-message": [
+            "\"Aller, tout le monde. Sortons d'ici !\"",
+            "\\.\"Attendez une minute...!! Je veux des détails !\"",
+            "\\.\"Attends ! C'est vrai ce que tu dis ?!\"",
+            "\\.\"Je vous expliquerai tout plus tard...\n On n'a pas le temps.\"",
+            "\\.\"Aller, tout le monde...! Faisons confiance à Sou !\"",
+            "\\.\"Que ceux qui veulent s'échapper me rejoignent\n aux escaliers.\"",
+            "\\.\"... Si vous voulez rester ici, je ne vous\n retiendrai pas.\"",
+            "\\.\"Tsk...! Bon, d'accord, je te suis !\"",
+            "\\.\"Je n'ai jamais dit que je ne comptais pas venir,\n tu sais !!\"",
+            "\\.\\C[4](Il faut aller aux Longs Escaliers...?)"
         ]
     },
     "map135": {
@@ -26113,29 +26134,30 @@
             "\\.\"...\n ...\n ...\""
         ],
         "13-1-message": [
-            "\\C[3]Le moniteur est cassé."
+            "\\C[3]Le moniteur est cassé.",
+            "\\.\\C[4](L'IA de Monsieur Mishima était là...)"
         ],
         "12-1-message": [
             "\\C[3]Le moniteur est cassé."
         ],
         "10-2-message": [
-            null,
+            "\\C[3]L'un des nombreux moniteurs.",
             "\\.\\C[3]Une photo de Kanna est collée au dos."
         ],
         "15-2-message": [
-            null,
+            "\\C[3]L'un des nombreux moniteurs.",
             "\\.\\C[3]Une photo de Reko est collée au dos."
         ],
         "18-2-message": [
-            null,
+            "\\C[3]L'un des nombreux moniteurs.",
             "\\.\\C[3]Une photo de Keiji est collée au dos."
         ],
         "14-2-message": [
-            null,
+            "\\C[3]L'un des nombreux moniteurs.",
             "\\.\\C[3]Une photo d'Alice est collée au dos."
         ],
         "20-2-message": [
-            null,
+            "\\C[3]L'un des nombreux moniteurs.",
             "\\.\\C[3]Une photo de Q-taro est collée au dos."
         ],
         "1-1-message": [
@@ -26145,11 +26167,11 @@
             "\\C[3]Devant les écrans se trouve une machine, qui, malgré\nles apparences, ne propose que des fonctionnalités\ntrès basiques."
         ],
         "17-2-message": [
-            null,
+            "\\C[3]L'un des nombreux moniteurs.",
             "\\.\\C[3]Une photo de moi est collée au dos."
         ],
         "16-2-message": [
-            null,
+            "\\C[3]L'un des nombreux moniteurs.",
             "\\.\\C[3]Une photo de Gin est collée au dos."
         ],
         "1-2-message": [
@@ -26175,6 +26197,18 @@
         ],
         "105-1-message": [
             "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
+        ],
+        "19-3-message": [
+            "\\C[4](Je pense avoir prévenu tout le monde...)",
+            "\"Hé, Sara.\n Vous mijotez quoi ?\"",
+            "\"Toi, là, Sara Chidouin.\n Qu'est-ce qu'il se passe ?\"",
+            "\"Fiou... La vache, c'est qu'il pèse, Q-taro...\"",
+            "\"Y a-t-il vraiment une sortie...?\"",
+            "\"Faisons confiance à Sou...!\"",
+            "\\C[4](Tout le monde est réuni...)"
+        ],
+        "20-1-message": [
+            "\\C[3]Le moniteur en haut à droite n'a rien de particulier."
         ]
     },
     "map132": {
@@ -33789,37 +33823,38 @@
     },
     "map176": {
         "2-1-message": [
-            "\\C[3]Le moniteur est cassé."
+            "\\C[3]Le moniteur est cassé.",
+            "\\.\\C[4](L'IA de Monsieur Mishima était là...)"
         ],
         "1-1-message": [
             "\\C[3]Le moniteur est cassé."
         ],
         "6-1-message": [
-            null,
+            "\\C[3]L'un des nombreux moniteurs.",
             "\\.\\C[3]Une photo de Reko est collée au dos."
         ],
         "7-1-message": [
-            null,
+            "\\C[3]L'un des nombreux moniteurs.",
             "\\.\\C[3]Une photo de Gin est collée au dos."
         ],
         "10-1-message": [
-            null,
+            "\\C[3]L'un des nombreux moniteurs.",
             "\\.\\C[3]Une photo de Keiji est collée au dos."
         ],
         "11-1-message": [
-            null,
+            "\\C[3]L'un des nombreux moniteurs.",
             "\\.\\C[3]Une photo de Kanna est collée au dos."
         ],
         "9-1-message": [
-            null,
+            "\\C[3]L'un des nombreux moniteurs.",
             "\\.\\C[3]Une photo de Q-taro est collée au dos."
         ],
         "8-1-message": [
-            null,
+            "\\C[3]L'un des nombreux moniteurs.",
             "\\.\\C[3]Une photo de moi est collée au dos."
         ],
         "5-1-message": [
-            null,
+            "\\C[3]L'un des nombreux moniteurs.",
             "\\.\\C[3]Une photo d'Alice est collée au dos."
         ],
         "59-1-message": [
@@ -33842,6 +33877,66 @@
         ],
         "73-1-message": [
             "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
+        ],
+        "3-1-message": [
+            "\\.\\C[4](Quoi...? Il y a une échelle derrière les écrans !)",
+            "\"Grande sœur Sara ! Allons voir, miaou !!\""
+        ],
+        "3-3-message": [
+            "\"Hé, vous deux. Par ici.\"",
+            "\\.\"Hé, le ténébreux ! Attends-nous !!\"",
+            "\\.\"J-Je ne compte pas vous abandonner...\n Aller, du nerf...\"",
+            "\\C[3]Zz...\\. zzt...\\.\\.\\.      zzzt...\\.  zz...",
+            "\\.\\C[4](Que...)",
+            "\\.\\C[4](Qu'est-ce qu'il se passe...?!)",
+            "\"Miaouuu ?! Tout le monde est affiché, ouaf !!\"",
+            "\\.\\sw[909]\"Tiens...? Que se passe-t-il, tout le monde ?\"\\sw[910]",
+            "\\.\\sw[562] *Baille*\n \"... Punaise, j'm'ennuie... Ça vous dit d'papoter ?\"\\sw[566]",
+            "\\.\\sw[905]\"Hmph... Vous m'avez l'air bien occupés.\"\\sw[906]"
+        ],
+        "5-2-message": [
+            "\\sw[905]\"Hmph... Oh, c'est toi...\"\\sw[906]",
+            "\\.\\sw[905]\"Juste pour information...\n Je n'ai pas le temps de discuter.\"\\sw[906]",
+            "\\.\\C[4](Je suis pressée...!)",
+            "\\.\\C[4](... Alice...)",
+            "\\.\\sw[905]\"Que se passe-t-il ?\n As-tu une requête pour moi ?\"\\sw[906]",
+            "\\.\\C[4](Je ne peux pas laisser Reko voir ça...)"
+        ],
+        "6-2-message": [
+            "\\sw[560]\"Hm...? Yo, Sara. Quoi de neuf ?\"\\sw[565]",
+            "\\.\\sw[560]\"T'as l'air occupée.\"\\sw[565]",
+            "\\.\\C[4](Je n'ai pas le temps de discuter...!)",
+            "\\.\\C[4](... Reko...)",
+            "\\.\\sw[560]\"T'as quoi ? On dirait que t'as vu un fantôme.\"\\sw[565]",
+            "\\.\\C[4](Je ne peux pas laisser Alice voir ça...)"
+        ],
+        "7-2-message": [
+            "\\sw[564]\"Miahouuu...? Ouaf !\n Pourquoi tu m'as réveillé, grande sœur Sara ?\"\\sw[567]",
+            "\\.\\sw[564]\"Je veux bien discuter, mais que si tu joues\n avec moi, miaou !\"\\sw[567]",
+            "\\.\\C[4](Désolée, mais je n'ai pas le temps de jouer...!)"
+        ],
+        "13-1-message": [
+            "\\C[3]L'un des nombreux moniteurs."
+        ],
+        "10-2-message": [
+            "\\sw[907]\"Hmm, c'est plutôt bruyant par ici.\"\\sw[908]",
+            "\\.\\sw[907]\"T'as besoin de moi, Sara...?\"\\sw[908]",
+            "\\.\\C[4](Tiens...?\n ... J'ai l'impression qu'il y a quelque chose\n de différent chez lui.)"
+        ],
+        "11-2-message": [
+            "\\.\\sw[909]\"Sara ! Ça te dirait de discuter avec Kanna ?\"\\sw[910]",
+            "\\.\\sw[909]\"Hihihi, alors en fait, l'autre jour, ma sœur,\n elle m'a dit un truc, mais, hum...\"\\sw[910]",
+            "\\.\\C[4](Désolée, Kanna...!\n Mais je n'ai pas le temps pour ça...!)"
+        ],
+        "8-2-message": [
+            "\\sw[911]\"Bonjour... ah.\n Voyez-vous ça, si ce n'est pas moi.\"\\sw[912]",
+            "\\.\\sw[911]\"Hmm...\n Tu as des cernes.\n Tu ne dors pas bien ?\"\\sw[912]",
+            "\\.\\C[4](... Ma version digitale a l'air en bien\n meilleure forme.)"
+        ],
+        "9-2-message": [
+            "\\sw[562]\"Hm ? J'suis où, là ?\"\\sw[566]",
+            "\\.\\sw[562]\"Ça a l'air animé, par ici !\n Venez, on va s'chercher un verre ! Ha ha ha !\"\\sw[566]",
+            "\\.\\C[4](Il a envie de faire la fête...?)"
         ]
     },
     "map85": {
