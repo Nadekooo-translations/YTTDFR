@@ -21269,12 +21269,15 @@
         ],
         "6-6-message": [
             "\\.\"Sara...\"",
-            null,
+            "\\.\"Ah...\"",
             "\\.\"...\"",
-            null,
-            null,
-            null,
-            "\\.\"...\""
+            "\\.\"... Bon.\n T'as déjà meilleure mine.\"",
+            "\\.\"Keiji...\"",
+            "\\.\"Hum, on est un peu pressé, donc...\"",
+            "\\.\"...\"",
+            "\\.\"Dacodac.\n À un de ces quatre, alors.\"",
+            "\\.\"... Gashu nous a à l'œil.\n Éclipsons-nous discrètement.\"",
+            "\\.\"Euuh... C'est vers le Couloir en Ruines.\""
         ],
         "15-5-message": [
             null,
@@ -21333,7 +21336,7 @@
             "\\.\\C[4](Quelque chose d'important...?)"
         ],
         "2-1-message": [
-            "Sniff Sniff Sniff...",
+            "Sniff sniff sniff...",
             "\\.\"Hmm... En temps normal, je te ferais partir.\n Mais là, je suis de bonne humeur...\"",
             "\\.\"Vas-y, renifles autant que tu veux !!\"",
             "\\.\"Argh... Nan, c'est bon, miaou. J'ai peur, ouaf.\"",
@@ -21414,6 +21417,20 @@
         ],
         "15-1-message": [
             "\\C[4](Je dois aller au Cabinet Médical...\n Les autres doivent être en train d'attendre.)"
+        ],
+        "6-4-message": [
+            "\\C[3]Kanna et Q-taro... ont l'air plutôt joyeux.",
+            "\\.\\C[3]Je... n'arrive pas à lire quoi que ce soit chez Sou...",
+            "\"Hmph... Il est trop rusé.\""
+        ],
+        "6-7-message": [
+            "\\.\"Aller, vas-y.\n Nous, on fera ce qu'on a à faire.\""
+        ],
+        "6-8-message": [
+            "Sniff sniff...",
+            "\\.\"Ça sent les phéromones bizarres, miaou !\"",
+            "\\.\"Grande sœur Sara, renifle surtout pas ça !\n Bouge de là !\"",
+            "\\.\"...?\""
         ]
     },
     "map135": {
@@ -25802,7 +25819,7 @@
             "\\.\\C[4](Aux affaires...?)",
             "\\.\"Si tu es vraiment Keiji...\n Tu devrais connaître le mot de passe !\n Donne-le-moi !\"",
             "\\.\"... Pas évident, ça.\n Bon bah l'enquête est classée non résolue, j'imagine.\"",
-            "\\.\\C[4](Il n'y a vraiment que Keiji pour répondre de\n manière aussi fainéante...)",
+            "\\.\\C[4](Il n'y a vraiment que Keiji pour répondre de\n manière aussi paresseuse...)",
             "\\.\"Bon, dacodac. Je passe direct aux affaires, alors.\"",
             "\\.\\C[4](Aux affaires...?)",
             "\\.\"Qu'est-ce que tu veux... exactement ?\"",
@@ -25813,9 +25830,9 @@
             "\\.\"... Nwéh ?\"",
             "\\.\"...\n ...\n ...\"",
             "\\.\"... Baha...\"",
-            "\\.\"Hahahaaa ! Alors ça, c'est une sacrée réaction, Sara...\"",
+            "\\.\"Hahahaaa !\n Alors ça, c'est une sacrée réaction, Sara...\"",
             "\\.\\C[4](M-Mince ! J'ai fait un bruit bizarre !)",
-            "\\.\"Ahh, bon, ça me rassure...\n Si t'avais vraiment été le \\C[10]Sacrifice\\C[0],\n je me serais sérieusement inquiété.\"",
+            "\\.\"Haa, bon, ça me rassure...\n Si t'avais vraiment été le \\C[10]Sacrifice\\C[0],\n je me serais sérieusement inquiété.\"",
             "\\.\"J-Je n'ai pas encore confirmé quoique ce soit !\"",
             "\\.\"Tu donnes l'impression que c'est évident,\n mais tu confirmes rien pour autant...\n C'est que t'es vraiment maligne.\"",
             "\\.\"Mais bon, t'es quand même une mauvaise menteuse,\n tu sais ?\"",
@@ -25847,9 +25864,9 @@
             "\\.\"... Nwéh ?\"",
             "\\.\"...\n ...\n ...\"",
             "\\.\"... Baha...\"",
-            "\\.\"Hahahaaa ! Alors ça, c'est une sacrée réaction, Sara...\"",
+            "\\.\"Hahahaaa !\n Alors ça, c'est une sacrée réaction, Sara...\"",
             "\\.\\C[4](M-Mince ! J'ai fait un bruit bizarre !)",
-            "\\.\"Ahh, bon, ça me rassure...\n Si t'avais vraiment été le \\C[10]Sacrifice\\C[0],\n je me serais sérieusement inquiété.\"",
+            "\\.\"Haa, bon, ça me rassure...\n Si t'avais vraiment été le \\C[10]Sacrifice\\C[0],\n je me serais sérieusement inquiété.\"",
             "\\.\"J-Je n'ai pas encore confirmé quoique ce soit !\"",
             "\\.\"Tu donnes l'impression que c'est évident,\n mais tu confirmes rien pour autant...\n C'est que t'es vraiment maligne.\"",
             "\\.\"Mais bon, t'es quand même une mauvaise menteuse,\n tu sais ?\"",
@@ -25903,7 +25920,7 @@
             "\\.\"On est où ? C'est quoi ce bâtiment ?\"",
             "\\.\"Si on avait une carte de l'étage, on aurait au moins\n une demi-chance.\"",
             "\\.\"Une carte de l'étage...!\"",
-            "\\.\"Qui de nous saurait quelque chose ?\"",
+            "\\.\"Qui de nous pourrait savoir quelque chose\n à ce sujet ?\"",
             "\\.\\C[4](Quoi ?! Attends, il y a bien quelqu'un...?)",
             "\"Sou...\n Son comportement est suspect depuis le début.\n Il sait peut-être quelque chose...\"",
             "\\.\"Hmm... C'est vrai qu'il est suspect à n'en pas finir.\"",
@@ -25925,7 +25942,7 @@
             "\\.\"Je suis innocent, je promets.\"",
             "\\.\"Aller, crache le morceau.\"",
             "\\.\"...\"",
-            "\\.\"Bon, d'accord, je crache le morceau.\n Je vais te dire qui j'avais en tête.\"",
+            "\\.\"Bon, d'accord, je le crache.\n Je vais te dire qui j'avais en tête.\"",
             "\\.\"... Kai.\"",
             "\\.\"Kai était en contact avec les méchants.\"",
             "\\.\"Même s'il connaissait pas tous les détails de la\n Démocratie Mortelle, il savait peut-être quelque\n chose sur le complexe où on est détenus.\"",
@@ -25933,7 +25950,7 @@
             "\\.\"Dans ce cas...\n Il y a peut-être quelque chose sur l'ordinateur\n qu'il a laissé ?\"",
             "\\.\"C'est ça.\n Il reste des trucs qu'on a pas vu sur l'ordi.\"",
             "\\.\\C[4](Q-taro avait réussi à mettre la main dessus,\n mais il a fini par être à court de batterie...)",
-            "\\.\\C[4](Et maintenant, c'est à nouveau Sou qui l'a...)",
+            "\\.\\C[4](Et maintenant, c'est de nouveau Sou qui l'a...)",
             "\\.\\C[4](... Le récupérer ne va pas être une mince affaire.)",
             "\\.\"Et ça nous amène...\"",
             "\\.\"...?\"",
@@ -25973,7 +25990,7 @@
         ],
         "4-1-choice": [
             "Keiji, c'est toi ?\nNao, c'est toi ?\n... ... ...",
-            "Ouvrir et l'inviter à l'intérieur\nNe pas ouvrir et discuter\nL'ignorer en silence\nLui demande un mot de passe"
+            "Ouvrir et l'inviter à l'intérieur\nNe pas ouvrir et discuter\nL'ignorer en silence\nLui demander un mot de passe"
         ],
         "5-1-choice": [
             "Trouver une sortie en secret\nVaincre nos ennemis et partir\nDétruire la Démocratie Mortelle",
