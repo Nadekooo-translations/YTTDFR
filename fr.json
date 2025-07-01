@@ -33892,7 +33892,12 @@
             "\"Miaouuu ?! Tout le monde est affiché, ouaf !!\"",
             "\\.\\sw[909]\"Tiens...? Que se passe-t-il, tout le monde ?\"\\sw[910]",
             "\\.\\sw[562] *Baille*\n \"... Punaise, j'm'ennuie... Ça vous dit d'papoter ?\"\\sw[566]",
-            "\\.\\sw[905]\"Hmph... Vous m'avez l'air bien occupés.\"\\sw[906]"
+            "\\.\\sw[905]\"Hmph... Vous m'avez l'air bien occupés.\"\\sw[906]",
+            "\\.\"... Hein...\"",
+            "\\.\"Ça, c'est intéressant...\n On dirait que le système de contrôle des IA\n s'est aussi cassé.\"",
+            "\\.\"Pas de doute à avoir, le hack est un flagrant succès.\"",
+            "\\.\"On fait quoi, on les laisse comme ça, miaou...?\"",
+            "\\.\"... Si vous avez des adieux à faire, dépêchez-vous.\n Je vous attends au hall principal.\""
         ],
         "5-2-message": [
             "\\sw[905]\"Hmph... Oh, c'est toi...\"\\sw[906]",
@@ -33937,6 +33942,19 @@
             "\\sw[562]\"Hm ? J'suis où, là ?\"\\sw[566]",
             "\\.\\sw[562]\"Ça a l'air animé, par ici !\n Venez, on va s'chercher un verre ! Ha ha ha !\"\\sw[566]",
             "\\.\\C[4](Il a envie de faire la fête...?)"
+        ],
+        "4-1-message": [
+            "\\.\\C[3]L'échelle mène à l'intérieur du plafond.",
+            "\\.\\C[4](Qu'est-ce que c'est que ça...?!)"
+        ],
+        "4-1-choice": [
+            "Grimper\nAnnuler"
+        ],
+        "4-2-message": [
+            "\\.\\C[3]L'échelle mène à l'intérieur du plafond."
+        ],
+        "4-2-choice": [
+            "Grimper\nAnnuler"
         ]
     },
     "map85": {
