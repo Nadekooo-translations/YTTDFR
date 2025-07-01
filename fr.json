@@ -573,12 +573,13 @@
         "// expression strings are english by default, but can be defined here ala talkspritedescription_cara0-1": "Default (no collar)",
         "itemdesc156": "Une longue corde blanche.\\n... Je ne sais pas d'où elle tire son nom.",
         "itemdesc158": "Un article sur 36-Rai 818 (Samurai Yaiba).\\nIl traite de sa dissolution.\\nCitation de la Chanteuse :\\n\"Je peux plus chanter les chansons de ce groupe.\"",
-        "itemdesc160": "Une liste des participants du Jeu Mortel.\\nIl n'y a que 16 noms dessus.",
+        "itemdesc160": "Une liste des participants de la Démocratie Mortelle.\\nIl n'y a que 16 noms dessus.",
         "talkspriteformatwithexpression": "{0}: {1} / {2}",
         "itemdesc178": "La vidéo d'une victime que Nao avait achetée.\\nMontre la mort d'une policière lors de la P. Épreuve.\\nL'homme au premier plan... Serait-ce Keiji ?",
         "itemdesc170": "Une vidéo filmée par les caméras du rez-de-chaussée.\\nOn apparaît dessus.\\nSou a vu Q-taro placer les cartes.",
         "itemdesc174": "Une tablette pour consulter le rôle de sa carte.\\nElle était à côté de Q-taro, inconscient dans\\nla Salle Effondrée.",
-        "itemdesc176": "Un pistolet à décharge électrique jetable.\\nIl peut paralyser quelqu'un.\\nIl est dangereux, donc Gin et moi le gardons en secret."
+        "itemdesc176": "Un pistolet à décharge électrique jetable.\\nIl peut paralyser quelqu'un.\\nIl est dangereux, donc Gin et moi le gardons en secret.",
+        "name_カニヒゲジジイ": "Tonton Moustacrabe"
     },
     "items-16": {
         "name": "??????????????",
@@ -718,10 +719,10 @@
             "Chapitre Final, Partie Une (A)\nChapitre 2, Partie Deux\nChapitre 2, Partie Une\nChapitre 1, Partie Deux\nChapitre 1, Partie Une\nAnnuler"
         ],
         "1-1-message": [
-            "\\.Choisissez un chapitre où commencer."
+            "\\.Choisissez un chapitre où commencer.\n\\C[2](Chapitre 2 Partie 2 en cours de traduction !)\\C[0]"
         ],
         "2-1-message": [
-            "\\.Choisissez un chapitre où commencer."
+            "\\.Choisissez un chapitre où commencer.\n\\C[2](Chapitre 2 Partie 2 en cours de traduction !)\\C[0]"
         ],
         "2-1-choice": [
             "Chapitre 2, deuxième partie\nChapitre 2, première partie\nChapitre 1, deuxième partie\nChapitre 1, première partie\n\\C[2]Sous-jeu (Nouveau !)\nAnnuler"
@@ -21164,17 +21165,23 @@
             "Oui\nNon"
         ],
         "3-2-message": [
-            null,
-            null,
-            null,
-            null,
+            "\\.\"Je te préviendrai si je trouve quelque chose, Sara.\"",
+            "\\.\"H-Hum... Y a-t-il un problème...?\"",
+            "\\.\"Nan, c'est rien...\"",
+            "\\.\"E-Euh, je dois y aller, alors...\"",
             "\\.\"...\"",
-            null,
-            null,
-            "\\.\"T'as toi aussi vu un truc, Sara?\"",
-            "\\.\"Hein... ?!\"",
-            "\\.\"Bahaha... T'avais les mêmes pupilles que moi.\"",
-            "\\.\"Le regard rusé d'un détective qui\n ne néglige jamais les déboires du cœur...\""
+            "\\.\\C[4](Quelle était cette sensation...?)",
+            "\\.\"Hm ?\"",
+            "\\.\"Toi aussi t'as vu un truc, Sara ?\"",
+            "\\.\"Hein...?!\"",
+            "\\.\"Bahaha... T'avais le même regard que moi.\"",
+            "\\.\"Le regard rusé d'un détective qui néglige jamais\n les déboires du cœur...\"",
+            "\\.\"T'as senti que quelque chose clochait avec Nao.\n C'est sûrement parce que tu commences à la\n connaître après avoir passé des jours avec elle...\"",
+            "\\.\"Tu veux dire que Nao cache quelque chose ?!\"",
+            "\\.\"J'sais pas.\n Malheureusement, on a pas trop le temps de\n s'en assurer là de suite.\"",
+            "\\.\"Occupons-nous de ce qu'on a à faire.\n Y a toujours vraiment qu'une seule option.\"",
+            "\\.\\C[4](Nao...)",
+            "\\.\"Bon, la Salle Effondrée est un peu plus loin\n dans le Couloir en Ruines.\n Allons-y.\""
         ],
         "6-3-message": [
             null,
@@ -21276,27 +21283,29 @@
             null,
             "\\.\"...\"",
             null,
-            "\\.\"...\""
+            "\\.\"...\"",
+            null,
+            "\\.\"Je te préviendrai si je trouve quelque chose, Sara.\""
         ],
         "6-1-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\.\"Mais que donc faites-vous ?!\"",
+            "\\.\"La ferme...!\"",
+            "\\.\\C[4](Non ! Alice s'est perdu dans sa rage...!)",
+            "\"Qu'est-ce qui te prend, Alice ?!\"",
+            "\\.\"Il a pas de flingue, là...!\n J'ai attendu la bonne opportunité !!\"",
+            "\"Vas-y, Alice ! Demande-lui comment sortir d'ici !\"",
+            "\\.\"Hmph, sortir ?\n C'est vrai que ce serait bien ça aussi.\"",
+            "\\.\"Il a pas de flingue, là...!\n J'ai attendu la bonne opportunité !!\"",
+            "\"C'quoi tout ce rififi ?!\"",
+            "\\.\"A-Alice...\"",
             "\\.\"...\n ...\n ...\"",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\.\"Gh-! Je vous prie de bien vouloir cesser cela...!\"",
+            "\\.\"Hmph, tu me fais marrer.\n Alors comme ça, même toi, tu tiens à la vie.\"",
+            "\\.\"Vous vous méprenez !\n Il est de mon devoir de protéger vos vies...!!\"",
+            "\\.\"Mais bien sûr !!\n Et derrière vous nous butez tous à la suite...\n Te fous pas de ma gueule !!\"",
+            "\\.\"Maintenant t'as intérêt à me dire où est la sortie !\n Sinon t'es-!\"",
+            "\\.\"Il n'y a... aucune issue.\"",
+            "\\.\"Arrête de déconner !!\n Comment vous allez faire pour dégager d'ici quand\n tout sera fini alors, hein ?!\"",
             null,
             null,
             null,
@@ -21315,12 +21324,12 @@
             "\\.\"...\n ...\n ...\""
         ],
         "2-1-message": [
-            "*snif snif snif*...",
+            "Sniff Sniff Sniff...",
             "\\.\"Hmm... En temps normal, je te ferais partir.\n Mais là, je suis de bonne humeur...\"",
             "\\.\"Vas-y, renifles autant que tu veux !!\"",
             "\\.\"Argh... Nan, c'est bon, miaou. J'ai peur, ouaf.\"",
-            "\\.\"Khehehe... Comme tu veux.\n Tu as laissé passer ta chance...\"",
-            "\"Khehe... Mon esprit est clair \n comme de l'eau de roche...\""
+            "\\.\"Khéhéhé... Comme tu veux.\n Tu as laissé passer ta chance...\"",
+            "\"Khéhé...\n Mon esprit est clair comme de l'eau de roche...\""
         ],
         "3-1-message": [
             "\\.\"Je te préviendrai si je trouve quelque chose, Sara.\""
@@ -21352,6 +21361,49 @@
         ],
         "83-1-message": [
             "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
+        ],
+        "4-1-message": [
+            "\"Il est tout à fait dans votre droit de passer\n du temps ensemble, vous deux.\""
+        ],
+        "4-2-message": [
+            "\\C[3]Je n'arrive pas à deviner quoique ce soit\ndu cœur de Gashu.",
+            "\"... Pour pouvoir lire le cœur de quelqu'un,\n faut avoir passé du temps avec la personne.\""
+        ],
+        "4-4-message": [
+            "\"Avez-vous un quelconque problème ?\"",
+            "\\.\"Non, rien.\"",
+            "\\.\"Si vous êtes emplis par la moindre inquiétude,\n n'hésitez pas à me requérir.\""
+        ],
+        "4-5-message": [
+            "Sniff sniff...",
+            "\\.\"Bouh... Il sent les maisons riches, miaou...\"",
+            "\\.\"Libre à vous de me renifler.\"",
+            "\\.\"C'est bon, j'en ai déjà eu assez, ouaf !!\""
+        ],
+        "4-6-message": [
+            "\"Seriez-vous tentés par un peu de thé ?\"",
+            "\\.\"Sors de là...!\""
+        ],
+        "4-7-message": [
+            "\"C'est pas le moment de renifler les gens, miaou !!\""
+        ],
+        "15-3-message": [
+            "\\C[3]Les autres se dirigent vers leurs chambres.",
+            "\\.\\C[3]Nous nous échangeons des regards amplis d'angoisse,\nmais aussi de confiance.",
+            "\"Grande sœur Sara.\"",
+            "\\.\"Hm ? Qu'est-ce que tu as, Gin ?\"",
+            "\\.\"Je l'ai pas dit parce que l'autre ténébreux\n louche était là...\"",
+            "\\.\"Mais il se peut que j'ai trouvé une sortie, ouaf !\"",
+            "\\.\"Heeein ?!\"",
+            "\\.\"Je veux plus vous poser de problèmes, miaou !\n Donc je vais faire de mon mieux, ouaf !\"",
+            "\\.\"Ah, Gin...!\"",
+            "\\.\\C[4](Je suis tellement sur les nerfs...\n Je n'arrive pas à me dire que tout ira bien...)"
+        ],
+        "6-1-choice": [
+            "L'arrêter\nVas-y, Alice !"
+        ],
+        "15-1-message": [
+            "\\C[4](Je dois aller au Cabinet Médical...\n Les autres doivent être en train d'y attendre.)"
         ]
     },
     "map135": {
@@ -21368,8 +21420,8 @@
             "\\.\"Alors ? Tu t'es habitué aux votes à la majorité ?\"",
             "\"Ah ouais ? Ravi de l'entendre.\"",
             "\\.\"Au point où tu en es, autant juste voter pour\n ceux que tu détestes.\"",
-            "\"Hmm... C'est pas évident, hein ?\"",
-            "\\.\"Mais c'est pas grave.\n Vote simplement pour ceux que tu détestes.\"",
+            "\"Hmm... C'est que ce n'est pas évident, hein ?\"",
+            "\\.\"Mais ce n'est pas grave.\n Vote simplement pour ceux que tu détestes.\"",
             "\"Hahaha, t'es sur les nerfs ?\"",
             "\\.\"Hé bah, continue comme ça et vote pour ceux\n que tu détestes.\"",
             "\\.\"Tue impitoyablement pour survivre.\"",
@@ -26100,12 +26152,12 @@
     "map133": {
         "5-1-message": [
             "\"Grande sœur Sara !!\"",
-            "\\.\"Gin ! Tu arrives déjà à te relever et à bouger ?\"",
+            "\\.\"Gin ! Tu arrives déjà à te lever et à bouger ?\"",
             "\\.\"Ouais !!\n Je m'en suis totalement remis, ouaf !\n Le poison ça me fait plus peur, miaou !\"",
-            "\\.\"L'antidote qu'Keiji a ramené a marché à merveille !\n Et c'que j'vois pas un seul effet secondaire bizarre,\n en plus !\"",
+            "\\.\"L'antidote qu'Keiji a ramené a marché à merveille !\n Et c'que j'vois pas un seul effet secondaire bizarre,\n non plus !\"",
             "\\.\"Joli move de la part de votre ami le policier, hein ?\"",
             "\\.\\C[4](Ce n'est vraiment pas passé loin...\n Si Keiji n'avait pas trouvé l'antidote auparavant,\n Gin serait...)",
-            "\\.\"L'antidote qu'Keiji a ramené a marché à merveille !\n Et c'que j'sens pas un seul effet secondaire bizarre,\n en plus !\"",
+            "\\.\"L'antidote qu'Keiji a ramené a marché à merveille !\n Et c'que j'sens pas un seul effet secondaire bizarre,\n non plus !\"",
             "\\.\"Joli move de la part de votre ami le policier, hein ?\"",
             "\\.\\C[4](Ce n'est vraiment pas passé loin...\n Si Keiji n'avait pas trouvé l'antidote auparavant,\n ils seraient tous les deux...)",
             "\\.\"Keiji...\"",
@@ -26177,7 +26229,7 @@
             "\\.\"Hmph...\n Peut-être que quelque chose ne tourne pas rond\n chez moi non plus...\"",
             "\\.\"Bien que vous et moi sommes sur le point\n de nous entretuer...\"",
             "\\.\"...\"",
-            "\\.\"Bien, vous vous êtes tous réunis.\"",
+            "\\.\"Bien, vous êtes tous rassemblés ici.\"",
             "\\.\"Je vais donc commencer à vous expliquer les règles\n du deuxième Jeu Principal.\"",
             "\\.\"Monsieur Gin Ibushi... Comment vous portez-vous ?\"",
             "\\.\"Le voilà, miaou !! Tonton Moustacrabe !!\"",
@@ -26201,18 +26253,18 @@
             "\\.\"Mes excuses.\"",
             "\\.\"Très bien, voici les explications de ce Jeu Principal.\"",
             "\\.\"... Les règles fondamentales demeurent identiques.\n Il s'agit d'un jeu de vote reposant sur quatre cartes :\n le \\C[2]Maître des Clés\\C[0], le \\C[3]Sage\\C[0], le \\C[10]Sacrifice\\C[0],\n et le \\C[5]Roturier\\C[0]...\"",
-            "\\.\"Le \\C[2]Maître des Clés\\C[0] ouvre les \\C[2]portes de la destruction\n s'il est élu\\C[0]... Son détenteur porte donc une formidable\n responsabilité sur ses épaules, qui lui sert aussi\n d'armure.\"",
+            "\\.\"Le \\C[2]Maître des Clés\\C[0] ouvre les \\C[2]portes de la destruction\n s'il est élu\\C[0]...\n Son détenteur porte donc une formidable responsabilité\n sur ses épaules, qui lui sert aussi d'armure.\"",
             "\\.\"Le \\C[3]Sage\\C[0] est un \\C[2]médium capable de savoir qui est\n en possession du rôle du Maître des Clés\\C[0].\n Mais une fois à découvert... \n Il est une cible vulnérable difficile à protéger.\"",
             "\\.\"Le \\C[10]Sacrifice\\C[0] \\C[2]meurt s'il ne se fait pas élire\\C[0].\n C'est la seule personne capable d'inverser la tendance,\n transformant une victoire en défaite et inversement.\"",
-            "\\.\"Et enfin, les \\C[4]Roturiers\\C[0].\n Ils n'ont aucun pouvoir en particulier...\n Ils sont donc parfaits pour mener les débats et\n le faire progresser dans la bonne direction.\"",
+            "\\.\"Et enfin, les \\C[4]Roturiers\\C[0].\n Ils n'ont aucun pouvoir en particulier...\n Ils sont donc parfaits pour mener les débats et\n les faire progresser dans la bonne direction.\"",
             "\\.\"Seulement, cette fois-ci, nous utiliserons des données\n digitales plutôt que des cartes en papier.\"",
             "\\.\"Des... données... digitales...?\"",
-            "\\.\"Les données de vos cartes ont déjà été distribuées\n aléatoirement aux tablettes de vote que vous avez\n en votre possession.\"",
+            "\\.\"Les données de vos cartes ont déjà été distribuées\n aléatoirement aux tablettes de vote que vous avez\n actuellement en votre possession.\"",
             "\\.\"La seule chose qu'il reste à faire...\n C'est de vous donner la permission d'y accéder.\"",
             "\\.\"Pourquoi z'êtes passés par quatre chemins si\n c'pour refaire l'même chose ?!\"",
             "\\.\"C'est là une très bonne remarque, Monsieur Q-taro.\"",
             "\\.\"Cela s'explique par le fait que, cette fois-ci,\n vous pouvez effectuer des \\C[2]échanges\\C[0].\"",
-            "\\.\"Et de manière \\C[2]forcée\\C[0], en plus.\"",
+            "\\.\"Et ce de manière \\C[2]forcée\\C[0], en outre.\"",
             "\\.\"On peut échanger nos cartes...?\"",
             "\\.\"Tout à fait.\n Permettez-moi de vous en faire une démonstration.\"",
             "\\.\"Manifestez-vous, \\C[2]Allô-Boîtes\\C[0]...!\"",
@@ -26231,23 +26283,23 @@
             "\\.\"...\n ...\n ...\"",
             "\\.\"...\n ...\n ...\"",
             "\\.\"Allons, tout le monde.\n Ne laissez pas le désespoir vous engloutir.\"",
-            "\\.\"Remportez la victoire et survivez.\n Car vous êtes tous nés pour gagner.\"",
+            "\\.\"Remportez la victoire et survivez.\n Car vous êtes nés à cette fin.\"",
             "\\.\\C[4](De quoi il parle...?!)",
             "\\.\"Très bien.\n Veuillez à présent vous diriger vers vos chambres.\n Vous avez 5 minutes.\"",
             "\\.\"Si vous ne vous exécutez pas...\n Vous savez déjà ce qu'il arrivera, n'est-ce pas ?\"",
             "\"...\"",
-            "\\.\\C[3]L'atmosphère ambiante est néfaste.",
+            "\\.\\C[3]L'ambiante est néfaste.",
             "\\.\\C[3]Nous nous étudions tour à tour,\nessayant de deviner ce que l'autre ressent.",
             "\\.\\C[4](Que devrais-je dire...)",
-            "\\.\"On finira bien par s'échapper d'ici.\"",
+            "\\.\"On finira bien par nous échapper d'ici.\"",
             "\\.\"Sara...!\"",
             "\\.\"On n'est pas encore à court de temps...!\n On doit forcément pouvoir faire quelque chose !!\"",
             "\\.\\C[4](Je n'ai peut-être pas l'air convaincante...\n Mais je refuse d'abandonner !!)",
             "\\.\"Bien dit, Sara !!\"",
             "\\.\"J'veux dire, c'pas comme si tout marchait comme sur\n d'roulettes d'leur côté non plus !\"",
-            "\\.\"Y z'ont pas dû voir arriver l'autre type à moustache\n tirer sur Ray, j'pas raison ?!\"",
+            "\\.\"Y z'ont pas dû voir arriver l'autre type à moustache\n tirer sur Ray, vous pensez pas ?!\"",
             "\\.\"Hein...?\"",
-            "\\.\"Hein ? Quoi ? J'ai dit un truc tordu ?\"",
+            "\\.\"Hein ? Quoi ? J'dit un truc tordu ?\"",
             "\\.\\C[4](Non, justement, tu as absolument raison.)",
             "\\.\\C[4](Je ne m'y attendais pas...\n On trouvera forcément une manière de sortir d'ici\n en pensant à ce dont les ravisseurs n'ont pas pensé !)",
             "\\.\"Pour l'instant, retournons à nos chambres...\"",
@@ -27277,7 +27329,7 @@
             "\\.\"Il n'y a... plus aucun espoir maintenant...\"",
             "\\.\"Allons-nous-en... Alice.\"",
             "\\.\"Nao...?\"",
-            "\\.\"Hé, Nao Egokoro... Qu'est-ce que tu...?!\"",
+            "\\.\"Hé, Nao Egokoro... Qu'est-ce que tu-?!\"",
             "\\.\\C[3]Nao retira les gants du corps de Reko.",
             "\\.\"...\"",
             "\\.\"Il faut que je rende ça à quelqu'un...\"",
@@ -27294,7 +27346,7 @@
             "\\.\"L'homme que j'ai tué...\\! s'appelait \\C[2]Sou Hiyori\\C[0].\"\\.",
             "\\.\"Hein...?!\"",
             "\\.\"Au point où j'en suis, Sou Hiyori, je m'en fiche...\"",
-            "\\.\\sp[15]\"Ceux que je dois vraiment tuer, c'est...\"",
+            "\\.\\sp[15]\"Ceux que je dois vraiment tuer, ce sont...\"",
             "\\.\\C[4](Alice...)",
             "\\.\\C[3]Ses yeux... brûlaient de vengeance.",
             "\\.\\C[3]De vengeance envers l'ennemi qui a organisé\ncette Démocratie Mortelle.",
@@ -27302,7 +27354,7 @@
             "\\.\\C[3]Et moi, quelle voie vais-je emprunter...?",
             "\\.\\C[4](... La question ne se pose même pas.)",
             "\\.\\C[4](Je refuse... de laisser quelqu'un d'autre mourir.)",
-            "\\.\\C[4](Le Jeu Principal... Je l'empêcherai !!)",
+            "\\.\\C[4](Le Jeu Principal... Je l'empêcherai d'arriver !!)",
             "\\.\\C[10]\"Toi ?\n Comme si t'étais capable de sauver qui que ce soit.\"",
             "\\.\"...!!\"",
             "\\.\\C[4](Je... n'échouerai pas...!!)"
@@ -33347,7 +33399,7 @@
     },
     "items-159": {
         "name": "\\I[19]Quatre Notes",
-        "description": "Des notes.\nLes participants du Jeu Mortel y figurent.\nIl n'y a que 16 noms dessus."
+        "description": "Des notes.\nLes participants de la Démocratie Mortelle y figurent.\nIl n'y a que 16 noms dessus."
     },
     "items-160": {
         "name": "Quatre Notes"
@@ -33493,6 +33545,15 @@
         ],
         "55-1-message": [
             "\\C[3]Tablette\n\nUne tablette pour consulter le rôle de sa carte.\nÉtait dans la Salle Effondrée à côté de Q-taro, évanoui."
+        ],
+        "2-2-message": [
+            "\\C[3]Je n'arrive pas à deviner quoique ce soit\ndu cœur de Gashu.",
+            "\\.\\C[4](C'est parce que je ne lui ai quasiment\n jamais parlé...)",
+            "\"... Faut vraiment avoir passé du temps\n avec la personne pour ça.\""
+        ],
+        "2-1-message": [
+            "\"Mes plus profondes excuses...\n Mais vous n'avez plus le droit d'utiliser\n le Stand d'Échange.\"",
+            "\\.\"Je suis en train de retirer les prix de la vitrine.\n C'est pourquoi je vous demande pardon s'il\n commence à y avoir de la poussière.\""
         ]
     },
     "map176": {
