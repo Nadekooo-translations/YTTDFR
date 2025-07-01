@@ -8166,7 +8166,7 @@
             "\\.\"Je n'en pouvais juste plus...!\n Je voulais désespérément lui reparler !!\"",
             "\\.\"Même en sachant que je ne devrais pas le faire...\n Je n'ai pas pu m'empêcher de retourner à la\n Salle de Surveillance...\"",
             "\\.\"Mais je n'ai pas eu le temps d'y entrer...\"",
-            "\\.\"Car j'ai entendu une vitre se casser !\n Je me suis donc hâtivement cachée au hall d'entrée.\"",
+            "\\.\"Car j'ai entendu une vitre se casser !\n Je me suis donc hâtivement cachée au hall principal.\"",
             "\\.\"Là-bas... j'ai vu Reko, la main ensanglantée,\n en train de s'enfuir de la Salle de Surveillance...\"",
             "\\.\"On aurait dit... qu'elle avait des morceaux de verre\n dans sa main...!\"",
             "\\.\"J'étais paralysée de peur, Reko est passée\n à côté de moi sans me remarquer...\"",
@@ -19285,7 +19285,7 @@
             "\\.\"... T'as aucune raison de le cacher.\n Pas vrai ?\"",
             "\\.\"...!!\"",
             "\\.\"Comment ça se fait que tu le saches...?\"",
-            "\\.\"Alors que Nao était au hall d'entrée\n durant l'incident...\"",
+            "\\.\"Alors que Nao était au hall principal\n durant l'incident...\"",
             "\\.\"J'ai tout vu aussi... planqué au Stand d'Échange.\"",
             "\\.\"De là où j'étais, j'ai tout regardé.\n ... Y compris la discussion entre Reko et\n Monsieur Mishima.\"",
             "\\.\"... OK, compris.\n T'as d'autres infos ?\"",
@@ -19737,7 +19737,7 @@
             "\"Te voir jouer me donner envie d'en faire, Reko.\"",
             "\"T'es trop empoté.\n Je pense même pas que t'en sois capable.\"",
             "\"Trop méchaaante !\"",
-            "\"Hahaha ! Aller, arrête de te plaindre !\"",
+            "\"Hahaha ! Aller, arrête de chouiner !\"",
             "\\.\"... C'est bon. Je vais t'apprendre.\"",
             "\"Vraiment ?!\"",
             "\"Par contre si au bout d'un moment, t'en as marre,\n je t'en mettrai une.\"",
@@ -22347,7 +22347,7 @@
             "\\.\"Bon, allez. Je suis pas du genre à rester\n assis à rien faire non plus.\n Faites gaffe en explorant les alentours.\""
         ],
         "13-1-message": [
-            "\\.\\C[3]Q-taro et Ray se disputent dans le hall d'entrée.",
+            "\\.\\C[3]Q-taro et Ray se disputent dans le hall principal.",
             "\\.\"Bordel...!! T'déconnes, j'espère !!\"",
             "\\.\"Q-taro, qu'est-ce qu'il se passe ?\"",
             "\\.\"Sara ! Ce gars vient d'me dire qu'on peut pas\n revenir aux étages précédents !\"",
@@ -24376,7 +24376,7 @@
             "\\.\"Sara...!\"",
             "\\.\"Q-taro.\"",
             "\\.\"Minute, Q-taro. J'en ai pas fini avec toi.\"",
-            "\\.\\C[3]Ils se dirigent tous les deux vers le hall\nd'entrée en murmurant.",
+            "\\.\\C[3]Ils se dirigent tous les deux vers le hall\nprincipal en murmurant.",
             "\\.\\C[4](Keiji...?)"
         ],
         "1-1-message": [
@@ -25294,7 +25294,7 @@
     },
     "map117": {
         "1-1-message": [
-            "\\C[3]Alice et Reko discutent dans le hall d'entrée.",
+            "\\C[3]Alice et Reko discutent dans le hall principal.",
             "\"...\n ...\n ...\"",
             "\\.\"...\n ...\n ...\"",
             "\\.\"... Si t'as rien à me dire, je me casse.\"",
@@ -25668,6 +25668,24 @@
         ],
         "20-1-message": [
             "\\C[3]Taser\nUn pistolet à décharge électrique jetable.\nIl peut paralyser quelqu'un.\nIl est dangereux, donc Gin et moi le gardons en secret."
+        ],
+        "8-6-message": [
+            "\\C[3]Il y a une Allô-Boîte dans l'alcôve."
+        ],
+        "11-6-message": [
+            "\\C[3]Il y a une Allô-Boîte dans l'alcôve."
+        ],
+        "11-3-message": [
+            "\\C[3]Il y a une Allô-Boîte dans l'alcôve."
+        ],
+        "9-6-message": [
+            "\\C[3]Il y a une Allô-Boîte dans l'alcôve."
+        ],
+        "48-6-message": [
+            "\\C[3]Il y a une Allô-Boîte dans l'alcôve."
+        ],
+        "11-1-message": [
+            "\\C[3]Il y a une Allô-Boîte dans l'alcôve."
         ]
     },
     "map127": {
@@ -25856,51 +25874,81 @@
             "\\.\"Euh...\"",
             "\\.\\C[3]Je le traîne de force dans la chambre et\nje ferme la porte derrière lui.",
             "\\.\"Tu viens de gaspiller un échange !\n Pourquoi tu as fait ça ?!\"",
-            null,
-            null,
+            "\\.\"Euh... T'es fâchée ?\"",
+            "\\.\"Non, je suis pas fâchée !!\"",
             "\\.\"...\n ...\n ...\"",
-            null,
-            "\\.\"...\""
+            "\\.\"Je voulais juste... que tu me fasses confiance.\"",
+            "\\.\"...\"",
+            "\\.\"On a que 3 heures.\n On a pas de temps à perdre à se méfier des rôles\n des uns et des autres.\"",
+            "\\.\"Vu... qu'on va s'échapper d'ici.\"",
+            "\\.\"...!\"",
+            "\\.\"... J'ai compris.\"",
+            "\\.\"Tu dois avoir une idée en tête. Dis-moi tout.\"",
+            "\\.\"Okay...\""
         ],
         "5-1-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\"Dis-moi, Sara.\n D'après toi, comment on pourrait s'y prendre\n pour sortir d'ici ?\"",
+            "\\.\\C[4](Pour sortir d'ici...?)",
+            "\"On pourrait trouver une sortie sans que nos ravisseurs\n s'en rendent compte.\"",
+            "\\.\"C'est vrai.\n Peut-être qu'on pourrait se débrouiller pour contourner\n la surveillance des Maîtres d'Étage.\"",
+            "\"On pourrait battre nos ravisseurs et rentrer\n glorieusement chez nous.\"",
+            "\\.\"Ouah, t'es courageuse.\n Ils pourraient être armés, tu sais.\"",
+            "\\.\\C[4](Peut-être que Q-taro pourrait...!)",
+            "\\.\"... Tu me donnes de la peine pour Q-taro, Sara.\"",
+            "\\.\"On pourrait semer le chaos au point qu'ils se disent\n \"ce n'est pas ça, la Démocratie Mortelle !\"...\"",
+            "\\.\"Hmm. Et comment on fait, on fait une bombe ?\"",
+            "\\.\"Je t'en serais reconnaissante.\"",
             "\\.\"...\n ...\n ...\"",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\"...\""
+            "\\.\"Au final, une chose est sûre...\n On a besoin d'informations.\"",
+            "\\.\"On est où ? C'est quoi ce bâtiment ?\"",
+            "\\.\"Si on avait une carte de l'étage, on aurait au moins\n une demi-chance.\"",
+            "\\.\"Une carte de l'étage...!\"",
+            "\\.\"Qui de nous saurait quelque chose ?\"",
+            "\\.\\C[4](Quoi ?! Attends, il y a bien quelqu'un...?)",
+            "\"Sou...\n Son comportement est suspect depuis le début.\n Il sait peut-être quelque chose...\"",
+            "\\.\"Hmm... C'est vrai qu'il est suspect à n'en pas finir.\"",
+            "\\.\"Mais je pense pas qu'on puisse tirer quoique\n ce soit de lui. Jamais.\"",
+            "\\.\\C[4](C'est vrai... Ce serait lourd.)",
+            "\\.\"Essaie quelqu'un d'autre.\"",
+            "\\.\"... Kai.\"",
+            "\"Monsieur Mishima...?\"",
+            "\\.\"... C'est une drôle d'idée, ça.\"",
+            "\\.\"Monsieur Mishima est mort, et il est revenu\n en tant qu'IA, mais...\"",
+            "\\.\"Peut-être qu'il a accès aux données de l'étage...?\"",
+            "\\.\"Héh... On peut toujours rêver.\"",
+            "\\.\\C[4](Et Reko a détruit son IA, toute façon...)",
+            "\\.\"Bon.\n Du coup, la personne que j'avais en tête, c'était...\"",
+            "\\.\"... Kai.\"",
+            "\"Kai... Bien évidemment.\"",
+            "\\.\"Voilà, t'as compris.\n Bien joué, Sara.\"",
+            "\"Keiji... C'est toi, pas vrai ?\"",
+            "\\.\"Je suis innocent, je promets.\"",
+            "\\.\"Aller, crache le morceau.\"",
+            "\\.\"...\"",
+            "\\.\"Bon, d'accord, je crache le morceau.\n Je vais te dire qui j'avais en tête.\"",
+            "\\.\"... Kai.\"",
+            "\\.\"Kai était en contact avec les méchants.\"",
+            "\\.\"Même s'il connaissait pas tous les détails de la\n Démocratie Mortelle, il savait peut-être quelque\n chose sur le complexe où on est détenus.\"",
+            "\\.\\C[4](Mais Kai n'est plus là...)",
+            "\\.\"Dans ce cas...\n Il y a peut-être quelque chose sur l'ordinateur\n qu'il a laissé ?\"",
+            "\\.\"C'est ça.\n Il reste des trucs qu'on a pas vu sur l'ordi.\"",
+            "\\.\\C[4](Q-taro avait réussi à mettre la main dessus,\n mais il a fini par être à court de batterie...)",
+            "\\.\\C[4](Et maintenant, c'est à nouveau Sou qui l'a...)",
+            "\\.\\C[4](... Le récupérer ne va pas être une mince affaire.)",
+            "\\.\"Et ça nous amène...\"",
+            "\\.\"...?\"",
+            "\\.\"Tu te rappelles où on l'avait trouvé ?\"",
+            "\\.\\C[4](On ne l'avait pas trouvée à la Salle Effondrée...?)",
+            "\\.\"Hé bah, figure-toi que j'ai fait un peu\n de détectivage.\"",
+            "\\.\"... Je peux t'emprunter une minute, Sara ?\"",
+            "\\.\"P-Pourquoi ?\"",
+            "\\.\\C[3]Keiji me chuchote à l'oreille.",
+            "\\.\"... Kai est passé dans cette pièce.\"",
+            "\\.\"Quoi...?!\"",
+            "\\.\"Aller, allons-y. On a pas une seconde à perdre.\"",
+            "\\.\"A-Attends, Keiji !\"",
+            "\\.\\C[4](Kai est déjà venu dans cette salle ?)",
+            "\\.\\C[4](Mais avant même qu'on arrive au deuxième étage...\n Il était déjà...)"
         ],
         "13-1-message": [
             "\\C[3]Vidéo d'une Victime\nLa vidéo d'une victime que Nao avait achetée.\nMontre la mort d'une policière lors de la P. Épreuve.\nL'homme au premier plan... Serait-ce Keiji ?"
@@ -25926,6 +25974,21 @@
         "4-1-choice": [
             "Keiji, c'est toi ?\nNao, c'est toi ?\n... ... ...",
             "Ouvrir et l'inviter à l'intérieur\nNe pas ouvrir et discuter\nL'ignorer en silence\nLui demande un mot de passe"
+        ],
+        "5-1-choice": [
+            "Trouver une sortie en secret\nVaincre nos ennemis et partir\nDétruire la Démocratie Mortelle",
+            "Sou\nMishima\nKai\nKeiji"
+        ],
+        "6-1-message": [
+            "\\C[3]Il y a une Allô-Boîte dans l'alcôve.",
+            "\\.\\C[4](Il y en a une dans chaque chambre...)"
+        ],
+        "33-1-message": [
+            "\\C[3]Une douce lueur illumine la chambre."
+        ],
+        "47-1-message": [
+            "\"... Ça sent grande sœur Sara ; bon, miaou.\"",
+            "\\.\\C[4](Ne commence pas à développer de hobby bizarre, Gin...)"
         ]
     },
     "map130": {
@@ -33360,7 +33423,7 @@
         "name": "Longs Escaliers"
     },
     "items-110": {
-        "name": "Hall d'Entrée"
+        "name": "Hall Principal"
     },
     "items-112": {
         "name": "Salle de Relaxation"
@@ -34234,7 +34297,7 @@
             "\\.\"... On pourrait être malin et discuter de\n quoi faire de nos jetons, aussi.\"",
             "\\.\"... De nos jetons... miaou...\"",
             "~ Négociations ~",
-            "\\.Après avoir terminé une attraction, vous pouvez\nchoisir de négocier avec quelqu'un au hall d'entrée.",
+            "\\.Après avoir terminé une attraction, vous pouvez\nchoisir de négocier avec quelqu'un au hall principal.",
             "\\.Vous feriez mieux de collecter leurs jetons\net de renforcer vos liens...\n\nVos actes pourraient déterminer leurs sorts."
         ],
         "3-1-message": [
@@ -34260,7 +34323,7 @@
     },
     "map119": {
         "1-1-message": [
-            "\\.\\C[3]Le hall d'entrée est vide.",
+            "\\.\\C[3]Le hall principal est complètement vide.",
             "\\.\"Ne me dites pas que...\"",
             "\\.\"Tout le monde...! Où êtes-vous ?!\"",
             "\\.\\C[3]En regardant à travers la fenêtre, les éclats\nresplendissants du soleil levant se reflètent\ndans mes yeux.",
