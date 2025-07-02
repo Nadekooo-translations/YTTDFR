@@ -21176,7 +21176,7 @@
             "\\.\"Hein...?!\"",
             "\\.\"Bahaha... T'avais le même regard que moi.\"",
             "\\.\"Le regard rusé d'un détective qui néglige jamais\n les déboires du cœur...\"",
-            "\\.\"T'as senti que quelque chose clochait avec Nao.\n C'est sûrement parce que tu commences à la\n connaître après avoir passé des jours avec elle...\"",
+            "\\.\"T'as senti que quelque chose clochait avec Nao.\n C'est sûrement parce que tu commences à la connaître\n après avoir passé plusieurs jours avec elle...\"",
             "\\.\"Tu veux dire que Nao cache quelque chose ?!\"",
             "\\.\"J'sais pas.\n Malheureusement, on a pas trop le temps de\n s'en assurer là de suite.\"",
             "\\.\"Occupons-nous de ce qu'on a à faire.\n Y a toujours vraiment qu'une seule option.\"",
@@ -26213,7 +26213,7 @@
     },
     "map132": {
         "23-1-message": [
-            "\\C[3]Alice fixe la Chambre des Tromperies.",
+            "\\C[3]Alice a les yeux rivés sur la Chambre des Tromperies.",
             "\\.\"...\n ...\n ...\"",
             "\"... As-tu besoin de quelque chose ?\"",
             "\\.\"Euh...\"",
@@ -33448,7 +33448,7 @@
             "\\C[3]Nao fixe intensément le corps d'Alice.",
             "\\C[3]Nao fixe intensément le corps de Reko.",
             "\\.\\C[3]Elle ne semble pas nous remarquer du tout.",
-            "\\.\\C[4](Elle agit bizarrement, c'est certain... !)",
+            "\\.\\C[4](Son comportement cloche...!)",
             "\\.\"Sara... Pas tout de suite...\"",
             "\\C[4](Argh... !)"
         ],
