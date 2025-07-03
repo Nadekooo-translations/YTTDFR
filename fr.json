@@ -21563,7 +21563,8 @@
     },
     "map123": {
         "6-3-choice": [
-            "Oui\nNon"
+            "Oui\nNon",
+            "Le faire\nNe pas le faire\nJe ne comprends pas\nOn a toujours été amis"
         ],
         "3-2-message": [
             "\\.\"Je te préviendrai si je trouve quelque chose, Sara.\"",
@@ -21661,12 +21662,27 @@
             "\\.\\C[3]Mais tout cela était la faute de Sou.",
             "\\.\"Kanna...\"",
             "\\.\"Ne te retourne plus contre moi, d'accord... ?\"",
-            "\\.\\C[3]J'ai de nouveau saisi la main de Kanna.",
-            null,
-            null,
-            null,
-            null,
-            "\\.\"...\""
+            "\\.\\C[3]En retour, j'ai saisi sa main de plus belle.",
+            "\\.\"Compris... !\"",
+            "\\.\"Et moi alors ?\"",
+            "\\.\"Voilà, m'sieur.\"",
+            "\\.\"Argh... Bah, c'est d'jà ça. Merci l'ami.\"",
+            "\\.\"...\"",
+            "\\.\"Yo. Sara et Kanna, je vous regardais\n depuis tout à l'heure.\"",
+            "\\.\"Reko...\"",
+            "\\.\"J'sais pas ce qui s'est passé...\n Mais je suis ravie de voir que tout va mieux.\"",
+            "\\.\"Oui, merci... !\"",
+            "\\.\"Euh, au fait Reko, tu veux vérifier\n l'ordinateur de Kai avec nous ?\"",
+            "\\.\"Hein ?! Euh, vous êtes sûrs...?!\"",
+            "\\.\"Bien sûr, aucun problème.\"",
+            "\\.\"Ah ouais ! Hééé ! Alice !\"",
+            "\\.\"...Oui ?\"",
+            "\\.\"Ça tombe à pic. Toi aussi, viens voir !\"",
+            "\\.\"...Bon, très bien.\"",
+            "\\.\"Allez, je l'allume.\"",
+            "\\.\"Wow...! Tu l'as déverrouillé !\"",
+            "\\.\"Pff... Voilà ce que cachait ce chenapan au tablier.\"",
+            "\\.\\C[4](Il contient certainement des indices\n nous permettant de sortir d'ici... !)"
         ],
         "6-6-message": [
             "\\.\"Sara...\"",
