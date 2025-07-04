@@ -21564,7 +21564,9 @@
     "map123": {
         "6-3-choice": [
             "Oui\nNon",
-            "Le faire\nNe pas le faire\nJe ne comprends pas\nOn a toujours été amis"
+            "Le faire\nNe pas le faire\nJe ne comprends pas\nOn a toujours été amis",
+            "Lui serrer la main\nNe pas lui serrer la main",
+            "Lui serrer la main\nNe pas lui serrer la main"
         ],
         "3-2-message": [
             "\\.\"Je te préviendrai si je trouve quelque chose, Sara.\"",
@@ -21857,7 +21859,7 @@
         "6-4-message": [
             "\\C[3]Kanna et Q-taro... ont l'air plutôt joyeux.",
             "\\.\\C[3]Je... n'arrive pas à lire quoi que ce soit chez Sou...",
-            "\"Hmph... Il est trop rusé.\""
+            "\"Pff... Il est trop rusé.\""
         ],
         "6-7-message": [
             "\\.\"Aller, vas-y.\n Nous, on fera ce qu'on a à faire.\""
