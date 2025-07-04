@@ -33996,8 +33996,8 @@
     "map125": {
         "3-1-message": [
             "\\C[3]Reko discute en silence.",
-            "\"Pas moyen de trouver un seul moment pour refaire mon maquillage...\"",
-            null,
+            "\"Je peux pas me permettre le temps de remettre\n mon maquillage...\"",
+            "\"J'arrive pas à y croire, Kanna...\n T'es sûre que Sou compte...?\"",
             null,
             null,
             null,
@@ -34104,6 +34104,9 @@
         "2-2-message": [
             "\\C[3]Je sens que Q-taro est impatient...",
             "\"S'il est pas au bout du rouleau...\n C'est peut-être parce qu'il a plein de jetons...\""
+        ],
+        "3-1-choice": [
+            "Lui parler\nIgnorer"
         ]
     },
     "map220": {
