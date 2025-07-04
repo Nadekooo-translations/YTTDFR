@@ -34065,7 +34065,7 @@
             "\\.\"L'ordi d'Kai... C'à peu près tout c'que j'ai...\"",
             "\\.\"...\n ...\n ...\"",
             "\\.\"Ç'serait chouette d'pouvoir convaincre Sou\n d'partager, mais...\n Y sort pas d'sa chambre.\"",
-            "\\.\"Et Kanna est avec lui, en plus...\n J'espère qu'il l'utilise pas à de mauvaises fins .\"",
+            "\\.\"Et Kanna est avec lui, en plus...\n J'espère il l'utilise pas à d'mauvaises fins.\"",
             "\\.\\C[4](...)"
         ],
         "23-1-message": [
@@ -34097,6 +34097,9 @@
         ],
         "3-4-message": [
             "Sniff sniff..."
+        ],
+        "2-1-choice": [
+            "Qu'est-ce que tu fais ?\nLui faire peur par derrière"
         ]
     },
     "map220": {
