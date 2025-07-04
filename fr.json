@@ -26271,23 +26271,28 @@
             "\\C[3]Taser\nUn pistolet à décharge électrique jetable.\nIl peut paralyser quelqu'un.\nIl est dangereux, donc Gin et moi le gardons en secret."
         ],
         "8-6-message": [
-            "\\C[3]Il y a une Allô-Boîte dans l'alcôve."
+            "\\C[3]Il y a une Allô-Boîte dans l'alcôve.",
+            "\\.\\C[4](Il est même possible de faire des échanges ici...?)"
         ],
         "11-6-message": [
-            "\\C[3]Il y a une Allô-Boîte dans l'alcôve."
+            "\\C[3]Il y a une Allô-Boîte dans l'alcôve.",
+            "\\.\\C[4](Il est même possible de faire des échanges ici...?)"
         ],
         "11-3-message": [
-            "\\C[3]Il y a une Allô-Boîte dans l'alcôve."
+            "\\C[3]Il y a une Allô-Boîte dans l'alcôve.",
+            "\\.\\C[4](Il est même possible de faire des échanges ici...?)"
         ],
         "9-6-message": [
-            "\\C[3]Il y a une Allô-Boîte dans l'alcôve."
+            "\\C[3]Il y a une Allô-Boîte dans l'alcôve.",
+            "\\.\\C[4](Il est même possible de faire des échanges ici...?)"
         ],
         "48-6-message": [
-            "\\C[3]Il y a une Allô-Boîte dans l'alcôve."
+            "\\C[3]Il y a une Allô-Boîte dans l'alcôve.",
+            "\\.\\C[4](Il est même possible de faire des échanges ici...?)"
         ],
         "11-1-message": [
             "\\C[3]Il y a une Allô-Boîte dans l'alcôve.",
-            "(Il est même possible de faire des échanges ici...?)"
+            "\\.\\C[4](Il est même possible de faire des échanges ici...?)"
         ],
         "2-1-choice": [
             "La pièce secrète est-elle vraiment ici ?\nDépêchons-nous",
@@ -34043,7 +34048,7 @@
         ],
         "2-1-message": [
             "\\C[3]Q-taro est assis en silence.",
-            null,
+            "\"Sou et Kanna s'sont cloîtrés dans leur chambre...\n J'peux même pas négocier avec eux.\"",
             null,
             null,
             null,
