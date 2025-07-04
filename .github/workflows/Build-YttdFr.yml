@@ -130,8 +130,8 @@ jobs:
     runs-on: ubuntu-latest
     needs: [package, website]
     environment:
-      name: Production
-      url: "https://yttd.fr"
+      name: ${{ github.event.inputs.environment || 'Production' }}
+      url: ${{ github.event.inputs.environment == 'Production' && 'https://yttd.fr' || 'https://staging.yttd.fr' }}
     concurrency:
       group: Production
       cancel-in-progress: true
