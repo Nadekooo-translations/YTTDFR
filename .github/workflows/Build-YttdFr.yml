@@ -2,7 +2,7 @@ name: Build
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "**" ]
 
   workflow_dispatch:
 
@@ -102,10 +102,38 @@ jobs:
           name: yttd-${{ github.sha }}-${{ matrix.platform }}
           path: ${{ env.YTTD_FOLDER }}
 
+  installer:
+    runs-on: windows-latest
+    needs: [package]
+    steps:
+        - uses: actions/checkout@v3
+          with:
+            submodules: true
+        - name: Install Qt
+          uses: jurplel/install-qt-action@v4.1.1
+          with:
+            version: 6.7.3
+            dir: qt
+            modules: qt5compat
+        - name: Install Conan
+          uses: turtlebrowser/get-conan@main
+        - run: conan config install patch-wizard/conan
+        - run: conan profile show
+        - run: conan install -of patch-wizard\build --requires=zlib/1.3.1 -g CMakeDeps -g CMakeToolchain -o *:shared=False --build=missing
+        - name: Download artefacts
+          uses: actions/download-artifact@v4
+          with:
+            path: artifacts
+        - run: tree /f
+        - run: cat patch-wizard\build\conan_toolchain.cmake
+        - run: cp LICENSE patch-wizard
+        - run: Get-ChildItem -Path artifacts\yttd-${{ github.sha }}-win-x64\www -Recurse | Compress-Archive -DestinationPath patch-wizard\patch.zip
+        - run: .\qt\Qt\6.7.3\msvc2019_64\bin\qt-cmake.bat -DCMAKE_TOOLCHAIN_FILE="conan_toolchain.cmake" -DCMAKE_BUILD_TYPE=Release -S patch-wizard -B patch-wizard\build
+        - run: cmake --build patch-wizard\build
+        - run: tree /f
+
   website:
     runs-on: ubuntu-latest
-    environment:
-      name: Production
     steps:
       - uses: actions/checkout@v3
       - run: npm i && npm run build
@@ -123,7 +151,8 @@ jobs:
 
   deploy:
     runs-on: ubuntu-latest
-    needs: [package, website]
+    needs: [package, installer, website]
+    if: github.ref == 'refs/heads/main'
     environment:
       name: Production
       url: "https://yttd.fr"

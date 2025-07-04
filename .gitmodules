@@ -1,0 +1,6 @@
+[submodule "patch-wizard/lib/quazip"]
+	path = patch-wizard/lib/quazip
+	url = https://github.com/stachenov/quazip
+[submodule "patch-wizard/lib/zlib"]
+	path = patch-wizard/lib/zlib
+	url = https://github.com/madler/zlib
