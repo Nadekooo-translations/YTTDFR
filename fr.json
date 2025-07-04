@@ -27280,7 +27280,7 @@
     },
     "map138": {
         "1-2-message": [
-            null,
+            "\\.\"La prochaine... est Kanna.\"",
             null,
             null,
             "\\.\"...\n ...\n ...\"",
@@ -27346,7 +27346,8 @@
             null,
             null,
             "\\.\"Je n'ai pas pu les protéger...\"",
-            "\\.\"Ils sont morts... encore...\""
+            "\\.\"Ils sont encore... morts...\"",
+            "\\.\"Arghhh... aaaaaah...!!\""
         ]
     },
     "map154": {
