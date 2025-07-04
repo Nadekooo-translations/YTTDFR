@@ -34000,10 +34000,12 @@
             "\"J'arrive pas à y croire, Kanna...\n T'es sûre que Sou compte...?\"",
             "\\.\\C[4](Elles parlent de Sou...?)",
             "\"Reko...\"",
-            "\\.\"...Hey.\"",
+            "\\.\"... Hé.\"",
+            "\\.\\C[3]Reko me tape l'épaule, un sourire amical aux lèvres.",
             null,
-            null,
-            "\"...\n ...\n ...\""
+            "\"...\n ...\n ...\"",
+            "\\.\"Ben ?! Hé, Sara !! Tu m'as regardée, là, nan ?!\"",
+            "\\.\"Désolée... Je ne voulais pas vous gêner.\""
         ],
         "3-3-message": [
             null,
