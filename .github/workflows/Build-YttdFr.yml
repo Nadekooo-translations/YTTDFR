@@ -110,7 +110,7 @@ jobs:
   website:
     runs-on: ubuntu-latest
     environment:
-      name: Production
+      name: ${{ github.event.inputs.environment || 'Production' }}
     steps:
       - uses: actions/checkout@v3
       - run: npm i && npm run build
