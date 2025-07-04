@@ -34100,6 +34100,10 @@
         ],
         "2-1-choice": [
             "Qu'est-ce que tu fais ?\nLui faire peur par derrière"
+        ],
+        "2-2-message": [
+            "\\C[3]Je sens que Q-taro est impatient...",
+            "\"Peut-être que s'il n'est pas complètement au bout du rouleau...\n c'est par ce qu'il a beaucoup de jetons.\""
         ]
     },
     "map220": {
