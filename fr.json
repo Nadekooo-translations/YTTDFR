@@ -26219,7 +26219,9 @@
             "\\.\"Sou...!\"",
             "\\.\"Dacodac. J'y crois à moitié...\n Mais j'irai dans le hall quand j'aurai fini ici.\"",
             "Sniff sniff...",
-            "\\.\"Qu'est-ce que tu fais... ?\""
+            "\\.\"Qu'est-ce que tu fais... ?\"",
+            null,
+            "\\.\"Où c'est que t'as appris un mot comme ça, hein ?\""
         ],
         "2-5-message": [
             "\\C[3]Mes jambes ont bougé comme si j'étais\nguidée par quelque chose.",
