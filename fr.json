@@ -26286,7 +26286,8 @@
             "\\C[3]Il y a une Allô-Boîte dans l'alcôve."
         ],
         "11-1-message": [
-            "\\C[3]Il y a une Allô-Boîte dans l'alcôve."
+            "\\C[3]Il y a une Allô-Boîte dans l'alcôve.",
+            "(Il est même possible de faire des échanges ici...?)"
         ],
         "2-1-choice": [
             "La pièce secrète est-elle vraiment ici ?\nDépêchons-nous",
