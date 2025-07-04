@@ -27281,7 +27281,7 @@
     "map138": {
         "1-2-message": [
             "\\.\"La prochaine... est Kanna.\"",
-            "\\.\"A... Attends !!\"",
+            "\\.\"A-Attends !!\"",
             "\\.\"Arrête ça !! Moyante, je t'en prie...!!\"",
             "\\.\"...\n ...\n ...\"",
             null,
@@ -27308,7 +27308,7 @@
         "1-3-message": [
             null,
             null,
-            null,
+            "\\.\"Ça suffit, arrêtez !! Lara, je t'en prie...!!\"",
             "\\.\"...\n ...\n ...\"",
             null,
             null,
