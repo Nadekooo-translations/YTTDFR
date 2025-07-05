@@ -1,19 +1,95 @@
 ---
-import {getCollection} from 'astro:content';
+import dayjs from "dayjs";
+import relativeTime from "dayjs/plugin/relativeTime";
+import "dayjs/locale/fr";
+import { getCollection } from "astro:content";
 import Layout from "../layouts/Layout.astro";
 
-const posts = await getCollection('blog');
+dayjs.extend(relativeTime);
+dayjs.locale("fr");
+const posts = await getCollection("blog");
 ---
 
 <Layout
-        title="Blog"
-        description="Les nouveautés de la communauté Your Turn to Die en français"
+	title="Blog"
+	description="Les nouveautés de la communauté Your Turn to Die en français"
 >
-	<h1>Blog</h1>
+	<h2>Les dernières nouveautés de la communauté française Your Turn to Die</h2>
 
-	<ul>
-		{posts.map(post => (
-				<li><a href={`/blog/${post.id}`}>{post.data.title}</a></li>
-		))}
-	</ul>
+	<div class="posts-container">
+		{
+			posts.map((post, idx) => (
+				<a href={`/blog/${post.id}`} class="post">
+					<article>
+						<h3>{post.data.title}</h3>
+
+						<time datetime={post.data.date.toISOString().split("T")[0]}>
+							{dayjs(post.data.date).fromNow()}
+						</time>
+
+						<p>{post.data.brief}</p>
+					</article>
+				</a>
+			))
+		}
+	</div>
 </Layout>
+
+<style lang="scss">
+	@import "../styles/_colors.scss";
+
+	h2 {
+		margin-top: 3em;
+		font-size: 1em;
+	}
+
+	div.posts-container {
+		$gap: 3em;
+
+		display: flex;
+		flex-wrap: wrap;
+		gap: $gap;
+
+		a.post {
+			border: 1px solid $gold;
+			padding: 1ch;
+
+			width: calc(32% - $gap);
+
+			background-color: $brown;
+			color: white;
+			text-decoration: none;
+			box-shadow: 0px 14px 14px 8px rgba(black, 0.4);
+			transition: 0.2s all;
+
+			&:hover {
+				background-color: $purple;
+				box-shadow: 0px 14px 14px 8px rgba(black, 0.9);
+			}
+
+			@media (max-width: $medium) {
+				width: 100%;
+			}
+
+			article {
+				display: flex;
+				flex-direction: column;
+
+				h3 {
+					margin: 0;
+				}
+
+				time {
+					margin: -4px 0 0 0;
+					font-size: 9pt;
+					font-weight: 200;
+				}
+
+				p {
+					margin: 0.5em 0 0 0;
+					font-size: 10pt;
+				}
+			}
+		}
+	}
+</style>
