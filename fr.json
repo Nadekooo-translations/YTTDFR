@@ -26327,7 +26327,8 @@
             "\"C'est peut-être dangereux...\n Allons arrêter Gin !\"",
             "\\.\"Ouais. Allons-y.\"",
             "\"Suivons-le.\"",
-            "\\.\"...\""
+            "\\.\"...\"",
+            "\\.\\C[4](Comment Gin a su pour ce passage...?)"
         ],
         "16-1-message": [
             "\\.\\C[3]Une machine émet de la lumière rouge.",
