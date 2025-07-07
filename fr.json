@@ -33995,7 +33995,7 @@
     },
     "map125": {
         "3-1-message": [
-            "\\C[3]Reko discute en silence.",
+            "\\C[3]Reko discute à voix basse.",
             "\"Je peux pas me permettre le temps de remettre\n mon maquillage...\"",
             "\"J'arrive pas à y croire, Kanna...\n T'es sûre que Sou compte...?\"",
             "\\.\\C[4](Elles parlent de Sou...?)",
@@ -34061,8 +34061,8 @@
             "\"Sou et Kanna s'sont cloîtrés dans leur chambre...\n J'peux même pas négocier avec eux.\"",
             "\"Et maintenant, que faire, que faire...\"",
             "\\.\\C[4](... Il a l'air un plutôt détendu.)",
-            "\"Q-Taro...\n Qu'est-ce que tu comptes faire, maintenant ?\"",
-            "\\.\"Oh, Sara.\n Justement, je m'disais que c'le moment parfait pour\n passer en revue c'qu'on sait sur les moyens de\n déguerpir d'ici...\"",
+            "\"Q-taro...\n Qu'est-ce que tu comptes faire, maintenant ?\"",
+            "\\.\"Oh, Sara.\n Justement, je m'disais que c'est l'moment parfait pour\n passer en revue c'qu'on sait sur les moyens de\n déguerpir d'ici...\"",
             "\\.\"Mais c'qu'j'pass'un bougre moment et j'trouve\n vraim'rien d'que dalle.\"",
             "\\.\"Ah... Ah oui...?\"",
             "\\.\"... J'veux dire qu'j'ai rien trouvé.\"",
@@ -34075,7 +34075,7 @@
             "\\.\"L'ordi d'Kai... C'à peu près tout c'que j'ai...\"",
             "\\.\"...\n ...\n ...\"",
             "\\.\"Ç'serait chouette d'pouvoir convaincre Sou\n d'partager, mais...\n Y sort pas d'sa chambre.\"",
-            "\\.\"Et Kanna est avec lui, en plus...\n J'espère il l'utilise pas à d'mauvaises fins.\"",
+            "\\.\"Et Kanna est avec lui, en plus...\n J'espère qu'y s'sert pas d'elle à d'mauvaises fins.\"",
             "\\.\\C[4](...)"
         ],
         "23-1-message": [
