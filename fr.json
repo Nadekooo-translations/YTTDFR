@@ -26377,7 +26377,9 @@
             "\\.\\C[3]Plus nous avançons, plus la pente devient raide.",
             "\\.\"Fais gaffe à pas glisser.\"",
             "\\.\"O-Ouais.\"",
-            "\\.\\C[4](Gin... Jusqu'où tu es allé...?)"
+            "\\.\\C[4](Gin... Jusqu'où tu es allé...?)",
+            "\\.\"Hm...? C'est un cul-de-sac.\"",
+            "\\.\"Ah...! Keiji, c'est pas...\""
         ]
     },
     "map128": {
