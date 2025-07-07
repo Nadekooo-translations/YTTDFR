@@ -26382,7 +26382,8 @@
             "\\.\"Ah... ! Keiji, ce ne serait pas...\"",
             "\\.\\C[3]Il y a un trou dans le sol\nqui ressemble à un vide-ordures.",
             "\\.\\C[4](Gin doit être passé par là !)",
-            "\\.\"Allez, on s'y glisse.\""
+            "\\.\"Allez, on s'y glisse.\"",
+            "\\.\\C[4](Qu'est-ce que c'est que cette pièce...?)"
         ]
     },
     "map128": {
