@@ -34065,7 +34065,8 @@
             "\\.\"Je suis sûre que Sou peut trouver un moyen\n de tous nous sortir d'ici...!\"",
             "\\.\"Alors...\"",
             "\\.\"... Peu importe la carte de rôle que tu as...\n Ça n'a pas d'importance, Sara.\"",
-            "\\.\"Hein... ?\""
+            "\\.\"Hein... ?\"",
+            "\\.\\C[4](Kanna...?)"
         ],
         "2-1-message": [
             "\\C[3]Q-taro est assis en silence.",
