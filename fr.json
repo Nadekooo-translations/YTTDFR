@@ -34041,9 +34041,9 @@
             "\\.\"... Argh...\""
         ],
         "4-1-message": [
-            null,
-            null,
-            null,
+            "\\C[3]Kanna discute calmement.",
+            "\"Kanna... doit trouver\nquelque chose à faire aussi...!",
+            "\"Oui... Sou en a beaucoup fait pour nous aider à nous échapper...\"",
             null,
             null,
             null,
@@ -34121,7 +34121,9 @@
             "Sniff sniff..."
         ],
         "3-4-message": [
-            "Sniff sniff..."
+            "Sniff sniff...",
+            "\\.\"Ca sent la prison, miaou !\"",
+            "\\.\\C[4](Je me demande quel genre d'odeur c'est...)"
         ],
         "2-1-choice": [
             "Qu'est-ce que tu fais ?\nLui faire peur par derrière"
@@ -34132,6 +34134,9 @@
         ],
         "3-1-choice": [
             "Lui parler\nIgnorer"
+        ],
+        "3-3-choice": [
+            "Lui parler\nL'ignorer"
         ]
     },
     "map220": {
