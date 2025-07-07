@@ -34016,11 +34016,11 @@
             "\\.\"Mais c'est pas près d'arriver.\n Faut que j'trouve autre chose...\""
         ],
         "3-3-message": [
-            null,
-            null,
-            null,
+            "\\C[3]Alice écoute Kanna calmement.",
+            "\\C[3]À chaque fois que Kanna a l'air mal à l'aise,\nAlice abaisse légèrement sa tête.",
+            "\\.\\C[4](Il l'écoute de manière attentionnée...)",
             "\\.\"...\n ...\n ...\"",
-            null,
+            "\\.\\C[4](Il a des yeux effrayants... Et pourtant, il discute avec Kanna...)",
             null,
             null,
             null,
