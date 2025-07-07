@@ -26305,8 +26305,8 @@
     },
     "map127": {
         "1-1-message": [
-            null,
-            null,
+            "\\.\"Sara, cache-toi...!\"",
+            "\\.\"Hein...?!\"",
             null,
             null,
             "\"...\n ...\n ...\"",
@@ -34121,7 +34121,8 @@
         "4-2-message": [
             "Sniff sniff...",
             "\\.\"Ouaaah !! Nooon !!\"",
-            "\\.\"Miaouuu ?! Ca fait mal, ouaf !!\""
+            "\\.\"Miaouuu ?! Ca fait mal, ouaf !!\"",
+            "\\.\"Hein ?! J-Je suis désolée...\""
         ],
         "3-4-message": [
             "Sniff sniff...",
