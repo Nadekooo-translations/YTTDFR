@@ -34061,7 +34061,7 @@
             "\\.\"Tout à l'heure... \n Je suis allée rendre l'ordinateur à Sou...\"",
             "\\.\"Et il avait l'air d'avoir bien avancé\n sur un plan pour s'échapper... !\"",
             "\\.\" Ce... C'est vrai ?!\"",
-            "\\.\\C[4](Est-ce que ce qu'il avait dit l'autre fois était vrai...?)",
+            "\\.\\C[4](Est-ce que ce qu'il avait\n dit l'autre fois était vrai... ?)",
             null,
             null,
             null,
