@@ -27675,10 +27675,10 @@
     },
     "map163": {
         "3-1-message": [
-            null,
-            null,
+            "\\C[3]De nombreuses poupées se trouvent sur la droite,\ndont celles a l'effigie de Gin et d'Alice.",
+            "\"C'est comme si je regardais dans un miroir, ouaf...\"",
             "\\.\"...\"",
-            null,
+            "\\.\"Hé, ça vient tout juste de bouger un peu.\"",
             null,
             null,
             null,
@@ -27745,6 +27745,32 @@
         ],
         "119-1-message": [
             "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
+        ],
+        "1-1-message": [
+            "\\.\\C[4](Mais qu'est-ce que...?!)",
+            "\"Miaoooouuu ?! Flippant, ouaf !!\"",
+            "\\.\"Oufff...\"",
+            "\\.\"Ne me dites pas que ce n'est que...\"",
+            "\\.\"Des poupées... ?\"",
+            "\\.\"Y en a même une qui me ressemble, ouaf !\"",
+            "\\.\"Des humains... ?\"",
+            "\\.\"Euuuh ?! Non... Ce n'est pas possible !!\"",
+            "\\.\"C'est que des poupées, ouaf... Étrange, miaou...\""
+        ],
+        "1-1-choice": [
+            "Des poupées ?\nDes humains ?"
+        ],
+        "2-1-message": [
+            "\\C[3]De nombreuses poupées se tiennent au centre,\ndont certaines à l'effigie de Keiji et de Kanna,\nainsi qu'à la mienne.",
+            "\"Ouah... J'ai comme l'impression\n qu'elles vont venir me parler, miaou...\"",
+            "\\.\\C[4](Hmm... Je pense qu'elles vont rester immobiles.)",
+            "\\.\"Il y a même des poupées de gens\n que nous ne connaissons pas...\"",
+            "\\.\\C[4](Sans doute ceux qui ont déjà été éliminés...)",
+            "\"Grande sœur Sara, même ta poupée est jolie, ouaf !\"",
+            "\\.\"... Haha. Merci, Gin.\""
+        ],
+        "2-2-message": [
+            "\\C[3]De nombreuses poupées se trouvent au centre,\ny compris des copies de moi, Keiji et Kanna."
         ]
     },
     "map165": {
