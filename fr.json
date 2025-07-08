@@ -27679,51 +27679,61 @@
             "\"C'est comme si je regardais dans un miroir, ouaf...\"",
             "\\.\"...\"",
             "\\.\"Hé, ça vient tout juste de bouger un peu.\"",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\.\"Mi-miaoouuuuuh ?!\"",
+            "\\.\"C'était juste mon imagination.\"",
+            "\\.\"Grande sœur Sara !! T'es méchante avec moi, ouaf !!\"",
+            "\\.\"Quel accoutrement bizarre.\"",
+            "\\.\"C'est pas sympa pour moi, grande sœur Sara ! Miaou !\"",
+            "\\.\"Je rigolais, Gin.\"",
             "\\.\"...\"",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\"...\""
+            "\\.\"... Je me sens un peu mieux, ouaf.\"",
+            "\\.\\C[4](Gin...)",
+            "\\.\"Oh, comme c'est chou.\"",
+            "\\.\"Mioooou...\n Tu peux pas dire ça d'un garçon, grande sœur Sara !\"",
+            "\\.\"Pardon. Je voulais dire \"cool.\"\"",
+            "\\.\"Ouais ! T'inquiète, ouaf !\"",
+            "\\.\\C[4](Haha...)",
+            "\"Faire une poupée de moi sans ma permission,\n c'est un crime contre mon image, miaou !\"",
+            "\\.\"...\"",
+            "\\.\"Toute façon, c'est pas comme s'ils\n respectaient nos droits, ouaf...\""
         ],
         "4-1-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\"Grande sœur Sara...\""
+            "\\C[3]De nombreuses poupées se trouvent sur la droite,\ndont celles a l'effigie de Sou, Q-taro, et de M. Mishima.",
+            "\"Y a même une poupée du ténébreux, miaou.\n Ça me donne vraiment la chair de poule, ouaf.\"",
+            "\\.\"Sou, hein...\"",
+            "\\.\\C[4](Cet homme sur la photo de l'ordinateur...)",
+            "\\.\\C[4](Il portait la même écharpe que Sou.)",
+            "\\.\\C[4](Quel lien peut-il bien les unir... ?)",
+            "\\.\\C[4](Cet homme sur la photo de l'ordinateur...)",
+            "\\.\\C[4](Alice l'a appelé Sou Hiyori.)",
+            "\\.\\C[4](Quel lien peut bien unir les deux Sou... ?)",
+            "\\.\"Grande sœur Sara, t'en penses\n quoi du ténébreux, ouaf ?\"",
+            "\\.\"Hein... ?\"",
+            "\\.\"... C'est un ennemi.\"",
+            "\\.\"Mia- ?!\"",
+            "\\.\"Je n'en suis pas certaine... Mais je sens\n que Sou me voit comme quelqu'un d'hostile.\"",
+            "\\.\"Miaou...\"",
+            "\\.\"... C'est un allié.\"",
+            "\\.\"Grande sœur Sara... T'es gentille, miaou.\"",
+            "\\.\"Sou m'a fait souffrir, encore et encore...\"",
+            "\\.\"Mais avant toute chose, j'ai envie de croire en lui.\"",
+            "\\.\"Miaou...\"",
+            "\\.\"... Je ne sais pas.\"",
+            "\\.\"Qu'est-ce que veut Sou, qu'est-ce qu'il pense...\"",
+            "\\.\"Je sens qu'il y a quelque chose enfoui\n profondément en lui qui m'échappe encore.\"",
+            "\\.\"Miaou...\"",
+            "\\.\"... Je le déteste.\"",
+            "\\.\"Je hais les mensonges qu'il raconte, et sa manière\n de se servir des autres pour arriver à ses fins.\"",
+            "\\.\"Grande sœur Sara...\"",
+            "\\.\"Mais son désir de s'échapper tous ensemble...\n Ce n'est pas un mensonge.\"",
+            "\\.\"Je parie que si on peut s'enfuir d'ici,\n je finirai sûrement par connaître le vrai Sou.\"",
+            "\\.\"Miaou...\"",
+            "\"Gribouillons sur la poupée du ténébreux, miaou !\"",
+            "\\.\"Gin...\"",
+            "\\.\"Lara découvrirait le pot aux roses. N'y touchons pas.\"",
+            "\\.\"Miaou ! Tu l'as échappé belle, le ténébreux !\"",
+            "\\.\"Je comprends ce que tu ressens, \n mais on n'a pas de stylo.\"",
+            "\\.\"Quel dommage, miaou... !\""
         ],
         "112-1-message": [
             "\\C[3]Vidéo d'une Victime\nLa vidéo d'une victime que Nao avait achetée.\nMontre la mort d'une policière lors de la P. Épreuve.\nL'homme au premier plan... Serait-ce Keiji ?"
@@ -27761,7 +27771,7 @@
             "Des poupées ?\nDes humains ?"
         ],
         "2-1-message": [
-            "\\C[3]De nombreuses poupées se tiennent au centre,\ndont certaines à l'effigie de Keiji et de Kanna,\nainsi qu'à la mienne.",
+            "\\C[3]De nombreuses poupées se trouvent au centre,\ny compris des copies de moi, Keiji et Kanna.",
             "\"Ouah... J'ai comme l'impression\n qu'elles vont venir me parler, miaou...\"",
             "\\.\\C[4](Hmm... Je pense qu'elles vont rester immobiles.)",
             "\\.\"Il y a même des poupées de gens\n que nous ne connaissons pas...\"",
@@ -27771,6 +27781,28 @@
         ],
         "2-2-message": [
             "\\C[3]De nombreuses poupées se trouvent au centre,\ny compris des copies de moi, Keiji et Kanna."
+        ],
+        "3-1-choice": [
+            "Ça vient de bouger un peu\nBizarre comme accoutrement\nComme c'est chou"
+        ],
+        "3-2-message": [
+            "\\C[3]De nombreuses poupées se trouvent sur la droite,\ndont celles a l'effigie de Gin et d'Alice."
+        ],
+        "4-1-choice": [
+            "C'est un allié\nC'est un ennemi\nJe ne sais pas\nJe le déteste",
+            "On se ferait attraper\nOn n'a pas de stylo"
+        ],
+        "4-2-message": [
+            "\\C[3]De nombreuses poupées se trouvent sur la droite,\ndont celles a l'effigie de Sou, Q-taro, et de M. Mishima."
+        ],
+        "5-1-message": [
+            "\"Je sens aussi une odeur qui vient du fond, miaou !\"",
+            "\\.\\C[4](Ça continue... ?!)",
+            "\\.\\C[4](Quand nous aurons fini de chercher ici, \n j'imagine qu'on ira là-bas...)"
+        ],
+        "5-2-message": [
+            "\"L'odeur est plus forte là-bas, miaou\".",
+            "\\.\\C[4](Il a vraiment le même flair qu'un chien...)"
         ]
     },
     "map165": {
