@@ -28096,14 +28096,17 @@
             "\\.\\C[4](Un gaz... blanc ?)",
             "\\.\\C[4](Mais oui, la pièce ayant été remplie de gaz\n est reliée à celle-ci par la ventilation...!)",
             "\\.\"C'est là que la version humaine de Rillante\n a pris le relais.\"",
-            "\\.\\C[4](Voilà ce qui s'est vraiment passé...!)",
+            "\\.\\C[4](Voilà ce qu'il s'est réellement passé...!)",
             "\\.\\C[4](La vraie Rillante est donc différente\n de cette poupée...!)",
-            "\\.\"Si tu remontes tes souvenirs,\n tu devrais t'en rendre compte.\"",
-            "\\.\"\\C[2]Les poupées ne saignent pas\\C[0]...\n Ranger, la poupée, a démontré\n ce fait avec son corps.\"",
+            "\\.\"Si tu remontes dans tes souvenirs,\n tu devrais arriver à la même conclusion.\"",
+            "\\.\"\\C[2]Les poupées ne saignent pas\\C[0]...\n Ray, qui en est une, a démontré ce fait\n avec son corps.\"",
             "\\.\"Et...\"",
             "\\.\"Rillante \\C[2]a saigné\\C[0] quand Kai l'a attaquée...\"",
-            null,
-            "\\.\"...\""
+            "\\.\"Le mystère commence à s'éclaircir, non ?\"",
+            "\\.\"...\"",
+            "\\.\"Je suis sûr que cette pièce nous cache\n d'autres vérités alléchantes.\"",
+            "\\.\"Continuer de regarder aux alentours.\"",
+            "\\.\\C[4](Je me demande si Rillante est toujours\n à cet étage...)"
         ],
         "2-1-message": [
             null,
@@ -28168,7 +28171,7 @@
             "\\.\"...\""
         ],
         "2-2-message": [
-            null,
+            "\\C[3]L'écran de l'ordinateur projette de la lumière.",
             null,
             null,
             null,
@@ -28207,7 +28210,7 @@
             "\\.\"...\""
         ],
         "2-3-message": [
-            null,
+            "\\C[3]L'écran de l'ordinateur projette de la lumière.",
             null,
             null,
             null,
@@ -28286,6 +28289,9 @@
         ],
         "37-1-message": [
             "\\C[3]Tablette\n\nUne tablette pour consulter le rôle de sa carte.\nÉtait dans la Salle Effondrée à côté de Q-taro, évanoui."
+        ],
+        "1-1-choice": [
+            "Rillante est hors service ?\nElle n'a plus de batterie ?\nCe n'est pas la vraie Rillante ?"
         ]
     },
     "map169": {
