@@ -28,9 +28,17 @@ const { Content } = await render(post);
 </Layout>
 
 <style lang="scss">
+	@import "../../styles/_colors.scss";
+
 	article {
 		align-self: center;
 		margin-top: 3em;
 		width: 75ch;
+
+		@media (max-width: $medium) {
+			font-size: 11pt;
+			width: 100%;
+			padding: 0 1ch;
+		}
 	}
 </style>
