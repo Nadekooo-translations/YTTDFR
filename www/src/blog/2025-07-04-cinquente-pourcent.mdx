@@ -1,11 +1,10 @@
 ---
 title: 'La traduction a atteint 50%'
-description: 'La traduction a atteint 50%'
+description: 'La traduction a atteint 50%, où en est le projet et quelle est la suite ?'
 date: '2025-07-04T11:35:35.584Z'
-brief: 'La traduction a atteint 50% de progression !'
+brief: 'La traduction a atteint 50%, où en est le projet et quelle est la suite ?'
 ---
-
-export const avatarBase = import.meta.env.WEBLATE_AVATAR_BASE_URL;
+import UserList from "../components/UserList.astro";
 export const contributors = [
     {
         "username": "nad",
@@ -80,10 +79,6 @@ export const contributors = [
         "full_name": "MaLeK"
     },
     {
-        "username": "testuser",
-        "full_name": "Test User"
-    },
-    {
         "username": "sykoo_",
         "full_name": "sykoo_"
     }
@@ -91,18 +86,22 @@ export const contributors = [
 
 <p>
     Ce projet de traduction a commencé en 2022, maintenant, nous avons atteint 50%, soit <em>44 889 répliques
-    traduites</em>,
-    ce qui équivaut a <em>41 traductions par jour</em>.
+    traduites</em>, ce qui équivaut à <em>41 traductions par jour</em> !
 </p>
 <p>
-    Cette progression n'aurait pas été possible sans l'aide des <em>22 contributeurs</em>&nbsp;:
+    En ce moment, nous sommes encore en train de traduire le Chapitre 2, Partie 2, un des points culminants de l'histoire !<br />
+    Nous prenoms le temps d'assurer la meilleure qualité du projet, c'est pour ça qu'a la fin de chaque chapitre nous prenons une pause.
+</p>
+<p>
+    Nous cherchons également de l'aide pour relire les premières parties du jeu, toute aide est fortement appréciée !
+</p>
+<p>
+    Cette progression n'aurait pas été possible sans l'aide des <em>{contributors.length} contributeurs</em>&nbsp;:
 </p>
 
-// TODO move into astro component
-<div>
-    {
-        contributors.map(({username, full_name}) =>
-            <div><img src={avatarBase + username + ".png"} alt=""/> {full_name}</div>
-        )
-    }
-</div>
+<UserList users={contributors} />
+
+<p>
+    La contribution reste ouvert à toutes et tous, si vous aussi voulais aider la communauté français, vous pouvez <a href="/contribuer/">participer librement</a> !<br />
+    Même s'il est préférable de traduire dans l'ordre scénaristique, toutes suggestions sont acceptés peu importe le niveau de progression de l'histoire.
+</p>

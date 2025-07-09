@@ -16,7 +16,11 @@ const { post } = Astro.props;
 const { Content } = await render(post);
 ---
 
-<Layout title={post.data.title} description={post.data.description} activeNav={"/blog/"}>
+<Layout
+	title={post.data.title}
+	description={post.data.description}
+	activeNav={"/blog/"}
+>
 	<article>
 		<h1>{post.data.title}</h1>
 		<Content />
@@ -25,8 +29,8 @@ const { Content } = await render(post);
 
 <style lang="scss">
 	article {
-	  align-self: center;
-	  margin-top: 3em;
-	  width: 75ch;
+		align-self: center;
+		margin-top: 3em;
+		width: 75ch;
 	}
 </style>
