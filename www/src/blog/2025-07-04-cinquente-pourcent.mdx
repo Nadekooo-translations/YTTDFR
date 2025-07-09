@@ -1,8 +1,108 @@
 ---
-title: '50% !!!!!'
+title: 'La traduction a atteint 50%'
 description: 'La traduction a atteint 50%'
 date: '2025-07-04T11:35:35.584Z'
 brief: 'La traduction a atteint 50% de progression !'
 ---
 
-<p>Ce projet de traduction a commencé en 2022</p>
+export const avatarBase = import.meta.env.WEBLATE_AVATAR_BASE_URL;
+export const contributors = [
+    {
+        "username": "nad",
+        "full_name": "nadeko"
+    },
+    {
+        "username": "vinceh121",
+        "full_name": "vinceh121"
+    },
+    {
+        "username": "sol",
+        "full_name": "sol"
+    },
+    {
+        "username": "BS",
+        "full_name": "Bowser skelet"
+    },
+    {
+        "username": "hatu",
+        "full_name": "hatu"
+    },
+    {
+        "username": "plummes",
+        "full_name": "plummes"
+    },
+    {
+        "username": "Yuri_Oshibedo",
+        "full_name": "Toshiko no Momo"
+    },
+    {
+        "username": "ylovoir",
+        "full_name": "ylovoir"
+    },
+    {
+        "username": "adalynmoon",
+        "full_name": "adalynmoon"
+    },
+    {
+        "username": "maelgangloff",
+        "full_name": "Maël Gangloff"
+    },
+    {
+        "username": "st4rrysky_",
+        "full_name": "Sky"
+    },
+    {
+        "username": "LucasLTQ",
+        "full_name": "LucasLTQ"
+    },
+    {
+        "username": "plumepox",
+        "full_name": "plumepox"
+    },
+    {
+        "username": "Im_a_froggy_chair",
+        "full_name": "Im_a_froggy_chair"
+    },
+    {
+        "username": "aiidenaya",
+        "full_name": "aiidenaya"
+    },
+    {
+        "username": "PowderBlue",
+        "full_name": "erell milin"
+    },
+    {
+        "username": "chocoleemon",
+        "full_name": "chocoleemon"
+    },
+    {
+        "username": "LeKaM",
+        "full_name": "MaLeK"
+    },
+    {
+        "username": "testuser",
+        "full_name": "Test User"
+    },
+    {
+        "username": "sykoo_",
+        "full_name": "sykoo_"
+    }
+].sort((o1, o2) => o1.full_name.localeCompare(o2.full_name));
+
+<p>
+    Ce projet de traduction a commencé en 2022, maintenant, nous avons atteint 50%, soit <em>44 889 répliques
+    traduites</em>,
+    ce qui équivaut a <em>41 traductions par jour</em>.
+</p>
+<p>
+    Cette progression n'aurait pas été possible sans l'aide des <em>22 contributeurs</em>&nbsp;:
+</p>
+
+// TODO move into astro component
+<div>
+    {
+        contributors.map(({username, full_name}) =>
+            <div><img src={avatarBase + username + ".png"} alt=""/> {full_name}</div>
+        )
+    }
+</div>
