@@ -28109,16 +28109,16 @@
             "\\.\\C[4](Je me demande si Rillante est toujours\n à cet étage...)"
         ],
         "2-1-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\C[3]Un écran d'ordinateur lumineux.",
+            "\\C[4](Qu'est-ce que...?\n Il y a une vidéo en cours de lecture...)",
+            "\\.\"Hé ! À l'aide !! Pitié !!\"",
+            "\\.\\C[4](C'est...!)",
+            "\\.\"Je ne savais pas !! Je ne savais rien !!\"",
+            "\\.\"Vous m'entendez, non ?!\n À l'aaaaaaide...!!\"",
+            "\\.\"Hé, qu'est-ce qu'il se passe ?!\n Est-ce que tu nous entends ?\"",
+            "\\.\"Allez ! Répondez-moi !!\n Je ne dirais rien à personne...!! Promis!!\"",
+            "\\.\"...?\"",
+            "\\.\"C'est un enregistrement vidéo...?\"",
             null,
             null,
             null,
@@ -28292,6 +28292,9 @@
         ],
         "1-1-choice": [
             "Rillante est hors service ?\nElle n'a plus de batterie ?\nCe n'est pas la vraie Rillante ?"
+        ],
+        "1-2-message": [
+            "\\.\\C[3]La poupée de Rillante est assise."
         ]
     },
     "map169": {
