@@ -19846,10 +19846,10 @@
             "\\.\"Ne me refais plus peur comme ça...!\"",
             "\\.\"T-Tu es tout ce qu'il me reste, Sou...\"",
             "\\.\"S'il te plaît...\n Ne t'écroule pas comme ça d'un coup...\"",
-            "\\.\"…\n …\n …\"",
+            "\\.\"...\n ...\n ...\"",
             "\\.\"... C'est vrai.\"",
             "\\.\"C'est la deuxième fois que tu trahis Sara.\n Tu n'as nulle part où aller.\"",
-            "\\.\"…\n …\n …\"",
+            "\\.\"...\n ...\n ...\"",
             "\\.\"... Pardon.\"",
             "\\.\"Allons, du calme.\n Si tu m'obéis, je te dirai comment faire\n pour survivre.\"",
             "\\.\"...\n ...\n ...\"",
@@ -21592,11 +21592,11 @@
             "\\.\"...\"",
             "\\.\\C[4](Quelle était cette sensation...?)",
             "\\.\"Hm ?\"",
-            "\\.\"Toi aussi t'as vu un truc, Sara ?\"",
+            "\\.\"Toi aussi t'as remarqué un truc, Sara ?\"",
             "\\.\"Hein...?!\"",
             "\\.\"Bahaha... T'avais le même regard que moi.\"",
             "\\.\"Le regard rusé d'un détective qui néglige jamais\n les déboires du cœur...\"",
-            "\\.\"T'as senti que quelque chose clochait avec Nao.\n C'est sûrement parce que tu commences à la connaître\n après avoir passé plusieurs jours avec elle...\"",
+            "\\.\"T'as senti que quelque chose clochait chez Nao.\n C'est sûrement parce que tu commences à la connaître\n après avoir passé plusieurs jours avec elle...\"",
             "\\.\"Tu veux dire que Nao cache quelque chose ?!\"",
             "\\.\"J'sais pas.\n Malheureusement, on a pas trop le temps de\n s'en assurer là de suite.\"",
             "\\.\"Occupons-nous de ce qu'on a à faire.\n Y a toujours vraiment qu'une seule option.\"",
@@ -26324,7 +26324,7 @@
             "\\.\"Sara, cache-toi...!\"",
             "\\.\"Hein...?!\"",
             "\\.\"... On est pas seuls, on dirait.\"",
-            "\\.\\C[3]J'entends quelqu'un fouiller quelque chose depuis\nla salle plongée dans l'obscurité.",
+            "\\.\\C[3]J'entends quelqu'un fouiller quelque chose dans\nla salle plongée dans l'obscurité.",
             "\"...\n ...\n ...\"",
             "\\.\\C[4](C'est... Gin ?!)",
             "\\C[3]Mais au moment où je m'apprêtais à l'appeler...",
@@ -26378,7 +26378,7 @@
             "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
         ],
         "1-1-choice": [
-            "Appeler Gin\nRegarder ce qu'il se passe\nLaisser Keiji décider",
+            "Appeler Gin\nObserver\nLaisser Keiji décider",
             "Arrêtons Gin !\nSuivons-le sans nous faire remarquer"
         ],
         "3-1-message": [
@@ -26393,7 +26393,7 @@
             "\\.\\C[3]Plus nous avançons, plus la pente devient raide.",
             "\\.\"Fais gaffe à pas glisser.\"",
             "\\.\"O-Ouais.\"",
-            "\\.\\C[4](Gin… Jusqu’où es-tu allé... ? )",
+            "\\.\\C[4](Gin... Jusqu’où es-tu allé...?)",
             "\\.\"Hmm...? C'est un cul-de-sac.\"",
             "\\.\"Ah...! Keiji, ce ne serait pas...?\"",
             "\\.\\C[3]Par terre, il y a un trou ressemblant à\nun vide-ordures.",
@@ -35994,6 +35994,12 @@
         ],
         "56-1-message": [
             "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
+        ],
+        "19-1-message": [
+            "\\C[3]De sinistres animaux en peluche."
+        ],
+        "30-1-message": [
+            "\\C[3]Les étagères sont vides."
         ]
     },
     "map177": {
@@ -36153,6 +36159,12 @@
         "1-1-message": [
             null,
             "\\.\\C[3]Obtenu Disque d'une Victime F."
+        ],
+        "10-1-message": [
+            "\\C[3]Des étagères avec des livres."
+        ],
+        "16-1-message": [
+            "\\C[3]Une lampe éclaire la surface du bureau."
         ]
     },
     "map126": {
