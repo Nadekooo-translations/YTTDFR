@@ -1,0 +1,44 @@
+---
+import type { GetStaticPaths } from "astro";
+import { getCollection, render } from "astro:content";
+import Layout from "../../layouts/Layout.astro";
+
+export const getStaticPaths = (async () => {
+	const posts = await getCollection("blog");
+
+	return posts.map((post) => ({
+		params: { id: post.id },
+		props: { post },
+	}));
+}) satisfies GetStaticPaths;
+
+const { post } = Astro.props;
+const { Content } = await render(post);
+---
+
+<Layout
+	title={post.data.title}
+	description={post.data.description}
+	activeNav={"/blog/"}
+>
+	<article>
+		<h1>{post.data.title}</h1>
+		<Content />
+	</article>
+</Layout>
+
+<style lang="scss">
+	@import "../../styles/_colors.scss";
+
+	article {
+		align-self: center;
+		margin-top: 3em;
+		width: 75ch;
+
+		@media (max-width: $medium) {
+			font-size: 11pt;
+			width: 100%;
+			padding: 0 1ch;
+		}
+	}
+</style>

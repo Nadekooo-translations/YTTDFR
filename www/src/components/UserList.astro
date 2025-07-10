@@ -1,0 +1,43 @@
+---
+const users: { username: string; full_name: string }[] = Astro.props.users;
+export const avatarBase = import.meta.env.WEBLATE_AVATAR_BASE_URL;
+---
+
+<div>
+	{
+		users.map(({ username, full_name }) => (
+			<figure>
+				<img src={avatarBase + username + ".png"} alt=""/>
+				<figcaption>{full_name}</figcaption>
+			</figure>
+		))
+	}
+</div>
+
+<style lang="scss">
+	@import "../styles/_colors.scss";
+	
+	div {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+
+		figure {
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			width: 6ch;
+
+			img {
+				border-style: double;
+				border-width: 4px;
+				background-color: $brown;
+				border-color: $gold;
+			}
+
+			figcaption {
+				text-align: center;
+			}
+		}
+	}
+</style>
