@@ -28626,7 +28626,8 @@
             "\\.\"... Et il a sûrement pas échappé à Kai.\"",
             "\\.\"Quoi...?!\"",
             "\\.\"Je sais pas s'il était au courant de base ou\n s'il l'a juste trouvé en explorant l'étage, mais...\"",
-            "\\.\"Je pense que c'est ça, l'explication finale...\n C'est comme ça que l'ordi a atterri dans\n la Salle Effondrée.\""
+            "\\.\"Je pense que c'est ça, l'explication finale...\n C'est comme ça que l'ordi a atterri dans\n la Salle Effondrée.\"",
+            "\\.\\C[4](Kai est venu au troisième étage,\n and posé l'ordinateur ici...)"
         ],
         "42-1-message": [
             "\\C[3]Cette salle est bien climatisée."
