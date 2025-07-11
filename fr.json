@@ -28414,10 +28414,84 @@
             "\\.\"... J'vois pas vraiment de traces indiquant\n que plusieurs personnes sont passées par ici.\"",
             "\"Pourrions-nous regarder les images ?\"",
             "\\.\"Ça t'a rendu curieuse, hein ?\"",
-            "\\.\"... Oui.\""
+            "\\.\"... Oui.\"",
+            "\"Je n'ai pas vu de caméras de surveillance\n lors de mes recherches jusqu'à présent...\"",
+            "\\.\"Sûrement des caméras cachées.\n ... Ils voulaient sans doute éviter\n qu'on puisse les détruire.\"",
+            "\\.\"Hmm...\"",
+            "\\.\"On peut sûrement mater les vidéos sur cet ordi.\"",
+            "\\.\\C[4](Devrions-nous les regarder...?)"
         ],
         "3-1-message": [
             "\\.\\C[3]Le tiroir du bureau est ouvert."
+        ],
+        "3-2-choice": [
+            "Jeter un coup d'œil\nAnnuler",
+            "Est-ce que quelqu'un nous surveillait d'ici ?\nJe suis curieux de voir les images\nIl y avait des caméras ?"
+        ],
+        "3-3-message": [
+            "\\.\\C[3]Le contenu du tiroir est en désordre total."
+        ],
+        "4-1-message": [
+            "\\C[3]Un genre de porte."
+        ],
+        "4-2-message": [
+            "\\C[3]La porte est verrouillée.",
+            "\\.\\C[4](Il n'y a pas de poignée...\n On ne peut sûrement pas l'ouvrir manuellement.)"
+        ],
+        "5-1-message": [
+            "\\C[3]Cela semble être une fenêtre en verre épais."
+        ],
+        "5-2-message": [
+            "\\C[3]Derrière la vitre épaisse, je peux apercevoir\nune silhouette qui semble dormir.",
+            "\\.\"Keiji ! Il y a quelqu'un...!\"",
+            "\\.\"Hmm... Aucun signe du moindre mouvement.\"",
+            "\\.\\C[4](Est-ce que cet individu ne nous remarque pas...?)",
+            "\\.\"J'imagine mal qu'il y ait un nouveau\n participant ayant survécu jusqu'ici...\"",
+            "\\.\\C[4](Si c'est un ennemi...\n On ferait mieux de ne pas se faire remarquer !)",
+            "\\.\"Bon, il semble pas y avoir de moyen\n de passer de l'autre côté, en tout cas.\"",
+            "\\.\"On s'en ira discrètement une fois\n qu'on aura fini de fouiller...\""
+        ],
+        "36-1-message": [
+            "\\C[3]Un disque intitulé \"Vidéo Surveillance du RDC\"."
+        ],
+        "40-1-message": [
+            "\\C[3]Cela ressemble à un réfrigérateur.",
+            "\\.\\C[4](Il fait trop sombre pour voir quoi que ce soit...)"
+        ],
+        "40-2-message": [
+            "\\C[3]Cela ressemble à un réfrigérateur.",
+            "\\.\\C[4](Il ne s'ouvre pas...)"
+        ],
+        "41-1-message": [
+            "\\C[3]Cela ressemble à un moniteur.",
+            "\\.\\C[4](Il fait trop sombre pour voir quoi que ce soit...)"
+        ],
+        "42-1-message": [
+            "\\C[3]Il y a des choses sur le bureau.",
+            "\\C[4](Il fait trop sombre pour voir quoi que ce soit...)"
+        ],
+        "42-2-message": [
+            "\\C[3]Les composants de machine sont éparpillés.",
+            "\\.\\C[4](Tiens... J'ai l'impression que c'est\n des matériaux semblables à nos colliers...)"
+        ],
+        "59-1-message": [
+            "\\C[3]La machine est dotée d'un certain nombre\nde petites lumières colorées.",
+            "\\C[4](Un ordinateur...?)"
+        ],
+        "59-2-message": [
+            "\\C[3]Une tour d'ordinateur.",
+            "\\.\\C[4](Mieux vaut éviter de lui mettre un coup de pied.)"
+        ],
+        "61-1-message": [
+            "\\C[3]Les lumières sont éteintes.",
+            "\\.\\C[4](Il fait sombre... Vu que je n'y jamais mis les pieds,\n ça me serait très utile que cette pièce soit éclairée.)"
+        ],
+        "61-2-message": [
+            "\\C[3]La lumière éclaire la pièce.",
+            "\\.\\C[4](Pourquoi les lumières se sont soudainement allumées...?)"
+        ],
+        "41-2-message": [
+            "\\C[3]Le moniteur n'est pas alimenté."
         ]
     },
     "map169": {
@@ -32125,21 +32199,21 @@
             "\\.\"Mais bon... J'ai pas trouvé\n de sortie ou de truc du genre...\"",
             "\\.\"Par contre, j'ai trouvé un smartphone\n dans les escaliers, miaou.\"",
             "\\.\"... Hein ?\"",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\C[4](Il n'y avait rien de tel quand nous sommes arrivés...)",
+            "\\.\"Qu'est-ce qu'il y a exactement dessus...?\"",
+            "\"Miaouuu ?! Ce son !!\"",
+            "\\.\"Un échange de cartes ?!\"",
+            "\\.\\C[4](M-Minute ! J'ai le \\C[10]Sacrifice\\C[4], non ?)",
+            "\\C[4](Que peut bien signifier cet échange...?!)",
+            "\\.\\C[4](Hein ?!)",
+            "\\C[4](Quoi...?)",
+            "\\.\\C[4](Que... s'est-il passé ?)",
+            "\\.\\C[4](Pourquoi mon \\C[10]Sacrifice\\C[4]...\n est-il devenu un \\C[5]Roturier\\C[4]...?)",
+            "\"Grande sœur Sara...?\"",
+            "\"Ah, euh, Gin... Qu'est-ce qu'il y a ?\"",
+            "\\.\"... Ton sourire faisait trop peur, miaou...\"",
+            "\\.\"D-Désolée. Ce n'est rien.\"",
+            "\\.\"Plus important, Gin,\n concernant le téléphone que tu as trouvé...\"",
             null,
             "\\.\"...\n ...\n ...\"",
             null,
