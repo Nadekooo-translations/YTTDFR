@@ -28627,8 +28627,10 @@
             "\\.\"Quoi...?!\"",
             "\\.\"Je sais pas s'il était au courant de base ou\n s'il l'a juste trouvé en explorant l'étage, mais...\"",
             "\\.\"Je pense que c'est ça, l'explication finale...\n C'est comme ça que l'ordi a atterri dans\n la Salle Effondrée.\"",
-            "\\.\\C[4](Kai est venu au troisième étage,\n and posé l'ordinateur ici...)",
-            "\\.\\C[4](Il a raison, c'est possible...)"
+            "\\.\\C[4](Kai est venu au troisième étage et a placé\n l'ordinateur ici...)",
+            "\\.\\C[4](Il a raison, c'est possible...)",
+            "\\.\"Bahaha... Perso, j'en suis convaincu.\"",
+            "\\.\"... Bon, allez. Partons chercher Gin.\""
         ],
         "42-1-message": [
             "\\C[3]Cette salle est bien climatisée."
@@ -28660,18 +28662,27 @@
         ],
         "4-1-choice": [
             "Je me demande si Kai...\nJe me demande si Nao...\nJe me demande si Rillante...?"
+        ],
+        "6-1-message": [
+            "\\.\\C[3]Des étagères où ranger des ustensiles de cuisine."
+        ],
+        "34-1-message": [
+            "\\C[3]Ça a l'air d'être un réfrigérateur."
         ]
     },
     "map148": {
         "2-1-message": [
-            "\\.\"...\""
+            "\\.\"...\"",
+            "\\.\"Y a un problème, Sara ?\"",
+            "\\.\"Non, ce n'est rien.\"",
+            "\\.\\C[4](Ça va... Je...)"
         ],
         "33-2-message": [
-            null,
+            "\\C[3]Il semblerait que ce soit un tableau à craie.\nIl y a une liste de nom écrite dessus.",
             "\\.\\C[3][Peuvent boire]\nAlice, Kai, Kazumi, Keiji, Shunsuke,\nSou, Naomichi, Mai, Megumi, Reko, Q-taro",
             "\\.\\C[3][Ne peuvent pas boire]\nAnzu, Kanna, Gin, Kugie, Sara, Joe,\nNao, Hinako, Ranmaru",
-            null,
-            null,
+            "\\.\"Se pourrait-il que ce soit les noms de tous les\n participants de la Démocratie Mortelle ?\"",
+            "\\.\"Hm...\n Maintenant que j'y pense, ça pourrait être\n pas mal important, comme info.\"",
             "\\.\"J'vais p'têt vouloir m'en souvenir.\""
         ],
         "26-1-message": [
@@ -28694,6 +28705,11 @@
         ],
         "31-1-message": [
             "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
+        ],
+        "33-1-message": [
+            "\\C[3]Il semblerait que ce soit un tableau à craie.\nIl y a quelque chose d'écrit dessus.",
+            "\\.\\C[4](Rien à faire...\n Il fait trop sombre, je ne vois rien.)",
+            "\"Je peux peut-être te filer un coup de main pour ça...\""
         ]
     },
     "map151": {
