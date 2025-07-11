@@ -28297,7 +28297,7 @@
         ],
         "2-3-message": [
             "\\C[3]L'écran de l'ordinateur projette de la lumière.",
-            "\\.\\C[4](Il y a un autre \\C[2]disque\\C[4] que j'ai trouvé en explorant...)",
+            "\\.\\C[4](J'ai trouvé un autre \\C[2]disque\\C[4] en explorant, aussi...)",
             "\\C[4](Lequel devrais-je regarder ?)",
             "\"Je vais regarder le Disque d'une Victime E.\"",
             "\\.\\C[3]L'ordinateur commence à charger la vidéo.",
