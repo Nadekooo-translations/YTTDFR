@@ -34169,7 +34169,7 @@
             "\\.\\sp[15]\"Gorille musclé...?\"",
             "\\.\\C[4](...\n ...\n ...)",
             "\\.\"Tout va bien... Il respire !\"",
-            "\\.\"Mais il est inconscient ! Pourquoi est-ce que...?!\""
+            "\\.\"Mais il est inconscient !\n Alors pourquoi il...!\""
         ],
         "20-1-message": [
             "\\C[3]Disque d'une Victime E\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
@@ -34194,6 +34194,15 @@
         ],
         "1-5-message": [
             "Sniff sniff..."
+        ],
+        "1-2-message": [
+            "\\.\\C[3]Q-taro est allongé dans le fauteuil, inconscient."
+        ],
+        "1-3-message": [
+            "\\.\\C[3]Q-taro est allongé dans le fauteuil, inconscient."
+        ],
+        "1-4-message": [
+            "\\.\\C[3]Q-taro est allongé dans le fauteuil, inconscient."
         ]
     },
     "map175": {
