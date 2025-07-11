@@ -28599,7 +28599,7 @@
             "\\.\"Si je ne m'abuse...\"",
             "\\.\"Nous nous trouvons dans la \\C[2]cuisine\\C[0]\n du rez-de-chaussée.\"",
             "\\.\"C'est ici que Nao s'était cachée avec la tête\n de Monsieur Mishima...\"",
-            "\\.\\C[4](Il fait totalement noir...\n C'est donc ça, ce que Nao a vécu...?)",
+            "\\.\\C[4](Il fait totalement noir...\n C'est donc ça, ce que Nao a vécu...?\n Assise, dans la pénombre...)",
             "\\.\\C[4](Toute seule...\n Parlant à la tête de Monsieur Mishima...)",
             "\\.\"Nao avait perdu tout espoir...\"",
             "\\.\"Et Kai a profité de sa désolation.\"",
@@ -28610,7 +28610,23 @@
             "\\.\"...\n ...\n ...\"",
             "\\.\"Non, rien, oublie.\"",
             "\\.\"...\"",
-            "\\.\\C[4](Une seconde...\n Est-ce que personne n'a remarqué ce passage secret ?)"
+            "\\.\\C[4](Une seconde...\n Personne n'a remarqué ce passage secret ?)",
+            "\\.\"Je me demande si Kai l'avait trouvé...\"",
+            "\\.\"Ouais, c'est ce que je me dis aussi.\"",
+            "\\.\"Quoi...?!\"",
+            "\\.\"Je me demande si Nao l'avait remarqué...\"",
+            "\\.\"Hmm...\n Elle aurait largement eu le temps pour\n le trouver, mais...\"",
+            "\\.\"Tu penses vraiment qu'avec la panique dans laquelle\n elle était, elle en aurait été capable ?\"",
+            "\\.\\C[4](C'est vrai...)",
+            "\\.\"Mais Kai, par contre...\n Il l'a peut-être remarqué.\"",
+            "\\.\"Quoi...?!\"",
+            "\\.\"Je me demande si Rillante était au courant\n de son existence ?\"",
+            "\\.\"... Y a large moyen.\"",
+            "\\.\"Elle a dit qu'elle était Maître d'Étage.\n Je serais pas surpris qu'elle connaisse la\n structure des salles.\"",
+            "\\.\"... Et il a sûrement pas échappé à Kai.\"",
+            "\\.\"Quoi...?!\"",
+            "\\.\"Je sais pas s'il était au courant de base ou\n s'il l'a juste trouvé en explorant l'étage, mais...\"",
+            "\\.\"Je pense que c'est ça, l'explication finale...\n C'est comme ça que l'ordi a atterri dans\n la Salle Effondrée.\""
         ],
         "42-1-message": [
             "\\C[3]Cette salle est bien climatisée."
@@ -28639,6 +28655,9 @@
         "2-1-message": [
             "\\C[3]C'est de là où nous venons.",
             "\\.\"Dire que ça amène ici...\""
+        ],
+        "4-1-choice": [
+            "Je me demande si Kai...\nJe me demande si Nao...\nJe me demande si Rillante...?"
         ]
     },
     "map148": {
