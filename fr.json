@@ -34203,7 +34203,7 @@
             "\\.\\C[3]Q-taro est allongé dans le fauteuil, inconscient.",
             "\\.\"Dans tous les cas...\n On ne peut pas le laisser comme ça.\"",
             "\"Ouais, mais...\n Tu penses pouvoir le porter, toi, miaou ?\"",
-            null,
+            "\\.\"Voyons voir...\"",
             "\\.\"Allez... À la une, à la deux...!\"",
             "\\.\\C[3]Il est tellement lourd que je ne parviens même pas\nà le soulever.",
             "\\.\\C[4](Mais j'avais réussi à porter Alice...!)",
@@ -34213,11 +34213,12 @@
             "\\.\"Qu'est-ce qu'il s'est passé, ici...?!\"",
             "\\.\"Les explications devront attendre...\n Q-taro n'a rien de grave, j'espère...?\"",
             "\\.\"Hmm...\n On dirait qu'il va rester dans les vapes\n un bon moment.\"",
-            null,
+            "\\.\"Je vois...\"",
             "\\.\"... On se rejoindra au Hall Principal plus tard,\n Sara.\"",
             "\\.\"Si faut que je le porte sur mon dos, je le porte...\n Après tout, t'as trouvé un moyen de nous faire\n sortir d'ici, je me trompe ?\"",
-            null,
-            "\\.\"Alors fais ce que t'as à faire... ouais ?\""
+            "\\.\"Oui...!\"",
+            "\\.\"Alors fais ce que t'as à faire... ouais ?\"",
+            "\\\n\"Keiji... Tu pourrais prendre Q-taro et Kanna,\net les rassembler dans le lobby, après ?\""
         ],
         "1-4-message": [
             "\\.\\C[3]Q-taro est allongé dans le fauteuil, inconscient."
