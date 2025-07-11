@@ -34162,12 +34162,14 @@
         ],
         "1-1-message": [
             "\"Tiens, Q-taro...?\"",
-            null,
+            "\\.\\C[4](Il dort ?)",
             "\\.\\C[3]Du sang s'écoule de sa bouche.",
             "\\.\"...\n ...\n ...\"",
             "\\.\"... Hein...?\"",
             "\\.\\sp[15]\"Gorille musclé...?\"",
-            "\\.\\C[4](...\n ...\n ...)"
+            "\\.\\C[4](...\n ...\n ...)",
+            "\\.\"Tout va bien... Il respire !\"",
+            "\\.\"Mais il est inconscient ! Pourquoi est-ce que...?!\""
         ],
         "20-1-message": [
             "\\C[3]Disque d'une Victime E\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
