@@ -12538,7 +12538,7 @@
             "\\.\"Je suis... satisfait.\"",
             "\\.\"Kai...!! KAI...!!!!!!\"",
             "\\.\"Joe, n'est-ce pas ton anniversaire, aujourd'hui ?\"",
-            "\\.\"Hein ? T'as une bonne mémoire, Sara !\n Et je me répète, mais... Je t'ai déjà dit que\n t'avais pas besoin de parler aussi poliment\n avec moi.\"",
+            "\\.\"Hein ? T'as une bonne mémoire, Sara !\n Et je me répète, hein, mais...\n Je t'ai déjà dit que t'avais pas besoin de parler\n aussi poliment avec moi.\"",
             "\\.\"Fais la même pour moi, alors.\n Tiens, c'est pour toi, Joe.\"",
             "\\.\"Ouagh ! Oh putain, trop mignon !!\n C'est un... porte-clé en forme de chien ?\"",
             "\\.\"Mon amie Ryoko l'a gagné à une arcade.\n Tu peux le garder.\"",
@@ -22068,6 +22068,15 @@
         ],
         "22-1-message": [
             "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
+        ],
+        "2-1-message": [
+            "\\C[3]Ça mène à la Salle Bleue."
+        ],
+        "2-1-choice": [
+            "Entrer dans la Salle Bleue\nAnnuler"
+        ],
+        "3-1-message": [
+            "\\C[3]La cible n'est pas allumée et n'émet aucune lumière."
         ]
     },
     "map27": {
@@ -28683,7 +28692,11 @@
             "\\.\\C[3][Ne peuvent pas boire]\nAnzu, Kanna, Gin, Kugie, Sara, Joe,\nNao, Hinako, Ranmaru",
             "\\.\"Se pourrait-il que ce soit les noms de tous les\n participants de la Démocratie Mortelle ?\"",
             "\\.\"Hm...\n Maintenant que j'y pense, ça pourrait être\n pas mal important, comme info.\"",
-            "\\.\"J'vais p'têt vouloir m'en souvenir.\""
+            "\\.\"On devrait peut-être la garder en mémoire.\"",
+            "\\.\"... Ouais.\n Doit bien y avoir des gens qui attendent\n leur retour...\"",
+            "\\.\\C[4](... C'est vrai.\n Tout ça... ce n'est pas que notre tragédie.)",
+            "\\.\"Bon...\n En tout cas, on devrait pouvoir aller dans\n la Salle Rose grâce à cette info.\"",
+            "\\.\"Chais pas si Gin y est, mais ça te dit\n d'aller vérifier ?\""
         ],
         "26-1-message": [
             "\\C[3]Disque d'une Victime F\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
@@ -28714,7 +28727,8 @@
     },
     "map151": {
         "4-1-message": [
-            "\\.\"...\""
+            "\\.\"...\"",
+            "\\.\\C[4](Je ne devrais pas leur prêter attention...)"
         ],
         "7-1-message": [
             "\\C[3]Vidéo d'une Victime\nLa vidéo d'une victime que Nao avait achetée.\nMontre la mort d'une policière lors de la P. Épreuve.\nL'homme au premier plan... Serait-ce Keiji ?"
@@ -28736,6 +28750,13 @@
         ],
         "29-1-message": [
             "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
+        ],
+        "2-1-message": [
+            "\\C[3]La peinture qui avait dit s'appeler le Parrain."
+        ],
+        "3-1-message": [
+            "\\.\\C[3]Il y a quelque chose par terre, au pied de\nla peinture...",
+            "\\.\\C[3]Disque d'une Victime E obtenue."
         ]
     },
     "map153": {
@@ -34140,12 +34161,12 @@
             "\\.\\C[3]Un écran éteint."
         ],
         "1-1-message": [
+            "\"Tiens, Q-taro...?\"",
             null,
-            null,
-            null,
+            "\\.\\C[3]Du sang s'écoule de sa bouche.",
             "\\.\"...\n ...\n ...\"",
-            null,
-            null,
+            "\\.\"... Hein...?\"",
+            "\\.\\sp[15]\"Gorille musclé...?\"",
             "\\.\\C[4](...\n ...\n ...)"
         ],
         "20-1-message": [
