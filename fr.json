@@ -28627,7 +28627,8 @@
             "\\.\"Quoi...?!\"",
             "\\.\"Je sais pas s'il était au courant de base ou\n s'il l'a juste trouvé en explorant l'étage, mais...\"",
             "\\.\"Je pense que c'est ça, l'explication finale...\n C'est comme ça que l'ordi a atterri dans\n la Salle Effondrée.\"",
-            "\\.\\C[4](Kai est venu au troisième étage,\n and posé l'ordinateur ici...)"
+            "\\.\\C[4](Kai est venu au troisième étage,\n and posé l'ordinateur ici...)",
+            "\\.\\C[4](Il a raison, c'est possible...)"
         ],
         "42-1-message": [
             "\\C[3]Cette salle est bien climatisée."
@@ -28668,7 +28669,10 @@
         "33-2-message": [
             null,
             "\\.\\C[3][Peuvent boire]\nAlice, Kai, Kazumi, Keiji, Shunsuke,\nSou, Naomichi, Mai, Megumi, Reko, Q-taro",
-            "\\.\\C[3][Ne peuvent pas boire]\nAnzu, Kanna, Gin, Kugie, Sara, Joe,\nNao, Hinako, Ranmaru"
+            "\\.\\C[3][Ne peuvent pas boire]\nAnzu, Kanna, Gin, Kugie, Sara, Joe,\nNao, Hinako, Ranmaru",
+            null,
+            null,
+            "\\.\"J'vais p'têt vouloir m'en souvenir.\""
         ],
         "26-1-message": [
             "\\C[3]Disque d'une Victime F\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
