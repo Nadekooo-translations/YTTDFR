@@ -28595,10 +28595,10 @@
     },
     "map146": {
         "4-1-message": [
-            null,
-            null,
-            null,
-            null,
+            "\\.\"Tiens donc, je sais où on est.\"",
+            "\\.\"Si je ne m'abuse...\"",
+            "\\.\"Nous nous trouvons dans la \\C[2]cuisine\\C[0]\n du rez-de-chaussée.\"",
+            "\\.\"C'est ici que Nao s'était cachée avec la tête\n de Monsieur Mishima...\"",
             null,
             null,
             null,
@@ -28634,6 +28634,10 @@
         ],
         "48-1-message": [
             "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
+        ],
+        "2-1-message": [
+            "\\C[3]C'est de là où nous venons.",
+            "\\.\"Dire que ça amène ici...\""
         ]
     },
     "map148": {
@@ -32192,43 +32196,43 @@
             "\"Grande sœur Sara !\"",
             "\"J'ai fait des recherches, miaou !\"",
             "\\.\"Gin...\"",
-            "\\.\"As-tu trouvé quelque chose...?\"",
+            "\\.\"Tu as trouvé quelque chose...?\"",
             "\\.\"Y avait pas de sortie ou de truc du genre...\"",
             "\\.\"... Pourquoi ?\"",
             "\\.\"Pourquoi ? Bah, pour trouver une issue, miaou !\"",
-            "\\.\"Mais bon... J'ai pas trouvé\n de sortie ou de truc du genre...\"",
-            "\\.\"Par contre, j'ai trouvé un smartphone\n dans les escaliers, miaou.\"",
+            "\\.\"Mais bon... J'ai rien trouvé du genre...\"",
+            "\\.\"Par contre...\n J'ai trouvé un téléphone dans les escaliers, miaou.\"",
             "\\.\"... Hein ?\"",
             "\\C[4](Il n'y avait rien de tel quand nous sommes arrivés...)",
-            "\\.\"Qu'est-ce qu'il y a exactement dessus...?\"",
+            "\\.\"Qu'est-ce qu'il y a dessus, exactement...?\"",
             "\"Miaouuu ?! Ce son !!\"",
             "\\.\"Un échange de cartes ?!\"",
-            "\\.\\C[4](M-Minute ! J'ai le \\C[10]Sacrifice\\C[4], non ?)",
+            "\\.\\C[4](M-Minute ! J'ai le \\C[10]Sacrifice\\C[4], c'est ça ?)",
             "\\C[4](Que peut bien signifier cet échange...?!)",
             "\\.\\C[4](Hein ?!)",
             "\\C[4](Quoi...?)",
-            "\\.\\C[4](Que... s'est-il passé ?)",
-            "\\.\\C[4](Pourquoi mon \\C[10]Sacrifice\\C[4]...\n est-il devenu un \\C[5]Roturier\\C[4]...?)",
+            "\\.\\C[4](Qu'est-ce qu'il... s'est passé ?)",
+            "\\.\\C[4](Pourquoi mon \\C[10]Sacrifice\\C[4]...\n Est-il devenu un \\C[5]Roturier\\C[4]...?)",
             "\"Grande sœur Sara...?\"",
             "\"Ah, euh, Gin... Qu'est-ce qu'il y a ?\"",
             "\\.\"... Ton sourire faisait trop peur, miaou...\"",
             "\\.\"D-Désolée. Ce n'est rien.\"",
-            "\\.\"Plus important, Gin,\n à propos du téléphone que tu as trouvé...\"",
+            "\\.\"Plus important, Gin...\n À propos du téléphone que tu as trouvé...\"",
             "\\.\"Miaouuu...?!\"",
             "\\.\"...\n ...\n ...\"",
             "\\.\"Gin...?\"",
-            "\\.\"Gyah...?!\"",
+            "\\.\"Gah-?!\"",
             "\\.\\C[3]Une douleur aiguë au niveau de mon cou.",
-            "\\.\\C[3]Au moment où j'ai senti cela, j'ai perdu connaissance.",
-            "\"Non !! Par pitié, reste parmi nous !!\"",
+            "\\.\\C[3]Le moment même où je l'ai sentie,\nje perdis connaissance.",
+            "\"Non !! Par pitié, reste avec nous !!\"",
             "\"Je... suis foutu...\"",
             "\"H-Hé ! Y a vraiment pas moyen d'le sauver ?!\"",
-            "\"Hmmm... Avec une telle hémorragie,\n je crains qu'il n'y ait plus rien à faire...\"",
+            "\"Hrmm...\n Avec une telle hémorragie, je crains qu'il n'y ait\n plus rien à faire...\"",
             "\\.\"...\n ...\n ...\"",
-            "\"Nooon...!! Tu ne peux pas... Réponds, par pitié !!\"",
+            "\"Nooon...!! Tu ne peux pas... Réponds, pitié !!\"",
             "\"Argh...\"",
             "\\.\\C[4](...\n ...\n ...)",
-            "\\.\\C[4](Est-ce que je viens... de faire une sorte de rêve ?)",
+            "\\.\\C[4](C'est... une sorte de rêve, que je viens d'avoir ?)",
             "\\.\\C[4](...\n ...\n ...)",
             "\\.\"Cet endroit...\""
         ],
@@ -32258,7 +32262,7 @@
             "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
         ],
         "2-3-choice": [
-            "As-tu trouvé quelque chose ?\nPourquoi faire ?"
+            "Tu as trouvé quelque chose ?\nPourquoi faire ?"
         ]
     },
     "map170": {
