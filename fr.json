@@ -15947,29 +15947,29 @@
             "\\.\"..........\""
         ],
         "1395-0-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\"..........\"",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\\C[3]La vidéo est finie."
+            "\"Gh...\"",
+            "\\.\"Merde... Quel enfer...\"",
+            "\\.\"Pourquoi ça... m'arrive à moi...\"",
+            "\\.\"...\n ...\n ...\"",
+            "\\.\"Il... y a quelqu'un ?\"",
+            "\\.\"... Je sais que vous êtes là...\n Répondez...\"",
+            "\\.\"J'vais... mourir...?\"",
+            "\\.\"...\n ...\n ...\"",
+            "\\.\"Ahh, putain ça craint... Vraiment...?\"",
+            "\\.\"D'accord, ma vie était pas passionnante,\n et je me souciais pas de mon avenir...\"",
+            "\\.\"Mais quand même...\"",
+            "\\.\"...\n ...\n ...\"",
+            "\\.\"C'est chelou, non...? Ça fait même pas mal...\"",
+            "\\.\"Alors que je pisse le sang par les tripes ?\n Pourquoi je suis pas en train de douiller...\"",
+            "\\.\"Ça me donne pas... l'impression de crever.\"",
+            "\\.\"...\n ...\n ...\"",
+            "\\.\"Hé...\"",
+            "\\.\"Je suis... toujours vivant, ou pas...?\"",
+            "\\.\"Hé...\"",
+            "\\.\"...\n ...\n ...\"",
+            "\\.\\sp[15]\"... ... ... ... ...\"",
+            "\\.\\sp[10]\"... ... ... \n ... ... ...\n ... ... ...\"\\|\\^",
+            "\\.\\C[3]La vidéo se termine ici."
         ],
         "1101-0-message": [
             null,
@@ -18934,24 +18934,24 @@
             "\\.\"Arrêteeez !! Je veux pas mouriiiiir !!\"",
             "\\sp[12]\"Ga... a... ah...\"",
             "\\.\\sp[12]\"J-J'ai... mal...\n \\sp[10]Ma... man...\"",
-            "\\.\\C[3]La vidéo est finie."
+            "\\.\\C[3]La vidéo se termine ici."
         ],
         "1396-0-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\\C[3]La vidéo est finie."
+            "\\{\"Au secours...!!\"",
+            "\\.\"Pas ça, pas ça, pas ça...!!\"",
+            "\\.\"Pourquoiii...!!\n Pourquoi il a fallu que ça m'arriiiive...?!\"",
+            "\\.\"Comment pourrais-je deviner lequel est le bon ?!\"",
+            "\\.\"Je peux paaaas !!\n Je peux pas tirer !!\"",
+            "\\.\"Ouhhh...\"",
+            "\\.\"...?!\n Aïïïïe...!!\"",
+            "\\.\"Q-Quoi ?! Le collier... se resserre...!!\"",
+            "\\.\"Arrêteeez ! J'arrive pas respirer...!!\"",
+            "\\.\"Je vais tirer...!! Alors arrêtez !!\"",
+            "\\.\"Ohh...\"",
+            "\\.\"Ooooh...!\"",
+            "\\.\"Ooohh... aaarghhh !!\"",
+            "\"AAAAAAAAAAAAAaaaah...!!!!\"\\|\\^",
+            "\\.\\C[3]La vidéo se termine ici."
         ],
         "1398-0-message": [
             "\"Merde...!! C'est du foutage de gueule !!\"",
@@ -18965,7 +18965,7 @@
             "\\.\"Je vous en supplie...\"",
             "\\.\"J'arrive plus à avancer...!\n Arrêtez... les murs...\"",
             "\\.\"Les murs...\"",
-            "\\.\\C[3]La vidéo est finie."
+            "\\.\\C[3]La vidéo se termine ici."
         ],
         "626-0-message": [
             "Un article qui annonce la dissolution de 36-Rai 818 (Samurai Yaiba).\nCitation de la Chanteuse :\n\"Je peux plus chanter les chansons de ce groupe.\""
@@ -18994,7 +18994,7 @@
             "\\.\\C[10]\"SOUFFRE !!\"",
             "\\.\\C[10]\"Va te faire !! CRÈVE !!\"",
             "\\.\\C[10]\"Tu vas REGRETTER de m'avoir remercié !!\"",
-            "\\.\\C[3]La vidéo est finie."
+            "\\.\\C[3]La vidéo se termine ici."
         ],
         "1400-0-message": [
             "\"Hé ! À l'aide !!\"",
@@ -19015,7 +19015,7 @@
             "\\.\"Vous tous membres de l'organisation...\n Et Sara Chidouin...\"",
             "\\.\"Je vous attends en enfeeeer !!\"",
             "\\.\"\\sp[15]AAAAAAAAAAAAAAAaaaaaaaaaahhh !!!!\"\\|\\^",
-            "\\.\\C[3]La vidéo est finie."
+            "\\.\\C[3]La vidéo se termine ici."
         ],
         "632-0-message": [
             "\"..........\"",
@@ -24195,7 +24195,7 @@
             "\\.\"... Depuis quand il est comme ça, mon corps...?\""
         ],
         "22-3-choice": [
-            "Je les échange\nJe ne les ai pas encore utilisé\nJe n'en ai pas encore obtenu"
+            "Je les échange\nJe ne les ai pas encore utilisés\nJe n'en ai pas encore obtenu"
         ],
         "22-5-message": [
             "\\.\"Hum...\n Je n'ai plus beaucoup de Médaillons du Triomphe...\n Donc, je me demandais...\n Si tu voulais bien m'en échanger...?\"",
@@ -26868,7 +26868,7 @@
             "\\.\\C[4](De dos, on aurait vraiment dit Keiji, mais...)",
             "\"Grande sœur Nao l'a peut-être faite tomber, ouaf ?\"",
             "\\.\\C[4](Pourquoi ici...?)",
-            "\\.\\C[3]Obtenu Vidéo d'une Victime."
+            "\\.\\C[3]Vidéo d'une Victime obtenue."
         ],
         "4-1-message": [
             "\"Et maintenant, on va où, miaou ?\"",
@@ -27305,7 +27305,7 @@
             "\\.\\C[3]La barrette de Joe est encore dans ses cheveux.",
             "\\.\"...\n ...\n ...\"",
             "\\.\\C[4](Rends-la-moi... ! C'est à Joe !!)",
-            "\\.\\C[3]Obtenu la barrette de Joe.",
+            "\\.\\C[3]Barrette de Joe obtenue.",
             "\\.\"..........\"",
             "\\.\\C[4](...)"
         ],
@@ -28301,64 +28301,64 @@
             "\\C[4](Lequel devrais-je regarder ?)",
             "\"Je vais regarder le Disque d'une Victime E.\"",
             "\\.\\C[3]L'ordinateur commence à charger la vidéo.",
-            "\\.\"Argh...\"",
+            "\\.\"Gh...\"",
             "\\.\"Merde... Quel enfer...\"",
             "\\.\"Pourquoi ça... m'arrive à moi...\"",
             "\\.\"...\n ...\n ...\"",
             "\\.\"Il... y a quelqu'un ?\"",
-            "\\.\"... C'est le cas, hein...?\n Répondez...\"",
+            "\\.\"... Je sais que vous êtes là...\n Répondez...\"",
             "\\.\"J'vais... mourir...?\"",
             "\\.\"...\n ...\n ...\"",
             "\\.\"Ahh, putain ça craint... Vraiment...?\"",
-            "\\.\"D'accord, ma vie était pas passionante,\n et je me souciais pas de mon avenir...\"",
-            "\\.\"Mais quand même...?\"",
+            "\\.\"D'accord, ma vie était pas passionnante,\n et je me souciais pas de mon avenir...\"",
+            "\\.\"Mais quand même...\"",
             "\\.\"...\n ...\n ...\"",
             "\\.\"C'est chelou, non...? Ça fait même pas mal...\"",
             "\\.\"Alors que je pisse le sang par les tripes ?\n Pourquoi je suis pas en train de douiller...\"",
             "\\.\"Ça me donne pas... l'impression de crever.\"",
             "\\.\"...\n ...\n ...\"",
             "\\.\"Hé...\"",
-            "\\.\"Je suis... toujours vivant...?\"",
+            "\\.\"Je suis... toujours vivant, ou pas...?\"",
             "\\.\"Hé...\"",
             "\\.\"...\n ...\n ...\"",
             "\\.\\sp[15]\"... ... ... ... ...\"",
             "\\.\\sp[10]\"... ... ... \n ... ... ...\n ... ... ...\"\\|\\^",
             "\\.\\C[3]La vidéo se termine ici.",
-            "\\.\\C[4](C'est comme s'il... s'était endormi à la fin...)",
+            "\\.\\C[4](C'est comme... s'il s'était endormi à la fin...)",
             "\\.\\C[3]Il avait l'air d'être au lycée.\nUn garçon... d'à peu près mon âge.",
-            "\\.\\C[4](Peut-être... qu'il faisait partie des gens heureux...)",
+            "\\.\\C[4](Peut-être... qu'il faisait partie de ceux\n qui sont partis heureux...)",
             "\\.\\C[3]Qu'est-ce que je raconte ?",
-            "\\.\\C[3]J'ai simplement ressenti un brin d'envie, c'est tout.",
-            "\\.\\C[3]Des gens qui s'entretuent... Des alliés qui meurent...",
-            "\\.\\C[3]Pouvoir mourir sans avoir à vivre tout ça,\nc'est une forme de bonheur.",
+            "\\.\\C[3]C'est juste que j'ai ressenti un brin d'envie,\n c'est tout.",
+            "\\.\\C[3]Des gens qui s'entretuent...\n Des partenaires qui meurent...",
+            "\\.\\C[3]Pouvoir mourir sans avoir à traverser tout ça,\nc'est une forme de bonheur.",
             "\\.\\C[4](... J'ai des pensées idiotes.)",
-            "\\.\\C[4](Pour honorer sa mémoire, je dois...)",
+            "\\.\\C[4](Pour honorer sa mémoire, à lui aussi, je dois...)",
             "\"Je vais regarder le Disque d'une Victime F.\"",
             "\\.\\C[3]L'ordinateur commence à charger la vidéo.",
             "\\.\\{\"Au secours...!!\"",
-            "\\.\"Non non non...!!\"",
-            "\\.\"Pourquoiii...!!\n Pourquoi il fallait que ça m'arriiiive...?!\"",
-            "\\.\"Comment pourrais-je savoir lequel est le bon ?!\"",
-            "\\.\"J'y arriverai paaas !!\n Je sais pas tirer avec ces trucs !!\"",
-            "\\.\"*snif*...\"",
-            "\\.\"...?!\n Aiiie...!!\"",
+            "\\.\"Pas ça, pas ça, pas ça...!!\"",
+            "\\.\"Pourquoiii...!!\n Pourquoi il a fallu que ça m'arriiiive...?!\"",
+            "\\.\"Comment pourrais-je deviner lequel est le bon ?!\"",
+            "\\.\"Je peux paaaas !!\n Je peux pas tirer !!\"",
+            "\\.\"Ouhhh...\"",
+            "\\.\"...?!\n Aïïïïe...!!\"",
             "\\.\"Q-Quoi ?! Le collier... se resserre...!!\"",
-            "\\.\"Arrêteeez ! Je peux pas resprier...!!\"",
+            "\\.\"Arrêteeez ! J'arrive pas respirer...!!\"",
             "\\.\"Je vais tirer...!! Alors arrêtez !!\"",
             "\\.\"Ohh...\"",
             "\\.\"Ooooh...!\"",
             "\\.\"Ooohh... aaarghhh !!\"",
             "\"AAAAAAAAAAAAAaaaah...!!!!\"\\|\\^",
             "\\.\\C[3]La vidéo se termine ici.",
-            "\\.\\C[4](Argh !! Est-ce que ça aussi, \n ça vient de la Première Épreuve...?!)",
-            "\\.\\C[4](C'est juste trop cruel...!!\n Comment on peut imaginer un truc pareil ?!)",
+            "\\.\\C[4](Argh !!\n Ça aussi, ça vient de la Première Épreuve...?!)",
+            "\\.\\C[4](C'est juste trop cruel...!!\n Comment imaginer un truc pareil ?!)",
             "\\.\\C[3]Je pensais le savoir parfaitement.",
-            "\\.\\C[3]Que nos ennemis sont pratiquement des démons.",
+            "\\.\\C[3]Que nos ennemis étaient pratiquement des démons.",
             "\\.\\C[4](Mais tout de même... nous montrer ça...)",
-            "\\C[3]Pouvons-nous nous échapper...?",
-            "\\.\\C[3]Des griffes de démons qui nous \nfont subir ce genre de choses...?",
-            "\\.\\C[4](...Nous leur échapperons, c'est sûr !!)",
-            "\\.\\C[4](Pour honorer ses derniers regrets... je dois...!)"
+            "\\C[3]Pouvons-nous vraiment nous échapper d'ici...?",
+            "\\.\\C[3]Des griffes des démons qui nous font subir\nde telles choses...?",
+            "\\.\\C[4](... On y arrivera, c'est sûr !!)",
+            "\\.\\C[4](Pour honorer ses derniers regrets... Je dois...!)"
         ],
         "33-1-message": [
             "\\C[3]Vidéo d'une Victime\nLa vidéo d'une victime que Nao avait achetée.\nMontre la mort d'une policière lors de la P. Épreuve.\nL'homme au premier plan... Serait-ce Keiji ?"
@@ -28370,7 +28370,7 @@
             "\\C[3]Vidéo Surveillance du RDC\n\nUne vidéo filmée par les caméras du rez-de-chaussée.\nOn apparaît dessus. Sou a vu Q-taro placer les cartes."
         ],
         "2-3-choice": [
-            "Voir le disque\nAnnuler",
+            "Consulter le disque\nAnnuler",
             "Disque d'une Victime E\nDisque d'une Victime F\nAnnuler"
         ],
         "38-1-message": [
@@ -28401,22 +28401,22 @@
             "Souviens-toi d'hier\nComment ça ?"
         ],
         "3-2-message": [
-            "\\C[3]Il y a des disques d'ordinateur dans le tiroir.",
-            "\\C[4](Qu'est-ce que c'est ?\n Je ne suis pas vraiment sûre...)",
+            "\\.\\C[3]Il y a des disques d'ordinateur dans le tiroir.",
+            "\\C[4](Qu'est-ce que c'est que ça ?\n Je ne suis pas vraiment sûre...)",
             "\\.\\C[4](Hmm ? Celui-ci porte une étiquette...)",
             "\\.\\C[3]Disque \"Vidéo Surveillance du RDC\" obtenu.",
-            "\\.\"Vidéo surveillance...?!\"",
-            "\"Eh bien... On a sûrement été filmés.\"",
-            "\\.\"Me dis pas que... pendant tout ce temps...?\"",
-            "\\.\"C'est pas si étonnant... \n Il n'y a pas assez de Maîtres d'Étage\n pour tous nous surveiller.\"",
-            "\\C[4](Quand on y pense, c'est peut-être le cas, mais...)",
-            "\"Je me demande s'il y avait un\n observateur dans cette pièce...\"",
-            "\\.\"... J'vois pas vraiment de traces indiquant\n que plusieurs personnes sont passées par ici.\"",
+            "\\.\"Une vidéo surveillance...?!\"",
+            "\"Voyez-vous ça... On a sûrement été filmés.\"",
+            "\\.\"Ne me dis pas que... depuis tout ce temps...?\"",
+            "\\.\"C'est pas si étonnant que ça...\n Y a pas assez de Maîtres d'Étage pour tous\n nous surveiller.\"",
+            "\\C[4](En y réfléchissant, c'est peut-être vrai, mais...)",
+            "\"Je me demande s'il y avait un observateur\n dans cette pièce...\"",
+            "\\.\"... Je vois pas vraiment de traces indiquant\n que plusieurs personnes sont passées par là.\"",
             "\"Pourrions-nous regarder les images ?\"",
             "\\.\"Ça t'a rendu curieuse, hein ?\"",
             "\\.\"... Oui.\"",
-            "\"Je n'ai pas vu de caméras de surveillance\n lors de mes recherches jusqu'à présent...\"",
-            "\\.\"Sûrement des caméras cachées.\n ... Ils voulaient sans doute éviter\n qu'on puisse les détruire.\"",
+            "\"Je n'ai pas remarqué de caméras de surveillance\n lors de mes recherches jusqu'à présent...\"",
+            "\\.\"Sûrement des caméras cachées.\n ... Ils voulaient sans doute éviter qu'on puisse\n les détruire.\"",
             "\\.\"Hmm...\"",
             "\\.\"On peut sûrement mater les vidéos sur cet ordi.\"",
             "\\.\\C[4](Devrions-nous les regarder...?)"
@@ -28426,13 +28426,13 @@
         ],
         "3-2-choice": [
             "Jeter un coup d'œil\nAnnuler",
-            "Est-ce que quelqu'un nous surveillait d'ici ?\nJe suis curieux de voir les images\nIl y avait des caméras ?"
+            "Quelqu'un nous surveillait d'ici ?\nJe suis curieuse de voir les images\nIl y avait des caméras ?"
         ],
         "3-3-message": [
             "\\.\\C[3]Le contenu du tiroir est en désordre total."
         ],
         "4-1-message": [
-            "\\C[3]Un genre de porte."
+            "\\C[3]Une sorte de porte."
         ],
         "4-2-message": [
             "\\C[3]La porte est verrouillée.",
@@ -28445,34 +28445,34 @@
             "\\C[3]Derrière la vitre épaisse, je peux apercevoir\nune silhouette qui semble dormir.",
             "\\.\"Keiji ! Il y a quelqu'un...!\"",
             "\\.\"Hmm... Aucun signe du moindre mouvement.\"",
-            "\\.\\C[4](Est-ce que cet individu ne nous remarque pas...?)",
-            "\\.\"J'imagine mal qu'il y ait un nouveau\n participant ayant survécu jusqu'ici...\"",
+            "\\.\\C[4](Cet individu ne nous remarque pas...?)",
+            "\\.\"J'ai du mal à imaginer qu'on puisse croiser de\n nouveaux survivants, c'est un peu tard pour ça...\"",
             "\\.\\C[4](Si c'est un ennemi...\n On ferait mieux de ne pas se faire remarquer !)",
-            "\\.\"Bon, il semble pas y avoir de moyen\n de passer de l'autre côté, en tout cas.\"",
-            "\\.\"On s'en ira discrètement une fois\n qu'on aura fini de fouiller...\""
+            "\\.\"Bon, on dirait pas qu'y a moyen de passer\n de l'autre côté, en tout cas.\"",
+            "\\.\"On s'en ira discrètement une fois qu'on aura\n fini de fouiller...\""
         ],
         "36-1-message": [
             "\\C[3]Un disque intitulé \"Vidéo Surveillance du RDC\"."
         ],
         "40-1-message": [
-            "\\C[3]Cela ressemble à un réfrigérateur.",
+            "\\C[3]Ça ressemble à un réfrigérateur.",
             "\\.\\C[4](Il fait trop sombre pour voir quoi que ce soit...)"
         ],
         "40-2-message": [
-            "\\C[3]Cela ressemble à un réfrigérateur.",
+            "\\C[3]Ça ressemble à un réfrigérateur.",
             "\\.\\C[4](Il ne s'ouvre pas...)"
         ],
         "41-1-message": [
-            "\\C[3]Cela ressemble à un moniteur.",
+            "\\C[3]On dirait un moniteur.",
             "\\.\\C[4](Il fait trop sombre pour voir quoi que ce soit...)"
         ],
         "42-1-message": [
             "\\C[3]Il y a des choses sur le bureau.",
-            "\\C[4](Il fait trop sombre pour voir quoi que ce soit...)"
+            "\\.\\C[4](Il fait trop sombre pour voir quoi que ce soit...)"
         ],
         "42-2-message": [
-            "\\C[3]Les composants de machine sont éparpillés.",
-            "\\.\\C[4](Tiens... J'ai l'impression que c'est\n des matériaux semblables à nos colliers...)"
+            "\\C[3]Des composants de machine sont éparpillés.",
+            "\\.\\C[4](Tiens...\n J'ai l'impression que ce sont des matériaux semblables\n à nos colliers...)"
         ],
         "59-1-message": [
             "\\C[3]La machine est dotée d'un certain nombre\nde petites lumières colorées.",
@@ -28480,15 +28480,15 @@
         ],
         "59-2-message": [
             "\\C[3]Une tour d'ordinateur.",
-            "\\.\\C[4](Mieux vaut éviter de lui mettre un coup de pied.)"
+            "\\.\\C[4](Il vaut mieux éviter de lui mettre un coup de pied.)"
         ],
         "61-1-message": [
             "\\C[3]Les lumières sont éteintes.",
-            "\\.\\C[4](Il fait sombre... Vu que je n'y jamais mis les pieds,\n ça me serait très utile que cette pièce soit éclairée.)"
+            "\\.\\C[4](Il fait sombre...\n Étant donné que je n'ai jamais mis les pieds ici,\n ça m'arrangerait d'avoir de la lumière.)"
         ],
         "61-2-message": [
-            "\\C[3]La lumière éclaire la pièce.",
-            "\\.\\C[4](Pourquoi les lumières se sont soudainement allumées...?)"
+            "\\C[3]La lumière illumine la pièce.",
+            "\\.\\C[4](Pourquoi les lumières se sont-elles\n soudainement allumées...?)"
         ],
         "41-2-message": [
             "\\C[3]Le moniteur n'est pas alimenté."
@@ -28569,7 +28569,7 @@
             "\\.\\C[3]La barrette de Joe est encore dans ses cheveux.",
             "\\.\"...\n ...\n ...\"",
             "\\.\\C[4](Rends-la-moi... ! C'est à Joe !!)",
-            "\\.\\C[3]Obtenu la barrette de Joe.",
+            "\\.\\C[3]Barrette de Joe obtenue.",
             "\\.\"...\n ...\n ...\"",
             "\\.\\C[4](...\n ...)"
         ],
@@ -32077,7 +32077,7 @@
     "map162": {
         "2-1-message": [
             "\\.\"Qu'est-ce que c'est...?\"",
-            "\\.\\C[3]Obtenu une Poêle.",
+            "\\.\\C[3]Poêle obtenue.",
             "\\.\"...\"",
             "\\.\"C'est tellement glauque...\"",
             "\\.\"Morte la bête, mort le venin... Pas vrai, Kai ?\""
@@ -34625,7 +34625,7 @@
             "\\.\\C[3]La barrette de Joe est encore dans ses cheveux.",
             "\\.\"...\n ...\n ...\"",
             "\\.\\C[4](Rends-la-moi... ! C'est à Joe !!)",
-            "\\.\\C[3]Obtenu la barrette de Joe.",
+            "\\.\\C[3]Barrette de Joe obtenue.",
             "\\.\"...\n ...\n ...\"",
             "\\.\\C[4](...\n ...\n ...)"
         ],
@@ -34644,7 +34644,7 @@
             "\\.\\C[3]La barrette de Joe est encore dans ses cheveux.",
             "\\.\"...\n ...\n ...\"",
             "\\.\\C[4](Rends-la-moi... ! C'est à Joe !!)",
-            "\\.\\C[3]Obtenu la barrette de Joe.",
+            "\\.\\C[3]Barrette de Joe obtenue.",
             "\\.\"...\n ...\n ...\"",
             "\\.\\C[4](...)"
         ],
@@ -36260,7 +36260,7 @@
         ],
         "1-1-message": [
             null,
-            "\\.\\C[3]Obtenu Disque d'une Victime F."
+            "\\.\\C[3]Disque d'une Victime F obtenu."
         ],
         "10-1-message": [
             "\\C[3]Des étagères avec des livres."
