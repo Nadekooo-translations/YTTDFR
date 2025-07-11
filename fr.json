@@ -31893,27 +31893,50 @@
             "\\C[3]... Le vote est désormais terminé.",
             "\\.\\C[3]Affichage des résultats...",
             null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\C[4](Le premier vote... est terminé.)",
+            "\\.\\C[3]Et je n'ai pas été sélectionnée.",
+            "\\.\\C[3]Quel soulagement...",
+            "\\.\\C[3]Je sens mes nerfs tendus se relâcher.",
+            "\\.\\C[3]Mais... pourquoi ces quatre...?",
+            "\\.\"Sara... T'pas...!!\"",
+            "\\.\"Je ne mentais pas.\n Je ne suis pas le \\C[10]Sacrifice\\C[0], je suis un \\C[5]Roturier\\C[0].\"",
+            "\\.\"...!!\"",
+            "\\.\"Quatre personnes ont été retenues pour le vote final.\"",
             "\\.\"\\C[2]Sou Hiyori.\\C[0]\"",
             "\\.\"...\n ...\n ...\"",
             "\\.\"\\C[2]Kanna Kizuchi.\\C[0]\"",
-            null,
-            null,
+            "\\.\"... aa...\"",
+            "\\.\"\\C[2]Keiji Shinogi.\\C[0]\"",
             "\\.\"...\"",
-            null,
-            null,
-            null,
+            "\\.\"\\C[2]Nao Egokoro.\\C[0]\"",
+            "\\.\"... P-Pourquoi moi...?!\"",
+            "\\.\\sp[15]\"Ouh... Bouh...\"",
             "\\.\\sp[15]\"...\n ...\n ...\"",
-            null,
-            "\\.\\sp[15]\"...\n ...\n ...\""
+            "\\.\\sp[15]\"Je... ne devrais... pas...\"",
+            "\\.\\sp[15]\"...\n ...\n ...\"",
+            "\\.\\C[4](... Ce désespoir... Je le connais très bien...)",
+            "\\.\\C[4](Avoir envie de parler dans cet état,\n c'est impossible...)",
+            "\\.\\C[4](C'est pourquoi...)",
+            "\\.\\C[4](Il est de mon devoir de les inspirer.)",
+            "\\.\\C[4](Tout comme Keiji l'avait fait pour moi lors\n du premier Jeu Principal...!)",
+            "\\.\\{\"Ne baissez pas les bras !!\"",
+            "\\.\"Vous comptez vraiment abandonner ici ?!\"",
+            "\\.\"Depuis le début...\n On a toujours fait ce qu'on devait faire...!\"",
+            "\\.\"Peu importe à quel point la situation empire,\n on ne peut pas s'arrêter !!\"",
+            "\\.\"Mais...\"",
+            "\\.\"Kanna, nous ne sommes pas tes ennemis...!\"",
+            "\\.\"...!\"",
+            "\\.\"Même si quelqu'un est le \\C[10]Sacrifice\\C[0]...\n On avance dans la même direction !\"",
+            "\\.\"On parle, et on progresse !!\"",
+            "\\.\"Sara...!!\"",
+            "\\.\"Bahaha... T'as bien raison.\"",
+            "\\.\"C'est ici que commence le vrai combat...\"",
+            "\\.\\C[4](Tout le monde...!)",
+            "\\.\"Bon, ceux qui ont pas été choisis devraient\n commencer !\"",
+            "\\.\"D'ailleurs, mon \\C[5]Roturier\\C[0].\n Gardez ça en tête !\"",
+            "\\.\"Très bien...!\n Que ceux qui n'ont pas été retenus\n mènent le débat !\"",
+            "\\.\"À ce propos, je suis un \\C[5]Roturier\\C[0]...\n Il n'y a aucune inquiétude à avoir...\"",
+            "\\.\\C[4](Alice est un \\C[5]Roturier\\C[4] aussi ?)"
         ],
         "6-1-message": [
             "\\C[3]Le débat est dans une impasse, impossible d'atteindre\nun point d'entente...!"
@@ -34146,11 +34169,11 @@
     },
     "map152": {
         "2-1-message": [
-            null,
+            "\\C[3]Il y a une tablette par terre.",
             "\\.\\C[4](...?)"
         ],
         "3-1-message": [
-            null,
+            "\\C[3]Un étrange appareil se trouve par terre.",
             "\\.\\C[4](...?)"
         ],
         "31-1-message": [
@@ -34193,7 +34216,8 @@
             "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
         ],
         "1-5-message": [
-            "Sniff sniff..."
+            "Sniff sniff...",
+            "\\.\"J'ai l'impression de sentir une très légère odeur\n de brûlé de ses habits, miaou...\""
         ],
         "1-2-message": [
             "\\.\\C[3]Q-taro est allongé dans le fauteuil, inconscient.",
@@ -34223,10 +34247,37 @@
             "\\.\"On... a peut-être trouvé un moyen de sortir d'ici.\"",
             "\\.\"Quoi...?!\"",
             "\\.\"V-Vraiment...?!\"",
-            "\\.\"Ouais. Sou tente un truc, en ce moment même.\""
+            "\\.\"Ouais.\n Sou a un plan, il essaie quelque chose\n en ce moment même.\"",
+            "\\.\"Sou...!\"",
+            "\\.\"Dacodac. J'y crois à moitié, mais...\n Si tu le dis, je te fais confiance.\"",
+            "\\.\"Je te remercie, vraiment...!\""
         ],
         "1-4-message": [
-            "\\.\\C[3]Q-taro est allongé dans le fauteuil, inconscient."
+            "\\.\\C[3]Q-taro est allongé dans le fauteuil, inconscient.",
+            "\"Il pèse 100 kilogrammes, si je me rappelle bien...?\"",
+            "\\.\"Je trouve qu'il ressemble plus à un catcheur\n qu'un joueur de baseball.\""
+        ],
+        "1-3-choice": [
+            "Essayer de le porter\nAller chercher de l'aide"
+        ],
+        "2-2-message": [
+            "\\C[3]Il y a une tablette par terre.",
+            "\\.\"Je la ramasse...\"",
+            "\\.\\C[3]Tablette obtenue.",
+            "\\.\\C[4](Serait-ce la tablette de Q-taro...?)",
+            "\\.\\C[4](Pourquoi est-elle par terre ?)"
+        ],
+        "3-2-message": [
+            "\\C[3]Un étrange appareil se trouve par terre.",
+            "\"Je sais ce que c'est, grande sœur Sara !!\n J'en ai vu à la télé, miaou !!\"",
+            "\\.\"C'est... un taser, ouaf !!\"",
+            "\\.\"Quoi...?!\"",
+            "\\.\"Si ça te touche, tu te fais électrocuter et\n tu peux plus bouger, maou...\"",
+            "\\.\\C[3]Taser obtenu.",
+            "\\.\"Ah, et aussi...\n Il y a marqué \"usage unique\" dessus, miaou.\"",
+            "\\.\"Non...\n Quelqu'un l'aurait utilisé pour assommer Q-taro...?\"",
+            "\\.\"O-Ouais...\n Il a plus de batterie, donc ça doit être ça, ouaf.\"",
+            "\\.\\C[4](Qu'est-ce qui a bien pu se passer ici...?!)"
         ]
     },
     "map175": {
