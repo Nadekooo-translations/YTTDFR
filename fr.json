@@ -28609,7 +28609,8 @@
             "\\.\"Ouais...\n Mais en même temps...\"",
             "\\.\"...\n ...\n ...\"",
             "\\.\"Non, rien, oublie.\"",
-            "\\.\"...\""
+            "\\.\"...\"",
+            "\\.\\C[4](Une seconde...\n Est-ce que personne n'a remarqué ce passage secret ?)"
         ],
         "42-1-message": [
             "\\C[3]Cette salle est bien climatisée."
