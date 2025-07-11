@@ -32213,26 +32213,28 @@
             "\"Ah, euh, Gin... Qu'est-ce qu'il y a ?\"",
             "\\.\"... Ton sourire faisait trop peur, miaou...\"",
             "\\.\"D-Désolée. Ce n'est rien.\"",
-            "\\.\"Plus important, Gin,\n concernant le téléphone que tu as trouvé...\"",
-            null,
+            "\\.\"Plus important, Gin,\n à propos du téléphone que tu as trouvé...\"",
+            "\\.\"Miaouuu...?!\"",
             "\\.\"...\n ...\n ...\"",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\.\"Gin...?\"",
+            "\\.\"Gyah...?!\"",
+            "\\.\\C[3]Une douleur aiguë au niveau de mon cou.",
+            "\\.\\C[3]Au moment où j'ai senti cela, j'ai perdu connaissance.",
+            "\"Non !! Par pitié, reste parmi nous !!\"",
+            "\"Je... suis foutu...\"",
+            "\"H-Hé ! Y a vraiment pas moyen d'le sauver ?!\"",
+            "\"Hmmm... Avec une telle hémorragie,\n je crains qu'il n'y ait plus rien à faire...\"",
             "\\.\"...\n ...\n ...\"",
-            null,
-            null,
+            "\"Nooon...!! Tu ne peux pas... Réponds, par pitié !!\"",
+            "\"Argh...\"",
             "\\.\\C[4](...\n ...\n ...)",
-            null,
-            "\\.\\C[4](...\n ...\n ...)"
+            "\\.\\C[4](Est-ce que je viens... de faire une sorte de rêve ?)",
+            "\\.\\C[4](...\n ...\n ...)",
+            "\\.\"Cet endroit...\""
         ],
         "3-1-message": [
-            "\\.\"...\n ...\n ...\""
+            "\\.\"...\n ...\n ...\"",
+            "\\C[3]Reko regarde Nao et ne dit rien."
         ],
         "20-1-message": [
             "\\C[3]Vidéo d'une Victime\nLa vidéo d'une victime que Nao avait achetée.\nMontre la mort d'une policière lors de la P. Épreuve.\nL'homme au premier plan... Serait-ce Keiji ?"
@@ -32254,6 +32256,9 @@
         ],
         "27-1-message": [
             "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
+        ],
+        "2-3-choice": [
+            "As-tu trouvé quelque chose ?\nPourquoi faire ?"
         ]
     },
     "map170": {
@@ -32362,6 +32367,23 @@
             null,
             null,
             "\"...\n ...\n ...\""
+        ],
+        "1-1-message": [
+            "\\C[3]Sou manipule un ordinateur installé dans la pièce.",
+            "\\.\"...!\"",
+            "\"Qu'est-ce que tu fais ?\"",
+            "\"Fiou... Sara and Gin...?\"",
+            "\"Sommes-nous dans la pièce secrète...?\"",
+            "\"Ouais... C'est sans aucun doute la salle de Gashu.\"",
+            "\\.\"Je suis en train d'utiliser la puce d'Arranger\n pour neutraliser le système de sécurité.\"",
+            "\\.\"Peux-tu vraiment faire ça ?!\"",
+            "\\.\"Ouaip... Cette puce est incroyable.\"",
+            "\\.\"Elle contient plein de données importantes\n qui pourraient être utilisées à mauvais escient.\"",
+            "\\.\"On dirait presque que Ray était censé\n hériter de toutes ces données.\"",
+            "\\.\"Est-ce qu'il devait devenir un genre de successeur...?\"",
+            "\\.\"Un successeur...\"",
+            "\\.\"Je me demande s'il était... un fils de substitution...\"",
+            "\\.\"Bah... Ce n'est pas vraiment important.\""
         ]
     },
     "map183": {
