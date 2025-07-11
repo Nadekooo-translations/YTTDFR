@@ -8703,14 +8703,14 @@
             "\\.\\C[4](Mince...! C'était une erreur !)"
         ],
         "669-0-message": [
-            null,
+            "\"On devrait garder quelqu'un avec plein de jetons.\n ... Genre Q-taro.\"",
             null,
             "\\.\\C[4](Mince...! C'était une erreur !)",
             null,
             "\\.\\C[4](Mince...! C'était une erreur !)"
         ],
         "671-0-message": [
-            null,
+            "\"On devrait pas voter pour Gin ou Kanna...\n C'vraiment pas louable d'sacrifier un gamin...\"",
             null,
             "\\.\\C[4](Mince...! C'était une erreur !)",
             null,
@@ -8729,21 +8729,21 @@
         ],
         "674-0-message": [
             null,
-            null,
+            "\"Et si on gardait Gin, étant donné qu'il n'a\n aucun jeton ?!\"",
             null,
             "\\.\\C[4](Mince...! C'était une erreur !)",
             null,
             "\\.\\C[4](Mince...! C'était une erreur !)"
         ],
         "675-0-message": [
-            null,
+            "\"Je pense qu'on devrait garder grande sœur Sara, miaou !\n Parce qu'elle est super astucieuse, ouaf !\"",
             null,
             "\\.\\C[4](Mince...! C'était une erreur !)",
             null,
             "\\.\\C[4](Mince...! C'était une erreur !)"
         ],
         "676-0-message": [
-            null,
+            "\"... Sou devrait être mis de côté.\n Il a dit être le \\C[10]Sacrifice\\C[0] au début de ce débat...\"",
             null,
             "\\.\\C[4](Mince...! C'était une erreur !)",
             null,
@@ -9536,14 +9536,14 @@
             "\\.\\C[4](Mince...! C'était une erreur !)"
         ],
         "670-0-message": [
-            null,
+            "\"Je serais vraiment contente si nous gardions Sara...\n Il fallait que je le dise.\"",
             null,
             "\\.\\C[4](Mince...! C'était une erreur !)",
             null,
             "\\.\\C[4](Mince...! C'était une erreur !)"
         ],
         "673-0-message": [
-            null,
+            "\"Sou devrait être mis de côté...\n Genre, il avait pas dit qu'il était le \\C[10]Sacrifice\\C[0]\n dès le départ ?\"",
             null,
             "\\.\\C[4](Mince...! C'était une erreur !)",
             null,
@@ -32070,7 +32070,34 @@
             "\\.\\C[4](Rgh...!!)",
             "\\.\"On fait quoi ?!\n Je veux pas remettre en question personne, mais...\n Q-taro, Sou, Keiji... Vous êtes plutôt louches...\"",
             "\\.\"Que devrions-nous faire...? Q-taro, Sou, Keiji...\n Je ne peux pas affirmer à juste titre que vous\n n'êtes pas suspects...\"",
-            "\\.\"M-Minute, papillon !\n On a pas besoin d'une personne d'plus ?!\""
+            "\\.\"M-Minute, papillon !\n On a pas besoin d'une personne d'plus ?!\"",
+            "\\.\"Ça, c'est préoccupant...\n Si nous nous réduisons à trois options,\n nos choix sont bien plus restreints...\"",
+            "\\.\"Il faut qu'on doute de quelqu'un d'autre, ouaf ?\n Bouhhh...\"",
+            "\\.\"Dans ce cas...\n On devrait peut-être s'y prendre à l'envers et\n réfléchir à \\C[2]qui on veut pas\\C[0] au vote final, miaou...\"",
+            "\\.\"Ceux qu'on ne veut pas...?\"",
+            "\\.\"Bonne idée, Gin.\"",
+            "\\.\"V-Vraiment, ouaf ?\"",
+            "\\.\"Ceux qui ne sont pas choisis au vote préliminaire\n sont \\C[2]exemptés\\C[0]...\"",
+            "\\.\"Comme ils ne pourront plus recevoir de votes,\n \\C[2]ils n'auront plus besoin de mentir\\C[0] !!\"",
+            "\\.\"On ne peut pas l'éviter, Gin !\n On est juste obligés de suspecter quelqu'un !!\"",
+            "\\.\"Miaaaou...\"",
+            "\\.\"H-Hum, excuse-moi, Sara !\"",
+            "\\.\"Moi, je pense que c'est un bon plan...!\"",
+            "\\.\"Pour de vrai, ouaf ?!\"",
+            "\\.\"On est \\C[2]immunisés\\C[0] après le vote préliminaire\n si on n'a pas été retenus...\"",
+            "\\.\"Comme on ne peut plus être choisi,\n \\C[2]on n'aurait plus besoin de mentir\\C[0] !!\"",
+            "\\.\"Ça pourrait bien être notre ticket gagnant...!\"",
+            "\\.\"Elle a raison, cela pourrait bien nous sauver...!\"",
+            "\\.\\C[4](Mais bien évidemment... pour le \\C[10]Sacrifice\\C[4]...\n Cette stratégie n'est pas souhaitable.)",
+            "\\.\"Reçu cinq sur cinq, ouaf !!\n Allez, parlons de qui \\C[2]on devrait garder\\C[0], miaou !!\"",
+            "\"Je pense qu'on devrait garder grande sœur Sara, miaou !\n Parce qu'elle est super astucieuse, ouaf !\"",
+            "\"On devrait garder quelqu'un avec plein de jetons.\n ... Genre Q-taro.\"",
+            "\"Et si on gardait Gin, étant donné qu'il n'a\n aucun jeton ?!\"",
+            "\"On devrait pas voter pour Gin ou Kanna...\n C'vraiment pas louable d'sacrifier un gamin...\"",
+            "\"Sou devrait être mis de côté...\n Genre, il avait pas dit qu'il était le \\C[10]Sacrifice\\C[0]\n dès le départ ?\"",
+            "\"... Sou devrait être mis de côté.\n Il a dit être le \\C[10]Sacrifice\\C[0] au début de ce débat...\"",
+            "\"Je serais vraiment contente si nous gardions Sara...\n Il fallait que je le dise.\"",
+            "\"Oui, c'est vrai...\n S'il y a une personne que nous ne devrions pas\n choisir, je pense aussi que c'est Sara...\""
         ],
         "4-4-message": [
             "\"Garder le silence ne t'aidera pas...\"\\.\\.",
@@ -32099,6 +32126,9 @@
             "\"Je voulais pas me battre contre toi, Sara...\n Mais bon.\"",
             "\\.\\C[4](Je ne peux pas le laisser m'induire en erreur...!\n Je devrais \\C[2]attaquer les assertions que je peux réfuter\\C[4]\n puis en profiter pour répliquer !!)",
             "\\.\"Discutons de la \\C[2]vidéo d'une victime\\C[0] que Nao a vue...\n Ça te va ?\""
+        ],
+        "8-11-choice": [
+            "Bonne idée\nRestons sceptiques"
         ]
     },
     "map159": {
