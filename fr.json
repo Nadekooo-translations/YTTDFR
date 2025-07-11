@@ -34218,7 +34218,8 @@
             "\\.\"Si faut que je le porte sur mon dos, je le porte...\n Après tout, t'as trouvé un moyen de nous faire\n sortir d'ici, je me trompe ?\"",
             "\\.\"Oui...!\"",
             "\\.\"Alors fais ce que t'as à faire... ouais ?\"",
-            "\\\n\"Keiji... Tu pourrais prendre Q-taro et Kanna,\net les rassembler dans le lobby, après ?\""
+            "\\.\"Keiji...\n Tu pourrais prendre Q-taro et Kanna avec toi et\n vous rassembler au Hall Principal, plus tard ?\"",
+            "\\.\"...?\""
         ],
         "1-4-message": [
             "\\.\\C[3]Q-taro est allongé dans le fauteuil, inconscient."
