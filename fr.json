@@ -33987,7 +33987,13 @@
             "\\C[3]Disque d'une Victime E\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
         ],
         "10-1-message": [
-            "\\C[3]Je peux voir l'entrée du deuxième étage."
+            "\\C[3]J'aperçois l'entrée du premier étage."
+        ],
+        "11-1-message": [
+            "\\C[3]J'aperçois l'entrée du premier étage."
+        ],
+        "12-1-message": [
+            "\\C[3]Un grand escalier qui monte."
         ]
     },
     "items-54": {
