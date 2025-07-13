@@ -33662,6 +33662,9 @@
         ],
         "36-1-message": [
             "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
+        ],
+        "3-1-message": [
+            "\\C[3]Cette porte mène à la cuisine."
         ]
     },
     "map216": {
@@ -33973,6 +33976,9 @@
         ],
         "2-1-message": [
             "\\C[3]Disque d'une Victime E\n\nUn disque trouvé au rez-de-chaussée contenant\nles images des derniers instants d'une victime."
+        ],
+        "10-1-message": [
+            "\\C[3]Je peux voir l'entrée du deuxième étage."
         ]
     },
     "items-54": {
