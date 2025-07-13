@@ -13533,14 +13533,17 @@
             "\\.\"Odieux... Tu es odieux, Kai...!!\""
         ],
         "863-0-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\"...\""
+            "\"Tout le monde...\n N'allez-vous pas voter pour Kanna...?\"",
+            "\"...\n ...\n ...\"",
+            "\"...\n ...\n ...\"",
+            "\\.\\C[4](Je ne devrais pas...)",
+            "\"...\n ...\n ...\"",
+            "\\.\\C[4](Je ne devrais pas...)",
+            "\"...\n ...\n ...\"",
+            "\"...\"",
+            "\\.\"...\n ....\"",
+            "\\.\"Hum... Tout le monde...\"",
+            "\\.\"N'allez-vous pas... voter pour Kanna...?\""
         ],
         "1133-0-message": [
             null,
@@ -19835,7 +19838,44 @@
             "\\.\"... Hein... ?\"",
             "\\.\"Et je vous ai promis\n que j'accomplirai mon devoir conformément\n au règlement.\"",
             "\\.\"Si j'en accepte la responsabilité au prix de ma vie...\n Le Jeu Principal \\C[2]continuera\\C[0].\"",
-            "\\.\"V-Vous plaisantez...?! Arrêtez...!!\""
+            "\\.\"T-Tu plaisantes, j'espère...?! Arrête...!!\"",
+            "\\.\"Tout le monde... Tâchez d'être victorieux.\"",
+            "\"J'y crois pas !! C'est vraiment...!!\"",
+            "\"Il s'est buté...! Putain, ce Gashu !!\"",
+            "\"Inconcevable !! Il s'est suicidé...?!\"",
+            "\"Non... Nooon...!!\"",
+            "\\.\"C-C'est impossible !!\n Ça aurait dû être terminé...!!\n Pourquoi... Comment...?!\"",
+            "\"Ahh... ahhhhh...\"",
+            "\"Il avait l'intention de faire ça depuis le début...?!\"",
+            "\\.\\C[4](Pourquoi ?!)",
+            "\\.\\C[4](Nous avions tout misé, tout notre courage reposait\n sur cette extension d'un jour supplémentaire !)",
+            "\\.\\C[4](Et juste comme ça...\n Gashu a tranquillement mis fin à ses jours !!)",
+            "\\.\\C[4](Il a si facilement... étouffé notre espoir !!)",
+            "\\.\\C[4](Qui est capable d'une chose pareille ?!\n Il est pas humain...!)",
+            "\\.\\C[4](C'est un démon !!)",
+            "\\.\"Ce n'était pas sensé...\"",
+            "\\.\"Lara...!\"",
+            "\\.\"Je t'en supplie !!\n Mets le Jeu Principal en pause !!\n C'est une urgence, non...?!\"",
+            "\\.\"Je n'en ai pas l'autorisation...\n Je suis limitée à mon rôle de remplaçante.\"",
+            "\\.\"N-Non...\n Allons-nous vraiment reprendre ?!\"",
+            "\\.\"T-Tout ceci... est dans le respect des règles !\n Si je refuse, tout le monde mourra !!\"",
+            "\\.\"Ce n'est pas possible...! Ce n'est pas possible !!\"",
+            "\\.\"Je t'en supplie !\n Il n'y a pas besoin que ce soit dans 24 heures...\n Laissez-nous au moins recommencer...!!\"",
+            "\\.\"Pardonnez-moi...\"",
+            "\\.\"Je ferai ce que vous voulez !!\n Tout ce que vous voulez...\n Alors pitié...!\"",
+            "\\.\"Pardonnez-moi... Pardonnez-moi...\"",
+            "\\.\"Ahh... hh...!!\"",
+            "\\.\"Ouuuuh... aaaaahhhhh...!!\"",
+            "\\.\\C[4](Nao...)",
+            "\\.\\C[3]Nao... est le \\C[10]Sacrifice\\C[3].",
+            "\\.\\C[3]Personne ne votera pour elle.",
+            "\\.\\C[4](Et...)",
+            "\\.\\C[4](Quant à nous, nous devrons choisir...)",
+            "\\.\\C[4](L'un des \\C[5]Roturiers\\C[4]... Sou ou Kanna...)",
+            "\"Nao est le \\C[10]Sacrifice\\C[0]...\n Moi, je suis le \\C[2]Maître des Clés\\C[0]...\n On peut que voter pour Sou ou Kanna...\"",
+            "\"...\n ...\n ...\"",
+            "\"C'est évident... pour qui vous allez voter...\"",
+            "\"... Ooh... oouh... Booouh...\""
         ],
         "963-0-message": [
             "\\.\"...\"",
@@ -20186,6 +20226,41 @@
         ],
         "814-0-message": [
             "\\C[10]Niveau d'Hallucination empiré de 10."
+        ],
+        "856-0-message": [
+            "\\C[4](Suis-je capable de faire face à mes hallucinations...?)",
+            "\\C[10]\"Sara...\"",
+            "\\.\\C[4](Tu n'es pas Joe...!!)",
+            "\\C[4](Je dois \\C[2]repousser\\C[4] les \\C[2]étreintes malsaines\\C[4]\n qui tentent de m'influencer !!)"
+        ],
+        "856-0-choice": [
+            "Les affronter\nJe ne suis pas prête"
+        ],
+        "862-0-message": [
+            "\"Nao est le \\C[10]Sacrifice\\C[0]...\n Moi, je suis le \\C[2]Maître des Clés\\C[0]...\n On peut que voter pour Sou ou Kanna...\"",
+            "\"...\n ...\n ...\"",
+            "\\.\\C[4](Je ne devrais pas...)",
+            "\"...\n ...\n ...\"",
+            "\\.\\C[4](Je ne devrais pas...)",
+            "\"...\n ...\n ...\""
+        ],
+        "864-0-message": [
+            "\"Malgré toutes mes contributions...\n Vous allez tous voter pour moi, pas vrai...?\"",
+            "\"C'est évident... pour qui vous allez voter...\"",
+            "\"...\n ...\n ...\"",
+            "\\.\\C[4](Je ne devrais pas...)",
+            "\"...\n ...\n ...\"",
+            "\\.\\C[4](Je ne devrais pas...)",
+            "\"... Je n'en peux plus...\"",
+            "\\.\"Malgré toutes mes contributions...\n Vous allez tous voter pour moi, pas vrai...?\""
+        ],
+        "865-0-message": [
+            "\"... Ooh... oouh... Booouh...\"",
+            "\"... Ouhhh...\"",
+            "\\.\\C[4](Je ne devrais pas...)",
+            "\"... Ouhhh...\"",
+            "\\.\\C[4](Je ne devrais pas...)",
+            "\\sp[15]\"Pitié... quelqu'un... à l'aide...\""
         ]
     },
     "map107": {
@@ -35107,7 +35182,7 @@
         "name": "Couloir en Ruines"
     },
     "items-114": {
-        "name": "Salle de Surveillance"
+        "name": "Salle de Contrôle"
     },
     "items-113": {
         "name": "Ma Chambre"
@@ -35233,7 +35308,7 @@
     },
     "items-140": {
         "name": "Arrêter le Visionnage",
-        "description": "Arrêter de visionner les informations personnelles\nou les vidéos des victimes depuis la Salle de Surv."
+        "description": "Arrêter de visionner les informations personnelles\nou les vidéos des victimes depuis la Salle de Contrôle."
     },
     "items-157": {
         "description": "Traite de la dissolution de 36-Rai 818. Chanteuse :\n\"Je peux plus chanter les chansons de ce groupe.\"",
