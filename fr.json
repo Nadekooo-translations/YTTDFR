@@ -28620,7 +28620,7 @@
             "\\.\\C[4](Il fait totalement noir...\n C'est donc ça, ce que Nao a vécu...?\n Assise, dans la pénombre...)",
             "\\.\\C[4](Toute seule...\n Parlant à la tête de Monsieur Mishima...)",
             "\\.\"Nao avait perdu tout espoir...\"",
-            "\\.\"Et Kai a profité de sa désolation.\"",
+            "\\.\"Et Kai a profité de sa désolation...\"",
             "\\.\"Pour prendre l'ordi des mains de Sou.\"",
             "\\.\"C'est dingue qu'elle ait pu s'en remettre.\"",
             "\\.\"... On devient tous un peu plus fort, petit à petit.\"",
@@ -28629,23 +28629,23 @@
             "\\.\"Non, rien, oublie.\"",
             "\\.\"...\"",
             "\\.\\C[4](Une seconde...\n Personne n'a remarqué ce passage secret ?)",
-            "\\.\"Je me demande si Kai l'avait trouvé...\"",
+            "\\.\"Je me demande si Kai avait remarqué\n le passage secret...\"",
             "\\.\"Ouais, c'est ce que je me dis aussi.\"",
             "\\.\"Quoi...?!\"",
-            "\\.\"Je me demande si Nao l'avait remarqué...\"",
+            "\\.\"Je me demande si Nao avait remarqué\n le passage secret...\"",
             "\\.\"Hmm...\n Elle aurait largement eu le temps pour\n le trouver, mais...\"",
             "\\.\"Tu penses vraiment qu'avec la panique dans laquelle\n elle était, elle en aurait été capable ?\"",
             "\\.\\C[4](C'est vrai...)",
             "\\.\"Mais Kai, par contre...\n Il l'a peut-être remarqué.\"",
             "\\.\"Quoi...?!\"",
-            "\\.\"Je me demande si Rillante était au courant\n de son existence ?\"",
+            "\\.\"Je me demande si Rillante était au courant\n de l'existence du passage secret ?\"",
             "\\.\"... Y a large moyen.\"",
             "\\.\"Elle a dit qu'elle était Maître d'Étage.\n Je serais pas surpris qu'elle connaisse la\n structure des salles.\"",
             "\\.\"... Et il a sûrement pas échappé à Kai.\"",
             "\\.\"Quoi...?!\"",
             "\\.\"Je sais pas s'il était au courant de base ou\n s'il l'a juste trouvé en explorant l'étage, mais...\"",
             "\\.\"Je pense que c'est ça, l'explication finale...\n C'est comme ça que l'ordi a atterri dans\n la Salle Effondrée.\"",
-            "\\.\\C[4](Kai est venu au troisième étage et a placé\n l'ordinateur ici...)",
+            "\\.\\C[4](Kai est allé au troisième étage et a placé\n l'ordinateur là-bas...)",
             "\\.\\C[4](Il a raison, c'est possible...)",
             "\\.\"Bahaha... Perso, j'en suis convaincu.\"",
             "\\.\"... Bon, allez. Partons chercher Gin.\""
@@ -33665,6 +33665,15 @@
         ],
         "3-1-message": [
             "\\C[3]Cette porte mène à la cuisine."
+        ],
+        "2-1-message": [
+            "\\C[3]Par ici se trouve l'arrière de la cafétéria."
+        ],
+        "2-1-choice": [
+            "Y aller\nAnnuler"
+        ],
+        "3-1-choice": [
+            "Entrer dans la cuisine\nAnnuler"
         ]
     },
     "map216": {
