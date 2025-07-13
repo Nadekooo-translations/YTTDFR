@@ -19834,7 +19834,8 @@
             "\\.\\C[5][4] En cas de mauvaise conduite lors du Jeu Principal,\n    soit il \\C[2]reprend suite à la mort du responsable\\C[5],\n    soit il est réitéré 24 heures plus tard !",
             "\\.\"... Hein... ?\"",
             "\\.\"Et je vous ai promis\n que j'accomplirai mon devoir conformément\n au règlement.\"",
-            "\\.\"Si j'en accepte la responsabilité au prix de ma vie...\n Le Jeu Principal \\C[2]continuera\\C[0].\""
+            "\\.\"Si j'en accepte la responsabilité au prix de ma vie...\n Le Jeu Principal \\C[2]continuera\\C[0].\"",
+            "\\.\"V-Vous plaisantez...?! Arrêtez...!!\""
         ],
         "963-0-message": [
             "\\.\"...\"",
