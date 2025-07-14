@@ -20072,21 +20072,21 @@
             "\\.\\C[4](...\n...\n...)"
         ],
         "852-0-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "Snif snif snif...",
+            "\\.\"A-Ahhh !! Arrête de me renifler, s'il te plaît !!\"",
+            "\\.\"Je le fais pas par plaisir, miaou !!\n Me prends pas pour un pervert, ouaf !!\"",
+            "\\.\"Gin...\n Il n'y pas besoin de la sentir pour savoir\n qu'elle sent bon.\"",
+            "\\.\"Ç-Ça suffit ! Qu'est-ce qu'il te prend ?!\"",
+            "\"Hum... Sara...\"",
+            "\\.\"Sou essaie de nous faire sortir d'ici, oui...?\"",
+            "\\.\"Kanna...\"",
+            "\"Tout à fait.\n On se repose sur Sou, au final, mais...\"",
+            "\\.\"... Je suis sûre qu'il réussira.\"",
+            "\\.\\C[4](Kanna... Tu lui fais confiance.)",
+            "\"Il a peut-être un autre objectif en tête...\"",
+            "\\.\"Mais tu comptes quand même sur l'aide de Sou,\n non ?\"",
+            "\\.\"...!\"",
+            "\\.\"Je sais... qu'une part de toi veut croire en lui,\n Sara...\"",
             "\\.\\C[4](...\n...\n...)"
         ],
         "1757-0-message": [
@@ -20385,7 +20385,93 @@
             "\\.\"A-Attends !!\"",
             "\\.\"Madame Sara... tenez...\"",
             "\\.\"C-C'est...!!\"",
-            "\\.\"Il s'agit... d'un \\C[2]interrupteur de mort instantanée\\C[0].\""
+            "\\.\"Il s'agit... d'un \\C[2]interrupteur de mort instantanée\\C[0].\"",
+            "\\.\"À moins que vous souhaitiez prolonger sa souffrance...\n Vous n'avez d'autre choix que de le presser.\""
+        ],
+        "851-0-message": [
+            "Snif snif snif...",
+            "\\.\"Ça sent le gorille, miaou !\"",
+            "\\.\"... Ça, c'est parce que j'ai un gorille sur\n les épaules.\"",
+            "\"Q-taro a toujours pas repris connaissance.\"",
+            "\\.\"C'est comme s'il dormait profondément.\"",
+            "\\.\"Oh...\"",
+            "\"J'espère qu'il va se réveiller...\"",
+            "\\.\"T'inquiète.\n Au pire on lui jettera de l'eau à la tête.\"",
+            "\\.\\C[4](On est en cours d'EPS, ou quoi ?)",
+            "\"Et si on arrivait à sortir d'ici avant qu'il\n se réveille ?\"",
+            "\\.\"Ça serait hilarant.\n Un peu comme faire une blague à quelqu'un\n quand il dort.\"",
+            "\\.\\C[4](Ce serait une blague bien réjouissante...)"
+        ],
+        "851-0-choice": [
+            "Je suis inquiète pour lui\nSortons d'ici avant son réveil"
+        ],
+        "853-0-message": [
+            "Snif snif snif...",
+            "\\.\"Ça sent grande sœur Nao, miaou !\"",
+            "\\.\"Rassure-moi, c'est une bonne chose ?!\"",
+            "\"Si je croise Gashu...\n Je m'occuperai de le distraire !\"",
+            "\"J'espère que le Maître d'Étage ne se rend pas compte\n de notre plan...\"",
+            "\\.\"Si Gashu nous voyait, ça tournerait mal...\"",
+            "\\.\"Suite à l'incident de la fausse IA de\n Monsieur Mishima...\n Ils risquent de bientôt se rendre compte de nos\n manigances...!\"",
+            "\\.\\C[4](Si ça arrive, ils seront bien plus prudents...)",
+            "\"Il est toujours dans sa chambre, Sou ?\"",
+            "\\.\"Euh...\n Il semblait se diriger vers la Salle de Contrôle.\"",
+            "\\.\"Ne me dis pas que la salle secrète se trouve là-bas ?!\"",
+            "\\.\"Ça se peut...!\"",
+            "\\.\\C[4](Je ferais mieux d'aller jeter un coup d'œil\n à la Salle de Contrôle !)",
+            "\"Nous devrions distraire Gashu.\"",
+            "\\.\"Maintenant que tu en parles...\n Quand on s'est croisé, il cherchait Lara.\"",
+            "\\.\"S'ils discutent, nous devrions avoir un peu plus\n de temps.\"",
+            "\\.\\C[4](Je vois...)",
+            "\\.\"Euh... Sara.\"",
+            "\\.\"Je crois que Sou se dirigeait vers\n la Salle de Contrôle...\"",
+            "\\.\"Quoi ?!\n Ne me dis pas que la salle secrète se trouve là-bas ?!\"",
+            "\\.\"Peut-être...!\n Pourrais-tu aller regarder ce qu'il se passe ?\"",
+            "\\.\\C[4](Allez... Direction, la Salle de Contrôle !)"
+        ],
+        "852-0-choice": [
+            "Tout à fait\nQuelque chose cloche"
+        ],
+        "853-0-choice": [
+            "Où est Sou ?\nNous devrions distraire Gashu"
+        ],
+        "854-0-message": [
+            "Snif snif snif...",
+            "\\.\"Miaou ! Ça sent frais !\n Comme quand tu te réveilles, ouaf !\"",
+            "\\.\"Ça sent bon, hein ?\n Tu veux sentir comme ça aussi, Gin ?\"",
+            "\\.\"J-Je vais y réfléchir, miaou.\"",
+            "\"Mais, sérieux...\n C'est vrai cette histoire de sortie, là ?!\"",
+            "\\.\"... J'avoue que j'arrive pas à y croire...\"",
+            "\\.\"Reko...\"",
+            "\"C'est la vérité...\n On a trouvé une piste pour s'échapper d'ici.\"",
+            "\\.\"Putain, meuf...!\n L'impossible est possible avec toi, Sara...\"",
+            "\\.\"Et maintenant, on a plus qu'à saisir l'occasion...!\"",
+            "\\.\\C[4](Quelque chose me dit que ce ne sera pas\n si facile...)",
+            "\"Non, désolée. C'était juste une blague.\"",
+            "\\.\"... ... ... ... ...\"",
+            "\\.\"... Hé bah, si tu te permets faire l'andouille,\n c'est que ça doit être une sacrée piste.\"",
+            "\\.\\C[4](Elle a vu clair dans mon jeu...!)",
+            "Snif snif snif...",
+            "\\.\"Ouaaah...\n Quelle bonne odeur exacerbée, miaou...\"",
+            "\\.\"Hmph... La propreté est critique chez les hommes.\"",
+            "\"Toi, là. Sara Chidouin.\"",
+            "\\.\"J'ai cru entendre dire que nous avions trouvé\n une sortie...\n Est-ce la vérité ?\"",
+            "\\.\"... Alice...\"",
+            "\"C'est la vérité...\n On a trouvé une piste pour s'échapper d'ici.\"",
+            "\\.\"...!!\"",
+            "\\.\"Je vois...!\"",
+            "\\.\\C[4](...)",
+            "\\.\"... Que se passe-t-il ?\n La nouvelle ne te réjouit pas ?\"",
+            "\\.\"Si, bien sûr...\"",
+            "\\.\\C[4](Je ne sens presque plus de pulsions de vengeance\n chez Alice...)",
+            "\"Non, désolée. C'était juste une blague.\"",
+            "\\.\\{\"QUOIIIIII ?! C'est quoi ton problème ?!\"",
+            "\\.\"M-Moins fort...!\n Écoute, bien évidemment que ce n'est pas\n une blague...!\"",
+            "\\.\"Comme si c'était pas toi qui m'as fait hurler !\n Fais plus de blagues dans ces situations, merci\n et au revoir !!\""
+        ],
+        "854-0-choice": [
+            "C'est la vérité\nC'est une blague",
+            "C'est la vérité\nC'est une blague"
         ]
     },
     "map107": {
@@ -26871,7 +26957,7 @@
             "\\C[3]Une douce lueur illumine la chambre."
         ],
         "47-1-message": [
-            "\"... Ça sent grande sœur Sara ; bon, miaou.\"",
+            "\"... Ça sent bon comme grande sœur Sara, miaou.\"",
             "\\.\\C[4](Ne commence pas à développer de hobby bizarre, Gin...)"
         ]
     },
