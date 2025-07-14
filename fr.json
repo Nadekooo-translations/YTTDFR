@@ -28074,7 +28074,7 @@
     },
     "map143": {
         "28-1-message": [
-            null,
+            "\\C[3]C'est fermé, impossible de l'ouvrir.",
             null,
             null,
             null,
@@ -28093,7 +28093,7 @@
             "\\.\"...\""
         ],
         "28-2-message": [
-            null,
+            "\\C[3]C'est fermé, impossible de l'ouvrir.",
             null,
             null,
             null,
@@ -28172,10 +28172,17 @@
         ],
         "2-4-message": [
             "\\.\\C[3]Sur la porte est écrit :\n\"Entrez le nombre de gosses qui ont pas le droit\n de boire\".",
-            "\\.\\C[4](Je pense que je peux résoudre cette énigme, maintenant.)",
-            null,
+            "\\.\\C[4](Je pense pouvoir résoudre cette énigme, maintenant.)",
+            "\\.\\C[4](En parlant de boire...\n N'y avait-il pas un \\C[2]bar\\C[4] au rez-de-chaussée ?)",
             "\\C[3]Il y a quelque chose d'écrit en petit sous la poignée.",
-            "\\.\\C[3]\"Entrez le nombre de gosses qui ont pas le droit\n de boire.\""
+            "\\.\\C[3]\"Entrez le nombre de gosses qui ont pas le droit\n de boire.\"",
+            "\\.\"Hm... C'est un indice, ça ?\"",
+            "\\.\\C[4](Ça sonne assez méprisant...)",
+            "\\.\\C[4](Mais je devrais pouvoir résoudre l'énigme\n au cadran maintenant !)",
+            "\\.\\C[4](En parlant de boire...\n N'y avait-il pas un \\C[2]bar\\C[4] au rez-de-chaussée ?)"
+        ],
+        "2-6-message": [
+            "\\C[3]Sur la porte est écrit :\n\"Entrez le nombre de gosses qui ont pas le droit\n de boire\"."
         ]
     },
     "map167": {
