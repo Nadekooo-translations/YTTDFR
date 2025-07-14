@@ -28075,26 +28075,35 @@
     "map143": {
         "28-1-message": [
             "\\C[3]C'est fermé, impossible de l'ouvrir.",
-            "\\.\"Ngh, cette porte.... Elle a toujours été fermée ?\"",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\.\"Ngh, cette porte...\n Elle était fermée, avant ?\"",
+            "\"Non...\"",
+            "\\.\\C[3]En examinant la poignée de plus près,\nje remarque un cadran sur le côté.",
+            "\\.\\C[4](Ce doit être un verrou.\n On dirait qu'on peut entrer un chiffre entre 1 et 9.)",
+            "\\.\\C[4](Je n'ai qu'à essayer chaque possibilité,\n il n'y en a que 9...)",
+            "\\.\"Sara, attends.\n Il y a des trous minuscules sur la poignée.\"",
+            "\\.\"Des trous...?\"",
+            "\\.\"... Y a moyen que des épines empoisonnées en sortent.\"",
+            "\\.\"...!\n Je n'ai vraiment pas le droit à l'erreur, alors.\"",
+            "\\.\"T'es sûre qu'y a pas d'indice, ici ?\n Tu ferais mieux de savoir c'est quoi le délire\n avant de t'y essayer.\"",
+            "\\.\\C[4](C'est bizarre, c'était ouvert la première fois...)",
+            "\"Keiji, on fait comme d'habitude.\n Utilise ta force pour enfoncer la porte s'il te plaît.\"",
+            "\\.\"Hm...?\n Je crois pas que ce soit dans mes compétences, ça.\"",
+            "\\.\"Ces bras servent à protéger la population, tu sais.\"",
+            "\\.\\C[4](Pas d'autre choix...\n Je devrais en savoir un peu plus avant d'y toucher.\n Je me demande s'il y a un indice quelque part...)",
             "\\.\"...\""
         ],
         "28-2-message": [
             "\\C[3]C'est fermé, impossible de l'ouvrir.",
             null,
+            "\\.\\C[4](Je n'ai qu'à essayer chaque possibilité,\n il n'y en a que 9...)",
+            "\\.\"Sara, attends.\n Il y a des trous minuscules sur la poignée.\"",
+            "\\.\"Des trous...?\"",
+            "\\.\"... Y a moyen que des épines empoisonnées en sortent.\"",
+            "\\.\"...!\n Je n'ai vraiment pas le droit à l'erreur, alors.\"",
+            "\\.\"On a eu l'indice, mais...\n \\C[2]Ça pourrait mal tourner si tu te trompes\\C[0].\"",
+            "\\.\\C[4](Je devrais rester sur mes gardes...)",
+            "\\.\"T'es sûre qu'y a pas d'indice, ici ?\n Tu ferais mieux de savoir c'est quoi le délire\n avant de t'y essayer.\"",
+            "\\.\\C[4](C'est bizarre, c'était ouvert la première fois...)",
             null,
             null,
             null,
@@ -28127,18 +28136,9 @@
             null,
             null,
             null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\.\"Hm...?\n Je crois pas que ce soit dans mes compétences, ça.\"",
+            "\\.\"Ces bras servent à protéger la population, tu sais.\"",
+            "\\.\\C[4](Pas d'autre choix...\n Je devrais en savoir un peu plus avant d'y toucher.\n Je me demande s'il y a un indice quelque part...)",
             "\\.\"...\""
         ],
         "14-1-message": [
@@ -28183,6 +28183,20 @@
         ],
         "2-6-message": [
             "\\C[3]Sur la porte est écrit :\n\"Entrez le nombre de gosses qui ont pas le droit\n de boire\"."
+        ],
+        "28-1-choice": [
+            "S'essayer au cadran\nDemander à Keiji"
+        ],
+        "28-2-choice": [
+            "S'essayer au cadran\nDemander à Keiji\nAnnuler",
+            "\"1\"\n\"2\"\n\"3\"\n\"4\"\n\"5\"\n\"6\"",
+            "\"7\"\n\"8\"\n\"9\"\nAnnuler"
+        ],
+        "28-3-message": [
+            "\\C[3]Ça s'est ouvert..."
+        ],
+        "28-3-choice": [
+            "Entrer\nAnnuler"
         ]
     },
     "map167": {
