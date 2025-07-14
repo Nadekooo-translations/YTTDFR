@@ -4535,7 +4535,7 @@
             "\\.\"Mais plus j'essaie de m'en convaincre, plus je\n deviens méfiant...\"",
             "\\.\"...\"",
             "\\.\"Écoute, Sara.\"",
-            "\\.\"Tu pourrais... essayer d'en savoir un peu plus sur\n Keiji ?\"",
+            "\\.\"Tu pourrais... essayer d'en apprendre un peu plus\n sur Keiji ?\"",
             "\\.\"Moi...?\"",
             "\\.\"...\n ...\n ...\"",
             "\\.\"... Nan, désolé.\n Fais comme si je t'avais rien demandé.\"",
@@ -12669,19 +12669,19 @@
             "\\C[3]La porte rouge est fermement verrouillée."
         ],
         "960-0-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\.\"Grande sœur Sara !\n Y a quelque chose dans les escaliers, miaou.\"",
+            "\\.\\C[4](Hm...?)",
+            "\\.\"...\n ...\n...\"",
+            "\\C[3]La porte est fermée.\nImpossible d'entrer dans la Salle Rose.",
+            "\\.\\C[4](Tiens...? Comment ça se fait ?\n Je devrais examiner la porte de plus près.)",
             "\\C[3]La porte rouge est fermement verrouillée."
         ],
         "1012-0-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\.\"Grande sœur Sara !\n Y a quelque chose dans les escaliers, miaou.\"",
+            "\\.\\C[4](Hm...?)",
+            "\\.\"...\n ...\n...\"",
+            "\\C[3]La porte est fermée.\nImpossible d'entrer dans la Salle Rose.",
+            "\\.\\C[4](Tiens...? Comment ça se fait ?\n Je devrais examiner la porte de plus près.)",
             "\\C[3]La porte rouge est fermement verrouillée."
         ],
         "59-0-message": [
@@ -28294,10 +28294,10 @@
             "\\.\"...!\n Je n'ai vraiment pas le droit à l'erreur, alors.\"",
             "\\.\"T'es sûre qu'y a pas d'indice, ici ?\n Tu ferais mieux de savoir c'est quoi le délire\n avant de t'y essayer.\"",
             "\\.\\C[4](C'est bizarre, c'était ouvert la première fois...)",
-            "\"Keiji, on fait comme d'habitude.\n Utilise ta force pour enfoncer la porte s'il te plaît.\"",
+            "\"Allez, Keiji. On fait comme d'habitude.\n Utilise ta force pour enfoncer la porte,\n s'il te plaît.\"",
             "\\.\"Hm...?\n Je crois pas que ce soit dans mes compétences, ça.\"",
-            "\\.\"Ces bras servent à protéger la population, tu sais.\"",
-            "\\.\\C[4](Pas d'autre choix...\n Je devrais en savoir un peu plus avant d'y toucher.\n Je me demande s'il y a un indice quelque part...)",
+            "\\.\"Ces bras servent à protéger la population,\n pas à détruire.\"",
+            "\\.\\C[4](Pas d'autre choix...\n Je devrais me renseigner avant d'y toucher.\n Je me demande s'il y a un indice quelque part...)",
             "\\.\"...\""
         ],
         "28-2-message": [
@@ -28343,10 +28343,10 @@
             "\\.\"... Si ça continue, tu vas finir par me donner\n des friandises.\"",
             "\\.\"Si toi t'arrives pas à le résoudre,\n c'est foutu pour moi.\"",
             "\\.\\C[4](Rgh...)",
-            "\"Keiji, on fait comme d'habitude.\n Utilise ta force pour enfoncer la porte s'il te plaît.\"",
+            "\"Allez, Keiji. On fait comme d'habitude.\n Utilise ta force pour enfoncer la porte,\n s'il te plaît.\"",
             "\\.\"Hm...?\n Je crois pas que ce soit dans mes compétences, ça.\"",
-            "\\.\"Ces bras servent à protéger la population, tu sais.\"",
-            "\\.\\C[4](Pas d'autre choix...\n Je devrais en savoir un peu plus avant d'y toucher.\n Je me demande s'il y a un indice quelque part...)",
+            "\\.\"Ces bras servent à protéger la population,\n pas à détruire.\"",
+            "\\.\\C[4](Pas d'autre choix...\n Je devrais me renseigner avant d'y toucher.\n Je me demande s'il y a un indice quelque part...)",
             "\\.\"...\""
         ],
         "14-1-message": [
@@ -28431,8 +28431,8 @@
             "\\.\"Ça, c'est la première Rillante qu'on a rencontrée.\"",
             "\\.\"Attends une minute.\"",
             "\\.\"Elle s'est présentée en tant que la Poupée Ricanante,\n Sue Rillante...\n Mais elle doit être humaine.\"",
-            "\\.\"Qu'est-ce qui te fait penser ça ?\"",
-            "\\.\"... Rappelle-toi de tout ce qui s'est passé\n jusqu'à présent.\"",
+            "\\.\"Comment t'es arrivée à cette conclusion ?\"",
+            "\\.\"... Rappelle-toi de tout ce qu'il s'est passé\n jusqu'à présent.\"",
             "\\.\"Les \\C[2]poupées ne saignent pas\\C[0]...\n Ray, qui en était une, a démontré ce fait\n avec son propre corps.\"",
             "\\.\"Et...\"",
             "\\.\"Quand Rillante s'est fait frapper par Kai,\n elle a \\C[2]saigné\\C[0].\"",
@@ -28440,14 +28440,14 @@
             "\\.\"Bahaha... Très bonne mémoire, Sara.\n C'est tout pile ça.\"",
             "\\.\"Cette poupée est sûrement la première Rillante\n qu'on a rencontrée.\"",
             "\\.\"La première...?\"",
-            "\\.\"Lorsque que nous 11 nous étions regroupés...\"",
-            "\\.\"Notre première mission était de trouver les membres\n détachés du corps de Rillante, pas vrai ?\"",
+            "\\.\"Ouais.\n Quand nous 11 nous étions réunis...\"",
+            "\\.\"Notre première mission était de trouver les membres\n du corps de Rillante, tu te souviens ?\"",
             "\\.\"En y repensant...\n On a trouvé ses membres, on l'a assemblée...\"",
-            "\\.\\C[4](Et après qu'un gaz blanc a rempli la pièce...\n Rillante s'est soudainement mise à bouger.)",
+            "\\.\\C[4](Et après qu'un gaz blanc a rempli la pièce...\n Rillante est soudainement venue à la vie.)",
             "\\.\\C[4](Un gaz... blanc ?)",
             "\\.\\C[4](Mais oui, la pièce ayant été remplie de gaz\n est reliée à celle-ci par la ventilation...!)",
             "\\.\"C'est là que la version humaine de Rillante\n a pris le relais.\"",
-            "\\.\\C[4](Voilà ce qu'il s'est réellement passé...!)",
+            "\\.\\C[4](Voilà ce qu'il s'est donc réellement passé...!)",
             "\\.\\C[4](La vraie Rillante est donc différente\n de cette poupée...!)",
             "\\.\"Si tu remontes dans tes souvenirs,\n tu devrais arriver à la même conclusion.\"",
             "\\.\"\\C[2]Les poupées ne saignent pas\\C[0]...\n Ray, qui en est une, a démontré ce fait\n avec son corps.\"",
@@ -28456,7 +28456,7 @@
             "\\.\"Le mystère commence à s'éclaircir, non ?\"",
             "\\.\"...\"",
             "\\.\"Je suis sûr que cette pièce nous cache\n d'autres vérités alléchantes.\"",
-            "\\.\"Continuer de regarder aux alentours.\"",
+            "\\.\"Continuons de regarder aux alentours.\"",
             "\\.\\C[4](Je me demande si Rillante est toujours\n à cet étage...)"
         ],
         "2-1-message": [
@@ -28784,7 +28784,7 @@
             "\\.\"J'ai du mal à imaginer qu'on puisse croiser de\n nouveaux survivants, c'est un peu tard pour ça...\"",
             "\\.\\C[4](Si c'est un ennemi...\n On ferait mieux de ne pas se faire remarquer !)",
             "\\.\"Bon, on dirait pas qu'y a moyen de passer\n de l'autre côté, en tout cas.\"",
-            "\\.\"On s'en ira discrètement une fois qu'on aura\n fini de fouiller...\""
+            "\\.\"On s'en ira discrètement quand on aura\n fini de fouiller...\""
         ],
         "36-1-message": [
             "\\C[3]Un disque intitulé \"Vidéo Surveillance du RDC\"."
@@ -28807,7 +28807,7 @@
         ],
         "42-2-message": [
             "\\C[3]Des composants de machine sont éparpillés.",
-            "\\.\\C[4](Tiens...\n J'ai l'impression que ce sont des matériaux semblables\n à nos colliers...)"
+            "\\.\\C[4](Tiens...\n J'ai l'impression que ce sont des matériaux semblables\n à ceux de nos colliers...)"
         ],
         "59-1-message": [
             "\\C[3]La machine est dotée d'un certain nombre\nde petites lumières colorées.",
@@ -28958,11 +28958,11 @@
             "\\.\"Je me demande si Rillante était au courant\n de l'existence du passage secret ?\"",
             "\\.\"... Y a large moyen.\"",
             "\\.\"Elle a dit qu'elle était Maître d'Étage.\n Je serais pas surpris qu'elle connaisse la\n structure des salles.\"",
-            "\\.\"... Et il a sûrement pas échappé à Kai.\"",
+            "\\.\"... Et il a sûrement pas échappé à Kai non plus.\"",
             "\\.\"Quoi...?!\"",
             "\\.\"Je sais pas s'il était au courant de base ou\n s'il l'a juste trouvé en explorant l'étage, mais...\"",
-            "\\.\"Je pense que c'est ça, l'explication finale...\n C'est comme ça que l'ordi a atterri dans\n la Salle Effondrée.\"",
-            "\\.\\C[4](Kai est allé au troisième étage et a placé\n l'ordinateur là-bas...)",
+            "\\.\"Je pense que c'est la meilleure explication...\n C'est comme ça que l'ordi a atterri dans\n la Salle Effondrée.\"",
+            "\\.\\C[4](Kai serait allé au troisième étage et\n aurait placé l'ordinateur là-bas...?)",
             "\\.\\C[4](Il a raison, c'est possible...)",
             "\\.\"Bahaha... Perso, j'en suis convaincu.\"",
             "\\.\"... Bon, allez. Partons chercher Gin.\""
@@ -34726,8 +34726,8 @@
     },
     "map175": {
         "4-2-message": [
-            null,
-            null,
+            "\\C[3]J'arrive légèrement à apercevoir des mots qui\nse sont faits effacer.",
+            "\\.\\C[3]\"Ab a nd on n e  to i\"",
             "\\.\\C[4](...?)"
         ],
         "3-1-message": [
@@ -34756,6 +34756,9 @@
         ],
         "46-1-message": [
             "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
+        ],
+        "1-1-message": [
+            "\\C[3]Une déchiqueteuse vide."
         ]
     },
     "map89": {
@@ -36964,6 +36967,18 @@
         ],
         "34-1-message": [
             "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
+        ],
+        "3-1-message": [
+            "\\C[3]La porte blanche est fermée."
+        ],
+        "4-1-message": [
+            "\\C[3]Cette porte mène à la Salle Noire."
+        ],
+        "4-1-choice": [
+            "Entrer dans la Salle Noire\nAnnuler"
+        ],
+        "2-1-message": [
+            "\\C[3]La porte menant au terrain où s'est déroulé\nle Jeu Principal... vraisemblablement."
         ]
     },
     "map129": {
