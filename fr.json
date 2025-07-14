@@ -28094,7 +28094,7 @@
         ],
         "28-2-message": [
             "\\C[3]C'est fermé, impossible de l'ouvrir.",
-            null,
+            "\\.\\C[4](Qu'est-ce que je devrais faire...?)",
             "\\.\\C[4](Je n'ai qu'à essayer chaque possibilité,\n il n'y en a que 9...)",
             "\\.\"Sara, attends.\n Il y a des trous minuscules sur la poignée.\"",
             "\\.\"Des trous...?\"",
