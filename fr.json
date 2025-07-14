@@ -33703,7 +33703,7 @@
             "\\.\"Mais si ça nous permet de consulter toutes les\n caméras de sécurité du complexe...!\"",
             "\\.\"Ça m'a l'air d'être un bien meilleur plan que de\n retourner au rez-de-chaussée et risquer de se\n faire choper.\"",
             "\\.\"Allez, Sara. Au travail.\"",
-            null,
+            "\\.\"... Avant ça.\"",
             null,
             null,
             null,
@@ -33728,7 +33728,8 @@
             "\\.\"Et un \\C[2]mode surveillance dans la Salle de Contrôle\\C[0]...\"",
             "\\.\"Je ne sais pas quelles fonctionnalités ça a...\"",
             "\\.\"Mais si ça nous permet de consulter toutes les\n caméras de sécurité du complexe...!\"",
-            "\\.\"Ça m'a l'air d'être un bien meilleur plan que de\n retourner au rez-de-chaussée et risquer de se\n faire choper.\""
+            "\\.\"Ça m'a l'air d'être un bien meilleur plan que de\n retourner au rez-de-chaussée et risquer de se\n faire choper.\"",
+            "\\.\"Allons-y !\""
         ],
         "12-1-message": [
             "\\C[3]Je peux voir la cuisine à travers la vitre."
