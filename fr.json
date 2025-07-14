@@ -28172,7 +28172,7 @@
         ],
         "2-4-message": [
             "\\.\\C[3]Sur la porte est écrit :\n\"Entrez le nombre de gosses qui ont pas le droit\n de boire\".",
-            null,
+            "\\.\\C[4](Je pense que je peux résoudre cette énigme, maintenant.)",
             null,
             "\\C[3]Il y a quelque chose d'écrit en petit sous la poignée.",
             "\\.\\C[3]\"Entrez le nombre de gosses qui ont pas le droit\n de boire.\""
