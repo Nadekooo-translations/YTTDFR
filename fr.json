@@ -28145,8 +28145,8 @@
             "\\C[3]Une LED rouge sinistre illumine la porte."
         ],
         "2-2-message": [
-            null,
-            null,
+            "\\C[3]Il y a quelque chose d'écrit en petit sous la poignée.",
+            "\\.\\C[3]\"Entrez le nombre de gosses qui ont pas le droit\n de boire.\"",
             "\\.\\C[4](...?)"
         ],
         "3-1-message": [
@@ -28169,6 +28169,13 @@
         ],
         "18-1-message": [
             "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
+        ],
+        "2-4-message": [
+            "\\.\\C[3]Sur la porte est écrit :\n\"Entrez le nombre de gosses qui ont pas le droit\n de boire\".",
+            null,
+            null,
+            "\\C[3]Il y a quelque chose d'écrit en petit sous la poignée.",
+            "\\.\\C[3]\"Entrez le nombre de gosses qui ont pas le droit\n de boire.\""
         ]
     },
     "map167": {
@@ -33711,19 +33718,19 @@
             "\\.\\C[3]Le deuxième échange a été effectué il y a 4 minutes.",
             "\\.\\C[4](Je suis... toujours le \\C[2]Maître des Clés\\C[4]...)",
             "\\.\"... Et moi, je suis toujours un Roturier.\"",
-            "\\.\\C[4](Donc c'était entre d'autres personnes...)",
-            null,
-            null,
-            null,
+            "\\.\\C[4](Alors l'échange ne nous impliquait pas...)",
+            "\\.\"Heureusement pour nous, pas de complications.\n Bon allez. Direction : la Salle de Contrôle.\"",
+            "\\.\"On devrait vérifier nos rôles en priorité.\"",
+            "\\.\"Cet irritant signal d'échange s'est joué,\n tout à l'heure...!\"",
             "\\.\"Ah, ouais, c'est vrai.\"",
-            null,
+            "\\.\\C[4](On a qu'à regarder...!)",
             "\\.\\C[3]...",
             "\\.\\C[3]Le deuxième échange a été effectué il y a 4 minutes.",
             "\\.\\C[4](Je suis... toujours le \\C[2]Maître des Clés\\C[4]...)",
             "\\.\"... Et moi, je suis toujours un Roturier.\"",
             "\\.\\C[4](Alors l'échange ne nous impliquait pas...)",
-            null,
-            null,
+            "\\.\"Heureusement pour nous, pas de complications.\n Maintenant, parlons un peu de ce qu'on a entendu.\"",
+            "\\.\"Leur conversation était très intéressante...\"",
             "\\.\"Ouaip.\n Y aurait une certaine \\C[2]puce dans la tête de Ray\\C[0]...\"",
             "\\.\"Et un \\C[2]mode surveillance dans la Salle de Contrôle\\C[0]...\"",
             "\\.\"Je ne sais pas quelles fonctionnalités ça a...\"",
