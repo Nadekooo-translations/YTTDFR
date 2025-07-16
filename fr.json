@@ -32770,9 +32770,11 @@
             "\\.\\C[3]Un applaudissement satisfaisant retentit.",
             "\\.\"Ah...\"",
             "\\\"... Arrête avec cette drôle d'attitude, Sara.\"",
-            null,
-            null,
-            "\\.\"...\""
+            "\\.\\C[4](Dans ce cas, pourquoi as-tu joué le jeu...)",
+            "\\.\"... Tu es vraiment énergique.\"",
+            "\\.\"...\"",
+            "\\.\\C[4](Et pouf, ça y est.)",
+            "\\.\"Les choses vont devenir un peu plus difficiles\n à partir de maintenant.\""
         ],
         "3-4-message": [
             null,
