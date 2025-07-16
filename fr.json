@@ -32759,17 +32759,17 @@
     },
     "map170": {
         "1-3-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\C[3]Sou manipule un ordinateur installé dans la pièce.",
+            "\"J'ai réussi...!\"",
+            "\\.\"J'ai réussi, j'ai réussi ! Ça a marché, Sara !!\"",
+            "\\.\"J'ai profondément infiltré leur sécurité !\"",
+            "\\.\"Sou...!\"",
+            "\\.\"Tu y es parvenu !\"",
+            "\\.\"Ahaha. Ne nous réjouissons pas trop vite, Sara.\"",
+            "\\.\"Ouais !\"",
+            "\\.\\C[3]Un applaudissement satisfaisant retentit.",
+            "\\.\"Ah...\"",
+            "\\\"... Arrête avec cette drôle d'attitude, Sara.\"",
             null,
             null,
             "\\.\"...\""
@@ -32879,7 +32879,23 @@
             "\\.\"Est-ce qu'il devait devenir un genre de successeur...?\"",
             "\\.\"Un successeur...\"",
             "\\.\"Je me demande s'il était... un fils de substitution...\"",
-            "\\.\"Bah... Ce n'est pas vraiment important.\""
+            "\\.\"Bah... Ce n'est pas vraiment important.\"",
+            "\\.\"Je suis sûre que c'est juste un remplaçant...\n Ils allaient s'en servir s'il arrivait malheur à Gashu.\"",
+            "\\.\"Bah... Ce n'est pas vraiment important.",
+            "\\.\"Ça n’a pas vraiment d’importance pour nous.\"",
+            "\\.\"C'est vrai...\"",
+            "\\.\"Le piratage va encore prendre un certain temps.\n Pourriez-vous garder un œil en bas pour voir\n si quelqu'un vient ?\"",
+            "\\.\"Je vais rester à l'affût, miaou !\"",
+            "\\.\"Grande sœur Sara, surveille le ténébreux, ouaf !\"",
+            "\\C[4](Bien sûr, \"surveille Sou\", dis-tu...)"
+        ],
+        "1-1-choice": [
+            "Que fais-tu ?\nEst-ce la pièce secrète ?",
+            "À la place d'un fils ?\nCe n'est qu'un remplaçant\nÇa n'a pas d'importance"
+        ],
+        "1-2-message": [
+            "\\C[3]Sou manipule un ordinateur installé dans la pièce.",
+            "\\.\\C[4](Je ne peux pas l'interrompre maintenant...)"
         ]
     },
     "map183": {
