@@ -32764,17 +32764,31 @@
             "\\.\"J'ai réussi, j'ai réussi ! Ça a marché, Sara !!\"",
             "\\.\"J'ai profondément infiltré leur sécurité !\"",
             "\\.\"Sou...!\"",
-            "\\.\"Tu y es parvenu !\"",
-            "\\.\"Ahaha. Ne nous réjouissons pas trop vite, Sara.\"",
+            "\\.\"Félicitations !\"",
+            "\\.\"Ahaha. Ne célébrons pas trop vite, Sara.\"",
             "\\.\"Ouais !\"",
-            "\\.\\C[3]Un applaudissement satisfaisant retentit.",
+            "\\.\\C[3]Un clap satisfaisant retentit.",
             "\\.\"Ah...\"",
             "\\\"... Arrête avec cette drôle d'attitude, Sara.\"",
             "\\.\\C[4](Dans ce cas, pourquoi as-tu joué le jeu...)",
-            "\\.\"... Tu es vraiment énergique.\"",
+            "\\.\"... Tu es vraiment en pleine forme.\"",
             "\\.\"...\"",
             "\\.\\C[4](Et pouf, ça y est.)",
-            "\\.\"Les choses vont devenir un peu plus difficiles\n à partir de maintenant.\""
+            "\\.\"Ça va se corser à partir de maintenant.\"",
+            "\\.\"C'est pas fini...?\"",
+            "\\.\"Tout ira bien. Tu peux patienter ici.\"",
+            "\\.\\C[3]Sou se pencha de plus belle lorsqu'il\nse remit au travail sur l'ordinateur.",
+            "\\.\\C[4](Il a l'air tellement... plein de vie.)",
+            "\\.\"Ouah...!!\"",
+            "\\.\"... Qu'est-ce qu'il y a !?\"",
+            "\\.\"Il y a eu un petit problème...\"",
+            "\\.\"Sara, tu veux bien me donner un coup de main ?\"",
+            "\\.\"Hein...?\"",
+            "\\.\"Tu vois les quatre moniteurs dans cette pièce ?\"",
+            "\\.\"Des messages d'erreur rouges vont s'y afficher.\"",
+            "\\.\"Quand t'en vois un, dis-le-moi de suite\n pour que je puisse le corriger !\"",
+            "\\.\"Compris !\"",
+            "\\.\"Dis-moi quand tu es prête.\""
         ],
         "3-4-message": [
             null,
@@ -32898,6 +32912,21 @@
         "1-2-message": [
             "\\C[3]Sou manipule un ordinateur installé dans la pièce.",
             "\\.\\C[4](Je ne peux pas l'interrompre maintenant...)"
+        ],
+        "1-3-choice": [
+            "Bravo !\nTape-m'en cinq !\nTu es vraiment en forme"
+        ],
+        "1-4-message": [
+            "\\C[3]Sou manipule un ordinateur installé dans la pièce.",
+            "\"Tu es prête ? Dès qu'un message d'erreur rouge apparaît,\n dis-moi sur quel moniteur il s'affiche.\"",
+            "\"Sois rapide, Sara...!\"",
+            "\"OK ! Tu peux compter sur moi !\""
+        ],
+        "1-4-choice": [
+            "Je suis prête\nPas encore prête"
+        ],
+        "1-6-message": [
+            "\\C[3]Je regarde l'écran d'ordinateur,\nmais je ne sens pas de changement particulier."
         ]
     },
     "map183": {
