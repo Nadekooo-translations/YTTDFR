@@ -27054,7 +27054,10 @@
             "\\.\\C[4](Que devrais-je faire...?)",
             "\\C[3]En regardant au sol, j'aperçois de nombreux câbles\nconnectés à l'ordinateur.",
             "\\.\"Si je me rappelle bien, c'était le fil bleu,\n c'est ça ?\"",
-            "\\.\"Essayons de le connecter.\""
+            "\\.\"Essayons de le brancher.\"",
+            null,
+            null,
+            "\\.\"Dacodac.\""
         ],
         "71-1-message": [
             "\\C[3]Vidéo d'une Victime\nLa vidéo d'une victime que Nao avait achetée.\nMontre la mort d'une policière lors de la P. Épreuve.\nL'homme au premier plan... Serait-ce Keiji ?"
