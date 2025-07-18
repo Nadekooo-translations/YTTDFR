@@ -27121,14 +27121,15 @@
             "\\.\\C[4](Ce sont les bongos qu'Alice a achetés\n au Stand d'Échange... !)",
             "\\.\\C[3]Ils ont l'air en légèrement meilleur état que celui\ndans lequel Reko les a laissés.",
             "\\.\\C[4](Alice doit avoir essayé de les réparer...)",
-            null,
-            null,
+            "\\.\\C[4](Comme s'il essayait de réparer leur relation...)",
+            "\\.\\C[3]Mais Reko ne peut plus s'excuser.",
             "\\.\\C[4](...)",
             "\\.\\C[3]Ils ont l'air en légèrement meilleur état que celui\ndans lequel Reko les a laissés.",
             "\\.\\C[4](Alice doit avoir essayé de les réparer...)",
             null,
-            null,
-            "\\.\\C[4](...)"
+            "\\.\\C[3]Mais il ne peut plus les lui donner.",
+            "\\.\\C[4](...)",
+            "\\.\\C[4](C'est pas ce qui importe, tout de suite...\n Je peux pas rester bloquée dessus...)"
         ],
         "1-2-choice": [
             "Chercher sous la machine\nAppuyer n'importe où\nLaisser Keiji faire"
