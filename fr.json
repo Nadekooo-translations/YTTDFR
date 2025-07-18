@@ -27111,7 +27111,7 @@
         ],
         "17-1-message": [
             "\\C[3]Le moniteur du centre montre la chambre de Nao.",
-            null,
+            "\\.\\C[4](Est-ce qu'elle va bien ? Elle passe tout son temps à\nparler avec l'IA du professeur Mishima...)",
             null,
             null,
             "\\.\\C[4](...)"
