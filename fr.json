@@ -27114,7 +27114,8 @@
             "\\.\\C[4](Est-ce qu'elle va bien ?\n Elle passe tout son temps à discuter avec l'IA\n de Monsieur Mishima...)",
             "\\C[3]Le moniteur central montre une chambre vide.",
             "\\.\\C[4](TIens ? Cette chambre cloche...)",
-            "\\.\\C[4](...)"
+            "\\.\\C[4](...)",
+            "\\.\\C[4](Hein...?)"
         ],
         "14-1-message": [
             "\\C[3]Sur le moniteur en haut à gauche,\non peut voir des bongos cassés dans une chambre vide.",
