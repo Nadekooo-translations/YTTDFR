@@ -27068,7 +27068,10 @@
             "\\.\"Sara, sois pas déjà désespérée.\"",
             "\\.\"Regarde à tes pieds. Tu vois ces câbles ?\"",
             "\\.\"C'était le bleu, je crois ? Essayons de le brancher.\"",
-            "\\.\\C[3]Keiji a branché un des câbles bleus\npar terre à l'ordinateur."
+            "\\.\\C[3]Keiji a branché l'un des câbles bleus\nqui se trouvait par terre à l'ordinateur.",
+            null,
+            "\\.\"Je peux pas te refuser de requête, Sara.\"",
+            "\\.\\C[3]Keiji a branché l'un des câbles bleus\nqui se trouvait par terre à l'ordinateur."
         ],
         "71-1-message": [
             "\\C[3]Vidéo d'une Victime\nLa vidéo d'une victime que Nao avait achetée.\nMontre la mort d'une policière lors de la P. Épreuve.\nL'homme au premier plan... Serait-ce Keiji ?"
