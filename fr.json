@@ -27136,7 +27136,7 @@
         "10-1-message": [
             "\\C[3]Quelqu'un est debout \\C[2]devant une chambre\\C[3].",
             "\\.\\C[4](C'est... \\C[2]Q-taro\\C[4] ?)",
-            "\\.\\C[4](Est-ce qu'il parle au propriétaire de la chambre... ?)"
+            "\\.\\C[4](Il parle au propriétaire de la chambre...?)"
         ]
     },
     "map132": {
