@@ -27156,7 +27156,8 @@
             "\\.\\C[4](...!!)",
             "\\.\"Y a que la chambre de Nao qui a un moniteur.\n Ça me paraît bien louche, ça aussi.\"",
             "\\.\"Peut-être que c'est le Maître d'Étage qui complote\n quelque chose...\"",
-            "\\.\\C[4](Non...!)"
+            "\\.\\C[4](Non...!)",
+            "\\.\\C[4](Nao...)"
         ],
         "14-1-message": [
             "\\C[3]Sur le moniteur en haut à gauche,\non peut voir des bongos cassés dans une chambre vide.",
@@ -27189,6 +27190,9 @@
         ],
         "16-1-message": [
             "\\C[3]Il n'y a rien d'intéressant sur le moniteur\nen bas à gauche."
+        ],
+        "17-1-choice": [
+            "Qu'est-ce qu'il a, Mishima ?\nNao est bizarre"
         ]
     },
     "map132": {
