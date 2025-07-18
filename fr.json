@@ -27119,13 +27119,13 @@
         "14-1-message": [
             "\\C[3]Sur le moniteur en haut à gauche,\non peut voir des bongos cassés dans une chambre vide.",
             "\\.\\C[4](Ce sont les bongos qu'Alice a achetés\n au Stand d'Échange... !)",
-            "\\.\\C[3]Ils ont l'air en légèrement meilleur état que celui dans lequel Reko les a laissés.",
+            "\\.\\C[3]Ils ont l'air en légèrement meilleur état que celui\ndans lequel Reko les a laissés.",
             null,
             null,
             null,
             "\\.\\C[4](...)",
-            null,
-            null,
+            "\\.\\C[3]Ils ont l'air en légèrement meilleur état que celui\ndans lequel Reko les a laissés.",
+            "\\.\\C[4](Alice doit avoir essayé de les réparer...)",
             null,
             null,
             "\\.\\C[4](...)"
