@@ -27112,7 +27112,7 @@
         "17-1-message": [
             "\\C[3]Le moniteur central montre la chambre de Nao.",
             "\\.\\C[4](Est-ce qu'elle va bien ?\n Elle passe tout son temps à discuter avec l'IA\n de Monsieur Mishima...)",
-            "\\C[3]Le moniteur du centre montre une chambre vide.",
+            "\\C[3]Le moniteur central montre une chambre vide.",
             null,
             "\\.\\C[4](...)"
         ],
