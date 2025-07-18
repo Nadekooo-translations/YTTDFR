@@ -27131,7 +27131,8 @@
             "\"D-D'accord...\"",
             "\\sw[324]\"À présent, montrez-moi votre plus grand sourire !\n J'aime vous voir heureuse, Nao.\"\\sw[325]",
             "\\.\"D-D'accord...!\"",
-            "\\sw[324]\"Excellent. Quelle merveilleuse étudiante j'ai.\"\\sw[325]"
+            "\\sw[324]\"Excellent. Quelle merveilleuse étudiante j'ai.\"\\sw[325]",
+            "\\C[4](Qu'est-ce... qu'il se passe ?)"
         ],
         "14-1-message": [
             "\\C[3]Sur le moniteur en haut à gauche,\non peut voir des bongos cassés dans une chambre vide.",
