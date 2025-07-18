@@ -27195,7 +27195,7 @@
             "Qu'est-ce qu'il a, Monsieur Mishima...?\nNao se comporte bizarrement"
         ],
         "18-1-message": [
-            "\\C[3]Le moniteur en bas à droite montre la Chambre des Tromperies.",
+            "\\C[3]Le moniteur en bas à droite affiche la\nChambre des Tromperies.",
             "\\.\\C[3]Le corps d'Alice et les restes de Rangers y sont toujours."
         ]
     },
