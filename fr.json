@@ -27130,7 +27130,7 @@
             "\\.\\C[3]Mais il ne peut plus les lui donner.",
             "\\.\\C[4](...)",
             "\\.\\C[4](Ce n'est pas ce qui importe, là tout de suite...\n Je ne peux pas rester bloquée sur ça...)",
-            "\\C[3]Il n'y a rien d'intéressant sur le moniteur en haut à gauche."
+            "\\C[3]Il n'y a rien d'intéressant sur le moniteur\nen haut à gauche."
         ],
         "1-2-choice": [
             "Chercher sous la machine\nAppuyer n'importe où\nLaisser Keiji faire"
