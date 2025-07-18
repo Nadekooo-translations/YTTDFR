@@ -27113,7 +27113,7 @@
             "\\C[3]Le moniteur central montre la chambre de Nao.",
             "\\.\\C[4](Est-ce qu'elle va bien ?\n Elle passe tout son temps à discuter avec l'IA\n de Monsieur Mishima...)",
             "\\C[3]Le moniteur central montre une chambre vide.",
-            "\\.\\C[4](Hein ?\nCette chambre a quelque chose de bizarre...)",
+            "\\.\\C[4](TIens ? Cette chambre cloche...)",
             "\\.\\C[4](...)"
         ],
         "14-1-message": [
