@@ -27127,7 +27127,8 @@
             "\\.\"Monsieur !\n Que pensez-vous que je devrais faire...?!\"",
             "\\sw[324]\"Faites-moi confiance, Nao.\"\\sw[325]",
             "\\.\\sw[324]\"Car si j'ai été miraculeusement ramené à la vie,\n c'est pour vous protéger...\"\\sw[325]",
-            "\\.\\sw[324]\"Faites tout ce que je vous dis... d'accord ?\"\\sw[325]"
+            "\\.\\sw[324]\"Faites tout ce que je vous dis... d'accord ?\"\\sw[325]",
+            "\"D... D'accord...\""
         ],
         "14-1-message": [
             "\\C[3]Sur le moniteur en haut à gauche,\non peut voir des bongos cassés dans une chambre vide.",
