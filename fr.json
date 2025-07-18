@@ -27129,7 +27129,8 @@
             "\\.\\C[4](Comme s'il essayait de réparer leur relation...)",
             "\\.\\C[3]Mais il ne peut plus les lui donner.",
             "\\.\\C[4](...)",
-            "\\.\\C[4](C'est pas ce qui importe, tout de suite...\n Je peux pas rester bloquée dessus...)"
+            "\\.\\C[4](C'est pas ce qui importe, tout de suite...\n Je peux pas rester bloquée dessus...)",
+            "\\C[3]Il n'y a rien d'intéressant sur le moniteur en haut à gauche."
         ],
         "1-2-choice": [
             "Chercher sous la machine\nAppuyer n'importe où\nLaisser Keiji faire"
