@@ -27148,7 +27148,9 @@
             "\\.\"On dirait que Monsieur Mishima se sert d'elle.\"",
             "\\.\"Peut-être que l'échange de tout à l'heure,\n c'était Nao...!!\"",
             "\\.\"Mais ça coûte 50 jetons de faire un échange.\n Il me semble que Nao en a pas tant que ça.\"",
-            "\\.\\C[4](Mais alors...?)"
+            "\\.\\C[4](Mais alors qu'est-ce que c'était...?)",
+            "\\.\"Monsieur Mishima vient de dire qu'il est\n \"revenu à la vie\"...\"",
+            "\\.\"Mais au final, c'était pas juste l'IA installée ici\n que Reko a détruite ?\""
         ],
         "14-1-message": [
             "\\C[3]Sur le moniteur en haut à gauche,\non peut voir des bongos cassés dans une chambre vide.",
