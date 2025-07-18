@@ -27155,7 +27155,8 @@
             "\\.\"Je me demande si c'est la même IA...?\"",
             "\\.\\C[4](...!!)",
             "\\.\"Y a que la chambre de Nao qui a un moniteur.\n Ça me paraît bien louche, ça aussi.\"",
-            "\\.\"Peut-être que c'est le Maître d'Étage qui complote\n quelque chose...\""
+            "\\.\"Peut-être que c'est le Maître d'Étage qui complote\n quelque chose...\"",
+            "\\.\\C[4](Non...!)"
         ],
         "14-1-message": [
             "\\C[3]Sur le moniteur en haut à gauche,\non peut voir des bongos cassés dans une chambre vide.",
