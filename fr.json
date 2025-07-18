@@ -27055,9 +27055,12 @@
             "\\C[3]En regardant au sol, j'aperçois de nombreux câbles\nconnectés à l'ordinateur.",
             "\\.\"Si je me rappelle bien, c'était le fil bleu,\n c'est ça ?\"",
             "\\.\"Essayons de le brancher.\"",
-            null,
-            null,
-            "\\.\"Dacodac.\""
+            "\\.\\C[3]J'ai branché le fil bleu à l'ordinateur.",
+            "\\.\"Laisse-moi faire.\"",
+            "\\.\"Dacodac.\"",
+            "\\.\"Je vais appuyer partout au hasard...!!\"",
+            "\\.\"Hmm...?\"",
+            "\\C[3]Mes mains bougent en suivant intuition et instinct."
         ],
         "71-1-message": [
             "\\C[3]Vidéo d'une Victime\nLa vidéo d'une victime que Nao avait achetée.\nMontre la mort d'une policière lors de la P. Épreuve.\nL'homme au premier plan... Serait-ce Keiji ?"
