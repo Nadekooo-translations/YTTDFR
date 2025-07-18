@@ -27051,7 +27051,8 @@
         ],
         "1-2-message": [
             "\\C[3]Devant les écrans se trouve une machine, qui, malgré\nles apparences, ne propose que des fonctionnalités\ntrès basiques.",
-            "\\.\\C[4](Que devrais-je faire...?)"
+            "\\.\\C[4](Que devrais-je faire...?)",
+            "\\.\\C[3]En regardant le sol,\nj'aperçois de nombreux câbles connectés à l'ordinateur."
         ],
         "71-1-message": [
             "\\C[3]Vidéo d'une Victime\nLa vidéo d'une victime que Nao avait achetée.\nMontre la mort d'une policière lors de la P. Épreuve.\nL'homme au premier plan... Serait-ce Keiji ?"
