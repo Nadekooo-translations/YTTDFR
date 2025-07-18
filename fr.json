@@ -27139,6 +27139,9 @@
             "\\C[3]Quelqu'un est debout \\C[2]devant une chambre\\C[3].",
             "\\.\\C[4](C'est... \\C[2]Q-taro\\C[4] ?)",
             "\\.\\C[4](Il parle au propriétaire de la chambre...?)"
+        ],
+        "15-1-message": [
+            "\\C[3]Le moniteur de gauche montre Reko assise dans sa chambre."
         ]
     },
     "map132": {
