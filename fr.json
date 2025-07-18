@@ -27069,9 +27069,12 @@
             "\\.\"Regarde à tes pieds. Tu vois ces câbles ?\"",
             "\\.\"C'était le bleu, je crois ? Essayons de le brancher.\"",
             "\\.\\C[3]Keiji a branché l'un des câbles bleus\nqui se trouvait par terre à l'ordinateur.",
-            null,
+            "\\.\"Je compte sur toi, Keiji.\"",
             "\\.\"Je peux pas te refuser de requête, Sara.\"",
-            "\\.\\C[3]Keiji a branché l'un des câbles bleus\nqui se trouvait par terre à l'ordinateur."
+            "\\.\\C[3]Keiji a branché l'un des câbles bleus\nqui se trouvait par terre à l'ordinateur.",
+            "\\.\"... Bingo.\"",
+            "\\.\\C[4](C'est le système de surveillance...!!)",
+            "\\.\\C[4](Est-ce que Gin est sur l'un d'entre deux ?)"
         ],
         "71-1-message": [
             "\\C[3]Vidéo d'une Victime\nLa vidéo d'une victime que Nao avait achetée.\nMontre la mort d'une policière lors de la P. Épreuve.\nL'homme au premier plan... Serait-ce Keiji ?"
