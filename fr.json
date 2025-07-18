@@ -27122,7 +27122,9 @@
             "\\.\\C[4](Nao...?!)",
             "\\.\"Est-ce vraiment... la meilleure chose à faire...?\"",
             "\\sw[324]\"Tout à fait.\n Vous avez fait du bon travail, ma chère Nao.\"\\sw[325]",
-            "\\.\\sw[324]\"Je suis heureux que rien ne vous soit arrivé.\"\\sw[325]"
+            "\\.\\sw[324]\"Je suis heureux que rien ne vous soit arrivé.\"\\sw[325]",
+            "\"Mais, mais... Il va...!!\"",
+            "\\.\"Professeur ! Qu'est-ce que je devrais faire...?!\""
         ],
         "14-1-message": [
             "\\C[3]Sur le moniteur en haut à gauche,\non peut voir des bongos cassés dans une chambre vide.",
