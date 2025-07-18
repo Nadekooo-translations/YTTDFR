@@ -27120,7 +27120,8 @@
             "\\.\\C[4](C'est l'IA de Monsieur Mishima...!!)",
             "\"Haa... Haa... Je suis de retour...\"",
             "\\.\\C[4](Nao...?!)",
-            "\\.\"Est-ce que c'est vraiment... ce qu'il y a de mieux...?\""
+            "\\.\"Est-ce que c'est vraiment... ce qu'il y a de mieux...?\"",
+            "\\sw[324]\"En effet. Bon travail, mademoiselle Nao.\"\\sw[325]"
         ],
         "14-1-message": [
             "\\C[3]Sur le moniteur en haut à gauche,\non peut voir des bongos cassés dans une chambre vide.",
