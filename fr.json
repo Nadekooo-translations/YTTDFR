@@ -27141,7 +27141,10 @@
             "\\.\\C[4](Il parle au propriétaire de la chambre...?)"
         ],
         "15-1-message": [
-            "\\C[3]Le moniteur de gauche montre Reko assise dans sa chambre."
+            "\\C[3]Le moniteur de gauche montre Reko assise\ndans sa chambre."
+        ],
+        "16-1-message": [
+            "\\C[3]Il n'y a rien d'intéressant sur le moniteur\nen bas à gauche."
         ]
     },
     "map132": {
