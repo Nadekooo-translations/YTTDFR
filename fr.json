@@ -27116,7 +27116,8 @@
             "\\.\\C[4](TIens ? Cette chambre cloche...)",
             "\\.\\C[4](...)",
             "\\.\\C[4](Hein...?)",
-            "\\.\\C[4](Q-Quoi... ?! Qu'est-ce qu'il se passe ?!)"
+            "\\.\\C[4](Q-Quoi... ?! Qu'est-ce qu'il se passe ?!)",
+            "\\.\\C[4](C'est l'IA de Mishima... !!)"
         ],
         "14-1-message": [
             "\\C[3]Sur le moniteur en haut à gauche,\non peut voir des bongos cassés dans une chambre vide.",
