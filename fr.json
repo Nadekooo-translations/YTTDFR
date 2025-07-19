@@ -29539,11 +29539,15 @@
         "9-1-message": [
             "\\C[5]Un fichier intitulé « Les Goûts de Sara ».",
             "\\C[5]★ Les Choses Préférées de Mademoiselle Sara ★\n- (Édition Sucreries)\nConfiture de fraise (la confiture en général)\nPurée patate douce aux marrons, tartines au Koshian",
-            "★Remarques Des Goûts★\nMademoiselle Sara mange bien avec une alimentation équilibrée.\nElle aime particulièrement les choses sucrées.\nJe suis heureux de la comprendre ne serait-ce qu'un peu plus.",
+            "\\.\\C[5]★À Propos de ses Goûts★\nSon alimentation est équilibrée et elle mange bien.\nElle aime particulièrement les choses sucrées.\nJe suis heureux d'en apprendre un peu plus sur elle.",
             "Et ça continue pendant longtemps.",
             null,
             null,
-            "\\C[5]★ Les Choses Préférées de Madame Sara ★\n- (Édition Sucreries)\nConfiture de fraise (la confiture en général)\nPurée patate douce aux marrons, tartines au Koshian"
+            "\\C[5]★ Les Choses Préférées de Madame Sara ★\n- (Édition Sucreries)\nConfiture de fraise (la confiture en général)\nPurée patate douce aux marrons, tartines au Koshian",
+            null,
+            null,
+            null,
+            "\\.\\C[5]Et ça ne s'arrête jamais."
         ]
     },
     "map188": {
