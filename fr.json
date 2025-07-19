@@ -27007,9 +27007,9 @@
             "\\.\"Allons-y... À la Chambre des Tromperies !\""
         ],
         "21-1-message": [
-            null,
+            "\\C[3]Reko fixe les moniteurs.",
             "\\.\"...\n ...\n ...\"",
-            null,
+            "\"Des IAs, hein...\"",
             null,
             null,
             null,
@@ -27211,6 +27211,9 @@
             "\\.\\C[4](Alice...)",
             "\\.\\C[3]Le corps de Reko et les restes de Ray y sont toujours.",
             "\\.\\C[4](Reko...)"
+        ],
+        "19-1-choice": [
+            "Retour au premier étage !\nOn devrait récupérer la puce de Ray"
         ]
     },
     "map132": {
