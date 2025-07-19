@@ -743,9 +743,9 @@
             "Après avoir remporté cette épreuve, 9 personnes d'âge,\nde genre et de professions différents nous attendaient.",
             "N'étant sûrs de rien, nous avons tous collaboré\npour nous échapper de cet endroit et nous avons\névité des pièges placés spécifiquement pour nous tuer.",
             "Mais...",
-            "À cause d'un coup cruel du Maître d'Étage apparu\nsubitement appelé \\C[2]Sue Rillante la Poupée Ricanante\\C[0]...",
+            "À cause d'un coup bas cruel du Maître d'Étage\napparu subitement sous le nom de \\C[2]Sue Rillante,\nla Poupée Ricanante\\C[0]...",
             "Le professeur \\C[2]Kazumi Mishima\\C[0]... est mort.",
-            "Nous avons aussi rencontré un meurtrier qui\nétait resté caché du nom d'\\C[2]Alice Yabusame\\C[0]...",
+            "Nous avons aussi rencontré un meurtrier qui\nétait resté caché, du nom d'\\C[2]Alice Yabusame\\C[0]...",
             "Et nous avons commencé un vote mettant\nnos vies en jeu...\n\nLe \\C[2]Jeu Principal\\C[0].",
             "Deux cartes ont scellé nos sorts...\nLe \\C[3]Sage\\C[0], et le \\C[10]Sacrifice\\C[0].",
             "Leurs détenteurs étaient...\n\n\\C[2]Kai Satou\\C[0], mon stalkeur qui semblait détenir\nune sorte d'élément clé à ces jeux mortels, et...",
@@ -4559,14 +4559,14 @@
             "\\.\\C[4](Ne me dites pas que...!)",
             "\\.\"Ouarg ! Sara ! Tu m'as fait peur !\"",
             "\\{\\{\\{\"BOUUUH !!!!\"",
-            "\\.\"OUAAAAAAAAAAHHH !!\n\\! Bordel de m- !! Sara ?!\"",
+            "\\.\"OUAAAAAAAAAAHHH !!\n\\! Bordel de m-!! Sara ?!\"",
             "\\.\"Ahh... désolée.\"",
             "\\.\"Quitte à faire ça, rigole au moins !\n Plutôt que de t'excuser !\"",
             "\\.\"C'est quoi que tu regardes ?\"",
             "\\.\"...\"",
             "\\.\"Y avait ça dans ma poche.\"",
             "\\.\"C'est...\"",
-            "\\.\\C[3]... Une photo de moi, Joe et Ryoko.",
+            "\\.\\C[3]... Une photo de Joe, Ryoko et moi.",
             "\\.\\C[3]Nous étions dans un café en train de discuter.\nOn passait un bon moment.",
             "\\.\"...\"",
             "\"...\"",
@@ -4605,7 +4605,7 @@
             "\\.\"Parce que je me disais exactement la même chose.\"",
             "\\.\"Joe...\"",
             "\\.\"Ryoko et moi, on a passé un accord.\n\\C[2]\"Si jamais quelqu'un fait pleurer Sara, on le fera\n pleurer lui !\"\\C[0]\"",
-            "\\.\"Donc, du coup...\n\\! Arrête d'avoir l'air d'être au bord des larmes.\"",
+            "\\.\"Donc, du coup...\n\\! Arrête d'avoir l'air au bord des larmes.\"",
             "\\.\"Mais Joe, t'es...\"",
             "\\.\"Si j'te fais pleurer, Sara, ça veut dire que Ryoko\n devra m'en mettre une !\"",
             "\\.\"...\"",
@@ -4711,7 +4711,7 @@
         ],
         "2-4-choice": [
             "Essayer de lui parler\nL'observer discrètement par derrière\nLui faire peur",
-            "Ryoko te manque ?\nJe suis si photogénique\nQuel narcissiste"
+            "Ryoko te manque ?\nJe suis si photogénique\nQuel narcissique"
         ],
         "2-5-message": [
             "\\.\\C[3]Joe est assis.",
@@ -5364,7 +5364,7 @@
             "\\.\\C[3]Ou plutôt... J'essayais de l'oublier.",
             "\\.\\C[4](La Seconde Épreuve...\n Le vote qui a tué Monsieur Mishima.)",
             "\\.\\C[4](Sans compter ma voix...\n Mishima a reçu 3 votes, Sou et Nao en ont reçu 0\n et tous les autres ont eu 1 vote chacun.)",
-            "\\.\\C[4](Mais, il ne faut pas oublier...\n Qu'on ne savait pas que nos voix importaient.)",
+            "\\.\\C[4](Mais, il ne faut pas oublier...\n Qu'on ne savait pas que nos voix avaient\n de l'importance.)",
             "\\.\"... Vois-tu...\"",
             "\\.\"J'ai voté pour Joe.\"",
             "\\.\\C[4](...!!)",
@@ -12386,7 +12386,7 @@
             "\\.\\C[4](Non... Ce n'est pas ça.)",
             "\\.\\C[4](Gin a raison. Sou s'est fait assommer \\C[2]avant\\C[4] de\n donner à Kanna la \\C[10]carte du Sacrifice\\C[4].)",
             "\\.\"Et si...?\"",
-            "\\.\"D'abord, Sou s'est fait attaquer dans la salle cachée.\n Il y perd connaissance.\"",
+            "\\.\"D'abord, Sou s'est fait attaquer dans la salle cachée.\n Il y a perdu connaissance.\"",
             "\\.\"Plus tard, il a ramassé la \\C[10]carte du Sacrifice\\C[0] et\n une autre du \\C[4]Roturier\\C[0], puis il est resté se\n reposer au bar.\"",
             "\\.\"Là, il a placé la \\C[10]carte du Sacrifice\\C[0] de manière\n à ce que Kanna la trouve...\"",
             "\\.\"Et quand Kanna est tombée dessus...\"",
@@ -12395,14 +12395,14 @@
             "\\.\\C[4](...!)",
             "\\.\\C[4](Et si...!)",
             "\\.\\C[4](Ce n'est qu'une théorie, mais...\n En partant du principe que la carte que je n'ai pas\n pu examiner était la \\C[10]carte du Sacrifice\\C[4]...)",
-            "\\.\"D'abord, Sou s'est fait attaquer dans la salle cachée.\n Il y perd connaissance.\"",
-            "\\.\"Ensuite, il a trouvé la \\C[10]carte du Sacrifice\\C[0] et une\n \\C[4]carte du Roturier\\C[0] et il est parti se reposer.\"",
+            "\\.\"D'abord, Sou s'est fait attaquer dans la salle cachée.\n Il y a perdu connaissance.\"",
+            "\\.\"Ensuite, il a trouvé la \\C[10]carte du Sacrifice\\C[0] ainsi qu'une\n \\C[4]carte du Roturier\\C[0] et il est parti se reposer.\"",
             "\\.\"Au bar, il a placé la \\C[10]carte du Sacrifice\\C[0] de manière\n à ce que Kanna la trouve...\"",
             "\\.\"Et quand Kanna l'a ramassée...\"",
             "\\.\"Sou a proposé de la lui échanger contre une\n \\C[4]carte du Roturier\\C[0]...\"",
             "\\.\"Comme s'il lui faisait une faveur...!\"",
             "\\.\"Et si...?\"",
-            "\\.\"D'abord, Sou s'est fait attaquer dans la salle cachée.\n Il y perd connaissance.\"",
+            "\\.\"D'abord, Sou s'est fait attaquer dans la salle cachée.\n Il y a perdu connaissance.\"",
             "\\.\"Plus tard, il a ramassé la \\C[10]carte du Sacrifice\\C[0] et\n une autre du \\C[4]Roturier\\C[0], puis il est resté se\n reposer au bar.\"",
             "\\.\"Là, il a placé la \\C[10]carte du Sacrifice\\C[0] de manière\n à ce que Kanna la trouve...\"",
             "\\.\"Et quand Kanna est tombée dessus...\"",
@@ -12587,7 +12587,7 @@
         ],
         "282-0-message": [
             "Reko Yabusame\nUne chanteuse et auteure-compositrice qui est\nconnue au point d'apparaître dans des\nmagazines.",
-            "\\.Elle fait partie d'un groupe de musique au look très\nflashy. Elle s'inquiète pour ses bongos.\nApparemment, là, elle est \"peu\" maquillée.\nElle est très sévère avec les hommes.",
+            "\\.Elle fait partie d'un groupe de musique très flashy.\nElle est très attachée à ses bongos et s'en inquiète.\nApparemment, là, elle est \"peu\" maquillée.\nElle est très sévère avec les hommes.",
             "\\.En parallèle, elle est très gentille avec moi, Nao, et\nKanna. Elle a montré de l'inquiétude envers Sou, donc\npeut-être que c'est plutôt qu'elle est attentionnée\nenvers les faibles et difficile avec les forts..."
         ],
         "283-0-message": [
@@ -16520,14 +16520,14 @@
         ],
         "360-0-message": [
             "Sara Chidouin\nProtagoniste de l'histoire.\nUne lycéenne normale du Lycée Sonobeno.",
-            "\\.En rentrant tard chez elle des cours, elle est tombée\nnez à nez avec son stalkeur. Une fois rentrée, elle a\nretrouvé sa mère inconsciente.",
-            "\\.Elle s'est ensuite réveillée dans un endroit inconnu aux\ncôtés de 11 autres personnes. Elle a réussi à gagner\nleur confiance en remportant des épreuves mortelles.",
+            "\\.En rentrant tard chez elle après les cours,\nelle est tombée nez à nez avec son stalkeur.\nUne fois rentrée chez elle, elle a retrouvé\nsa mère inconsciente dans son salon.",
+            "\\.Elle s'est ensuite réveillée dans un endroit inconnu\naux côtés de 11 autres personnes.\nElle a réussi à gagner leur confiance en remportant\ndes épreuves mortelles.",
             "\\.Mais à l'issue du Jeu Principal...\nSon meilleur ami Joe est mort.\nSuite aux décès du professeur Mishima et de\nl'assistant-ménager Kai, ils ne sont plus que 9..."
         ],
         "361-0-message": [
             "Jou Tazuna\nCamarade de classe de Sara, la protagoniste.\nSon meilleur ami au tempérament agréable et enjoué.",
             "\\.Il a maladroitement essayé d'aider Sara après\navoir appris qu'un stalkeur la harcelait.\nC'est la seule personne que Sara connaisse ici.",
-            "\\.La carte du \\C[10]Sacrifice\\C[0] a scellé son sort.\nÀ la fin du Jeu Principal...\nIl a déclaré \"vous avez tous bon fond\"...\nAvant de périr."
+            "\\.La carte du \\C[10]Sacrifice\\C[0] a scellé son sort.\nÀ la fin du Jeu Principal...\nIl a déclaré « Vous avez tous bon fond » avant de périr."
         ],
         "362-0-message": [
             "Keiji Shinogi\nUn homme suspect qui dit être policier.",
@@ -16550,18 +16550,18 @@
             "Sou Hiyori\nIl dit être intérimaire.\nIl se comportait de manière timide et enjouée...",
             "\\.Il est incroyablement faible pour un homme adulte.\nMalgré le fait qu'il semblait ne pas aimer le conflit,\nil exhume en permanence une aura \"sombre.\"",
             "\\.Il a été très bouleversé lorsque Nao l'a attaqué\npour lui voler l'ordinateur contenant des indices.",
-            "\\.Pendant le Jeu Principal, Sou a brisé la confiance\nque le groupe avait en lui. Cela l'a rendu vicieux\net fou au point d'en effrayer les autres survivants."
+            "\\.Pendant le Jeu Principal...\nSou a brisé la confiance que le groupe lui accordait.\nCela l'a rendu vicieux et fou au point d'en effrayer\nles autres survivants."
         ],
         "366-0-message": [
             "Reko Yabusame\nUne auteure-compositrice devenue suffisamment\npopulaire pour être dans des magazines.",
-            "\\.Elle fait partie d'un groupe de musique très flashy.\nElle est inquiète pour ses bongos.\nElle les apprécie beaucoup.\nGentille avec les faibles, souvent dure avec les hommes.",
-            "\\.Elle a admis qu'Alice était son frère au Jeu Principal.\nDepuis qu'il a tué quelqu'un et qu'il s'est fait arrêter\npour homicide, ils ont totalement coupé les ponts."
+            "\\.Elle fait partie d'un groupe de musique très flashy.\nElle est très attachée à ses bongos et s'en inquiète.\nElle les apprécie beaucoup.\nGentille avec les faibles, souvent dure avec les hommes.",
+            "\\.Elle a admis qu'Alice était son frère au Jeu Principal.\nIls ont totalement coupé les ponts depuis qu'il a tué\nquelqu'un et qu'il s'est fait arrêter pour homicide."
         ],
         "367-0-message": [
-            "Nao Egokoro\nUne étudiante d'art en université.\nTient énormément à l'un de ses professeurs de lycée,\nMonsieur Mishima.",
+            "Nao Egokoro\nUne étudiante d'art en université.\nTient énormément à l'un de ses anciens professeurs\nde lycée, Monsieur Mishima.",
             "\\.Elle lui fait énormément confiance.\nElle a réussi la Première Épreuve en coopérant avec lui.",
             "\\.Après le décès de Monsieur Mishima à l'issue du\nvote qui servait de test, elle a perdu l'esprit.\nElle a pris sa tête, l'a placée dans une boîte et\ns'est enfuie avec.",
-            "\\.Suite aux menaces de Kai, elle a assommé Sou pour lui\ndonner l'ordinateur. Après avoir appris que la tête de\nMonsieur Mishima avait disparu, elle a réalisé qu'il\nl'avait trahie."
+            "\\.Sous les menaces de Kai...\nElle a assommé Sou pour lui prendre l'ordinateur.\nAprès avoir appris que la tête de Monsieur Mishima\navait disparu, elle a réalisé qu'il l'avait trahie."
         ],
         "368-0-message": [
             "Kai Satou\nIl dit être assistant-ménager.\n... C'est aussi un excellent combattant.",
@@ -16591,7 +16591,7 @@
             "La Poupée Ricanante, Sue Rillante\nUne dame du côté des kidnappeurs.\nQuand sa poupée démembrée a été rassemblée,\nelle a pris vie.",
             "\\.Elle dit être le Maître d'Étage.\nC'est elle qui a expliqué les règles du Jeu Principal\net qui a distribué les objets nécessaires au bon\nfonctionnement de la Démocratie Mortelle.",
             "\\.Ses faits et gestes sont emplis de malveillance.\nElle déroute les participants et achève leurs vies.\nElle a détruit le mental de Kanna et de Sara.",
-            "\\.Kai et Q-taro ont réussi à la faire saigner en\nse battant avec et elle est souvent énervée...\nEst-elle vraiment une \"poupée\" ?"
+            "\\.Kai et Q-taro ont réussi à la faire saigner en\nse battant contre elle, et elle est souvent énervée...\nEst-elle vraiment une \"poupée\" ?"
         ],
         "373-0-message": [
             "Conclure les rappels ?"
@@ -22775,7 +22775,7 @@
             "\\.\"D'assistants ménagers...?\"",
             "\\.\"Et ça montre aussi... ton lien avec\n la famille Chidouin.\"",
             "\\.\"...!!\"",
-            "\\.\"Pour moi... Tu fais partie de la famille.\"",
+            "\\.\"Pour moi... tu fais partie de la famille.\"",
             "\\.\"Je fais partie... de la famille...?\"",
             "\\.\"Ma femme pense la même chose. En fait, c'est elle\n qui m'a proposé de te donner ce cadeau.\"",
             "\\.\"... V-Vous plaisantez certainement...\n Que quelqu'un comme moi...\"",
@@ -23018,10 +23018,10 @@
             "\\.\\C[10]\"Ouah, trop méchant.\n Je croyais qu'on était meilleurs amis ?\"",
             "\\.\"La ferme...!!\"",
             "\\.\"Ah...\"",
-            "\\.\\C[3]Une douleur aigüe se répand dans mon corps.",
+            "\\.\\C[3]Une douleur aiguë se répand dans mon corps.",
             "\\.\\C[10]\"Tu ferais mieux de pas aller par là !\"\\|\\^",
             "\\.\"Ah...\"",
-            "\\.\\C[3]Une douleur aigüe se répand dans mon corps.",
+            "\\.\\C[3]Une douleur aiguë se répand dans mon corps.",
             "\\.\"J'ai... mal...\"",
             "\\.\"À l'aide... Au secours...\"",
             "\\.\\C[10]\"Je vais te mettre à l'aise.\"",
@@ -23184,7 +23184,7 @@
             "\\.\"Auparavant...?\"",
             "\"... Non, tout le contraire.\"",
             "\"... Précisément.\"",
-            "\\.\"Elle a toujours été pleine d'énergie.\n Elle a un talent iné pour la musique et\n pour charmer les autres.\"",
+            "\\.\"Elle a toujours été pleine d'énergie.\n Elle a un talent inné pour la musique et\n pour charmer les autres.\"",
             "\\.\"Elle était sévère, y compris avec elle-même...\n Mais surtout envers les faibles qui parlaient\n beaucoup pour au final ne rien faire.\"",
             "\\.\"Elle a terriblement changé.\"",
             "\\.\"À cause de ton meurtre, j'imagine...?\"",
@@ -24414,7 +24414,7 @@
             "\\.\"Eh, toi, Sara Chidouin.\n Il y a une cour ici...\n Ne trouves-tu pas cela étrange ?\"",
             "\\.\"...\"",
             "\\.\"Hmph... Bien sûr que non.\n Ce n'est une cour qu'en apparence.\"",
-            "\\.\"Un ciel artificiel...\n Une fausse impression de liberté...\n Cet endroit est une prison en tout points.\"",
+            "\\.\"Un ciel artificiel...\n Une fausse impression de liberté...\n Cet endroit est une prison en tous points.\"",
             "\\.\"Hmph...\n Ce n'est que de la lumière artificielle.\n Pas un vrai ciel.\"",
             "\\.\"Toutefois, si tu cherches à te sentir moins étouffée,\n pourquoi ne pas y rester un moment ? Mouahaha...\"",
             "\\.\"Je peux te parler rapido, Alice ?\"",
@@ -24944,7 +24944,7 @@
             "\\.\\sw[324]\"... Je me souviens maintenant.\n Je suis une IA de Kazumi Mishima.\n Une intelligence artificielle.\"\\sw[325]",
             "\\.\"... Une \\C[2]intelligence artificielle\\C[0]...?!\"",
             "\\.\\sw[324]\"Exactement. Je suis une réplique de Monsieur Mishima.\n J'ai été créé à partir de sa mémoire et de ses\n émotions.\"\\sw[325]",
-            "\\.\\sw[324]\"J'estime que vous avez tous rencontré\n le réel Kazumi Mishima ?\"\\sw[325]",
+            "\\.\\sw[324]\"J'estime que vous avez tous rencontré\n le véritable Kazumi Mishima ?\"\\sw[325]",
             "\\.\"Au dos de l'écran...\n Il y a une photo de sa tête.\"",
             "\\.\"Si c'est bien la vérité... Tous les autres écrans\n contiennent aussi d'autres IA, alors...?\"",
             "\\.\\sw[324]\"Mouahaha... Quelle expérience étrange.\n J'adorerais me rencontrer et me parler...!\"\\sw[325]",
@@ -25280,7 +25280,7 @@
         ],
         "2-1-message": [
             "\\C[3]J'entends un faible son venant de ce moniteur.",
-            "\\.\\C[4](Serait-ce... Un autre piège ?)",
+            "\\.\\C[4](Serait-ce... un autre piège ?)",
             "\\C[3]... Hein...?",
             "\\.\\sw[324]\"Allons, allons... Que se passe-t-il, soudainement ?\"\\sw[325]",
             "\\.\\C[3]L'homme à l'écran... Il n'y a aucun doute... C'est...",
@@ -25288,7 +25288,7 @@
             "\\.\\sw[324]\"Ohh ! Mais si ce n'est pas Madame Nao !\"\\sw[325]",
             "\\.\"Ce n'est pas... une vidéo...?\n Vous me parlez...? À moi...?\"",
             "\\.\\sw[324]\"En effet, c'est à vous que je m'adresse\n et c'est vous que je regarde, Nao.\"\\sw[325]",
-            "\\.\"C-C-C'est... Impensable...\"",
+            "\\.\"C-C-C'est... impensable...\"",
             "\\.\\C[3]Correct... C'est impensable.\nAprès tout, Monsieur Mishima... est décédé.",
             "\\.\\sw[324]\"Seraient-ce vos amis, à vos côtés ?\n Ravi de vous rencontrer.\n Je me nomme Kazumi Mishima.\"\\sw[325]",
             "\\.\"Ravi de nous rencontrer...?\""
@@ -34243,7 +34243,7 @@
             "\\C[3]La porte rouge est ouverte, éclairant les environs\nd'une vive lumière blanche.",
             "\\.\\C[4](Le compteur au-dessus de la porte est à 0...!)",
             "\\.\\C[4](Ne me dites pas que tous ceux qui étaient au\n premier étage... Y sont allés...?)",
-            "\\C[4](Ce serait dangereux d'entrer.\n Je vais juste... donner un petit coup d'œil...)",
+            "\\C[4](Ce serait dangereux d'entrer...\n Je vais juste... jeter un petit coup d'œil...)",
             "\\.\\C[3]Je passais ma tête à travers l'entrée...",
             "\\.\\C[3]Quand soudainement...",
             "\\.\\C[3]Quelqu'un me poussa par derrière.",
@@ -34378,12 +34378,12 @@
             "\"Héhihi... Comment allez-vous... tout le monde ?\"",
             "\\.\"Rillante..!\"",
             "\"Ceci est une vidéo pré-enregistrée.\n ... Je suis donc incapable de répondre à\n vos questions.\"",
-            "\\.\"Permettez-moi de vous remercier sincèrement\n de prendre part au \\C[2]Jeu Principal\\C[0].\"",
+            "\\.\"Permettez-moi de sincèrement vous remercier\n de prendre part au \\C[2]Jeu Principal\\C[0].\"",
             "\\.\\C[4](Au Jeu Principal...?!)",
-            "\\.\"Vous vous trouvez dans une salle d'attente\n préparée spécialement pour les participants...\n Il s'agit de la \\C[2]Salle du Dernier Dîner\\C[0].\"",
-            "\\.\"Vous pouvez vous y restaurer ou réfléchir à une\n stratégie avant que le jeu ne commence.\n Elle est à votre disposition.\"",
-            "\\.\\C[4](Qu-Qu'est-ce qu'elle raconte...)",
-            "\\.\"Ceux qui parviennent à remporter le Jeu Principal\n peuvent passer à l'étage suivant ! Hourra !\"",
+            "\\.\"Vous vous trouvez dans une salle d'attente\n préparée spécialement pour les participants...\n Il s'agit de la \\C[2]Salle de la Cène\\C[0].\"",
+            "\\.\"Vous pouvez vous y restaurer ou réfléchir à une\n stratégie avant que le jeu ne commence.\n Elle est à votre entière disposition.\"",
+            "\\.\\C[4](Q-Qu'est-ce qu'elle raconte...)",
+            "\\.\"Ceux qui parviennent à remporter le Jeu Principal\n peuvent passer à l'étage supérieur ! Hourra !\"",
             "\\.\"Sachez que ceux qui n'ont pas quitté leur salle\n d'attente avant le début du Jeu Principal seront\n tués en guise de pénalité.\"",
             "\\.\"Gardez ça à l'esprit... Héhihi.\"",
             "\\.\\C[4](Le prochain... étage...)",
