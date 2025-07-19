@@ -29462,7 +29462,8 @@
             "\\C[3]La corbeille sert à effacer des fichiers."
         ],
         "2-1-message": [
-            "\\C[3]Un dossier intitulé « Sara »."
+            "\\C[3]Un dossier intitulé « Sara ».",
+            "Il est verrouillé par un mot de passe."
         ],
         "2-2-message": [
             "\\C[3]Un dossier intitulé « Sara »."
