@@ -3817,8 +3817,8 @@
         ],
         "26-4-message": [
             "\\.\"... Deux salles symétriques, hein...\"",
-            "\\.\"Ça m'a l'air d'être ton genre de puzzle, ça, Sara.\"",
-            "\\.\"Et si... c'était une autre piège, miaou...\"",
+            "\\.\"Ça m'a l'air d'être ton genre de puzzle, Sara.\"",
+            "\\.\"Et si... c'était un autre piège, miaou...\"",
             "\\.\"On devrait faire gaffe.\"",
             "\\.\"Je ne pense pas que Nao soit ici...\"",
             "\\.\"... Ouais, je pense pas non plus.\""
@@ -26982,7 +26982,7 @@
             "\\.\"Oui, je vous y laisse...\"",
             "\"Bon, maintenant, que faire...\"",
             "\\.\\C[4](...\n ...\n ...)",
-            "\\.\"On devait vraiment continuer de chercher Gin !\"",
+            "\\.\"On devrait vraiment continuer de chercher Gin !\"",
             "\\.\"...\"",
             "\\.\"On a pas le temps pour ça.\"",
             "\\.\"K-Keiji...\"",
