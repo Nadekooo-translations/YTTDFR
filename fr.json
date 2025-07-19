@@ -27219,6 +27219,12 @@
         ],
         "19-1-choice": [
             "Retour au premier étage !\nOn devrait récupérer la puce de Ray"
+        ],
+        "21-1-choice": [
+            "Tu veux lui parler ?\nUne IA n'est qu'une IA"
+        ],
+        "21-2-message": [
+            "\\C[3]Je ressens... de la force et du chagrin, émanant de Reko..."
         ]
     },
     "map132": {
