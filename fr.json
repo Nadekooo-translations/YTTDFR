@@ -29483,7 +29483,7 @@
             "\\.\\C[5]Le timing est parfait.\nKai, fais en sorte qu'ils t'emploient et\ninfiltre-toi chez eux.",
             "\\.\\C[5]L'organisation a déjà préparé les documents nécessaires.\nIls sont tous conservés dans ce fichier.",
             "\\C[4](C'est... un faux CV.)",
-            "(La photo doit sûrement être authentique, au moins...\nBien qu'elle semble assez vieille).",
+            "\\.\\C[4](La photo a l'air authentique, au moins...\n Bien qu'elle semble assez vieille).",
             "(Je savais qu'on avait un assistant quand j'étais enfant...)"
         ]
     },
