@@ -27946,12 +27946,12 @@
             null,
             null,
             null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\"Hé, Sara.\n Tu n'aurais pas remarqué un programme étrange\n sur l'ordinateur ?\"",
+            "\\.\"Hm...?\"",
+            "\"Hahaha. Hé bien, il y en avait un.\n Il s'appelait « s.exe »...\"",
+            "\\.\"Exactement. C'est drôle, non ?\n Il s'appelait « s.exe »...\"",
+            "\\.\"Hé bien...\n C'était une sorte de plan de secours que Kai\n avait préparé à l'avance.\"",
+            "\\.\"C'était en réalité un \\C[2]s\\C[0]cript \\C[2]exé\\C[0]cutable...\n Soit un \\C[2]programme permettant de hacker\\C[0]\n l'organisation et ses données.\"",
             null,
             null,
             null,
@@ -28054,6 +28054,12 @@
             null,
             null,
             "Sniff sniff..."
+        ],
+        "1-1-choice": [
+            null,
+            null,
+            null,
+            "Ça ne me dit rien\nLe fichier s.exe"
         ]
     },
     "map160": {
@@ -29253,7 +29259,7 @@
             "\\.\\C[5]À vrai dire, je n'avais initialement que\npeu d'intérêt pour cette tâche.",
             "\\.\\C[5]Pas jusqu'à ce que les plans de la Démocratie Mortelle\nne commencent à réellement prendre forme.",
             "\\.\\C[5]J'ignore moi-même l'objectif de cette conspiration.",
-            "Cependant, et bien que cela ne soit que mon impression...",
+            "\\.\\C[5]Cependant, et bien que cela ne soit que\nmon impression...",
             null,
             null,
             null,
@@ -29283,7 +29289,7 @@
             "\\.\\C[5]Pas jusqu'à ce que les plans de la Démocratie Mortelle\nne commencent à réellement prendre forme.",
             "\\C[4](...!)",
             "\\.\\C[5]J'ignore moi-même l'objectif de cette conspiration.",
-            null,
+            "\\.\\C[5]Cependant, et bien que cela ne soit que\nmon impression...",
             null,
             null,
             null,
@@ -29455,7 +29461,7 @@
             "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
         ],
         "7-1-message": [
-            null,
+            "\\C[5]Un fichier appelé « s.exe ».",
             "\\.\\C[4](...)",
             "\\.\\C[3]À l'intérieur se trouvaient de longues lignes de texte\net de symboles dont je ne comprenais pas le sens.",
             "\\.\\C[4](Argh, je suis douée en maths et en sciences,\n mais là...)",
