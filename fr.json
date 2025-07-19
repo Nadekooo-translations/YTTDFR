@@ -25491,7 +25491,7 @@
             "\\.\"J'arrive à sentir une légère odeur de sang.\"",
             "\\.\"Ahh...\n Et vu qu'y a de la poussière, ça a dû être\n nettoyé y a un petit moment...\"",
             "\\.\"Je dirais que c'est arrivé... Ouais.\n Pendant la Première Épreuve. Y a moyen.\"",
-            "\\.\\C[3]Quand je compris, je m'en rendis compte.",
+            "\\.\\C[3]Quand j'ai compris ce qu'il disait,\nje m'en suis rendue compte.",
             "\\.\\C[3]L'ineffaçable puanteur crue du sang.\\!\n... L'odeur me répugne et me repousse instinctivement.",
             "\\.\\C[3]C'est dégoûtant... J'ai envie de vomir.",
             "\\.\\C[4](...!!)",
@@ -27020,7 +27020,7 @@
             "\\.\"...\n ...\n ...\"",
             "\\.\"... C'est vrai.\"",
             "\\.\"Le vrai Alice... est toujours dans la\n Chambre des Tromperies.\"",
-            "\\.\"(Reko garde tout pour elle...)"
+            "\\.\\C[4](Reko garde tout pour elle...)"
         ],
         "13-1-message": [
             "\\C[3]Le moniteur est cassé.",
