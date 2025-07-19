@@ -29321,7 +29321,7 @@
             "\\.\"...\""
         ],
         "12-1-message": [
-            "\\C[5]Un fichier nommé \"[Important] Contrôle d'Antécédants.\"",
+            "\\C[5]Un fichier intitulé\n« [Important] Contrôle d'Antécédents ».",
             null,
             null,
             null,
