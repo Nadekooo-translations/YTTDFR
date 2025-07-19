@@ -29519,7 +29519,22 @@
             "\\.\\C[5]Nous ne pouvons rajouter personne d'autre.\nC'est compris ? Accomplis ton devoir, Kai.",
             "\\C[4](Ils font même allusion à Joe et à ma\n meilleure amie Ryoko...!!)",
             "\\.\\C[3]Ce fichier contient des rapports d'enquête et\ndes photos de Joe et Ryoko.",
-            "(Ne me dites pas... Est-ce qu'il était prévu \nque Ryoko soit impliquée, elle aussi...?)"
+            "\\.\\C[4](Ne me dites pas... qu'il était prévu que Ryoko\n soit impliquée aussi...?)"
+        ],
+        "8-1-choice": [
+            "Lire\nNe pas lire"
+        ],
+        "9-1-choice": [
+            "Lire\nNe pas lire"
+        ],
+        "10-1-choice": [
+            "Lire\nNe pas lire"
+        ],
+        "11-1-choice": [
+            "Lire\nNe pas lire"
+        ],
+        "12-1-choice": [
+            "Lire\nNe pas lire"
         ]
     },
     "map188": {
@@ -33192,6 +33207,9 @@
             "Lire\nNe pas lire"
         ],
         "4-4-choice": [
+            "Lire\nNe pas lire"
+        ],
+        "4-1-choice": [
             "Lire\nNe pas lire"
         ]
     },
