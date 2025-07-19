@@ -29457,6 +29457,9 @@
         "7-1-message": [
             null,
             "\\.\\C[4](...)"
+        ],
+        "1-1-message": [
+            "La corbeille qui contient les données à effacer."
         ]
     },
     "map188": {
