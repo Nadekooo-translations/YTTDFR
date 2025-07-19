@@ -5332,7 +5332,7 @@
             "\"Hé, Sara.\"",
             "\\.\"Sou ! Et...\"",
             "\\.\"...\"",
-            "\\.\"Tu n'es pas fatiguée ?\n Ce n'est pas bon de faire trop d'efforts.\n Tu devrais te reposer un petit peu.\"",
+            "\\.\"Tu n'es pas fatiguée ?\n Ce n'est pas bon, le surmenage.\n Tu devrais te reposer un peu.\"",
             "\\.\"Hmm...\"",
             "\"Je ne peux pas...\n Pas quand tout le monde fait de son mieux.\"",
             "\\.\"Moi, je pense qu'il est important de se reposer.\"",
@@ -27225,7 +27225,7 @@
         ],
         "21-2-message": [
             "\\C[3]Je ressens...\nDe la force et du chagrin s'émaner de Reko...",
-            "\"Tu penses pouvoir lui offrir un peu de réconfort, Sara...?\""
+            "\"Tu penses pouvoir lui offrir un peu de réconfort,\n Sara...?\""
         ]
     },
     "map132": {
