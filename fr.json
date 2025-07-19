@@ -29508,11 +29508,13 @@
         "8-1-message": [
             "\\C[5]Un fichier intitulé \"Ordre 59.\"",
             "\\C[5]Kai, le Projet : Démocratie Mortelle commence\nenfin à prendre forme.",
-            "Le moment est enfin venu\nde te rendre utile à l'organisation.",
+            "\\.\\C[5]Le moment est enfin venu pour toi de\nte rendre utile à l'organisation.",
             null,
             null,
             null,
-            "\\C[5]Kai, le Projet : Démocratie Mortelle commence\nenfin à prendre forme."
+            "\\C[5]Kai, le Projet : Démocratie Mortelle commence\nenfin à prendre forme.",
+            "\\.\\C[5]Le moment est enfin venu pour toi de\nte rendre utile à l'organisation.",
+            "\\.\\C[5]Protège Sara Chidouin jusqu'au jour prévu,\net assure-toi qu'elle reste en bonne santé."
         ]
     },
     "map188": {
