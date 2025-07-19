@@ -29457,8 +29457,14 @@
         "7-1-message": [
             null,
             "\\.\\C[4](...)",
-            "À l'intérieur se trouvaient de longues lignes de textes et de symboles\ndont je ne comprenais pas le sens.",
-            "(Argh, je suis douée en maths et en sciences, mais bon...)"
+            "\\.\\C[3]À l'intérieur se trouvaient de longues lignes de texte\net de symboles dont je ne comprenais pas le sens.",
+            "(Argh, je suis douée en maths et en sciences, mais bon...)",
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.\\C[3]À l'intérieur se trouvaient de longues lignes de texte\net de symboles dont je ne comprenais pas le sens."
         ],
         "1-1-message": [
             "\\C[3]La corbeille sert à effacer des fichiers."
