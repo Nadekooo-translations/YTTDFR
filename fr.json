@@ -29456,7 +29456,8 @@
         ],
         "7-1-message": [
             null,
-            "\\.\\C[4](...)"
+            "\\.\\C[4](...)",
+            "À l'intérieur se trouvaient de longues lignes de textes et de symboles\ndont je ne comprenais pas le sens."
         ],
         "1-1-message": [
             "\\C[3]La corbeille sert à effacer des fichiers."
@@ -29487,6 +29488,9 @@
             "\\.\\C[4](Je savais qu'on avait un assistant ménager\n quand j'étais petite, mais...)",
             "\\.\\C[4](Mais comme il ne travaillait que quand j'étais\n à l'école, je ne le voyais jamais à la maison.)",
             "\\.\\C[4](C'était vraiment... Kai... chez moi...?)"
+        ],
+        "4-1-choice": [
+            "Lire\nNe pas lire"
         ]
     },
     "map188": {
