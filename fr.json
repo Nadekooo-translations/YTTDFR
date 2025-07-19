@@ -29572,9 +29572,9 @@
             "\\.\\C[5]Je voulais vous voir grandir de mes propres yeux.",
             "\\.\\C[5]Pour la première fois, j'avais une raison de vivre.",
             "\\.\\C[5]Je suis sincèrement comblé d'avoir pu\nrencontrer les Chidouin.",
-            "\\.\\C[5]Merci beaucoup, mlle Sara.",
-            null,
-            null,
+            "\\.\\C[5]Mademoiselle Sara, vous avez toute ma gratitude.",
+            "\\C[5]Bonjour, c'est Kai.",
+            "\\.\\C[5]Je tiens à m'excuser, car ce message n'a absolument\nrien à voir avec la Démocratie Mortelle.",
             "\\.\\C[5]Mademoiselle Sara, je souhaite vous faire part\nde ma reconnaissance envers vous.",
             "\\.\\C[5]Je dois énormément à la famille Chidouin.",
             "\\.\\C[5]Votre père m'a embauché en tant qu'assistant afin de\nl'aider dans son travail et pour les tâches ménagères.",
@@ -29586,7 +29586,8 @@
             "\\.\\C[5]Je voulais vous voir grandir de mes propres yeux.",
             "\\.\\C[5]Pour la première fois, j'avais une raison de vivre.",
             "\\.\\C[5]Je suis sincèrement comblé d'avoir pu\nrencontrer les Chidouin.",
-            "\\.\\C[5]Mademoiselle Sara, vous avez toute ma gratitude."
+            "\\.\\C[5]Mademoiselle Sara, vous avez toute ma gratitude.",
+            "\\C[4](Kai...)"
         ]
     },
     "map188": {
