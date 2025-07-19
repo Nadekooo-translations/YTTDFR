@@ -33098,6 +33098,38 @@
         ],
         "3-4-choice": [
             "Lire\nNe pas lire"
+        ],
+        "4-1-message": [
+            "\\C[3]Papiers intitulés \"Règlement des Maîtres d'Étage\".",
+            "\\.\\C[4](Règlement... des Maîtres d'Étage ?)",
+            "\\C[5]■Maîtres d'Étage, conduisons ce\n  Jeu Mortel avec fierté !",
+            "\\.\\C[5][1] Pour les épreuves nécessitant une explication,\n    donnez-la aux participants à l'avance !",
+            "\\.\\C[5][2] Les Maîtres d'Étage ne doivent pas\n    tuer directement les participants !",
+            "\\.\\C[5][3] Les Maîtres d'Étage ne peuvent pas mentir\n    dans l'intention de tromper les participants !"
+        ],
+        "4-2-message": [
+            "\\C[3]Papiers intitulés \"Règlement des Maîtres d'Étage\".",
+            "\\C[5]■Maîtres d'Étage, conduisons ce\n  Jeu Mortel avec fierté !",
+            "\\.\\C[5][1] Pour les épreuves nécessitant une explication,\n    donnez-la aux participants à l'avance !",
+            "\\.\\C[5][2] Les Maîtres d'Étage ne doivent pas\n    tuer directement les participants !",
+            "\\.\\C[5][3] Les Maîtres d'Étage ne peuvent pas mentir\n    dans l'intention de tromper les participants !",
+            "\\.\\C[5][4] En cas d'infraction durant le Jeu Principal,\n    celui-ci se poursuit avec la mort du contrevenant,\n    ou bien \\C[2]doit être rejoué 24 heures plus tard\\C[5] !",
+            "\\.\\C[5][5] Traitez les participants avec amour !"
+        ],
+        "4-4-message": [
+            "\\C[3]Papiers intitulés \"Règlement des Maîtres d'Étage\".",
+            "\\C[5]■Maîtres d'Étage, conduisons ce\n  Jeu Mortel avec fierté !",
+            "\\.\\C[5][1] Pour les épreuves nécessitant une explication,\n    donnez-la aux participants à l'avance !",
+            "\\.\\C[5][2] Les Maîtres d'Étage ne doivent pas\n    tuer directement les participants !",
+            "\\.\\C[5][3] Les Maîtres d'Étage ne peuvent pas mentir\n    dans l'intention de tromper les participants !",
+            "\\.\\C[5][4] En cas d'infraction durant le Jeu Principal,\n    celui-ci se poursuit avec la mort du contrevenant,\n    ou bien \\C[2]doit être rejoué 24 heures plus tard\\C[5] !",
+            "\\.\\C[5][5] Traitez les participants avec amour !"
+        ],
+        "4-2-choice": [
+            "Lire\nNe pas lire"
+        ],
+        "4-4-choice": [
+            "Lire\nNe pas lire"
         ]
     },
     "map183": {
