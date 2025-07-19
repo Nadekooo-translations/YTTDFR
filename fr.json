@@ -29464,7 +29464,8 @@
             "\\.\"... Bah, c'est pas un dossier d'images, ça, si ?\"",
             "\\.\"Hein...?\"",
             "J'ai nerveusement ouvert le dossier.",
-            "\\.\\C[3]À l'intérieur se trouvaient de longues lignes de texte\net de symboles dont je ne comprenais pas le sens."
+            "\\.\\C[3]À l'intérieur se trouvaient de longues lignes de texte\net de symboles dont je ne comprenais pas le sens.",
+            "\"J'y comprends rien.\nJ'pensais pas que ce serait son type...\""
         ],
         "1-1-message": [
             "\\C[3]La corbeille sert à effacer des fichiers."
