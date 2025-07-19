@@ -3569,12 +3569,12 @@
             "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
         ],
         "1-1-message": [
-            "\\C[3]Il y a un trou dans le plafond.\nOn peut y insérer quelque chose à l'intérieur.",
+            "\\C[3]Il y a un trou dans le plafond.\nOn peut insérer quelque chose à l'intérieur.",
             "\"Je me demande si...\"",
             "\\.\"Porte-moi sur ton dos, s'il te plaît.\"",
             "\\.\"Ouais, ça me semble logique.\"",
             "\\C[3]L'Ampoule a été insérée.",
-            "\\.\"C'est bien. Bon garçon.\"",
+            "\\.\"C'est bien. Bon toutou.\"",
             "\\.\"... Monsieur le Policier est pas un chien.\""
         ],
         "2-1-message": [
@@ -26986,7 +26986,7 @@
             "\\.\"...\"",
             "\\.\"On a pas le temps pour ça.\"",
             "\\.\"K-Keiji...\"",
-            "\\.\"... Ils ne tueront pas Gin.\"",
+            "\\.\"... Ils vont pas tuer pas Gin.\"",
             "\\.\"Hein ?!\"",
             "\\.\"Je commence à comprendre\ncomment fonctionnent nos ennemis...\"",
             null,
