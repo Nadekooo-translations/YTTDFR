@@ -21936,7 +21936,7 @@
             "\\.\"Veux-tu bien m'écouter ? C'est important...\"",
             "\\.\"Tu ne peux vraiment plus me saquer, hein...\"",
             "\\.\\C[4](Mais qu'est-ce qu'il manigance, encore...?)",
-            "\\.\"Merci, Sara!\"",
+            "\\.\"Je te remercie, Sara !\"",
             "\\.\"Bon, parlons peu, mais parlons bien...\"",
             "\\.\"Euh... Hum...\"",
             "\\.\"Je veux... qu'on se réconcilie.\"",
@@ -21962,7 +21962,7 @@
             "\\.\"Mais bon, je suis tout même ravi.\n J'ai sincèrement envie qu'on se réconcilie, Sara.\"",
             "\\.\"Je ne veux plus que les kidnappeurs continuent de\n nous faire danser dans leurs mains comme des pantins.\"",
             "\\.\"Je veux mettre fin à cette ridicule\n Démocratie Mortelle.\n Il faut à tout prix qu'on s'échappe.\"",
-            "\\.\"Et quand je dis \"on\", je parle bien de\n tout le monde...!\"",
+            "\\.\"Et quand je dis « on »,\n je parle bien de nous tous...!\"",
             "\\.\"Quel discours émouvant.\"",
             "\\.\"Je suis très sérieux, Keiji.\"",
             "\\.\"Alors, que dites-vous de partager\n l'ordinateur portable à tout le monde ?\"\\.",
@@ -21990,7 +21990,7 @@
             "\\.\"Allez, serre au moins la main de Kanna !\"",
             "\\.\"...!\"",
             "\\.\"Kanna...\"",
-            "\\.\"Allez, donne-moi ta main.\"",
+            "\\.\"Allez, donne-moi la main.\"",
             "\\.\"...!!\"",
             "\\.\\C[3]Je pris gentiment la petite main de Kanna.",
             "\\.\"K-Kanna...\"",
@@ -22062,7 +22062,7 @@
             "\\.\\C[3]Touchez l'icône pour activer la capacité\nde votre partenaire."
         ],
         "6-1-message": [
-            "\\.\"Mais que donc faites-vous ?!\"",
+            "\\.\"Mais que diable fabriquez-vous ?!\"",
             "\\.\"La ferme...!\"",
             "\\.\\C[4](Non ! Alice s'est perdu dans sa rage...!)",
             "\"Qu'est-ce qui te prend, Alice ?!\"",
@@ -22203,7 +22203,7 @@
         ],
         "6-4-message": [
             "\\C[3]Kanna et Q-taro... ont l'air plutôt joyeux.",
-            "\\.\\C[3]Je... n'arrive pas à lire quoi que ce soit chez Sou...",
+            "\\.\\C[3]Quant à Sou, je...\nJe n'arrive pas à lire quoique ce soit en lui...",
             "\"Pff... Il est trop rusé.\""
         ],
         "6-7-message": [
@@ -27370,7 +27370,7 @@
             "Entrer\nAnnuler"
         ],
         "6-2-message": [
-            "\\C[3]Je... n'arrive toujours pas à lire quoique ce soit\nchez Lara.",
+            "\\C[3]Je... n'arrive toujours pas à lire quoique ce soit\nen Lara.",
             "\"... L'intuition ça marche pas quand tu viens à peine\n de rencontrer la personne.\""
         ],
         "7-1-message": [
