@@ -579,7 +579,10 @@
         "itemdesc170": "Une vidéo filmée par les caméras du\\nrez-de-chaussée.\\nOn apparaît dessus.\\nSou a vu Q-taro placer les cartes de rôles.",
         "itemdesc174": "Une tablette pour consulter le rôle de sa carte.\\nElle était à côté de Q-taro, inconscient dans\\nla Salle Effondrée.",
         "itemdesc176": "Un pistolet à décharge électrique jetable.\\nIl peut paralyser quelqu'un.\\nIl est dangereux, donc Gin et moi le gardons en secret.",
-        "name_カニヒゲジジイ": "Tonton Moustacrabe"
+        "name_カニヒゲジジイ": "Tonton Moustacrabe",
+        "itemdesc168": "Une petite puce extraite de la tête de Ray Alizée.\\nPeut anéantir le système de sécurité du complexe.",
+        "itemdesc172": "Une mystérieuse clé trouvée dans la cuisine\\ndu rez-de-chaussée.",
+        "itemdesc162": "Une liste d'emails que Kai a reçus et envoyés\\ndepuis son ordinateur...\\nPas un objet physique,\\nje les ai juste retenus dans ma tête."
     },
     "items-16": {
         "name": "??????????????",
@@ -12367,7 +12370,7 @@
             "\\.\\C[4](...\n ...\n ...)",
             "\\.\\C[4](C'est vraiment... arrivé ?)",
             "\\.\\C[4](Alors Kanna... ne se faisait pas vraiment\n manipuler par Sou...)",
-            "\\.\"Une fausse règle, hein...\n C'est que c'est impossible de le prouver, ça.\"",
+            "\\.\"Une fausse règle, hein...\n C'est que c'est impossible à prouver, ça.\"",
             "\\.\"... Non, attends.\"",
             "\\.\"Dans la salle cachée où se trouvait l'ordinateur\n de Kai...\"",
             "\\.\"Quand Sou était encore inconscient après\n l'attaque de Nao...\"",
@@ -20472,6 +20475,34 @@
         "854-0-choice": [
             "C'est la vérité\nC'est une blague",
             "C'est la vérité\nC'est une blague"
+        ],
+        "958-0-message": [
+            "\"Ah, ouh...!! Sara !\"",
+            "\\.\"Il est actuellement, euh...\n Formellement interdit de pénétrer dans\n la Chambre des Tromperies...\"",
+            "\\.\"Ça va pas être faisable de la récupérer\n pour l'instant, on dirait.\"",
+            "\"Euuuuuh... Saraaa...\"",
+            "\\.\"Je le répéterai autant de fois qu'il le faudra...\n La Chambre des Tromperies est interdite d'accès\n à l'heure actuelle...\"",
+            "\\.\"Elle nous laissera pas passer.\"",
+            "\"... Maintenant !\"",
+            "\"Allons, il suffit, Saraaa !\"",
+            "\\.\"La Chambre des Tromperies est interdite d'accès !\n Non, c'est nooon !!\"",
+            "\\.\"Hé, c'était bien tenté...\"",
+            "\"C'est maintenant ou jamais !!\"",
+            "\"Erf !! Sara !!\"",
+            "\\.\"Puisque je vous dis que la Chambre des Tromperies\n est interdite d'accès !!\n Vous ne passerez pas !!\"",
+            "\\.\"Quelle tenacité...\n Je devrais peut-être en prendre de la graine...\"",
+            "\"Ouuuuuh...!\n Je ne vous laisserai pas vous en rapprocher...!\"",
+            "\\.\"Bonnn...\n Je crois que l'heure de jouer est finie.\"",
+            "\"Ah... Où allez-vous, au juste...?\"",
+            "\\.\"Euh...\n On se sent d'humeur à trahir des gens,\n donc à la Chambre des Tromperies ?\"",
+            "\\.\"Ah, non non non et non !\"",
+            "\\.\"Pour l'instant, c'est...\n Vous n'avez pas le droit d'y aller...\"",
+            "\\.\"Une minute, Lara.\n Tu as l'autorisation de faire ça ?\"",
+            "\\.\"M-Mais en fait...\n Nous ne pouvons plus laisser les corps là...\"",
+            "\\.\"Nous devons leur préparer une cérémonie...\"",
+            "\\.\"...\n ...\n ...\"",
+            "\\.\"Elle flanchera pas...\n On y reviendra plus tard, Sara.\"",
+            "\\.\"... Bon, d'accord...\""
         ]
     },
     "map107": {
@@ -22131,7 +22162,7 @@
         ],
         "4-2-message": [
             "\\C[3]Je n'arrive pas à deviner quoique ce soit\ndu cœur de Gashu.",
-            "\"... Pour pouvoir lire le cœur de quelqu'un,\n faut avoir passé du temps avec la personne.\""
+            "\"... Pour pouvoir lire le cœur de quelqu'un,\n faut avoir passé du temps avec.\""
         ],
         "4-4-message": [
             "\"Avez-vous un quelconque problème ?\"",
@@ -23695,7 +23726,7 @@
             "\\.\\C[4](Grr...!\n À qui la faute, si Gin s'est fait blesser...?!)",
             "\\.\\C[3]J'envoie un regard noir à Lara, grondante.",
             "\\.\"... Hii... Pardon...\"",
-            "\\.\\C[3]Mais le comportement timide de Lara me pris\nde surprise.",
+            "\\.\\C[3]Mais le comportement timide de Lara me prit\npar surprise.",
             "\\.\\C[4](... Ne perds pas ton sang-froid...)",
             "\\.\"Allez, tous les deux. Allons-y.\"",
             "\\.\\C[3]Nous quittons le cabinet médical.",
@@ -24925,7 +24956,7 @@
             "\\.\\C[4](... Je dois continuer à faire de mon mieux...)"
         ],
         "2-2-message": [
-            "\\.\\sw[324]\"Je suis Kazumi Mishima...\n Je suis professeur de lycée de Japonais et d'art.\"\\sw[325]",
+            "\\.\\sw[324]\"Je suis Kazumi Mishima...\n Je suis professeur.\n J'enseigne le japonais et l'art à de jeunes lycéens.\"\\sw[325]",
             "\\.\\C[4](Mais qu'est-ce qu'il se passe...?!)",
             "\\.\\sw[324]\"... Le vrai...?\"\\sw[325]",
             "\\.\\sw[324]\"... Attendez...\"\\sw[325]",
@@ -26964,7 +26995,7 @@
     "map130": {
         "19-1-message": [
             "\\C[3]On a regardé sur tous les moniteurs,\nmais pas une trace de Gin.",
-            "\\.\\C[4](Il n'y a \\C[2]que le deuxième étage \\C[4]sur ce\n système de moniteur...)",
+            "\\.\\C[4](Il n'y a \\C[2]que le deuxième étage \\C[4]sur ce\n système de surveillance...)",
             "\\.\\C[4](Ça veut dire que Gin est sûrement toujours\n au premier étage !)",
             "\"... Oh non. Quelqu'un arrive.\"",
             "\\.\"Quoi...?!\"",
@@ -26976,9 +27007,9 @@
             "\\.\"Mais, dis, pendant que t'es là...\"",
             "\\.\"... Y a des IA dans tous ces moniteurs ?\"",
             "\\.\"... Très exactement.\"",
-            "\\.\"Ici sont rassemblées les IA de tous les candidats\n ayant \\C[2] triomphé de la Première Épreuve\\C[0].\"",
+            "\\.\"Ici sont rassemblées les IA de tous les candidats\n ayant \\C[2]triomphé de la Première Épreuve\\C[0].\"",
             "\\.\"Hmm...\"",
-            "\\.\"Capiche. Tu peux y aller.\n On a... des choses à régler, nous.\"",
+            "\\.\"Capiche. Tu peux y aller.\n On... a des choses à régler, de notre côté.\"",
             "\\.\"Oui, je vous y laisse...\"",
             "\"Bon, maintenant, que faire...\"",
             "\\.\\C[4](...\n ...\n ...)",
@@ -26986,7 +27017,7 @@
             "\\.\"...\"",
             "\\.\"On a pas le temps pour ça.\"",
             "\\.\"K-Keiji...\"",
-            "\\.\"... Ils vont pas tuer pas Gin.\"",
+            "\\.\"... Ils vont pas tuer Gin.\"",
             "\\.\"Hein ?!\"",
             "\\.\"Je commence à comprendre comment fonctionne\n notre ennemi...\"",
             "\\.\"Mais...!\"",
@@ -26995,7 +27026,7 @@
             "\\.\"D'ici à ce qu'il revienne sain et sauf...\n On devrait avoir un plan d'évasion surprise pour lui.\"",
             "\\.\\C[4](...\n ...\n ...)",
             "\\.\\C[4](On devrait aller récupérer la puce de Ray...)",
-            "\\.\\C[4](Je sais, mais...)",
+            "\\.\\C[4](Je le sais, mais...)",
             "\\.\"Bon, bah. À la Chambre des Tromperies.\"",
             "\\.\"Ah, je sais...\n On devrait aller récupérer la puce de Ray\n tant qu'on le peut encore !\"",
             "\\.\"Ça te gêne pas de pas aller chercher Gin...?\"",
@@ -27129,7 +27160,7 @@
             "\\C[3]Le moniteur central montre la chambre de Nao.",
             "\\.\\C[4](Est-ce qu'elle va bien ?\n Elle passe tout son temps à discuter avec l'IA\n de Monsieur Mishima...)",
             "\\C[3]Le moniteur central montre une chambre vide.",
-            "\\.\\C[4](TIens ? Cette chambre cloche...)",
+            "\\.\\C[4](Tiens ? Cette chambre cloche...)",
             "\\.\\C[4](...)",
             "\\.\\C[4](Hein...?)",
             "\\.\\C[4](Q-Quoi...?! Mais qu'est-ce qu'il se passe ?!)",
@@ -27152,14 +27183,14 @@
             "\\.\"... Ça annonce rien de glorieux, ça.\"",
             "\\.\"Keiji...\"",
             "\"Qu'est-ce que ce Monsieur Mishima fabrique là...?!\"",
-            "\\.\"Hmm... Il a dit être \"revenu à la vie\", mais...\"",
-            "\\.\"Au final, c'était juste une IA que Reko a détruit.\"",
+            "\\.\"Hmm... Il a dit être « revenu à la vie », mais...\"",
+            "\\.\"Au final, c'était juste une IA que Reko a détruite.\"",
             "\\.\"C'est compliqué, comme sujet, hein ?\n Les IA sont complètement digitales, donc...\"",
             "\"Si l'envie lui prend, tout ce que notre ennemi a à\n faire pour les ramener à la vie, ce sont les copier\n comme bon lui semble.\"",
             "\\.\"À partir de là, ça veut dire quoi, la mort...?\"",
             "\\.\\C[4](Je n'arrive pas à y croire...)",
             "\\.\"Mais ce qui fait le plus peur, c'est...\"",
-            "\\.\"... qu'ils pourraient réécrire leurs personnalités\n comme bon leur semble, tu crois pas ?\"",
+            "\\.\"... qu'ils pourraient réécrire leurs personnalités\n comme bon leur semble, t'en penses quoi ?\"",
             "\\.\"Et Nao se comporte bizarrement...\"",
             "\\.\"On dirait que Monsieur Mishima se sert d'elle.\"",
             "\\.\"Peut-être que l'échange de tout à l'heure,\n c'était Nao...!!\"",
@@ -27208,7 +27239,7 @@
             "\\C[3]Il n'y a rien d'intéressant sur le moniteur\nen bas à gauche."
         ],
         "17-1-choice": [
-            "Qu'est-ce qu'il a, Monsieur Mishima...?\nNao se comporte bizarrement"
+            "Qu'est-ce qu'il a, ce Monsieur Mishima...?\nNao se comporte bizarrement"
         ],
         "18-1-message": [
             "\\C[3]Le moniteur en bas à droite affiche la\nChambre des Tromperies.",
@@ -34359,7 +34390,7 @@
             "\\.\\C[3]Si l'envie leur prend, ils peuvent tous nous décapiter.",
             "\\.\\C[3]S'il faut, il n'y a même pas de sortie.\nIls se joueront de nous et ils nous massacreront\njusqu'à ce qu'ils soient satisfaits.",
             "\\.\\C[4](Mais... dans ce cas, on va juste tous...)",
-            "\\.\\C[4](...\n...\n...)",
+            "\\.\\C[4](...)",
             "\\.\\C[3]C'est une chose étrange.",
             "\\.\\C[3]Encore et encore, j'ai été proche de la mort.",
             "\\.\\C[3]Peut-être qu'il ne nous reste plus aucune\nraison d'avoir peur.",
@@ -34406,8 +34437,8 @@
             "\\.\\C[4](Arrêtez...! Arrêtez tout ça...!)",
             "\\.\"Cependant, ce jeu n'est pas sans failles.\"",
             "\\.\"Nous nous fichons des jeux de chance dénués de sens.\"",
-            "\\.\"C'est pourquoi utiliser des moyens pour décider\n de manière équitable la victime comme\n pierre-feuille-ciseau sont interdits !\"",
-            "\\.\"Cela dit, vous pouvez reprendre vos cartes !\"",
+            "\\.\"C'est pourquoi utiliser des moyens pour décider\n de manière équitable la victime comme\n pierre-feuille-ciseaux sont interdits !\"",
+            "\\.\"Maintenant que tout est dit,\n vous pouvez reprendre vos cartes !\"",
             "\\.\\C[4](Nos cartes...)",
             "\\.\"Ces cartes peuvent assigner quatre \\C[2]rôles\\C[0].\"",
             "\\.\"Le premier est le \\C[4]Roturier\\C[0].\"",
@@ -35726,7 +35757,7 @@
     },
     "items-171": {
         "name": "Clé Étiquetée",
-        "description": "Une mystérieuse clé trouvée dans la cuisine du\nrez-de-chaussée."
+        "description": "Une mystérieuse clé trouvée dans la cuisine\ndu rez-de-chaussée."
     },
     "items-172": {
         "name": "Clé Étiquetée"
