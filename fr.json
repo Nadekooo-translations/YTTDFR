@@ -29241,7 +29241,7 @@
         "10-1-message": [
             "\\C[5]Un fichier intitulé \"Pour Mlle Sara\".",
             "\\C[5]Mademoiselle Sara, bonjour. Je suis Kai.",
-            "Je suis sincèrement navré que vous ayez été impliquée\ndans un incident tel que celui-ci.",
+            "\\.\\C[5]Je suis sincèrement navré que vous ayez été impliquée\ndans un incident tel que celui-ci.",
             null,
             null,
             null,
@@ -29268,7 +29268,7 @@
             null,
             null,
             null,
-            null,
+            "\\.\\C[5]Je suis sincèrement navré que vous ayez été impliquée\ndans un incident tel que celui-ci.",
             null,
             null,
             null,
