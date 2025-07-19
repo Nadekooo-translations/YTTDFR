@@ -29463,7 +29463,8 @@
         ],
         "2-1-message": [
             "\\C[3]Un dossier intitulé « Sara ».",
-            "\\.\\C[3]Il est verrouillé derrière un mot de passe."
+            "\\.\\C[3]Il est verrouillé derrière un mot de passe.",
+            "(Je ne peux pas y accéder...)"
         ],
         "2-2-message": [
             "\\C[3]Un dossier intitulé « Sara »."
