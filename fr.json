@@ -29328,7 +29328,7 @@
             "\\C[4](...!)",
             "\\C[5]Malheureusement, la plupart des données étaient\ntrop lourdement protégées pour que je puisse y accéder.",
             "\\.\\C[5]Mais il y avait une personne en particulier pour\n\nqui cette protection a été retirée.",
-            null,
+            "\\.\\C[5]Son fichier aurait même été supprimé, à un moment...",
             null,
             null,
             null,
