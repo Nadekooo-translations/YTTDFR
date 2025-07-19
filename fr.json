@@ -29459,7 +29459,7 @@
             "\\.\\C[4](...)"
         ],
         "1-1-message": [
-            "La corbeille qui contient les données à effacer."
+            "\\C[3]La corbeille sert à effacer des fichiers."
         ]
     },
     "map188": {
