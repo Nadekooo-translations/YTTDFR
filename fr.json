@@ -29476,10 +29476,11 @@
             "\\C[5]Un fichier intitulé \"Ordre 8.\"",
             "\\C[5]Kai, à propos de la protection de la famille Chidouin...\nTu fais du bon travail.",
             "\\.\\C[5]Il semblerait que les Chidouin soient à la\nrecherche d'assistants, ces derniers temps.",
-            "C'est pile le bon moment.\nKai, fait en sorte qu'ils t'emploient et infiltre-toi parmi eux.",
+            "\\.\\C[5]Le timing est parfait.\nKai, fais en sorte qu'ils t'emploient et\ninfiltre-toi chez eux.",
             null,
             "\\C[5]Kai, à propos de la protection de la famille Chidouin...\nTu fais du bon travail.",
-            "\\.\\C[5]Il semblerait que les Chidouin soient à la\nrecherche d'assistants, ces derniers temps."
+            "\\.\\C[5]Il semblerait que les Chidouin soient à la\nrecherche d'assistants, ces derniers temps.",
+            "\\.\\C[5]Le timing est parfait.\nKai, fais en sorte qu'ils t'emploient et\ninfiltre-toi chez eux."
         ]
     },
     "map188": {
