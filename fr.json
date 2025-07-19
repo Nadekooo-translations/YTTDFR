@@ -29507,7 +29507,12 @@
         ],
         "8-1-message": [
             "\\C[5]Un fichier intitulé \"Ordre 59.\"",
-            "Kai, le Projet Jeu De la Mort commence enfin\nà prendre forme."
+            "\\C[5]Kai, le Projet : Démocratie Mortelle commence\nenfin à prendre forme.",
+            null,
+            null,
+            null,
+            null,
+            "\\C[5]Kai, le Projet : Démocratie Mortelle commence\nenfin à prendre forme."
         ]
     },
     "map188": {
