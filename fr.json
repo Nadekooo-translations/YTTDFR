@@ -29245,7 +29245,7 @@
     },
     "map153": {
         "10-1-message": [
-            "\\C[5]Un fichier intitulé \"Pour Mlle Sara\".",
+            "\\C[5]Un fichier intitulé « Pour Mlle Sara ».",
             "\\C[5]Mademoiselle Sara, bonjour. Ici Kai.",
             "\\.\\C[5]Je suis sincèrement navré que vous ayez été impliquée\ndans un incident tel que celui-ci.",
             "\\.\\C[5]Mademoiselle Sara, si vous lisez ceci,\nil y a une chose que je souhaiterais vous communiquer.",
@@ -29490,7 +29490,7 @@
             "\\C[3]Un dossier intitulé « Sara »."
         ],
         "4-1-message": [
-            "\\C[5]Un fichier intitulé \"Ordre 8.\"",
+            "\\C[5]Un fichier intitulé « Ordre 8 ».",
             "\\C[5]Kai, à propos de la protection de la famille Chidouin...\nTu fais du bon travail.",
             "\\.\\C[5]Il semblerait que les Chidouin soient à la\nrecherche d'assistants, ces derniers temps.",
             "\\.\\C[5]Le timing est parfait.\nKai, fais en sorte qu'ils t'emploient et\ninfiltre-toi chez eux.",
@@ -29512,7 +29512,7 @@
             "Lire\nNe pas lire"
         ],
         "8-1-message": [
-            "\\C[5]Un fichier intitulé \"Ordre 59.\"",
+            "\\C[5]Un fichier intitulé « Ordre 59 ».",
             "\\C[5]Kai, le Projet : Démocratie Mortelle commence\nenfin à prendre forme.",
             "\\.\\C[5]Le moment est enfin venu pour toi de\nte rendre utile à l'organisation.",
             "\\.\\C[5]Protège Sara Chidouin jusqu'au jour prévu\net assure-toi qu'elle reste en bonne santé.",
@@ -29558,7 +29558,7 @@
             "\\.\\C[4](Maintenant que j'y pense, il y avait toujours\n des sucreries pâteuses à table, le soir...)"
         ],
         "11-1-message": [
-            "\\C[5]Un fichier nommé \"Remerciements personnels.\""
+            "\\C[5]Un fichier intitulé « Remerciements Personnels »."
         ]
     },
     "map188": {
