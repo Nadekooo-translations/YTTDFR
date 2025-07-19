@@ -29465,7 +29465,7 @@
             "\\C[3]Un dossier intitulé « Sara ».",
             "\\.\\C[3]Il est verrouillé derrière un mot de passe.",
             "\\.\\C[4](Je ne peux pas y accéder...)",
-            "(Le mot de passe est...Le prénom de ma mère...)"
+            "\\.\\C[4](Le mot de passe...\n C'est le prénom de ma mère...)"
         ],
         "2-2-message": [
             "\\C[3]Un dossier intitulé « Sara »."
