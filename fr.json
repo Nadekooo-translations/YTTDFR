@@ -11093,7 +11093,7 @@
             "\\.\"... Hm...\n Vous vous êtes mis à penser ça, hein...\"",
             "\\.\"Si j'dois mettre ma vie en jeu, j'veux la\n mettre entre les mains de quelqu'un sur\n qui j'peux vraiment compter.\"",
             "\\.\"Si c'pas moi, alors c'sera Keiji...\n T'le seul sur qui j'peux compter.\"",
-            "\\.\"Keiji... Qu'est-ce qu'il y a...?\"",
+            "\\.\"Keiji... Qu'est-ce qu'y a...?\"",
             "\\.\"...\"",
             "\\.\"Si tu dis rien, on avancera jamais !\"",
             "\\.\"Si vous refusez, je voudrais en connaître la raison.\n Autrement, nos futurs seront en péril...\"",
@@ -29406,38 +29406,40 @@
             "\\.\\C[4]\\sp[12](Je me démène pour que tout le monde puisse...)",
             "\\.\\C[4]\\sp[10](Ah...)",
             "\\.\\C[4]\\sp[9](Je suffoque...)",
-            "\\.\\C[4]\\sp[8](Hein ? J'arrive plus à... respirer normalement...)",
-            null,
+            "\\.\\C[4]\\sp[8](Quoi...? J'arrive plus à... respirer normalement...)",
+            "\\C[10]\"Quess' t'as, Sara ?\"",
             "\\.\\C[4](...)",
+            "\\.\\C[10]\"Alors, ça te fait quoi d'avoir ma carte ?\"",
+            "\\.\\C[4](Du calme... Pour l'instant... l'ordinateur...)",
+            "\\.\\C[10]\"T'inquiète.\n Cette carte épèle pas forcément la mort, tu sais.\"",
             null,
-            null,
-            null,
-            null,
-            null,
+            "\\.\\C[10]\"Après, c'est toi qui m'a tué.\"",
             null,
             "\\.\"Sara...\"",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\C[4](...\n ...\n ...)"
+            "\\.\"... Du calme...\"",
+            "\\.\\C[4](... Ah...)",
+            "\\.\\C[3]Je sens quelque chose sur mon épaule...",
+            "\\.\\C[3]C'est réconfortant...",
+            "\\.\\C[3]Mais",
+            "\\.\\C[10]L'hallucination... ne s'en va pas.",
+            "\\.\\C[4](Il faut...\n Il faut que je fasse un échange...!!)",
+            "\\.\\C[4](Et j'ai 50 jetons !)",
+            "\\.\\C[4](Ah, oui !\n J'ai laissé mon porte-monnaie dans ma chambre !!)",
+            "\\.\\C[4](Il faut que j'aille le chercher...!!)",
+            "\\.\\C[3]Mon corps bouge par lui-même.",
+            "\\.\\C[3]Sans prêter attention aux regards des autres,\nje m'élance dans ma course.",
+            "\\.\"Haa...!! Haa...!!\"",
+            "\\.\"Où est... mon porte-monnaie...?!\"",
+            "\\.\\C[4](Mais... Je...!!)",
+            "\\.\\C[4](J'ai pas 50 jetons...!!)",
+            "\\.\\C[4](Je fais quoi ?!\n Je peux pas faire d'emprunts !!)",
+            "\\.\\C[4](Réfléchis... Réfléchis...!!)",
+            "\\.\\C[4](Mais bien sûr... la Chambre des Tromperies !)",
+            "\\.\\C[10](Si je prends les jetons d'Alice...)",
+            "\\.\\C[10](Si je prends les jetons de Reko...)",
+            "\\C[4](...\n ...\n ...)",
+            "\\.\\C[3]Mon corps bouge par lui-même.",
+            "\\.\\C[3]Sans prêter attention aux regards des autres,\nje m'élance dans ma course."
         ],
         "59-1-message": [
             "\\C[3]Vidéo Surveillance du RDC\n\nUne vidéo filmée par les caméras du rez-de-chaussée.\nOn apparaît dessus. Sou a vu Q-taro placer les cartes."
@@ -29540,7 +29542,8 @@
             "Lire\nNe pas lire"
         ],
         "12-1-choice": [
-            "Lire\nNe pas lire"
+            "Lire\nNe pas lire",
+            "Regarder mon rôle\nSe concentrer sur l'ordinateur"
         ],
         "9-1-message": [
             "\\C[5]Un fichier intitulé « Les Goûts de Sara ».",
@@ -33644,7 +33647,7 @@
             null,
             null,
             "\\.\\C[4](...\n ...\n ...)",
-            null,
+            "\\.\\C[4](Je ne veux pas... mourir...)",
             null,
             null,
             null,
@@ -37057,7 +37060,7 @@
     },
     "map158": {
         "1-1-message": [
-            null,
+            "\\C[3]Merci d'avoir joué !",
             "\\.\\C[3]Voici une salle d'attente où patienter en attendant\nla sortie du prochain épisode.",
             "\\.\\C[3]À présent...\nMerci beaucoup d'avoir joué jusqu'ici.",
             "\\.\\C[3]Plus bas se trouve la page officielle avec toutes les\nnouvelles récentes, vous êtes libres de le consulter !\n\n(Un manga Your Turn To Die est aussi disponible !)"
@@ -37178,22 +37181,25 @@
     },
     "map157": {
         "4-1-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\C[4](Où il est ?! J'ai regardé partout...\n Mais je le trouve pas !)",
+            "\\.\\C[4](Comment ça se fait...?!)",
+            "\\.\\C[4](Je l'ai pas perdu, je le sais !!)",
+            "\\.\\sp[10]\"Ahh...\"",
+            "\\.\\sp[8]\"Ouuh... ahhh...\"",
             "\\.\\C[4](...)",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\\C[4](...\n ...\n ...)"
+            "\\.\\C[4](Je veux pas... mourir...)",
+            "\\.\\C[4](Je suis vraiment... à court d'options...?)",
+            "\\.\"...!\"",
+            "\\.\\C[4](La Chambre des Tromperies...)",
+            "\\.\\C[10](Si je prends les jetons d'Alice...)",
+            "\\.\\C[4](Je suis vraiment... à court d'options...?)",
+            "\\.\"...!\"",
+            "\\.\\C[4](La Chambre des Tromperies...)",
+            "\\.\\C[10](Si je prends les jetons de Reko...)",
+            "\\.\\C[4](...\n ...\n ...)",
+            "\\C[3]Je reprends ma course.",
+            "\\.\\C[3]Avant qu'ils récupèrent les corps.",
+            "\\.\\C[3]Pour mon futur."
         ],
         "49-1-message": [
             "\\C[3]Vidéo d'une Victime\nLa vidéo d'une victime que Nao avait achetée.\nMontre la mort d'une policière lors de la P. Épreuve.\nL'homme au premier plan... Serait-ce Keiji ?"
@@ -37215,6 +37221,18 @@
         ],
         "56-1-message": [
             "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
+        ],
+        "7-1-message": [
+            "\\.\\C[3]Mon porte-monnaie est pas à gauche de la chaise."
+        ],
+        "8-1-message": [
+            "\\.\\C[3]Mon porte-monnaie est pas sous le lit."
+        ],
+        "9-1-message": [
+            "\\.\\C[3]Mon porte-monnaie est pas à proximité du lit."
+        ],
+        "5-1-message": [
+            "\\.\\C[3]Mon porte-monnaie est pas au niveau de la chaise."
         ]
     },
     "map139": {
@@ -37386,6 +37404,12 @@
         ],
         "10-1-message": [
             "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
+        ]
+    },
+    "map213": {
+        "1-1-message": [
+            null,
+            "\\C[3]Merci d'avoir joué !"
         ]
     }
 }
