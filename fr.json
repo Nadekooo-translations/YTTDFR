@@ -553,7 +553,7 @@
         "midori_ホエミー": "rillante",
         "midori_ホエミー_other": "suerillante",
         "midori_ロエル": "alizee",
-        "itemdesc49": "Une boîte avec une sorte de code et une note\\ndisant \"Cet objet est à votre libre disposition\".",
+        "itemdesc49": "Une boîte vide trouvée dans la cuisine.\\nL'intérieur est en forme de couteau.",
         "animationconvert_4": "72",
         "animationconvert_8": "61",
         "animationconvert_9": "62",
@@ -7572,7 +7572,7 @@
             "\\.\\C[4](Rien à faire... Gin s'est renfermé sur lui-même...)"
         ],
         "142-0-message": [
-            "\\.\"Il y avait une note déchirée dans la déchiqueteuse...\n Et il était écrit dessus... que grande sœur Sara\n est \\C[2]une meurtrière\\C[0]...\"",
+            "\\.\"Il y avait une note déchirée dans la déchiqueteuse...\n Et il y avait marqué dessus... que grande sœur Sara\n est \\C[2]une meurtrière\\C[0]...\"",
             "\\.\"Le texte qui disait que grande sœur Sara est\n une meurtrière a été écrit à la main, miaou...\"",
             "\\.\"Le papier qui disait que grande sœur Sara est une\n meurtrière ressemblait à une liste, miaou.\n Ça avait pas l'air d'une lettre, ouaf...\"",
             "\\.\"La note qui dit que grande sœur Sara est une\n meurtrière... Je l'ai sur moi !\n J'avais bien raison...\n C'est écrit juste là, ouaf...\"",
@@ -7599,7 +7599,7 @@
             "\\.\"Non...\"",
             "\\.\"Euh... Désolée, alors...\"",
             "\\.\\C[4](Je l'ai faite se sentir gênée...)",
-            "\"Je veux qu'il regrette d'avoir dit ça !\n Il faut qu'il le regrette !\"",
+            "\"Je veux que Gonbee regrette d'avoir dit ça !\n Il faut qu'il le regrette !\"",
             "\\.\"... S'il te plaît, Nao. Calme-toi.\"",
             "\\.\"Ah, d-désolée...\""
         ],
@@ -7619,7 +7619,7 @@
             "\\.\"Tu es la seule à posséder une arme...\n La seule !\"",
             "\\.\"Une... arme ?\"",
             "\\.\"C'est bien cela ! Tu es en possession d'une arme,\n et tu en profites pour régner sur les autres !\n Tu n'es qu'une maudite dictatrice !\"",
-            "\\.\\C[4](J'ai extrait une nouvelle déclaration...\n Si je réussis à la réfuter, même lui il\n devrait se taire !)"
+            "\\.\\C[4](J'ai extrait une nouvelle déclaration...\n Si je réussis à la réfuter, même lui devrait\n se taire !)"
         ],
         "170-0-message": [
             "\"Déclaration extraite\"",
@@ -9778,7 +9778,7 @@
             "\\.\\C[4](Comme un rêve...?\n Aurait-elle pu s'endormir en tenant la boîte...?)"
         ],
         "165-0-message": [
-            "\"Sara est presque jamais restée seule.\n Elle a rien pu faire de suspect du coup... si ?\"",
+            "\"Sara a quasi jamais été seule.\n Du coup, elle a rien pu faire de suspect, non ?\"",
             "\"T'as un cadeau pour Monsieur le Policier ?\n Merci.\"",
             "\\.\\C[4](Mince...! C'était une erreur !)",
             "\"Hm...?\n Quelque chose à signaler au policier ?\"",
@@ -11944,7 +11944,7 @@
         "168-0-message": [
             "\\.\"Regarde ça de plus près, s'il te plaît.\"",
             "\\.\"Hm ?\"",
-            "\\.\"On l'a trouvée dans la cuisine. Il y est\n écrit \"Cet objet est à votre libre disposition\"...\n Pourtant, il n'y avait rien à l'intérieur.\"",
+            "\\.\"On l'a trouvée dans la cuisine. Il y a marqué\n « Cet objet est à votre libre disposition »...\n Pourtant, il n'y avait rien à l'intérieur.\"",
             "\\.\"... Et donc ?\"",
             "\\.\"Il ne reste plus qu'une marque au fond de la boîte.\n Qui est en forme de couteau de cuisine.\"",
             "\\.\"Quoi...?! De couteau de cuisine ?!\"",
@@ -13386,7 +13386,7 @@
             "\\.\"Réponds-moi, Joe !\n Qu'est-ce que tu penses de cette affirmation ?!\"",
             "\\.\"Même en étant autant dans la merde, t'arrives\n à plaisanter ?!\n T'es vraiment pas croyable...\"",
             "\\.\\C[4](Ça, c'est sûr...)",
-            "\"Envoie-lui des preuves à la tête, comme\n la dernière fois !\"",
+            "\"Balance-lui des preuves en pleine tronche,\n comme la dernière fois !\"",
             "\\.\"Ouaip, je gère.\"",
             "\\.\"T'es tellement cooool !\"",
             "\\C[3]> Dans votre inventaire, lorsque vous sélectionnez\n  un objet, vous pouvez consulter la deuxième page\n  de sa description en touchant cette dernière."
@@ -14713,7 +14713,7 @@
             "\\.\"Attends un peu !!\n Sara, c'est limite notre capitaine !!\n Pourquoi tu fais ça...?!\"",
             "\\.\"Haha... Dans ce cas, pourquoi ne pas débattre\n de si elle est suspecte ou non ?\"",
             "\\.\"Depuis le début, je me méfie de toi...\n Tu possèdes une arme et tu règnes sur les autres !\n Maudite dictatrice !\"",
-            "\\.\"Sara est presque jamais restée seule.\n Elle a rien pu faire de suspect du coup... si ?\"",
+            "\\.\"Sara a quasi jamais été seule.\n Du coup, elle a rien pu faire de suspect, non ?\"",
             "\\.\"Avoir des doutes sur les autres, je peux comprendre...\n Mais pas sur Sara ! C'est vraiment horrible...!\"",
             "\\.\"Sara ! Réponds-lui !\n Gonbee fait son aigri !\"",
             "\\.\"Hmph... C'est que tu as beaucoup d'amis...\"",
@@ -14754,7 +14754,7 @@
             "\\.\"Attends un peu !!\n Sara, c'est limite notre capitaine !!\n Pourquoi tu fais ça...?!\"",
             "\\.\"Haha... Dans ce cas, pourquoi ne pas débattre\n de si elle est suspecte ou non ?\"",
             "\"Depuis le début, je trouvais cela suspect...\n Le fait qu'une lycéenne soit devenue votre dirigeante.\"",
-            "\"Sara est presque jamais restée seule.\n Elle a rien pu faire de suspect du coup... si ?\"",
+            "\"Sara a quasi jamais été seule.\n Du coup, elle a rien pu faire de suspect, non ?\"",
             "\"Avoir des doutes sur les autres, je peux comprendre...\n Mais pas sur Sara ! C'est vraiment horrible...!\"",
             "\"Sara ! Réponds-lui !\n Gonbee fait son aigri !\"",
             "\\.\"Hmph... C'est que tu as beaucoup d'amis...\"",
@@ -34750,7 +34750,7 @@
     },
     "items-48": {
         "name": "Longue Boîte Fine",
-        "description": "Une boîte avec une sorte de code et une note\ndisant \"Cet objet est à votre libre disposition\"."
+        "description": "Une boîte vide trouvée dans la cuisine.\nL'intérieur est en forme de couteau."
     },
     "items-61": {
         "name": "Vaporisateur"
