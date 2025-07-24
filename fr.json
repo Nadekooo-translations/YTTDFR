@@ -12399,7 +12399,7 @@
             "\\.\\C[4](Et si...!)",
             "\\.\\C[4](Ce n'est qu'une théorie, mais...\n En partant du principe que la carte que je n'ai pas\n pu examiner était la \\C[10]carte du Sacrifice\\C[4]...)",
             "\\.\"D'abord, Sou s'est fait attaquer dans la salle cachée.\n Il y a perdu connaissance.\"",
-            "\\.\"Ensuite, il a trouvé la \\C[10]carte du Sacrifice\\C[0] ainsi qu'une\n \\C[4]carte du Roturier\\C[0] et il est parti se reposer.\"",
+            "\\.\"Ensuite, il a trouvé la \\C[10]carte du Sacrifice\\C[0] ainsi\n qu'une \\C[4]carte du Roturier\\C[0] et il est parti se reposer.\"",
             "\\.\"Au bar, il a placé la \\C[10]carte du Sacrifice\\C[0] de manière\n à ce que Kanna la trouve...\"",
             "\\.\"Et quand Kanna l'a ramassée...\"",
             "\\.\"Sou a proposé de la lui échanger contre une\n \\C[4]carte du Roturier\\C[0]...\"",
@@ -15557,7 +15557,7 @@
         "568-0-message": [
             "\\C[3]Ce n'est pas le moment de faire des attractions.",
             "\\C[3]J'ai déjà fait cette attraction.",
-            "\\C[3][Cache-Cache]\nNombre de participants : 2\nRécompense de Médaillons du Triomphe : ★★\nDifficulté : Moyenne",
+            "\\C[3][Cache-Cache]\nNombre de participants : 2\nRécompense : Médaillons du Triomphe ★★\nDifficulté : Moyenne",
             "\\.\\C[3]Cachez-vous des poupées malveillantes et activez\n3 leviers jusqu'à ce que la jauge d'énergie soit\npleine pour gagner.",
             "\\.Keiji Shinogi\nQuand vous jouez Keiji, la jauge d'énergie ne diminue\npas avec le temps.\nDifficulté : Moyenne",
             "\\.\"Dacodac.\n La surveillance et la filature, ça fait partie\n des compétences des policiers.\"",
@@ -17134,7 +17134,7 @@
         "355-0-message": [
             "\\C[3]Ce n'est pas le moment de faire des attractions.",
             "\\C[3]J'ai déjà fait cette attraction.",
-            "\\C[3][007]\nNombre de participants : 2\nRécompense de Médaillons du Triomphe : ★★\nDifficulté : Moyenne",
+            "\\C[3][007]\nNombre de participants : 2\nRécompense : Médaillons du Triomphe ★★\nDifficulté : Moyenne",
             "\\.\\C[3]Un jeu de carte où vous combattez vos adversaires\nen sélectionnant trois cartes à la fois.\nBattez les trois poupées pour gagner.",
             "\\.Keiji Shinogi\nQuand vous jouez Keiji, vos instincts de détective\nrévèlent parfois 2 des cartes de l'adversaire.\nDifficulté : Facile",
             "\\.\"Bahaha... Être le coéquipier de Sara...\n Ça m'a pas l'air trop mal.\"",
@@ -17147,8 +17147,8 @@
         "357-0-message": [
             "\\C[3]Ce n'est pas le moment de faire des attractions.",
             "\\C[3]J'ai déjà fait cette attraction.",
-            "\\C[3][Réminidanse]\nNombre de participants : 2\nRécompense de Médaillons du Triomphe : \\C[2]★★★★\\C[3]\nDifficulté : \\C[2]Très Difficile\\C[3]",
-            "\\.\\C[3]Un jeu mettant à l'épreuve votre mémoire qui requiert\nde répéter la dance et les directions de l'ennemi.\nBattez les trois poupées pour gagner.",
+            "\\C[3][Réminidanse]\nNombre de participants : 2\nRécompense : Médaillons du Triomphe \\C[2]★★★★\\C[3]\nDifficulté : \\C[2]Très Difficile\\C[3]",
+            "\\.\\C[3]Un jeu mettant votre mémoire à l'épreuve qui requiert\nde répéter la danse et les mouvements de l'ennemi.\nBattez les trois poupées pour gagner.",
             "\\.Kanna Kizuchi\nQuand vous jouez Kanna, vous vous rappelez\npartiellement des pas de l'adversaire.\nDifficulté : Difficile",
             "\\.\"..........\"",
             "\\.Kanna Kizuchi\nQuand vous jouez Kanna, vous vous rappelez\npartiellement des pas de l'adversaire.\nDifficulté : Difficile",
@@ -17164,7 +17164,7 @@
         "382-0-message": [
             "\\C[3]Ce n'est pas le moment de faire des attractions.",
             "\\C[3]J'ai déjà fait cette attraction.",
-            "\\C[3][Bras de Fer]\nNombre de participants : 2\nRécompense de Médaillons du Triomphe : ★★\nDifficulté : Moyenne",
+            "\\C[3][Bras de Fer]\nNombre de participants : 2\nRécompense : Médaillons du Triomphe ★★\nDifficulté : Moyenne",
             "\\.\\C[3]Appuyez sur le bouton au bon moment pour\nrepousser le bras de l'ennemi.\nBattez les trois poupées pour gagner.",
             "\\.Keiji Shinogi\nQuand vous jouez Keiji, votre œil de détective\nfacilite le timing pour presser le bouton.\nDifficulté : Facile",
             "\\.\"Je suis plutôt fier de mes bras.\"",
@@ -17181,7 +17181,7 @@
         "565-0-message": [
             "\\C[3]Ce n'est pas le moment de faire des attractions.",
             "\\C[3]J'ai déjà fait cette attraction.",
-            "\\C[3][Tapette à Bête]\nNombre de participants : 2\nRécompense de Médaillons de Triomphe : ★★\nDifficulté : Moyenne",
+            "\\C[3][Tapette à Bête]\nNombre de participants : 2\nRécompense : Médaillons du Triomphe ★★\nDifficulté : Moyenne",
             "\\.\\C[3]Vos ennemis invoquent des créatures pour vous attaquer.\nFrappez-les et battez trois invocateurs pour gagner.",
             "\\.Kanna Kizuchi\nQuand vous jouez Kanna, le nombre d'ennemis\ninvoqués est réduit.\nDifficulté : Moyenne",
             "\\.\"..........\"",
@@ -17195,7 +17195,7 @@
         "566-0-message": [
             "\\C[3]Ce n'est pas le moment de faire des attractions.",
             "\\C[3]J'ai déjà fait cette attraction.",
-            "\\C[3][Dégaine Agile]\nNombre de participants : 2\nRécompense de Médaillons du Triomphe : ★★\nDificulté : Facile",
+            "\\C[3][Dégaine Agile]\nNombre de participants : 2\nRécompense : Médaillons du Triomphe ★★\nDifficulté : Facile",
             "\\.\\C[3]Au signal, sélectionnez l'arme affichée pour attaquer.\nBattez les trois poupées pour gagner.",
             "\\.Sou Hiyori\nQuand vous jouez Sou, vous pouvez voir\nl'arme qui va être affichée à l'avance.\nDifficulté : Facile",
             "\\.\"... Je ferai de mon mieux.\"",
@@ -17207,7 +17207,7 @@
         "567-0-message": [
             "\\C[3]Ce n'est pas le moment de faire des attractions.",
             "\\C[3]J'ai déjà fait cette attraction.",
-            "\\C[3][Wagonnet Express]\nNombre de participants : 2\nRécompense de Médaillons du Triomphe : ★★\nDifficulté : Moyenne",
+            "\\C[3][Wagonnet Express]\nNombre de participants : 2\nRécompense : Médaillons du Triomphe ★★\nDifficulté : Moyenne",
             "\\.\\C[3]Surmontez les obstacles sur le chemin de votre\nwagonnet et atteignez l'objectif avant la fin\ndu temps imparti.",
             "\\.Q-taro Burgerberg\nQuand vous jouez Q-taro, son physique augmente\nparfois grandement votre attaque.\nDifficulté : Difficile",
             "\\.\"J'ai une idée, Sara ! Si tu m'choisis, j'veux bien\n qu'on s'échange 10 Égo-Jetons au passage !\"",
@@ -17220,7 +17220,7 @@
         "569-0-message": [
             "\\C[3]Ce n'est pas le moment de faire des attractions.",
             "\\C[3]J'ai déjà fait cette attraction.",
-            "\\C[3][Safari Hanté]\nNombre de participants : 2\nRécompense de Médaillons du Triomphe : ★★\nDifficulté : Moyenne",
+            "\\C[3][Safari Hanté]\nNombre de participants : 2\nRécompense : Médaillons du Triomphe ★★\nDifficulté : Moyenne",
             "\\.\\C[3]Attrapez les esprits bleus, évitez les rouges et\nquand des fantômes apparaissent, appuyez sur le\nbouton pour les prendre en photo et les repousser.\nRécupérez suffisamment d'âmes pour gagner.",
             "\\.Keiji Shinogi\nQuand vous jouez Keiji, la jauge d'énergie ne diminue\npas avec le temps.\nDifficulté : Moyenne",
             "\\.\"... Dacodac. Je vais t'aider.\"",
@@ -17232,7 +17232,7 @@
         "570-0-message": [
             "\\C[3]Ce n'est pas le moment de faire des attractions.",
             "\\C[3]J'ai déjà fait cette attraction.",
-            "\\C[3][Limite Mouvante]\nNombre de participants : 2\nRécompense de Médaillons du Triomphe : \\C[2]★★★\\C[3]\nDifficulté : \\C[2]Difficile\\C[3]",
+            "\\C[3][Limite Mouvante]\nNombre de participants : 2\nRécompense : Médaillons du Triomphe \\C[2]★★★\\C[3]\nDifficulté : \\C[2]Difficile\\C[3]",
             "\\.\\C[3]Restez dans la zone de vos adversaires.\nBattez les trois poupées pour gagner.",
             "\\.Sou Hiyori\nQuand vous jouez Sou, vous vous chargez plus rapidement\nlorsque vous êtes dans la zone.\nDifficulté : Moyenne",
             "\\.\"Hé, Sara. Cette attraction est à 3 étoiles, non ?\n Ça me gêne de te demander, mais...\n Pourrais-tu me donner deux des Médaillons ?\"",
@@ -21026,7 +21026,7 @@
             "\\.\"Quel jeu stupide...\n Je suis sûre que tu ne nous dis pas tout.\"",
             "\\.\"J'une idée. Si quelqu'un arrive à acheter un prix,\n on à qu'à tous s'partager l'info.\"",
             "\\.\"Heeeein ?\n C'est que vous êtes vachement sympa pour des enfoirés.\"",
-            "\"On pourrait tout simplement tous partager nos jetons\n et les informations qu'on obtient ici et maintenant.\n ... Difficile d'appeler ça un jeu.\"",
+            "\"On pourrait tout simplement se partager nos jetons\n et les informations qu'on obtient ici et maintenant.\n ... Difficile d'appeler ça un jeu.\"",
             "\\.\"Ouahhh ! Vous essayez de la jouer mollo, hein ?\"",
             "\"Je n'ai qu'à accepter les jetons de tout le monde...\n Pour ensuite tous leur partager les informations !\"",
             "\\.\"Ça c'un bon plan, Sara !\n Si on s'partage toutes les infos, c'même plus du jeu !\"",
@@ -23106,7 +23106,7 @@
             "\\.\"Toi aussi, hein, Sara...?\"",
             "\\.\"...\"",
             "\\.\"... Tu dois... ignorer les hallucinations.\"",
-            "\\.\"Car une fois gravées dans ton cerveau...\n Tu..\"",
+            "\\.\"Car une fois gravées dans ton cerveau...\n Tu...\"",
             "\\.\"...\"",
             "\\.\"... Finis pas comme Monsieur le Policier.\"",
             "\\.\"On dirait que t'as pu te reposer un peu.\"",
@@ -24485,7 +24485,7 @@
             "\\.\\C[4](S'il dit ça, c'est qu'il a dû essayer...)"
         ],
         "2-2-message": [
-            "\\.\"Cet endroit... est une prison en tout points.\""
+            "\\.\"Cet endroit... est une prison en tout point.\""
         ],
         "2-7-choice": [
             "Je les ai\nJe ne les ai pas encore",
@@ -25321,7 +25321,7 @@
             "\\.\\sw[324]\"En effet, c'est à vous que je m'adresse\n et c'est vous que je regarde, Nao.\"\\sw[325]",
             "\\.\"C-C-C'est... impensable...\"",
             "\\.\\C[3]Correct... C'est impensable.\nAprès tout, Monsieur Mishima... est décédé.",
-            "\\.\\sw[324]\"Seraient-ce vos amis, à vos côtés ?\n Ravi de vous rencontrer.\n Je me nomme Kazumi Mishima.\"\\sw[325]",
+            "\\.\\sw[324]\"Seraient-là ce vos amis, à vos côtés ?\n Ravi de vous rencontrer.\n Je me nomme Kazumi Mishima.\"\\sw[325]",
             "\\.\"Ravi de nous rencontrer...?\""
         ],
         "2-2-choice": [
