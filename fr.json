@@ -27965,7 +27965,8 @@
             "\"Oh, vraiment. Tes jambes t'ont lâché ?\"",
             "\\.\\C[4](...\n ...\n ...)",
             "\\.\"Moi, je passe directement à l'analyse de la puce.\n Toi, fais ce que tu as à faire.\"",
-            "\\.\"Rassemble tout le monde dans le hall principal.\n Je compte sur toi.\""
+            "\\.\"Rassemble tout le monde dans le hall principal.\n Je compte sur toi.\"",
+            "\\.\"H... Hein...?\""
         ],
         "6-2-message": [
             "\\.\"...\"",
