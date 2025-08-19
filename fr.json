@@ -27932,7 +27932,7 @@
             "\\.\\sp[15]\\sw[324]\\C[10]\"N'essayez pas de fuir du Jeu principal,\n misérables humains...\"\\sw[325]",
             "\\.\\sw[324]\"Gh-?!\"\\sw[325]",
             "\\.\\sw[324]\"Q-Quoi...?!\n Qu'est-ce que c'est que ça-?!\"\\sw[325]",
-            null,
+            "\\C[10]\"Une erreur s'est produite.\"",
             "\\C[10]\"Une erreur s'est produite.\"",
             "\\C[10]\"Une erreur s'est produite.\"",
             null,
