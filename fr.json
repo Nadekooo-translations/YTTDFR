@@ -12674,7 +12674,7 @@
         "960-0-message": [
             "\\.\"Grande sœur Sara !\n Y a quelque chose dans les escaliers, miaou.\"",
             "\\.\\C[4](Hm...?)",
-            "\\.\"...\n ...\n...\"",
+            "\\.\"...\n ...\n ...\"",
             "\\C[3]La porte est fermée.\nImpossible d'entrer dans la Salle Rose.",
             "\\.\\C[4](Tiens...? Comment ça se fait ?\n Je devrais examiner la porte de plus près.)",
             "\\C[3]La porte rouge est fermement verrouillée."
@@ -12682,7 +12682,7 @@
         "1012-0-message": [
             "\\.\"Grande sœur Sara !\n Y a quelque chose dans les escaliers, miaou.\"",
             "\\.\\C[4](Hm...?)",
-            "\\.\"...\n ...\n...\"",
+            "\\.\"...\n ...\n ...\"",
             "\\C[3]La porte est fermée.\nImpossible d'entrer dans la Salle Rose.",
             "\\.\\C[4](Tiens...? Comment ça se fait ?\n Je devrais examiner la porte de plus près.)",
             "\\C[3]La porte rouge est fermement verrouillée."
