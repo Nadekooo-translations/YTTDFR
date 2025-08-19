@@ -27975,7 +27975,10 @@
             "\\.\"Tu pourrais ne pas me parler, là de suite ?\"",
             "\\.\"Tu me fiches les nerfs, miaou !!\"",
             "\\.\\C[4](Bon, pas d'autre choix que de le laisser tranquille...)",
-            "Sniff sniff..."
+            "Sniff sniff...",
+            "\\.\"Ça sent maussade, miaou !\n Il me fait de la peine, ouaf !\"",
+            "\\.\"... Je te donnerai une friandise si tu t'en vas.\"",
+            "\\.\"Me traite pas comme un chat, miaou !\""
         ],
         "6-1-message": [
             "\\.\"...\"",
@@ -27995,7 +27998,9 @@
             "\\.\\C[4](Ah ! Il a réagi !)",
             "\\.\"... Tu veux bien arrêter, oui ?\"",
             "\\.\\C[4](Je commence à l'énerver...)",
-            "\\.\"Arrête !\""
+            "\\.\"Arrête !\"",
+            "\\.\"Le ténébreux s'est énervé, miaou...\n Flippant, ouaf...\"",
+            "\\.\\C[4](... Non, je ne devrais pas.\n J'ai peur de ce qu'il pourrait arriver.)"
         ],
         "33-1-message": [
             "\\C[3]Vidéo d'une Victime\nLa vidéo d'une victime que Nao avait achetée.\nMontre la mort d'une policière lors de la P. Épreuve.\nL'homme au premier plan... Serait-ce Keiji ?"
@@ -28077,6 +28082,16 @@
         ],
         "2-12-message": [
             "\"Je sens pas grand-chose venant du moniteur, ouaf.\""
+        ],
+        "6-1-choice": [
+            "Lui parler\nL'embêter\nAnnuler"
+        ],
+        "7-1-message": [
+            "\"L'ordinateur sent... pas si mauvais, miaou.\"",
+            "\\C[3]L'ordinateur de Kai est branché au moniteur."
+        ],
+        "8-1-message": [
+            "\"Le lit sent bon comme grande sœur Nao, miaou !\""
         ]
     },
     "map160": {
