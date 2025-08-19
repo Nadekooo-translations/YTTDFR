@@ -27962,8 +27962,10 @@
             "\"... Toujours aussi prudente, hein.\"",
             "\"... Tu es un peu lourde.\"",
             "\\.\\C[4](Oh, la ferme...)",
-            "\"Oh, vraiment. Est-ce que vos jambes vous ont lâché ?\"",
-            "\\.\\C[4](...\n ...\n ...)"
+            "\"Oh, vraiment. Tes jambes t'ont lâché ?\"",
+            "\\.\\C[4](...\n ...\n ...)",
+            "\\.\"Moi, je passe directement à l'analyse de la puce.\n Toi, fais ce que tu as à faire.\"",
+            "\\.\"Rassemble tout le monde dans le hall principal.\n Je compte sur toi.\""
         ],
         "6-2-message": [
             "\\.\"...\"",
