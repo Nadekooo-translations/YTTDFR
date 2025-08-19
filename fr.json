@@ -27926,7 +27926,7 @@
             "\"Maître... Gashu...?\"",
             "\"Nao ! Rends-nous l'ordinateur et la puce...!!\"",
             "\\.\"Cette IA...\n Ce n'est pas Monsieur Mishima !!\"",
-            null,
+            "\\.\\sw[324]\\C[10]\"Il est trop tard. Je me suis déjà connecté à eux.\"\\sw[325]",
             null,
             null,
             null,
