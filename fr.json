@@ -27898,7 +27898,7 @@
             "\\.\"C'est pour ça que grande sœur Nao a pris\n l'ordinateur...!\"",
             "\\.\"...\"",
             "\\.\"Pourquoi tu l'as poussée à le voler...?!\"",
-            null,
+            "\\.\\sw[324]\"... Nous manquions simplement de temps.\"\\sw[325]",
             null,
             null,
             null,
