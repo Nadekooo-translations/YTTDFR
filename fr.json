@@ -19850,7 +19850,7 @@
             "\\.\"Désolée... Je suis désolée...\"",
             "\\.\"C'est pas la faute de Nao !!\n C'est Gashu, le méchant dans cette histoire !!\"",
             "\\.\"Hé ! Arrête de blâmer Nao !!\n C'est plutôt Gashu qu'on devrait blâmer, non ?!\"",
-            "\\.\"Réponds-moi, Gashu.\n Les \"candidats\"... Cette Démocratie Mortelle...\n Ça veut dire quoi, tout ça ?\"",
+            "\\.\"Réponds-moi, Gashu.\n Les « candidats »... Cette Démocratie Mortelle...\n Ça veut dire quoi, tout ça ?\"",
             "\\.\"...\"",
             "\\.\"Je ne dirai qu'une seule chose...\"",
             "\\.\"Vous tous, n'avez-vous jamais éprouvé\n de doutes quant à \\C[2]votre éducation\\C[0] ?\"\\.",
@@ -19861,9 +19861,9 @@
             "\\.\"... Vous avez omis un point important du règlement\n des Maîtres d'Étage.\"",
             "\\.\"Un point du règlement...?\"",
             "\\.\"Il est pourtant rédigé noir sur blanc...\"",
-            "\\.\\C[5][4] En cas de mauvaise conduite lors du Jeu Principal,\n    soit il \\C[2]reprend suite à la mort du responsable\\C[5],\n    soit il est réitéré 24 heures plus tard !",
+            "\\.\\C[5][4] En cas d'infraction durant le Jeu Principal,\n    celui-ci se poursuit après la mort du contrevenant,\n    ou bien \\C[2]doit être rejoué 24 heures plus tard\\C[5] !",
             "\\.\"... Hein... ?\"",
-            "\\.\"Et je vous ai promis\n que j'accomplirai mon devoir conformément\n au règlement.\"",
+            "\\.\"Et je vous ai promis que j'accomplirai mon devoir\n conformément au règlement.\"",
             "\\.\"Si j'en accepte la responsabilité au prix de ma vie...\n Le Jeu Principal \\C[2]continuera\\C[0].\"",
             "\\.\"T-Tu plaisantes, j'espère...?! Arrête...!!\"",
             "\\.\"Tout le monde... Tâchez d'être victorieux.\"",
@@ -20406,7 +20406,7 @@
             "\\.\\C[4](Ce serait une blague bien réjouissante...)"
         ],
         "851-0-choice": [
-            "Je suis inquiète pour lui\nSortons d'ici avant son réveil"
+            "Je me fais du soucis pour lui\nSortons d'ici avant son réveil"
         ],
         "853-0-message": [
             "Snif snif snif...",
@@ -20466,11 +20466,11 @@
             "\\.\\C[4](...)",
             "\\.\"... Que se passe-t-il ?\n La nouvelle ne te réjouit pas ?\"",
             "\\.\"Si, bien sûr...\"",
-            "\\.\\C[4](Je ne sens presque plus de pulsions de vengeance\n chez Alice...)",
+            "\\.\\C[4](Je ne sens presque plus de pulsions vengeresses\n chez Alice...)",
             "\"Non, désolée. C'était juste une blague.\"",
-            "\\.\\{\"QUOIIIIII ?! C'est quoi ton problème ?!\"",
+            "\\.\\{\"QUOIIIIII ?! C'quoi ton problème ?!\"",
             "\\.\"M-Moins fort...!\n Écoute, bien évidemment que ce n'est pas\n une blague...!\"",
-            "\\.\"Comme si c'était pas toi qui m'as fait hurler !\n Fais plus de blagues dans ces situations, merci\n et au revoir !!\""
+            "\\.\"Comme si c'était pas toi qui m'as fait hurler !\n Fais plus de blagues dans une situation pareille,\n merci et au revoir !!\""
         ],
         "854-0-choice": [
             "C'est la vérité\nC'est une blague",
@@ -28177,7 +28177,7 @@
             "\\.\"Il est malheureux qu'elle soit morte...\\!\n Mais Reko restera profondément dans mon cœur.\"",
             "\\.\"Dire un truc comme ça si tranquillement...\n C'est pas correct, ouaf...\"",
             "\\.\"Quoi...?\"",
-            "\\.\"Gin... S'il te plaît, ça suffit.\n Une vie accablée de tourment, ce n'est pas une vie...\"",
+            "\\.\"Gin... Il suffit, je vous prie.\n Une vie accablée de tourment n'est pas une vie...\"",
             "\\.\"Je ne pense pas...\n Qu'Alice ait fait quoique ce soit de mal.\"",
             "\\.\"Tout à fait. N'ombragez pas ma bonne humeur.\n ... Je pense que je vais aller me reposer\n au Hall Principal.\"",
             "\\.\"Allons-y, Gin.\"",
@@ -28213,7 +28213,7 @@
             "\\.\"Dégoûtant, non merci, miaou...\"",
             "\\.\"Bouh...\"",
             "\"Cette machine est à mes yeux un moyen\n de devenir heureux.\"",
-            "\\.\"Peu importe votre avis...\""
+            "\\.\"Peu importe ce que vous pensez...\""
         ],
         "3-1-choice": [
             "Alors, tu ne l'as pas utilisée\nQue faisiez-vous dans le noir ?",
@@ -33149,20 +33149,20 @@
             "\\C[3]Sou manipule un ordinateur installé dans la pièce.",
             "\"J'ai réussi...!\"",
             "\\.\"J'ai réussi, j'ai réussi ! Ça a marché, Sara !!\"",
-            "\\.\"J'ai profondément infiltré leur sécurité !\"",
+            "\\.\"Je me suis infiltré derrière leurs défenses !\"",
             "\\.\"Sou...!\"",
             "\\.\"Félicitations !\"",
             "\\.\"Ahaha. Ne célébrons pas trop vite, Sara.\"",
             "\\.\"Ouais !\"",
             "\\.\\C[3]Un clap satisfaisant retentit.",
             "\\.\"Ah...\"",
-            "\\\"... Arrête avec cette drôle d'attitude, Sara.\"",
-            "\\.\\C[4](Dans ce cas, pourquoi as-tu joué le jeu...)",
+            "\\.\"... Tu devrais calmer ta joie, Sara.\"",
+            "\\.\\C[4](Pourquoi tu as joué le jeu, alors...)",
             "\\.\"... Tu es vraiment en pleine forme.\"",
             "\\.\"...\"",
-            "\\.\\C[4](Et pouf, ça y est.)",
+            "\\.\\C[4](Et voilà, ça y est.)",
             "\\.\"Ça va se corser à partir de maintenant.\"",
-            "\\.\"C'est pas fini...?\"",
+            "\\.\"Ce n'est pas fini...?\"",
             "\\.\"Tout ira bien. Tu peux patienter ici.\"",
             "\\.\\C[3]Sou se pencha de plus belle lorsqu'il\nse remit au travail sur l'ordinateur.",
             "\\.\\C[4](Il a l'air tellement... gai.)",
@@ -33178,7 +33178,7 @@
             "\\.\"Dis-moi quand tu es prête.\""
         ],
         "3-4-message": [
-            "\\.\\C[3]Un mémorandum intitulé \"Cette Affaire\".",
+            "\\.\\C[3]Un mémorandum intitulé « Cette Affaire ».",
             "\\.\\C[4](Ce livre est assez ancien...)",
             "\\.\\C[5]Un certain temps s’est écoulé depuis lors.",
             "\\.\\C[5]Pourtant, ces souvenirs infernaux demeurent\nencore gravés au plus profond de mon esprit.",
@@ -33193,54 +33193,54 @@
             "\\.\\C[5]S'est tenue ensuite la deuxième conférence des victimes.",
             "\\.\\C[5]Un garçon encore plus jeune qu'elle,\nainsi que l'homme ayant les mêmes valeurs qu'elle.\nCes deux-là...",
             "\\.\\C[5]... sont morts.",
-            "\\.\\C[5]En la voyant aussi épuisée,\nj'ai pris pitié d'elle.",
-            "\\.\\C[5]Pour la première fois, j’ai exprimé le fond de mes sentiments.",
+            "\\.\\C[5]La voyant aussi épuisée, la pitié m'emplit alors.",
+            "\\.\\C[5]Pour la première fois, j’ai exprimé le fond\nde mes sentiments.",
             "\\.\\C[5]Au terme de notre échange,\n une forme d’admiration pour elle avait germé en moi.",
             "\\.\\C[5]À tel point que je pourrais accepter\nma propre mort, si cela signifiait sa victoire.",
             "\\.\\C[5]Mais, lors de la troisième conférence des victimes...",
-            "\\.\\C[5]Elle est morte.",
-            "\\.\\C[5]C’était la première fois que je versais des larmes pour un inconnu.",
-            "\\.\\C[5]Même aujourd'hui, je vois des hallucinations d'elle.",
+            "\\.\\C[5]Elle mourra.",
+            "\\.\\C[5]C’était la première fois que je versais des larmes\npour un inconnu.",
+            "\\.\\C[5]Encore aujourd'hui, j'ai des hallucinations d'elle.",
             "\\.\\C[5]Peu importe le nombre de femmes que j'ai essayé d'aimer,\nje ne suis jamais satisfait.",
-            "\\.\\C[5]Même maintenant, pour moi, elle seule",
+            "\\.\\C[5]Encore aujourd'hui, pour moi, elle est",
             "\\.\\C[3]Le message se termine ici, à moitié écrit.",
             "\\.\"...\n ...\n ...\""
         ],
         "3-1-message": [
-            "\\.\\C[3]Un mémorandum intitulé \"Cette Affaire\".",
+            "\\.\\C[3]Un mémorandum intitulé « Cette Affaire ».",
             "\\.\\C[4](Ce livre est assez ancien...)",
             "\\.\\C[5]Un certain temps s’est écoulé depuis lors.",
             "\\.\\C[5]Pourtant, ces souvenirs infernaux demeurent\nencore gravés au plus profond de mon esprit.",
             "\\.\\C[5]Lors de la Première Épreuve, j'ai tué quelqu'un.",
-            "\\.\\C[4](Première Épreuve...?!)",
+            "\\.\\C[4](La Première Épreuve...?!)",
             "\\.\\C[5]Je ne ferai jamais confiance à autrui.\nTelle était la décision que j’avais prise.",
             "\\.\\C[5]Je n'ai également pas pris part\nà la Roulette Russe qui a suivi.",
-            "\\.\\C[4](Ceci décrit les mêmes choses\n nous avons dû traverser...!!)",
-            "\\.\\C[5]À la fin de leur débat,\nle concurrent choisi a été des plus surprenants.",
+            "\\.\\C[4](Ça décrit les mêmes événements que\n nous avons vécus...!!)",
+            "\\.\\C[5]À la fin de leur débat, le concurrent choisi\na été des plus surprenants.",
             "\\.\\C[5]Une lycéenne de 17 ans.",
             "\\.\\C[4](...!)",
-            "\\.\\C[5]Dotée d’un charisme débordant,\nelle possédait un don naturel pour\nremettre chacun à sa place.",
+            "\\.\\C[5]Dotée d’un charisme débordant, elle possédait\nun don naturel pour remettre chacun à sa place.",
             "\\.\\C[5]Et lors de la première \\C[2]conférence des victimes\\C[5],\nelle joua également un rôle central.",
             "\\.\\C[5]Cependant, elle y perdit son meilleur ami.",
             "\\.\\C[5]S'est ensuite tenue la deuxième conférence des victimes.",
             "\\.\\C[5]Un garçon encore plus jeune qu'elle,\nainsi que l'homme partageant le plus ses valeurs.\nCes deux-là...",
             "\\.\\C[5]... sont morts.",
-            "\\.\\C[5]En la voyant aussi épuisée,\nj'ai ressenti de la pitié.",
-            "\\.\\C[5]Pour la première fois,\nj’ai exprimé le fond de mes sentiments.",
+            "\\.\\C[5]La voyant aussi épuisée, la pitié m'emplit alors.",
+            "\\.\\C[5]Pour la première fois, j’ai exprimé le fond\nde mes sentiments.",
             "\\.\\C[5]Au terme de notre échange,\nune forme d’admiration pour elle avait germé en moi.",
-            "\\.\\C[5]À tel point que je pourrais accepter\nma propre mort, si cela signifiait sa victoire.",
+            "\\.\\C[5]À tel point que je pourrais accepter ma propre mort,\nsi cela signifiait sa victoire.",
             "\\.\\C[5]Mais, lors de la troisième conférence des victimes...",
-            "\\.\\C[5]Elle est morte.",
-            "\\.\\C[5]C’était la première fois que je versais\ndes larmes pour un inconnu.",
-            "\\.\\C[5]Même aujourd'hui, je vois des hallucinations d'elle.",
+            "\\.\\C[5]Elle mourra.",
+            "\\.\\C[5]C’était la première fois que je versais des larmes\npour un inconnu.",
+            "\\.\\C[5]Encore aujourd'hui, j'ai des hallucinations d'elle.",
             "\\.\\C[5]Peu importe le nombre de femmes que j'ai essayé d'aimer,\nje ne suis jamais satisfait.",
-            "\\.\\C[5]Même maintenant, pour moi, elle seule",
+            "\\.\\C[5]Encore aujourd'hui, pour moi, elle est",
             "\\.\\C[3]Le message se termine ici, à moitié écrit.",
-            "\"...\n ...\n ...\"",
-            "\\.\\C[4](Qu'est-ce que c'est que ce livre...?)"
+            "\\.\"...\n ...\n ...\"",
+            "\\.\\C[4](Mais qu'est-ce que c'est que ce livre...?)"
         ],
         "3-2-message": [
-            "\\.\\C[3]Un mémorandum intitulé \"Cette Affaire\".",
+            "\\.\\C[3]Un mémorandum intitulé « Cette Affaire ».",
             "\\.\\C[4](Ce livre est assez ancien...)",
             "\\.\\C[5]Un certain temps s’est écoulé depuis lors.",
             "\\.\\C[5]Pourtant, ces souvenirs infernaux demeurent\nencore gravés au plus profond de mon esprit.",
@@ -33258,44 +33258,44 @@
             "\\.\\C[5]En la voyant aussi épuisée,\nj'ai ressenti de la pitié.",
             "\\.\\C[5]Pour la première fois,\nj’ai exprimé le fond de mes sentiments.",
             "\\.\\C[5]Au terme de notre échange,\nune forme d’admiration pour elle avait germé en moi.",
-            "\\.\\C[5]À tel point que je pourrais accepter\nma propre mort, si cela signifiait sa victoire.",
+            "\\.\\C[5]À tel point que je pourrais accepter ma propre mort,\nsi cela signifiait sa victoire.",
             "\\.\\C[5]Mais, lors de la troisième conférence des victimes...",
-            "\\.\\C[5]Elle est morte.",
-            "\\.\\C[5]C’était la première fois que je versais\ndes larmes pour un inconnu.",
-            "\\.\\C[5]Même aujourd'hui, je vois des hallucinations d'elle.",
+            "\\.\\C[5]Elle mourra.",
+            "\\.\\C[5]C’était la première fois que je versais des larmes\npour un inconnu.",
+            "\\.\\C[5]Encore aujourd'hui, j'ai des hallucinations d'elle.",
             "\\.\\C[5]Peu importe le nombre de femmes que j'ai essayé d'aimer,\nje ne suis jamais satisfait.",
-            "\\.\\C[5]Même maintenant, pour moi, elle seule",
+            "\\.\\C[5]Encore aujourd'hui, pour moi, elle est",
             "\\.\\C[3]Le message se termine ici, à moitié écrit.",
-            "\"...\n ...\n ...\""
+            "\\.\"...\n ...\n ...\""
         ],
         "1-1-message": [
             "\\C[3]Sou manipule un ordinateur installé dans la pièce.",
             "\\.\"...!\"",
             "\"Qu'est-ce que tu fais ?\"",
-            "\"Fiou... Sara and Gin...?\"",
-            "\"Sommes-nous dans la pièce secrète...?\"",
-            "\"Ouais... C'est sans aucun doute la salle de Gashu.\"",
-            "\\.\"Je suis en train d'utiliser la puce d'Arranger\n pour neutraliser le système de sécurité.\"",
-            "\\.\"Peux-tu vraiment faire ça ?!\"",
+            "\"Pfiou... C'était vous, Sara et Gin...?\"",
+            "\"C'est donc ça, la pièce secrète...?\"",
+            "\"Ouais... C'est sans aucun doute à Gashu.\"",
+            "\\.\"Je suis en train d'utiliser la puce de Ray\n pour neutraliser le système de sécurité.\"",
+            "\\.\"Tu peux vraiment faire ça ?!\"",
             "\\.\"Ouaip... Cette puce est incroyable.\"",
             "\\.\"Elle contient plein de données importantes\n qui pourraient être utilisées à mauvais escient.\"",
-            "\\.\"On dirait presque que Ray était censé\n hériter de toutes ces données.\"",
-            "\\.\"Est-ce qu'il devait devenir un genre de successeur...?\"",
+            "\\.\"Ça me ferait presque penser que Ray était censé\n hériter de toutes ces données.\"",
+            "\\.\"Peut-être qu'il était censé être une\n sorte de successeur...?\"",
             "\\.\"Un successeur...\"",
             "\\.\"Je me demande s'il était... un fils de substitution...\"",
             "\\.\"Bah... Ce n'est pas vraiment important.\"",
-            "\\.\"Je suis sûre que c'est juste un remplaçant...\n Ils allaient s'en servir s'il arrivait malheur à Gashu.\"",
-            "\\.\"Bah... Ce n'est pas vraiment important.",
+            "\\.\"Je suis sûre que c'était juste un remplaçant...\n Ils allaient s'en servir s'il arrivait malheur à Gashu.\"",
+            "\\.\"Bah... Ce n'est pas vraiment important.\"",
             "\\.\"Ça n’a pas vraiment d’importance pour nous.\"",
             "\\.\"C'est vrai...\"",
-            "\\.\"Le piratage va encore prendre un certain temps.\n Pourriez-vous garder un œil en bas pour voir\n si quelqu'un vient ?\"",
-            "\\.\"Je vais rester à l'affût, miaou !\"",
+            "\\.\"Le piratage va encore prendre un certain temps.\n Vous pourriez garder un œil en bas pour voir\n si quelqu'un vient ?\"",
+            "\\.\"Je reste à l'affût, miaou !\"",
             "\\.\"Grande sœur Sara, surveille le ténébreux, ouaf !\"",
-            "\\C[4](Bien sûr, \"surveille Sou\", dis-tu...)"
+            "\\C[4](Bien sûr, « surveille Sou », dis-tu...)"
         ],
         "1-1-choice": [
-            "Que fais-tu ?\nEst-ce la pièce secrète ?",
-            "À la place d'un fils ?\nCe n'est qu'un remplaçant\nÇa n'a pas d'importance"
+            "Que fais-tu ?\nC'est ça, la pièce secrète ?",
+            "Il remplaçait un fils ?\nCe n'était qu'un remplaçant\nÇa n'a pas d'importance"
         ],
         "1-2-message": [
             "\\C[3]Sou manipule un ordinateur installé dans la pièce.",
@@ -33307,11 +33307,11 @@
         "1-4-message": [
             "\\C[3]Sou manipule un ordinateur installé dans la pièce.",
             "\"Tu es prête ? Dès qu'un message d'erreur rouge apparaît,\n dis-moi sur quel moniteur il s'affiche.\"",
-            "\"Sois rapide, Sara...!\"",
+            "\"Il va falloir être vive, Sara...!\"",
             "\"OK ! Tu peux compter sur moi !\""
         ],
         "1-4-choice": [
-            "Je suis prête\nPas encore prête"
+            "Je suis prête\nPas encore"
         ],
         "1-6-message": [
             "\\C[3]Je regarde l'écran d'ordinateur,\nmais je ne sens pas de changement particulier.",
@@ -33319,11 +33319,11 @@
         ],
         "2-1-message": [
             "\\C[3]Le portrait d'un homme.",
-            "\\.\\C[3]Il est intitulé \"Inauguration\"."
+            "\\.\\C[3]Il est intitulé « Inauguration »."
         ],
         "2-3-message": [
             "\\C[3]Le portrait d'un homme.",
-            "\\.\\C[3]Il est intitulé \"Inauguration\"."
+            "\\.\\C[3]Il est intitulé « Inauguration »."
         ],
         "3-1-choice": [
             "Lire\nNe pas lire"
@@ -33335,29 +33335,30 @@
             "Lire\nNe pas lire"
         ],
         "4-1-message": [
-            "\\C[3]Papiers intitulés \"Règlement des Maîtres d'Étage\".",
+            "\\C[3]Papiers intitulés « Règlement des Maîtres d'Étage ».",
             "\\.\\C[4](Règlement... des Maîtres d'Étage ?)",
-            "\\C[5]■Maîtres d'Étage, conduisons ce\n  Jeu Mortel avec fierté !",
-            "\\.\\C[5][1] Pour les épreuves nécessitant une explication,\n    donnez-la aux participants à l'avance !",
-            "\\.\\C[5][2] Les Maîtres d'Étage ne doivent pas\n    tuer directement les participants !",
-            "\\.\\C[5][3] Les Maîtres d'Étage ne peuvent pas mentir\n    dans l'intention de tromper les participants !"
-        ],
-        "4-2-message": [
-            "\\C[3]Papiers intitulés \"Règlement des Maîtres d'Étage\".",
-            "\\C[5]■Maîtres d'Étage, conduisons ce\n  Jeu Mortel avec fierté !",
+            "\\C[5]■Maîtres d'Étage, conduisons\n  la Démocratie Mortelle avec fierté !",
             "\\.\\C[5][1] Pour les épreuves nécessitant une explication,\n    donnez-la aux participants à l'avance !",
             "\\.\\C[5][2] Les Maîtres d'Étage ne doivent pas\n    tuer directement les participants !",
             "\\.\\C[5][3] Les Maîtres d'Étage ne peuvent pas mentir\n    dans l'intention de tromper les participants !",
-            "\\.\\C[5][4] En cas d'infraction durant le Jeu Principal,\n    celui-ci se poursuit avec la mort du contrevenant,\n    ou bien \\C[2]doit être rejoué 24 heures plus tard\\C[5] !",
+            "\\.\\C[5][4] En cas d'infraction durant le Jeu Principal,\n    celui-ci se poursuit après la mort du contrevenant,\n    ou bien \\C[2]doit être rejoué 24 heures plus tard\\C[5] !"
+        ],
+        "4-2-message": [
+            "\\C[3]Papiers intitulés « Règlement des Maîtres d'Étage ».",
+            "\\C[5]■Maîtres d'Étage, conduisons\n  la Démocratie Mortelle avec fierté !",
+            "\\.\\C[5][1] Pour les épreuves nécessitant une explication,\n    donnez-la aux participants à l'avance !",
+            "\\.\\C[5][2] Les Maîtres d'Étage ne doivent pas\n    tuer directement les participants !",
+            "\\.\\C[5][3] Les Maîtres d'Étage ne peuvent pas mentir\n    dans l'intention de tromper les participants !",
+            "\\.\\C[5][4] En cas d'infraction durant le Jeu Principal,\n    celui-ci se poursuit après la mort du contrevenant,\n    ou bien \\C[2]doit être rejoué 24 heures plus tard\\C[5] !",
             "\\.\\C[5][5] Traitez les participants avec amour !"
         ],
         "4-4-message": [
-            "\\C[3]Papiers intitulés \"Règlement des Maîtres d'Étage\".",
-            "\\C[5]■Maîtres d'Étage, conduisons ce\n  Jeu Mortel avec fierté !",
+            "\\C[3]Papiers intitulés « Règlement des Maîtres d'Étage ».",
+            "\\C[5]■Maîtres d'Étage, conduisons\n  la Démocratie Mortelle avec fierté !",
             "\\.\\C[5][1] Pour les épreuves nécessitant une explication,\n    donnez-la aux participants à l'avance !",
             "\\.\\C[5][2] Les Maîtres d'Étage ne doivent pas\n    tuer directement les participants !",
             "\\.\\C[5][3] Les Maîtres d'Étage ne peuvent pas mentir\n    dans l'intention de tromper les participants !",
-            "\\.\\C[5][4] En cas d'infraction durant le Jeu Principal,\n    celui-ci se poursuit avec la mort du contrevenant,\n    ou bien \\C[2]doit être rejoué 24 heures plus tard\\C[5] !",
+            "\\.\\C[5][4] En cas d'infraction durant le Jeu Principal,\n    celui-ci se poursuit après la mort du contrevenant,\n    ou bien \\C[2]doit être rejoué 24 heures plus tard\\C[5] !",
             "\\.\\C[5][5] Traitez les participants avec amour !"
         ],
         "4-2-choice": [
