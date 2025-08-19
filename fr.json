@@ -27914,7 +27914,7 @@
             "\\\"On dirait...\n On dirait pas trop le vieux, miaou !\"",
             "\\.\"Qu'est-ce que tu racontes ?!\"",
             "\\.\"Je ne te pardonnerai pas\nde douter de la générosité du professeur !!\"",
-            null,
+            "\\.\\sw[324]\"Allons, Mlle. Nao.\nMlle. Sara et ses amis sont fatigués.\"\\sw[325]",
             null,
             null,
             null,
