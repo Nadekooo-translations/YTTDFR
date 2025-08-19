@@ -28175,7 +28175,13 @@
             "\\.\"Est-ce vraiment une bonne chose d'oublier\n Reko comme ça...?\"",
             "\\.\"Hmph... Mais qu'est-ce que tu racontes ?\n Reko est ma chère sœur.\n Je ne l'oublierais pas.\"",
             "\\.\"Il est malheureux qu'elle soit morte...\\!\n Mais Reko restera profondément dans mon cœur.\"",
-            "\\.\"Dire un truc comme ça si tranquillement...\n C'est pas correct, ouaf...\""
+            "\\.\"Dire un truc comme ça si tranquillement...\n C'est pas correct, ouaf...\"",
+            "\\.\"Quoi...?\"",
+            "\\.\"Gin... S'il te plaît, ça suffit.\n Une vie accablée de tourment, ce n'est pas une vie...\"",
+            "\\.\"Je ne pense pas...\n Qu'Alice ait fait quoique ce soit de mal.\"",
+            "\\.\"Tout à fait. N'ombragez pas ma bonne humeur.\n ... Je pense que je vais aller me reposer\n au Hall Principal.\"",
+            "\\.\"Allons-y, Gin.\"",
+            "\\.\"D'accord...\""
         ],
         "15-1-message": [
             "\\C[3]Vidéo d'une Victime\nLa vidéo d'une victime que Nao avait achetée.\nMontre la mort d'une policière lors de la P. Épreuve.\nL'homme au premier plan... Serait-ce Keiji ?"
@@ -28208,6 +28214,10 @@
             "\\.\"Bouh...\"",
             "\"Cette machine est à mes yeux un moyen\n de devenir heureux.\"",
             "\\.\"Peu importe votre avis...\""
+        ],
+        "3-1-choice": [
+            "Alors, tu ne l'as pas utilisée\nQue faisiez-vous dans le noir ?",
+            "Alors, tu l'as utilisée\nEst-ce vraiment bien de l'oublier ?"
         ]
     },
     "map163": {
