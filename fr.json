@@ -27918,7 +27918,7 @@
             "\\.\\sw[324]\"Alors maintenant...\n Branchez cette puce une bonne fois pour toutes...\"\\sw[325]",
             "\\.\"Ne fais pas ça, Nao !!\"",
             "\"Voilà !\nC'est bien comme ça, professeur ?!\"",
-            null,
+            "\\.\\sw[324]\"Vous avez fait du beau travail, Mlle. Nao.\"\\sw[325]",
             null,
             null,
             null,
