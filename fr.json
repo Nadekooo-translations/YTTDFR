@@ -27927,7 +27927,7 @@
             "\"Nao ! Rends-nous l'ordinateur et la puce...!!\"",
             "\\.\"Cette IA...\n Ce n'est pas Monsieur Mishima !!\"",
             "\\.\\sw[324]\\C[10]\"Il est trop tard. Je me suis déjà connecté à eux.\"\\sw[325]",
-            null,
+            "\\.\\sw[324]\\C[10]\"Je vais maintenant détruire toutes leurs données.\nL’idée même de fuir ne vous effleurera plus jamais…!\"\\sw[325]",
             null,
             null,
             null,
