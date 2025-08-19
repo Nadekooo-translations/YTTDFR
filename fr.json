@@ -27880,7 +27880,7 @@
             "\"Nao !!\"",
             "\\.\"Non, ne rentrez pas !!\"",
             "\\.\\sw[324]\"Oh ? Aurions-nous des invités ?\"\\sw[325]",
-            null,
+            "\\.\\sw[324]\"Oh, si ce ne sont pas nos amis Sara et compagnie !\"\\sw[325]",
             null,
             null,
             null,
