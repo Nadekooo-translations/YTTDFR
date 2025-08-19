@@ -27919,7 +27919,7 @@
             "\\.\"Ne fais pas ça, Nao !!\"",
             "\"Voilà !\n C'est bon comme ça, Monsieur ?!\"",
             "\\.\\sw[324]\"Vous avez fait du beau travail, Nao.\"\\sw[325]",
-            null,
+            "\\.\\sw[324]\\C[10]\"Vous êtes vraiment facile à manipuler...\"\\sw[325]",
             null,
             null,
             null,
