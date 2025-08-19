@@ -27921,7 +27921,7 @@
             "\\.\\sw[324]\"Vous avez fait de l'excellent travail, Nao.\"\\sw[325]",
             "\\.\\sw[324]\\C[10]\"Vous êtes réellement facile à manipuler...\"\\sw[325]",
             "\"M-Monsieur...?\"",
-            null,
+            "\\.\\sw[324]\\C[10]\"Cet ordinateur... Cette puce...\nIls posaient de gros problèmes pour la Démocratie Mortelle.\"\\sw[325]",
             null,
             null,
             null,
