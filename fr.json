@@ -27971,25 +27971,31 @@
         ],
         "6-2-message": [
             "\\.\"...\"",
-            null,
-            null,
-            null,
-            null,
+            "\\.\"Sou...\"",
+            "\\.\"Tu pourrais ne pas me parler, là de suite ?\"",
+            "\\.\"Tu me fiches les nerfs, miaou !!\"",
+            "\\.\\C[4](Bon, pas d'autre choix que de le laisser tranquille...)",
             "Sniff sniff..."
         ],
         "6-1-message": [
             "\\.\"...\"",
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\.\"Sou...\"",
+            "\\.\"Tu pourrais ne pas me parler, là de suite ?\"",
+            "\\.\"Tu me fiches les nerfs, miaou !!\"",
+            "\\.\\C[4](Bon, pas d'autre choix que de le laisser tranquille...)",
+            "\\.\\C[3]Sou est concentré sur l'ordinateur.",
             "\\.\"...\"",
-            null,
+            "\\.\"Euh... Sou ?\"",
             "\\.\"...\n ...\n ...\"",
-            null,
-            null,
-            "\\.\"...\n ...\n ...\""
+            "\\.\"Tu t'es fait ignorer, miaou...\"",
+            "\\.\\C[4](Je vais le tapoter avec le doigt...)",
+            "\\.\"...\n ...\n ...\"",
+            "\\.\\C[4](Aucune réaction...)",
+            "\\.\"... Quelle tête de mule...\"",
+            "\\.\\C[4](Ah ! Il a réagi !)",
+            "\\.\"... Tu veux bien arrêter, oui ?\"",
+            "\\.\\C[4](Je commence à l'énerver...)",
+            "\\.\"Arrête !\""
         ],
         "33-1-message": [
             "\\C[3]Vidéo d'une Victime\nLa vidéo d'une victime que Nao avait achetée.\nMontre la mort d'une policière lors de la P. Épreuve.\nL'homme au premier plan... Serait-ce Keiji ?"
@@ -28013,7 +28019,7 @@
             "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
         ],
         "4-1-message": [
-            "\\.\"Désolé de ne rien t'avoir dit, Sara...\"",
+            "\\.\"Désolée de t'avoir piégée, Sara...\"",
             null,
             null,
             null,
