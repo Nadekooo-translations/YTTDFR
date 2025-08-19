@@ -33341,7 +33341,12 @@
             "\\.\\C[5][1] Pour les épreuves nécessitant une explication,\n    donnez-la aux participants à l'avance !",
             "\\.\\C[5][2] Les Maîtres d'Étage ne doivent pas\n    tuer directement les participants !",
             "\\.\\C[5][3] Les Maîtres d'Étage ne peuvent pas mentir\n    dans l'intention de tromper les participants !",
-            "\\.\\C[5][4] En cas d'infraction durant le Jeu Principal,\n    celui-ci se poursuit après la mort du contrevenant,\n    ou bien \\C[2]doit être rejoué 24 heures plus tard\\C[5] !"
+            "\\.\\C[5][4] En cas d'infraction durant le Jeu Principal,\n    celui-ci se poursuit après la mort du contrevenant,\n    ou bien \\C[2]doit être rejoué 24 heures plus tard\\C[5] !",
+            "\\.\\C[5][5] Traitez les participants avec amour !",
+            "\\.\\C[4](Des infractions durant le Jeu Principal...?\n C'est la première fois que j'en entends parler.)",
+            "\\.\\C[4](Si un participant brise les règles, il meurt...\n Et si c'est un Maître d'Étage, on a droit à un\n deuxième essai 24 heures plus tard ?)",
+            "\\.\\C[4](Ça doit être comme ça qu'il faut l'interpréter.)",
+            "\\.\\C[4](... Ça, ce sont des règles injustes.)"
         ],
         "4-2-message": [
             "\\C[3]Papiers intitulés « Règlement des Maîtres d'Étage ».",
