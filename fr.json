@@ -27961,8 +27961,8 @@
             "\\.\"Euh... Euuh...\"",
             "\"... Toujours aussi prudente, hein.\"",
             "\"... Tu es un peu lourde.\"",
-            null,
-            null,
+            "\\.\\C[4](Oh, la ferme...)",
+            "\"Oh, vraiment. Est-ce que vos jambes vous ont lâché ?\"",
             "\\.\\C[4](...\n ...\n ...)"
         ],
         "6-2-message": [
