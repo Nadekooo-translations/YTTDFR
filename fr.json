@@ -28062,7 +28062,7 @@
         "1-1-choice": [
             "On peut trouver la pièce secrète\nOn peut voir la structure du complexe",
             "Pourquoi voler l'ordinateur ?\nPourquoi avoir besoin de la puce ?",
-            null,
+            "Est-tu réel ?\nQuelque chose cloche\nMerci beaucoup",
             "Ça ne me dit rien\nLe fichier s.exe"
         ]
     },
