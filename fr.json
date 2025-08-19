@@ -28065,6 +28065,9 @@
             "Êtes-vous le vrai Monsieur Mishima ?\nQuelque chose cloche\nMerci beaucoup",
             "Ça ne me dit rien\nLe fichier s.exe",
             "Je peux me relever\nPrendre sa main\nJe n'arrive pas à tenir debout"
+        ],
+        "2-11-message": [
+            "\\C[3]Le faux professeur Mishima est parti."
         ]
     },
     "map160": {
