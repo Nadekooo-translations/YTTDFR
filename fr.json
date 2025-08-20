@@ -27956,7 +27956,7 @@
             "\"U-Un hack...?!\"",
             "\"Ahaha. C'est toi, celui se fait détruire.\"",
             "\\sp[12]\"Arrêteeeeeeeez !!\"",
-            null,
+            "\\.\\C[3]L'intelligence artificielle... disparu.",
             "\\.\"Tu arrives à te relever, Sara ?\"",
             "\\.\"Euh... Euuh...\"",
             "\"... Toujours aussi prudente, hein.\"",
@@ -33374,6 +33374,40 @@
         ],
         "4-1-choice": [
             "Lire\nNe pas lire"
+        ],
+        "15-3-message": [
+            "\"C'est... bon...\"",
+            "\\.\"Ahaha...!! Ça a marché !! Sara, ça a marché !!\"",
+            "\\.\"Tu as réussi ?!\"",
+            "\\.\"Bien évidemment ! Ahaha !\"",
+            "\\.\"À première vue, tu ne peux pas vraiment le deviner...\n Mais les choses sont vraiment en train de dérailler.\"",
+            "\\.\"Hahaha...\n On fêtera tout ça quand on sera sortis d'ici.\n Allez, allons-y, Sara !\"",
+            "\\.\"Quoi ? Attends... On va où, au juste ?!\"",
+            "\\.\\C[4](Je n'ai pas d'autre choix que de le suivre...!)"
+        ],
+        "7-1-message": [
+            "\\C[3]L'un des écrans de l'ordinateur."
+        ],
+        "8-1-message": [
+            "\\C[3]L'un des écrans de l'ordinateur."
+        ],
+        "13-1-message": [
+            "\\C[3]L'un des écrans de l'ordinateur."
+        ],
+        "14-1-message": [
+            "\\C[3]L'un des écrans de l'ordinateur."
+        ],
+        "15-2-message": [
+            "\"N-Non...!\"",
+            "\\.\"Non, Sou...\n Ne me dis pas que-\"",
+            "\\.\"Voyez-vous cela, c'est donc vous.\"",
+            "\"Ne pensez-vous pas que vos vilaines supercheries\n ont duré suffisamment longtemps ?\"",
+            "\\.\"Gh...\"",
+            "\\.\"En tant que Maître d'Étage, je ne peux ignorer\n de tels agissements.\"",
+            "\\.\"C'est véritablement déplorable...\n Mais il est de mon devoir de ne pas laisser\n cela passer.\"",
+            "\\C[3]Un gaz blanc emplit la pièce.",
+            "\\.\"Ah...! Argh...!! J'arrive plus... à respirer...!!\"",
+            "\\.\"Ghh...!! ... Est arrivés... si loin... Gahh...!!\""
         ]
     },
     "map183": {
