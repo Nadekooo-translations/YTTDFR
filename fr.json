@@ -29755,7 +29755,7 @@
     "map197": {
         "20-1-message": [
             null,
-            null,
+            "\\.\\C[4](Sou...)",
             null,
             null,
             null,
@@ -31838,7 +31838,7 @@
             null,
             null,
             null,
-            null,
+            "\\.\\C[4](Sou...)",
             null,
             null,
             "\\.\\C[4](...)"
@@ -35912,53 +35912,63 @@
     },
     "map178": {
         "1-1-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\C[4](Im... possible...)",
+            "\"C-C'est quoi ça...?!\"",
+            "\\.\\C[3]C'est ça ? La sortie...?",
+            "\\.\\C[3]Il n'y a que des gravats...\nC'est comme s'il y avait eu un éboulement...",
+            "\\.\"Mais c'est absurde...!!\n Je veux dire, ça voudrait dire que...\"",
+            "\\.\"La sortie est scellée...?!\"",
+            "\\C[3]La sécurité du complexe a bel et bien été neutralisée.",
+            "\\.\\C[3]Mais s'il n'y a pas de porte... C'est inutile.",
+            "\\.\\sp[15]\"Haha... ha...\"",
+            "\\.\\C[3]Tout espoir était perdu.",
+            "\\.\"Non...!!\"",
+            "\\.\"Ahh... ahhhhh...\"",
             "\\.\"...\n ...\n ...\"",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\.\"J'ai pas signé pour ces conneries, moi...!!!!\"",
+            "\\.\"C'est une blague...!! C'est quoi ce bordel ?!\"",
+            "\\.\"On... peut pas rentrer à la maison... miaou...?\"",
+            "\\.\"Impossible...!! Ça peut pas être... vrai !!\"",
+            "\"C'est la vérité.\"",
+            "\"... La vérité que vous avez poursuivie.\"",
+            "\\.\"Nous l'avons scellée à l'aide d'une explosion externe.\n\\! Et ce, bien avant le début de la Démocratie\n Mortelle...\"",
+            "\\.\\{\"Gashu !! Sale enfoiré !!!!\"",
+            "\\.\"Reko, fais pas ça !!\"",
+            "\\.\"Je vais te buter !! Je te jure que tu vas-!!\"",
+            "\\.\"Une vaine action.\"",
+            "\\.\"Qu-?!\"",
+            "\\.\"C-C'est quoi ce bordel...\n Sur ta gorge...!!\"",
+            "\"Nous sommes prisonniers de même.\"",
+            "\\.\"Tant qu'une conclusion n'a pas été atteinte...\n Nos destins demeurent mêlés.\"",
             "\\C[4](Un collier...! Les Maîtres d'Étages sont aussi-?!)",
-            null,
-            null,
+            "\"Putain de merde...\"",
+            "\\.\"BORDEL DE MERDE !!\n À quoi vous jouez, à la fin ?!\"",
             "\\.\"...\n ...\n ...\"",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\\C[4](...\n ...\n ...)"
+            "\\.\"Espèce de sale...!!\"",
+            "\\.\"... Héhém. Cette fois-ci, j'ai ceci.\"",
+            "\\.\"...!!\"",
+            "\\.\"Veuillez pardonner mon indécence.\n Je ne souhaite pas requérir à la violence.\"",
+            "\\.\"Allons, vous autres.\n Il est temps pour vous de vous réveiller de ce rêve.\"",
+            "\\.\"Vous devez être victorieux...!\n Le chemin ne s'ouvrira au vainqueur et\n à personne d'autre !!\"",
+            "\\.\"Il ne vous reste que très peu de temps...\n Profitez bien de vos derniers instants avant\n le Jeu Principal.\"",
+            "\\C[4](C'est la fin...)",
+            "\\.\\C[4](Tout est... fini...)",
+            "\\C[3]Tout ce qu'il reste... c'est cette carte...",
+            "\\.\\C[4](Hm...)",
+            "\\.\\C[4](J'imagine... haha...)",
+            "\\.\\C[4](Garder espoir... pour qu'il finisse par s'effondre...)",
+            "\\.\\C[4](Encore et encore...?)",
+            "\\.\\C[4](...\n ...\n ...)",
+            "\\C[10]\"Sara...\"",
+            "\\.\\C[10]\"Il est grand temps que t'acceptes la réalité.\"",
+            "\\.\\C[10]\"Il y a toujours eu qu'une seule conclusion pour toi.\"",
+            "\\.\\C[10]\"Tu choisis quoi ?\"",
+            "\\C[10]\"...\"",
+            "\\.\\C[10]\"T'as fait ton choix...\"",
+            "\\.\\C[10]\"Bonne chance...\"",
+            "\\C[4](...)",
+            "\\.\\C[3]Sans que je le réalise,\nles autres étaient partis chacun de leur côté.",
+            "\\.\\C[3]Pour utiliser ce dernier temps libre à bon escient."
         ],
         "21-1-message": [
             "\\C[3]Vidéo d'une Victime\nLa vidéo d'une victime que Nao avait achetée.\nMontre la mort d'une policière lors de la P. Épreuve.\nL'homme au premier plan... Serait-ce Keiji ?"
@@ -35980,6 +35990,32 @@
         ],
         "28-1-message": [
             "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
+        ],
+        "2-1-message": [
+            "\\C[3]Keiji enlève des rochers.",
+            "\\.\"Keiji...?\"",
+            "\"J'arrive pas à baisser les bras...\"",
+            "\\.\"Même si ça sert à rien... je vais continuer de lutter.\"",
+            "\"... Imbécile\"",
+            "\\.\"Que crois-tu pouvoir faire sans équipement...?\"",
+            "\\.\"Tu n'es qu'un imbécile fini...\"",
+            "\\C[3]Alice se mit, à son tour, à dégager des débris.",
+            "\\C[4](Keiji...)"
+        ],
+        "2-2-message": [
+            "\"Je me demande si je peux réussir à dégager\n un peu le passage.\n Aussi petit soit-il...\"",
+            "\\.\"Haa... Haa...\n Si tu as le temps de papoter, tu as le temps\n de te remuer...!\"",
+            "\\C[4](Libérer le passage demandera bien plus\n que juste de la force physique...)"
+        ],
+        "5-1-message": [
+            "\\C[3]Q-taro est toujours inconscient."
+        ],
+        "29-1-message": [
+            "\"Merde ! Merde..!!\"",
+            "\\C[4](Peu importe combien de rochers vous déplacez...\n Il n'y a plus le temps...)"
+        ],
+        "1-1-choice": [
+            "Leur faire confiance et accepter la mort\nPiéger les autres pour survivre"
         ]
     },
     "map83": {
@@ -37324,14 +37360,24 @@
     },
     "map177": {
         "2-2-message": [
-            null,
+            "\\C[3]Sou est profondément concentré sur l'ordinateur,\nqu'il continue de manipuler.",
+            "\"...\n ...\n ...\"",
+            "\\.\\C[4](Il ne baisse toujours pas les bras...?)",
+            "\\.\"S-Sou...\"",
             "\\.\"...\n ...\n ...\"",
-            null,
-            null,
-            "\\.\"...\n ...\n ...\""
+            "\\.\"Pitié...\"",
+            "\\.\"Sauve... nous...\"",
+            "\\.\\C[3]Les mots s'échappèrent de ma gorge inconsciemment.",
+            "\\.\\C[3]Il n'y a rien d'autre que je puisse faire.",
+            "\\.\\C[3]La seule personne qui peut changer la donne...\nC'est Sou.",
+            "\\.\"Je manque... de temps...\"",
+            "\\.\"La puce de Ray est juste là !\n Si j'avais ne serait-ce qu'une heure de plus...\n Rghhh...\"",
+            "\\.\\C[4](Sou...)",
+            "\\.\"La seule chose à laquelle j'ai accès...\n C'est \\C[2]hacker\\C[0] les données des \\C[2]rôles\\C[0] ...\"",
+            "\\.\\C[4](Hein...?)"
         ],
         "2-3-message": [
-            null,
+            "\\C[3]Sou est profondément concentré sur l'ordinateur,\nqu'il continue de manipuler.",
             "\"...\n ...\n ...\""
         ],
         "64-1-message": [
@@ -37354,6 +37400,67 @@
         ],
         "71-1-message": [
             "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
+        ],
+        "2-1-message": [
+            "\\C[3]Une large table toute propre."
+        ],
+        "2-2-choice": [
+            "Lui parler\nAnnuler"
+        ],
+        "8-1-message": [
+            "\\C[3]Une large table toute propre."
+        ],
+        "3-1-message": [
+            "\\C[3]Derrière les fenêtres, des écrans shojis\nnous empêchent de voir ce qu'il y a dehors."
+        ],
+        "4-1-message": [
+            "\\C[3]Des sortes de petites étagères."
+        ],
+        "43-1-message": [
+            "\\C[3]Des sortes de petites étagères."
+        ],
+        "44-1-message": [
+            "\\C[3]Des sortes de petites étagères."
+        ],
+        "45-1-message": [
+            "\\C[3]Des sortes de petites étagères."
+        ],
+        "46-1-message": [
+            "\\C[3]Des sortes de petites étagères."
+        ],
+        "5-1-message": [
+            "\\C[3]Une chaleureuse lumière englobe la salle."
+        ],
+        "6-1-message": [
+            "\\C[3]Le couloir continue plus loin.",
+            "\"Plus loin, c'est la sortie... Sara.\"",
+            "\\.\\C[4](Enfin...)",
+            "\\.\"Allons-y...!\"",
+            "\\.\"... Oui.\"",
+            "\\.\\C[3]Nous empruntions alors le couloir.",
+            "\\.\\C[3]La cadence martelée de mon cœur.",
+            "\\.\\C[3]L'espoir. Le futur. La normalité.",
+            "\\.\\C[3]Persuadée que tout cela ne m'attendait\nque quelques mètres plus loin.",
+            "\\C[3]Là nous attendait... un mur rocailleux."
+        ],
+        "6-1-choice": [
+            "Se diriger vers la sortie\nAnnuler"
+        ],
+        "6-2-choice": [
+            "Se diriger vers la sortie\nAnnuler"
+        ],
+        "6-2-message": [
+            "\\C[3]Ce passage mène à la sortie du complexe."
+        ],
+        "8-2-message": [
+            "\\C[3]Une Allô-Boîte.",
+            "\\.\\C[4](Si seulement j'avais des jetons...\n J'aurais pu les utiliser...)"
+        ],
+        "1-1-message": [
+            "\\C[3]Deux chaises, l'une en face de l'autre."
+        ],
+        "47-1-message": [
+            "\\C[3]Des sortes de petites étagères."
         ]
     },
     "map157": {
