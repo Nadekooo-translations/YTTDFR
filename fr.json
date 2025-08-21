@@ -35660,12 +35660,41 @@
     },
     "map179": {
         "1-2-message": [
-            null,
-            null,
+            "\"Très bien.\n À présent, permettez-moi de vous expliquer\n les règles du Jeu Principal.\"",
+            "\\.\"La règle fondamentale est qu'une personne\n sera sacrifiée conformément au résultat\n d'un vote à la majorité.\"",
             "\\.\"Le vote se déroulera en deux temps.\"",
-            "\\.\"À la fin du premier tour, vous aurez le \\C[2]vote\n préliminaire\\C[0]. La moitié d'entre vous seront\n retenus comme candidats.\"",
-            "\\.\"8 personnes sont en vie, donc vous serez \\C[2]4\\C[0].\"",
-            "\\.\"Ensuite, un \\C[2]vote final\\C[0] sera tenu à partir de ces\n même candidats, désignant l'ultime \\C[2]victime\\C[0].\""
+            "\\.\"À la fin du premier tour sera tenu le\n \\C[2]vote préliminaire\\C[0].\n La moitié d'entre vous seront retenus comme candidats.\"",
+            "\\.\"Puisque 8 personnes sont en vie à l'heure actuelle,\n vous devrez retenir \\C[2]4\\C[0] candidats.\"",
+            "\\.\"Ensuite, un \\C[2]vote final\\C[0] sera tenu à partir de ces\n même candidats, désignant l'ultime \\C[2]victime\\C[0].\"",
+            "\\.\"En d'autres mots,\n la victime sera sélectionnée graduellement,\n en passant de 8 candidats à 4, et enfin, à 1.\"",
+            "\\.\"De plus, les \\C[2]rôles\\C[0] sont de la plus grande importance.\"",
+            "\\.\"Le premier est le \\C[5]Roturier\\C[0].\"",
+            "\\.\"Il s'agit d'un rôle commun sans aucune\n capacité particulière.\"",
+            "\\.\"Le deuxième est le \\C[2]Maître des Clés\\C[0].\"",
+            "\\.\"Comme on pourrait l'attendre du détenteur des clés,\n s'il est sélectionné en tant que victime,\n tout futur sera condamné et tout le monde périra.\"",
+            "\\.\"Le troisième est le \\C[3]Sage\\C[0].\"",
+            "\\.\"Grâce à une sainte révélation, il a le privilège\n de connaître l'identité du \\C[2]Maître des Clés\\C[0].\"",
+            "\\.\"Le quatrième est le \\C[10]Sacrifice\\C[0].\"",
+            "\\.\"Il s'agit d'une carte renversant les règles,\n puisque son détenteur ne survit que s'il est\n sélectionné pour victime finale.\"",
+            "\\.\"En revanche...\n S'il n'est pas sélectionné, il meurt.\n Il s'agit donc d'un funeste rôle à double tranchant.\"",
+            "\\.\"Mais en contrepartie, le \\C[10]Sacrifice\\C[0] peut voter\n deux fois...\"",
+            "\\.\"Et s'il remporte la victoire,\n il peut s'échapper avec une personne de son choix.\"",
+            "\\.\"Et d'ailleurs, en cas d'égalité...\"",
+            "\\.\"Le \\C[10]Sacrifice\\C[0] a la priorité et gagne.\n Il en va de même avec le \\C[2]Maître des Clés\\C[0],\n ce qui signifie que tout le monde mourrait.\"",
+            "\\.\"Dans la situation où le \\C[10]Sacrifice\\C[0] et le\n \\C[2]Maître des Clés\\C[0] sont tous deux à égalité...\n Le \\C[2]Maitre des Clés\\C[0] a la priorité absolue,\n entraînant la mort de tous.\"",
+            "\\.\"Les rôles sont distribués comme tels :\n Un \\C[2]Maître des Clés\\C[0], un \\C[3]Sage\\C[0], et un \\C[10]Sacrifice\\C[0].\n Tous les autres sont des \\C[5]Roturiers\\C[0].\"",
+            "\\.\"Je vous souhaite bonne chance...\n Et puissiez-vous éviter l'annihilation à tout prix.\"",
+            "\\.\\C[4](Pas besoin de nous le rappeler...)",
+            "\\.\"À présent, je vous prie de bien vouloir attendre\n que le jeu comm-\"",
+            "\\C[4](Quoi...?)",
+            "\\{\"Hé ! Gashu !!\"",
+            "\\.\\C[4](Rillante ?!)",
+            "\\.\"Gashu, tu m'entends ?!\n T'es vraiment allé trop loin...\n T'as tout foutu en l'air...!\"",
+            "\\.\"T'as enfreint les règles...!!\n Ton énorme transgression renverse les\n fondations mêmes du Jeu Principal !!\"",
+            "\\.\"T'essaie de t'approprier le Jeu Principal ou qu-\"",
+            "\"... Veuillez m'excuser pour ce dysfonctionnement.\"",
+            "\\.\"Le Jeu Principal va à présent débuter.\n Veuillez vous y présenter.\"",
+            "\\.\\C[4](Q-Qu'est-ce qu'il vient de se passer ?!)"
         ],
         "2-1-message": [
             "\\C[3]Un extravagant festin."
@@ -35690,6 +35719,21 @@
         ],
         "44-1-message": [
             "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
+        ],
+        "1-1-message": [
+            "\\C[3]Gashu est affiché à l'écran.",
+            "\"Comment allez-vous, tout le monde ?\"",
+            "\\.\"Je vous exprime à nouveau mes plus sincères\n remerciements pour prendre part au \\C[2]Jeu Principal\\C[0].\"",
+            "\\.\"Je ne rentrerai pas dans les détails,\n mais je me dois de prévenir l'un de vous...\"",
+            "\\.\"Il semblerait que quelqu'un parmi vous\n ait perdu sa tablette.\"",
+            "\\.\"Puisque vos tablettes requiert vos empreintes digitales\n pour être déverrouillées, personne n'a pu s'en servir.\n Toutefois...\"",
+            "\\.\"Pour éviter tout désavantage et garantir l'équité\n du jeu, une autre tablette vous a été fournie et\n placée sur votre table.\"",
+            "\\.\"Je prie à la personne en question de la consulter.\"",
+            "\\.\"Voilà qui conclut la fin de cette parenthèse.\n Touchez l'écran lorsque vous souhaiterez passer\n à la revue des règles.\"",
+            "\\C[4](Il commence... Le deuxième Jeu Principal...)"
+        ],
+        "1-4-message": [
+            "\"L'accès est déjà libre.\n Veuillez vous presser.\""
         ]
     },
     "map134": {
@@ -36016,6 +36060,10 @@
         ],
         "1-1-choice": [
             "Leur faire confiance et accepter la mort\nPiéger les autres pour survivre"
+        ],
+        "31-1-message": [
+            "\\C[3]Un insigne de sortie de secours.",
+            "\\.\\C[4](Il doit bien y avoir une porte sous\n tous ces débris...)"
         ]
     },
     "map83": {
