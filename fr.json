@@ -7532,11 +7532,11 @@
         "137-0-message": [
             "\"On a pas l'temps.\n Gin, prouve-nous que t'as été utile !\"",
             "\"En quoi ça prouve quoi qu'ce soit, Sara ?!\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"En quoi ça prouve quoi qu'ce soit, Sara ?!\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"En quoi ça prouve quoi qu'ce soit, Sara ?!\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"... Traitez-moi d'bâtard si vous voulez.\n J'cherche juste un moyen d'survivre.\"",
             "\"Ceux qu'nous ralentissent...\n Sont condamnés à mourir tôt ou tard...!\"",
             "\\.\"Ça s'applique à moi...\n Et ça s'applique à toi aussi, pas vrai ?\"",
@@ -7547,11 +7547,11 @@
             "\"Maintenant que j'y pense !\n Gin a dit qu'il avait trouvé quelque chose\n d'incroyable dans cette salle du premier étage !\"",
             "\"Vous faites peur à Gin !\n C'est votre faute, sales brutes d'hommes à la con !\"",
             "\"Il est où, le putain de rapport avec Gin ?!\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Euuh... c'est quoi ce truc ?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Euuh... c'est quoi ce truc ?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Le truc... c'est qu'il avait vraiment pas\n l'air réjouit...\"",
             "\\.\"Je me disais que je lui demanderais quand il\n aura retrouvé le moral.\"",
             "\"Toi aussi, dis quelque chose, Sara !\"",
@@ -7564,9 +7564,9 @@
         "139-0-message": [
             "\"... Miaou... Miaou...\"",
             "\"Ouaf, ouaf... Je comprends pas, miaou...\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"J'sais pas, miaou... Je comprends pas, ouaf...\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"..........\"",
             "\\.\\C[4](Gin tremble...)",
             "\"Ça va aller, Gin. Essaie de te rappeler.\n Tu as trouvé quelque chose durant ton exploration ?\"",
@@ -7581,11 +7581,11 @@
             "\\.\"Le papier qui disait que grande sœur Sara est une\n meurtrière ressemblait à une liste, miaou.\n Ça avait pas l'air d'une lettre, ouaf...\"",
             "\\.\"La note qui dit que grande sœur Sara est une\n meurtrière... Je l'ai sur moi !\n J'avais bien raison...\n C'est écrit juste là, ouaf...\"",
             "\"Ouaf, ouaf... Je comprends pas, miaou...\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Ouaf, ouaf... Je comprends pas, miaou...\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"J'sais pas, miaou... Je comprends pas, ouaf...\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Qui aurait pu écrire ça, miaou...?\n Ouaf... Je sais que ça peut pas être toi,\n grande sœur Sara...\"",
             "\\.\\C[4](Hm... Devrais-je lui demander autre chose ?)",
             "\"Mais qu'est-ce que ça faisait là, miaou ?\n Je comprends pas, ouaf...\"",
@@ -7598,7 +7598,7 @@
         "166-0-message": [
             "\"Avoir des doutes sur les autres, je peux comprendre...\n Mais pas sur Sara ! C'est vraiment horrible...!\"",
             "\"Euh... Où veux-tu en venir...?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Ouah...? J'ai dit quelque chose de bizarre...?\"",
             "\\.\"Non...\"",
             "\\.\"Euh... Désolée, alors...\"",
@@ -7611,9 +7611,9 @@
             "\"Depuis le début, je me méfie de toi... Sara Chidouin !\n Tu possèdes une arme et tu règnes sur les autres !\n Maudite dictatrice !\"",
             "\"Depuis le début, je trouvais cela suspect...\n Le fait qu'une lycéenne soit devenue votre dirigeante.\"",
             "\"Et alors ?! Quel est le rapport ?!\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Et alors ?! Quel est le rapport ?!\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Une remarque futile...\n En quoi cela prouve-t-il quoi que ce soit ?\"",
             "\\.\"Sara Chidouin !\n Tu ne me feras pas changer d'avis !\n Tu es suspecte !\"",
             "\\.\\C[4](Urgh... Ce gars est...)",
@@ -7629,11 +7629,11 @@
             "\"Déclaration extraite\"",
             "\"Déclaration initiale\"",
             "\"Mauvais objet !\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Mauvais objet !\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Une remarque futile...\n En quoi cela prouve-t-il quoi que ce soit ?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Voici le dialogue en utilisant Extraire sur\n une nouvelle déclaration.\"",
             "\"Tu souhaites extraire une nouvelle déclaration,\n n'est-ce pas ?\"",
             "\\.\"Quand cette ligne sera finie, ça le feraaaa\"",
@@ -7643,11 +7643,11 @@
             "\"Même si... Kanna est choisie... ce n'est pas grave.\"",
             "\"K-Kanna...\"",
             "\"Q-Qu'est-ce qu'il y a ?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Kanna... ne comprend pas vraiment...\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Kanna... ne comprend pas vraiment...\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Tout ça... Ce n'est plus important...\"",
             "\\.\\C[4](Mais... Qu'est-ce que tu dis, Kanna...?)",
             "\"...\"",
@@ -7670,11 +7670,11 @@
         "173-0-message": [
             "\\.\"Me dites pas... qu'y en a pour qui ça les\n dérangerait pas d'mourir, hein ?!\"",
             "\"Hors de mon chemin, Sara !\n J'parle à ces trois, là !!\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Faut qu'tu sois plus claire, Sara !\n T'veux pas mourir, si ?!\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Faut qu'tu sois plus claire, Sara !\n T'veux pas mourir, si ?!\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Sara ! J'suis sérieux, là !\"",
             "\\.\"Que quelqu'un veuille mourir...\n J'le tolèrerais pas !\""
         ],
@@ -7682,9 +7682,9 @@
             "\"... J'ai exploré les salles du premier étage, mais...\n Désolée... Je n'ai rien pu trouver d'important...\"",
             "\"J'ai exploré du mieux que j'ai pu !!\n Et j'ai trouvé des choses !\n Beaucoup de choses...!!\"",
             "\"Euh... Où veux-tu en venir...?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Euh... Désolée... Je ne te suis pas...\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Mais... Je t'en supplie... Sara...\"",
             "\\.\\C[4](Nao m'a défendue... Je veux la protéger...!)",
             "\"Je sais que j'ai été un fardeau...!\n Mais... J'ai vraiment fait de mon mieux !!\"",
@@ -7699,9 +7699,9 @@
         "175-0-message": [
             "\"..........\"",
             "\"...?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"... miaou ?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"...\"",
             "\\.\"Gin...\"",
             "\"Hé, regarde-moi...\n Tu sais que tu peux tout me dire, pas vrai ?\"",
@@ -7712,9 +7712,9 @@
         "195-0-message": [
             "\"Je trouve que beaucoup de choses sont illogiques\n dans les actions de Nao. Ne vous demandez-vous\n pas ce qu'elle faisait dans la cuisine ?\"",
             "\"...?\n Sans commentaire, Sara.\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Ahahah... Tu ne devrais pas interroger Nao ?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Je me demande si elle ne faisait vraiment\n que se cacher...\"",
             "\\.\"...\"",
             "\\.\\C[4](Sou a l'air d'insinuer quelque chose...)"
@@ -7722,31 +7722,31 @@
         "196-0-message": [
             "\"J'ai pris la boîte...\n Et je suis restée assise, cachée dans la cuisine.\n Je n'ai même pas touché à quoi que ce soit...\"",
             "\"Euh... Où veux-tu en venir...?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Je ne pense pas avoir dit quoi que ce soit\n de bizarre...\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Assise dans le noir...\n Je lui posais des questions... encore et encore...\"",
             "\\.\"Même si... Je n'avais pas de réponse...\""
         ],
         "197-0-message": [
             "\"J'ai examiné la cuisine après votre passage.\n Je n'ai trouvé aucune supercherie.\"",
             "\"Je suppose que je n'ai d'autre choix\n que de l'accepter, mais...?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Oh... Je crains n'avoir grand-chose à dire.\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Vous êtes passée avant moi, Mademoiselle Chidouin.\n Vous devriez en être consciente, de même.\""
         ],
         "204-0-message": [
             "\"Si quelqu'un à qui je tenais s'était fait tuer lors\n de ce vote... Plutôt que de le pleurer, je me serais\n déchaîné et j'aurais essayé de trouver le coupable !\"",
             "\"Nao respectait Monsieur Mishima !\n Peut-être que son choc était si fort qu'elle\n a fait un truc bizarre sans s'en rendre compte ?!\"",
             "\"Il est où le rapport ?!\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Quelque chose cloche dans ce que j'ai dit ?!\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Quelque chose cloche dans ce que j'ai dit ?!\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Quelque chose cloche dans ce que j'ai dit ?!\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"C'est ce que Rillante cherche, j'imagine...\"",
             "\"On agit pas toujours de manière rationnelle,\n tu vois ce que je veux dire ?!\"",
             "\\.\"C'était après ce vote atroce...!\n Si j'avais été dans la situation de Nao...\n J'aurais...!\"",
@@ -7764,20 +7764,20 @@
         "205-0-message": [
             "\"Est-ce possible... que Nao se fasse manipuler par\n nos kidnappeurs...?\"",
             "\"...?\n Sans commentaire, Sara.\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Ahahah, euh... C'est censé contrer quoi que ce soit ?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Peut-être qu'elle est du côté des kidnappeurs\n depuis le début... Ou qu'elle s'est faite\n hypnotiser...\"",
             "\\.\"... Ce n'est vraiment pas agréable de douter\n de quelqu'un...\""
         ],
         "206-0-message": [
             "\"Elle a dû se faire échanger avec une autre boîte\n que les kidnappeurs ont préparé !\"",
             "\"Il est où, le putain de rapport avec Nao ?!\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Euuh... c'est quoi ce truc ?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Euuh... c'est quoi ce truc ?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Je veux dire, il y a plein de conneries du genre,\n ici...!\"",
             "\\.\"La cuisine était totalement plongée dans le noir !\n La boîte a été échangée sans qu'elle le remarque !\""
         ],
@@ -7785,7 +7785,7 @@
             "\"Voir Monsieur Mishima subir ça...\n J'étais énervée, oui, mais surtout triste...!\n Ça m'a fait de la peine...!!\"",
             "\"Je... Je n'étais plus moi-même, mais...\n Je n'ai rien fait de suspect !\n Et... Je ne sais pas pourquoi elle a disparu !!\"",
             "\"Euh... Où veux-tu en venir...?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Je ne vois pas où tu veux en venir, Sara !\"",
             "\\C[4](Urgh... Ça ne s'est pas bien passé...)",
             "\"Je ne vois pas où tu veux en venir, Sara !\"",
@@ -7808,11 +7808,11 @@
         "221-0-message": [
             "\"Si on était du côté des kidnappeurs, on serait\n tout bêtement pas là !!\"",
             "\"Pas le moment ! Faut se défendre de Sou !\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Quelque chose cloche dans ce que j'ai dit ?!\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Quelque chose cloche dans ce que j'ai dit ?!\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Toute façon, on peut pas faire confiance\n à ces mails !\"",
             "\\.\"Mais en plus, rien prouve que Sou invente\n pas des histoires !\"",
             "\\.\\C[4](Si Sou réussit à convaincre les autres,\n on sera en grand danger...!)"
@@ -7821,13 +7821,13 @@
             "\"Mon rôle...? J'le donnerai pas...\"",
             "\"Mon rôle...? C'est pas important...\"",
             "\"Q-Quoi ?\n J'ai rien à dire pour aucun de tes objets.\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Quelque chose cloche dans ce que j'ai dit ?!\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Quelque chose cloche dans ce que j'ai dit ?!\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Quelque chose cloche dans ce que j'ai dit ?!\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Peu importe ce que je dis, ce sera pareil...\"",
             "\"Me regarde pas comme ça, Sara...\"",
             "\\.\"Pourquoi ne veux-tu pas le dire ?\"",
@@ -7841,9 +7841,9 @@
         "243-0-message": [
             "\"Je n'ai... rien à dire...\"",
             "\"Q-Qu'est-ce qu'il y a ?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Kanna... ne comprend pas vraiment...\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"... Il n'y a... rien à dire...\"",
             "\\.\"S'il te plaît, Kanna !\n Donne-moi un indice, quelque chose...!\"",
             "\\.\"..........\"",
@@ -7854,45 +7854,45 @@
         "244-0-message": [
             "\"Si Kanna voulait vraiment mourir, l'aurait pas\n dit \\C[3]\"C'moi l'Sage\"\\C[0], du coup...?!\"",
             "\"Sara !\n T'crois vraiment qu'c'est le moment d'me montrer ça ?!\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"J'pas raison, Kanna ?!\"",
             "\\.\"..........\"",
             "\\.\"Rien à faire ! L'a même pas réagi...\"",
             "\\.\"C'pas que j'ai d'preuves concrètes, mais...!\n Si tu l'ouvres pas, on peut rien faire !\"",
             "\\.\\C[4](Il nous faut une autre approche...!)",
             "\"J'vois pas trop le rapport, moi !\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"L'rôle l'moins risqué à voter, c'le \\C[3]Sage\\C[0].\n S'on peut trouver qui a eu la 'révélation divine',\n on saura qui c'est !\"",
             "\\.\"J'comprends pas pourquoi Kanna dit pas\n qu'c'est elle, le \\C[3]Sage\\C[0] !\""
         ],
         "245-0-message": [
             "\"Haaa... Je suis le \\C[2]Maître des Clés\\C[0].\n Je le répète depuis le début.\"",
             "\"Et alors, Sara ?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Ahahah, euh... C'est censé contrer quoi que ce soit ?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Ahahah. Quel regard effrayant, Sara.\"",
             "\\.\\C[4](Je ne pense pas que ce soit le moment de\n s'inquiéter de lui...)"
         ],
         "246-0-message": [
             "\"Honnêtement ?\n On devrait pas écouter ce tas de merde au bonnet !\n Il me fout la haine !\"",
             "\"D-Désolée...! Je capte pas...!\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Hé, le bonnet ! C'est quoi, la vérité ?!\"",
             "\\.\"Tout ! Ne te méprends pas, Reko.\"",
             "\\.\"Putain de merde !\n C'est vraiment un enfoiré!!\"",
             "\\.\\C[4](Ça ne nous avance pas...)",
             "\"Elle a quoi, ta déclaration...?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Plutôt que d'utiliser la logique, je devrais\n faire confiance à mes instincts.\"",
             "\\.\"L'autre gars au bonnet pue la merde !\n Faut pas compter sur lui !\""
         ],
         "247-0-message": [
             "\"Le \\C[10]Sacrifice\\C[0] peut voter deux fois...\n Donc le \\C[10]Sacrifice\\C[0] devrait être quelqu'un\n qui a reçu deux voix, non...?\"",
             "\"Euh... Où veux-tu en venir...?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Euuh... Je ne te suis pas trop...\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Je me disais qu'on pourrait partir du principe\n que tous ceux qui ont eu moins de 2 votes ne\n peuvent pas être le Sacrifice, mais...\"",
             "\\.\"Ils ont tous eu plus de 2 votes... ouuh...\""
         ],
@@ -7900,9 +7900,9 @@
             "\"Suis-je vraiment du côté des ravisseurs...?\n La réponse à cela... est toujours inconnue.\"",
             "\"Je n'ai pas vraiment grand-chose à exprimer.\n Libre à vous d'imaginer ce que vous souhaitez.\"",
             "\"Oh ? Mais où voulez-vous en venir ?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"À mon humble avis, je ne vois aucun intérêt à\n tenter de me contredire...\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Confirmer cela est tout bonnement impossible.\"",
             "\"Je n'ai plus aucune confiance en Sou après\n ce qu'il s'est passé...\"",
             "\\.\"Es-tu vraiment du côté des kidnappeurs ?\"",
@@ -7916,13 +7916,13 @@
             "\"Grand frère Joe l'a dit avant le vote\n préliminaire, miaou.\n \"Si Sara se fait choisir, on se fera massacrer !\"...\"",
             "\"C'est difficile, miaou...\n Je veux pas qu'on se fasse massacrer, ouaf...\"",
             "\"... Quoi, miaou ?!\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"... miaou ?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"... miaou ?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"... miaou ?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Massacrer... J'aime pas comment ça sonne, ouaf..\"",
             "\"Massacrer... J'aime pas comment ça sonne, ouaf..\"",
             "\\.\"T-Tu ne connaissais pas ce mot auparavant, Gin ?\"",
@@ -7936,9 +7936,9 @@
             "\"Je suis le seul à être du côté de Sou...\"",
             "\"Hmph... Je crois Sou.\n Quiconque le protège est donc le \\C[3]Sage\\C[0]...\n Voilà comment nous devrions procéder.\"",
             "\"Allons, allons...\n Ce n'est pas moi que tu devrais attaquer, correct ?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Une remarque futile...\n En quoi cela prouve-t-il quoi que ce soit ?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Nous sommes tous les deux haïs...\n Nous pourrions peut-être nous entendre.\n Mouahaha...\"",
             "\"Je suis le seul...\"",
             "\\.\"... À être du côté de Sou.\"",
@@ -7950,13 +7950,13 @@
             "\"T'as moyen de déterminer leurs rôles ?\"",
             "\"Sou et Kanna sont de mèche.\n ... J'en ai aucun doute.\"",
             "\"Sara, c'est pas vraiment le moment de me filer ça.\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Hmm... Je pense pas que ce soit ça.\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Hmm... Je pense pas que ce soit ça.\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Hmm... Je pense pas que ce soit ça.\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"... Je serai là jusqu'à la dernière seconde.\"",
             "\"Je vois rapide... Mais je connais pas leurs rôles.\"",
             "\\.\"Si seulement y avait un moyen de les déterminer...\"",
@@ -7968,31 +7968,31 @@
         "254-0-message": [
             "\"J'allais croire Joe, mais...\n C'vraiment lui, l'\\C[3]Sage\\C[0] ?!\"",
             "\"Sara !\n T'crois vraiment qu'c'est le moment d'me montrer ça ?!\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"J'vois pas trop le rapport, moi !\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"J'pense qu'y a même moyen que Joe soit l'\\C[10]Sacrifice\\C[0]...!\n Grgggh...!\"",
             "\\.\"Réfléchir... Faut réfléchir...!!\""
         ],
         "255-0-message": [
             "\"Kanna...\n Elle se fait manipuler par l'autre gars au bonnet !\n Il veut la dégager ! Votez pas pour elle !\"",
             "\"D-Désolée...! Je capte pas...!\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Elle a quoi, ta déclaration...?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Je me demande si l'autre au bonnet compte\n buter Kanna pour sauver son cul...\""
         ],
         "256-0-message": [
             "\"Si seulement on pouvait regarder ce qu'il y avait\n sur leurs cartes... On pourrait connaître leurs\n rôles...\"",
             "\"On... On ne peut pas déterminer leurs rôles en\n aussi peu de temps !\"",
             "\"Euh... Où veux-tu en venir...?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Euuh... Je ne te suis pas trop...\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Euuh... Je ne te suis pas trop...\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Euuh... Je ne te suis pas trop...\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Si on pouvait faire ça...\n On aurait su les rôles dès le début...\"",
             "\"Aaah...\n Je ne sais pas comment, mais...\n On doit les déterminer de manière logique...\"",
             "\\.\"Si seulement on pouvait regarder ce qu'il y avait\n sur leurs cartes... On pourrait connaître leurs\n rôles...\"",
@@ -8002,20 +8002,20 @@
         "257-0-message": [
             "\"Celui au tablier a parlé en dernier, il est louche,\n miaou ! Il ment, c'est sûr, ouaf !\"",
             "\"... Quoi, miaou ?!\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"... miaou ?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Il a dû réaliser que comme il serait le dernier sans\n rôle, il serait choisi par élimination, miaou !\""
         ],
         "471-0-message": [
             "\"Déclaration extraite\"",
             "\"Déclaration initiale\"",
             "\"Mauvais objet !\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Mauvais objet !\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Une remarque futile...\n En quoi cela prouve-t-il quoi que ce soit ?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Voici le dialogue en utilisant Extraire sur\n une nouvelle déclaration.\"",
             "\"Tu souhaites extraire une nouvelle déclaration,\n n'est-ce pas ?\"",
             "\\.\"Quand cette ligne sera finie, ça le feraaaa\"",
@@ -8025,13 +8025,13 @@
             "\"Peu importe ce qu'on fait, ça change rien...\n La Salle des Impressions sert juste à nous isoler\n des autres...\"",
             "\"Si on rajoute 35,5 kilos de pression sur la plateforme,\n peut-être que ça enclenchera une machine qui sortira\n Gin de là ?!\"",
             "\"Je vois pas pourquoi tu me montres ça, là !\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Ouais, et alors ?\n Elle a quoi de bizarre, cette déclaration ?!\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Ouais, et alors ?\n Elle a quoi de bizarre, cette déclaration ?!\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Ouais, et alors ?\n Elle a quoi de bizarre, cette déclaration ?!\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Putain, on fait quoi...?!\"",
             "\\.\"Ray, ce connard... Il va le regretter !!\"",
             "\"Mais comment le vérifier...?\"",
@@ -8059,11 +8059,11 @@
             "\"Grrrr !!\n On a vraiment aucun moyen de le tirer de là ?!\"",
             "\"Quelque chose de suffisamment lourd...\n Y a rien sur cette plateforme, si ?!\"",
             "\"Je vois pas pourquoi tu me montres ça, là !\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Ouais, et alors ?\n Elle a quoi de bizarre, cette déclaration ?!\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Ouais, et alors ?\n Elle a quoi de bizarre, cette déclaration ?!\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"On peut plus rien faire d'autre...!\"",
             "\"Putain ! Merde !!\"",
             "\\.\"Je m'en fous...\n Je vais détruire ces écrans et ces murs à la main...!!\"",
@@ -8078,9 +8078,9 @@
         "513-0-message": [
             "\"... Doit forcément avoir moyen de pas se faire empaler.\n J'ai pas raison, Sara ?\"",
             "\"Nan, tu t'es trompée. Ça va aller, Sara.\n Reste calme, garde le rythme.\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Raté, Sara.\n Passe à la suite. On a pas le temps.\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Tu peux le faire, c'est sûr.\n T'es pas d'accord ?\"",
             "\\.\\C[4](Un moyen d'éviter de se faire empaler...\n Peut-être que j'ai besoin d'un objet...?)",
             "\\.\\C[4](Je devrais le montrer à Keiji...!)"
@@ -8089,9 +8089,9 @@
             "\"Mais cette tuile...\n Elle ne ferait pas une bonne protection...\"",
             "\"La tuile !\n Peut-être que si on se place sur la tuile qu'on\n vient d'enlever, on ne se fera pas transpercer...!\"",
             "\"Je... ne suis pas trop !\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Je ne vois pas le rapport...?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Nous devons continuer de chercher quand même !\n Il doit bien y avoir quelque chose...!\"",
             "\\.\\C[4](C'est vrai... Mais elle est sur la bonne ligne.\n Il nous faut un objet, donc peut-être celui qui\n me déroutait depuis tout ce temps...?!)",
             "\"En gros, on se sert de la tuile pour\n amortir la chute !\"",
@@ -8107,21 +8107,21 @@
         "518-0-message": [
             "\"... Reko a cassé le moniteur.\n Votre ami le policier l'a vue aussi.\"",
             "\"Nan, tu t'es trompée. Ça va aller, Sara.\n Reste calme, garde le rythme.\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Raté, Sara.\n Passe à la suite. On a pas le temps.\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"... On a vraiment le temps de parler de ça\n maintenant ?\""
         ],
         "519-0-message": [
             "\"Le moniteur de Monsieur Mishima...?!\n Je me rappelle pas avoir fait ça du tout !!\"",
             "\"Je vois pas pourquoi tu me montres ça, là !\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Puisque je te dis que je m'en souviens pas, Nao !!\"",
             "\\.\"Je dis la vérité !!\"",
             "\\.\\C[4](Leur débat tourne en rond !)",
             "\\.\\C[4](Pour casser ce cycle...\n J'ai besoin du témoignage de quelqu'un d'autre...!)",
             "\"Ouais, et alors ?\n Elle a quoi de bizarre, cette déclaration ?!\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Arrête de mettre des trucs sur le dos des gens !\n T'as pas intérêt à nous pousser en paniquant !\"",
             "\\.\"...\"",
             "\\.\"Le moniteur de Monsieur Mishima...\n ... Ne l'as-tu vraiment pas cassé ?\"",
@@ -8135,15 +8135,15 @@
         "520-0-message": [
             "\"Celle qui a cassé le moniteur de Monsieur Mishima...\n C'est Reko...! Je l'ai vue le faire...!\"",
             "\"Je... ne suis pas trop !\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Je... ne suis pas trop !\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Puisque je te dis que je m'en souviens pas, Nao !!\"",
             "\\.\"Je dis la vérité !!\"",
             "\\.\\C[4](Leur débat tourne en rond !)",
             "\\.\\C[4](Pour casser ce cycle...\n J'ai besoin du témoignage de quelqu'un d'autre...!)",
             "\"..........\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Je ne peux pas faire confiance à Reko,\n à l'heure actuelle...!\"",
             "\\.\\C[4](Pour corroborer les propos de Nao...\n Je devrais demander à quelqu'un de m'en dire plus.)",
             "\"Euuuh... Je l'ai déjà dit.\n ... Respire, Sara.\"",
@@ -8200,18 +8200,18 @@
         "522-0-message": [
             "\"Désolé de t'en informer...\n Mais à ce moment-là, j'étais en train de dormir.\n Tu te souviens...?\"",
             "\"Sara... Pourrais-tu être sérieuse, trente secondes ?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"... Je n'ai rien à ajouter.\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Si tu comptes vraiment sauver Gin...\n Il va falloir faire de ton mieux, Sara.\"",
             "\\.\\C[4](Je le sais bien...!)"
         ],
         "525-0-message": [
             "\"Vu sa manière de parler et son comportement...\n C'était forcément Reko.\n Même sa voix, c'était celle de Reko...\"",
             "\"Nan, tu t'es trompée. Ça va aller, Sara.\n Reste calme, garde le rythme.\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Raté, Sara.\n Passe à la suite. On a pas le temps.\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Pour réussir à avoir exactement la même voix...\n Il faudrait un imitateur vraiment doué.\"",
             "\\.\"Mais je dis pas que c'est impossible...\""
         ],
@@ -8219,13 +8219,13 @@
             "\"Personne n'a accès à ses vêtements...\n Donc personne n'aurait pu s'habiller comme elle !\"",
             "\"... Se pourrait-il que la Reko qui a cassé le moniteur\n était quelqu'un qui se faisait passer pour elle...?\"",
             "\"Ouuh... Ce... Ce n'est... sûrement pas lié...\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Ohh... Hum... Je ne suis pas sûre...\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Ohh... Hum... Je ne suis pas sûre...\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Ohh... Hum... Je ne suis pas sûre...\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Kanna voulait les porter aussi donc elle a demandé,\n mais ça n'a pas marché...\"",
             "\\.\"Elle est sûre que Reko les gardait...\"",
             "\\.\\C[4](Elle voulait les porter...?)",
@@ -8241,46 +8241,46 @@
             "\"Gin s'est déguisé et a cassé le moniteur.\n ... Gin est l'imposteur.\"",
             "\"Ray s'est déguisé et a cassé le moniteur.\n ... Ray est l'imposteur.\n Il aurait eu accès à ses habits, en plus.\"",
             "\"Je n'arrive pas à comprendre ta logique supérieure,\n Sara.\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Je n'arrive pas à comprendre ta logique supérieure,\n Sara.\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Euuuh... Ça ne me dit rien...\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Euuuh... Ça ne me dit rien...\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Euuuh... Ça ne me dit rien...\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"As-tu compris pourquoi ?\n Reko a cassé le moniteur avec son poing.\"",
             "\\.\"Si elle s'est blessée...\n Il devrait encore y avoir sa plaie sur sa main.\"",
             "\\.\"Il doit donc y avoir quelqu'un qui cache sa blessure.\"",
             "\\.\"Que penses-tu de...\"",
             "\"... Keiji n'a pas de manches. Il expose ses muscles.\n Je ne pense vraiment pas qu'il puisse cacher\n de blessure.\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Tu as raison...! En regardant de plus près...\n Ses manches sont tellement longues qu'on\n ne voit que le bout de ses doigts !\"",
             "\\.\"Ce qui veut dire... que Kanna est...!\"",
             "\"Tiens, voilà ma main.\n ... On me dit tout le temps que ce sont les mains\n intactes de quelqu'un qui ne travaille jamais.\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"... Hein ? Regarde de plus près, Sara.\n Nao ne porte pas de gants.\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Avec ces gants de pattes...\n Ouais, Gin pourrait cacher la blessure...!\"",
             "\\.\"Ce qui veut dire... que Gin est...!\"",
             "\"Alice n'a pas l'air de porter de gants.\n ... Mais il a des menottes, j'imagine.\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"... Ray Arranger, la \\C[2]Poupée Mascarade\\C[0]...!\n C'est vrai, il porte des gants !\"",
             "\\.\"Et d'ailleurs, maintenant que j'y pense...\"",
             "\\.\"Même si c'est un gars...\n Il a des formes similaires à celles de Reko.\"",
             "\"Lara Moyante, la Poupée Pleureuse... C'est bien ça ?\n Elle reste tellement de côté que je l'avais oubliée.\n Mais, peu importe. Elle ne porte pas de gants.\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "528-0-message": [
             "\"Je dormais quand le moniteur s'est fait casser !\n C'est vrai !\"",
             "\"En tout cas, c'est pas moi qui aie cassé le moniteur !!\n Je sais rien de tout ça !\"",
             "\"Je vois pas pourquoi tu me montres ça, là !\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Je vois pas pourquoi tu me montres ça, là !\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Ouais, et alors ?\n Elle a quoi de bizarre, cette déclaration ?!\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Putain... Je comprends plus rien !\"",
             "\"Si vous dites qu'il y a un imposteur...\n Bah merde, je veux bien vous croire !\"",
             "\\.\"Dans ce cas, Reko.\n Que faisais-tu quand le moniteur s'est fait casser ?\"",
@@ -8290,13 +8290,13 @@
         "529-0-message": [
             "\"Mais...\n Pourquoi quelqu'un se ferait-il passer pour Reko ?\n Et pourquoi aller parler à Monsieur Mishima ?\"",
             "\"Je... ne suis pas trop !\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Je... ne suis pas trop !\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Je ne vois pas le rapport...?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Je ne vois pas le rapport...?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"C'est lui qui a demandé à être détruit, c'est ça ?\"",
             "\\.\"Ne me dites pas... que l'imposteur comptait\n le détruire depuis le début ?!\"",
             "\\.\"Snif... Monsieur...!\"",
@@ -8307,9 +8307,9 @@
         "534-0-message": [
             "\"Le seul moment où quelqu'un aurait pu prendre\n la place de Reko... C'est quand elle était seule.\n Y a-t-il eu un tel moment ?\"",
             "\"Je n'arrive pas à comprendre ta logique supérieure,\n Sara.\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Euuuh... Ça ne me dit rien...\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Pour qu'une fausse Reko prenne la place de la vraie,\n il aurait fallu qu'elle soit seule à un moment.\"",
             "\"Mais y a-t-il eu vraiment un tel moment ?\"",
             "\\.\\C[4](Je me demande...\n Se pourrait-il que je le sache...?)",
@@ -8323,9 +8323,9 @@
             "\"L'IA de Monsieur Mishima a dû manipuler Nao !\n Après tout...\n C'est les kidnappeurs qui l'ont codée...!\"",
             "\"Nao !\n Me dis pas... que c'est moi que t'accuses...?\"",
             "\"Je vois pas pourquoi tu me montres ça, là !\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Je vois pas pourquoi tu me montres ça, là !\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Je ne me fais absolument pas utiliser...!\n J'exprime mes propres pensées !\"",
             "\"Non, c'est vraiment bizarre !!\n Nao parlerait pas aussi bravement...!\"",
             "\\.\\C[4](Leurs arguments ne sont pas rationnels...!\n Il faut que je cherche auprès des autres !)",
@@ -8333,7 +8333,7 @@
             "\"Ne te moque pas de nous...!\"",
             "\\.\\C[4](Leurs arguments ne sont pas rationnels...!\n Il faut que je cherche auprès des autres !)",
             "\"Ouais, et alors ?\n Elle a quoi de bizarre, cette déclaration ?!\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Crois en moi, Sara...!!\"",
             "\"Tu fais vraiment tout ça juste parce que tu veux\n pas te sacrifier ?!\"",
             "\\.\"Quelle ordure !! C'est pas moi qui aie changé...\n C'est toi, Nao !!\"",
@@ -8344,9 +8344,9 @@
         "536-0-message": [
             "\"Nous n'avons pas le temps d'hésiter !!\n Notre seul moyen de sauver Gin, c'est de\n sacrifier l'imposteur !!\"",
             "\"Je... ne suis pas trop !\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Je... ne suis pas trop !\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Je ne me fais absolument pas utiliser...!\n J'exprime mes propres pensées !\"",
             "\"Non, c'est vraiment bizarre !!\n Nao parlerait pas aussi bravement...!\"",
             "\\.\\C[4](Leurs arguments ne sont pas rationnels...!\n Il faut que je cherche auprès des autres !)",
@@ -8354,7 +8354,7 @@
             "\"Ne te moque pas de nous...!\"",
             "\\.\\C[4](Leurs arguments ne sont pas rationnels...!\n Il faut que je cherche auprès des autres !)",
             "\"Je ne vois pas le rapport...?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Haa... Haa...!\"",
             "\"Je suis consciente que ce que je dis est ridicule !\n Mais...\"",
             "\\.\"Nous n'avons plus de temps !!\n Nous... Nous devons nous dépêcher...!\"",
@@ -8365,11 +8365,11 @@
         "537-0-message": [
             "\"La Reko que vous avez en face de vous est réelle !!\n Si c'était quelqu'un qui se faisait passer pour elle...\n Moi, son frère, je l'aurais remarqué !!\"",
             "\"C'est quoi, ça ?!\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"C'est quoi, ça ?!\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Oui, et donc ?!\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Je comprends...\n Il est difficile de me faire confiance...!\n Mais... Vous devez me croire !! Je vous en supplie !!\"",
             "\"Croyez-moi...!\n Je ne cherche pas à juste la protéger bêtement !\"",
             "\\.\"J'en suis persuadé !!\n C'est la Reko que je connais si bien !!\"",
@@ -8379,11 +8379,11 @@
             "\"Déclaration extraite\"",
             "\"Déclaration initiale\"",
             "\"Mauvais objet !\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Mauvais objet !\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Une remarque futile...\n En quoi cela prouve-t-il quoi que ce soit ?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Voici le dialogue en utilisant Extraire sur\n une nouvelle déclaration.\"",
             "\"Tu souhaites extraire une nouvelle déclaration,\n n'est-ce pas ?\"",
             "\\.\"Quand cette ligne sera finie, ça le feraaaa\"",
@@ -8394,13 +8394,13 @@
             "\"La chose la plus importante de ma vie...?\n C'est vous, bien sûr !! Mes coéquipiers !\n Arrêtez de me faire dire des trucs gênants, OK ?!\"",
             "\"Si ça te perturbe tant que ça...\n Tu saurais prouver que les personnalités\n de la fausse et de la vraie sont différentes ?!\"",
             "\"Ça prouve quoi, ça ?!\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Ça prouve quoi, ça ?!\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Ça prouve quoi, ça ?!\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Ouais, et alors ?\n Elle a quoi de bizarre, cette déclaration ?!\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Putain... Je comprends plus rien !\"",
             "\"Qu'est-ce que t'as ?! Rien à dire, Sara ?!\"",
             "\\.\"J'aimerais te poser une question...!!\"",
@@ -8430,9 +8430,9 @@
             "\"Les IA sont mises à jour fréquemment.\n La mémoire tous les 6 mois, la personnalité\n tous les 3 ans...\"",
             "\"Les vrais humains changent de personnalités\n et se font de nouveaux souvenirs avec le temps.\n Les IA devraient avoir besoin d'être mises à jour...\"",
             "\"Nan, tu t'es trompée. Ça va aller, Sara.\n Reste calme, garde le rythme.\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Raté, Sara.\n Passe à la suite. On a pas le temps.\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Pour la mémoire, elles peuvent être\n synchronisées en à peine un jour.\"",
             "\\.\"Du coup...\n C'est possible que la personnalité soit obsolète\n de 3 ans.\"",
             "\\.\"La Reko... D'il y a 3 ans...?\"",
@@ -8452,9 +8452,9 @@
             "\"Les souvenirs de l'IA de Monsieur Mishima...\n Ont été effacés...\"",
             "\"Je me demande...\n Pourquoi l'IA de Mishima ne se souvenait-elle\n pas de nous...?\"",
             "\"Ouuh... Ce... Ce n'est... sûrement pas lié...\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Ohh... Hum... Je ne suis pas sûre...\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Si les kidnappeurs peuvent modifier la mémoire\n des IA sans aucune restriction, ça veut dire...\"",
             "\\.\"Qu'il serait difficile de dire que cette Reko\n est fausse à partir des différences dans\n ses souvenirs...\"",
             "\"Si cette Reko est une fausse...\n Ne devrait-elle pas ne pas se souvenir de nous,\n tout comme l'IA de Monsieur Mishima ?\"",
@@ -8472,9 +8472,9 @@
             "\"Logiquement, j'imagine que la personnalité des IA\n sont fondées sur celles des vraies personnes,\n c'est ça ?\"",
             "\"Logiquement, j'imagine que la personnalité des IA\n sont fondées sur celles des vraies personnes,\n c'est ça ?\"",
             "\"Je n'arrive pas à comprendre ta logique supérieure,\n Sara.\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Euuuh... Ça ne me dit rien...\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Je me demande de quand datent les personnalités\n sur lesquelles se basent les IA...?\"",
             "\"Si elles peuvent reproduire à la perfection\n la personnalité de la personne originale...\"",
             "\\.\"Ce ne serait même plus de l'imitation.\n Ce serait simplement un clone...\"",
@@ -8492,13 +8492,13 @@
             "\"T'en penses quoi ?! C'était le tube de mes concerts...\n \\rb[Sa,3]\\rb[mu,6-]\\rb[rai,Rai] \\rb[On,ON-]\\rb[na,7] !!\"",
             "\"Je vais vous prouver que je suis humaine, OK ?!\n Je ferai tout ce que vous voudrez !!\n Vous voulez que je fasse quoi ?!\"",
             "\"Ça prouve quoi, ça ?!\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Ça prouve quoi, ça ?!\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Ça prouve quoi, ça ?!\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Ouais, et alors ?\n Elle a quoi de bizarre, cette déclaration ?!\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Dis-moi un truc qu'une machine ou une poupée\n pourrait pas faire !\"",
             "\\.\"Je le ferai les doigts dans le nez !!\n Tu verras, Sara !\"",
             "\\.\"Très bien.\n J'ai une requête pour toi...\"",
@@ -8544,11 +8544,11 @@
         "557-0-message": [
             "\"C'est vrai...\n L'IA de Monsieur Mishima était parfaite...\n Je pouvais vraiment me dire que c'était lui...\"",
             "\"Je... ne suis pas trop !\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Je... ne suis pas trop !\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Je ne vois pas le rapport...?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Mais...\n Il est vrai que je n'ai connu Monsieur Mishima\n que 4 ans.\"",
             "\\.\"Il est possible que je n'ai pas remarqué les\n petites différences entre l'IA et le vrai...\""
         ],
@@ -8556,9 +8556,9 @@
             "\"Même sans l'avoir rencontrée pendant 2 ans et demi...\n Reko reste Reko !\n Impossible que je me trompe !!\"",
             "\"Imiter un être humain à la perfection...\n C'est tout bonnement impossible...!!\n Il doit forcément y avoir une différence !\"",
             "\"Quoi ?! T'as un problème ?!\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Quoi ?! T'as un problème ?!\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"La ferme ! C'est quoi, ça ?!\"",
             "\\.\\C[4](Rien à faire ! Il refuse de m'écouter...!)",
             "\"L'essence même d'une personne... ne change pas !!\"",
@@ -8576,13 +8576,13 @@
             "\"Ça doit forcément être une action !\n Et si on faisait toutes les trois 35,5 pompes !\n T'en penses quoi, Sara ?!\"",
             "\"On devrait trouver ce qui est mesuré !\n Ça devrait nous donner une piste !\n Une personne, un objet, une action...?\"",
             "\"Je vois pas pourquoi tu me montres ça, là !\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Ouais, et alors ?\n Elle a quoi de bizarre, cette déclaration ?!\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Ouais, et alors ?\n Elle a quoi de bizarre, cette déclaration ?!\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Ouais, et alors ?\n Elle a quoi de bizarre, cette déclaration ?!\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Y a un problème ? Tu penses qu'on s'est trompées ?\"",
             "\\.\"Hé, Sara.\n Tu penses qu'il mesure quoi, ce nombre ?\n Une personne, un objet ou une action ?\"",
             "\\.\\C[4](Le plus logique, ce serait...)",
@@ -8626,13 +8626,13 @@
             "\"L'affichage de droite montre \"Restant 35,5.\"\n Ça doit être le chronomètre pour le dard.\"",
             "\"C'est bien beau tout ça, mais...\n À part regarder, on peut rien faire d'autre...!\"",
             "\"Je vois pas pourquoi tu me montres ça, là !\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Ouais, et alors ?\n Elle a quoi de bizarre, cette déclaration ?!\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Ouais, et alors ?\n Elle a quoi de bizarre, cette déclaration ?!\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Ouais, et alors ?\n Elle a quoi de bizarre, cette déclaration ?!\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Merde !\n Faut qu'on trouve quelque chose avant que\n le compteur tombe à 0...!\"",
             "\"T'as pas une idée en tête ?!\"",
             "\\.\"Que pourrait-on bien faire...?\"",
@@ -8653,75 +8653,75 @@
         "652-0-message": [
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "654-0-message": [
             null,
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "655-0-message": [
             null,
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "656-0-message": [
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "657-0-message": [
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "658-0-message": [
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "663-0-message": [
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "665-0-message": [
             null,
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "669-0-message": [
             "\"On devrait garder quelqu'un avec plein de jetons.\n ... Genre Q-taro.\"",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "671-0-message": [
             "\"On devrait pas voter pour Gin ou Kanna...\n C'vraiment pas louable d'sacrifier un gamin...\"",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
             null,
             null,
@@ -8730,39 +8730,39 @@
         "672-0-message": [
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "674-0-message": [
             null,
             "\"Et si on gardait Gin, étant donné qu'il n'a\n aucun jeton ?!\"",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "675-0-message": [
             "\"Je pense qu'on devrait garder grande sœur Sara, miaou !\n Parce qu'elle est super astucieuse, ouaf !\"",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "676-0-message": [
             "\"... Sou devrait être mis de côté.\n Il a dit être le \\C[10]Sacrifice\\C[0] au début de ce débat...\"",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "697-0-message": [
             "\"Mauvais objet !\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Mauvais objet !\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Une remarque futile...\n En quoi cela prouve-t-il quoi que ce soit ?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Voici le dialogue en utilisant Extraire sur\n une nouvelle déclaration.\"",
             "\"Tu souhaites extraire une nouvelle déclaration,\n n'est-ce pas ?\"",
             "\\.\"Quand cette ligne sera finie, ça le feraaaa\"",
@@ -8771,18 +8771,18 @@
         "717-0-message": [
             "\"Y a eu qu'quatre échanges en tout !\n C'pas tant que ça !\"",
             "\"C'censé prouver quoi, ça, hein ?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"C'réfute rien, ça !\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Honnêtement...\n Tout est pas clair dans ma tête.\"",
             "\\.\"Heureusement qu'on nous a donné plus d'temps\n pour démêler tout ça...\""
         ],
         "719-0-message": [
             "\"Échanger des cartes, ça demandait 50 jetons !\n Y a pas beaucoup de gens qui pouvait en faire !\"",
             "\"Rgh... C'est quoi, ça ?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Je fais que dire la vérité, non ?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Sur le classement des jetons, si je me souviens bien...\n Q-taro était le premier et Gin était le dernier.\"",
             "\\.\"Moi, toi et Nao, nous étions en dernier, c'est ça...?\"",
             "\\.\"Je crois pas qu'on avait assez de jetons\n pour faire d'échange...\""
@@ -8790,280 +8790,280 @@
         "720-0-message": [
             "\"Échanger des cartes requiert 50 jetons.\n Tout le monde n'était pas capable d'en effectuer !\"",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "723-0-message": [
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "724-0-message": [
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "726-0-message": [
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "728-0-message": [
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "730-0-message": [
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "741-0-message": [
             null,
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "743-0-message": [
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "744-0-message": [
             null,
             null,
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "749-0-message": [
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "750-0-message": [
             null,
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "751-0-message": [
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "752-0-message": [
             null,
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "753-0-message": [
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "754-0-message": [
             null,
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "755-0-message": [
             null,
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "759-0-message": [
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "760-0-message": [
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "761-0-message": [
             null,
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "762-0-message": [
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "765-0-message": [
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "766-0-message": [
             null,
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "768-0-message": [
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "769-0-message": [
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "770-0-message": [
             null,
             "\"...?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "772-0-message": [
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Une remarque futile...\n En quoi cela prouve-t-il quoi que ce soit ?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "775-0-message": [
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "778-0-message": [
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "779-0-message": [
             null,
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "780-0-message": [
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "781-0-message": [
             null,
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "782-0-message": [
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "783-0-message": [
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "788-0-message": [
             null,
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "789-0-message": [
             null,
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "792-0-message": [
             null,
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Une remarque futile...\n En quoi cela prouve-t-il quoi que ce soit ?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "795-0-message": [
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "796-0-message": [
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
             null,
             null,
@@ -9072,179 +9072,179 @@
         "797-0-message": [
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "798-0-message": [
             null,
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "799-0-message": [
             null,
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "800-0-message": [
             null,
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "803-0-message": [
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "804-0-message": [
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "805-0-message": [
             null,
             "\"J'en veux pas ! Reprend-le !\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "806-0-message": [
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "807-0-message": [
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "809-0-message": [
             "\"...?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "817-0-message": [
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "818-0-message": [
             null,
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "819-0-message": [
             null,
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "820-0-message": [
             null,
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "821-0-message": [
             null,
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "822-0-message": [
             null,
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "823-0-message": [
             null,
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "824-0-message": [
             null,
             null,
             "\"Mauvais objet !\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Une remarque futile...\n En quoi cela prouve-t-il quoi que ce soit ?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "983-0-message": [
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "984-0-message": [
             null,
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "986-0-message": [
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Une remarque futile...\n En quoi cela prouve-t-il quoi que ce soit ?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "988-0-message": [
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "993-0-message": [
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "998-0-message": [
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
             null,
             "\\.\"..........\""
@@ -9252,9 +9252,9 @@
         "208-0-message": [
             "\"L'intérieur de la boîte s'est téléporté, miaou !\n G-Genre, comme un transfert dimensionnel, ouaf !\"",
             "\"...?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"... miaou ?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"On doit être dans un manoir super high-tech, miaou !\"",
             "\\.\"Gin...\"",
             "\\.\"Grande sœur Nao est pas une\n mauvaise personne, miaou !!\n Fais quelque chose, ouaf...\""
@@ -9263,9 +9263,9 @@
             "\"Sara et Joe sont aussi du côté des kidnappeurs.\"",
             "\"L'un des emails sur l'ordinateur de Kai disait\n \"Comme prévu, 17 personnes ont été saisies.\"\"",
             "\"...?\n Sans commentaire, Sara.\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Ahahah, euh... C'est censé contrer quoi que ce soit ?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"C'est ce que j'ai compris des emails.\"",
             "\\.Comme prévu, 17 personnes ont été saisies.\nJuste au cas où, il n'y a pas d'erreur quant à la\ndate du jeu de la \\C[2]Démocratie Mortelle\\C[0], n'est-ce pas ?\n\nTout se passe sans encombres.",
             "\\.Je suis aussi profondément attaché à Mademoiselle Sara.\nJe la protégerai coûte que coûte.\n\nJe suis prêt à consacrer ma vie aux Chidouins.",
@@ -9299,7 +9299,7 @@
         "242-0-message": [
             "\"Si tu veux revoir les règles, demande-moi.\"",
             "\"Sara, c'est pas vraiment le moment de me filer ça.\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Hm... Tu devrais penser à bien respirer, Sara.\"",
             "\\.\"Ça va aller, tu peux t'en sortir.\n Faut juste que tu gardes ton calme.\"",
             "\\.\\C[4](Oui...!)",
@@ -9313,16 +9313,16 @@
         "258-0-message": [
             "\"Ghh...! Ça me gêne de l'admettre, mais puisque Sou\n et Sara peuvent être le \\C[2]Maître des Clés\\C[0],\n nous ne devrions pas voter pour eux...!\"",
             "\"Allons, allons...\n Ce n'est pas moi que tu devrais attaquer, correct ?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Une remarque futile...\n En quoi cela prouve-t-il quoi que ce soit ?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Mais... Quel choix est le plus sûr, alors...?!\""
         ],
         "476-0-message": [
             "\"Et si la Salle des Impressions... servait à\n nous punir ?!\"",
             "\"Du poids... Du poids...\n Diminuer... ou augmenter de 35,5 kilogrammes...?\"",
             "\"H-Hum, je pense que nous devrions plutôt discuter !\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"H-Hum...\"",
             "\\.\\C[4](Non...! Elle hésite...!)",
             "\"H-Hum...\"",
@@ -9358,7 +9358,7 @@
             "\"L'une d'entre nous... doit se jeter dedans...\"",
             "\"..........\"",
             "\"H-Hum, je pense que nous devrions plutôt discuter !\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"H-Hum...\"",
             "\\.\\C[4](Non...! Elle hésite...!)",
             "\"H-Hum...\"",
@@ -9379,9 +9379,9 @@
             "\"Épargnez-moi les trucs gores, s'il vous plaît...\n Je supporte pas ça...\"",
             "\"M-Me dis pas qu'on va devoir se démembrer...?!\n Ouuuh...\n Je peux pas faire quelque chose d'aussi dégoutant !!\"",
             "\"Je vois pas pourquoi tu me montres ça, là !\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Ouais, et alors ?\n Elle a quoi de bizarre, cette déclaration ?!\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Ouuuh... Je commence à être malade...\"",
             "\"Si on a pas à \"mourir\", c'est que c'est ça, nan ?!\n Genre... on rassemble tous nos membres...\"",
             "\\.\"...\"",
@@ -9399,18 +9399,18 @@
         "521-0-message": [
             "\"K-Kanna ne sait rien !\n C'est la vérité, Sara...!\"",
             "\"Sara, s'il te plaît !\n Pendant que tu te préoccupes de Kanna...\n L'horloge tourne !\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Sara ! Kanna est vraiment si suspicieuse que ça ?!\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Quand le moniteur s'est fait casser...\n Kanna était ailleurs avec Sou...\"",
             "\\.\\C[4](Je ne pense pas qu'elle soit en train de mentir...)"
         ],
         "532-0-message": [
             "\"... Et y a un autre gros problème.\n Quelle est la véritable identité de l'imposteur...?\"",
             "\"Nan, tu t'es trompée. Ça va aller, Sara.\n Reste calme, garde le rythme.\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Raté, Sara.\n Passe à la suite. On a pas le temps.\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Bien sûr, nous, on est tous là...\n Et Ray et Lara sont présents aussi.\"",
             "\\.\"La véritable identité de l'imposteur...\n Se serait quelqu'un qu'on connaît pas ?\""
         ],
@@ -9418,9 +9418,9 @@
             "\"Pendant une courte période de temps, porter le\n même maquillage que Reko permettrait de lui\n ressembler suffisamment...\"",
             "\"Si cette Reko est une fausse...\n Alors quand est-ce qu'elle s'est fait échanger\n avec la vraie...?\"",
             "\"Ouuh... Ce... Ce n'est... sûrement pas lié...\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Ohh... Hum... Je ne suis pas sûre...\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Faire une imitation parfaite...\n Ce serait difficile sans photo, mais...\"",
             "\\.\"Il y avait des photographies de nous tous au dos\n des écrans de la Salle de Contrôle, donc...\"",
             "\"Si c'était pour pas très longtemps...\n Elle ne se serait peut-être pas faite remarquer.\"",
@@ -9436,7 +9436,7 @@
             "\"Peut-être que si on versait 35,5 litres de sang,\n ça sauverait Gin...?\"",
             "\"Ce qui est cardinal, c'est l'unité de mesure...!\n La taille, le poids, le volume...\n Si on connaît l'unité, on devrait pouvoir résoudre\n l'énigme...!\"\"",
             "\"H-Hum, je pense que nous devrions plutôt discuter !\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"H-Hum...\"",
             "\\.\\C[4](Non...! Elle hésite...!)",
             "\"H-Hum...\"",
@@ -9476,16 +9476,16 @@
         "614-0-message": [
             "\"Allez, les gars... J'vous en supplie...!!\n Faites quelque chose !! Z'avez pas une idée...?!\"",
             "\"D-Déso...! J'écoutais pas !\n J'suis pas trop en position d'parler, là !!\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"C-C'quoi, cette idée ?!\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Vous devez l'aider...!!\n Gin...! Gin...!!\""
         ],
         "616-0-message": [
             "\"Dans ce cas, l'affichage de gauche doit être\n le chronomètre.\n Il n'arrête pas de descendre...\"",
             "\"Il faut \\C[2]réfléchir\\C[0]... N'est-ce pas, Sara ?!\"",
             "\"H-Hum, je pense que nous devrions plutôt discuter !\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"H-Hum...\"",
             "\\.\\C[4](Non...! Elle hésite...!)",
             "\"H-Hum...\"",
@@ -9509,66 +9509,66 @@
             null,
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "659-0-message": [
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Une remarque futile...\n En quoi cela prouve-t-il quoi que ce soit ?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "662-0-message": [
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "664-0-message": [
             null,
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "666-0-message": [
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "670-0-message": [
             "\"Je serais vraiment contente si nous gardions Sara...\n Il fallait que je le dise.\"",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "673-0-message": [
             "\"Sou devrait être mis de côté...\n Genre, il avait pas dit qu'il était le \\C[10]Sacrifice\\C[0]\n dès le départ ?\"",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "678-0-message": [
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "718-0-message": [
             "\"Aucun des cinq échanges me comprenait, miaou !\"",
             "\"Juste pour info...\n Je suis resté Roturier tout du long, miaou !\n J'ai jamais eu d'échanges, miaou !\"",
             "\"Je suis pas trop, miaou.\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Tu veux en venir où, miaou ?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Je promets, je suis Roturier, miaou !\"",
             "\"Mon cœur se mettait toujours à battre super fort, à\n me demander si j'allais recevoir une mauvaise carte,\n miaou.\"",
             "\\.\"Mais au final, mon rôle a pas changé du tout, ouaf.\"",
@@ -9577,90 +9577,90 @@
         "725-0-message": [
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "740-0-message": [
             null,
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "742-0-message": [
             null,
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "745-0-message": [
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "758-0-message": [
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "767-0-message": [
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "771-0-message": [
             null,
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "784-0-message": [
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Une remarque futile...\n En quoi cela prouve-t-il quoi que ce soit ?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "787-0-message": [
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "790-0-message": [
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "791-0-message": [
             null,
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "985-0-message": [
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "992-0-message": [
             null,
@@ -9668,7 +9668,7 @@
             null,
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
             null,
             null,
@@ -9682,40 +9682,40 @@
             null,
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "996-0-message": [
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "997-0-message": [
             null,
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "1616-0-message": [
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "1665-0-message": [
             null,
             null,
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "1676-0-message": [
             null,
             null,
             null,
-            "\\.\\C[4](Mince...! C'était une erreur !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "33-0-message": [
             null,
@@ -9784,7 +9784,7 @@
         "165-0-message": [
             "\"Sara a quasi jamais été seule.\n Du coup, elle a rien pu faire de suspect, non ?\"",
             "\"T'as un cadeau pour Monsieur le Policier ?\n Merci.\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Hm...?\n Quelque chose à signaler au policier ?\"",
             "\\.\"Ah... et bien, pas vraiment...\"",
             "\\.\"... Respire, Sara.\n Hahaha...\"",
@@ -9796,7 +9796,7 @@
             "\"Si elle a pas lâché la boîte une seule seconde...\n Comment ça se fait qu'elle était vide ?\"",
             "\"... Bon, bah...\n Va falloir arrêter de tourner autour du pot, Sara.\"",
             "\"T'as un cadeau pour Monsieur le Policier ?\n Merci.\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Hé là, doucement, l'amie...\"",
             "\\.\"Tu vois de quoi je veux parler...?\"",
             "\\.\\C[4](Je devrais d'abord voir ça avec lui...)",
@@ -9812,7 +9812,7 @@
         "201-0-message": [
             "\"Du début jusqu'à la fin... Je suis restée assise en\n tenant Mons-... La boîte dans mes bras !\n Je n'ai pas bougé de là !!\"",
             "\"Euh... Où veux-tu en venir...?\"",
-            "\\.\\C[4](Mince...! C'était une erreur !)",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"De quoi... parlez-vous...?\"",
             "\\.\\C[4](Je devrais d'abord en parler avec Keiji...)",
             "\"De quoi... parlez-vous...?\"",
@@ -16710,21 +16710,62 @@
             "\\.\\C[4](Ça fait 5 minutes qu'il est comme ça.\n Qu'est-ce que je devrais faire...?)"
         ],
         "981-0-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\"...\""
+            "\"Tout d'abord...\n On devrait commencer par choisir quatre candidats.\n Qui devrait rester en vie, et qui devrait mourir...\"",
+            "\"Tout le monde est prêt, on dirait.\n Dacodac.\"",
+            "\\.\"Une minute, Keiji !\n La dernière fois, il y avait pas eu\n \\C[2]d'échanges de rôles\\C[0] !\"",
+            "\\.\"Si on y réfléchit, logiquement,\n on devrait pouvoir deviner qui est le \\C[10]Sacrifice\\C[0] et\n qui est le \\C[2]Maître des Clés\\C[0] sans devoir remettre\n tout le monde en question !\"",
+            "\\.\"... Que si tout le monde est honnête.\"",
+            "\\.\"Pourquoi ils mentiraient...?\"",
+            "\\.\"Bah, à minima, le \\C[10]Sacrifice\\C[0] a bien une raison\n de mentir, non ?\"",
+            "\\.\"Donc pour l'instant, on peut juste commencer\n par choisir quatre candidats.\"",
+            "\\.\"Exactement.\n Ceux qui ne sont pas retenus en tant que candidats\n ne risquent rien, ils n'auraient donc aucune raison\n de mentir.\"",
+            "\\.\"Ouaip.\n En plus, si on se met à chercher les rôles\n des uns et des autres...\"",
+            "\\.\"Le vote... va être juste infernal...\"",
+            "\\.\"...!!\"",
+            "\\.\"Tout le monde s'accusera les uns les autres.\n « Lui, il devrait mourir !»,\n « Elle, elle devrait mourir ! »...\"",
+            "\\.\"Ce seront des disputes impitoyables, et à la fin,\n il restera plus rien des liens qui nous unissaient\n auparavant.\"",
+            "\\.\"...\"",
+            "\\.\"C'est bon, c'est bon, j'ai compris !!\n T'as raison, Keiji...\"",
+            "\\.\"Dans ce cas, je vais pas perdre une seule minute...!\n Sou !! Pour moi, t'es le plus louche du groupe !!\"",
+            "\\.\"Hein...?\"",
+            "\\.\"Attends, Reko !\n Sou nous a énormément aidé lors de notre évasion...!\"",
+            "\\.\"Je le sais bien !\n Mais si je vote pas pour lui, je vote pour qui...?\"",
+            "\\.\"Quoi...?\"",
+            "\\.\"Je peux pas voter pour quelqu'un d'autre !\n Si je dois voter, je vote pour Sou...!\"",
+            "\\.\"C'est ce que mon cœur me dit de faire !\n Alors Sou !\n Réveille-toi, sois honnête, et prouve-nous\n qu'on peut te faire confiance !\"",
+            "\\.\"Je ne dois juste pas pouvoir m'entendre\n avec les personnes émotionnelles.\"",
+            "\\.\"La ferme !\n Allez, dis ce que tu-\"",
+            "\\.\"Ça me va.\n Je veux bien être le premier candidat.\"",
+            "\\.\"Quoi ?!\"",
+            "\\.\"Après tout, je suis...\"",
+            "\\.\"... le \\C[10]Sacrifice\\C[0].\"",
+            "\\.\"H-Heiiiiiiiin ?!\n Tu nous écoutes pas, ou quoi ?!\n C'est pas le moment de donner ton rôle...\"",
+            "\\.\"Hmpf...\n Serais-tu un imbécile...\n Keiji Shinogi ?\"",
+            "\\.\"Aurais-tu déjà oublié que le premier Jeu Principal\n ne comprenait pas d'\\C[2]échanges\\C[0] ?\"",
+            "\\.\"Épargnons-nous toute méfiance gratuite.\n Servons-nous de ça pour identifier le \\C[10]Sacrifice\\C[0]\n et le \\C[2]Maître des Clés\\C[0].\"",
+            "\\.\"... Que si tout le monde est honnête.\"",
+            "\\.\"Pour quelqu'un qui parle autant de confiance,\n ne te trouves-tu pas plutôt méfiant...?\"",
+            "\\.\"Bah, à minima, le \\C[10]Sacrifice\\C[0] a bien une raison\n de mentir, non ?\"",
+            "\\.\"Donc pour l'instant, on peut juste commencer\n par choisir quatre candidats.\"",
+            "\\.\"Exactement.\n Ceux qui ne sont pas retenus en tant que candidats\n ne risquent rien, ils n'auraient donc aucune raison\n de mentir.\"",
+            "\\.\"Ouaip.\n En plus, si on se met à chercher les rôles\n des uns et des autres...\"",
+            "\\.\"Le vote... va être juste infernal...\"",
+            "\\.\"...!\"",
+            "\\.\"Tout le monde s'accusera les uns les autres.\n « Lui, il devrait mourir !»,\n « Elle, elle devrait mourir ! »...\"",
+            "\\.\"Ce seront des disputes impitoyables, et à la fin,\n il restera plus rien des liens qui nous unissaient\n auparavant.\"",
+            "\\.\"...\"",
+            "\\.\"... Je comprends.\"",
+            "\\.\"Très bien.\n Si c'est pour protéger vos pitoyables liens,\n j'imagine que je n'ai pas le choix de suivre\n ce raisonnement.\"",
+            "\\.\"C'est pourquoi, je me permets de dire que...\n Sou Hiyori !!\n Tu es le plus suspect d'entre nous !!\"",
+            "\\.\"Hein...?\"",
+            "\\.\"Une minute, s'il te plaît !\n Sou nous a énormément aidé lors de notre évasion...!\"",
+            "\\.\"... Mais ça ne change en rien le fait qu'on\n ne peut pas lui faire confiance.\"",
+            "\\.\"Rien n'est clair dans son histoire !\n Tant que tu ne nous donnes pas tes réelles\n intentions, je continuerai de-\"",
+            "\\.\"OK, ça me va.\n Je veux bien être le premier candidat.\"",
+            "\\.\"... Euh... Quoi...?\"",
+            "\\.\"Après tout, je suis...\"",
+            "\\.\"... le \\C[10]Sacrifice\\C[0].\"",
+            "\\.\"Qu'est-ce que tu fabriques ?!\n T'as écouté ce qu'on a dit ?!\n On vient d'expliquer qu'on passera nos rôles\n en revue après...!\""
         ],
         "385-0-message": [
             "\"H-Hum, Sara...\n Ce n'est pas pour un échange, mais...\n Est-ce qu'on peut discuter...?\"",
@@ -32581,7 +32622,7 @@
     "map156": {
         "2-1-message": [
             "\\C[3]L'atmosphère est vraiment écrasante.",
-            "\\.\\C[4](Il reprend encore...\n Ce jeu atroce...)",
+            "\\.\\C[4](Il reprend à nouveau...\n Ce jeu atroce...)",
             "\\.\"...\"",
             "\\.\"...\n ...\n ...\"",
             "\\.\"...\n ...\n ...\"",
