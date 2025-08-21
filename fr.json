@@ -20507,6 +20507,18 @@
             "\\.\"...\n ...\n ...\"",
             "\\.\"Elle flanchera pas...\n On y reviendra plus tard, Sara.\"",
             "\\.\"... Bon, d'accord...\""
+        ],
+        "786-0-message": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.\"Gashu, tu m'entends ?!\n T'es vraiment allé trop loin...\n T'as tout foutu en l'air...!\"",
+            "\\.\"T'as enfreint les règles...!!\n Ton énorme transgression fait chavirer les\n fondations mêmes du Jeu Principal !!\""
         ]
     },
     "map107": {
@@ -32496,23 +32508,23 @@
     },
     "map155": {
         "2-1-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\"...\n ...\n ...\"",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\C[3]Devant moi se trouvent d'étranges tables\nà l'air familier.",
+            "\"... T'es là.\"",
+            "\\.\"Tu es en avance, Keiji...\"",
+            "\"C'était quoi, le truc de tout à l'heure, miaou...?\"",
+            "\"Gashu !\n C'est quoi ce bordel ?!\n Explique-toi !!\"",
+            "\"Hé ! Gashu !\n Je mérite une explication !\"",
+            "\"Quelque chose me dit que ça ne va pas être\n un Jeu Principal comme les autres...\"",
+            "\"Ça recommence... encore...\"",
+            "\"...\n ...\n ...\"",
+            "\"Ma parole, en voilà de l'animation.\"",
+            "\"M'avez-vous requéris ?\"",
+            "\\.\"Toi, là...!\n C'est quoi la transgression dont Rillante parlait ?!\"",
+            "\\.\"Vous, là...\n Quelle est la transgression dont Rillante parlait ?!\"",
+            "\\.\"Quelle transgression ?\n Je ne vois pas de quoi vous parlez.\"",
+            "\\.\"Ne me dis pas que c'est à propos de\n mon porte-monnaie...!\"",
+            "\\.\"...?\"",
+            "\\.\\C[4](Hm...?\n Vu sa réaction, on ne dirait pas...)",
             null,
             null,
             null,
@@ -32981,7 +32993,7 @@
             "\"Ce doit mener aux autres étages...\"",
             "\\.\"Ce sont sûrement les escaliers que prennent\n les gagnants...\"",
             "\\.\"Ils ont dû faire en sorte à ce que ces escaliers ne\n soient débloqués que quand la Démocratie Mortelle\n est terminée.\"",
-            "\\.\"Bahaha...\n Je sais pas si c'est une bonne chose,\n mais ça me rassure.\"",
+            "\\.\"Bahaha...\n Je sais pas si c'est une bonne chose ou non,\n mais ça me rassure.\"",
             "\\.\"Ça voudrait dire qu'une sortie existe...\"",
             "\\.\\C[3]Une sortie...",
             "\\.\\C[3]S'il y a bien une sortie comme Sou l'affirme...",
@@ -33058,7 +33070,7 @@
             "\\.\"Quoi ?!\n Pourquoi hésites-tu quand c'est moi ?!\"",
             "\\.\"Et toi, Sou...?\"",
             "\\.\"Hm...?\"",
-            "\\.\"Hum... J'irai peut-être voir un film...?\"",
+            "\\.\"Hum... J'irai peut-être... voir un film...?\"",
             "\\.\"Oh ! Génial !\n Kanna veut t'accompagner !\"",
             "\\.\"... Hé, le flic.\n Ne les rejoins-tu pas ?\"",
             "\\.\"... Ça pourrait être cool.\"",
@@ -33092,12 +33104,12 @@
             "\\.\"Peut-être la sortie...?\"",
             "\\.\\C[4](C'est... une salle japonaise traditionnelle...)",
             "\\.\"D'après la carte de l'étage, nous nous trouvons...\"",
-            "\\.\"La Chambre des Victorieux.\"",
+            "\\.\"À la Chambre des Victorieux.\"",
             "\\.\\C[4](La Chambre des Victorieux...)"
         ],
         "2-3-message": [
             "\"Grande sœur Sara !\"",
-            "\"J'ai fait des recherches, miaou !\"",
+            "\"J'ai fait mon enquête, miaou !\"",
             "\\.\"Gin...\"",
             "\\.\"Tu as trouvé quelque chose...?\"",
             "\\.\"Y avait pas de sortie ou de truc du genre...\"",
@@ -33110,7 +33122,7 @@
             "\\.\"Qu'est-ce qu'il y a dessus, exactement...?\"",
             "\"Miaouuu ?! Ce son !!\"",
             "\\.\"Un échange de cartes ?!\"",
-            "\\.\\C[4](M-Minute ! J'ai le \\C[10]Sacrifice\\C[4], c'est ça ?)",
+            "\\.\\C[4](A-Attends ! J'ai le \\C[10]Sacrifice\\C[4], non ?)",
             "\\C[4](Que peut bien signifier cet échange...?!)",
             "\\.\\C[4](Hein ?!)",
             "\\C[4](Quoi...?)",
@@ -33132,7 +33144,7 @@
             "\"H-Hé ! Y a vraiment pas moyen d'le sauver ?!\"",
             "\"Hrmm...\n Avec une telle hémorragie, je crains qu'il n'y ait\n plus rien à faire...\"",
             "\\.\"...\n ...\n ...\"",
-            "\"Nooon...!! Tu ne peux pas... Réponds, pitié !!\"",
+            "\"Nooon...!! Tu ne peux pas... Réponds-nous, pitié !!\"",
             "\"Argh...\"",
             "\\.\\C[4](...\n ...\n ...)",
             "\\.\\C[4](C'est... une sorte de rêve, que je viens d'avoir ?)",
@@ -33173,7 +33185,7 @@
             "\\.\"Nao...\"",
             "\\.\"Je n'ai... même plus... la force de bouger.\"",
             "\\.\"Si j'avais su...\n J'aurais préféré ne pas garder espoir...\"",
-            "\\C[4](Je n'arrive pas à trouver les bons mots,\n dans cette situation...)"
+            "\\C[4](Je n'arrive pas à trouver les bons mots, là...)"
         ],
         "2-1-choice": [
             "Bien sûr\nOn ne devrait pas",
@@ -35679,18 +35691,18 @@
             "\\.\"En revanche...\n S'il n'est pas sélectionné, il meurt.\n Il s'agit donc d'un funeste rôle à double tranchant.\"",
             "\\.\"Mais en contrepartie, le \\C[10]Sacrifice\\C[0] peut voter\n deux fois...\"",
             "\\.\"Et s'il remporte la victoire,\n il peut s'échapper avec une personne de son choix.\"",
-            "\\.\"Et d'ailleurs, en cas d'égalité...\"",
-            "\\.\"Le \\C[10]Sacrifice\\C[0] a la priorité et gagne.\n Il en va de même avec le \\C[2]Maître des Clés\\C[0],\n ce qui signifie que tout le monde mourrait.\"",
-            "\\.\"Dans la situation où le \\C[10]Sacrifice\\C[0] et le\n \\C[2]Maître des Clés\\C[0] sont tous deux à égalité...\n Le \\C[2]Maitre des Clés\\C[0] a la priorité absolue,\n entraînant la mort de tous.\"",
+            "\\.\"Et d'ailleurs, en cas d'égalité entre\n \\C[10]Sacrifice\\C[0] ou \\C[2]Maître des Clés\\C[0] et \\C[5]Roturiers\\C[0]...\"",
+            "\\.\"Le \\C[10]Sacrifice\\C[0] et le \\C[2]Maître des Clés\\C[0] ont la priorité.\n Cela signifie que le premier gagnerait,\n et le second entraînerait la mort de tous.\"",
+            "\\.\"Dans la situation où le \\C[10]Sacrifice\\C[0] et le\n \\C[2]Maître des Clés\\C[0] sont tous deux à égalité...\n Le \\C[2]Maitre des Clés\\C[0] a la priorité absolue,\n emportant tout le monde dans sa chute.\"",
             "\\.\"Les rôles sont distribués comme tels :\n Un \\C[2]Maître des Clés\\C[0], un \\C[3]Sage\\C[0], et un \\C[10]Sacrifice\\C[0].\n Tous les autres sont des \\C[5]Roturiers\\C[0].\"",
-            "\\.\"Je vous souhaite bonne chance...\n Et puissiez-vous éviter l'annihilation à tout prix.\"",
+            "\\.\"Je vous souhaite bonne chance...\n Puissiez-vous éviter l'annihilation à tout prix.\"",
             "\\.\\C[4](Pas besoin de nous le rappeler...)",
             "\\.\"À présent, je vous prie de bien vouloir attendre\n que le jeu comm-\"",
             "\\C[4](Quoi...?)",
             "\\{\"Hé ! Gashu !!\"",
             "\\.\\C[4](Rillante ?!)",
             "\\.\"Gashu, tu m'entends ?!\n T'es vraiment allé trop loin...\n T'as tout foutu en l'air...!\"",
-            "\\.\"T'as enfreint les règles...!!\n Ton énorme transgression renverse les\n fondations mêmes du Jeu Principal !!\"",
+            "\\.\"T'as enfreint les règles...!!\n Ton énorme transgression fait chavirer les\n fondations mêmes du Jeu Principal !!\"",
             "\\.\"T'essaie de t'approprier le Jeu Principal ou qu-\"",
             "\"... Veuillez m'excuser pour ce dysfonctionnement.\"",
             "\\.\"Le Jeu Principal va à présent débuter.\n Veuillez vous y présenter.\"",
@@ -35726,10 +35738,10 @@
             "\\.\"Je vous exprime à nouveau mes plus sincères\n remerciements pour prendre part au \\C[2]Jeu Principal\\C[0].\"",
             "\\.\"Je ne rentrerai pas dans les détails,\n mais je me dois de prévenir l'un de vous...\"",
             "\\.\"Il semblerait que quelqu'un parmi vous\n ait perdu sa tablette.\"",
-            "\\.\"Puisque vos tablettes requiert vos empreintes digitales\n pour être déverrouillées, personne n'a pu s'en servir.\n Toutefois...\"",
-            "\\.\"Pour éviter tout désavantage et garantir l'équité\n du jeu, une autre tablette vous a été fournie et\n placée sur votre table.\"",
+            "\\.\"Puisque celles-ci requièrent vos empreintes digitales\n pour être déverrouillées, personne n'a pu s'en servir.\n Toutefois...\"",
+            "\\.\"Pour éviter tout désavantage et garantir l'équité\n entre joueurs, une autre tablette vous a été fournie\n et placée sur votre table.\"",
             "\\.\"Je prie à la personne en question de la consulter.\"",
-            "\\.\"Voilà qui conclut la fin de cette parenthèse.\n Touchez l'écran lorsque vous souhaiterez passer\n à la revue des règles.\"",
+            "\\.\"Voilà qui conclut la fin de cette parenthèse.\n Touchez l'écran lorsque vous souhaitez passer\n à la revue des règles.\"",
             "\\C[4](Il commence... Le deuxième Jeu Principal...)"
         ],
         "1-4-message": [
@@ -35972,7 +35984,7 @@
             "\\.\"J'ai pas signé pour ces conneries, moi...!!!!\"",
             "\\.\"C'est une blague...!! C'est quoi ce bordel ?!\"",
             "\\.\"On... peut pas rentrer à la maison... miaou...?\"",
-            "\\.\"Impossible...!! Ça peut pas être... vrai !!\"",
+            "\\.\"Impossible...!! C'est pas... vrai !!\"",
             "\"C'est la vérité.\"",
             "\"... La vérité que vous avez poursuivie.\"",
             "\\.\"Nous l'avons scellée à l'aide d'une explosion externe.\n\\! Et ce, bien avant le début de la Démocratie\n Mortelle...\"",
@@ -35989,19 +36001,19 @@
             "\\.\"BORDEL DE MERDE !!\n À quoi vous jouez, à la fin ?!\"",
             "\\.\"...\n ...\n ...\"",
             "\\.\"Espèce de sale...!!\"",
-            "\\.\"... Héhém. Cette fois-ci, j'ai ceci.\"",
+            "\\.\"... Héhém. Cette fois-ci, j'ai ceci en ma possession.\"",
             "\\.\"...!!\"",
-            "\\.\"Veuillez pardonner mon indécence.\n Je ne souhaite pas requérir à la violence.\"",
+            "\\.\"Veuillez pardonner mon indécence.\n Je ne souhaite pas recourir à la violence.\"",
             "\\.\"Allons, vous autres.\n Il est temps pour vous de vous réveiller de ce rêve.\"",
-            "\\.\"Vous devez être victorieux...!\n Le chemin ne s'ouvrira au vainqueur et\n à personne d'autre !!\"",
+            "\\.\"Vous devez être victorieux...!\n Le chemin ne s'ouvrira qu'au vainqueur et\n à personne d'autre !!\"",
             "\\.\"Il ne vous reste que très peu de temps...\n Profitez bien de vos derniers instants avant\n le Jeu Principal.\"",
             "\\C[4](C'est la fin...)",
             "\\.\\C[4](Tout est... fini...)",
             "\\C[3]Tout ce qu'il reste... c'est cette carte...",
             "\\.\\C[4](Hm...)",
-            "\\.\\C[4](J'imagine... haha...)",
-            "\\.\\C[4](Garder espoir... pour qu'il finisse par s'effondre...)",
-            "\\.\\C[4](Encore et encore...?)",
+            "\\.\\C[4](C'était vrai, au final... haha...)",
+            "\\.\\C[4](Garder espoir... le voir s'effondrer...)",
+            "\\.\\C[4](Encore et encore...)",
             "\\.\\C[4](...\n ...\n ...)",
             "\\C[10]\"Sara...\"",
             "\\.\\C[10]\"Il est grand temps que t'acceptes la réalité.\"",
@@ -36011,7 +36023,7 @@
             "\\.\\C[10]\"T'as fait ton choix...\"",
             "\\.\\C[10]\"Bonne chance...\"",
             "\\C[4](...)",
-            "\\.\\C[3]Sans que je le réalise,\nles autres étaient partis chacun de leur côté.",
+            "\\.\\C[3]Sans que je le réalise,\nles autres étaient chacun partis de leur côté.",
             "\\.\\C[3]Pour utiliser ce dernier temps libre à bon escient."
         ],
         "21-1-message": [
@@ -36040,14 +36052,14 @@
             "\\.\"Keiji...?\"",
             "\"J'arrive pas à baisser les bras...\"",
             "\\.\"Même si ça sert à rien... je vais continuer de lutter.\"",
-            "\"... Imbécile\"",
+            "\"... Imbécile.\"",
             "\\.\"Que crois-tu pouvoir faire sans équipement...?\"",
             "\\.\"Tu n'es qu'un imbécile fini...\"",
             "\\C[3]Alice se mit, à son tour, à dégager des débris.",
             "\\C[4](Keiji...)"
         ],
         "2-2-message": [
-            "\"Je me demande si je peux réussir à dégager\n un peu le passage.\n Aussi petit soit-il...\"",
+            "\"Je me demande si je peux réussir à créer une ouverture.\n Aussi petite serait-elle...\"",
             "\\.\"Haa... Haa...\n Si tu as le temps de papoter, tu as le temps\n de te remuer...!\"",
             "\\C[4](Libérer le passage demandera bien plus\n que juste de la force physique...)"
         ],
@@ -37450,13 +37462,13 @@
             "\\C[3]Puce d'Alizée\n\nUne petite puce extraite de la tête de Ray Alizée.\nPeut anéantir le système de sécurité du complexe."
         ],
         "2-1-message": [
-            "\\C[3]Une large table toute propre."
+            "\\C[3]Une longue table toute propre."
         ],
         "2-2-choice": [
             "Lui parler\nAnnuler"
         ],
         "8-1-message": [
-            "\\C[3]Une large table toute propre."
+            "\\C[3]Une longue table toute propre."
         ],
         "3-1-message": [
             "\\C[3]Derrière les fenêtres, des écrans shojis\nnous empêchent de voir ce qu'il y a dehors."
@@ -37481,7 +37493,7 @@
         ],
         "6-1-message": [
             "\\C[3]Le couloir continue plus loin.",
-            "\"Plus loin, c'est la sortie... Sara.\"",
+            "\"Sara... Par là, c'est la sortie.\"",
             "\\.\\C[4](Enfin...)",
             "\\.\"Allons-y...!\"",
             "\\.\"... Oui.\"",
@@ -37505,7 +37517,7 @@
             "\\.\\C[4](Si seulement j'avais des jetons...\n J'aurais pu les utiliser...)"
         ],
         "1-1-message": [
-            "\\C[3]Deux chaises, l'une en face de l'autre."
+            "\\C[3]Deux chaises basses, l'une en face de l'autre."
         ],
         "47-1-message": [
             "\\C[3]Des sortes de petites étagères."
