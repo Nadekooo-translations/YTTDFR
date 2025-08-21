@@ -6610,7 +6610,8 @@
             "Choisir ce sujet\nAnnuler"
         ],
         "981-0-choice": [
-            "Choisir ce sujet\nAnnuler"
+            "Choisir ce sujet\nAnnuler",
+            "Être d'accord avec Sou\nNe pas être d'accord avec Sou"
         ],
         "1631-0-choice": [
             "Choisir ce sujet\nAnnuler"
@@ -9205,32 +9206,46 @@
             "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "983-0-message": [
-            null,
-            null,
+            "\"Un poids... mort...?\"",
+            "\"Hein...?\n Qu'est-ce que c'est que cela, au juste...?\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            null,
-            "\\.\\C[4](Mince...! Je me suis trompée !)"
+            "\"Si tu le dis, mais...\n Je ne te suis pas...\"",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
+            "\"Kanna... n'est pas un poids mort...\"",
+            "\\.\\C[4](Kanna...)"
         ],
         "984-0-message": [
-            null,
-            null,
-            null,
+            "\"Plus tard, durant l'phase d'échange...\n Elle avait l'air d'être seule.\"",
+            "\"Kanna...\n Au début, elle est juste restée cloitrée dans\n la chambre d'Sou.\"",
+            "\"T'me ragotes quoi, là, hein ?!\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            null,
-            "\\.\\C[4](Mince...! Je me suis trompée !)"
+            "\"Va falloir mieux argumenter qu'ça !\"",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
+            "\"J'peux pas trop m'avancer pour l'reste du temps...\"",
+            "\"Mais...\"",
+            "\\.\"Plus tard, durant l'phase d'échange...\n Elle avait l'air d'être seule.\"",
+            "\\.\"C'est vrai ?\"",
+            "\\.\"Ben, en vrai, la moitié d'temps...\n J'étais pas conscient, donc j'en ai pas\n la moindre idée.\"",
+            "\\.\\C[4](Je ne peux pas trop me reposer sur ses dires,\n donc....)"
         ],
         "986-0-message": [
-            null,
-            null,
+            "\"Kanna Kizuchi était avec lui la plupart du temps...\n Seul Sou Hiyori sait ce dont elle est capable.\"",
+            "\"Et qu'est-ce que cela prouve, au juste ?!\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Une remarque futile...\n En quoi cela prouve-t-il quoi que ce soit ?\"",
-            "\\.\\C[4](Mince...! Je me suis trompée !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
+            "\"Il est vrai que j'ai été le partenaire de conversation\n de Kanna Kizuchi pendant une courte durée...\"",
+            "\\.\"Mais il pourrait être important de mentionner\n que nous ne sommes pas si proches que ça !\"",
+            "\\.\\C[4](Ce n'est pas la question !)"
         ],
         "988-0-message": [
-            null,
+            "\"Ahaha, tu as un problème ?\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            null,
-            "\\.\\C[4](Mince...! Je me suis trompée !)"
+            "\"... Est-ce censé prouver quoi que ce soit ?\"",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
+            "\"C'est que ça commençait à me peser d'avoir\n une assistante inutile, en plus.\"",
+            "\\.\\C[4](Juste à l'instant, je crois que la \\C[2]première assertion\\C[4]\n de Sou a fait \\C[2]réagir\\C[4] quelqu'un...!!)",
+            "\\C[4](Je devrais les \\C[2]solliciter\\C[4] quand leur\n \\C[2]expression\\C[4] change !)"
         ],
         "993-0-message": [
             null,
@@ -9656,11 +9671,13 @@
             "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "985-0-message": [
-            null,
-            null,
+            "\"Ils étaient ensemble la plupart du temps...\n Sou devrait savoir mieux que personne d'autre\n ce dont elle est capable !!\"",
+            "\"Sara ! Réfléchis plus longtemps !\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            null,
-            "\\.\\C[4](Mince...! Je me suis trompée !)"
+            "\"Hein, quoi ?! Ça veut dire quoi, ça ?!\"",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
+            "\"Et pourtant, Sou l'a abandonnée !\n Quelle merde...!!\"",
+            "\\.\"Si seulement j'avais de quoi le contrer...!\""
         ],
         "992-0-message": [
             null,
@@ -16765,7 +16782,45 @@
             "\\.\"... Euh... Quoi...?\"",
             "\\.\"Après tout, je suis...\"",
             "\\.\"... le \\C[10]Sacrifice\\C[0].\"",
-            "\\.\"Qu'est-ce que tu fabriques ?!\n T'as écouté ce qu'on a dit ?!\n On vient d'expliquer qu'on passera nos rôles\n en revue après...!\""
+            "\\.\"Qu'est-ce que tu fabriques ?!\n T'as écouté ce qu'on a dit ?!\n On vient d'expliquer qu'on passera nos rôles\n en revue après...!\"",
+            "\\.\"Y a-t-il une règle qui m'interdit\n d'annoncer mon rôle ?\"",
+            "\\.\"Bon, OK...\"",
+            "\\.\"Désolé, Keiji.\n Je ne suis juste pas à l'aise à l'idée de\n te laisser prendre les devants.\"",
+            "\\.\"Oh, je sais !\n Et si j'étais le prochain à proposer quelqu'un ?\"",
+            "\\.\\C[4](Il a encore quelque chose derrière la tête...!)",
+            "\"D'accord...\n Si c'est pour faire progresser la discussion,\n tu peux y aller.\"",
+            "\\.\"Comme tu es calme, Sara.\"",
+            "\"Ne fais pas ça !\n Une approche où chaque personne choisie\n en nomme une autre, ça ne-!\"",
+            "\\.\"Tiens ? Tu perds ton sang-froid, Sara ?\"",
+            "\\.\"Non, ce n'est pas vrai...!\"",
+            "\\.\"Je suggère Kanna.\"",
+            "\\.\"Quoi...?!\"",
+            "\\.\"Enfoiré...!!\n Qu'est-ce que tu racontes, là ?!\"",
+            "\\.\"Mais... pourquoi...?!\"",
+            "\\.\"Vous devriez tous déjà le savoir.\"",
+            "\\.\"Elle est timide, incapable et facilement manipulable.\n À part la gentillesse, qu'est-ce qu'elle a de bien ?\"",
+            "\\.\"...\n ...\n ...\"",
+            "\\.\"Ferme ta gueule !!\n C'est toi qui l'as manipulée !!\"",
+            "\\.\"N'était-ce pas toi qui l'as utilisée à\n tes propres fins ?!\"",
+            "\\.\\C[4](Après l'avoir traitée si cruellement...\n Sou a décidé de la trahir ?!)",
+            "\\.\"... Et du coup, tu laisses du temps à Kanna\n pour qu'elle s'explique et se rattrape.\"",
+            "\\.\"... Pardon ?\"",
+            "\\.\"Pas de soucis.\n Parlons de \\C[2]ce que Kanna a fait\\C[0] pendant\n la Démocratie Mortelle.\"",
+            "\\.\"Comme ça, après, on pourra lui faire confiance.\"",
+            "\"Kanna...\n Au début, elle est juste restée cloitrée dans\n la chambre d'Sou.\"",
+            "\"Ils étaient ensemble la plupart du temps...\n Sou devrait savoir mieux que personne d'autre\n ce dont elle est capable !!\"",
+            "\"Kanna Kizuchi était avec lui la plupart du temps...\n Seul Sou Hiyori sait ce dont elle est capable.\"",
+            "\\.\"Hé bien, voyons voir...\n Kanna n'était qu'un boulet du début jusqu'à la fin.\n Rien d'autre qu'un poids mort...\"",
+            "\\.\"Un poids... mort...?\"",
+            "\\.\"Hmm...\n Kanna a l'air choquée d'entendre ça.\"",
+            "\\.\\C[4](Je comprends sa réaction...)",
+            "\\.\"Tu sais ce qu'il te reste à faire, Sara.\n Tu peux \\C[2]extraire\\C[0] des assertions aux gens.\"",
+            "\\.\"Ah, et aussi...\n Tu as une nouvelle arme à ton arsenal.\"",
+            "\\.\"Quoi ?!\"",
+            "\\.\"Mais si, de quand on a mené nos recherches ensemble...\n Ton acerbe vision de détective...\"",
+            "\\.\"Quand quelqu'un \\C[2]fait une assertion\\C[0]...\n Tu pourrais remarquer une \\C[2]réaction chez quelqu'un\n d'autre\\C[0].\"",
+            "\\.\\C[4](Je sais faire ça, moi...?)",
+            "\\.\"Allez, partenaire, au travail.\""
         ],
         "385-0-message": [
             "\"H-Hum, Sara...\n Ce n'est pas pour un échange, mais...\n Est-ce qu'on peut discuter...?\"",
@@ -20560,6 +20615,27 @@
             null,
             "\\.\"Gashu, tu m'entends ?!\n T'es vraiment allé trop loin...\n T'as tout foutu en l'air...!\"",
             "\\.\"T'as enfreint les règles...!!\n Ton énorme transgression fait chavirer les\n fondations mêmes du Jeu Principal !!\""
+        ],
+        "987-0-message": [
+            "\\C[4](Kanna... \n Es-tu trop bouleversée pour parler...?)",
+            "\\.\\C[4](Mais on dirait qu'elle veut dire quelque chose !\n Dans ce cas...)",
+            "\\.\\C[4](Je dois inspirer le cœur de Kanna...!!)"
+        ],
+        "1763-0-message": [
+            null,
+            "\"Sara ! Réfléchis plus longtemps !\""
+        ],
+        "982-0-message": [
+            "\"Kanna n'était qu'un boulet du début jusqu'à la fin.\n Rien d'autre qu'un poids mort...\"\\^"
+        ],
+        "1632-0-message": [
+            null,
+            null,
+            "\"Sara ! Réfléchis plus longtemps !\""
+        ],
+        "1669-0-message": [
+            null,
+            "\"Sara ! Réfléchis plus longtemps !\""
         ]
     },
     "map107": {
