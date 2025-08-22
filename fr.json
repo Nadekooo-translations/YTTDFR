@@ -9215,7 +9215,7 @@
             "\\.\\C[4](Kanna...)"
         ],
         "984-0-message": [
-            "\"Plus tard, durant l'phase d'échange...\n Elle avait l'air d'être seule.\"",
+            "\"Plus tard, durant l'phase d'échange...\n On aurait dit qu'elle était toute seule.\"",
             "\"Kanna...\n Au début, elle est juste restée cloitrée dans\n la chambre d'Sou.\"",
             "\"T'me racontes quoi, là, hein ?!\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
@@ -9223,7 +9223,7 @@
             "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"J'peux pas trop m'avancer pour l'reste du temps...\"",
             "\"Mais...\"",
-            "\\.\"Plus tard, durant l'phase d'échange...\n Elle avait l'air d'être seule.\"",
+            "\\.\"Plus tard, durant l'phase d'échange...\n On aurait dit qu'elle était toute seule.\"",
             "\\.\"C'est vrai ?\"",
             "\\.\"Ben, en vrai, la moitié d'temps...\n J'étais pas conscient, donc j'en ai pas\n la moindre idée.\"",
             "\\.\\C[4](Je ne peux pas trop me reposer sur ses dires,\n donc....)"
@@ -9235,17 +9235,17 @@
             "\"Une remarque futile...\n En quoi cela prouve-t-il quoi que ce soit ?\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Il est vrai que j'ai été le partenaire de conversation\n de Kanna Kizuchi pendant une courte durée...\"",
-            "\\.\"Mais il pourrait être important de mentionner\n que nous ne sommes pas si proches que ça !\"",
-            "\\.\\C[4](Ce n'est pas la question !)"
+            "\\.\"Mais sans trop m'avancer, notre discussion\n ne nous a pas tant rapprochés que ça !\"",
+            "\\.\\C[4](Là n'est pas la question !)"
         ],
         "988-0-message": [
             "\"Ahaha, un problème ?\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"... Est-ce censé prouver quoi que ce soit ?\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            "\"C'est que ça commençait à me peser d'avoir\n une assistante inutile, en plus.\"",
+            "\"C'est que ça commençait à me peser sur les épaules\n d'avoir une assistante inutile, en plus.\"",
             "\\.\\C[4](Juste à l'instant, je crois que la \\C[2]première assertion\\C[4]\n de Sou a fait \\C[2]réagir\\C[4] quelqu'un...!!)",
-            "\\C[4](Je devrais les \\C[2]solliciter\\C[4] quand leur\n \\C[2]expression\\C[4] change !)"
+            "\\C[4](Je devrais \\C[2]solliciter\\C[4] la personne en question\n quand son \\C[2]expression\\C[4] change !)"
         ],
         "993-0-message": [
             "\"Tu ne peux pas appeler ça un hack.\n ... Arrête de mal employer des mots que\n tu viens à peine d'apprendre.\"",
@@ -9253,7 +9253,7 @@
             "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Se quereller n'amènera à rien.\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            "\"C'est très inquiétant.\n Nous n'avons que peu de temps de débat...\"",
+            "\"C'est très inquiétant.\n Nous n'avons que peu de temps pour débattre...\"",
             "\\.\"Alors pourquoi ne pas tout bonnement\n nous donner la vérité, Sou ?\"",
             "\\.\"Hahaha, mais c'est ce que je fais.\n ... La vérité, c'est que Kanna est juste inutile.\"",
             "\\.\"Arrête de traiter les gens comme des objets, putain !!\""
@@ -9685,37 +9685,37 @@
             "\\.\"Si seulement j'avais de quoi le contrer...!\""
         ],
         "992-0-message": [
-            "\"J'ai réussi à trouver le mot de passe grâce aux\n traces de doigt qu'il y avait.\"",
-            "\"J'ai trouvé un mot de passe...\n Et s'introduire dans les appareils des gens...\n C'est bien du hack, non ?\"",
+            "\"J'ai réussi à trouver le mot de passe grâce aux\n traces de doigts qu'il y avait sur le clavier.\"",
+            "\"J'ai trouvé un mot de passe...\n S'introduire dans les appareils des gens...\n C'est bien du hack, non ?\"",
             "\"..........\"",
             "\\.\\C[4](Non ! Elle ne me répond plus...!!)",
             "\"...\n ...\n ...\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Kanna... n'est pas une incapable...\"",
-            "\"Sou a passé tout hier à tourner en rond, agité...\"",
-            "\\.\"Il n'arrêtait pas de répéter :\n «Je n'ai pas le mot de passe ! »,\n à retirer et remettre son bonnet...\"",
+            "\"Sou a passé tout hier à s'agiter...\"",
+            "\\.\"Il n'arrêtait pas de tourner en rond et de répéter\n « Je n'ai pas le mot de passe ! »,\n à retirer et remettre son bonnet en boucle...\"",
             "\\.\"Quand soudainement, en regardant les mains de Sou...\n Je me rendis compte de quelque chose.\n Même dans une telle situation, elles sont\n impeccablement propres...\"",
             "\\.\"Et ça m'a donnée une idée.\"",
-            "\\.\"Et s'il restait des \\C[2]traces du mot de passe\n sur le clavier\\C[0]...?\"",
-            "\\.\"J'ai donc réussi à trouver le mot de passe à partir\n des \\C[2]traces de doigt\\C[0] qu'il restait sur le clavier.\"",
+            "\\.\"Et s'il restait des \\C[2]traces du mot de passe de quand\n le mot de passe a été entré sur le clavier\\C[0]...?\"",
+            "\\.\"J'ai donc réussi à trouver le mot de passe à partir\n des \\C[2]traces de doigts\\C[0] qu'il restait sur le clavier.\"",
             "\\.\\C[4](J'ai extrait une nouvelle déclaration...!)"
         ],
         "994-0-message": [
             "\"Le seul mot de passe dont j'ai entendu parler,\n c'est celui de l'ordinateur portable...\"",
-            "\"Mais cela voudrait dire que Kanna est, elle-aussi,\n douée en informatique...?!\"",
+            "\"Mais cela voudrait dire que Kanna est elle-aussi\n douée en informatique, non...?!\"",
             "\"Hiii...?!\n Q-Qu'est-ce donc ?!\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Ouahh ?!\n J'ai dit une chose incorrecte ?!\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Je ne m'y connais pas grande chose en machines,\n moi non plus...\"",
-            "\"J'ai entendu dire que l'informatique était au programme\n au collège, mais de là à penser qu'il est même enseigné\n des cyberattaques...!\"",
-            "\\.\"Je suis plutôt sûre que ce n'est pas le cas, non...\"",
-            "\\.\"Mais de quel mot de passe parle-t-elle ?\"",
+            "\"J'ai entendu dire que l'informatique était au\n programme au collège, mais de là à penser\n que même les cyberattaques sont enseignées...!\"",
+            "\\.\"Je crois que tu pars un peu trop loin...\"",
+            "\\.\"Mais tout de même...\n De quel mot de passe parle-t-elle ?\"",
             "\\.\"Le seul mot de passe dont j'ai entendu parler,\n c'est celui de l'ordinateur portable...\"",
             "\\.\\C[4](Hm...)"
         ],
         "996-0-message": [
-            "\"Ils ont négocié ensemble,\n séparés par la porte de la chambre de Sou...\n Kanna était là aussi...\"",
+            "\"Ils ont négocié ensemble, séparés par la porte\n de la chambre de Sou...\n Kanna était là aussi...\"",
             "\"Hm...?! Qu'est-ce que c'est...?\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Kanna ne fait que dire la vérité...!\"",
@@ -9735,8 +9735,8 @@
             "\"Ben, 'fin... J'suis en partie responsable, quoi.\"",
             "\"Quand le Jeu Secondaire a commencé,\n et qu'y fallait récupérer plein d'jetons, je...\"",
             "\\.\"J'en ai ramassé bien plus qu'tous les autres,\n tout ça pour survivre.\"",
-            "\\.\"Même l'ordi qu'j'avais réussi à trouver...\n J'l'ai donné à Sou pour d'jetons...\"",
-            "\\.\"J'étais complètement possédé par l'besoin\n d'avoir des jetons, OK...?!\"",
+            "\\.\"Même l'ordi qu'j'avais réussi à trouver...\n J'l'ai filé à Sou pour d'jetons...\"",
+            "\\.\"J'étais complètement possédé par l'besoin\n d'avoir d'jetons, OK...?!\"",
             "\\.\"Est-ce vraiment la seule raison...?\"",
             "\\.\"B-Ben ouais...\"",
             "\\.\"T'crois qu'y m'a fait du chantage, ou quoi ?\n Nan, y a rien eu du genre...\"",
@@ -20642,8 +20642,8 @@
         ],
         "987-0-message": [
             "\\C[4](Kanna... \n Es-tu trop bouleversée pour parler...?)",
-            "\\.\\C[4](Mais on dirait qu'elle veut dire quelque chose !\n Dans ce cas...)",
-            "\\.\\C[4](Je dois inspirer le cœur de Kanna...!!)"
+            "\\.\\C[4](Mais elle a l'air de vouloir dire quelque chose !\n Dans ce cas...)",
+            "\\.\\C[4](Je dois l'inspirer...!!)"
         ],
         "1763-0-message": [
             null,
@@ -20678,15 +20678,15 @@
             "\\.\"Allez ! Donne-nous plus d'détails !\"",
             "\\.\"... Donne-nous plus de détails, si tu le veux bien.\"",
             "\\.\"D-D'accord...\"",
-            "\"Kanna... a hacké des choses bien avant que\n Sou le fasse !\"",
+            "\"Kanna... a hacké des choses bien avant Sou !\"",
             "\\.\"Euh... c'était quoi comme \\C[2]type\\C[0] de hack, au juste ?\"",
-            "\\.\"J'ai trouvé un mot de passe...\n Et s'introduire dans les appareils des gens...\n C'est bien du hack, non ?\"",
-            "\"Cela voudrait dire que Kanna est douée en informatique,\n elle aussi...?!\"",
+            "\\.\"J'ai trouvé un mot de passe...\n S'introduire dans les appareils des gens...\n C'est bien du hack, non ?\"",
+            "\"Mais cela voudrait dire que Kanna est elle-aussi\n douée en informatique, non...?!\"",
             "\\.\"Tu ne peux pas appeler ça un hack.\n ... Arrête de mal employer des mots que\n tu viens à peine d'apprendre.\"",
             "\"Nickel, Sara.\n Continuons de faire avancer le débat comme ça.\"",
             "\\.\"Oui...!\"",
             "\\.\"\\C[2]Extrais\\C[0] des assertions pour élargir tes options...\"",
-            "\"Sers-toi de tes \\C[2]objets\\C[0] comme preuves ou\n \\C[2]confronte des assertions entre elles\\C[0] pour\n trouver des incohérences.\""
+            "\"Et sers-toi de tes \\C[2]objets\\C[0] comme preuves ou\n \\C[2]confronte des assertions entre elles\\C[0] pour\n trouver des incohérences.\""
         ],
         "995-0-message": [
             "\\.\"Hum...\n Kanna, se pourrait-il que ton hack n'était pas\n avec l'ordinateur...\"",
@@ -20702,26 +20702,26 @@
             "\\.\"T'trouves pas ça bizarre, Sara ?!\"",
             "\\.\"...\"",
             "\\.\"... Tout à fait. C'est étrange.\"",
-            "\\.\"Parce que si Sou \\C[2]nous a partagé l'ordinateur\\C[0]\n c'était pour \\C[2]qu'on lui donne le mot de passe\\C[0].\"",
+            "\\.\"Parce que si Sou \\C[2]nous a partagé l'ordinateur\\C[0],\n c'était pour \\C[2]qu'on lui donne le mot de passe\\C[0].\"",
             "\\.\"Ah bon ?\"",
             "\\.\"Ben, si Sou \\C[2]a accepté d'partager l'ordi\\C[0] avec nous,\n c'était pour \\C[2]qu'on lui donne l'mot d'passe\\C[0], nan ?!\"",
             "\\.\"Mais là...\"",
-            "\\.\"T'nous racontes que vous l'aviez déjà \\C[2]avant\\C[0]\n d'le partager !!\"",
+            "\\.\"T'nous racontes que vous l'aviez déjà \\C[2]avant\\C[0]\n d'nous l'partager !!\"",
             "\\.\"...\"",
             "\\.\"Oui...\"",
             "\\.\"Mais dans c'cas, il avait aucune raison\n d's'allier à nous...!!\"",
-            "\\.\"Pas du tout !\n Sou voulait simplement qu'on lui donne\n une chance pour se réconcilier avec vous...\"",
-            "\\.\"Kanna...\n Je suis désolée de te l'apprendre,\n mais il y a bien une autre raison.\"",
+            "\\.\"Pas du tout !\n Sou voulait simplement que vous lui donniez\n une chance de se réconcilier avec vous...\"",
+            "\\.\"Kanna...\n Désolé de te l'annoncer, mais y a bien\n une autre raison.\"",
             "\\.\"Quoi...?\"",
             "\\.\\C[4](Pourquoi est-ce que Sou a partagé l'ordinateur\n avec nous...?)",
             "\"« Je dois arrêter de les harceler »...\n C'est ce que tu t'es dit, n'est-ce pas, Sou ?\"",
             "\\.\"Hahaha, mais je n'ai jamais harcelé qui que ce soit.\"",
-            "\\.\"Ton existence même compte comme\n de l'harcèlement, miaou !!\"",
-            "\\.\"Sou, ce que tu cherchais à faire...\n C'était de regarder le contenu du dossier « Sara »\n qu'il y avait sur l'ordi, je me trompe ?\"",
+            "\\.\"Ton existence même compte comme de l'harcèlement,\n miaou !!\"",
+            "\\.\"Sou, ce que tu cherchais à faire...\n C'était regarder le contenu du dossier « Sara »\n qu'y avait sur l'ordi, je me trompe ?\"",
             "\"Comme Kanna l'a dit,\n Sou voulait juste que l'on soit tous amis.\"",
             "\\.\"Allô la terre, Sara !\n C'est clairement pas le genre de truc\n que Sou se dirait !!\"",
             "\\.\"C'est de la pure imagination !!\n Sara Chidouin !!\n Tu seras punie pour ces affirmations ridicules !\"",
-            "\\.\"Sou, ce que tu cherchais à faire...\n C'était de regarder le contenu du dossier « Sara »\n qu'il y avait sur l'ordi, je me trompe ?\"",
+            "\\.\"Sou, ce que tu cherchais à faire...\n C'était regarder le contenu du dossier « Sara »\n qu'y avait sur l'ordi, je me trompe ?\"",
             "\"Il voulait consulter le dossier « Sara »\n sur l'ordinateur...!\"",
             "\\.\"Ouaip... C'est forcément ça.\"",
             "\\.\"Le dossier « Sara » avait un mot de passe différent,\n et il se trouve que c'était le prénom de sa mère.\"",
@@ -20741,7 +20741,7 @@
             "\\.\"C'était quoi, ce fameux \\C[2]marché\\C[0] bizarre ?\"",
             "\"Je...\n J'suis allé voir Sou, et j'lui ai demandé\n d'partager l'ordi.\"",
             "\"Q-taro m'a dit qu'il me donnerait ses jetons\n en échange.\n Je ne m'y attendais pas.\"",
-            "\"Ils ont négocié ensemble,\n séparés par la porte de la chambre de Sou...\n Kanna était là aussi...\""
+            "\"Ils ont négocié ensemble, séparés par la porte\n de la chambre de Sou...\n Kanna était là aussi...\""
         ],
         "1018-0-message": [
             "\"J'vais lui tenir les bras dans l'dos pour l'empêcher\n d'bouger !!\""
@@ -20807,6 +20807,83 @@
         ],
         "1455-0-choice": [
             "Observer la situation\nSauvegarder\nAttendre\nAnnuler"
+        ],
+        "651-0-message": [
+            "\\.\"Q-taro, n'y a-t-il vraiment pas eu de chantage ?\"",
+            "\\.\"C-Comment ça ?!\"",
+            "\\.\"On est tombés sur une certaine vidéo...\"",
+            "\\.\"Un enregistrement vidéo des caméras de surveillance\n du rez-de-chaussée.\"",
+            "\\.\"...!\"",
+            "\\.\"J-Je ne savais pas !!\"",
+            "\\.\"C'était clair comme de l'eau de roche.\"",
+            "\\.\"On y voyait Q-taro placer les cartes de rôle...\"",
+            "\\.\"Et Sou l'a vu le faire...\"",
+            "\\.\"Si ce n'est pas de quoi faire chanter quelqu'un,\n je ne sais pas ce que c'est !!\"",
+            "\\.\"Ce n'est pas vrai...!!\n C'est Q-taro qui a placé les cartes ?!\"",
+            "\\.\"Le gorille musclé... est un traître, miaou...?!\"",
+            "\\.\"...\"",
+            "\\.\\C[4](Un traître...?)",
+            "\\.\\C[4](Est-ce vraiment le cas ?)",
+            "\\.\\C[3]Ou y avait-il une autre raison...?",
+            "\\.\\C[3]L'ironie dans tout ça...\nC'est que c'est parce que mon intuition s'est affinée\nque je ne comprends pas.",
+            "\\.\\C[3]Comment est-ce que quelqu'un comme Q-taro\npourrait être un traître...?",
+            "\\.\"C'était quoi, ton but ?\"",
+            "\\.\"... Et d'où tu les as sortis, ces cartes, Q-taro ?\"",
+            "\\.\"...\"",
+            "\\.\"Q-taro, s'il te plaît...\n Ne reste pas là sans rien dire...!!\"",
+            "\\.\"...\"",
+            "\\.\"Des caméras d'surveillance, hein...\n D'où t'sors ça, toi ?\"\\.",
+            "\\.\"Quoi...?!\"",
+            "\\.\"On a inspecté chaque centimètre d'rez-de-chaussée.\"",
+            "\\.\"Y en a ici qu'ont trouvé des caméras ?\"",
+            "\\.\"Hé bien...!\"",
+            "\\.\"B-Bien sûr qu'on en a trouvé...!!\"",
+            "\\.\"... Laisse-moi t'donner un conseil.\n Lâche pas des bobards comme ça.\n T'vas finir par perdre la confiance des autres.\"",
+            "\\.\\C[4](Rgh...!!)",
+            "\\.\"D'accord, personne n'a trouvé de caméras, c'est vrai !\n Mais...\"",
+            "\"O-Oui, c'est vrai,\n nous n'avons pas directement remarqué de caméras...\"",
+            "\\.\"Mais ce doit être des caméras cachées !\n Des caméras dissimulées de manière à ce qu'on\n ne puisse pas les voir...!!\"",
+            "\"M-Mais qu'on en est trouvé ou non,\n ça ne change rien...!\"",
+            "\\.\"L'important, c'est que tu as été filmé en\n train de le faire...\n C'est la seule preuve qu'il nous faut !!\"",
+            "\\.\"... Ce doit être des marionnettes.\"",
+            "\\.\"Quoi...?\"",
+            "\\.\"Quand t'y penses, c'logique.\n On arrête pas d'se faire avoir à droite à gauche.\"",
+            "\\.\"Une fausse Reko...\n Une fausse IA de M'sieur Mishima...\"",
+            "\\.\"Nos ravisseurs peuvent manipuler des \\C[2]copies\\C[0] d'nous\n quand ils veulent, comme ils veulent, où ils veulent.\"",
+            "\\.\"Tu insinues que...!\"",
+            "\\.\"On dirait qu'tu t'es fais avoir, Sara.\"",
+            "\\.\"Un script écrit par nos ravisseurs...\n Et les acteurs ? Nos doubles !\n T'crois au film que nos poupées ont réalisé !!\"",
+            "\\.\"...!!\"",
+            "\\.\"J'sais pas c'que vous avez vu...\"",
+            "\\.\"Mais vous pouvez m'croire quand j'dis que c'un piège.\n Ç'vous servira d'leçon.\"",
+            "\\.\"Mais...!!\"",
+            "\\.\"On est loin d'avoir l'avantage, là...\"",
+            "\\.\"Utiliser des doubles pour nous piéger...\n C'un sacré coup bas qu'ils nous font,\n nos ravisseurs, pas vrai ?\"",
+            "\\.\"C'est qu'il faut pas prendre Q-taro à la légère.\"",
+            "\\.\"On dirait que pour une fois,\n c'est toi qui te fait prendre de haut, Sara.\"",
+            "\\.\"Fin bref, voilà.\n C'tout à propos d'mon marché avec Sou !\"",
+            "\\.\"Et pis, euh...\n Après qu'on ait regardé le PC tous ensemble,\n j'étais dans les vapes l'reste du temps.\"",
+            "\\.\"Doit bien y avoir plus louche qu'moi, ici.\"",
+            "\\.\"Rgh...\"",
+            "\\.\"D'ailleurs, une minute !\n Que t'est-il arrivé dans la Salle Effondrée, Q-taro ?!\"",
+            "\\.\"D'accord...\"",
+            "\\.\"Gorille musclé, attends, miaou !\n Il t'est arrivé quoi dans la Salle Effondrée,\n d'ailleurs, ouaf ?!\"",
+            "\\.\"Hé ben, euh...\"",
+            "\\.\"J'me... rappelle pas...\"",
+            "\\.\"Mince...!\"",
+            "\\.\"C'la vérité...\n J'me souviens pas de c'qui s'est passé après\n être entré !\"",
+            "\\.\"Et l'premier truc qui arrive quand j'me réveille,\n c'le Jeu Principal !!\n T'parles d'un réveil en douceur !!\"",
+            "\\.\"Ce qui signifie que quelqu'un d'autre\n a dû l'attaquer...?!\"",
+            "\\.\"On a qu'à trouver qui c'est, miaou !\n C'est forcément un méchant, ouaf !!\"",
+            "\\C[4](La dernière fois que j'ai croisé Q-taro...)",
+            "\\.\\C[4](... N'était-ce pas quand nous étions sur l'ordinateur ?\n Ensuite, après avoir reçu le \\C[10]Sacrifice\\C[4]...)",
+            "\\.\\C[4](Je me suis mise à paniquer...\n Et je suis allée chercher des jetons.)",
+            "\\.\\C[4](C'est vrai... Je n'ai pas croisé Q-taro après ça.)",
+            "\\.\\C[4](Si j'arrive à déterminer la séquence d'action\n de tout le monde sur cette période de temps,\n je devrais pouvoir...!)",
+            "\\.\"Bon, dans ce cas, il faut qu'on dise tous\n \\C[2]ce qu'on a fait à ce moment\\C[0]...!\""
+        ],
+        "651-0-choice": [
+            "On en a trouvé\nOn n'en a pas trouvé\nLa vidéo est une preuve"
         ]
     },
     "map107": {
@@ -21169,7 +21246,7 @@
     },
     "items-173": {
         "name": "Tablette",
-        "description": "Une tablette pour consulter le rôle de sa carte.\nElle était à côté de Q-taro, inconscient dans\nla Salle Effondrée."
+        "description": "Une tablette pour consulter le rôle de sa carte.\nTrouvée à côté de Q-taro évanoui dans la S. Effondrée."
     },
     "items-174": {
         "name": "Tablette"
@@ -36500,7 +36577,7 @@
     },
     "items-169": {
         "name": "V. Surveillance du RDC",
-        "description": "Une vidéo filmée par les caméras du rez-de-chaussée.\nOn apparaît dessus.\nSou a vu Q-taro placer les cartes."
+        "description": "Une vidéo filmée par les caméras du rez-de-chaussée.\nOn apparaît dessus. Sou a vu Q-taro placer les cartes."
     },
     "items-170": {
         "name": "V. Surveillance du RDC"
@@ -36514,14 +36591,14 @@
     },
     "items-175": {
         "name": "Taser",
-        "description": "Un pistolet à décharge électrique jetable.\nIl peut paralyser quelqu'un.\nIl est dangereux, donc Gin et moi le gardons en secret."
+        "description": "Un pistolet à décharge électrique jetable.\nPeut paralyser quelqu'un. Gardé en secret avec Gin."
     },
     "items-176": {
         "name": "Taser"
     },
     "items-177": {
         "name": "Vidéo d'une Victime",
-        "description": "Une vidéo que Nao possédait. Elle montre une\npolicière mourrant lors de la Première Épreuve.\nL'homme au premier plan... Ne serait-ce pas Keiji ?"
+        "description": "Vidéo d'une policière mourrant lors de la 1ère Épreuve.\nL'homme au premier plan... Ne serait-ce pas Keiji ?"
     },
     "items-178": {
         "name": "Vidéo d'une Victime"
