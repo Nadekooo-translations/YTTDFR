@@ -18,6 +18,9 @@ const buildDate = new Date().toLocaleString("fr-FR", {timeZone: 'Europe/Paris'})
 		<GameFrame id="gameframe" class="gameframe" />
 	</div>
 	<div class="buttons">
+		<a class="small-icon" title="Gestionnaire de sauvegardes" href="/sauvegardes/" target="_blank">
+			<i class="ph ph-floppy-disk"></i>
+		</a>
 		<button id="btnFullscreen" title="Plein écran">
 			<i class="ph ph-arrows-out"></i>
 		</button>
@@ -80,12 +83,18 @@ const buildDate = new Date().toLocaleString("fr-FR", {timeZone: 'Europe/Paris'})
 		margin: 1em 16em;
 		display: flex;
 		justify-content: right;
+		gap: 2ch;
 
-		button {
+		button, a {
 			cursor: pointer;
 			background: 0;
 			border: 0;
 			color: white;
+			text-decoration: none;
+
+			&.small-icon {
+				font-size: 11pt;
+			}
 
 			.ph {
 				font-size: 2em;
