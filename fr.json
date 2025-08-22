@@ -2877,7 +2877,7 @@
             "\\.\"... Sœu... rette...\"",
             "\\.\"Tu me manques tellement... grande sœur...\"",
             "\\.\"Il n'est désormais plus l'heure de vous blâmer\n pour vos actions. Votre sœur vous observe depuis\n un meilleur endroit.\"",
-            "\\.\"..........\"",
+            "\\.\"...\n ...\n ...\"",
             "\\.\"... Kanna...\"",
             "\\.\"Kanna ne se laissera pas faire...!\"",
             "\\.\"Parce que... sa sœur la regarde...!\"",
@@ -9251,18 +9251,23 @@
             "\"Tu ne peux pas appeler ça un hack.\n ... Arrête de mal employer des mots que\n tu viens à peine d'apprendre.\"",
             "\"... Et donc ?\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            null,
-            "\\.\\C[4](Mince...! Je me suis trompée !)"
+            "\"Se quereller n'amènera à rien.\"",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
+            "\"C'est très inquiétant.\n Nous n'avons que peu de temps de débat...\"",
+            "\\.\"Alors pourquoi ne pas tout bonnement\n nous donner la vérité, Sou ?\"",
+            "\\.\"Hahaha, mais c'est ce que je fais.\n ... La vérité, c'est que Kanna est juste inutile.\"",
+            "\\.\"Arrête de traiter les gens comme des objets, putain !!\""
         ],
         "998-0-message": [
-            null,
-            null,
+            "\"Q-taro m'a dit qu'il me donnerait ses jetons\n en échange.\n Je ne m'y attendais pas.\"",
+            "\"... Et donc ?\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            null,
+            "\"Se quereller n'amènera à rien.\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            null,
-            null,
-            "\\.\"..........\""
+            "\"À l'origine, je ne comptais pas l'écouter...\n Mais il avait l'air si sérieux et investi,\n je ne pouvais juste pas l'ignorer.\"",
+            "\\.\"... Et au final, c'était un bon marché.\"",
+            "\\.\"...\n ...\n ...\"",
+            "\\.\"Ne me regarde pas mal comme ça, Sara.\n Tu y as gagné, en fin de compte.\n Tu as pu consulter le contenu de l'ordinateur\n gratuitement, pas vrai ?\""
         ],
         "208-0-message": [
             "\"L'intérieur de la boîte s'est téléporté, miaou !\n G-Genre, comme un transfert dimensionnel, ouaf !\"",
@@ -9696,27 +9701,46 @@
             "\\.\\C[4](J'ai extrait une nouvelle déclaration...!)"
         ],
         "994-0-message": [
-            null,
-            "\"Cela voudrait dire que Kanna est douée en informatique,\n elle aussi...?!\"",
-            null,
+            "\"Le seul mot de passe dont j'ai entendu parler,\n c'est celui de l'ordinateur portable...\"",
+            "\"Mais cela voudrait dire que Kanna est, elle-aussi,\n douée en informatique...?!\"",
+            "\"Hiii...?!\n Q-Qu'est-ce donc ?!\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            null,
-            "\\.\\C[4](Mince...! Je me suis trompée !)"
+            "\"Ouahh ?!\n J'ai dit une chose incorrecte ?!\"",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
+            "\"Je ne m'y connais pas grande chose en machines,\n moi non plus...\"",
+            "\"J'ai entendu dire que l'informatique était au programme\n au collège, mais de là à penser qu'il est même enseigné\n des cyberattaques...!\"",
+            "\\.\"Je suis plutôt sûre que ce n'est pas le cas, non...\"",
+            "\\.\"Mais de quel mot de passe parle-t-elle ?\"",
+            "\\.\"Le seul mot de passe dont j'ai entendu parler,\n c'est celui de l'ordinateur portable...\"",
+            "\\.\\C[4](Hm...)"
         ],
         "996-0-message": [
-            null,
-            null,
+            "\"Ils ont négocié ensemble,\n séparés par la porte de la chambre de Sou...\n Kanna était là aussi...\"",
+            "\"Hm...?! Qu'est-ce que c'est...?\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            null,
-            "\\.\\C[4](Mince...! Je me suis trompée !)"
+            "\"Kanna ne fait que dire la vérité...!\"",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
+            "\"Sou a répondu « C'est un plutôt bon marché »...\"",
+            "\\.\"Et il a aussi dit\n « Peut-être qu'on pourrait se réconcilier »...\n Ça a vraiment fait plaisir à Kanna...\"",
+            "\\.\\C[4](Kanna pense toujours que Sou peut avoir bon cœur...)"
         ],
         "997-0-message": [
-            null,
-            null,
-            null,
+            "\"T'crois qu'y m'a fait du chantage, ou quoi ?\n Nan, y a rien eu du genre...\"",
+            "\"Je...\n J'suis allé voir Sou, et j'lui ai demandé\n d'partager l'ordi.\"",
+            "\"Ç'veut dire quoi, ça ?!\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            null,
-            "\\.\\C[4](Mince...! Je me suis trompée !)"
+            "\"En quoi ça prouve quoi qu'ce soit, au juste...?\"",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
+            "\"Ce PC était le cadeau d'adieu Kai...\"",
+            "\"Ben, 'fin... J'suis en partie responsable, quoi.\"",
+            "\"Quand le Jeu Secondaire a commencé,\n et qu'y fallait récupérer plein d'jetons, je...\"",
+            "\\.\"J'en ai ramassé bien plus qu'tous les autres,\n tout ça pour survivre.\"",
+            "\\.\"Même l'ordi qu'j'avais réussi à trouver...\n J'l'ai donné à Sou pour d'jetons...\"",
+            "\\.\"J'étais complètement possédé par l'besoin\n d'avoir des jetons, OK...?!\"",
+            "\\.\"Est-ce vraiment la seule raison...?\"",
+            "\\.\"B-Ben ouais...\"",
+            "\\.\"T'crois qu'y m'a fait du chantage, ou quoi ?\n Nan, y a rien eu du genre...\"",
+            "\\.\\C[4](Du chantage...?\n N'y a-t-il vraiment rien eu de la sorte ?)"
         ],
         "1616-0-message": [
             "\\.\\C[4](Mince...! Je me suis trompée !)"
@@ -20663,6 +20687,126 @@
             "\\.\"Oui...!\"",
             "\\.\"\\C[2]Extrais\\C[0] des assertions pour élargir tes options...\"",
             "\"Sers-toi de tes \\C[2]objets\\C[0] comme preuves ou\n \\C[2]confronte des assertions entre elles\\C[0] pour\n trouver des incohérences.\""
+        ],
+        "995-0-message": [
+            "\\.\"Hum...\n Kanna, se pourrait-il que ton hack n'était pas\n avec l'ordinateur...\"",
+            "\\.\"Mais pour \\C[2]l'ordinateur\\C[0] ?\"",
+            "\\.\"... Oui.\"",
+            "\\.\\C[4](D'accord...)",
+            "\\.\\C[4](Avant que l'ordinateur n'arrive \\C[2]dans\n les mains de Sou\\C[4]...)",
+            "\\.\\C[4](J'ai été la dernière personne à entrer\n le mot de passe.)",
+            "\\.\\C[4](Mes doigts ont dû laisser des traces...\n De la saleté sur les touches !)",
+            "\\.\"Pourrais-tu me dire quand tu as résolu\n le mot de passe ?\"",
+            "\\.\"\\C[2]Avant le début de la phase d'échange\\C[0].\"",
+            "\\.\"Minute !!\"",
+            "\\.\"T'trouves pas ça bizarre, Sara ?!\"",
+            "\\.\"...\"",
+            "\\.\"... Tout à fait. C'est étrange.\"",
+            "\\.\"Parce que si Sou \\C[2]nous a partagé l'ordinateur\\C[0]\n c'était pour \\C[2]qu'on lui donne le mot de passe\\C[0].\"",
+            "\\.\"Ah bon ?\"",
+            "\\.\"Ben, si Sou \\C[2]a accepté d'partager l'ordi\\C[0] avec nous,\n c'était pour \\C[2]qu'on lui donne l'mot d'passe\\C[0], nan ?!\"",
+            "\\.\"Mais là...\"",
+            "\\.\"T'nous racontes que vous l'aviez déjà \\C[2]avant\\C[0]\n d'le partager !!\"",
+            "\\.\"...\"",
+            "\\.\"Oui...\"",
+            "\\.\"Mais dans c'cas, il avait aucune raison\n d's'allier à nous...!!\"",
+            "\\.\"Pas du tout !\n Sou voulait simplement qu'on lui donne\n une chance pour se réconcilier avec vous...\"",
+            "\\.\"Kanna...\n Je suis désolée de te l'apprendre,\n mais il y a bien une autre raison.\"",
+            "\\.\"Quoi...?\"",
+            "\\.\\C[4](Pourquoi est-ce que Sou a partagé l'ordinateur\n avec nous...?)",
+            "\"« Je dois arrêter de les harceler »...\n C'est ce que tu t'es dit, n'est-ce pas, Sou ?\"",
+            "\\.\"Hahaha, mais je n'ai jamais harcelé qui que ce soit.\"",
+            "\\.\"Ton existence même compte comme\n de l'harcèlement, miaou !!\"",
+            "\\.\"Sou, ce que tu cherchais à faire...\n C'était de regarder le contenu du dossier « Sara »\n qu'il y avait sur l'ordi, je me trompe ?\"",
+            "\"Comme Kanna l'a dit,\n Sou voulait juste que l'on soit tous amis.\"",
+            "\\.\"Allô la terre, Sara !\n C'est clairement pas le genre de truc\n que Sou se dirait !!\"",
+            "\\.\"C'est de la pure imagination !!\n Sara Chidouin !!\n Tu seras punie pour ces affirmations ridicules !\"",
+            "\\.\"Sou, ce que tu cherchais à faire...\n C'était de regarder le contenu du dossier « Sara »\n qu'il y avait sur l'ordi, je me trompe ?\"",
+            "\"Il voulait consulter le dossier « Sara »\n sur l'ordinateur...!\"",
+            "\\.\"Ouaip... C'est forcément ça.\"",
+            "\\.\"Le dossier « Sara » avait un mot de passe différent,\n et il se trouve que c'était le prénom de sa mère.\"",
+            "\\.\"...\n ...\n ...\"",
+            "\\.\"N-Nan mais attends, c'une blague !!\"",
+            "\\.\"Sou !!\n On a fait un \\C[2]marché\\C[0] et t'm'en as même pas parlé ?!\"",
+            "\\.\\C[4](Quoi ?!)",
+            "\\.\"Ahaha... Oui, et donc ?\"",
+            "\\.\"Alors, toi...!!\"",
+            "\\.\"Attendez une seconde !\n De quel marché parlez-vous ?!\"",
+            "\\.\"Hahaha... N'y prêtez pas attention.\n C'est juste entre nous.\"",
+            "\\.\"Je crois pas, non.\"",
+            "\\.\"J'ai trouvé cette histoire louche dès le début...\"",
+            "\\.\"Et maintenant, on apprend qu'il y a eu un marché\n qui concerne le partage du PC.\"",
+            "\\.\"...\n ...\n ...\"",
+            "\\.\"... Vous allez me cracher le morceau.\"",
+            "\\.\"C'était quoi, ce fameux \\C[2]marché\\C[0] bizarre ?\"",
+            "\"Je...\n J'suis allé voir Sou, et j'lui ai demandé\n d'partager l'ordi.\"",
+            "\"Q-taro m'a dit qu'il me donnerait ses jetons\n en échange.\n Je ne m'y attendais pas.\"",
+            "\"Ils ont négocié ensemble,\n séparés par la porte de la chambre de Sou...\n Kanna était là aussi...\""
+        ],
+        "1018-0-message": [
+            "\"J'vais lui tenir les bras dans l'dos pour l'empêcher\n d'bouger !!\""
+        ],
+        "1019-0-message": [
+            "\\C[4](Que devrais-je faire...?)"
+        ],
+        "1019-0-choice": [
+            "Observer la situation\nSauvegarder\nAttendre\nAnnuler"
+        ],
+        "1406-0-choice": [
+            "Observer la situation\nSauvegarder\nAttendre\nAnnuler"
+        ],
+        "1441-0-choice": [
+            "Observer la situation\nSauvegarder\nAttendre\nAnnuler"
+        ],
+        "1443-0-choice": [
+            "Observer la situation\nSauvegarder\nAttendre\nAnnuler"
+        ],
+        "1490-0-message": [
+            "\\C[4](Que devrais-je faire...?)",
+            "\\C[4](Que devrais-je faire...?)"
+        ],
+        "1512-0-message": [
+            "\\C[4](Que devrais-je faire...?)"
+        ],
+        "1512-0-choice": [
+            "Observer la situation\nSauvegarder\nAttendre\nAnnuler"
+        ],
+        "995-0-choice": [
+            "Tout à fait\nAh bon ?",
+            "Il a réalisé l'étendue de ses erreurs\nIl voulait qu'on soit amis\nIl voulait voir le dossier « Sara »"
+        ],
+        "1406-0-message": [
+            "\\C[4](Que devrais-je faire...?)"
+        ],
+        "1441-0-message": [
+            "\\C[4](Que devrais-je faire...?)"
+        ],
+        "1455-0-message": [
+            "\\C[4](Que devrais-je faire...?)"
+        ],
+        "1685-0-message": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\C[4](Que devrais-je faire...?)"
+        ],
+        "1490-0-choice": [
+            null,
+            "Observer la situation\nSauvegarder\nAttendre\nAnnuler"
+        ],
+        "1443-0-message": [
+            "\\C[4](Que devrais-je faire...?)"
+        ],
+        "1455-0-choice": [
+            "Observer la situation\nSauvegarder\nAttendre\nAnnuler"
         ]
     },
     "map107": {
