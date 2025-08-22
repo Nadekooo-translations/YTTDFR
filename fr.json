@@ -9248,8 +9248,8 @@
             "\\C[4](Je devrais les \\C[2]solliciter\\C[4] quand leur\n \\C[2]expression\\C[4] change !)"
         ],
         "993-0-message": [
-            null,
-            null,
+            "\"Tu ne peux pas appeler ça un hack.\n ... Arrête de mal employer des mots que\n tu viens à peine d'apprendre.\"",
+            "\"... Et donc ?\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
             "\\.\\C[4](Mince...! Je me suis trompée !)"
@@ -9680,24 +9680,24 @@
             "\\.\"Si seulement j'avais de quoi le contrer...!\""
         ],
         "992-0-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\"J'ai réussi à trouver le mot de passe grâce aux\n traces de doigt qu'il y avait.\"",
+            "\"J'ai trouvé un mot de passe...\n Et s'introduire dans les appareils des gens...\n C'est bien du hack, non ?\"",
+            "\"..........\"",
+            "\\.\\C[4](Non ! Elle ne me répond plus...!!)",
+            "\"...\n ...\n ...\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\"Kanna... n'est pas une incapable...\"",
+            "\"Sou a passé tout hier à tourner en rond, agité...\"",
+            "\\.\"Il n'arrêtait pas de répéter :\n «Je n'ai pas le mot de passe ! »,\n à retirer et remettre son bonnet...\"",
+            "\\.\"Quand soudainement, en regardant les mains de Sou...\n Je me rendis compte de quelque chose.\n Même dans une telle situation, elles sont\n impeccablement propres...\"",
+            "\\.\"Et ça m'a donnée une idée.\"",
+            "\\.\"Et s'il restait des \\C[2]traces du mot de passe\n sur le clavier\\C[0]...?\"",
+            "\\.\"J'ai donc réussi à trouver le mot de passe à partir\n des \\C[2]traces de doigt\\C[0] qu'il restait sur le clavier.\"",
             "\\.\\C[4](J'ai extrait une nouvelle déclaration...!)"
         ],
         "994-0-message": [
             null,
-            null,
+            "\"Cela voudrait dire que Kanna est douée en informatique,\n elle aussi...?!\"",
             null,
             "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
@@ -20650,7 +20650,19 @@
             "\\.\"Une p'tite minute !! Comment ça ?!\"",
             "\\.\"Hum... E-Euh...\"",
             "\\.\\C[4](K-Kanna a hacké quelque chose...?)",
-            "\\.\"... Haa, là là.\n Tu n'es jamais claire dans tes propos.\""
+            "\\.\"... Haa, là là.\n Tu n'es jamais claire dans tes propos.\"",
+            "\\.\"Allez ! Donne-nous plus d'détails !\"",
+            "\\.\"... Donne-nous plus de détails, si tu le veux bien.\"",
+            "\\.\"D-D'accord...\"",
+            "\"Kanna... a hacké des choses bien avant que\n Sou le fasse !\"",
+            "\\.\"Euh... c'était quoi comme \\C[2]type\\C[0] de hack, au juste ?\"",
+            "\\.\"J'ai trouvé un mot de passe...\n Et s'introduire dans les appareils des gens...\n C'est bien du hack, non ?\"",
+            "\"Cela voudrait dire que Kanna est douée en informatique,\n elle aussi...?!\"",
+            "\\.\"Tu ne peux pas appeler ça un hack.\n ... Arrête de mal employer des mots que\n tu viens à peine d'apprendre.\"",
+            "\"Nickel, Sara.\n Continuons de faire avancer le débat comme ça.\"",
+            "\\.\"Oui...!\"",
+            "\\.\"\\C[2]Extrais\\C[0] des assertions pour élargir tes options...\"",
+            "\"Sers-toi de tes \\C[2]objets\\C[0] comme preuves ou\n \\C[2]confronte des assertions entre elles\\C[0] pour\n trouver des incohérences.\""
         ]
     },
     "map107": {
