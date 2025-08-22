@@ -7615,7 +7615,7 @@
             "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Et alors ?! Quel est le rapport ?!\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            "\"Une remarque futile...\n En quoi cela prouve-t-il quoi que ce soit ?\"",
+            "\"Une remarque futile...\n En quoi prouve-t-elle quoi que ce soit ?\"",
             "\\.\"Sara Chidouin !\n Tu ne me feras pas changer d'avis !\n Tu es suspecte !\"",
             "\\.\\C[4](Urgh... Ce gars est...)",
             "\"Hmph...\n Tu n'as pas d'arguments, n'est-ce pas...?\"",
@@ -7633,7 +7633,7 @@
             "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Mauvais objet !\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            "\"Une remarque futile...\n En quoi cela prouve-t-il quoi que ce soit ?\"",
+            "\"Une remarque futile...\n En quoi prouve-t-elle quoi que ce soit ?\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Voici le dialogue en utilisant Extraire sur\n une nouvelle déclaration.\"",
             "\"Tu souhaites extraire une nouvelle déclaration,\n n'est-ce pas ?\"",
@@ -7938,7 +7938,7 @@
             "\"Hmph... Je crois Sou.\n Quiconque le protège est donc le \\C[3]Sage\\C[0]...\n Voilà comment nous devrions procéder.\"",
             "\"Allons, allons...\n Ce n'est pas moi que tu devrais attaquer, correct ?\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            "\"Une remarque futile...\n En quoi cela prouve-t-il quoi que ce soit ?\"",
+            "\"Une remarque futile...\n En quoi prouve-t-elle quoi que ce soit ?\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Nous sommes tous les deux haïs...\n Nous pourrions peut-être nous entendre.\n Mouahaha...\"",
             "\"Je suis le seul...\"",
@@ -8015,7 +8015,7 @@
             "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Mauvais objet !\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            "\"Une remarque futile...\n En quoi cela prouve-t-il quoi que ce soit ?\"",
+            "\"Une remarque futile...\n En quoi prouve-t-elle quoi que ce soit ?\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Voici le dialogue en utilisant Extraire sur\n une nouvelle déclaration.\"",
             "\"Tu souhaites extraire une nouvelle déclaration,\n n'est-ce pas ?\"",
@@ -8383,7 +8383,7 @@
             "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Mauvais objet !\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            "\"Une remarque futile...\n En quoi cela prouve-t-il quoi que ce soit ?\"",
+            "\"Une remarque futile...\n En quoi prouve-t-elle quoi que ce soit ?\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Voici le dialogue en utilisant Extraire sur\n une nouvelle déclaration.\"",
             "\"Tu souhaites extraire une nouvelle déclaration,\n n'est-ce pas ?\"",
@@ -8652,48 +8652,68 @@
             "\\.\\C[4](Malgré nos observations, nous n'avons\n pas trouvé de piste...)"
         ],
         "652-0-message": [
-            null,
-            null,
+            "\"Votre ami le policier est resté dans le Hall Principal\n quelques moments de plus.\"",
+            "\"Oh, un cadeau de ta part, Sara...?\n Ça me fait plaisir.\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            null,
-            "\\.\\C[4](Mince...! Je me suis trompée !)"
+            "\"Hmm... Je dois admettre que je suis sans voix...\"",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
+            "\"Y en a qui sont passés par le Hall Principal,\n donc je peux corroborer leurs dires.\"",
+            "\\.\"D'autre question, ma petite détective ?\"",
+            "\\.\\C[4](Il est de plutôt bonne humeur...)"
         ],
         "654-0-message": [
-            null,
-            null,
-            null,
+            "\"Quand on s'partageait l'PC au Hall Principal,\n on était six : Moi, Sou, Kanna, Sara, Keiji et Reko.\"",
+            "\"Quand on s'partageait l'PC au Hall Principal,\n on était six : Moi, Sou, Kanna, Sara, Keiji et Alice.\"",
+            "\"Y a rien d'incorrect dans c'que j'dis, là !\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            null,
-            "\\.\\C[4](Mince...! Je me suis trompée !)"
+            "\"... Faut qu'tu m'expliques en quoi nier\n ça va t'aider !\"",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
+            "\"Après l'signal d'échange et l'départ de Sara,\n j'ai repris l'exploration d'mon côté aussi.\"",
+            "\\.\"Après avoir un peu papoté avec Keiji au Hall Principal,\n j'suis parti à la Salle Effondré et j'suis tombé\n dans les vapes...\"",
+            "\\.\"J'aimerais bien m'dire que j'ai eu un coup d'fatigue et\n que j'me suis cogné la tête contre un mur, mais...\""
         ],
         "655-0-message": [
-            null,
-            null,
-            null,
+            "\"Les tasers sont assez impressionnants...\n Dire que ça a pu assommer Q-taro.\n C'est vraiment dangereux.\"",
+            "\"Je ne me sentais pas bien, donc je suis parti\n aux toilettes...\n J'ai discuté avec Nao sur le retour.\"",
+            "\"... Quel est le rapport ?\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            null,
-            "\\.\\C[4](Mince...! Je me suis trompée !)"
+            "\"... En quoi cette déclaration est-elle pertinente ?\"",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
+            "\"C'est vraiment dommage qu'il ait perdu\n autant de précieux temps juste comme ça.\"",
+            "\\.\\C[4](Sou... Comment se fait-il que tu saches ça...?)",
+            "\"Pour être très précis, c'était à propos du hack.\n Kanna est venue me rendre l'ordinateur lors\n de notre discussion.\"",
+            "\\.\"J'ai pensé à inclure Kanna dans notre plan,\n mais elle est directement partie je-ne-sais-où.\"",
+            "\\.\"Voilà, c'est mon alibi.\"",
+            "\\.\"Les tasers sont assez impressionnants...\n Dire que ça a pu assommer Q-taro.\n C'est vraiment dangereux.\"",
+            "\\.\\C[4](Hm ? Cette déclaration, juste à l'instant...)"
         ],
         "656-0-message": [
-            null,
-            null,
+            "\"Après que Sara est partie en courant d'un coup,\n on a continué à regarder ce qu'il y avait sur l'ordi.\n Il y avait pas grand-chose d'autre.\"",
+            "\"T-Tu me crois pas ?! Sara...?!\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            null,
-            "\\.\\C[4](Mince...! Je me suis trompée !)"
+            "\"Hein...?! Où tu veux en venir ?!\"",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
+            "\"Quand on a terminé de regarder l'ordi,\n on est chacuns partis de notre côté...\n Regarder un peu à droite à gauche.\"",
+            "\\.\"J'ai pas d'alibi ni rien...\n Mais c'est pas moi le coupable.\""
         ],
         "657-0-message": [
-            null,
-            null,
+            "\"C'est vrai.\n Nous avons discuté de notre plan pour pirater\n le faux Monsieur Mishima.\"",
+            "\"Sara !! Je t'en prie, crois-moi !!\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            null,
-            "\\.\\C[4](Mince...! Je me suis trompée !)"
+            "\"J-Je ne comprends pas trop où tu veux en venir...\"",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
+            "\"À titre personnel, je pense que c'est parce que\n notre plan de piratage s'est bien déroulé que\n notre plan d'évasion est allé aussi loin...\"",
+            "\\.\"On a vraiment pu... compter sur Sou, à ce moment-là.\n Et pourtant...\""
         ],
         "658-0-message": [
-            null,
-            null,
+            "\"Moi, j'étais en train d'explorer le rez-de-chaussée\n dans le noir complet, miaou...\"",
+            "\"J'ai pas besoin de ce truc, ouaf !\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            null,
-            "\\.\\C[4](Mince...! Je me suis trompée !)"
+            "\"À la défense, j'ai Mia-chan, miaou !!\"",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
+            "\"Je me disais que je devrais revenir au deuxième étage,\n mais j'avais un bâton dans les roues, ouaf...\"",
+            "\\.\"C'était Sue Rillante, la Poupée Ricanante !!\n J'ai eu peur, ouaf !!\"",
+            "\\.\\C[4](Ça signifie que Gin est resté au rez-de-chaussée\n jusqu'à ce que je le retrouve à la Chambre des\n Tromperies.)"
         ],
         "663-0-message": [
             null,
@@ -8762,7 +8782,7 @@
             "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Mauvais objet !\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            "\"Une remarque futile...\n En quoi cela prouve-t-il quoi que ce soit ?\"",
+            "\"Une remarque futile...\n En quoi prouve-t-elle quoi que ce soit ?\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Voici le dialogue en utilisant Extraire sur\n une nouvelle déclaration.\"",
             "\"Tu souhaites extraire une nouvelle déclaration,\n n'est-ce pas ?\"",
@@ -8974,7 +8994,7 @@
             null,
             null,
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            "\"Une remarque futile...\n En quoi cela prouve-t-il quoi que ce soit ?\"",
+            "\"Une remarque futile...\n En quoi prouve-t-elle quoi que ce soit ?\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "775-0-message": [
@@ -9049,7 +9069,7 @@
             null,
             null,
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            "\"Une remarque futile...\n En quoi cela prouve-t-il quoi que ce soit ?\"",
+            "\"Une remarque futile...\n En quoi prouve-t-elle quoi que ce soit ?\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "795-0-message": [
@@ -9202,7 +9222,7 @@
             null,
             "\"Mauvais objet !\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            "\"Une remarque futile...\n En quoi cela prouve-t-il quoi que ce soit ?\"",
+            "\"Une remarque futile...\n En quoi prouve-t-elle quoi que ce soit ?\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "983-0-message": [
@@ -9232,7 +9252,7 @@
             "\"Kanna Kizuchi était avec lui la plupart du temps...\n Seul Sou Hiyori sait ce dont elle est capable.\"",
             "\"Et qu'est-ce que cela prouve, au juste ?!\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            "\"Une remarque futile...\n En quoi cela prouve-t-il quoi que ce soit ?\"",
+            "\"Une remarque futile...\n En quoi prouve-t-elle quoi que ce soit ?\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Il est vrai que j'ai été le partenaire de conversation\n de Kanna Kizuchi pendant une courte durée...\"",
             "\\.\"Mais sans trop m'avancer, notre discussion\n ne nous a pas tant rapprochés que ça !\"",
@@ -9334,7 +9354,7 @@
             "\"Ghh...! Ça me gêne de l'admettre, mais puisque Sou\n et Sara peuvent être le \\C[2]Maître des Clés\\C[0],\n nous ne devrions pas voter pour eux...!\"",
             "\"Allons, allons...\n Ce n'est pas moi que tu devrais attaquer, correct ?\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            "\"Une remarque futile...\n En quoi cela prouve-t-il quoi que ce soit ?\"",
+            "\"Une remarque futile...\n En quoi prouve-t-elle quoi que ce soit ?\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Mais... Quel choix est le plus sûr, alors...?!\""
         ],
@@ -9526,19 +9546,27 @@
             "\\.\\C[4](Parfait... Nao a regagné son sang-froid !)"
         ],
         "653-0-message": [
-            null,
-            null,
-            null,
+            "\"Kanna est allée donner l'ordinateur à Sou\n et est repartie juste après, donc...\"",
+            "\"Quand on a fini de consulter l'ordinateur...\n Kanna alla le rendre à Sou.\"",
+            "\"Hum... Qu'est-ce que c'est que ça ?\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            null,
-            "\\.\\C[4](Mince...! Je me suis trompée !)"
+            "\"Il faut que tu me croies, s'il te plaît...\"",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
+            "\"Elle n'a pas entendu Sou et Nao discuter.\"",
+            "\\.\"Sou discutait avec Nao au Couloir en Ruines.\"",
+            "\\.\"À propos de quoi ?\"",
+            "\\.\"D-Désolée, mais Kanna est partie juste après avoir\n rendu l'ordinateur à Sou...\"",
+            "\\.\"Elle se faisait du souci pour Sara...\n Donc Kanna est allée la chercher de son côté.\"",
+            "\\.\\C[4](Vraiment...)"
         ],
         "659-0-message": [
-            null,
-            null,
+            "\"Sara Chidouin...\n Après ton départ soudain,\n nous retournâmes sur l'ordinateur.\n Mais il ne restait rien de bien intéressant dessus.\"",
+            "\"C'est quoi ça ?! Pointe pas ça à ma tête !\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            "\"Une remarque futile...\n En quoi cela prouve-t-il quoi que ce soit ?\"",
-            "\\.\\C[4](Mince...! Je me suis trompée !)"
+            "\"Une remarque futile...\n En quoi prouve-t-elle quoi que ce soit ?\"",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
+            "\"Après avoir terminé de consulter l'ordinateur,\n nous sommes partis explorer l'endroit chacun\n de notre côté... Hmpf...\"",
+            "\\.\"... Je te préviens, je ne suis pas le responsable.\n Ne fais pas d'assomptions bêtement fondées sur des\n choses comme les apparences ou l'emprisonnement.\""
         ],
         "662-0-message": [
             null,
@@ -9596,7 +9624,7 @@
         ],
         "725-0-message": [
             null,
-            null,
+            "\"J'ai pas besoin de ce truc, ouaf !\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
             "\\.\\C[4](Mince...! Je me suis trompée !)"
@@ -9650,7 +9678,7 @@
             null,
             null,
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            "\"Une remarque futile...\n En quoi cela prouve-t-il quoi que ce soit ?\"",
+            "\"Une remarque futile...\n En quoi prouve-t-elle quoi que ce soit ?\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "787-0-message": [
@@ -14820,29 +14848,29 @@
         "1633-0-message": [
             null,
             null,
-            "\"Une remarque futile...\n En quoi cela prouve-t-il quoi que ce soit ?\""
+            "\"Une remarque futile...\n En quoi prouve-t-elle quoi que ce soit ?\""
         ],
         "1670-0-message": [
             null,
             null,
-            "\"Une remarque futile...\n En quoi cela prouve-t-il quoi que ce soit ?\""
+            "\"Une remarque futile...\n En quoi prouve-t-elle quoi que ce soit ?\""
         ],
         "1702-0-message": [
             null,
             null,
-            "\"Une remarque futile...\n En quoi cela prouve-t-il quoi que ce soit ?\""
+            "\"Une remarque futile...\n En quoi prouve-t-elle quoi que ce soit ?\""
         ],
         "1727-0-message": [
             null,
             null,
             null,
-            "\"Une remarque futile...\n En quoi cela prouve-t-il quoi que ce soit ?\""
+            "\"Une remarque futile...\n En quoi prouve-t-elle quoi que ce soit ?\""
         ],
         "1742-0-message": [
             null,
             null,
             null,
-            "\"Une remarque futile...\n En quoi cela prouve-t-il quoi que ce soit ?\"",
+            "\"Une remarque futile...\n En quoi prouve-t-elle quoi que ce soit ?\"",
             null,
             null,
             null,
@@ -14853,12 +14881,12 @@
         "1751-0-message": [
             null,
             null,
-            "\"Une remarque futile...\n En quoi cela prouve-t-il quoi que ce soit ?\""
+            "\"Une remarque futile...\n En quoi prouve-t-elle quoi que ce soit ?\""
         ],
         "1764-0-message": [
             null,
             null,
-            "\"Une remarque futile...\n En quoi cela prouve-t-il quoi que ce soit ?\""
+            "\"Une remarque futile...\n En quoi prouve-t-elle quoi que ce soit ?\""
         ],
         "125-0-message": [
             "\"... On à qu'à voter pour la personne l'plus\n suspecte et incapable.\"",
@@ -15155,44 +15183,44 @@
         ],
         "184-0-message": [
             "\\C[3]Assigner le nom de famille \"Yabusame\" à Joe ?",
-            "\\.\\C[4](Non ! Joe c'est Jou Tazuna !\n Comment j'ai fait pour oublier le nom de mon\n meilleur ami ?!)"
+            "\\.\\C[4](Non ! Joe, c'est Jou Tazuna !\n Comment j'ai fait pour oublier le nom de mon\n meilleur ami ?!)"
         ],
         "185-0-message": [
             "\\C[3]Assigner le nom de famille \"Yabusame\" à Keiji ?",
-            "\\.\\C[4](Non ! Keiji c'est Keiji Shinogi !\n Il m'a fait forte impression donc je me rappelle\n bien son nom.)"
+            "\\.\\C[4](Non ! Keiji, c'est Keiji Shinogi !\n Il m'a fait forte impression donc je me rappelle\n bien son nom.)"
         ],
         "186-0-message": [
             "\\C[3]Assigner le nom de famille \"Yabusame\" à Kanna ?",
-            "\\.\\C[4](Non ! Kanna c'est Kanna Kizuchi !\n Son nom utilise beaucoup de kanji donc il\n se démarque mieux des autres dans ma tête...)"
+            "\\.\\C[4](Non ! Kanna, c'est Kanna Kizuchi !\n Son nom utilise beaucoup de kanji donc il\n se démarque mieux des autres dans ma tête...)"
         ],
         "187-0-message": [
             "\\C[3]Assigner le nom de famille \"Yabusame\" à Q-taro ?",
-            "\\.\\C[4](Non ! Q-taro c'est Q-taro Burgerberg !\n Attends.\n Ce n'était pas Cubetaro Hamburger, plutôt...?)"
+            "\\.\\C[4](Non ! Q-taro, c'est Q-taro Burgerberg !\n Attends.\n C'était pas Cubetaro Hamburger, plutôt...?)"
         ],
         "188-0-message": [
             "\\C[3]Assigner le nom de famille \"Yabusame\" à Sou ?",
-            "\\.\\C[4](Non ! Sou c'est Sou Hiyori !\n \"Temps radieux\", c'est facile à retenir...\n D'une certaine manière, son nom le représente bien.)"
+            "\\.\\C[4](Non ! Sou, c'est Sou Hiyori !\n \"Temps radieux\", c'est facile à retenir...\n D'une certaine manière, son nom le représente bien.)"
         ],
         "190-0-message": [
             "\\C[3]Assigner le nom de famille \"Yabusame\" à Nao ?",
-            "\\.\\C[4](Non ! Nao c'est Nao Egokoro !\n \"Cœur de l'art\"...\n C'est comme si elle avait été faite pour ça.)"
+            "\\.\\C[4](Non ! Nao, c'est Nao Egokoro !\n \"Cœur de l'art\"...\n C'est comme si elle avait été faite pour ça.)"
         ],
         "191-0-message": [
             "\\C[3]Assigner le nom de famille \"Yabusame\" à Kai ?",
-            "\\.\\C[4](Non ! Kai c'est Kai Satou !\n C'est un nom très commun, mais...\n Je crois que c'est tout.)"
+            "\\.\\C[4](Non ! Kai, c'est Kai Satou !\n C'est un nom très commun, mais...\n Je crois que c'est tout.)"
         ],
         "192-0-message": [
             "\\C[3]Assigner le nom de famille \"Yabusame\" à Gin ?",
-            "\\.\\C[4](Non ! Gin c'est Gin Ibushi !\n C'est un nom plutôt ferme pour un enfant,\n donc je m'en rappelle...)"
+            "\\.\\C[4](Non ! Gin, c'est Gin Ibushi !\n C'est un nom plutôt ferme pour un enfant,\n donc je m'en rappelle...)"
         ],
         "193-0-message": [
             "\\C[3]Assigner le nom de famille \"Yabusame\" à Gonbee ?",
-            "\\.\\C[4](Non ! Gonbee c'est Gonbee Yamada !\n C'est un nom rustique, donc je m'en rappelle...)"
+            "\\.\\C[4](Non ! Gonbee, c'est Gonbee Yamada !\n C'est un nom rustique, donc je m'en rappelle...)"
         ],
         "194-0-message": [
-            "\\.\\C[4](Je crois... que c'était une femme, non...?)",
+            "\\.\\C[4](Il me semble... que c'était une femme, non...?)",
             "\\.\\C[4](Une femme...\n Et quand Joe a entendu son nom, il s'est excité.)",
-            "\\.\\C[4](C'était une femme...\n Et quand Joe a entendu son nom, il s'est excité...\n Parce que c'était une célébrité de magazines...?)",
+            "\\.\\C[4](C'était une femme...\n Et quand Joe a entendu son nom, il s'est excité...\n Parce que c'était une célébrité apparue dans\n des magazines...?)",
             "\\.\\C[4](C'était une femme...\n Et quand Joe a entendu son nom, il s'est excité...\n Parce que c'était une célébrité de magazines...\n Une auteure-compositrice, c'est ça...?)"
         ],
         "202-0-message": [
@@ -16803,11 +16831,11 @@
             "\\.\"... Mais ça ne change en rien le fait qu'on\n ne peut pas lui faire confiance.\"",
             "\\.\"Rien n'est clair dans son histoire !\n Tant que tu ne nous montres pas tes réelles\n intentions, je continuerai de-\"",
             "\\.\"OK, ça me va.\n Je veux bien être le premier candidat.\"",
-            "\\.\"... Euh... Quoi...?\"",
+            "\\.\"... Hein...? Quoi...?\"",
             "\\.\"Après tout, je suis...\"",
             "\\.\"... le \\C[10]Sacrifice\\C[0].\"",
             "\\.\"Mais qu'est-ce tu fabriques ?!\n T'as écouté ce qu'on vient de dire ?!\n On vient d'expliquer qu'on passera nos rôles\n en revue après...!\"",
-            "\\.\"Il n'y a pas de règle m'interdisant d'annoncer\n mon rôle.\"",
+            "\\.\"Aucune règle ne m'interdit d'annoncer\n mon propre rôle.\"",
             "\\.\"Bon, OK...\"",
             "\\.\"Désolé, Keiji.\n Je ne suis juste pas à l'aise à l'idée de\n te laisser prendre les devants.\"",
             "\\.\"Oh, je sais !\n Et si j'étais le prochain à proposer quelqu'un ?\"",
@@ -20880,10 +20908,34 @@
             "\\.\\C[4](Je me suis mise à paniquer...\n Et je suis allée chercher des jetons.)",
             "\\.\\C[4](C'est vrai... Je n'ai pas croisé Q-taro après ça.)",
             "\\.\\C[4](Si j'arrive à déterminer la séquence d'action\n de tout le monde sur cette période de temps,\n je devrais pouvoir...!)",
-            "\\.\"Bon, dans ce cas, il faut qu'on dise tous\n \\C[2]ce qu'on a fait à ce moment\\C[0]...!\""
+            "\\.\"Bon, dans ce cas, il faut qu'on dise tous\n \\C[2]ce qu'on a fait à ce moment\\C[0]...!\"",
+            "\\.\"Mouahaha... Intéressant.\n Pourquoi ne pas simplement citer \\C[2]nos alibis\n à ce moment donné\\C[0], dans ce cas...?\"",
+            "\"Quand on s'partageait l'PC au Hall Principal,\n on était six : Moi, Sou, Kanna, Sara, Keiji et Reko.\"",
+            "\"Quand on s'partageait l'PC au Hall Principal,\n on était six : Moi, Sou, Kanna, Sara, Keiji et Alice.\"",
+            "\"Après que Sara est partie en courant d'un coup,\n on a continué à regarder ce qu'il y avait sur l'ordi.\n Il y avait pas grand-chose d'autre.\"",
+            "\"Sara Chidouin...\n Après ton départ soudain,\n nous retournâmes sur l'ordinateur.\n Mais il ne restait rien de bien intéressant dessus.\"",
+            "\"Quand on a fini de consulter l'ordinateur...\n Kanna alla le rendre à Sou.\"",
+            "\"Votre ami le policier est resté dans le Hall Principal\n quelques moments de plus.\"",
+            "\"Je ne me sentais pas bien, donc je suis parti\n aux toilettes...\n J'ai discuté avec Nao sur le retour.\"",
+            "\"C'est vrai.\n Nous avons discuté de notre plan pour pirater\n le faux Monsieur Mishima.\"",
+            "\"Moi, j'étais en train d'explorer le rez-de-chaussée\n dans le noir complet, miaou...\""
         ],
         "651-0-choice": [
-            "On en a trouvé\nOn n'en a pas trouvé\nLa vidéo est une preuve"
+            "On en a trouvé\nOn n'en a pas trouvé\nLa vidéo est une preuve",
+            "Insister\nAbandonner"
+        ],
+        "661-0-message": [
+            "\"C'est que tu connais bien l'arme employée, Sou.\"",
+            "\\.\"Hm...?\"",
+            "\\.\"J'ai discrètement retiré le taser de la\n scène de crime.\"",
+            "\\.\"Seuls Gin et moi savions que Q-taro a été\n victime d'une attaque au taser.\"",
+            "\\.\"...!\"",
+            "\\.\"La seule autre personne qui pouvait le savoir...\n Est le coupable !\"",
+            "\\.\"... Bon, c'est réglé.\"",
+            "\\.\"Putain, Sou !!\n C'est toi qui a utilisé le taser pour assommer\n Q-taro !!\"",
+            "\\.\"Mouahaha... Un lapsus pour le moins inattendu.\"",
+            "\\.\"Le coupable a employé le taser pour assommer\n Cubetaro Hamburger !!\n Et c'était toi, Sou Hiyori !!\"",
+            "\\.\"Je plaide coupable...\""
         ]
     },
     "map107": {
