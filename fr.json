@@ -8726,18 +8726,24 @@
             "\\.\\C[4](S'il n'y a rien d'autre, oui...)"
         ],
         "665-0-message": [
-            "\"J'ai pris peur donc je suis directement parti, mais...\n C'était une vidéo d'une victime, miaou...\"",
+            "\"J'ai pris peur donc je suis directement parti...\n Mais j'ai vu un des morts sur la vidéo,\n j'en suis sûr, miaou...\"",
             "\"J'y pense...\n En explorant le rez-de-chaussée dans le noir,\n moi aussi, j'ai trouvé une vidéo bizarre, miaou...\"",
-            null,
+            "\"J'ai dit un truc qui faut pas, miaou...?\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            null,
-            "\\.\\C[4](Mince...! Je me suis trompée !)"
+            "\"Je vais te faire pareil, tu vas voir, miaou !!\"",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
+            "\"Ouaf... Ça te dit quelque chose, grande sœur Sara ?\"",
+            "\"Il y avait un homme avec des lunettes...\n Et une sorte de hache lui a tranché la tête...\"",
+            "\\.\"E-Et il a dit... ton prénom, grande sœur Sara...\"",
+            "\\.\\C[4](Non, il parle de... Cette vidéo ?!)",
+            "\"Après, moi, je me méfie pas de toi ni rien, miaou !!\"",
+            "\\.\"J'ai pris peur donc je suis directement parti...\n Mais j'ai vu un des morts sur la vidéo,\n j'en suis sûr, miaou...\""
         ],
         "669-0-message": [
-            "\"On devrait garder quelqu'un avec plein de jetons.\n ... Genre Q-taro.\"",
-            null,
+            "\"On devrait exclure quelqu'un qui a plein de jetons.\n ... Genre Q-taro.\"",
+            "\"Je pensais que ce serait un bon plan, perso.\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            null,
+            "\"Nan, je vois pas le lien.\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "671-0-message": [
@@ -9602,10 +9608,13 @@
         ],
         "666-0-message": [
             "\"À ce sujet...\n J'étais curieux à propos des actes de Nao Egokoro.\n Elle est longuement restée dans la Chambre\n des Tromperies.\"",
-            null,
+            "\"Hmph...\n Que peut bien signifier cette inutile chose ?\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            null,
-            "\\.\\C[4](Mince...! Je me suis trompée !)"
+            "\"Hmm...? Se pourrait-il que tu suspectes Nao...?\"",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
+            "\"En vérité, l'étrangeté des actes de Nao sont\n simplement expliqués par la présence du\n faux Monsieur Mishima dans sa chambre.\"",
+            "\\.\"Il n'y a donc aucune raison de remettre la crédibilité\n de Nao Egokoro en question.\"",
+            "\\.\\C[4](... Il a plus l'air de plus favoriser Nao,\n on dirait.)"
         ],
         "670-0-message": [
             "\"Je serais vraiment contente si nous gardions Sara...\n Il fallait que je le dise.\"",
@@ -20993,11 +21002,44 @@
             "\\.\"MiaaaAAAaaaou ?!\""
         ],
         "668-0-message": [
-            null,
-            null,
-            null,
-            null,
-            "\\.\\C[4](C'était de ça dont Nao parlait !)"
+            "\"Grande sœur Nao, tu parles d'une vidéo de\n quelqu'un qui est mort, miaou...?\"",
+            "\\.\"...\n ...\n ...\"",
+            "\\.\"... Tout à fait.\"",
+            "\\.\\C[4](D'accord...\n Donc la vidéo d'une victime que j'ai sur moi !)",
+            "\\.\\C[4](C'était de ça dont Nao parlait !)",
+            "\"Nao, tu parles de cette vidéo, c'est ça ?\"",
+            "\\.\"Ah !! Je l'avais fait tomber...!!\"",
+            "\\.\"... Oui, c'est bien elle.\"",
+            "\\.\"Elle montrait une dame enchainée...\n Et ce terrifiant appareil qui s'activait...!\"",
+            "\\.\"Là, cruellement... Elle perdu la vie...!!\"",
+            "\\.\"Et... un homme se tenait devant elle en riant...\n De dos, on aurait dit...\"",
+            "\\.\"On aurait dit... notre policier ici présent...!!\"",
+            "\\.\"...!\"",
+            "\\.\"À mes yeux...\n Il a l'air d'avoir laissé la dame mourir...\"",
+            "\\.\"... Hm. En voilà, une histoire bouleversante...\"",
+            "\\.\"Cependant...!\n Il y a toujours la possibilité que ce soit truqué !\"",
+            "\\.\"Hé bien, pourquoi ne pas simplement lui demander ?\"",
+            "\\.\"Keiji, cette vidéo, est-elle réelle ?\n Ou bien renies-tu son existence ?\"",
+            "\\.\"... Si je me méfie de toi, c'est pour qu'on\n puisse mieux te faire confiance.\"",
+            "\\.\"...\n ...\n ...\"",
+            "\\.\\C[4](Keiji...!)",
+            "\\.\"Non, attendez !! Keiji est...!!\"",
+            "\\.\"Sara, ça suffit.\"",
+            "\\.\"T'as aucune raison de prendre ma défense.\"",
+            "\\.\"Il a raison.\n Je dirais même que nous gagnerions du temps si\n tu lui tirais les vers du nez pour nous, Sara.\"",
+            "\\.\"Qu...?!\"",
+            "\\.\\C[4](Il est vrai que je veux avoir la vérité au sujet\n de cette vidéo aussi, mais...!)",
+            "\\.\"...\n ...\n ...\"",
+            "\\.\"Nous irions plus vite si tu lui tirais\n les vers du nez, Sara.\"",
+            "\\.\"Quoi...?!\"",
+            "\\.\"Même Keiji cracherait le morceau pour sa chère Sara.\"",
+            "\\.\"Révèle sa véritable nature, celle qu'il dissimule\n depuis si longtemps.\"",
+            "\\.\"Je compte sur toi...\"",
+            "\\.\"...\n ...\n ...\"",
+            "\\.\\C[4](Dévoiler la véritable nature de Keiji...\n Au grand jour...? Et de mes propres mains...?)"
+        ],
+        "668-0-choice": [
+            "Protéger Keiji\nGarder le silence"
         ]
     },
     "map107": {
@@ -33275,7 +33317,7 @@
             "\\.\\C[4](Mais bien évidemment... pour le \\C[10]Sacrifice\\C[4]...\n Cette stratégie n'est pas souhaitable.)",
             "\\.\"Reçu cinq sur cinq, ouaf !!\n Allez, parlons de qui \\C[2]on devrait garder\\C[0], miaou !!\"",
             "\"Je pense qu'on devrait garder grande sœur Sara, miaou !\n Parce qu'elle est super astucieuse, ouaf !\"",
-            "\"On devrait garder quelqu'un avec plein de jetons.\n ... Genre Q-taro.\"",
+            "\"On devrait exclure quelqu'un qui a plein de jetons.\n ... Genre Q-taro.\"",
             "\"Et si on gardait Gin, étant donné qu'il n'a\n aucun jeton ?!\"",
             "\"On devrait pas voter pour Gin ou Kanna...\n C'vraiment pas louable d'sacrifier un gamin...\"",
             "\"Sou devrait être mis de côté...\n Genre, il avait pas dit qu'il était le \\C[10]Sacrifice\\C[0]\n dès le départ ?\"",
