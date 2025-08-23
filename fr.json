@@ -8721,10 +8721,12 @@
             "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Je me suis trompée quelque part,\n dans ce que j'ai dit ?\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            "\"Mais en vrai, c'était peut-être difficile pour elle\n de rester dans sa chambre à cause du faux\n Monsieur Mishima.\""
+            "\"Mais en vrai, c'était peut-être difficile pour elle\n de rester dans sa chambre à cause du faux\n Monsieur Mishima.\"",
+            "\\.\"Tu vois Sara, on l'a, notre raison !\n Pas besoin de se méfier d'elle, du coup, hein ?!\"",
+            "\\.\\C[4](S'il n'y a rien d'autre, oui...)"
         ],
         "665-0-message": [
-            null,
+            "\"J'ai pris peur donc je suis directement parti, mais...\n C'était une vidéo d'une victime, miaou...\"",
             "\"J'y pense...\n En explorant le rez-de-chaussée dans le noir,\n moi aussi, j'ai trouvé une vidéo bizarre, miaou...\"",
             null,
             "\\.\\C[4](Mince...! Je me suis trompée !)",
@@ -9581,12 +9583,22 @@
             "\\.\"... Juste pour rappel, Gin est un humain.\""
         ],
         "664-0-message": [
-            null,
+            "\"La vidéo dont je parle...\n C'est celle que l'on a regardé ensemble, Sara...\"",
             "\"Je... suis tombée sur une certaine vidéo.\n Depuis, je me pose des questions...\n Donc, je pense bien avoir une personne en tête...\"",
-            null,
+            "\"S-S'il te plaît, écoute ce que j'ai à diiire...!\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            null,
-            "\\.\\C[4](Mince...! Je me suis trompée !)"
+            "\"Hiii...?! Je me suis trompée quelque part ?!\"",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
+            "\"Une dame enchaînée... et l'homme devant elle...\"",
+            "\\.\\C[4](Si c'est de cette vidéo dont elle parle...\n Je pourrais peut-être la montrer.)",
+            "\"Au sujet de cette vidéo...\n La première fois, j'avais trop peur de regarder...\"",
+            "\\.\"Mais j'ai décidé de prendre mon courage à deux mains\n et de la consulter à l'aide du moniteur du faux\n Monsieur Mishima.\"",
+            "\\.\"Quelle sorte de vidéo était-ce ?\"",
+            "\\.\"H-Hum... Hé bien...\"",
+            "\\.\"Il est toujours possible que ce soit orchestré...\n Je ne voudrais pas donner aux autres de mauvaises\n présomptions...\"",
+            "\\.\"Si tu ne nous dis rien, on ne pourra pas le savoir.\"",
+            "\\.\"T-Tu sais...\n C'est la vidéo qu'on \\C[2]a regardée ensemble\\C[0], Sara...\"",
+            "\\.\\C[4](La vidéo qu'on a regardée ensemble...?)"
         ],
         "666-0-message": [
             "\"À ce sujet...\n J'étais curieux à propos des actes de Nao Egokoro.\n Elle est longuement restée dans la Chambre\n des Tromperies.\"",
