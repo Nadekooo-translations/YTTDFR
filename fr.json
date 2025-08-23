@@ -8716,15 +8716,16 @@
             "\\.\\C[4](Ça signifie que Gin est resté au rez-de-chaussée\n jusqu'à ce que je le retrouve à la Chambre des\n Tromperies.)"
         ],
         "663-0-message": [
-            null,
-            null,
+            "\"Justement...\n Nao a passé la moitié du temps à la\n Chambre des Tromperies.\n Je me demande ce qu'elle y faisait...\"",
+            "\"C'est ni plus ni moins la vérité !\n Tu m'entends, Sara ?!\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            null,
-            "\\.\\C[4](Mince...! Je me suis trompée !)"
+            "\"Je me suis trompée quelque part,\n dans ce que j'ai dit ?\"",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
+            "\"Mais en vrai, c'était peut-être difficile pour elle\n de rester dans sa chambre à cause du faux\n Monsieur Mishima.\""
         ],
         "665-0-message": [
             null,
-            null,
+            "\"J'y pense...\n En explorant le rez-de-chaussée dans le noir,\n moi aussi, j'ai trouvé une vidéo bizarre, miaou...\"",
             null,
             "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
@@ -9569,22 +9570,26 @@
             "\\.\"... Je te préviens, je ne suis pas le responsable.\n Ne fais pas d'assomptions bêtement fondées sur des\n choses comme les apparences ou l'emprisonnement.\""
         ],
         "662-0-message": [
-            null,
-            null,
+            "\"Moi, ce sont les actions de Gin qui m'intriguent.\n Comment il a fait pour trouver le passage vers\n le rez-de-chaussée...?\"",
+            "\"C'est pas mal osé de chercher à nier ça, Sara.\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            null,
-            "\\.\\C[4](Mince...! Je me suis trompée !)"
+            "\"J'ai pas l'intention de débattre ça avec toi, là...\"",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
+            "\"Qu'il remarque le passage secret de la Salle Effondrée\n juste comme ça lors de ses recherches,\n ça me fait sourciller un peu.\"",
+            "\\.\"Il faudrait un meilleur flair qu'un chien de police.\"",
+            "\\.\\C[4](Mais si Gin avait l'odorat d'un chat ET d'un\n chien combinés...!)",
+            "\\.\"... Juste pour rappel, Gin est un humain.\""
         ],
         "664-0-message": [
             null,
-            null,
+            "\"Je... suis tombée sur une certaine vidéo.\n Depuis, je me pose des questions...\n Donc, je pense bien avoir une personne en tête...\"",
             null,
             "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
             "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "666-0-message": [
-            null,
+            "\"À ce sujet...\n J'étais curieux à propos des actes de Nao Egokoro.\n Elle est longuement restée dans la Chambre\n des Tromperies.\"",
             null,
             "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
@@ -20954,7 +20959,14 @@
             "\\.\"Quitte à se méfier des uns et des autres...\n Autant le faire tant qu'on a encore le temps...\"",
             "\\.\"Hmph...\n Une sage décision, car nous n'aurons bientôt plus\n le temps pour remettre les dires de chacun\n en question...\"",
             "\\.\"Même si ce n'est pas facile...\n Il faut le faire.\"",
-            "\\.\"Tu veux dire...\n D'avoir des doutes sur les gens, miaou...?\""
+            "\\.\"Tu veux dire...\n D'avoir des doutes sur les gens, miaou...?\"",
+            "\\.\"Ouais.\n Va falloir prendre votre courage à deux mains\n et dire ce que vous pensez, tout le monde.\"",
+            "\\.\"Bon, essayons de trouver \\C[2]une personne suspecte\n en plus de Sou\\C[0].\"",
+            "\"Justement...\n Nao a passé la moitié du temps à la\n Chambre des Tromperies.\n Je me demande ce qu'elle y faisait...\"",
+            "\"À ce sujet...\n J'étais curieux à propos des actes de Nao Egokoro.\n Elle est longuement restée dans la Chambre\n des Tromperies.\"",
+            "\"Je... suis tombée sur une certaine vidéo.\n Depuis, je me pose des questions...\n Donc, je pense bien avoir une personne en tête...\"",
+            "\"J'y pense...\n En explorant le rez-de-chaussée dans le noir,\n moi aussi, j'ai trouvé une vidéo bizarre, miaou...\"",
+            "\"Moi, ce sont les actions de Gin qui m'intriguent.\n Comment il a fait pour trouver le passage vers\n le rez-de-chaussée...?\""
         ],
         "680-0-message": [
             null,
@@ -20967,6 +20979,13 @@
             null,
             null,
             "\\.\"MiaaaAAAaaaou ?!\""
+        ],
+        "668-0-message": [
+            null,
+            null,
+            null,
+            null,
+            "\\.\\C[4](C'était de ça dont Nao parlait !)"
         ]
     },
     "map107": {
