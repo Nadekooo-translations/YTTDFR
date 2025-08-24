@@ -8758,7 +8758,7 @@
             "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"J'cherche pas à m'faire passer pour un bon\n samaritain, hein.\"",
             "\\.\"C'juste que si on abandonne nos morales,\n on finira par devenir d'vrais démons...\"",
-            "\\.\"Si on arrive là...\n Vote pour moi, Sara.\"",
+            "\\.\"Si on doit en arriver là...\n Vote pour moi, Sara.\"",
             "\\.\\C[4](...)"
         ],
         "672-0-message": [
@@ -8770,24 +8770,24 @@
             "\"Parce que t'es juste trop meugnonne.\"",
             "\\.\"... Tu t'attendais à ce que je dise quoi ?\"",
             "\\.\\C[4](Grr...!)",
-            "\\.\"Quand notre évasion échoua, je t'ai regardé,\n et une pensée me traversa l'esprit...\"",
-            "\\.\"... Elle se comporte étrangement.\"",
+            "\\.\"Quand notre évasion a échoué, je t'ai regardée,\n et une pensée me traversa l'esprit...\"",
+            "\\.\"... Son comportement est assez étrange.\"",
             "\\.\"Tes yeux étaient emplis de désespoir,\n comme si tu avais le \\C[10]Sacrifice\\C[0].\"",
             "\\.\\C[4](...!!)",
             "\\.\"Et en plus...\"",
             "\\.\"Il y a eu un échange juste après notre échec.\n ... Un tout petit peu suspect, ne trouves-tu pas ?\"",
-            "\\.\"Je veux savoir la vérité à ton sujet, Sara...\""
+            "\\.\"Je veux avoir la vérité à ton sujet, Sara...\""
         ],
         "674-0-message": [
             "\"Si Gin a reçu le \\C[10]Sacrifice\\C[0] ne serait-ce qu'une fois,\n il n'aurait pas été en mesure de l'échanger !\"",
-            "\"Et si on gardait Gin, étant donné qu'il n'a\n aucun jeton ?!\"",
+            "\"Et si on laissait Gin,\n étant donné qu'il n'a aucun jeton ?!\"",
             "\"Quelque chose cloche, dans ce que j'ai dit ?!\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Hiii ! Pardon !\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Gin a donc plus de chances d'être \\C[10]Sacrifice\\C[0]...!\n N'est-ce pas une ingénieuse réflexion ?!\"",
             "\"Écoute-moi...!\n Il ne faut pas voter pour ceux qui sont\n \\C[2]très probablement\\C[0] le \\C[10]Sacrifice\\C[0] !\"",
-            "\\.\"Si tu reçois le \\C[10]Sacrifice\\C[0], tu peux toujours l'envoyer\n à quelqu'un grâce à tes jetons, oui ?\"",
+            "\\.\"Si tu reçois le \\C[10]Sacrifice\\C[0], tu peux toujours l'envoyer\n à quelqu'un d'autre grâce à tes jetons, oui ?\"",
             "\\.\"Sauf... que Gin n'a aucun jeton...!\"",
             "\\.\"Si Gin a reçu le \\C[10]Sacrifice\\C[0] ne serait-ce qu'une fois,\n il n'aurait pas été en mesure de l'échanger !\"",
             "\\.\\C[4](Il a donc plus de chances d'être le \\C[10]Sacrifice\\C[4]...?)"
@@ -8798,7 +8798,7 @@
             "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"J'accepterai aucune objection, ouaf !!\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            "\"Et aussi, j'ai promis de protéger grande sœur Sara,\n miaou !\"",
+            "\"Et aussi, j'ai promis de te protéger,\n grande sœur Sara, miaou !\"",
             "\\.\"Gin...\"",
             "\\.\"Je crois en toi, miaou !\""
         ],
@@ -8811,8 +8811,8 @@
             "\"Son inquiétant comportement est clairement calculé.\"",
             "\\.\"En accumulant la haine et la méfiance,\n il s'attire les votes des autres !\"",
             "\\.\"Nous ferions peut-être mieux de simplement\n le laisser dans son coin.\"",
-            "\\.\"S'il est bien le \\C[10]Sacrifice\\C[0], en revanche, \n il pourrait voter deux fois pour lui-même, ce qui\n signifierait qu'il serait tout de même retenu...\"",
-            "\\.\"N'est-ce donc pas ?! Oh, comme ce serait terrible !!\""
+            "\\.\"Par contre, s'il est bien le \\C[10]Sacrifice\\C[0],\n il pourra voter deux fois pour lui-même, ce qui\n signifierait qu'il serait tout de même retenu...\"",
+            "\\.\"Oui, en effet ?! Oh, c'est terrible !!\""
         ],
         "697-0-message": [
             "\"Mauvais objet !\"",
@@ -8846,44 +8846,61 @@
             "\\.\"Je crois pas qu'on avait assez de jetons\n pour faire d'échange...\""
         ],
         "720-0-message": [
-            "\"Échanger des cartes requiert 50 jetons.\n Tout le monde n'était pas capable d'en effectuer !\"",
-            null,
+            "\"Échanger des rôles requiert 50 jetons.\n Tout le monde n'était pas capable d'en effectuer !\"",
+            "\"Hmpf...\n Qu'essaies-tu de me communiquer, avec cette chose ?\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            null,
-            "\\.\\C[4](Mince...! Je me suis trompée !)"
+            "\"Hé !\n Tu devrais plus réfléchir à ce que t'essaies\n de réfuter !\"",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
+            "\"Si je me rappelle bien, dans le classement,\n Q-taro avait le plus de jetons et Gin le moins.\"",
+            "\\.\"Nao Egokoro faisait aussi partie des dernières...\"",
+            "\\.\"Des quatre sélectionnés, c'est Nao,\n la seule à ne pas avoir eu assez de jetons\n pour pouvoir faire d'échange, c'est ça ?\""
         ],
         "723-0-message": [
-            null,
-            null,
+            "\"...\n ...\n ...\"",
+            "\"J'suis pas en train d'mentir !\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            null,
-            "\\.\\C[4](Mince...! Je me suis trompée !)"
+            "\"C'est la vérité, OK ?!\"",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
+            "\"...\n ...\n ...\"",
+            "\\.\\C[4](Q-taro... Pourquoi tu ne dis rien ?!)"
         ],
         "724-0-message": [
-            null,
-            null,
+            "\"Le \\C[6]troisième échange\\C[0] est arrivé quand on était tous\n sur l'ordi...!\"",
+            "\"C-C'est quoi le problème ?\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            null,
-            "\\.\\C[4](Mince...! Je me suis trompée !)"
+            "\"Arrête, avec tes allusions bizarres !\"",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
+            "\"J'étais inquiète à cause de ta réaction, Sara...\"",
+            "\\.\"Dire que quelqu'un t'a filé le \\C[10]Sacrifice\\C[0]...!\"",
+            "\\.\"Quel connard, Q-taro...\n Il a fait cet échange juste à côté de nous\n pour ensuite prétendre qu'il est innocent...?!\"",
+            "\\.\\C[4](Tiens ? Quelque chose cloche avec cette assertion...)"
         ],
         "726-0-message": [
-            null,
-            null,
+            "\"Alors voilà.\n \\C[6]Le troisième échange\\C[0] s'est déroulé alors que\n nous nous partagions l'ordinateur...\"",
+            "\"Hmpf...\n Cette chose ne m'est d'aucune utilité, tu sais ?\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            null,
-            "\\.\\C[4](Mince...! Je me suis trompée !)"
+            "\"Mais c'est QUOI cet argument, là ?!\"",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
+            "\"Me souvenir de la photo qu'il y avait dessus\n fait encore frémir mon cœur...\"",
+            "\\.\"Mais à l'heure actuelle, l'important,\n c'est ce troisième échange.\"",
+            "\\.\"Hmpf...\n Ce n'était rien d'autre qu'un acte de trahison,\n en fin de compte...\"",
+            "\\.\"Cubetaro Hamburger...\n Bien qu'il était juste à côté de nous,\n il t'a envoyé \\C[10]Sacrifice\\C[0]...!\"",
+            "\\.\"Quel homme cruel et froid !!\n Ne me parlez plus jamais de liens ou\n quoique ce soit...!!\"",
+            "\\.\\C[4](Tiens ? Quelque chose cloche avec cette assertion...)"
         ],
         "728-0-message": [
-            null,
+            "\"C-C'est quoi le problème ?\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            null,
-            "\\.\\C[4](Mince...! Je me suis trompée !)"
+            "\"Arrête, avec tes allusions bizarres !\"",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
+            "\"Qu'il soit conscient de son crime ou non...\n Ça change rien...!!\n Pour faire un truc pareil, faut vraiment être le\n pire des enfoirés...!!\""
         ],
         "730-0-message": [
-            null,
+            "\"Hmpf...\n Cette chose ne m'est d'aucune utilité, tu sais ?\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            null,
-            "\\.\\C[4](Mince...! Je me suis trompée !)"
+            "\"Mais c'est QUOI cet argument, là ?!\"",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
+            "\"Je suis pas investi dans des choses comme\n les relations, mais... putain, quoi...!!\n C'est quoi, cette sensation ?!\""
         ],
         "741-0-message": [
             null,
@@ -9652,7 +9669,7 @@
             "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Ma raison...? Hum...\"",
             "\\.\"...\n ...\n ...\"",
-            "\\.\"Hé bieeen, parce que tu es la personne que\n je veux en vie le plus.\"",
+            "\\.\"Hé bieeen, parce que de tout le monde,\n je veux que tu vives le plus.\"",
             "\\.\"À tout prix...\""
         ],
         "673-0-message": [
@@ -9676,22 +9693,25 @@
         ],
         "718-0-message": [
             "\"Aucun des cinq échanges me comprenait, miaou !\"",
-            "\"Juste pour info...\n Je suis resté Roturier tout du long, miaou !\n J'ai jamais eu d'échanges, miaou !\"",
+            "\"Juste pour info...\n Je suis resté Roturier tout du long, miaou !\n J'ai jamais été dans un échange, miaou !\"",
             "\"Je suis pas trop, miaou.\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Tu veux en venir où, miaou ?\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Je promets, je suis Roturier, miaou !\"",
-            "\"Mon cœur se mettait toujours à battre super fort, à\n me demander si j'allais recevoir une mauvaise carte,\n miaou.\"",
+            "\"Mon cœur se mettait toujours à battre super fort,\n à me demander si j'allais recevoir une mauvaise carte,\n miaou.\"",
             "\\.\"Mais au final, mon rôle a pas changé du tout, ouaf.\"",
             "\\.\"Aucun des cinq échanges me comprenait, miaou !\""
         ],
         "725-0-message": [
-            null,
+            "\"Quand le \\C[6]troisième échange\\C[0] est arrivé,\n j'étais tout seul au rez-de-chaussée, miaou !\"",
             "\"J'ai pas besoin de ce truc, ouaf !\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            null,
-            "\\.\\C[4](Mince...! Je me suis trompée !)"
+            "\"Elle s'est fâchée contre moi, miaou...\"",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
+            "\"J'étais parti faire tout ça de mon côté, ouaf.\n Mais je voulais voir l'ordinateur, moi, miaou...\"",
+            "\\.\"... Qu'est-ce que tu faisais, d'ailleurs, au juste ?\"",
+            "\\.\"C-C'est hors sujet, là, ouaf !\""
         ],
         "740-0-message": [
             null,
@@ -19978,48 +19998,64 @@
             "Cette chère \\C[2]Kanna\\C[5] était-elle la victime ?"
         ],
         "722-0-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\"C'est exact...\""
+            "\\.\"Hé, le gorille musclé ! Tu te trompes, miaou !!\"",
+            "\\.\"H-Hein ?!\"",
+            "\\.\"Il y a eu \\C[2]cinq\\C[0] échanges, ouaf !!\"",
+            "\\.\"C-Cinq...?!\"",
+            "\\.\"A-Attends, euh...\n D'mémoire, y a eu trois échanges...\"",
+            "\\.\"Et vous avez parlé d'un autre qu'y a eu\n juste avant l'Jeu Principal...\"",
+            "\\.\"Ah, je sais...\n T'as mal compris, Q-taro.\"",
+            "\\.\"Il y a deux échanges pendant que t'étais inconscient.\"",
+            "\\.\"Quoiiii ?! Mais ç'fait aucun sens !!\"",
+            "\\.\"C'est notre phrase, ça, miaou !!\"",
+            "\\.\"D-Déso...\n Mais personne m'explique rien...\"",
+            "\\.\"Ahh, ouais, c'est de notre faute.\"",
+            "\\.\"Hé, Q-taro...\n C'est quand que t'as filé le \\C[10]Sacrifice\\C[0] à Sara ?\"",
+            "\\.\"T'avais le \\C[10]Sacrifice\\C[0] depuis le début, en fait ?!\"",
+            "\\.\"Cubetaro Hamburger.\n Quand as-tu envoyé le \\C[10]Sacrifice\\C[0] à Sara?\"",
+            "\\.\"J'irai même jusqu'à te demander,\n le \\C[10]Sacrifice\\C[0], était-il ton premier rôle...?!\"",
+            "\\.\"Nan... C'était pas ça.\"",
+            "\\.\"Ma première carte... c'était un \\C[5]Roturier\\C[0].\"",
+            "\\.\"OK...\n J'ai la plupart des échanges résolus.\"",
+            "\\.\"Quoiii ?!\n Moi j'en ai aucune idée, ouaf !!\n Comment ça se fait, miaou ?!\"",
+            "\\.\"C'est parce que c'est votre ami le policier\n qui a fait \\C[6]le premier échange\\C[0].\"",
+            "\\.\"Sérieux ?! T'as échangé quoi avec qui ?!\"",
+            "\\.\"Comment ?!\n Avec qui l'as-tu réalisé, et qu'avez-vous échangé ?!\"",
+            "\\.\"J'ai donné à Sara mon \\C[2]Maître des Clés\\C[0].\"",
+            "\\.\"Quoi...?!\"",
+            "\\.\"Mais elle a commencé avec quoi Sara, alors ?!\"",
+            "\\.\\C[4](Je n'ai aucune raison de mentir, mais...)",
+            "\\.\"Au départ... J'étais un \\C[5]Roturier\\C[0].\"",
+            "\\.\"Ça, c'est un secret !\"",
+            "\\.\"Euuuh... Sara...\n T'as pas été retenue au second tour.\n Décider de garder des secrets maintenant,\n c'est pas exactement pratique...\"",
+            "\\.\"Bon, je vais leur dire à ta place.\n Sara a commencé avec un \\C[4]Roturier\\C[0].\"",
+            "\\.\\C[4](Ma vie privée...!!)",
+            "\\.\"T'as échangé un \\C[2]Maître des Clés\\C[0] contre un \\C[5]Roturier\\C[0],\n miaou ?!\"",
+            "\\.\"Pour approfondir nos confiances.\"",
+            "\\.\"...\"",
+            "\\.\"Allez, faisons un peu de réflexion.\"",
+            "\\.\"Durant le \\C[6]premier échange\\C[0]...\"",
+            "\\.\"Mon \\C[2]Maître des Clés\\C[0] a atterri entre\n les mains de Sara.\"",
+            "\\.\"Durant le \\C[6]deuxième échange\\C[0]...\n Hmm, il s'est passé quoi, au juste ?\"",
+            "\\.\"Hmm... Raté, Sara.\"",
+            "\\.\"Bahaha...\n T'es trop forte pour faire les yeux de chien battu.\"",
+            "\"C'est exact...\"",
+            "\"En suivant l'ordre des choses...\"",
+            "\"En suivant l'ordre des choses...\"",
+            "\"Quelqu'un a échangé son \\C[10]Sacrifice\\C[0] contre le \\C[4]Roturier\\C[0]\n de Q-taro.\"",
+            "\\.\"Et durant le \\C[6]troisième échange\\C[0]...\"",
+            "\\.\"Le \\C[2]Maître des Clés\\C[0] de Sara et le \\C[10]Sacrifice\\C[0]\n de Q-taro se sont fait échanger.\"",
+            "\\.\"Ouaip, c'est c'que ça voudrait dire...\"",
+            "\\.\"Gorille musclé !\n Raconte-nous tout ce dont tu te souviens, miaou !\"",
+            "\\.\"File-nous tous les détails \\C[2]du troisième échange\\C[0]...!\"",
+            "\\.\"Tu es dans l'obligation de nous décrire en profondeur\n \\C[2]le troisième échange\\C[0]...!\"",
+            "\\.\"Rgh...\"",
+            "\"Quand le \\C[6]troisième échange\\C[0] est arrivé,\n j'étais tout seul au rez-de-chaussée, miaou !\n Je veux savoir ce qui se passait, ouaf !\"",
+            "\"Le \\C[6]troisième échange\\C[0] est arrivé quand on était tous\n sur l'ordi...!\"",
+            "\"Alors voilà.\n \\C[6]Le troisième échange\\C[0] s'est déroulé alors que\n nous nous partagions l'ordinateur...\"",
+            "\"...\n ...\n ...\"",
+            "\\C[4](Ces échanges...\n Je ferais mieux de les garder triés en tête.)",
+            "\\C[3]Vous pouvez désormais consulter les détails\ndes échanges."
         ],
         "842-0-message": [
             "\\.\"Nao...\"",
@@ -21028,7 +21064,7 @@
             "\"Moi, ce sont les actions de Gin qui m'intriguent.\n Comment il a fait pour trouver le passage vers\n le rez-de-chaussée...?\""
         ],
         "680-0-message": [
-            "\"... Que se passe-t-il, Q-taro ?\"",
+            "\"... Que t'arrive-t-il, Q-taro ?\"",
             "\\.\"Apparemment, y a eu un échange juste avant\n l'Jeu Principal...\n C'vrai, ça ?!\"",
             "\\.\"Hm...?\"",
             "\"Oui... Tout à fait.\"",
@@ -21036,14 +21072,14 @@
             "\"H-Hé bien, qui sait...?\"",
             "\\.\"Essaie pas d'le cacher !\n C'est bien c'qu'il a dit, nan ?!\"",
             "\\.\"Ç'veut dire que... Ouais...\n Y s'peut que...!\"",
-            "\\.\"J'ai trouvé qui a le \\C[10]Sacrifice\\C[0]...!\"",
+            "\\.\"J'ai trouvé qui a l'\\C[10]Sacrifice\\C[0]...!\"",
             "\\.\"MiaaaAAAaaaou ?!\"",
             "\\.\"Quoi ?!\n Mais comment tu pourrais le deviner juste\n à partir de ce qu'on a...!!\"",
             "\\.\"Q-taro...\"",
             "\\.\"Ouais, j'sais ! Vous autres, écoutez-moi bien !\"",
-            "\\.\"J'suis le \\C[2]Maître des Clés\\C[0]...!!\"",
-            "\\.\"... Quoi...?\"",
-            "\\.\"J'sais, j'crache ça juste avant le vote...!!\"",
+            "\\.\"J'suis l'\\C[2]Maître des Clés\\C[0]...!!\"",
+            "\\.\"... Comment...?\"",
+            "\\.\"Ouais, j'sais, j'crache ça juste avant l'vote...!!\"",
             "\\.\"D'où ça sort ?!\n Et où est-ce que tu veux en venir ?!\"",
             "\\.\"J'me doutais qu'tu réagirais comme ça, Sara...\"",
             "\\.\"Quoi ?!\"",
@@ -21126,6 +21162,82 @@
         "680-0-choice": [
             "C'est vrai\nQui sait ?",
             "En profiter\nArgumenter"
+        ],
+        "732-0-message": [
+            "\\C[4](S'il n'a pas l'intention de parler...\n Je n'ai qu'à être tout aussi têtue que lui !!)",
+            "\"... Pourquoi ne le nies-tu pas, Q-taro ?\""
+        ],
+        "827-0-message": [
+            "\\C[5]Voter pour \\C[2]Sara\\C[5] ?",
+            "\\C[5]Est-ce \\C[2]Sara\\C[5], qui ne fait pas partie des candidats ?",
+            "\\C[5]Voter pour \\C[2]Sara\\C[5] ?"
+        ],
+        "828-0-message": [
+            "\\C[5]Voter pour \\C[2]Joe\\C[5] ?"
+        ],
+        "829-0-message": [
+            "\\C[5]Voter pour \\C[2]Keiji\\C[5] ?",
+            "\\C[5]Est-ce \\C[2]Keiji\\C[5], qui ne fait pas partie des candidats ?",
+            "\\C[5]Voter pour \\C[2]Keiji\\C[5] ?",
+            "\\C[4](Non !!\n C'est bien la seule chose que je n'ai pas\n le droit de faire...!!)"
+        ],
+        "830-0-message": [
+            "\\C[5]Voter pour \\C[2]Kanna\\C[5] ?",
+            "\\C[5]Est-ce \\C[2]Kanna\\C[5], qui ne fait pas partie des candidats ?",
+            "\\C[5]Voter pour \\C[2]Kanna\\C[5] ?"
+        ],
+        "831-0-message": [
+            "\\C[5]Voter pour \\C[2]Q-taro\\C[5] ?",
+            "\\C[5]Est-ce \\C[2]Q-taro\\C[5], qui ne fait pas partie des candidats ?",
+            "\\C[5]Voter pour \\C[2]Q-taro\\C[5] ?"
+        ],
+        "832-0-message": [
+            "\\C[5]Voter pour \\C[2]Sou\\C[5] ?",
+            "\\C[5]Est-ce \\C[2]Sou\\C[5], qui ne fait pas partie des candidats ?",
+            "\\C[5]Voter pour \\C[2]Sou\\C[5] ?"
+        ],
+        "833-0-message": [
+            "\\C[5]Voter pour \\C[2]Reko\\C[5] ?",
+            "\\C[5]Est-ce \\C[2]Reko\\C[5], qui ne fait pas partie des candidats ?",
+            "\\C[5]Voter pour \\C[2]Reko\\C[5] ?"
+        ],
+        "834-0-message": [
+            "\\C[5]Voter pour \\C[2]Nao\\C[5] ?",
+            "\\C[5]Est-ce \\C[2]Nao\\C[5], qui ne fait pas partie des candidats ?",
+            "\\C[5]Voter pour \\C[2]Nao\\C[5] ?"
+        ],
+        "835-0-message": [
+            "\\C[5]Voter pour \\C[2]Kai\\C[5] ?"
+        ],
+        "836-0-message": [
+            "\\C[5]Voter pour \\C[2]Gin\\C[5] ?",
+            "\\C[5]Est-ce \\C[2]Gin\\C[5], qui ne fait pas partie des candidats ?",
+            "\\C[5]Voter pour \\C[2]Gin\\C[5] ?"
+        ],
+        "837-0-message": [
+            "\\C[5]Voter pour \\C[2]Alice\\C[5] ?",
+            "\\C[5]Est-ce \\C[2]Alice\\C[5], qui ne fait pas partie des candidats ?",
+            "\\C[5]Voter pour \\C[2]Alice\\C[5] ?"
+        ],
+        "838-0-choice": [
+            "Consulter la première fiche\nConsulter la deuxième fiche\nConsulter la troisième fiche\nConsulter la quatrième fiche\nAnnuler"
+        ],
+        "839-0-message": [
+            "\\C[4](Non, ce n'est pas ça !!)",
+            "\\.\\C[4](Réfléchis...\n Qui ici n'est pas un candidat ?\n Quelqu'un qui est mis de côté !)",
+            "\\.\\C[4](Ces listes montrent les probabilités de victoire\n de chaque candidat...\n Ce serait donc quelqu'un qui n'est pas présent\n dessus...?)",
+            "\\.\\C[4](La personne qui n'est pas sur les listes...\n Est donc celle qui n'est pas un candidat !)",
+            "\\.\\C[4](Celle qui n'est pas sur les listes... c'est Nao !!)"
+        ],
+        "722-0-choice": [
+            "J'étais un \\C[5]Roturier\\C[0]\nJe ne le dirai pas",
+            "\\C[10]Sacrifice\\C[0] (???) contre \\C[5]Roturier\\C[0] (Q-taro)\n\\C[5]Roturier\\C[0] (Sara) contre \\C[10]Sacrifice\\C[0] (Q-taro)\nDis-moi, s'il te plaît"
+        ],
+        "727-0-message": [
+            "\"Q-taro était juste à côté de nous, de Sara,\n mais il a quand même pris son \\C[2]Maître des Clés\\C[0]\n pour lui donner son \\C[10]Sacrifice\\C[0] !!\n Sur place !! Comment a-t-il osé...?!\"\\^"
+        ],
+        "729-0-message": [
+            "\"Malgré le fait qu'il était avec nous,\n Cubetaro Hamburger a fait un échange avec toi.\n Son \\C[10]Sacrifice\\C[0] contre ton \\C[2]Maître des Clés\\C[0]...!\"\\^"
         ]
     },
     "map107": {
@@ -33220,7 +33332,7 @@
             "\\.\\C[3]Je sens mes nerfs tendus se relâcher.",
             "\\.\\C[3]Mais... pourquoi ces quatre-là...?",
             "\\.\"Sara... T'pas...!!\"",
-            "\\.\"Je ne mentais pas.\n Je ne suis pas le \\C[10]Sacrifice\\C[0], je suis un \\C[5]Roturier\\C[0].\"",
+            "\\.\"C'est ce que je disais.\n Je ne suis pas le \\C[10]Sacrifice\\C[0], je suis un \\C[5]Roturier\\C[0].\"",
             "\\.\"...!!\"",
             "\\.\"Quatre personnes ont été retenues pour le vote final.\"",
             "\\.\"\\C[2]Sou Hiyori.\\C[0]\"",
@@ -33233,13 +33345,13 @@
             "\\.\"... P-Pourquoi moi...?!\"",
             "\\.\\sp[15]\"Ouh... Bouh...\"",
             "\\.\\sp[15]\"...\n ...\n ...\"",
-            "\\.\\sp[15]\"Je... ne devrais... pas...\"",
+            "\\.\\sp[15]\"Ce... n'est pas... juste...\"",
             "\\.\\sp[15]\"...\n ...\n ...\"",
             "\\.\\C[4](... Ce désespoir... Je le connais très bien...)",
             "\\.\\C[4](Avoir envie de parler dans cet état,\n c'est impossible...)",
             "\\.\\C[4](C'est pourquoi...)",
             "\\.\\C[4](Il est de mon devoir de les inspirer.)",
-            "\\.\\C[4](Tout comme Keiji l'avait fait pour moi lors\n du premier Jeu Principal...!)",
+            "\\.\\C[4](Tout comme Keiji l'avait fait pour moi au\n premier Jeu Principal...!)",
             "\\.\\{\"Ne baissez pas les bras !!\"",
             "\\.\"Vous comptez vraiment abandonner maintenant ?!\"",
             "\\.\"Depuis le début...\n On a toujours fait ce qu'on devait faire...!\"",
@@ -33264,13 +33376,13 @@
             "\\.\"Puissiez-vous ne pas tous périr...\"",
             "\\.\"Bon, maintenant on devrait parler des \\C[2]échanges\\C[0]\n en détail !!\"",
             "\\.\"D'accord grande sœur Reko, miaou !!\"",
-            "\\.\"Nous devrions maintenant discuter plus en détails\n des \\C[2]échanges des cartes\\C[0] !!\n Bien compris ?!\"",
+            "\\.\"On devrait maintenant discuter plus en détails\n des \\C[2]échanges de cartes\\C[0] !!\n Bien compris ?!\"",
             "\\.\"Hé, le zèbre ! Laisse-nous gérer, miaou !!\"",
             "\\.\\C[3]Gashu se rassit silencieusement dans son fauteuil.",
             "\"Y a eu qu'quatre échanges en tout !\n C'pas tant que ça !\"",
-            "\"Juste pour info...\n Je suis resté Roturier tout du long, miaou !\n J'ai jamais eu d'échanges, miaou !\"",
+            "\"Juste pour info...\n Je suis resté Roturier tout du long, miaou !\n J'ai jamais été dans un échange, miaou !\"",
             "\"Échanger des cartes, ça demandait 50 jetons !\n Y a pas beaucoup de gens qui pouvait en faire !\"",
-            "\"Échanger des cartes requiert 50 jetons.\n Tout le monde n'était pas capable d'en effectuer !\""
+            "\"Échanger des rôles requiert 50 jetons.\n Tout le monde n'était pas capable d'en effectuer !\""
         ],
         "6-1-message": [
             "\\C[3]Le débat est dans une impasse,\nimpossible d'atteindre de point d'entente...!",
@@ -33404,7 +33516,7 @@
             "\\.\"Reçu cinq sur cinq, ouaf !!\n Allez, parlons de qui \\C[2]on devrait garder\\C[0], miaou !!\"",
             "\"Je pense qu'on devrait garder grande sœur Sara, miaou !\n Parce qu'elle est super astucieuse, ouaf !\"",
             "\"On devrait exclure quelqu'un qui a plein de jetons.\n ... Genre Q-taro.\"",
-            "\"Et si on gardait Gin, étant donné qu'il n'a\n aucun jeton ?!\"",
+            "\"Et si on laissait Gin,\n étant donné qu'il n'a aucun jeton ?!\"",
             "\"On devrait pas voter pour Gin ou Kanna...\n C'vraiment pas louable d'sacrifier un gamin...\"",
             "\"Sou devrait être mis de côté...\n Genre, il avait pas dit qu'il était le \\C[10]Sacrifice\\C[0]\n dès le départ ?\"",
             "\"... Sou devrait être mis de côté.\n Il a dit être le \\C[10]Sacrifice\\C[0] au début de ce débat...\"",
