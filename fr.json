@@ -21165,7 +21165,11 @@
         ],
         "732-0-message": [
             "\\C[4](S'il n'a pas l'intention de parler...\n Je n'ai qu'à être tout aussi têtue que lui !!)",
-            "\"... Pourquoi ne le nies-tu pas, Q-taro ?\""
+            "\"... Pourquoi ne le nies-tu pas, Q-taro ?\"",
+            "\\.\"Quoi...?!\"",
+            "\\.\\C[4](... Après tout, il faut passer par une \\C[2]Allô-Boîte\\C[4]\n pour faire un échange.)",
+            "\\.\\C[4](S'il en avait utilisé une qui se trouvait sur place...\n Nous l'aurions vu faire !)",
+            "\\.\\C[4](Mais que peut-il bien cacher ?!)"
         ],
         "827-0-message": [
             "\\C[5]Voter pour \\C[2]Sara\\C[5] ?",
@@ -21238,6 +21242,31 @@
         ],
         "729-0-message": [
             "\"Malgré le fait qu'il était avec nous,\n Cubetaro Hamburger a fait un échange avec toi.\n Son \\C[10]Sacrifice\\C[0] contre ton \\C[2]Maître des Clés\\C[0]...!\"\\^"
+        ],
+        "733-0-message": [
+            "\\.\"Je...\"",
+            "\\.\"Q-taro, crache le morceau !!\"",
+            "\\.\"J'voulais coopérer... avec Sara...\n Avec tout l'monde !!\"",
+            "\\.\"Mais on a prit davantage d'moi !\n J'suis vraiment pathétique !!\n Un adulte pathétique...!!\"",
+            "\\.\"Le troisième échange...\n Mon \\C[10]Sacrifice\\C[0] qui s'est fait envoyer à Sara...\"",
+            "\\.\"C'pas moi qui ai fait ça...! C'était Sou !!\"",
+            "\\.\"... Hein...?!\"",
+            "\\.\"Pardon...?!\"",
+            "\\.\"... Je ne vois pas de quoi tu veux parler.\"",
+            "\\.\"Sou était au courant !!\n Il savait que j'avais l'\\C[10]Sacrifice\\C[0] !!\"",
+            "\\.\"Quoi...?\"",
+            "\\.\"Quand on s'partageait l'PC...\"",
+            "\\.\"Sou était pas parti aux toilettes...!\"",
+            "\\.\"Il était parti utiliser une Allô-Boîte !!\n Pour échanger mon \\C[10]Sacrifice\\C[0] et l'\\C[2]Maître des Clés\\C[0]\n d'Sara !!\"",
+            "\\.\"Je n'ai aucune idée de quoi tu parles...\"",
+            "\\.\"A-Attendez une petite minute !!\n Il a fait un échange entre deux autres personnes...?\n C'est possible de faire ça ?!\"",
+            "\\.\"Ça... doit être faisable, ouais.\"",
+            "\\.\"...Hmm.\n Tu es tellement confiant dans tes propos.\"",
+            "\\.\"...\n ...\n ...\"",
+            "\\.\"Sou, tu crois pas qu'il est grand temps de\n nous donner la vérité ?\"",
+            "\\.\"...\n ...\n ...\"",
+            "\\.\"... Dis-nous pourquoi t'as vraiment partagé l'ordi.\"",
+            "\\.\"Hahaha. Tu es si profondément méfiant, Keiji.\""
         ]
     },
     "map107": {
