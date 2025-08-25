@@ -8958,7 +8958,13 @@
             "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"J'reculerai devant rien !\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            "\"Té, regarde. J'l'ai juste là !\n T'as la preuve qu'on m'l'a pas prise des mains !\""
+            "\"Té, regarde. J'l'ai juste là !\n T'as la preuve qu'on m'l'a pas prise des mains !\"",
+            "\\.\"Tout ça pour dire, Sou est tombé dans not'piège !\"",
+            "\\.\"Qu'ce soit la position du \\C[10]Sacrifice\\C[0] ou des autres...\n Il était bien loin d'la vérité !!\"",
+            "\\.\"S'il m'avait volé ma tablette après m'avoir attaqué,\n il aurait p'tet' pu connaître mon rôle...\"",
+            "\\.\"Mais j'la gardais sur moi en permanence\n pour éviter ça, justement !!\n Elle était bien au chaud sous mes habits !\"",
+            "\\.\"Sou aurait pas pu faire quoiqu'ce soit en cachette !\n C'est un \\C[5]Roturier\\C[0] !!\"",
+            "\\.\\C[4](Sa tablette, hm...?)"
         ],
         "751-0-message": [
             "\"J'y crois pas...!\n Keiji et Q-taro... C'est que des mensonges...!!\"",
@@ -8970,35 +8976,56 @@
             "\\.\\C[4](Sou n'a pas l'air convaincant du tout...)"
         ],
         "752-0-message": [
-            null,
-            "\"Si Keiji est le \\C[2]Maître des Clés\\C[0], ça veut dire que\n le \\C[10]Sacrifice\\C[0] est soit Sou, Kanna ou Nao, nan ?!\"",
-            null,
+            "\"Qui a lancé le cinquième échange...\n Sou, ou Kanna...?\"",
+            "\"Si Keiji est le \\C[2]Maître des Clés\\C[0], ça veut dire que\n le \\C[10]Sacrifice\\C[0], c'est soit Sou, soit Kanna, soit Nao...\n Nan ?!\"",
+            "\"Refile-moi ce que tu veux, Sara,\n mais t'attends à rien en retour...\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            null,
-            "\\.\\C[4](Mince...! Je me suis trompée !)"
+            "\"Je... me suis trompée quelque part ?\"",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
+            "\"Bordel, c'est quoi ce pressentiment que j'ai, là...?!\"",
+            "\"Sara...\n T'avais vraiment pas de jetons ?\n T'as pas refilé le \\C[10]Sacrifice\\C[0] à quelqu'un d'autre ?\"",
+            "\\.\"Il faut que tu me croies...!\"",
+            "\\.\"Okay...!\"",
+            "\\.\"Dans ce cas, c'est forcément quelqu'un qui avait\n les jetons requis pour l'échange, ouais...?!\"",
+            "\\.\"...\n ...\n ...\"",
+            "\\.\"Sou... ou Kanna...?\""
         ],
         "753-0-message": [
-            null,
-            null,
+            "\"Le policier, est-il vraiment le \\C[2]Maître des Clés\\C[0] ?!\n Ne trouvez-vous pas que quelque chose cloche...?!\"",
+            "\"Mais qu'est-ce diable...?\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            null,
-            "\\.\\C[4](Mince...! Je me suis trompée !)"
+            "\"Aaaah... Je n'arrive pas à comprendre !\"",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
+            "\"Est-il possible que son \\C[2]Maître des Clés\\C[0]\n ait été envoyé à quelqu'un d'autre, à un moment ?!\"",
+            "\\.\"La capacité spéciale du \\C[3]Sage\\C[0] de Q-taro\n lui a révélé que Keiji est le \\C[2]Maître des Clés\\C[0].\"",
+            "\\.\"Alors... c'est vraiment impossible ?!\""
         ],
         "754-0-message": [
-            null,
+            "\"Le ténébreux...\n C'est possible qu'il soit complice avec Kanna\n et qu'il fasse semblant, miaou ?!\"",
             "\"C'est vraiment un \\C[5]Roturier\\C[0], le ténébreux, miaou ?\n On en est vraiment sûr, ouaf...?\"",
-            null,
+            "\"C'est un indice important, miaou ?\n On dirait pas, ouaf !\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            null,
-            "\\.\\C[4](Mince...! Je me suis trompée !)"
+            "\"Je suis pas sûr de comprendre, ouaf !!\"",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
+            "\"Il doit encore avoir une ruse en tête, miaou !!\"",
+            "\"Et si le ténébreux avait menti, ouaf ?\"",
+            "\\.\"Hé bien...\"",
+            "\\.\"Après, on le connait, le ténébreux...\n Le fait qu'il arrive à rien réfuter, c'est bizarre,\n miaou.\"",
+            "\"Peut-être qu'en vérité...\n Il collabore avec la fille au seau et il fait semblant,\n miaou ?!\""
         ],
         "755-0-message": [
-            null,
+            "\"Le \\C[6]cinquième échange\\C[0]...\n Son initiateur est soit Sou, soit Kanna...!\"",
             "\"Gnnn...\n Si Keiji Shinogi est le \\C[2]Maître des Clés\\C[0], cela\n signifie que le \\C[10]Sacrifice\\C[0] est parmi Sou, Kanna\n et Nao, n'est-ce pas ?!\"",
-            null,
+            "\"N'interfère par avec mes déductions, merci bien !!\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            null,
-            "\\.\\C[4](Mince...! Je me suis trompée !)"
+            "\"Mais qu'est-ce que tu AS ?!\n Tu commences à me taper sur le système !!\"",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
+            "\"Si la panique de Sou Hiyori est authentique...\n Se pourrait-il que ce soit Kanna Kizuchi...?\"",
+            "\"Sara Chidouin...!\n N'as-tu vraiment pas de jetons ?!\n T'était-il vraiment impossible d'envoyer le \\C[10]Sacrifice\\C[0]\n à quelqu'un d'autre ?!\"",
+            "\\.\"Il faut que tu me croies...!\"",
+            "\\.\"Dans ce cas, il s'agit de quelqu'un retenu\n au vote final...\"",
+            "\\.\"Et qui avait assez de jetons pour faire un échange !\n Nous aurons notre responsable !\"",
+            "\\.\"En conclusion...\n C'est soit Sou... soit Kanna !\""
         ],
         "759-0-message": [
             null,
@@ -21841,7 +21868,7 @@
             "\\.\"... Bon, OK.\"",
             "\\.\"Allez !!\n Parlons \\C[2]des quatre personnes retenues\\C[0] au vote final !\"",
             "\"Quelqu'un a déplacé le \\C[10]Sacrifice\\C[0] qu'avait Sara\n lors du \\C[6]cinquième échange\\C[0] !\"",
-            "\"Si Keiji est le \\C[2]Maître des Clés\\C[0], ça veut dire que\n le \\C[10]Sacrifice\\C[0] est soit Sou, Kanna ou Nao, nan ?!\"",
+            "\"Si Keiji est le \\C[2]Maître des Clés\\C[0], ça veut dire que\n le \\C[10]Sacrifice\\C[0], c'est soit Sou, soit Kanna, soit Nao...\n Nan ?!\"",
             "\"Gnnn...\n Si Keiji Shinogi est le \\C[2]Maître des Clés\\C[0], cela\n signifie que le \\C[10]Sacrifice\\C[0] est parmi Sou, Kanna\n et Nao, n'est-ce pas ?!\"",
             "\"C'est vraiment un \\C[5]Roturier\\C[0], le ténébreux, miaou ?\n On en est vraiment sûr, ouaf...?\"",
             "\"Tranquillou !\n Sou était convaincu qu'Sara avait échangé\n son \\C[10]Sacrifice\\C[0] depuis l'début.\"",
