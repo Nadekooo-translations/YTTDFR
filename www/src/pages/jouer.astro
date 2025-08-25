@@ -49,6 +49,10 @@ const buildDate = new Date().toLocaleString("fr-FR", {timeZone: 'Europe/Paris'})
 	document.getElementById("btnFullscreen")!.onclick = () => {
 		document.getElementById("gameframe")?.requestFullscreen();
 	};
+
+	addEventListener("beforeunload", e => {
+		e.preventDefault();
+	});
 </script>
 
 <style lang="scss">
