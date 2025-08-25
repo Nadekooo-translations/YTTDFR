@@ -8958,7 +8958,7 @@
             "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"J'reculerai devant rien !\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            "\"Té, regarde. J'l'ai juste là !\n T'as la preuve qu'on m'l'a pas prise des mains !\"",
+            "\"Té, regarde. J'l'ai juste là !\n T'as la preuve qu'on m'l'a pas volée !\"",
             "\\.\"Tout ça pour dire, Sou est tombé dans not'piège !\"",
             "\\.\"Qu'ce soit la position du \\C[10]Sacrifice\\C[0] ou des autres...\n Il était bien loin d'la vérité !!\"",
             "\\.\"S'il m'avait volé ma tablette après m'avoir attaqué,\n il aurait p'tet' pu connaître mon rôle...\"",
@@ -9028,33 +9028,42 @@
             "\\.\"En conclusion...\n C'est soit Sou... soit Kanna !\""
         ],
         "759-0-message": [
-            null,
-            null,
+            "\"On doit trouver qui a le moins de chances\n d'avoir le \\C[10]Sacrifice\\C[0] !!\"",
+            "\"Et ça prouve quoi, au juste ?!\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            null,
-            "\\.\\C[4](Mince...! Je me suis trompée !)"
+            "\"C'juste une suggestion, hein !!\"",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
+            "\"Mais j'vois pas c'qu'essayait de faire celui\n qu'a lancé l'échange...\n Y a quoi comme raisons ?!\""
         ],
         "760-0-message": [
-            null,
-            null,
+            "\"Sou, c'est mort !\n Il a bien plus de chances de sortir ce genre\n de pièges que les autres !!\"",
+            "\"Sara ! Faut qu'on reste calme !\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            null,
-            "\\.\\C[4](Mince...! Je me suis trompée !)"
+            "\"Attends, attends !\n Ça veut dire quoi, ça ?!\"",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
+            "\"Mais...\n Je peux pas choisir entre Nao et Kanna, putain...!!\""
         ],
         "761-0-message": [
-            null,
-            null,
-            null,
+            "\"La fille au seau avait plein de jetons alors que\n grande sœur Nao en avait pas beaucoup, ouaf.\"",
+            "\"Mais... Entre la fille au seau et grande sœur Nao...\n Y a pas vraiment de différence, si, ouaf...?\"",
+            "\"Miaou...?\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            null,
-            "\\.\\C[4](Mince...! Je me suis trompée !)"
+            "\"Je comprends pas, ouaf...\"",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
+            "\"Je veux pas choisiiiir...\"",
+            "\"La seule qui me vient en tête, c'est les jetons,\n miaou.\"",
+            "\\.\"La fille au seau en avait plein alors que\n grande sœur Nao en avait pas beaucoup, ouaf.\"",
+            "\\.\"Et maintenant, quoi, miaou...?\n Miaaaaa...\"",
+            "\\.\"Les... jetons...?\""
         ],
         "762-0-message": [
-            null,
-            null,
+            "\"Il est impératif de ne pas voter pour Sou Hiyori !\n Nous ne savons pas ce qu'il a en tête...!!\"",
+            "\"Et t'as pas l'air de savoir ce qu'il se passe\n dans ta tête non plus, visiblement !\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            null,
-            "\\.\\C[4](Mince...! Je me suis trompée !)"
+            "\"Qu'est-ce qu'il y a ?!\n T'as un problème ?!\"",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
+            "\"Nous n'avons plus qu'à nous décider,\n maintenant...!\"",
+            "\\.\"Nao, ou Kanna...?!\""
         ],
         "765-0-message": [
             null,
@@ -9797,11 +9806,12 @@
             "\"Ma parole...!\n Es-tu incapable d'effectuer d'échanges corrects,\n Keiji Shinogi ?!\""
         ],
         "758-0-message": [
-            null,
-            null,
+            "\"Pour prendre le \\C[10]Sacrifice\\C[0] de Sara,\n il a fallu lancer un \\C[6]cinquième échange\\C[0],\n ce qui demandait un certain nombre de jetons...\"",
+            "\"... Merci. Je te revaudrai ça à l'occasion.\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            null,
-            "\\.\\C[4](Mince...! Je me suis trompée !)"
+            "\"Hmm... Je me demande où tu veux en venir\"",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
+            "\"Si tu prends en compte le nombre de jetons des gens...\n T'auras ta réponse.\""
         ],
         "767-0-message": [
             null,
@@ -14423,7 +14433,7 @@
             null,
             null,
             null,
-            null,
+            "\"Miaou...?\"",
             null,
             null,
             null,
@@ -21917,10 +21927,36 @@
             "\\.\"... Ou pas. Je me le demande !\n Je fais semblant ?\n Ou est-ce que c'est la vérité ?\"",
             "\\.\"Sou...!!\"",
             "\\.\"C'est pas bon, ça...\n Maintenant, y a la possibilité que Sou soit\n le \\C[10]Sacrifice\\C[0]...\"",
-            "\\.\"Raaah !!\n On peut pas juste voter pour Sou, là !!\""
+            "\\.\"Raaah !!\n On peut pas juste voter pour Sou, là !!\"",
+            "\\.\"Mais c'est pas pour autant qu'on peut\n voter Kanna ou Nao non plus...!!\"",
+            "\\.\"Laissez tomber !\n On ne devrait pas voter pour Sou Hiyori !!\"",
+            "\\.\"Hé non...\n Libre à vous de voter pour Kanna ou Nao,\n comme vous voulez.\"",
+            "\\.\"Espèce de sale-!!\"",
+            "\\.\"...\n ...\n ...\"",
+            "\\.\"... Ouuh...\"",
+            "\\.\"Très bien... Allez, reprenons le débat.\"",
+            "\\.\"Discutons.\n \\C[2]Pour qui pouvons-nous voter sans prendre de risque\\C[0] ?\"",
+            "\"On doit trouver qui a le moins de chances\n d'avoir le \\C[10]Sacrifice\\C[0] !!\"",
+            "\"Sou, c'est mort !\n Il a bien plus de chances de sortir ce genre\n de pièges que les autres !!\"",
+            "\"Il est impératif de ne pas voter pour Sou Hiyori !\n Nous ne savons pas ce qu'il a en tête...!!\"",
+            "\"Mais... Entre la fille au seau et grande sœur Nao...\n Y a pas vraiment de différence, si, ouaf...?\"",
+            "\"Pour prendre le \\C[10]Sacrifice\\C[0] de Sara,\n il a fallu lancer un \\C[6]cinquième échange\\C[0],\n ce qui demandait un certain nombre de jetons...\""
         ],
         "757-0-choice": [
             "Sou l'avait pris\nQ-taro l'a retirée dans son sommeil"
+        ],
+        "764-0-message": [
+            "\"Comme l'a dit Gin...\n Nao avait quasi pas de jetons...\"",
+            "\\.\"Du coup, pas moyen qu'elle soit celle qui ait\n pris le \\C[10]Sacrifice\\C[0] de Sara.\"",
+            "\\.\"Alors... C'Nao, l'option la moins risquée...?\"",
+            "\\.\"N-Non, s'il vous plaît, attendez...\"",
+            "\\.\"C'est... étrange...\"",
+            "\\.\"G-Grande sœur Naooo...\"",
+            "\\.\"L'option la moins risquée, vous dites...?\n Comptez-vous vraiment me tuer en vous basant\n sur une opinion aussi légère...?!\"",
+            "\\.\"...\n ...\n ...\"",
+            "\\.\"S'il vous plaît...! Discutez à nouveau !!\"",
+            "\\.\"Tu as raison, Nao.\n On ne peut pas s'arrêter maintenant.\"",
+            "\\.\"T-Toi...! Qu'est-ce que tu mijotes ?!\""
         ]
     },
     "map107": {
@@ -38642,7 +38678,7 @@
     "map90": {
         "3-1-message": [
             "\"Alors les salauds, vous les récoltez, ces jetons ?\"",
-            "\\.\"Les jetons...\"",
+            "\\.\"Les jetons...?\"",
             "\\.\"Ouais...\"",
             "\\.\"Merveilleux, Madame Sara !\n Quelle bonté de votre part, d'obéir au professeur !\"",
             "\\.\"C'est tout ce que tu avais à me dire ?\"",
