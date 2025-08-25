@@ -13,7 +13,7 @@ const posts = await getCollection("blog");
 
 	<div class="posts-container">
 		{
-			posts.map((post, idx) => (
+			posts.map(post => (
 				<a href={`/blog/${post.id}`} class="post">
 					<article>
 						<h3>{post.data.title}</h3>
