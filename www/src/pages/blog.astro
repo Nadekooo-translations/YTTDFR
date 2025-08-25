@@ -1,12 +1,7 @@
 ---
-import dayjs from "dayjs";
-import relativeTime from "dayjs/plugin/relativeTime";
-import "dayjs/locale/fr";
 import { getCollection } from "astro:content";
 import Layout from "../layouts/Layout.astro";
 
-dayjs.extend(relativeTime);
-dayjs.locale("fr");
 const posts = await getCollection("blog");
 ---
 
@@ -24,7 +19,7 @@ const posts = await getCollection("blog");
 						<h3>{post.data.title}</h3>
 
 						<time datetime={post.data.date.toISOString().split("T")[0]}>
-							{dayjs(post.data.date).fromNow()}
+							&nbsp; {/* placeholder */}
 						</time>
 
 						<p>{post.data.brief}</p>
@@ -34,6 +29,18 @@ const posts = await getCollection("blog");
 		}
 	</div>
 </Layout>
+
+<script>
+	import dayjs from "dayjs";
+	import relativeTime from "dayjs/plugin/relativeTime";
+	import "dayjs/locale/fr";
+	dayjs.extend(relativeTime);
+	dayjs.locale("fr");
+
+	for (const time of document.querySelectorAll("time[datetime]") as NodeListOf<HTMLTimeElement>) {
+		time.textContent = dayjs(time.dateTime).fromNow();
+	}
+</script>
 
 <style lang="scss">
 	@import "../styles/_colors.scss";
