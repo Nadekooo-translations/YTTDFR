@@ -12,7 +12,7 @@ watch(index, (newValue) => {
 
 const nextFreeSlot = computed(() => {
 	for (let i = 1; i <= 102; i++) {
-		if (index[i] === null) {
+		if (!index[i]) {
 			return i;
 		}
 	}
