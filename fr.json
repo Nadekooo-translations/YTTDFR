@@ -21482,7 +21482,7 @@
             "\\.\\C[4](La première ligne de ce tableau représente le rôle\n avec lequel chaque personne a commencé.)",
             "\\.\\C[4](Les personnes sont triées par ordre croissant\n en fonction de leur nombre de jetons.\n ... Ou du moins, de manière approximative.)",
             "\\.\\C[4](La prochaine ligne représente les rôles\n de tout le monde \\C[6]à la suite du premier échange\\C[4].)",
-            "\\.\\C[4](Juste en dessous, c'est \\C[6]après le deuxième échange\\C[4]...\n Et ensuite \\C[6]après le troisième échange\\C[4]...\n Et ainsi de suite.)",
+            "\\.\\C[4](Juste en dessous, c'est \\C[6]après le deuxième échange\\C[4]...\n Ensuite, c'est \\C[6]après le troisième échange\\C[4]...\n Et ainsi de suite.)",
             "\\.\\C[4](La ligne inférieure indique \\C[6]le résultat à l'issue\n du cinquième échange\\C[4]...\n Ou en d'autres mots, les rôles que nous avons\n à l'heure actuelle.)",
             "\\.\\C[4](Bien évidemment, ce ne sont que des conjectures...\n Elle n'est pas finale, elle sera donc retravaillée\n au fur et à mesure des informations apprises.)"
         ],
@@ -21552,7 +21552,7 @@
             "\\.\\C[4](Mon \\C[5]Roturier\\C[4] s'est fait échanger contre le\n \\C[2]Maître des Clés\\C[4] de Keiji.\n Aucun doute à avoir sur ça...\n Ou du moins, c'est ce que je pensais...)",
             "\\>[Premier Échange]\\<\n\\>Initié par : Keiji\\<\n\n\\>Keiji (\\C[2]Maître des Clés\\C[0]) ⇔ Sara (\\C[5]Roturier\\C[0])\\<",
             "\\C[4](Keiji a lancé le \\C[6]premier échange\\C[4],\n il n'y a aucun doute à avoir sur ça.)",
-            "\\.\\C[4](Mon \\C[5]Roturier\\C[4] s'est fait échanger contre le\n \\C[2]Maître des Clés\\C[4] de Keiji.\n Aucun doute à avoir sur ça... Enfin, je crois.)"
+            "\\.\\C[4](Mon \\C[5]Roturier\\C[4] s'est fait échanger contre le\n \\C[2]Maître des Clés\\C[4] de Keiji.\n C'est indéniable... Enfin, je crois.)"
         ],
         "951-0-choice": [
             "Cogiter [Premier Échange]\nAnnuler",
