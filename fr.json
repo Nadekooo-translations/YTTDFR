@@ -9066,43 +9066,44 @@
             "\\.\"Nao, ou Kanna...?!\""
         ],
         "765-0-message": [
-            null,
-            null,
+            "\"Faut qu'on se décide entre Sou, Kanna et Nao\n en fonction de ce qu'ils faisaient au moment du\n \\C[6]cinquième échange\\C[0].\"",
+            "\"Sara... Peut-être que t'es un peu bête, au final ?\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            null,
-            "\\.\\C[4](Mince...! Je me suis trompée !)"
+            "\"Y a rien dans ce que je dis qui a besoin\n d'être réfuté...\"",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
+            "\"Votre ami le policier était en train d'essayer\n de dégager le passage...\n Je sais rien de rien.\""
         ],
         "766-0-message": [
-            null,
-            null,
-            null,
+            "\"Kanna cherchait quelque chose qu'elle avait\n fait tomber...\"",
+            "\"Kanna... ne faisait rien en particulier...\n Elle ne faisait qu'errer sans destination...\"",
+            "\"K-Kanna ne craquera pas...\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            null,
+            "\"M-Mais que veux-tu dire...?\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "768-0-message": [
-            null,
+            "\"Vous me croirez, si je vous dis que je suis resté\n tout du long dans la Chambre des Victorieux\n sur l'ordinateur ?\"",
             null,
             "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
             "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "769-0-message": [
-            null,
+            "\"J'étais avec Nao aux escaliers la plupart du temps...\"",
             null,
             "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
             "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "770-0-message": [
-            null,
+            "\"J'étais assise dans les escaliers, en train de réfléchir\n à propos de tout ce qu'il s'était passé...\"",
             "\"...?\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
             "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "772-0-message": [
-            null,
+            "\"Je dégageais des rochers aux côtés de Keiji Shinogi...\n Je ne sais pas ce que faisaient les trois autres...!\"",
             null,
             "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Une remarque futile...\n En quoi prouve-t-elle quoi que ce soit ?\"",
@@ -9814,7 +9815,7 @@
             "\"Si tu prends en compte le nombre de jetons des gens...\n T'auras ta réponse.\""
         ],
         "767-0-message": [
-            null,
+            "\"Y en a qui étaient avec les trois,\n quand s'est arrivé ?!\"",
             null,
             "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
@@ -9822,7 +9823,7 @@
         ],
         "771-0-message": [
             null,
-            null,
+            "\"J'étais parti de mon côté pour essayer de trouver\n d'autres sorties, miaou !\"",
             null,
             "\\.\\C[4](Mince...! Je me suis trompée !)",
             null,
@@ -10787,7 +10788,8 @@
             "Utiliser l'objet sélectionné\nAnnuler",
             "Mémoriser la déclaration\nAnnuler",
             "Oublier la déclaration mémorisée\nAnnuler",
-            "Appliquer la déclaration mémorisée\nAnnuler"
+            "Appliquer la déclaration mémorisée\nAnnuler",
+            "Lui poser des questions\nAnnuler"
         ],
         "767-0-choice": [
             "Utiliser l'objet sélectionné\nAnnuler",
@@ -21956,7 +21958,62 @@
             "\\.\"...\n ...\n ...\"",
             "\\.\"S'il vous plaît...! Discutez à nouveau !!\"",
             "\\.\"Tu as raison, Nao.\n On ne peut pas s'arrêter maintenant.\"",
-            "\\.\"T-Toi...! Qu'est-ce que tu mijotes ?!\""
+            "\\.\"T-Toi...! Qu'est-ce que tu mijotes ?!\"",
+            "\\.\"Je viens de me rappeler quelque chose.\"",
+            "\\.\"Il y avait bien une manière pour n'importe qui\n d'obtenir des jetons.\"",
+            "\\.\"Tu devrais bien savoir de quoi je veux parler,\n pas vrai, Sara ?\"",
+            "\\.\\C[4](Une manière pour n'importe qui d'obtenir\n des jetons...)",
+            "\"Du portefeuille qu'on m'a volé, c'est ça...?\"",
+            "\\.\"... Il est toujours possible que tu l'aies simplement\n égarée comme une empotée, Sara.\"",
+            "\\.\\C[4](Je ne suis pas autant maladroite que ça !)",
+            "\\.\"On pouvait simplement aller récupérer\n les jetons de la dépouille d'Alice...\n Qui était resté à la Chambre des Tromperies.\"",
+            "\"En récupérant les jetons... du corps d'Alice...!\"",
+            "\\.\"... Je savais que tu en étais capable.\"",
+            "\\.\\C[4](Une manière pour n'importe qui d'obtenir\n des jetons...)",
+            "\"Du portefeuille qu'on m'a volé, c'est ça...?\"",
+            "\\.\"... Il est toujours possible que tu l'aies simplement\n égarée comme une empotée, Sara.\"",
+            "\\.\\C[4](Je ne suis pas autant maladroite que ça !)",
+            "\\.\"On pouvait simplement aller récupérer\n les jetons de la dépouille de Reko...\n Qui était resté à la Chambre des Tromperies.\"",
+            "\"En récupérant les jetons... du corps de Reko...!\"",
+            "\\.\"... Je savais que tu en étais capable.\"",
+            "\\.\\C[4](Une manière pour n'importe qui d'obtenir\n des jetons...)",
+            "\"Tu veux dire... en faisant un échange avec quelqu'un ?\"",
+            "\\.\"Ça voudrait dire prendre le risque de se faire trahir.\n Il y a une autre, bien meilleure manière.\"",
+            "\\.\"On pouvait simplement aller récupérer\n les jetons de la dépouille d'Alice...\n Qui était resté à la Chambre des Tromperies.\"",
+            "\"En récupérant les jetons... du corps d'Alice...!\"",
+            "\\.\"... Je savais que tu en étais capable.\"",
+            "\\.\\C[4](Une manière pour n'importe qui d'obtenir\n des jetons...)",
+            "\"Tu veux dire... en faisant un échange avec quelqu'un ?\"",
+            "\\.\"Ça voudrait dire prendre le risque de se faire trahir.\n Il y a une autre, bien meilleure manière.\"",
+            "\\.\"On pouvait simplement aller récupérer\n les jetons de la dépouille de Reko...\n Qui était resté à la Chambre des Tromperies.\"",
+            "\"En récupérant les jetons... du corps de Reko...!\"",
+            "\\.\"... Je savais que tu en étais capable.\"",
+            "\\.\"Grande sœur Nao ferait jamais une chose pareille,\n miaou...!!\"",
+            "\\.\\C[4](Mais il a raison...\n Quand je suis allée inspecter son corps,\n les jetons n'étaient déjà plus là.)",
+            "\\.\\C[4](Et...\n Nao gardait la Chambre des Tromperies de très près.)",
+            "\\.\"Nan... Y a pas que Nao qui aurait pu l'faire !!\"",
+            "\\.\"N'importe qui aurait pu les choper, en fait ?!\"",
+            "\\.\"En d'autres mots, n'importe qui pourrait être\n le \\C[10]Sacrifice\\C[0].\"",
+            "\\.\"Hahaha... Au final, tout se repose sur la confiance.\"",
+            "\\.\"Le contexte du dernier échange sera donc décisif...\"",
+            "\\.\"\\C[2]Ce qu'on était en train de faire, et nos alibis\\C[0]\n au moment du \\C[6]cinquième échange\\C[0].\"",
+            "\\.\"Tu veux dire, genre...\"",
+            "\\.\"Juste avant le début du Jeu Principal... ouaf ?\"",
+            "\\.\"Hahaha.\n En espérant que vous trouverez le\\C[10]Sacrifice\\C[0]...\"",
+            "\"Faut qu'on se décide entre Sou, Kanna et Nao\n en fonction de ce qu'ils faisaient au moment du\n \\C[6]cinquième échange\\C[0].\"",
+            "\"J'étais assise dans les escaliers, en train de réfléchir\n à propos de tout ce qu'il s'était passé...\"",
+            "\"Vous me croirez, si je vous dis que je suis resté\n tout du long dans la Chambre des Victorieux\n sur l'ordinateur ?\"",
+            "\"Kanna... ne faisait rien en particulier...\n Elle ne faisait qu'errer sans destination...\"",
+            "\"Y en a qui étaient avec les trois,\n quand s'est arrivé ?!\"",
+            "\"J'étais avec Nao aux escaliers la plupart du temps...\"",
+            "\"Je dégageais des rochers aux côtés de Keiji Shinogi...\n Je ne sais pas ce que faisaient les trois autres...!\"",
+            "\"J'étais parti de mon côté pour essayer de trouver\n d'autres sorties, miaou !\""
+        ],
+        "764-0-choice": [
+            "De mon porte-monnaie volé\nDu corps d'Alice",
+            "De mon porte-monnaie volé\nDu corps de Reko",
+            "En faisant un échange avec quelqu'un\nDu corps d'Alice",
+            "En faisant un échange avec quelqu'un\nDu corps de Reko"
         ]
     },
     "map107": {
