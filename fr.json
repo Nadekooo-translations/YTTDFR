@@ -9152,36 +9152,60 @@
             "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"En voilà un, d'argument qui sert à rien !!\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            "\"Hé, Sara ! Ça donne quoi ?!\n T'as pas eu de révélation ?!\""
+            "\"Hé, Sara ! Ça donne quoi ?!\n T'as pas eu de révélation ?!\"",
+            "\\.\"J'sais pas comment marchent les Allô-Boîtes,\n mais...\"",
+            "\\.\"Si faut juste donner des noms dans l'combiné,\n c'est possible d'faire des erreurs !\"",
+            "\\.\"Oui, sauf que mon \\C[10]Sacrifice\\C[0] a été déplacé !\"",
+            "\\.\"Argh...! Si le problème vient pas d'Kanna, alors...\"",
+            "\\.\"Peut-être qu'le Maître d'Étage a changé\n qui était l'receveur...\n Un truc du Style.\"",
+            "\\.\"Gashu... a truqué l'échange...?\"",
+            "\\.\"Hm ? Attends une p'tite minute...\"",
+            "\\.\"C'était pas Rillante qu'avait parlé d'une\n transgression qu'Gachu a fait juste avant\n l'Jeu Principal ?!\"",
+            "\\.\\C[4](...!!)"
         ],
         "780-0-message": [
-            null,
-            null,
+            "\"...\n ...\n ...\"",
+            "\"... Ne me dérange pas.\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            null,
-            "\\.\\C[4](Mince...! Je me suis trompée !)"
+            "\"... J'essaie de réfléchir.\n Arrête de me déranger.\"",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
+            "\"...\n ...\n ...\"",
+            "\\.\\C[4](Sou ne dit presque rien...)",
+            "\\.\\C[4](Je n'arrive pas à deviner à quoi il pense !)"
         ],
         "781-0-message": [
-            null,
+            "\"À part Sou, personne ne pourrait causer\n de telle \\C[2]anomalie\\C[0], si...?!\"",
             "\"Non...\n Ne me dites pas que Sou a hacké les rôles...?!\"",
-            null,
+            "\"H-Hum, qu'est-ce donc ?!\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            null,
-            "\\.\\C[4](Mince...! Je me suis trompée !)"
+            "\"Désolée, mais, où veux-tu en venir, exactement...?!\"",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
+            "\"Sou est le seul d'entre nous capable de manipuler\n correctement un ordinateur...\"",
+            "\\.\"C'est sûrement ça...\n Sou l'a peut-être hacké...\"",
+            "\"C'est peut-être absurde de penser ça, mais...\"",
+            "\\.\"Rappelle-toi, Sou a passé tout le reste du temps\n sur l'ordinateur à la Chambre des Victorieux !\"",
+            "\\.\"Se pourrait-il qu'il ait hacké les données des rôles,\n alors ?!\"",
+            "\\.\\C[4](Est-ce même possible...?!)",
+            "\\.\"Enfin... Je veux dire...!\"",
+            "\\.\"Personne ici à part Sou aurait pu \\C[2]entraîner\n une telle anomalie\\C[0], non...?!\"",
+            "\\.\\C[4](Personne d'autre n'aurait pu causer d'anomalie...?)"
         ],
         "782-0-message": [
             "\"Faut vraiment pas faire confiance aux\n appareils électroniques !\n La tablette a dû buguer et l'échange s'est fait\n baiser !\"",
-            null,
+            "\"Ça explique rien, ça, Sara...!\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            null,
-            "\\.\\C[4](Mince...! Je me suis trompée !)"
+            "\"Ça prouve rien de rien, ça...!\"",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
+            "\"C'est pas impossible, hein Sara ?!\""
         ],
         "783-0-message": [
             "\"Moi, je crois pas ce que dit la fille au seau, ouaf !\n Elle ment pour nous faire tourner en bourrique,\n miaou !!\"",
-            null,
+            "\"Grande sœur Sara !\n Reprends-toi, miaou !!\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            null,
-            "\\.\\C[4](Mince...! Je me suis trompée !)"
+            "\"Pas une bonne objection, ouaf !!\"",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
+            "\"Elle arrête pas de faire des cachotteries\n à droite à gauche, miaou...\"",
+            "\\.\"On peut moins lui faire confiance que le ténébreux,\n ouaf !\n Lui fais pas confiance, grande sœur Sara !\""
         ],
         "788-0-message": [
             null,
@@ -9862,10 +9886,11 @@
         ],
         "784-0-message": [
             "\"La machine a dû rencontrer un bug !\n Peut-être que la tablette était cassée et que\n l'échange s'est mal déroulé en conséquence ?!\"",
-            null,
+            "\"C'est quoi ça ?!\n Fais-moi plaisir et réfléchis plus !\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Une remarque futile...\n En quoi prouve-t-elle quoi que ce soit ?\"",
-            "\\.\\C[4](Mince...! Je me suis trompée !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
+            "\"C'est la vérité !\n Parfois, la vérité est toute simple !\""
         ],
         "787-0-message": [
             null,
@@ -20863,16 +20888,57 @@
             "\\.\"... Bon, d'accord...\""
         ],
         "786-0-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\"Il y a bien une autre explication...\"",
+            "\\.\"Quelque chose qui n'a rien à voir avec\n un hack ou Sou...\"",
+            "\\.\"Mais qui est lié à une autre occurrence anormale...!\"",
+            "\"La transgression du Maître d'Étage, Gashu !!\"",
+            "\\.\"Quoi...?!\"",
+            "\\.\"Sérieux...?!\"",
+            "\\.\"ParDOOOOooooOOOOn ?!\"",
+            "\\.\"Souvenez-vous de ce que Rillante a dit\n avant que le Jeu Principal ne débute.\"",
             "\\.\"Gashu, tu m'entends ?!\n T'es vraiment allé trop loin...\n T'as tout foutu en l'air...!\"",
-            "\\.\"T'as enfreint les règles...!!\n Ton énorme transgression fait chavirer les\n fondations mêmes du Jeu Principal !!\""
+            "\\.\"T'as enfreint les règles...!!\n Ton énorme transgression fait chavirer les\n fondations mêmes du Jeu Principal !!\"",
+            "\"Malgré le fait qu'elle soit apparemment si majeure...\n On ne l'a pas encore identifiée !\"",
+            "\\.\"...\"",
+            "\\.\"Et maintenant...\n Voilà que nous nous retrouvons avec des déplacements\n de rôles que nous ne pouvons pas expliquer...\"",
+            "\\.\"C'est peut-être ça, l'infraction que Gashu a commise ?!\"",
+            "\\.\"Si c'que Kanna dit est vrai...\n C'la seule explication !!\"",
+            "\\.\"Tu veux dire que c'est l'autre grincheux qui\n a trafiqué le mouvement des rôles ?!\"",
+            "\\.\"Alors c'est Tonton Moustacrabe qui a touché\n au mouvement des rôles, miaou ?!\"",
+            "\\.\"Mais qu'aurait le Maître d'Étage...\n À gagner en faisant ça ?!\"",
+            "\\.\"Hé bien...\"",
+            "\\.\"Je ne sais pas...!\"",
+            "\\.\"On ne connaît pas encore l'objectif\n du Maître d'Étage !\"",
+            "\\.\"On à qu'à y penser d'une autre manière...\n S'il avait quelque chose à y gagner,\n il aurait une raison d'intervenir.\"",
+            "\\.\"Et on pourrait trouver au passage à qui\n il a refilé \\C[10]Sacrifice\\C[0].\"",
+            "\\.\"... Il n'avait peut-être rien à y gagner...\"",
+            "\\.\"Non... Y a forcément une raison.\"",
+            "\\.\"Au strict minimum...\n Il devait bien avoir un objectif.\"",
+            "\\.\"Si on arrive à deviner ce qu'il avait en tête,\n on pourrait trouver à qui il a refilé le \\C[10]Sacrifice\\C[0].\"",
+            "\"Il avait quelque chose à y gagner...!\n Et c'est pour ça que Gashu a insisté à\n ce qu'on discute !\"",
+            "\\.\"D'accord, ouais...\n Si on arrive à élucider son motif,\n on pourrait peut-être...\"",
+            "\\.\"Trouver à qui il a refilé le \\C[10]Sacrifice\\C[0].\"",
+            "\\.\"Hm... Une déduction pour le moins incorrecte.\"",
+            "\\.\"Êtes-vous sûrs de vouloir employer votre\n précieux temps à cette fin ?\"",
+            "\\.\"Gashu...\"",
+            "\\.\"Si tu n'as vraiment pas enfreint les règles...\n Alors, fais-nous une promesse.\"",
+            "\\.\"Hm...?\"",
+            "\\.\"Je connais le \\C[2]Règlement des Maîtres d'Étage\\C[0]...\"",
+            "\\.\"Si on arrive à dévoiler ta transgression...\n Ce Jeu Principal ne comptera pas.\"",
+            "\\.\"Nous exigeons \\C[2]un deuxième essai\\C[0] 24 heures\n plus tard !!\"",
+            "\\.\"...!\"",
+            "\\.\"Huhu...\"",
+            "\\.\"Huhuhuhuhu...\"",
+            "\\.\"Il n'y a rien que vous ne savez pas...\n Comme nous pouvions nous y attendre de\n Mademoiselle Sara Chidouin...!\"",
+            "\\.\"Promesse ou non...\n J'accomplirai tout bonnement mon devoir\n comme dicté par le règlement.\"",
+            "\\.\"Ouaaaaaaaaaah...!! T'sérieux, là ?!\"",
+            "\\.\"Avec 24 heures, on pourrait encore essayer\n de nous casser d'ici !!\"",
+            "\\.\"Il l'a lui-même dit !!\n Avec 24 heures, nous pourrions faire une\n autre tentative d'évasion !!\"",
+            "\\.\"... Mais en êtes-vous catégoriquement certains ?\"",
+            "\\.\"Si vous ne parvenez pas à prouver quoique ce soit,\n vous aurez vainement gaspillé votre temps...\"",
+            "\\.\\C[4](Ça va aller.)",
+            "\\.\\C[4](Cette nouvelle explication qu'on vient de citer...)",
+            "\\.\\C[4](Cette théorie... n'était pas dirigée à Gashu !!)"
         ],
         "987-0-message": [
             "\\C[4](Kanna... \n Es-tu trop bouleversée pour parler...?)",
@@ -22171,6 +22237,9 @@
         ],
         "808-0-message": [
             "\"J'utilise mon vrai nom, moi aussi.\n Il était écrit au Stand d'Échange, vous vous\n rappelez ?\"\\^"
+        ],
+        "786-0-choice": [
+            "Je ne sais pas\nIl n'aurait rien à gagner\nIl aurait à gagner"
         ]
     },
     "map107": {
