@@ -9130,10 +9130,10 @@
             "\\.\"Je peux donc corroborer l'alibi de Keiji Shinogi,\n mais rien de plus.\""
         ],
         "775-0-message": [
-            null,
-            null,
+            "\"Au \\C[6]cinquième échange\\C[0],\n Kanna a échangé son rôle contre celui de Sara.\"",
+            "\"...\n ...\n ...\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            null,
+            "\"...\n ...\n ...\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)"
         ],
         "778-0-message": [
@@ -14399,18 +14399,21 @@
             "\\.\"Kan... na...!!\"",
             "\\C[4](C'est... Kanna... qui l'a fait...)",
             "\\.\\C[4](Elle l'a vraiment fait...\n Juste pour me protéger...)",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\\C[4](...?)"
+            "\\.\\C[4](Elle a pris le \\C[10]Sacrifice\\C[4] de ses propres mains...!!)",
+            "\\.\"C'juste... la pire fin possible...!!\"",
+            "\\.\"Kanna...!! Tu t'es sacrifiée ?!\"",
+            "\\.\"Quelle stupidité...!!\"",
+            "\\.\"Sou...\n Tu t'en es rendu compte, à un moment, pas vrai ?\"",
+            "\\.\"...\n ...\n ...\"",
+            "\\.\"C'est pour ça que t'as essayé d'inciter\n les gens à voter pour Kanna.\"",
+            "\\.\"... La ferme...\"",
+            "\\.\"Car c'est le seul moyen de garder Kanna en vie...\"",
+            "\\.\"Je...!\"",
+            "\\.\"S'il vous plaît, attendez !!\"",
+            "\\.\\C[4](...?)",
+            "\\.\"Pourriez-vous prêter attention à ce que Kanna\n a à dire...?\"",
+            "\\.\"...?\"",
+            "\"Au \\C[6]cinquième échange\\C[0],\n Kanna a échangé son rôle contre celui de Sara.\""
         ],
         "1329-0-message": [
             null,
