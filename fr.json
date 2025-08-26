@@ -9208,28 +9208,51 @@
             "\\.\"On peut moins lui faire confiance que le ténébreux,\n ouaf !\n Lui fais pas confiance, grande sœur Sara !\""
         ],
         "788-0-message": [
-            null,
-            null,
-            null,
+            "\"Bien évidemment, il ne reste rien que\n nous n'ayons pas encore abordé...\"",
+            "\"La réponse se cache peut-être dans les indices\n qu'il nous reste encore à exploiter...?!\"",
+            "\"Cette piste-là... ne nous amènera nulle part...\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            null,
-            "\\.\\C[4](Mince...! Je me suis trompée !)"
+            "\"Kanna a dit quelque chose d'incorrect...?\n Désolée...\"",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
+            "\"Ouuuh... Que devrions-nous faire...?\"",
+            "\"De tous les indices que nous ayons récoltés,\n n'y en a-t-il aucun en rapport avec la transgression\n de Gashu ?!\"",
+            "\\.\\C[4](Ai-je quelque chose du style...?)",
+            "\\.\\C[4](Si oui, je devrais le montrer à Kanna...\n Sinon, je devrais lui dire qu'\\C[2]il n'y en a pas\\C[4] !)",
+            "\\.\"Non... Aucune des preuves n'est liée...\"",
+            "\\.\"C'est bien ce que je pensais...\n Nous avons déjà parlé de tous nos indices...\"",
+            "\\.\"À moins que nous trouvions de nouveaux indices\n \\C[2]dont nous n'avons pas encore parlé\\C[0],\n je ne vois aucune piste...\"",
+            "\\.\\C[4](Des indices \\C[2]pas encore exploités\\C[4]...?)"
         ],
         "789-0-message": [
-            null,
-            null,
-            null,
+            "\"Si Gashu voulait empêcher quelqu'un d'mourir...\n C'est forcément Kanna !!\"",
+            "\" Vous pensez qu'il voulait empêcher quelqu'un\n d'mourir ?!\"",
+            "\"Désolé, poto ! J'comprends pas trop !\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            null,
-            "\\.\\C[4](Mince...! Je me suis trompée !)"
+            "\"Tu m'donnes mal à la tête !\"",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
+            "\"Logiquement, ça doit être ça !\"",
+            "\\.\"Parce que si l'échange s'était passé normalement,\n Kanna aurait reçu l'\\C[10]Sacrifice\\C[0] !\"",
+            "\\.\"Gashu doit bien aimer Kanna...\"",
+            "\"Et comme l'\\C[10]Sacrifice\\C[0] a beaucoup d'chance d'clamser...\n Gashu s'en est mêlé !\"",
+            "\\.\"Genre,\n « Oh, je veux pas qu'il meurt, lui...\n J'vais passer l'\\C[10]Sacrifice\\C[0] à quelqu'un d'autre » !\"",
+            "\\.\"Mais qui protégeait-il, alors...?\"",
+            "\\.\"Ben, c'est évident !\n C'est la personne qui était censée se retrouver\n avec l'\\C[10]Sacrifice\\C[0]...!\"",
+            "\\.\"Kanna !!\"",
+            "\\.\\C[4](...!!)"
         ],
         "792-0-message": [
-            null,
-            null,
-            null,
+            "\"Gashu a interféré dans le but de tuer Sou Hiyori,\n organisateur et meneur de la tentative d'évasion !!\"",
+            "\"Peut-être a-t-il envoyé le \\C[10]Sacrifice\\C[0] à quelqu'un\n qu'il voulait tuer...?\"",
+            "\"Impossible que ce soit pertinent !\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Une remarque futile...\n En quoi prouve-t-elle quoi que ce soit ?\"",
-            "\\.\\C[4](Mince...! Je me suis trompée !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
+            "\"Une déduction parfaiiiiiiite !!\n Sois-en reconnaissante, Sara Chidouin !!\"",
+            "\"Réfléchis...\n Gashu a bien des raisons de lui en vouloir.\"",
+            "\\.\"En organisant une tentative d'évasion...\n Il a piétiné son honneur en tant que Maître d'Étage !\"",
+            "\\.\"Tu veux parler de...!\"",
+            "\\.\\{\"SOU HIYORIIIIIIIIII !!\"",
+            "\\.\"...!!\""
         ],
         "795-0-message": [
             null,
@@ -9893,26 +9916,39 @@
             "\"C'est la vérité !\n Parfois, la vérité est toute simple !\""
         ],
         "787-0-message": [
-            null,
+            "\"Il y a un gros problème...\n Et si le \\C[10]Sacrifice\\C[0] avait été envoyé à personne ?\"",
             "\"... Tu veux quoi, Sara ?\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Ça nous avance pas trop, je dirais...\"",
-            "\\.\\C[4](Mince...! Je me suis trompée !)"
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
+            "\"Du coup, la transgression de Gashu,\n c'était de faire disparaître le \\C[10]Sacrifice\\C[0]...\"",
+            "\\.\"Ça m'a l'air très improbable...\n Mais c'est qu'une possibilité parmi tant d'autres.\"",
+            "\\.\"Il y a quelque chose de curieux avec l'hostilité\n entre Gashu et Rillante...\""
         ],
         "790-0-message": [
-            null,
-            null,
+            "\"Gashu devait bien avoir quelque chose\n à gagner en manipulant l'échange...!\"",
+            "\"Malheureusement, ça ne prouve pas grand-chose...\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            null,
-            "\\.\\C[4](Mince...! Je me suis trompée !)"
+            "\"... Non, je ne crois pas...\"",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
+            "\"C'est vraiment perché, mais...\n Peut-être qu'en réalité, Gashu est de notre côté.\"",
+            "\\.\"Il voulait que ce soit découvert, justement\n pour mettre un terme au Jeu Principal...\"",
+            "\\.\"Est-ce... vraiment si improbable que ça ?\""
         ],
         "791-0-message": [
-            null,
-            null,
-            null,
+            "\"Il a touché aux rôles pour buter Sou,\n qui a ruiné son honneur de Maître d'Étage\n avec sa tentative d'évasion !\"",
+            "\"Tu penses qu'il a envoyé le \\C[10]Sacrifice\\C[0]\n à quelqu'un qu'il voulait buter ?!\"",
+            "\"Mais t'insinues quoi là, Sara ?!\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            null,
-            "\\.\\C[4](Mince...! Je me suis trompée !)"
+            "\"Ça démontre pas que ce que je dis est faux...!\"",
+            "\\.\\C[4](Mince...! Je me suis trompée !)",
+            "\"Ça serait logique...!\n Les vieux grincheux, ça tient à leurs fiertés à la con,\n parfois !!\"",
+            "\"L'autre grincheux peut pas se piffer l'un de nous !!\"",
+            "\\.\"Il voulait buter la personne qu'il hait avec le\n \\C[10]Sacrifice\\C[0] au Jeu Principal, même si ça lui\n demandait de tricher !\"",
+            "\\.\"Mais qui ça pourrait bien être ?!\"",
+            "\\.\"C'est évident !\n C'est forcément le type qui a ruiné son honneur\n de Maître d'Étage avec sa tentative d'évasion !\"",
+            "\\.\"Notre hackeur en personne... Sou !!\"",
+            "\\.\"...!!\""
         ],
         "985-0-message": [
             "\"Ils étaient ensemble la plupart du temps...\n Sou devrait savoir mieux que personne d'autre\n ce dont elle est capable !!\"",
@@ -10929,7 +10965,8 @@
             "Utiliser l'objet sélectionné\nAnnuler",
             "Mémoriser la déclaration\nAnnuler",
             "Oublier la déclaration mémorisée\nAnnuler",
-            "Appliquer la déclaration mémorisée\nAnnuler"
+            "Appliquer la déclaration mémorisée\nAnnuler",
+            "Je pense, oui\nJe ne pense pas"
         ],
         "789-0-choice": [
             "Utiliser l'objet sélectionné\nAnnuler",
@@ -20938,7 +20975,38 @@
             "\\.\"Si vous ne parvenez pas à prouver quoique ce soit,\n vous aurez vainement gaspillé votre temps...\"",
             "\\.\\C[4](Ça va aller.)",
             "\\.\\C[4](Cette nouvelle explication qu'on vient de citer...)",
-            "\\.\\C[4](Cette théorie... n'était pas dirigée à Gashu !!)"
+            "\\.\\C[4](Cette théorie... n'était pas dirigée à Gashu !!)",
+            "\\.\"Sou ! Dis-nous la vérité !!\"",
+            "\\.\"...!!\"",
+            "\\.\"La seule autre option...\n C'est que tu ais hacké les rôles, Sou.\"",
+            "\\.\"En fonction de ta réponse, on a une chance !\"",
+            "\\.\"Unissons-nos forces et arrachons-leur cette extension\n de nos propres mains !!\"",
+            "\\.\"...\n ...\"",
+            "\\.\"...\n ...\n ...\"",
+            "\\.\"Kanna...\"",
+            "\\.\"O-Oui...?\"",
+            "\\.\"T-Tu n'as... vraiment pas... le \\C[10]Sacrifice\\C[0]...?\"",
+            "\\.\"...\"",
+            "\\.\"Sou, ça va aller...\n Kanna n'a réellement pas le \\C[10]Sacrifice\\C[0].\"",
+            "\\.\"... Je vois...\"",
+            "\\.\"... Je...\"",
+            "\\.\"J'ai pas touché aux rôles...!\"",
+            "\\.\"Je les ai pas hackés !!\"",
+            "\\.\"Sou...!!\"",
+            "\\.\"C'est la pure et simple vérité, Sara...\n Fini les mauvais tours et les mensonges.\n Toutes mes cartes sont sur la table.\"",
+            "\\.\"Alors arrêtons de nous berner l'un l'autre.\n OK...?\"",
+            "\\.\"Donnons-tout ce qu'on a pour révéler l'infraction\n de Gashu...!\"",
+            "\\.\"C'est pile ce que je voulais entendre !!\"",
+            "\\.\\C[4](C'est un moment décisif...!)",
+            "\\.\\C[4](Nous n'aurions jamais pu emprunter cette voie\n sans nous libérer du cycle de la suspicion !)",
+            "\\.\\C[4](La voie de la confiance mutuelle...\n Et de la résistance !!)",
+            "\\.\\C[4](Tous ensemble...\n On révélera l'\\C[2]infraction de Gashu\\C[4] !!)",
+            "\"Gashu devait bien avoir quelque chose\n à gagner en manipulant l'échange...!\"",
+            "\"Tu penses qu'il a envoyé le \\C[10]Sacrifice\\C[0]\n à quelqu'un qu'il voulait buter ?!\"",
+            "\"Peut-être a-t-il envoyé le \\C[10]Sacrifice\\C[0] à quelqu'un\n qu'il voulait tuer...?\"",
+            "\"C'est p'tet' l'inverse !\n Vous pensez qu'il voulait empêcher quelqu'un\n d'mourir ?!\"",
+            "\"La réponse se cache peut-être dans les indices\n qu'il nous reste encore à exploiter...?!\"",
+            "\"Il y a un gros problème...\n Et si le \\C[10]Sacrifice\\C[0] avait été envoyé à personne ?\""
         ],
         "987-0-message": [
             "\\C[4](Kanna... \n Es-tu trop bouleversée pour parler...?)",
@@ -22240,6 +22308,14 @@
         ],
         "786-0-choice": [
             "Je ne sais pas\nIl n'aurait rien à gagner\nIl aurait à gagner"
+        ],
+        "794-0-message": [
+            "\\.\"Le seul indice qui n'a pas encore été exploité...\n Ce sont ces listes.\"",
+            "\\.\"...?\n Ça me dit quelque chose...\"",
+            "\\.\"On dirait les papiers déchirés que j'ai trouvé\n au rez-de-chaussée, miaou !!\"",
+            "\\.\\C[4](Mais... À quoi pourraient-elles bien servir ?)",
+            "\\.\"Comment...?!\n Comment avez-vous mis la main sur cela ?!\"",
+            "\\.\\C[4](Hein...?)"
         ]
     },
     "map107": {
