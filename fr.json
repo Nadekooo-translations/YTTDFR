@@ -35522,7 +35522,7 @@
             "\\.\"Mais... la vérité est qu'il a tenté de protéger Kanna.\"",
             "\\.\"J'imagine...\"",
             "\\.\"Kanna, n'essaie plus de te sacrifier\n et d'abandonner ta propre vie, d'accord ?\"",
-            "\\.\"Tu dois rendre la monnaie de leur pièce\n aux kidnappeurs à la place de Sou, pas vrai ?",
+            "\\.\"Tu dois rendre la monnaie de leur pièce\n aux kidnappeurs à la place de Sou, pas vrai ?\"",
             "\\.\"Oui...!\"",
             "\\.\"Et pas seulement pour Sou... Pour Nao, aussi...\"",
             "\\.\"Ouais...\"",
@@ -35541,7 +35541,7 @@
             "\\.\\C[4](Kanna a clairement changé...)",
             "\\.\\C[4](Je pourrais même dire... \n qu'elle est devenue plus forte.)",
             "\\.\\C[4](...)",
-            "\\C[4] (À chaque sacrifice... nous évoluons...)",
+            "\\.\\C[4](À chaque sacrifice... nous évoluons...)",
             "\\.\\C[4](C'est vrai... Ainsi, personne ne sera mort en vain !)",
             "\\.\"Allez, tout le monde, on y va !\"",
             "\\.\"Bien. Après toi, partenaire.\""
@@ -39796,10 +39796,10 @@
         "1-1-message": [
             "\\C[3]Une grande porte.",
             "\\.\\C[4](Hein ? Par ici...? Vraiment ?)",
-            "\\C[4](Ce n'est pas là que cette porte menait, avant...!)",
+            "\\C[4](Cette porte ne menait pas là, avant... !)",
             "\"Pouah ! C'est quoi l'délire avec c't'endroit ?!\"",
             "\\.\"Rien de vraiment étonnant à ce stade, ouaf.\n C'est qu'une image, miaou.\"",
-            "\\.\"T-Tu deviens d'jà un adulte épuisé, Gin !\"",
+            "\\.\"T-Tu deviens d'jà un adulte blasé par la vie, Gin !\"",
             "\\.\"C'est comme si nous marchions dans le ciel...\""
         ],
         "1-1-choice": [
