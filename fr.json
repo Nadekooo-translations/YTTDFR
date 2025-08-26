@@ -35125,26 +35125,30 @@
             "\\.\"J'peux pas dire que j'l'ai percé à jour jusqu'au bout.\n Vu qu'j'me faisais encore avoir par ses mensonges...\"",
             "\\.\"Mais... il a essayé de protéger Kanna, c'est la vérité.\"",
             "\\.\"Ouais, j'imagine...\"",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\\C[4](...)"
+            "\\.\"Kanna, ne pense plus à te sacrifier\n et abandonner ta propore vie, d'accord ?\"",
+            "\\.\"Tu dois rendre la monnaie de leur pièce\n aux kidnappeurs à la place de Sou, pas vrai ?",
+            "\\.\"Oui...!\"",
+            "\\.\"Et pas seulement pour Sou... Pour Nao, aussi...\"",
+            "\\.\"Ouais...\"",
+            "\\.\"J'imagine...\"",
+            "\\.\"Faut q'tu continues d'vivre pour lui, Kanna.\"",
+            "\\.\"Et arrête d'penser à t'sacrifier, t'entends !\"",
+            "\\.\"Oui...!\"",
+            "\\.\"Et... pour l'honneur de grande sœur Nao, aussi...\"",
+            "\\.\\C[4](Nao...)",
+            "\\.\"C'est pour ça qu'on doit tous faire\n de notre mieux, maintenant.\"",
+            "\\.\"Et la première étape... C'est d'aller à l'étage suivant.\n Parce que tout sera gâché si nos colliers s'activent.\"",
+            "\\.\"Alors, ne devrions-nous pas nous rendre\n à l'étage suivant... ? Je ne voudrais pas que\n mon collier s'active...\"",
+            "\\.\"On se refera un plan d'évasion\n dès qu'on sera au prochain étage, miaou !\"",
+            "\\.\"Cette fois... Cette fois, on va s'échapper à coup sûr !\"",
+            "\\.\\C[4](Kanna...)",
+            "\\C[4] (Kanna a clairement changé...)",
+            "\\C[4] (Je pourrais dire... qu'elle est devenue plus forte.)",
+            "\\.\\C[4](...)",
+            "\\C[4] (À chaque sacrifice... nous évoluons...)",
+            "\\.\\C[4](C'est vrai... Ainsi, personne ne sera mort en vain !)",
+            "\\.\"Allez, tout le monde, on y va !\"",
+            "\\.\"Bien. Après toi, partenaire.\""
         ],
         "1-1-message": [
             "Je me demande ce que c'est...",
@@ -35155,7 +35159,7 @@
             "Vraiment... ?",
             "\"...T'es juste fatiguée. Faut que tu t'reposes.\"",
             "Non, mon esprit semble parfaitement clair...",
-            "\"A... alors y'a pas d'quoi s'inquiéter, pas vrai ?\"",
+            "\"A... Alors y'a pas d'quoi s'inquiéter, pas vrai ?\"",
             "\"...Hmpf. Dans ce cas, je me fais du souci pour rien ?\"",
             "Mais...",
             "\"...\n ...\n ...\"",
@@ -35179,7 +35183,7 @@
             "\\.\\C[4](Je me demande vraiment où est-ce qu'il est passé...)",
             "\\.\\C[4](Peut-être... qu'il n'a désormais\n plus envie de nous voir.)",
             "\\.\"D-D'accord, ouaf ! Je vais le chercher, miaou !\n Donc attendez-nous ici, ouaf !\"",
-            "\\.\"Non, pas moyen, Gin ! Bon, allez, je vais...\"",
+            "\\.\"Non, pas moyen, Gin ! Bon, allez, je m'en...\"",
             "\\.\"Arrête donc cette mascarade !\n Tu donnes l'impression que nous sommes égoïstes !\"",
             "\"Quel brouhaha...\"",
             "\"Qu'est-ce qui vous arrive, les gars ?\"",
@@ -35191,8 +35195,8 @@
             "\\.\"Hein ? Mais moi, je souris. Tu vois ?\"",
             "\\.\"Arrête ça !!\n Celle que t'essayais d'protéger.. On l'a...!!\"",
             "\\.\"Qu'est-ce que tu baragouines...?\"",
-            "\\.\"Ce... ce que je \"baragouine\"...?!\"",
-            "\\.\"Ce... ce que je \"baragouine\"...?!\"",
+            "\\.\"Q... \"qu'est-ce que tu baragouines\"...?!\"",
+            "\\.\"Q... \"qu'est-ce que tu baragouines\"...?!\"",
             "\\.\"Ohh, tu parles de Kanna...?\"",
             "\\.\"Bah, c'est pas de chance. Lors du Jeu Principal,\n Kanna était même parvenue à obtenir le \\C[10]Sacrifice\\C[0]...\"",
             "\\.\"Mais hélas, elle n'a pas eu la chance\n de me choisir afin qu'on s'échappe ensemble.\"",
@@ -35227,7 +35231,7 @@
             "\"Allez, on y va. On s'occupera de lui plus tard.\"",
             "\\.\"Miaou...\"",
             "\\.\"Je sais, Gin.\n Moi aussi, je veux trouver une solution.\"",
-            "\\.\"Parce que même moi, j'sais que Sou est humain...\n ...Putain de merde.\"",
+            "\\.\"Parce que même moi, j'sais que Sou est humain...\n Et qu'il a un cœur... Putain de merde.\"",
             "\"...Je ne parviens pas à le saisir. Cet homme, \"Sou\"...\"",
             "\\.\"Il était juste désespéré, miaou... J'en suis sûr...\"",
             "\\.\"... Hmpf.\"",
@@ -39390,6 +39394,44 @@
         "1-1-message": [
             null,
             "\\C[3]Merci d'avoir joué !"
+        ]
+    },
+    "map184": {
+        "1-1-message": [
+            "\\C[3]Une grande porte.",
+            "\\.\\C[4](Hein ? Par ici...? Vraiment ?)",
+            "\\C[4](Ce n'est pas là que cette porte menait, avant...!)",
+            "\"Pouah ! C'est quoi l'délire avec c't'endroit ?!\"",
+            "\\.\"Rien de vraiment étonnant à ce stade, ouaf.\n C'est qu'une image sur un écran, miaou.\"",
+            "\\.\"T-Tu commences à devenir un sacré adulte, Gin !\"",
+            "\\.\"C'est comme si nous marchions dans le ciel...\""
+        ],
+        "1-1-choice": [
+            "Entrer\nAnnuler"
+        ]
+    },
+    "map187": {
+        "3-1-message": [
+            "\\C[3]En haut de l'escalier se trouve une porte\nqui se fond dans le décor.",
+            "\\.\\C[4](Devrions-nous entrer...?)",
+            "\\C[3]Nous avons ouvert la porte et sommes entrés.",
+            "\\C[4](Il fait noir comme dans un four... Un long passage ?)",
+            "\"Tout le monde va bien ? Y a personne à la traîne ?\"",
+            "\"Je vais bien, miaou ! Accrochez-vous aux vêtements\n de la personne en face de vous, ouaf !",
+            "\"Ahh, j'comprend mieux... J'me disais que mon dos\n m'faisait mal. C'était donc les griffes d'Gin !",
+            "\"Hiiiah ?! Q-Qui touche là où il ne faut pas ?!\"",
+            "\"P-Pardon ! C'est Kanna...\"",
+            "\"I-Il ya quelqu'un près de moi...?\n Ah ! C'est toi, Gin ?\"",
+            "\"Euh... Nan, c'est le Monsieur Policier...\"",
+            "\"Hm... ? Hé, vous tous !\n J'ai trouvé une sorte de bassine...\"",
+            "\"Aaah... ! C'est le seau de Kanna !\n Rendez-le-lui, s'il vous plaît... !\"",
+            "\"Mouahaha... Vous ne supportez\n donc pas une telle obscurité ?\"",
+            "\"J'aurais jamais imaginé que le type qui s'est enfermé\n dans un casier aurait un jour de l'autorité, miaou.\"",
+            "\"Ah...! Je vois une faible lumière !\"",
+            "\"Qu'est-ce que c'est...?\""
+        ],
+        "3-1-choice": [
+            "Entrer\nAnnuler"
         ]
     }
 }
