@@ -22959,7 +22959,7 @@
             "Après avoir retiré son collier,\nil usa de ses dernières forces...",
             "... pour démarrer une IA de Joe.",
             "\\.Sara et son meilleur ami furent enfin\nréunis, et s'éveilla de son long cauchemar.",
-            "Le Jeu Mortel... n'est pas encore terminé.",
+            "Le Jeu Mortel Démocratique... n'est pas encore terminé.",
             "\n\n                       \\C[10]6 Restants"
         ],
         "1-1-message": [
@@ -23000,7 +23000,7 @@
             "Après avoir retiré son collier,\nil usa de ses dernières forces...",
             "... pour démarrer une IA de Joe.",
             "\\.Sara et son meilleur ami furent enfin\nréunis, et s'éveilla de son long cauchemar.",
-            "Le Jeu Mortel... n'est pas encore terminé.",
+            "Le Jeu Mortel Démocratique... n'est pas encore terminé.",
             "\n\n                       \\C[10]6 Restants"
         ],
         "6-3-message": [
@@ -23057,7 +23057,7 @@
         "5-5-message": [
             "\\C[2]Kanna Kizuchi\\C[0] était la victime.",
             "\\C[2]Sou Hiyori\\C[0] était la victime.",
-            "Le Jeu Mortel... n'est pas encore terminé.",
+            "Le Jeu Mortel Démocratique... n'est pas encore terminé.",
             "\n\n                       \\C[10]6 Restants"
         ],
         "6-1-message": [
@@ -24007,32 +24007,48 @@
             null,
             null,
             null,
-            "La victime suivante fut l'intérimaire \\C[2]Sou Hiyori\\C[0]."
+            "La victime suivante fut l'intérimaire \\C[2]Sou Hiyori\\C[0].",
+            "Après avoir retiré son collier,\nil usa de ses dernières forces...",
+            "... pour démarrer une IA de Joe.",
+            "\\.Sara et son meilleur ami furent enfin\nréunis, et s'éveilla de son long cauchemar.",
+            "Le Jeu Mortel Démocratique... n'est pas encore terminé.",
+            "\n\n                        \\C[10]6 Restants"
         ],
         "3-3-message": [
             "La victime suivante fut\nl'autrice-compositrice \\C[2]Reko Yabusame\\C[0].",
-            "La victime suivante fut le meurtrier \\C[2]Alice Yabusame\\C[0]."
+            "La victime suivante fut le meurtrier \\C[2]Alice Yabusame\\C[0].",
+            "Alors qu'ils tentèrent désespérément de s'échapper,\nleurs ennemis donnèrent corps et âme pour les arrêter.",
+            "Lorsque le Jeu Principal eut de nouveau lieu,\nl'étudiante d'art \\C[2]Nao Egokoro\\C[0] mourut.",
+            "\\C[5]Et maintenant, une autre question.",
+            "\\C[5]Laquelle de ces deux personnes trouva la mort ?"
         ],
         "3-1-message": [
+            "\\C[5]\"Salut, toi. Est-ce que tu m'entends ?\"",
             null,
-            null,
-            null,
+            "\\C[5]\"Hahaha. Flûte, alors.\"",
             "\\.\\C[5]\"... J'aimerais que tu me racontes ce qu'il s'est passé\n durant le Jeu Mortel dans lequel tu étais impliquée.\"",
             null,
             null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\.\\C[5]\"Ça ne devrait pas être trop difficile, pas vrai ?\n Allez, je t'en supplie...\"",
+            "\\C[5]\"... Merci.\"",
+            "\\C[5]\"Compris. Une autre fois, alors.\"",
+            "\\.\\C[5]\"... Reviens vers moi quand tu auras envie de discuter.\"",
+            "Voici \\C[2]Sara Chidouin\\C[0], une lycéenne ordinaire.\nEt \\C[2]Jou Tazuna (Joe)\\C[0], son meilleur ami.",
+            "Un jour, ils furent piégés dans un Jeu Mortel...",
+            "Plutôt que de se soumettre à la peur, ils décidèrent\nde coopérer avec les autres participants...\\|\\|",
+            "Mais hélas, le professeur \\C[2]Kazumi Mishima\\C[0]\ndevint la première victime.",
+            "Rien ni personne n'irait à l'encontre\nde leur destin, celui de \\C[10]s'entretuer\\C[0].",
+            "Après un vote majoritaire des plus cruels,\nl'assistant-ménager \\C[2]Kai Satou\\C[0] n'était plus...",
             "Ce fut ensuite au tour de Joe, le meilleur ami de Sara,\nde connaître son sort funeste.",
             "\\C[10]Sara devint tourmentée par des hallucinations...",
-            "Alors que son cœur s'effondra,\nle péril perdurait de plus belle..."
+            "Alors que son cœur s'effondra,\nle péril perdurait de plus belle...",
+            "\\C[5]Désormais, voici une question.",
+            "\\C[5]Laquelle de ces deux personnes trouva la mort ?"
+        ],
+        "3-1-choice": [
+            null,
+            null,
+            "Se remémorer\nPartir"
         ]
     },
     "map150": {
@@ -35233,8 +35249,8 @@
             "\\.\"Mademoiselle Sara, se pourrait-il que vous soyez...\"",
             "\\.\"Guérie...?\"",
             "\\.\"... De mes hallucinations, tu veux dire ?\"",
-            "\"J'ai eu l'impression de faire un cauchemar...\"",
-            "\\.\"Je me suis torturé avec des hallucinations\n qui venaient de ma propre imagination.",
+            "\"J'ai eu l'impression de faire un long cauchemar...\"",
+            "\\.\"Je me suis torturé avec des hallucinations\n qui étaient issues de ma propre imagination.\"",
             "\"Mais je me suis enfin réveillée.\"",
             "\\\"Je... non, nous... ne perdrons pas contre vous !\"",
             "\\.\"...\"",
@@ -35246,7 +35262,7 @@
             "\\.\"...\n ...\n ...\"",
             "\\.\"J'peux pas dire que j'l'ai percé à jour jusqu'au bout.\n Vu qu'j'me faisais encore avoir par ses mensonges...\"",
             "\\.\"Mais... il a essayé de protéger Kanna, c'est la vérité.\"",
-            "\\.\"Ouais, j'imagine...\"",
+            "\\.\"J'imagine...\"",
             "\\.\"Kanna, ne pense plus à te sacrifier\n et abandonner ta propore vie, d'accord ?\"",
             "\\.\"Tu dois rendre la monnaie de leur pièce\n aux kidnappeurs à la place de Sou, pas vrai ?",
             "\\.\"Oui...!\"",
@@ -35321,13 +35337,13 @@
             "\\.\"Q... \"qu'est-ce que tu baragouines\"...?!\"",
             "\\.\"Ohh, tu parles de Kanna...?\"",
             "\\.\"Bah, c'est pas de chance. Lors du Jeu Principal,\n Kanna était même parvenue à obtenir le \\C[10]Sacrifice\\C[0]...\"",
-            "\\.\"Mais hélas, elle n'a pas eu la chance\n de me choisir afin qu'on s'échappe ensemble.\"",
+            "\\.\"Mais hélas, elle n'a pas eu l'opportunité\n de me choisir afin qu'on s'échappe ensemble.\"",
             "\\.\\C[10]\"Au final, je n'ai pas pu me servir d'elle...\n Quel dommage.\"",
             "\\.\"...\n ...\n ...\"",
             "\\.\"Bouahaha...\"",
             "\\.\"Qu'est-ce qu'il y a de si drôle ?\"",
             "\\.\"Ah, comme c'est pitoyable...\n Si cela s'était réellement produit...\"",
-            "\\.\"Kanna ne t'aurait pas choisi. Elle choisirait Sara.\"",
+            "\\.\"Kanna ne t'aurait pas choisi, elle choisirait Sara.\"",
             "\\.\"...!\"",
             "\\.\"Haha... Tu pensais sincèrement qu'elle te choisirait ?\"",
             "\\.\"La ferme, Keiji...!!\"",
