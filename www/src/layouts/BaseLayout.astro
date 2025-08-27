@@ -5,9 +5,10 @@ interface Props {
 	 * Recommended length: 150 - 160 characters
 	 */
 	description: string;
+	heroUrl?: string;
 }
 
-const { title, description } = Astro.props;
+const { title, description, heroUrl } = Astro.props;
 
 let site = Astro.site?.toString();
 site = site?.substring(0, site.length - 1); // remove trailing /
@@ -102,14 +103,14 @@ const jsonld = {
 		<link rel="manifest" href="/manifest.json" />
 
 		<meta property="og:title" content={title} />
-		<meta property="og:image" content="https://yttd.fr/hero.webp" />
+		<meta property="og:image" content={heroUrl ?? "https://yttd.fr/hero.webp"} />
 		<meta property="og:site_name" content="yttd.fr" />
 		<meta property="og:description" content={description} />
 
 		<meta name="twitter:card" content="summary" />
 		<meta name="twitter:title" content={title} />
 		<meta name="twitter:description" content={description} />
-		<meta name="twitter:image" content="https://yttd.fr/hero.webp" />
+		<meta name="twitter:image" content={heroUrl ?? "https://yttd.fr/hero.webp"} />
 		<meta name="twitter:site" content="@YTTDFR" />
 
 		<link rel="sitemap" href="/sitemap-index.xml" />
