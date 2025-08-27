@@ -725,10 +725,10 @@
             "Chapitre Final, Partie Une (A)\nChapitre 2, Partie Deux\nChapitre 2, Partie Une\nChapitre 1, Partie Deux\nChapitre 1, Partie Une\nAnnuler"
         ],
         "1-1-message": [
-            "\\.Choisissez un chapitre où commencer.\n\\C[2](Chapitre 2 Partie 2 en cours de traduction !)\\C[0]"
+            "\\.Choisissez un chapitre où commencer.\n\\C[2](Chapitre 3 Partie 1-A en cours de traduction !)\\C[0]"
         ],
         "2-1-message": [
-            "\\.Choisissez un chapitre où commencer.\n\\C[2](Chapitre 2 Partie 2 en cours de traduction !)\\C[0]"
+            "\\.Choisissez un chapitre où commencer.\n\\C[2](Chapitre 3 Partie 1-A en cours de traduction !)\\C[0]"
         ],
         "2-1-choice": [
             "Chapitre 2, deuxième partie\nChapitre 2, première partie\nChapitre 1, deuxième partie\nChapitre 1, première partie\n\\C[2]Sous-jeu (Nouveau !)\nAnnuler"
@@ -9447,7 +9447,7 @@
         ],
         "821-0-message": [
             "\"Les 4 qui sont pas sur les listes...\n Ça pourraient pas être des poupées?!\"",
-            "\"Ça vous fait pas poser des questions,\n qu'il y ait que 16 noms ?!\"",
+            "\"Ça vous fait pas vous poser des questions,\n qu'il y ait que 16 noms ?!\"",
             "\"Alors... Ça veut dire quoi, ça, au juste ?!\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"... Je te suis pas trop, là...\n Désolée.\"",
@@ -17548,7 +17548,7 @@
             "\\.\"C'notre dernière chance !!\"",
             "\\.\"Faut à tout prix qu'on trouve un truc en lien\n avec son infraction !!\"",
             "\\.\"Réfléchissons comme des forcenés et tâchons de trouver\n quelque chose en lien avec sa transgression !!\"",
-            "\\.\"Allez, on s'y met tous et on gagne, miaou !!\n C'est pas le moment de se relâcher, ténébreux !!\"",
+            "\\.\"Allez, on s'y met tous et on gagne, miaou !!\n Et on lâche rien, le ténébreux !!\"",
             "\\.\"Ouais ! T'inquiète !!\"",
             "\\.\"C'est juste... impossible...\"",
             "\\.\"Sara...!!\"",
@@ -17556,7 +17556,7 @@
             "\\.\"Kanna va se battre !!\"",
             "\\.\"Kanna...?\"",
             "\\.\"Moi aussi, j'refuse d'rester les bras croisés !!\"",
-            "\\.\"Si grande sœur Sara est fatiguée...\n On a plus qu'à trouver quelque chose et gagner,\n miaou !!\"",
+            "\\.\"Si grande sœur Sara est fatiguée...\n On a qu'à trouver quelque chose et gagner,\n miaou !!\"",
             "\\.\"Ouais...! Hors de question de lâcher !!\"",
             "\\.\\C[4](Tout le monde...)",
             "\\.\"On sait juste pas quand jeter l'éponge, hein...\"",
@@ -17568,7 +17568,7 @@
             "\"Vous avez bien compris ?\n Ces listes cataloguent les chances de survie\n de chaque participant au Jeu Mortel Démocratique !\"",
             "\"Tu as dit qu'ils ont obtenu ces pourcentages\n à partir de simulations réalisées avec des IA,\n c'est bien ça...?\"",
             "\"Se pourrait-il que nous omettons un détail\n des listes...?!\"",
-            "\"Ça vous fait pas poser des questions,\n qu'il y ait que 16 noms ?!\"",
+            "\"Ça vous fait pas vous poser des questions,\n qu'il y ait que 16 noms ?!\"",
             "\"Le plus intriguant, c'est qu'il n'y a que 16 noms...!\"",
             "\"Si « Sou » était un alias...\n Ça veut dire qu'seules 4 personnes sont\n pas sur les listes, en fait ?!\"",
             "\"Les quatre qui sont pas sur les listes,\n ce sont Kai, Kugie, Joe, et Nao, miaou !\"",
