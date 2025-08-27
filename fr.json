@@ -9379,7 +9379,7 @@
             "\"Si grand frère Joe avait essayé d'utiliser un faux nom,\n grande sœur Sara s'en serait rendue compte direct,\n miaou !\"",
             "\"Y a quoi, miaou ?!\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            null,
+            "\"Grande sœur Sara !\n Reste pas là sans rien dire, ouaf !!\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Hé, grande sœur Sara !\n C'était bien Joe, le vrai nom de mon grand frère,\n hein, ouaf ?\"",
             "\\.\"Bien sûr.\"",
@@ -21505,7 +21505,7 @@
             "Protéger Keiji\nGarder le silence"
         ],
         "677-0-message": [
-            "\"Il y a eu un échange juste après notre échec.\n ... Tu ne trouves pas ça un petit peu suspect, toi ?\""
+            "\"Il y a eu un échange juste après notre échec.\n ... Tu ne trouves pas ça un petit peu suspect, toi ?\"\\^"
         ],
         "680-0-choice": [
             "C'est vrai\nQui sait ?",
@@ -21586,10 +21586,10 @@
             "\\C[10]Sacrifice\\C[0] (???) contre \\C[5]Roturier\\C[0] (Q-taro)\n\\C[5]Roturier\\C[0] (Sara) contre \\C[10]Sacrifice\\C[0] (Q-taro)\nDis-moi, s'il te plaît"
         ],
         "727-0-message": [
-            "\"Q-taro était juste à côté de nous, de Sara,\n mais il a quand même pris son \\C[2]Maître des Clés\\C[0]\n pour lui donner son \\C[10]Sacrifice\\C[0] !!\n Sur place !! Comment a-t-il osé...?!\"\\^"
+            "\"Q-taro était juste à côté de nous, de Sara,\n et il lui a tout sereinement imposé le \\C[10]Sacrifice\\C[0] !!\n Là, devant nos yeux !! Comment a-t-il osé...?!\"\\^"
         ],
         "729-0-message": [
-            "\"Malgré le fait qu'il était avec nous,\n Cubetaro Hamburger a fait un échange avec toi.\n Son \\C[10]Sacrifice\\C[0] contre ton \\C[2]Maître des Clés\\C[0]...!\"\\^"
+            "\"Malgré le fait qu'il était avec nous,\n Cubetaro Hamburger a initié un échange avec toi.\n Son \\C[10]Sacrifice\\C[0] contre ton \\C[2]Maître des Clés\\C[0]...!\"\\^"
         ],
         "733-0-message": [
             "\\.\"Je...\"",
@@ -22404,7 +22404,7 @@
             "\"Serait-ce quelqu'un qui n'est pas sur le tableau...?\"",
             "\\.\"... Non, raté.\n Tu fatigues, Sara ?\"",
             "\\.\"Shin Tsukimi... c'est MOI !!\"",
-            "\\.\\C[4](... Refoulons l'envie de dire ça.)",
+            "\\.\\C[4](... On va juste refouler l'envie de faire ça, hein.)",
             "\\.\"C'est l'une des personnes qui n'est pas sur les listes.\n Soit \\C[2]Kai, Sou, Kugie, Joe ou Nao\\C[0]...!!\"",
             "\\.\"C'est ça.\"",
             "\\.\"Allez, c'parti...\n Discutons des \\C[2]noms d'ces cinq-là\\C[0] !!\"",
