@@ -24439,7 +24439,41 @@
             "\\.\\C[4](S'approcher serait dangereux... !!)"
         ],
         "17-1-message": [
-            "\\C[3]Une sorte de cercueil."
+            "\\C[3]Une sorte de cercueil.",
+            "\\C[3]Une très grande boîte.",
+            "\\.\\C[4](Dois-je l'ouvrir...?)",
+            "\\C[3]J'ai lentement ouvert le couvercle.\\.\\.\\.\\.",
+            "\\C[4](Évidemment, il y a quelqu'un là-dedans... !)",
+            "\"Miaooouh ?! Ce binoclard...\n Je l'ai déjà vu quelque part, ouaf !",
+            "\\.\"La vidéo d'une victime...!\n C'est quelqu'un qui est mort\n lors de la \\C[2]Première Épreuve\\C[0] !!\"",
+            "\\.\"C'est ça, miaou... Une hache...\n s'est abattue sur sa tête...\"",
+            "\"Et pourtant...\"",
+            "\\.\"Pas une seule blessure visible, hein ?\"",
+            "\\.\"Pouoooh ?! Tout un tas d'cercueils...!!\""
+        ],
+        "17-1-choice": [
+            "Ouvrir\nAnnuler"
+        ],
+        "17-2-message": [
+            "\\C[3]Une sorte de cercueil.",
+            "\\.\\C[3]Un homme portant des lunettes se trouve à l'intérieur.",
+            "\\.\\C[4](Ce gars était dans cette vidéo d'une victime... !)"
+        ],
+        "18-1-message": [
+            "\\C[3]Une sorte de cercueil.",
+            "\\.\\C[3]Un homme aux cheveux bleus se trouve à l'intérieur.",
+            "\"Ce gars est-il lui aussi une victime\n de la Première Épreuve... ?\"",
+            "\"... Il ne respire pas.\""
+        ],
+        "19-1-message": [
+            "\\C[3]Une sorte de cercueil.",
+            "\\.\\C[3]Une fille portant une capuche se trouve à l'intérieur.",
+            "\"Je crois que j'ai déjà vu cette veste...\""
+        ],
+        "20-1-message": [
+            "\\C[3]Une sorte de cercueil.",
+            "\\.\\C[3]Une fille aux cheveux roses se trouve à l'intérieur.",
+            "\"Elle... Elle a l'air d'avoir l'âge de Kanna...\""
         ]
     },
     "map222": {
