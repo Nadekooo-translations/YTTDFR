@@ -24386,7 +24386,60 @@
             "\\.\"Dis pas n'importe quoi !! À qui serait le corps...?!\"",
             "\\.\"Ridicule... Ce serait le corps de qui, exactement...?\"",
             "\"C'est... un coffre au trésor.\"",
-            "\"Toujours aussi optimiste, hein, Sara ?\""
+            "\"Toujours aussi optimiste, hein, Sara ?\"",
+            "\\.\"Y a sûrement rien qui vaut de l'or là-dedans, miaou...\"",
+            "\"C'est... un bento.\"",
+            "\"Q-Qu'est-ce que ça veut dire... ?!\"",
+            "\\.\"Je ne sais pas...\n Mais ça pourrait bien être rempli de riz...\"",
+            "\\.\"Ce s'rait tellement incompréhensible\n que ça en d'viendrait effrayant...\"",
+            "\"S... Sara...?!\"",
+            "\\.\"... Il y a un problème ?\"",
+            "\\.\"Ah, euh... nan, rien, oublie.\n Prends l'temps de bien te r'mettre sur pieds, Sara...\"",
+            "\\.\\C[4](Avoir plaisanté l'a juste rendu inquiet pour moi...)",
+            "\\C[4] (Je me demande... si je dois ouvrir ce truc... ?)"
+        ],
+        "16-1-choice": [
+            "Un cercueil\nUn coffre au trésor\nUn bento"
+        ],
+        "16-2-message": [
+            "\\C[3]Une sorte de cercueil.",
+            "\\C[3]Une très grande boîte.",
+            "\\.\\C[4](Dois-je l'ouvrir...?)",
+            "\\C[3]J'ai lentement ouvert le couvercle.\\.\\.\\.\\.",
+            "\\.\\C[4](C'est...!!)",
+            "\\.\"Une personne !! Il y a quelqu'un là-dedans !!\"",
+            "\\.\\C[4](Mais qui...?)",
+            "\"Ce type...?!\"",
+            "\"Impensable... C'est...!!\"",
+            "\\.\"Le vrai Sou Hiyori, n'est-ce pas ?!\"",
+            "\\.\"... !!\"",
+            "\"Miaou ?! Une nouvelle boîte est apparue, ouaf !!\"",
+            "\\.\"C'est quoi c'délire... Y s'passe quoi là...?\""
+        ],
+        "16-2-choice": [
+            "Ouvrir\nAnnuler"
+        ],
+        "16-3-message": [
+            "\\C[3]Un homme aux cheveux verts se trouve\nà l'intérieur du cercueil.",
+            "\\.\\C[4](Qui est-il au juste...?!)",
+            "\\.\\C[4](Dois-je le regarder de plus près...?)",
+            "\\C[4](Je vais essayer de le toucher...)",
+            "\\C[4](Y a-t-il quelque chose d'intéressant...?)",
+            "\\C[3]J'ai lentement ouvert le couvercle.\\.\\.\\.\\.",
+            "\\C[4](Y a-t-il des endroits qui semblent louches... ?!)",
+            "\"YaaahhhHHH ?!\".",
+            "\"Grande sœur Sara !! Qu'est-ce qui se passe, ouaf ?!\"",
+            "\\.\"Reculez...! Cette personne... a bougé !!\""
+        ],
+        "16-3-choice": [
+            "Toucher le corps\nRechercher des bizarreries\nAnnuler"
+        ],
+        "16-4-message": [
+            "\\C[3]Un homme aux cheveux verts se trouve\nà l'intérieur du cercueil.",
+            "\\.\\C[4](S'approcher serait dangereux... !!)"
+        ],
+        "17-1-message": [
+            "\\C[3]Une sorte de cercueil."
         ]
     },
     "map222": {
