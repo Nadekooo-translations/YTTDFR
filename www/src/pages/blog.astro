@@ -18,7 +18,7 @@ const posts = (await getCollection("blog")).reverse();
 					<article>
 						<h3>{post.data.title}</h3>
 
-						<time datetime={post.data.date.toISOString().split("T")[0]}>
+						<time datetime={post.data.date.toISOString()}>
 							&nbsp; {/* placeholder */}
 						</time>
 
