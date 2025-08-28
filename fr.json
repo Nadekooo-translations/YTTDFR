@@ -24356,11 +24356,11 @@
             "Oui\nNon"
         ],
         "22-3-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\"Ravi de faire ta connaissance, Sara.\"",
+            "\"...!!\"\\.\\.",
+            "\\.\"Ahaha. Désolé d'avoir surgi hors de l'obscurité.\n Est-ce que je t'ai fait sursauter ?\"",
+            "\\.\"T... T'veux dire que t'étais pas un cadavre ?!\"",
+            "\\.\"Comme tu peux le voir, je suis en pleine forme.\n Alors, vous vous êtes bien amusés ?\"",
             null,
             null,
             null,
@@ -24503,7 +24503,14 @@
         "20-1-message": [
             "\\C[3]Une sorte de cercueil.",
             "\\.\\C[3]Une fille aux cheveux roses se trouve à l'intérieur.",
-            "\"Elle... Elle a l'air d'avoir l'âge de Kanna...\""
+            "\"Elle... Elle a l'air d'avoir l'âge de Kanna...\"",
+            "\\.\"...\n ...\n ...\""
+        ],
+        "21-1-message": [
+            "\\C[3]Une sorte de cercueil.",
+            "\\.\\C[3]Un garçon portant un uniforme d'écolier\nse trouve à l'intérieur.",
+            "\"Miaou... Réponds si t'es vivant, ouaf...\"",
+            "\\.\"Gin...\""
         ]
     },
     "map222": {
