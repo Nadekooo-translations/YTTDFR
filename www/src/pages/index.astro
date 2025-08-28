@@ -66,7 +66,7 @@ const translationPercent = await fetchTranslationPercentage();
 			<Image src={chapter2a} alt="" {...chapterSizes} />
 			<figcaption>Chapitre 2, partie une</figcaption>
 		</figure>
-		<figure class="not-translated" title={chapterNotTranslated}>
+		<figure title={chapterNotTranslated}>
 			<Image src={chapter2b} alt="" {...chapterSizes} />
 			<figcaption>Chapitre 2, partie deux</figcaption>
 		</figure>
@@ -145,8 +145,6 @@ const translationPercent = await fetchTranslationPercentage();
 
 			&.not-translated {
 				img {
-					width: 300;
-					height: 300;
 					filter: grayscale(1) blur(2px);
 					transition: filter 0.25s;
 

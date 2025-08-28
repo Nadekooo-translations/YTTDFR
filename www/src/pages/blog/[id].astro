@@ -1,7 +1,14 @@
 ---
-import type { GetStaticPaths } from "astro";
+import type {  GetStaticPaths } from "astro";
 import { getCollection, render } from "astro:content";
 import Layout from "../../layouts/Layout.astro";
+import dayjs from "dayjs";
+import localizedFormat from "dayjs/plugin/localizedFormat";
+import "dayjs/locale/fr";
+import { getImage } from "astro:assets";
+import { Picture } from "astro:assets";
+dayjs.extend(localizedFormat);
+dayjs.locale("fr");
 
 export const getStaticPaths = (async () => {
 	const posts = await getCollection("blog");
@@ -14,15 +21,27 @@ export const getStaticPaths = (async () => {
 
 const { post } = Astro.props;
 const { Content } = await render(post);
+const hero = post.data.image ? await getImage({src: post.data.image, format: 'webp'}) : undefined;
 ---
 
 <Layout
 	title={post.data.title}
 	description={post.data.description}
+	heroUrl={hero?.src}
 	activeNav={"/blog/"}
 >
 	<article>
+		{
+			post.data.image
+				? <figure>
+					<Picture src={post.data.image} format="webp" alt={post.data.brief} />
+				</figure>
+				: undefined
+		}
 		<h1>{post.data.title}</h1>
+		<time datetime={dayjs(post.data.date).toISOString()}>
+			Publié le { dayjs(post.data.date).format('L') }
+		</time>
 		<Content />
 	</article>
 </Layout>
@@ -41,8 +60,18 @@ const { Content } = await render(post);
 			padding: 0 1ch;
 		}
 
+		figure {
+			text-align: center;
+		}
+
 		h1 {
 			font-size: 20pt;
+			margin-bottom: 0.1em;
+		}
+
+		time {
+			color: $textMuted;
+			font-size: 10pt;
 		}
 	}
 </style>
