@@ -24462,9 +24462,9 @@
             "\"Ahaha, Q-taro, c'est un nom de gorille.\n Je préférerais un nom plus affiné.\"",
             "\"Burgerberg est le nom de famille de Q-taro.\n Naturellement, je dois décliner cette proposition.\"",
             "\"Q-taro Burgerberg... C'est bien trop long.\n Choisis un autre nom.\"",
-            "\"Reko...? Seuls les joueurs de bongos sororaux\n portent ce nom. Choisis-en un autre.\"",
+            "\"Reko...? Nan, je suis pas une groupie.\n Choisis un autre nom.\"",
             "\"Yabusame est le nom de famille de mon tueur !\n Naturellement, je dois décliner cette proposition.\"",
-            "\"Reko Yabusame...? Nan, je suis pas une groupie.\n Choisis un autre nom.\"",
+            "\"Reko Yabusame...? Seuls les joueurs de bongos sororaux\n portent ce nom. Choisis-en un autre..\"",
             "\"En effet, c'est moi, Kai ! ... Ou pas, en fait.\n Il serait inacceptable que j'utilise ce nom.\"",
             "\"Ahaha, pas moyen. Pour moi,\n Satou est le même nom de famille que Gashu.\"",
             "\"Kai Satou...? Je n'ai pas de talent culinaire.\n Choisis un autre nom.\"",
@@ -24484,7 +24484,7 @@
             "\"Il y a déjà une poupée nommée Ray Alizée...\n Ray me conviendrait cependant. Repenses-y.\"",
             "\"Moyante... Elle est un peu flippante, non ?\n Ahaha. Choisis un autre nom.\"",
             "\"... Choisis un autre nom.\"",
-            "\"\\C[2]\\N[4]\\C[0]... C'est un bon nom.\n Tu es sûr de vouloir m'appeler comme ça ?\"",
+            "\"\\C[2]\\N[4]\\C[0]... C'est un bon nom.\n Tu es sûre de vouloir m'appeler comme ça ?\"",
             "\"Merci. Je suis ravi d'avoir un nom aussi merveilleux !\""
         ],
         "1-1-message": [
@@ -24499,8 +24499,8 @@
             "\"Dacodac. Monsieur le Policier va s'en charger.\"",
             "\\.\\C[3]Keiji commença à l'inspecter avec prudence.",
             "\"Hmm... Ça a l'air d'être une pierre tombale.\"",
-            "\"Pas besoin de ça.\"",
-            "\"C'est bien ça... Une pierre tombale.\"",
+            "\"Ce n'est pas nécessaire.\"",
+            "\"C'est bien ce à quoi ça ressemble...\n Une pierre tombale.\"",
             "\\.\"...Sou.\"",
             "\\.\"Je dois l'admettre, cet endroit n'est pas\n assez éclairé pour l'explorer tout seul.\"",
             "\\.\"OK... Sortons-la de terre à la force de nos bras.\"",
@@ -24511,7 +24511,7 @@
             "\\.\"Aucun doute là-dessus, c'est une pierre tombale.\"",
             "\\.\"Tout de même... Qu'est-ce que ça fait là ?\"",
             "\\.\"Sans déc'... Ils jouent avec la vie des gens,\n et là ils veulent honorer les morts ? Mon cul !\"",
-            "\\.\"Hmpf... Certainement une provocation des ravisseurs ?\n Impliquant que nous serions enterrés ici...\"",
+            "\\.\"Hmpf... Certainement une provocation des ravisseurs ?\n Insinuant que nous allons être enterrés ici même...\"",
             "\\.\"...?!\"",
             "\"Une autre lumière s'est allumée, miaou !!\""
         ],
@@ -24553,7 +24553,7 @@
             "\\.\\C[4](Dois-je l'ouvrir...?)",
             "\\C[3]J'ai lentement ouvert le couvercle.\\.\\.\\.\\.",
             "\\.\\C[4](C'est...!!)",
-            "\\.\"Une personne !! Il y a quelqu'un là-dedans !!\"",
+            "\\.\"Une personne !! Y a quelqu'un là-d'dans !!\"",
             "\\.\\C[4](Mais qui...?)",
             "\"Ce type...?!\"",
             "\"Impensable... C'est...!!\"",
@@ -24627,6 +24627,12 @@
             "\\.\\C[3]Un garçon portant un uniforme d'écolier\nse trouve à l'intérieur.",
             "\"Miaou... Réponds si t'es vivant, ouaf...\"",
             "\\.\"Gin...\""
+        ],
+        "23-1-message": [
+            "\\C[3]Une sorte de cercueil.",
+            "\\.\\C[3]Il y a une femme portant un grand chapeau à l'intérieur.",
+            "\"Mais putain... C'est un cimetière ?!\"",
+            "\"On dirait un cimetière... C'est troublant...\""
         ]
     },
     "map222": {
@@ -40197,7 +40203,7 @@
             "\"Aaah... ! C'est le seau de Kanna !\n Rendez-le-lui, s'il vous plaît... !\"",
             "\"Mouahaha... Vous ne supportez\n donc pas une telle obscurité ?\"",
             "\"J'aurais jamais imaginé que le type qui s'est enfermé\n dans un casier aurait un jour de l'autorité, miaou.\"",
-            "\"Ah...! Je vois une faible lumière !\"",
+            "\"Ah...! J'aperçois une faible lumière !\"",
             "\"Qu'est-ce que c'est...?\""
         ],
         "3-1-choice": [
