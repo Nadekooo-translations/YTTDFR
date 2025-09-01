@@ -24444,14 +24444,18 @@
             "\\.\"... Tu as bien grandi, à ce que je vois.\"",
             "\\.\"En tout cas, ça sera embêtant si j'ai pas de nom.\"",
             "\\.\"Tiens, Sara. Tu vas agir comme mon représentant\n et me donner un nouveau nom !\"",
-            "\"Hein ? Est-ce que t'étais attentive...?\n Je ne me servirai plus de Sou Hiyori.\"",
+            "\"Oh ? Je me demande si tu m'as bien écouté...?\n Je ne me servirai plus de Sou Hiyori.\"",
             "\"Hiyori, ça ne marche pas non plus. Ça ferait croire\n que je suis encore attaché à mon ancien nom,\n tu ne penses pas ?\"",
             "\"J'ai donné Sou à Shin.\n Tu vois bien, il s'appelle déjà Sou, maintenant.\"",
-            "\"Tu veux me donner le même nom que toi...?\n Comme tu peux être répugnante, Sara.\"",
-            "\"Ahaha, genre je suis ton demi-frère ? Non merci.\n Choisis un autre nom.\"",
-            "\"Si tu faisais travailler ta mémoire, tu saurais que\n Sara Chidouin, c'est toi !\"",
+            "\"Tu veux me donner le même nom que toi...?\n Comme c'est dégoûtant, Sara.\"",
+            "\"Ahaha, genre, je suis ton demi-frère ? Non merci.\n Choisis un autre nom.\"",
+            "\"Je te rappelle que Sara Chidouin, c'est toi !\"",
             "\"... Joe était un garçon si joyeux et si gentil...\n C'est vraiment dommage.\"",
-            "\"Tazuna, c'est le nom de famille de Joe.\n Je dois naturellement décliner cette proposition.\""
+            "\"Tazuna, c'est le nom de famille de Joe.\n Je dois naturellement décliner cette proposition.\"",
+            "\"Il y avait un survivant nommé Joe Tazuna...\n ... Tu as oublié ? Choisis un autre nom.\"",
+            "\"Ahaha, tu fais rougir Monsieur le Policier !\n ... Je plaisante. Choisis un autre nom.\"",
+            "\"Shinogi est le nom de famille de Keiji.\n Naturellement, je dois décliner cette proposition.\"",
+            "\"Keiji Shinogi...? Je n'ai pas trop envie de\n passer pour un bourreau des cœurs.\n Choisis un autre nom.\""
         ],
         "1-1-message": [
             "\\C[3]Il y a une pierre longue et étroite,\nbrillamment illuminée.",
