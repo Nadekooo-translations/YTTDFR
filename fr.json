@@ -24516,9 +24516,10 @@
             "\\.\"A... Attends ! L'explication est finie ?!\"",
             "\\.\"On va devoir... tuer cet homme...?\"",
             "\\.\"Tuer Sou Hiyori...\n Non, tuer \\N[4]...\"",
-            "\\.\"Bouahah... Ça va ?  Là, c'était sûrement\n notre meilleure occase, vous savez ?\"",
+            "\\.\"Bouahah... Tout va bien ? Là, c'était sûrement\n notre meilleure occase, vous trouvez pas ?\"",
             "\\.\"N'import'quoi ! Qui pourrait faire ça juste\n après que ça leur soit tombé d'ssus ?!\"",
-            "\\.\"... Je parie que ce type s'est enfui vers\n les confins les plus éloignés de cet étage.\""
+            "\\.\"... Je parie que ce type s'est enfui vers\n les confins les plus éloignés de cet étage.\"",
+            "\\.\"On ne peut rien y faire. D'abord, je pense\n qu'il faut qu'on partage nos informations...\""
         ],
         "1-1-message": [
             "\\C[3]Il y a une pierre longue et étroite,\nbrillamment illuminée.",
