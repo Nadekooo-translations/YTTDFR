@@ -46,8 +46,11 @@ jobs:
       - name: Balance Battle Horizontal Text Patching in yttd/www/js/plugins/CustomTranslationEngine.js
         run: sed -i 's/var horizontalLanguages = \[ "EN" \];/var horizontalLanguages = \[ "EN", "FR" \];/g' yttd/www/js/plugins/CustomTranslationEngine.js
 
-      - name: Patching Animations.json
-        run: node tools/apply-animation-patch.mjs
+      # - name: Patching Animations.json
+      #   run: node tools/apply-animation-patch.mjs
+
+      - name: Copy Animations.json
+        run: cp Animations.json yttd/www/data/Animations.json
 
       - name: Patching images
         run: node tools/crypt.js
