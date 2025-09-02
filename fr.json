@@ -24516,7 +24516,9 @@
             "\\.\"A... Attends ! L'explication est finie ?!\"",
             "\\.\"On va devoir... tuer cet homme...?\"",
             "\\.\"Tuer Sou Hiyori...\n Non, tuer \\N[4]...\"",
-            "\\.\"Bouahah... Tout va bien ? C'était sûrement\n notre meilleure occase, vous trouvez pas ?\""
+            "\\.\"Bouahah... Ça va ?  Là, c'était sûrement\n notre meilleure occase, vous savez ?\"",
+            "\\.\"N'import'quoi ! Qui pourrait faire ça juste\n après que ça leur soit tombé d'ssus ?!\"",
+            "\\.\"... Je parie que ce type s'est enfui vers\n les confins les plus éloignés de cet étage.\""
         ],
         "1-1-message": [
             "\\C[3]Il y a une pierre longue et étroite,\nbrillamment illuminée.",
