@@ -24512,14 +24512,16 @@
             "\\.\"Hein...?!\"",
             "\\.\"Attends, quoi...?\"",
             "\\.\"Ahaha, non, non, je ne le dirais pas deux fois !\"",
-            "\\.\"Maintenant, que le \\C[2]Mini-Jeu du Meurtrier\\C[0] commence !\n ... Que votre soif de sang soit à la hauteur.\"",
+            "\\.\"Maintenant, que le \\C[2]Mini-Jeu du Meurtrier\\C[0] commence !\n ... J'ai hâte de voir votre soif de sang.\"",
             "\\.\"A... Attends ! L'explication est finie ?!\"",
             "\\.\"On va devoir... tuer cet homme...?\"",
             "\\.\"Tuer Sou Hiyori...\n Non, tuer \\N[4]...\"",
             "\\.\"Bouahah... Tout va bien ? Là, c'était sûrement\n notre meilleure occase, vous trouvez pas ?\"",
             "\\.\"N'import'quoi ! Qui pourrait faire ça juste\n après qu'ça leur soit tombé d'ssus ?!\"",
             "\\.\"... Je parie que ce type s'est enfui vers\n les confins les plus éloignés de cet étage.\"",
-            "\\.\"On ne peut rien y faire. D'abord, je propose\n que l'on partage tous nos informations...\""
+            "\\.\"On ne peut rien y faire. D'abord, je propose\n que l'on partage tous nos informations...\"",
+            "\\.\"Hm? Il y a encore des infos...?\"",
+            "\\.\"Ah oui, c'est vrai ! Il a dit que ce serait à nous\n de donner le reste des explications !\n Ce type est pénible...\""
         ],
         "1-1-message": [
             "\\C[3]Il y a une pierre longue et étroite,\nbrillamment illuminée.",
