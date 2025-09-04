@@ -22588,7 +22588,28 @@
             "\\.\\C[4](La sœur de Kanna... et Megumi Sasahara, j'imagine.)",
             "\\.\"J'ai une autre info importante, mais...\n Je ne peux pas encore en parler.\"",
             "\\.\"Hé...?\"",
-            "\\.\"Fufu... Si je dévoile toutes mes cartes...\n Tu te serviras de moi tel un pion, pas vrai ?\""
+            "\\.\"Haha... Si je dévoile toutes mes cartes...\n Tu te serviras de moi tel un pion, pas vrai ?\"",
+            "\\.\"Je n'aime pas qu'on se serve de moi...\"",
+            "\\.\"Me servir de toi...?\"",
+            "\"Je ne ferai jamais une chose pareille.\"",
+            "\\.\"...\n ...\n ...\"",
+            "\\.\"Qui sait de quoi est capable un être humain\n lorsque sa propre vie est mise en jeu...\n Je pensais que tu le savais mieux que moi ?\"",
+            "\\.\"...!\"",
+            "\\.\"C'est ma façon de me protéger...\n Ne m'en veux pas, Sara-senpai.\"",
+            "\"Je veux qu'on devienne amies, Hinako.\"",
+            "\\.\"Oh, d'accord. Tu veux qu'on « sorte » ensemble ?\"",
+            "\\.\"Ne te moque pas de moi.\"",
+            "\\.\"Il va me falloir un peu de temps avant de devenir\n vraiment « amies » ... Je suis timide, tu vois.\"",
+            "\\C[10]\"Mouahaha... Tu m'as démasquée.\"",
+            "\\.\"... Tu ferais une très mauvaise actrice, Sara-senpai.\"",
+            "\\.\"Grrrh...!\"",
+            "\\.\"Haha... Je te dirais quand je te ferai confiance.\""
+        ],
+        "873-0-choice": [
+            "Je ne ferai pas ça\nJe veux qu'on soit amies\nAh, tu m'as eu"
+        ],
+        "874-0-message": [
+            "\\.\"Tous les souvenirs pouvant compromettre\n l'organisation... ils ont été effacés, je vous l'assure.\""
         ]
     },
     "map107": {
