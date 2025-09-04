@@ -22574,6 +22574,21 @@
         "826-0-choice": [
             "Ceux qualifiés pour le vote final\nCeux « qualifiés pour gagner »",
             "Il aurait tenté de tuer un « candidat »\nIl aurait tenté de tuer un « non candidat »"
+        ],
+        "873-0-message": [
+            null,
+            "\"... Salut, Sara-senpai.\"",
+            "\\.\"Senpai...?\"",
+            "\\.\"T'es pas fan de ce terme ?\n Pour moi, les lycéens sont comme des adultes...\"",
+            "\\.\"Tu peux m'appeler comme tu veux, Hinako.\"",
+            "\\.\"C'est super, Sara-senpai.\n ... Contente de voir que t'as du bon sens.\"",
+            "\\.\"Ah d'ailleurs, je dois te donner une petite info.\"",
+            "\\.\"La seule condition pour que nous soyons\n choisis comme soutiens était la suivante :\n « Vous n'avez jamais été en contact\n avec les survivants. »\"",
+            "\\.\"J'ai entendu dire que 8 personnes sont mortes\n lors de la Première Épreuve. Cela signifie que 2\n d'entre elles connaissaient déjà les survivants.\"",
+            "\\.\\C[4](La sœur de Kanna... et Megumi Sasahara, j'imagine.)",
+            "\\.\"J'ai une autre info importante, mais...\n Je ne peux pas encore en parler.\"",
+            "\\.\"Hé...?\"",
+            "\\.\"Fufu... Si je dévoile toutes mes cartes...\n Tu te serviras de moi tel un pion, pas vrai ?\""
         ]
     },
     "map107": {
