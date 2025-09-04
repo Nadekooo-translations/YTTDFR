@@ -22696,6 +22696,19 @@
         "903-0-message": [
             "Test test",
             "Test test"
+        ],
+        "871-0-message": [
+            "\"Si nous ou l'une des paires s'éloignent trop\n l'une de l'autre, seul mon collier s'activera.\n Alors, je te prie de faire attention, Sara.\"",
+            "\"Euh... Ça va, si je t'appelle par ton prénom ?\"",
+            "\\.\"Hmm...\"",
+            "\\.\"Bien sûr. On est peut-être au même niveau scolaire...\"",
+            "\\.\"T'en es sûre ? Tu vas pas revenir sur ce que t'as\n dit pour ensuite me dire que t'es l'aînée ?\"",
+            "\\.\\C[4](Je ne pense pas que ce soit le moment\n de s'inquiéter des relations cadet-aîné...)",
+            "\\.\"On vient de se rencontrer, alors appelle-moi Chidouin.\n Compris, Ranmaru ?\"",
+            "\\.\"Non, attends, pourquoi toi, tu peux m'appeler\n par mon prénom ?! C'est bizarre, non ?!\"",
+            "\\.\"... Et bien, je n'ai entendu que Ranmaru...\"",
+            "\\.\"Ah... bien sûr... Bah, écoute, on va juste s'appeler\n par nos prénoms, d'accord ? C'est plus simple...\"",
+            "\\.\"Peux-tu m'appeler Lady Sara ?\""
         ]
     },
     "map107": {
