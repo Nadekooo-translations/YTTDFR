@@ -22648,7 +22648,54 @@
             "\\.\"D'accord, je vois. J'imagine que c'était\n le bon plan, vu que t'es toujours en vie.\"",
             "\"Oui, mais on a du faire beaucoup de sacrifices...\"",
             "\\.\"J'ai perdu... tant d'alliés...\"",
-            "\\.\"...\n ...\n ...\""
+            "\\.\"...\n ...\n ...\"",
+            "\\.\"Arrête de t'faire des alliés, pauvre conne.\"",
+            "\\.\"...!\"",
+            "\\.\"Pardon, pardon. Oublie ce que j'ai dit.\"",
+            "\\.\"Au fait, faut vraiment qu'j'te dise.\n 'Paremment y'a \\C[2]monstres\\C[0] qui rôdent à c't'étage.\"",
+            "\\.\"Des monstres ?\"",
+            "\\.\"Sûrement des poupées, mais ça serait tragique\n si on trouve pas d'armes. Tu t'es d'jà battue ?\"",
+            "\\.\"Pas de manière violente, en tout cas.\"",
+            "\\.\"Fais en sorte que ton pote la gonflette les massacre.\n P't'être que si tu lui fais un gros bisou,\n il fera tout en son pouvoir pour te protéger.\"",
+            "\\.\"Non, si quelqu'un parmi nous se bat jusqu'à la mort,\n alors je me battrais pour ma vie moi aussi.\"",
+            "\\.\"...\"",
+            "\\.\"Je vois, je vois. T'es vraiment atypique.\""
+        ],
+        "875-0-choice": [
+            "C'est pas passé loin\nC'est grâce à mes alliés\nIl y a eu beaucoup de sacrifices"
+        ],
+        "876-0-message": [
+            "\\.\"T-Tu peux me poser n'importe quelle question !\n ... Tant que je suis capable d'y répondre, bien sûr.\"",
+            "\"Donc tu es Sara, c'est ça ?\"",
+            "\\.\"O-... Ouais.\"",
+            "\\.\"Oh ! Soyons amies !\n On a presque le même âge, pas vrai ?\"",
+            "\\.\"... Erk ! T'es en train de juger ma tenue, là ?!\n Tu te dis que... j'suis bizarre !\"",
+            "\\.\"Non, je veux dire...\"",
+            "\"C'est pas du tout ce à quoi je pense. Sincèrement.\"",
+            "\\.\"O... Oh ?\"",
+            "\\.\"Ouais, en fait, j'aime bien ta tenue. Elle te va bien.\"",
+            "\\.\"Hé... héhé. C'est flatteur, mais j'en suis fière.\n Vu que je l'ai cousue moi-même...\"",
+            "\"Bon, j'avoue, je l'ai trouvé un peu bizarre, mais...\"",
+            "\\.\"J-Je le savais ! C'était inévitable, j'imagine !\n Je porte un uniforme normal, d'habitude, tu sais ?!\"",
+            "\"Cette capuche m'est familière.\"",
+            "\\.\"Tu penses à cette poupée, Ray Arranger, pas vrai ?\"",
+            "\\.\"Ce mec est odieux. Il m'a volé mes vêtements,\n puis les a portés, sans vergogne !\"",
+            "\\.\"C'est difficile à expliquer, mais tu vois,\n je suis une sorte de clown en dehors de l'école...\"",
+            "\\.\"Regarde ! Je vais aux événements comme ça !\"",
+            "\\.\\C[4](Quel masque effrayant...)",
+            "\\.\"Donc tu n'as aucune raison d'avoir peur ! Crois-moi !\"",
+            "\\.\"D-D'accord... Sinon, est-ce que t'as des infos...?\"",
+            "\\.\"Bien sûr ! Euh, voyons...\"",
+            "\\.\"...\"",
+            "\\.\"T-Tu peux demander à quelqu'un d'autre ?\"",
+            "\\.\\C[4](Argh... Elle a oublié...?)"
+        ],
+        "876-0-choice": [
+            "Je ne pense pas ça\nOuais, c'est bizarre\nCette capuche m'est familière"
+        ],
+        "903-0-message": [
+            "Test test",
+            "Test test"
         ]
     },
     "map107": {
