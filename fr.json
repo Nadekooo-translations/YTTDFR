@@ -6250,22 +6250,22 @@
             "\\C[3]Êtes-vous sûr de vouloir retourner à l'écran titre ?"
         ],
         "50-1-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\.\"Haa... Haa...! Q-taro !!\"",
+            "\\.\"Gorille musclééé ! T'es où, miaouuuh ?!\"",
+            "\\.\"Gahh...! Urgh...!\"",
+            "\\.\"Haa... Ouh...! T'inquiète...\n J'vais... bien...!\"",
+            "\\.\"Q-taro...!!\"",
+            "\\.\"J'ai jamais été aussi content d'm'être musclé\n jusqu'à aujourd'hui, ça j'vous l'dis...!",
+            "\\.\"Tss...! Comment elle a pu se planter ?!\"",
+            "\\.\"Quelle crétine !\n Se faire tuer avant même d'avoir pu...!!\"",
+            "\\.\"J'l'ai pas tuée...\"",
+            "\\.\"... Ah...?\"",
+            "\\.\"J'l'ai juste assomée un peu...\n Elle s'est p't'être juste éteinte...\"",
+            "\\.\"Attends, quoi...?! Tu ne l'as pas tuée ?\"",
+            "\\.\"T'es stupide ?! Pourquoi t'es aussi indulgent...?!\"",
+            "\\.\"Elle avait vraiment l'intention de t'ôter la vie...!!\"",
+            "\\.\"C'pas c'qu'elle pense vraiment !!\"",
+            "\\.\"Qu-...\"",
             null,
             null,
             null,
@@ -6376,6 +6376,34 @@
             null,
             null,
             "\\.\"...\""
+        ],
+        "1-1-message": [
+            "\\C[3]Il y a une écriture sur le monument en pierre."
+        ],
+        "2-1-message": [
+            "\\C[3]\\N[4] était dans ce cercueil."
+        ],
+        "3-1-message": [
+            "\\C[3]Hinako était dans ce cercueil."
+        ],
+        "4-1-message": [
+            "\\C[3]Hayasaka était dans ce cercueil."
+        ],
+        "5-1-message": [
+            "\\C[3]Ranmaru était dans ce cercueil."
+        ],
+        "6-1-message": [
+            "\\C[3]Anzu était dans ce cercueil.\nIl est complètement détruit.",
+            "\\.\\C[4](Je suis désolée...)"
+        ],
+        "6-2-message": [
+            "\\C[3]Anzu était dans ce cercueil."
+        ],
+        "7-1-message": [
+            "\\C[3]Kurumada était dans ce cercueil."
+        ],
+        "8-1-message": [
+            "\\C[3]Mai était dans ce cercueil."
         ]
     },
     "map180": {
@@ -24352,9 +24380,9 @@
     },
     "map214": {
         "22-3-choice": [
-            "Enchantée\n...\nJ'aimerais échanger",
+            "Enchantée\n...\nÉchange, SVP",
             "Oui\nNon",
-            "Bouge-toi\nTellement énervant\nTu m'as bien eu !"
+            "Dépêche-toi\nC'est embêtant\nTu m'as eu !"
         ],
         "22-3-message": [
             "\"« Nice to meet you », Sara.\"",
@@ -24521,7 +24549,9 @@
             "\\.\"... Je parie que ce type s'est enfui vers\n les confins les plus éloignés de cet étage.\"",
             "\\.\"On ne peut rien y faire. D'abord, je propose\n que l'on partage tous nos informations...\"",
             "\\.\"Hm? Il y a encore des infos...?\"",
-            "\\.\"Ah oui, c'est vrai ! Il a dit que ce serait à nous\n de donner le reste des explications !\n Ce type est pénible...\""
+            "\\.\"Ah oui, c'est vrai ! Il a dit que ce serait à nous\n de donner le reste des explications !\n Ce type est pénible...\"",
+            "\\.\"On dirait qu'on va devoir leur\n demander les détails, Sara.\"",
+            "\\.\"D'accord...\""
         ],
         "1-1-message": [
             "\\C[3]Il y a une pierre longue et étroite,\nbrillamment illuminée.",
@@ -24669,6 +24699,12 @@
             "\\.\\C[3]Il y a une femme portant un grand chapeau à l'intérieur.",
             "\"Mais putain... C'est un cimetière ?!\"",
             "\"On dirait un cimetière... C'est troublant...\""
+        ],
+        "22-6-message": [
+            "\"...! Quel est ce bruit...?\"",
+            "\\.\"... Et merde. On dirait qu'ils ont un coup d'avance...\"",
+            "\\.\"...?\"",
+            "\\.\"Un monstre est venu nous attaquer.\""
         ]
     },
     "map222": {
