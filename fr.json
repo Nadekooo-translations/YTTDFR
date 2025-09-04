@@ -22609,7 +22609,46 @@
             "Je ne ferai pas ça\nJe veux qu'on soit amies\nAh, tu m'as eu"
         ],
         "874-0-message": [
-            "\\.\"Tous les souvenirs pouvant compromettre\n l'organisation... ils ont été effacés, je vous l'assure.\""
+            "\\.\"Tous nos souvenirs qui étaient compromettants\n pour l'organisation... Ils ont été effacés.\"",
+            "\\.\"H... Hé... mademoiselle Sara.\"",
+            "\\.\"Hayasaka...\"",
+            "\\.\"Tu me connaissais déjà... n'est-ce pas ?\"",
+            "\\.\"M-Mais de quoi parlez-vous...?\"",
+            "\\.\"Peut-être que tu es au courant quelque chose\n à propos de ce Jeu Mortel Démocratique ?\"",
+            "\\.\"Tu sais quelque chose, pas vrai ?\"",
+            "\\.\"J-Je ne comprends pas ce que tu insinues...\"",
+            "\\.\"Ne joue pas les idiots avec moi.\n Je parle du Jeu Mortel Démocratique.\"",
+            "\\.\"...\n ...\n ...\"",
+            "\\.\"Vous avez regardé ma vidéo de victime, je suppose...?\"",
+            "\\.\"...\"",
+            "\\.\"Réfléchissez... Je ne suis pas le véritable Hayasaka.\n Je suis une poupée conçue pour lui ressembler.\"",
+            "\\.\"Il est évident que l'organisation ne me laisserait\n pas de souvenirs qui seraient problématiques, non ?\"",
+            "\\.\"... Ah oui, vraiment ?\"",
+            "\\.\"J-Je suis content que tu comprennes.\n Bon, sur ce, je vais y aller...\"",
+            "\\.\\C[4](Il est vraiment louche...)"
+        ],
+        "874-0-choice": [
+            "Tu me connais ?\nTu sais quelque chose, non ?"
+        ],
+        "875-0-message": [
+            "\"Apparemment, y a des monstres à cet étage.\n Faut qu'on s'chope des armes.\"",
+            "\"Bouahaha... T'es Sara Chidouin, c'est ça ?\"",
+            "\\.\"Y a-t-il quelque chose de drôle, M. Kurumada ?\"",
+            "\\.\"Bah ouais. T'es qu'une bonne vieille lycéenne.\"",
+            "\\.\"Et pourtant, tu t'en sors très bien, tu sais ?\n C'est vraiment dingue.\"",
+            "\\.\"...\"",
+            "\"Je l'ai échappé belle à chaque fois.\n C'est qu'une question de chance...\"",
+            "\\.\"Les types forts sont ceux qui ont de la chance.\n Et moi, j'en avais que dalle.\"",
+            "\\.\"Si tu te concentres trop sur la victoire,\n tout peut vite partir en cacahuètes, t'sais ?\n Garde bien ça dans ta p'tite tête.\"",
+            "\\.\"L-La victoire...!\"",
+            "\"C'est grâce à mes alliés. On s'entraide tous.\"",
+            "\\.\"Tes alliés, hein ?\"",
+            "\\.\"Oui.\"",
+            "\\.\"...\"",
+            "\\.\"D'accord, je vois. J'imagine que c'était\n le bon plan, vu que t'es toujours en vie.\"",
+            "\"Oui, mais on a du faire beaucoup de sacrifices...\"",
+            "\\.\"J'ai perdu... tant d'alliés...\"",
+            "\\.\"...\n ...\n ...\""
         ]
     },
     "map107": {
