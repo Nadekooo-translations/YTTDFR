@@ -22699,16 +22699,34 @@
         ],
         "871-0-message": [
             "\"Si nous ou l'une des paires s'éloignent trop\n l'une de l'autre, seul mon collier s'activera.\n Alors, je te prie de faire attention, Sara.\"",
-            "\"Euh... Ça va, si je t'appelle par ton prénom ?\"",
+            "\"Euh... Ça va, si je t'appelle juste \"Sara\" ?\"",
             "\\.\"Hmm...\"",
-            "\\.\"Bien sûr. On est peut-être au même niveau scolaire...\"",
+            "\\.\"Évidemment. On est sûrement au même niveau scolaire...\"",
             "\\.\"T'en es sûre ? Tu vas pas revenir sur ce que t'as\n dit pour ensuite me dire que t'es l'aînée ?\"",
             "\\.\\C[4](Je ne pense pas que ce soit le moment\n de s'inquiéter des relations cadet-aîné...)",
             "\\.\"On vient de se rencontrer, alors appelle-moi Chidouin.\n Compris, Ranmaru ?\"",
             "\\.\"Non, attends, pourquoi toi, tu peux m'appeler\n par mon prénom ?! C'est bizarre, non ?!\"",
             "\\.\"... Et bien, je n'ai entendu que Ranmaru...\"",
             "\\.\"Ah... bien sûr... Bah, écoute, on va juste s'appeler\n par nos prénoms, d'accord ? C'est plus simple...\"",
-            "\\.\"Peux-tu m'appeler Lady Sara ?\""
+            "\\.\"Peux-tu m'appeler Lady Sara ?\"",
+            "\\.\"Alors, là, c'est vraiment chelou !\n On croirait à une relation maître-serviteur !!\"",
+            "\\.\\C[4](Je crois que c'est trop demander...)",
+            "\\.\"C'est pas parce que je suis petit que tu\n dois forcément me prendre de haut, hein...\"",
+            "\\.\"Mais plus sérieusement, t'as pas d'autres infos ?\"",
+            "\\.\"Oui, j'en ai.\"",
+            "\\.\"C'est à propos de ces fils rouges qui nous lient\n via nos colliers...\"",
+            "\\.\"Si les personnes qui font partie d'une paire\n s'éloignent trop l'une de l'autre, leurs colliers\n s'activent puis leur tête explose.\"",
+            "\\.\"Comment...?!\"",
+            "\\.\"Enfin... ça, c'est que pour nous, les soutiens.\n Ton collier ne s'activera pas, Sara.\"",
+            "\\.\"Donc seulement ton collier s'acti-...?\"",
+            "\\.\"A-Alors ne t'éloigne pas trop de moi, OK ?\n Mettons nos différences de côté...\"",
+            "\\.\"... Compris.\""
+        ],
+        "871-0-choice": [
+            "Évidemment\nJe préfère Chidouin\nAppelle-moi Lady Sara"
+        ],
+        "872-0-message": [
+            "\"Nous sommes morts lors de la Première Épreuve...\n On nous a montré les vidéos de nos derniers instants.\n ... Impardonnable, hein ?\""
         ]
     },
     "map107": {
