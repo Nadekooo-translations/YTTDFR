@@ -22712,7 +22712,7 @@
             "\\.\"Alors, là, c'est vraiment chelou !\n On croirait à une relation maître-serviteur !!\"",
             "\\.\\C[4](Je crois que c'est trop demander...)",
             "\\.\"C'est pas parce que je suis petit que tu\n dois forcément me prendre de haut, hein...\"",
-            "\\.\"Mais plus sérieusement, t'as pas d'autres infos ?\"",
+            "\\.\"Mais plus sérieusement, tu aurais des infos ?\"",
             "\\.\"Oui, j'en ai.\"",
             "\\.\"C'est à propos de ces fils rouges qui nous lient\n via nos colliers...\"",
             "\\.\"Si les personnes qui font partie d'une paire\n s'éloignent trop l'une de l'autre, leurs colliers\n s'activent puis leur tête explose.\"",
@@ -22726,7 +22726,33 @@
             "Évidemment\nJe préfère Chidouin\nAppelle-moi Lady Sara"
         ],
         "872-0-message": [
-            "\"Nous sommes morts lors de la Première Épreuve...\n On nous a montré les vidéos de nos derniers instants.\n ... Impardonnable, hein ?\""
+            "\"Nous sommes morts lors de la Première Épreuve...\n On nous a montré les vidéos de nos derniers instants.\n ... Impardonnable, hein ?\"",
+            "\"Yiiiiih ! C'est Sara, le p'tit bout d'chou !\n Tu veux venir papoter avec moi ?!\"",
+            "\\.\"Je ne cherche pas à papoter. \n J'ai juste besoin de tes infos...\"",
+            "\\.\"Oh, comme mes mensurations ?\"",
+            "\\.\"N-Non, je veux dire à propos\n du Jeu Mortel Démocratique...!\"",
+            "\\.\"Si tu me donnes le type de personnes que t'aimes,\n alors je te dirais tout ce que je sais !\"",
+            "\\.\"Heeein...?\"",
+            "\\.\"Euh, hmm... Les gens forts, j'imagine ?\"",
+            "\\.\"Je vois, je voiiiiis !\n C'est vrai que c'est agréable d'avoir quelqu'un\n capable de nous soutenir !\"",
+            "\\.\"C-C'est vrai.\"",
+            "\\.\"... Mais Sara, c'est toi la personne la plus forte\n dans ce Jeu Mortel Démocratique, n'est-ce pas ?",
+            "\\.\\C[4](Est-ce qu'elle connaît les taux de victoire...?)",
+            "\\.\"Euh, je dirais... Les personnes gentilles ?\"",
+            "\\.\"Je comprends totalement !\n Les gens qui sont foncièrement gentils sont\n les meilleurs, après tout !\"",
+            "\\.\"O-Ouais.\"",
+            "\\.\"... Mais les personnes gentilles sont incapables\n de survivre ici, hein...\"",
+            "\\.\\C[4](...!)",
+            "\\.\"Argh... Je n'arrive pas à penser à quoi que ce soit.\"",
+            "\\.\"Ahaha ! Alors ton type de personnes,\n c'est simplement celles que tu finis par\n apprécier naturellement au fil du temps !\"",
+            "\\.\"Ah, maintenant que tu le dis...\n Je crois que ça se passe comme ça, oui.\"",
+            "\\.\"Moh, tu prends ça trop au sérieux, Sara !\n Trop mimiiiiii !\"",
+            "\\.\\C[4](Argh, j'ai vraiment du mal avec elle...)",
+            "\\.\"Ah... Pardon si je t'ai offensé !\n Voilà, je vais te donner mon info !\"",
+            "\\.\"Eh bien, c'est à propos de nous...\"",
+            "\\.\"... Nos « vrais nous » sont morts\n lors de la Première Épreuve.\"",
+            "\\.\"...\n ...\n ...\"",
+            "\\.\"Et on nous a montré ces Vidéos des Victimes...\n qui \""
         ]
     },
     "map107": {
