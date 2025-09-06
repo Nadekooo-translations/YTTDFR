@@ -22576,7 +22576,7 @@
             "Il aurait tenté de tuer un « candidat »\nIl aurait tenté de tuer un « non candidat »"
         ],
         "873-0-message": [
-            null,
+            "\"Apparemment, six victimes de la Première Épreuve\n qui n'ont eu aucun contact avec vous ont été choisis\n en tant que soutiens.\"",
             "\"... Salut, Sara-senpai.\"",
             "\\.\"Senpai...?\"",
             "\\.\"T'es pas fan de ce terme ?\n Pour moi, les lycéens sont comme des adultes...\"",
@@ -22752,7 +22752,15 @@
             "\\.\"Eh bien, c'est à propos de nous...\"",
             "\\.\"... Nos « vrais nous » sont morts\n lors de la Première Épreuve.\"",
             "\\.\"...\n ...\n ...\"",
-            "\\.\"Et on nous a montré ces Vidéos des Victimes...\n qui \""
+            "\\.\"Et on nous a montré ces Vidéos des Victimes...\n qui dépeignent les instants précis de nos morts.\"",
+            "\\.\"...!\"",
+            "\\.\"Soyons honnêtes... C'est impardonnable.\n Nous faire subir une telle chose...\"",
+            "\\.\"Donc... Je veux moi aussi faire de mon mieux...\n Et pour ça j'ai également besoin de ton aide, Sara.\n Je t'en prie.\"",
+            "\\.\"D... D'accord...\"",
+            "\\.\"Merciiiii, Sara !\n On est pas une paire, mais faisons de notre mieux !\""
+        ],
+        "872-0-choice": [
+            "Les gens forts\nLes gens gentils\nJe n'arrive pas à trouver"
         ]
     },
     "map107": {
