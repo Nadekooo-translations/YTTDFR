@@ -40472,7 +40472,24 @@
     },
     "map189": {
         "1-1-message": [
-            "\"C... C'est un monstre... !!\"\nou\n\"Un... Un monstre... !!\""
+            "\"Un... Un monstre...!!\"",
+            "\"C'est ça. On va finir en charpie si on s'y prend mal,\n alors battons-nous d'toutes nos forces, compris ?\"",
+            "\"Miaouuuu ?! Mais c'est absurde, punk musclé !\n On peut pas se battre contre un truc pareil, ouaf !\"",
+            "\\.\"C'est vrai... Je ne pense pas qu'on arrive\n à faire grand-chose si on se bat à la loyale.",
+            "\\.\"... Alors, mettez vos esprits à contribution.\"",
+            "\\.\"Nous allons réfléchir à une façon de l'éloigner,\n puis nous \\C[2]choisirons l'idée de quelqu'un\\C[0].\"",
+            "\\.\"Si on en discute tous ensemble...\n On pourra p't'être \\C[2]trouver son point faible\\C[0] !\"",
+            "\\.\"Compris...!\"",
+            "\\C[4](Il doit bien y avoir un moyen de l'éloigner...!)"
+        ],
+        "3-1-message": [
+            "\\C[3]Le monstre nous regarde.",
+            "\\C[3]Le monstre regarde autour de lui,\ncomme pour évaluer la marchandise.",
+            "\"Argh...! Qu'est-ce qu'tu regardes ?!\"",
+            "\"Hmpf... Tu cherches la proie idéale ?\"",
+            "\\C[3]Le monstre s'est tourné vers \\C[2]Hayasaka\\C[3].",
+            "\\.\\C[10]\\sp[15]\"JE T'AI TROUVÉ... JE T'AI TROUVÉ...\"",
+            "\"Ha... haha...\n J'ai un mauvais pressentiment...\""
         ]
     }
 }
