@@ -40489,7 +40489,21 @@
             "\"Hmpf... Tu cherches la proie idéale ?\"",
             "\\C[3]Le monstre s'est tourné vers \\C[2]Hayasaka\\C[3].",
             "\\.\\C[10]\\sp[15]\"JE T'AI TROUVÉ... JE T'AI TROUVÉ...\"",
-            "\"Ha... haha...\n J'ai un mauvais pressentiment...\""
+            "\"Ha... haha...\n J'ai un mauvais pressentiment...\"",
+            "\\C[3]Le monstre rit cruellement.",
+            "\\.\\C[3]Le monstre a attaqué \\C[2]Hayasaka\\C[3] !",
+            "\"C-C'est du sérieux...!\"",
+            "\\C[3]Hayasaka s'est caché derrière tout le monde\npour échapper au danger.",
+            "\\C[3]Le monstre fixe maintenant \\C[2]Anzu\\C[3].",
+            "\\.\\C[10]\\sp[15]\"TOI... TOI...\"",
+            "\"Hiiii ?! Quoi ?!\n T'es effrayant !!\"",
+            "\\C[3]Le monstre a attaqué \\C[2]Anzu\\C[3] !",
+            "\"N... NOOOOOOOOOON !!\"",
+            "\\C[3]Le monstre est aux prises avec \\C[2]Anzu\\C[3].",
+            "\"Arrête...!! Arrête çaaaa...!!\"",
+            "\\C[3]Le monstre a soulevé \\C[2]Anzu\\C[3] et l'a jeté dans un cerceuil.",
+            "\"H-Hé !! Laisse-moi sortir !!\"",
+            "\\.\\C[4](Les parties rouges du monstre sont éléctrifiées !\n On ne doit toucher que son armure...!)"
         ]
     }
 }
