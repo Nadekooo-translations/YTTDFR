@@ -22610,9 +22610,9 @@
         ],
         "874-0-message": [
             "\\.\"Tous nos souvenirs qui étaient compromettants\n pour l'organisation... Ils ont été effacés.\"",
-            "\\.\"H... Hé... mademoiselle Sara.\"",
+            "\\.\"B... Bonjour... mademoiselle Sara.\"",
             "\\.\"Hayasaka...\"",
-            "\\.\"Tu me connaissais déjà... n'est-ce pas ?\"",
+            "\\.\"Tu me connais déjà... n'est-ce pas ?\"",
             "\\.\"M-Mais de quoi parlez-vous...?\"",
             "\\.\"Peut-être que tu es au courant quelque chose\n à propos de ce Jeu Mortel Démocratique ?\"",
             "\\.\"Tu sais quelque chose, pas vrai ?\"",
@@ -22624,7 +22624,7 @@
             "\\.\"Réfléchissez... Je ne suis pas le véritable Hayasaka.\n Je suis une poupée conçue pour lui ressembler.\"",
             "\\.\"Il est évident que l'organisation ne me laisserait\n pas de souvenirs qui seraient problématiques, non ?\"",
             "\\.\"... Ah oui, vraiment ?\"",
-            "\\.\"J-Je suis content que tu comprennes.\n Bon, sur ce, je vais y aller...\"",
+            "\\.\"J-Je suis content que tu comprennes.\n Bon, sur ce...\"",
             "\\.\\C[4](Il est vraiment louche...)"
         ],
         "874-0-choice": [
@@ -22635,31 +22635,31 @@
             "\"Bouahaha... T'es Sara Chidouin, c'est ça ?\"",
             "\\.\"Y a-t-il quelque chose de drôle, M. Kurumada ?\"",
             "\\.\"Bah ouais. T'es qu'une bonne vieille lycéenne.\"",
-            "\\.\"Et pourtant, tu t'en sors très bien, tu sais ?\n C'est vraiment dingue.\"",
+            "\\.\"Et pourtant, tu t'en sors vraiment bien, t'sais ?\n C'est juste dingue.\"",
             "\\.\"...\"",
             "\"Je l'ai échappé belle à chaque fois.\n C'est qu'une question de chance...\"",
-            "\\.\"Les types forts sont ceux qui ont de la chance.\n Et moi, j'en avais que dalle.\"",
-            "\\.\"Si tu te concentres trop sur la victoire,\n tout peut vite partir en cacahuètes, t'sais ?\n Garde bien ça dans ta p'tite tête.\"",
+            "\\.\"Les types forts sont ceux qui ont de la chance.\n Et moi, du coup, j'en avais que dalle.\"",
+            "\\.\"Si tu te concentres trop sur la victoire,\n tout peut vite partir en vrille, t'sais ?\n Garde bien ça dans ta p'tite tête.\"",
             "\\.\"L-La victoire...!\"",
             "\"C'est grâce à mes alliés. On s'entraide tous.\"",
             "\\.\"Tes alliés, hein ?\"",
             "\\.\"Oui.\"",
             "\\.\"...\"",
-            "\\.\"D'accord, je vois. J'imagine que c'était\n le bon plan, vu que t'es toujours en vie.\"",
-            "\"Oui, mais on a du faire beaucoup de sacrifices...\"",
+            "\\.\"Ouais, j'capte. J'imagine que c'était\n l'bon plan, vu qu't'es toujours en vie.\"",
+            "\"Oui, mais on a dû faire beaucoup de sacrifices...\"",
             "\\.\"J'ai perdu... tant d'alliés...\"",
             "\\.\"...\n ...\n ...\"",
-            "\\.\"Arrête de t'faire des alliés, pauvre conne.\"",
+            "\\.\"Arrête de t'faire des alliés, pauv' conne.\"",
             "\\.\"...!\"",
             "\\.\"Pardon, pardon. Oublie ce que j'ai dit.\"",
-            "\\.\"Au fait, faut vraiment qu'j'te dise.\n 'Paremment y'a \\C[2]monstres\\C[0] qui rôdent à c't'étage.\"",
+            "\\.\"Ah oui, faut vraiment qu'j'te dise.\n 'Paremment y'a \\C[2]monstres\\C[0] qui rôdent à c't'étage.\"",
             "\\.\"Des monstres ?\"",
             "\\.\"Sûrement des poupées, mais ça serait tragique\n si on trouve pas d'armes. Tu t'es d'jà battue ?\"",
             "\\.\"Pas de manière violente, en tout cas.\"",
-            "\\.\"Fais en sorte que ton pote la gonflette les massacre.\n P't'être que si tu lui fais un gros bisou,\n il fera tout en son pouvoir pour te protéger.\"",
+            "\\.\"Fais en sorte que ton pote la gonflette les massacre.\n P't'être que si tu lui fais un gros bisou,\n il fera tout c'qu'il peut pour te protéger.\"",
             "\\.\"Non, si quelqu'un parmi nous se bat jusqu'à la mort,\n alors je me battrais pour ma vie moi aussi.\"",
             "\\.\"...\"",
-            "\\.\"Je vois, je vois. T'es vraiment atypique.\""
+            "\\.\"Je vois, je vois. T'es vraiment spéciale.\""
         ],
         "875-0-choice": [
             "C'est pas passé loin\nC'est grâce à mes alliés\nIl y a eu beaucoup de sacrifices"
@@ -24574,13 +24574,13 @@
         "22-3-message": [
             "\"« Nice to meet you », Sara.\"",
             "\"...!!\"\\.\\.",
-            "\\.\"Ahaha. Désolé d'avoir surgi hors de l'obscurité.\n Est-ce que je t'ai fait sursauter ?\"",
+            "\\.\"Ahaha. Désolé d'avoir surgi hors de l'obscurité.\n Est-ce que je vous ai fait sursauter ?\"",
             "\\.\"T... T'veux dire que t'étais pas un cadavre ?!\"",
-            "\\.\"Comme tu peux le voir, je suis en pleine forme.\n Alors, vous vous êtes bien amusés ?\"",
+            "\\.\"Comme tu peux le voir, je suis en pleine forme.\n Alors, est-ce que cette petite mise en scène\n vous a bien amusés ?\"",
             "\\.\"Comme si des gens pouvaient kiffer ce genre de truc !\n C'est quoi ton putain de problème ?!\"",
             "\\.\"Qui s'rait assez taré pour aimer c'genre de truc ?!\n T'es qui ou t'es quoi au juste ?!\"",
             "\\.\"Hein...? Donc, vous ne vous souvenez pas...\"",
-            "\\.\"C'est tout à fait normal, cependant !\n Je suis votre Maître d'Étage cette fois ! Bonjour !\"",
+            "\\.\"C'est tout à fait normal, cependant !\n Je suis votre nouveau Maître d'Étage ! Bonjour !\"",
             "\\.\"Maître d'Étage, tu dis...?\"",
             "\\.\"Ouaip ! J'ai attendu 5 heures dans ce cercueil !\n C'est tellement cruel de votre part de garder\n le suspense aussi longtemps !",
             "\\\"Allez allez, rapprochez-vous de moi !\"",
@@ -24594,7 +24594,7 @@
             "\"Qouwah ?! Mazette, c'pas p'ssible...!!\"",
             "\\.\"Ooooh... C'est vraiment pas la meilleure\n façon de se réveiller...\"",
             "\\.\"J'y crois pas...\n On doit vraiment soutenir ces gusses...?\"",
-            "\\.\"Bouahaha... Bah, ça me va.\n Alors ? Qui d'entre vous sera mon partenaire ?\"",
+            "\\.\"Bouahaha... Bah, ça m'va.\n Alors ? Qui d'entre vous sera mon partenaire ?\"",
             "\\.\"Partenaire...?\"",
             "\\.\"Ahem ! Il faudrait dire \"maître\", vous savez ?\n C'est vous, les soutiens, après tout.\"",
             "\\.\"A-Attends ! Des soutiens ?\n Ne sont-ils pas plutôt des...?!\"",
@@ -24625,7 +24625,7 @@
             "\\.\"Houlà, je suis partenaire avec un meurtrier ?!\n \\!J-... Je m'appelle \\C[2]Anzu\\C[0]... Sois gentil... Ahaha...\"",
             "\\.\"...Hmpf. Meurtrier...?\n Me le dire en face, ça me blesse... Alors arrête.\"",
             "\\.\"Mon nom est \\C[2]Hayasaka\\C[0].\n H... Houlàlà... Un gosse, alors...\"",
-            "\\.\"C'est moi qui suis inquiet, là, ouaf !!\"",
+            "\\.\"C'est plutôt moi qui suis inquiet, là, ouaf !!\"",
             "\\.\"... Euh, Sara, c'est bien ça ?\n Moi c'est \\C[2]Ranmaru\\C[0]. Je suis au lycée, comme toi.\"",
             "\\.\\C[4](Un lycéen...)",
             "\"... Enchantée.\"",
@@ -24657,9 +24657,9 @@
             "\\.\"... La ferme.\"",
             "\\.\"Ton visage reflète un regard si merveilleux...\n Ahaha...\"",
             "\\.\"Je me fiche de toi. Tu n'es qu'un ennemi.\"",
-            "\\.\"... Tu as bien grandi, à ce que je vois.\"",
+            "\\.\"... Tu as bien mûri, à ce que je vois.\"",
             "\\.\"En tout cas, ça sera embêtant si j'ai pas de nom.\"",
-            "\\.\"Tiens, Sara. Tu vas agir comme mon représentant\n et me donner un nouveau nom !\"",
+            "\\.\"Tiens, Sara. Tu vas agir comme ma représentante\n et me donner un nouveau nom !\"",
             "\"Oh ? Je me demande si tu m'as bien écouté...?\n Je ne me servirai plus de Sou Hiyori.\"",
             "\"Hiyori, ça ne marche pas non plus. Ça ferait croire\n que je suis encore attaché à mon ancien nom,\n tu ne penses pas ?\"",
             "\"J'ai donné Sou à Shin.\n Tu vois bien, il s'appelle déjà Sou, maintenant.\"",
@@ -24889,7 +24889,7 @@
         ],
         "22-6-message": [
             "\"...! Quel est ce bruit...?\"",
-            "\\.\"... Et merde. On dirait qu'ils ont un coup d'avance...\"",
+            "\\.\"... Et merde. On dirait qu'ils sont en avance...\"",
             "\\.\"...?\"",
             "\\.\"Un monstre est venu nous attaquer.\""
         ]
@@ -40468,6 +40468,11 @@
         ],
         "3-1-choice": [
             "Entrer\nAnnuler"
+        ]
+    },
+    "map189": {
+        "1-1-message": [
+            "\"C... C'est un monstre...!!\""
         ]
     }
 }
