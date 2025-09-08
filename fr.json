@@ -1143,7 +1143,20 @@
             "\\.\"Vous voyez, mademoiselle Sara pense la même chose !\n Je me charge de la garder.\"",
             "\\.\"... T'as vraiment envie de la garder pour toi, hein.\"",
             "\\.\"Hmm... Je pense que tu devrais la laisser ici.\"",
-            "\\.\"P-Pourquoi ? Autant la prendre avec soi, non ?\n Si vous ne la voulez pas, pourquoi ne pas me la laisser ?\""
+            "\\.\"P-Pourquoi ? Si vous tenez tant à la laisser,\n vous ne voyez pas d'inconvénient à ce que\n je la garde sur moi, n'est-ce pas ?\"",
+            "\\.\"Oui, bien sûr, mais...\n Je ne suis pas très à l'aise à l'idée de vous\n confier des armes.\"",
+            "\\.\"C-Comment ça ?\n Vous ne me faites toujours pas confiance...?\"",
+            "\\.\"Laisse tomber, Hayasaka.\"",
+            "\\.\"Monsieur le Policier nous garde à l'œil.\"",
+            "\\.\"...!\"",
+            "\\.\"Bouahaha...\"",
+            "\\.\"Si on ne nous fait pas confiance,\n c'en sera fini de nous...\"",
+            "\\.\"Je sais...\n Haha... On est vraiment en bas de l'échelle.\"",
+            "\\.\"Miaou ! T'inquiète, costard-binocles !\n Que t'aies une arme ou pas, tu peux toujours \n compter sur moi, ouaf !\"",
+            "\\.\"O-Oh, vraiment... Comme c'est rassurant...\n Hahaha...\""
+        ],
+        "11-1-choice": [
+            "Tu devrais la prendre\nLaisse-la ici"
         ]
     },
     "map5": {
@@ -22648,7 +22661,7 @@
             "\\.\"M-Mais de quoi parlez-vous...?\"",
             "\\.\"Peut-être que tu es au courant quelque chose\n à propos de ce Jeu Mortel Démocratique ?\"",
             "\\.\"Tu sais quelque chose, pas vrai ?\"",
-            "\\.\"J-Je ne comprends pas ce que tu insinues...\"",
+            "\\.\"J-Je ne comprends pas ce que vous insinuez...\"",
             "\\.\"Ne joue pas les idiots avec moi.\n Je parle du Jeu Mortel Démocratique.\"",
             "\\.\"...\n ...\n ...\"",
             "\\.\"Vous avez regardé ma vidéo de victime, je suppose...?\"",
@@ -22656,7 +22669,7 @@
             "\\.\"Réfléchissez... Je ne suis pas le véritable Hayasaka.\n Je suis une poupée conçue pour lui ressembler.\"",
             "\\.\"Il est évident que l'organisation ne me laisserait\n pas de souvenirs qui seraient problématiques, non ?\"",
             "\\.\"... Ah oui, vraiment ?\"",
-            "\\.\"J-Je suis content que tu comprennes.\n Bon, sur ce...\"",
+            "\\.\"J-Je suis content que vous compreniez.\n Bon, sur ce...\"",
             "\\.\\C[4](Il est vraiment louche...)"
         ],
         "874-0-choice": [
@@ -22688,8 +22701,8 @@
             "\\.\"Des monstres ?\"",
             "\\.\"Sûrement des poupées, mais ça serait tragique\n si on trouve pas d'armes. Tu t'es d'jà battue ?\"",
             "\\.\"Pas de manière violente, en tout cas.\"",
-            "\\.\"Fais en sorte que ton pote la gonflette les massacre.\n P't'être que si tu lui fais un gros bisou,\n il fera tout c'qu'il peut pour te protéger.\"",
-            "\\.\"Non, si quelqu'un parmi nous se bat jusqu'à la mort,\n alors je me battrais pour ma vie moi aussi.\"",
+            "\\.\"Alors, demande à ton pote la serpillère de l'faire.\n P't'être que si tu lui fais un gros bisou,\n il fera tout c'qu'il peut pour t'protéger.\"",
+            "\\.\"Non, si quelqu'un parmi nous se bat jusqu'à la mort,\n alors je me battrais de toutes mes forces moi aussi.\"",
             "\\.\"...\"",
             "\\.\"Je vois, je vois. T'es vraiment spéciale.\""
         ],
@@ -22793,6 +22806,64 @@
         ],
         "872-0-choice": [
             "Les gens forts\nLes gens gentils\nJe n'arrive pas à trouver"
+        ],
+        "1020-0-message": [
+            "\"Faudrait qu'on observe cet adversaire...\""
+        ],
+        "1021-0-message": [
+            "\"J'vais l'choper puis lui faire un plaquage !\""
+        ],
+        "1022-0-message": [
+            "\"Je vais flairer tout autour de nous pour\n trouver des trucs, miaou !\""
+        ],
+        "1023-0-message": [
+            "\"... Je veux bien me battre contre lui,\n mais il me faut une arme, d'accord ?\""
+        ],
+        "1024-0-message": [
+            "\"Bon, pour l'instant, j'peux bien\n m'servir d'mes poings, non ?\""
+        ],
+        "1025-0-message": [
+            "\"Cherchons quelque chose qui peut servir d'arme...\""
+        ],
+        "1026-0-message": [
+            "\"Kanna est prête à faire n'importe quoi...!\n Elle va le brûler avec la torche par-derrière !\""
+        ],
+        "1027-0-message": [
+            "\"Hmm... Qui sait. Si l'opportunité se présente,\n je peux sûrement le brûler avec la torche...\""
+        ],
+        "1028-0-message": [
+            "\"Passe-moi cette pelle !\n Je vais la lancer sur son point faible !\""
+        ],
+        "1029-0-message": [
+            "\"Hmpf... Laissez-moi faire.\n Je vais viser un point faible\n et le frapper avec cette pelle...!\""
+        ],
+        "1030-0-message": [
+            "\"Ahah ! Q-taro, tu es tellement fiable,\n tu ne veux pas essayer une nouvelle fois ?!\""
+        ],
+        "1031-0-message": [
+            "\"Hé, aidez-moi !! J'ai besoin d'un coup de main !!\""
+        ],
+        "1032-0-message": [
+            "\"O... OK, compris ! Je vais me tapir dans l'ombre\n et lui faire un croche-pied ! Bon plan, pas vrai ?\""
+        ],
+        "1035-0-message": [
+            "\"Ah...! Son corps a changé de couleur ?!\"",
+            "\"C'est peut-être notre chance...\"",
+            "\\C[3]Le monstre s'est dirigé vers le cercueil\net a levé ses bras.",
+            "\"Attends ! Qu'est-ce que tu...?!\"",
+            "\"A... Attends !! Laisse-moi sortiiiir !!\""
+        ],
+        "1036-0-message": [
+            "\"... Ça marche pas.\n Le feu n'a aucun effet contre cette armure.\"",
+            "\\.\\C[4](Il faut trouver un truc contre cette armure...)",
+            "\"Ahem... Sara-senpai ?\n On a pas d'arme vraiment utile, là...\n Tu le sais bien, non ?\"",
+            "\\.\"D-Désolée...!\"",
+            "\\.\"Ne t'excuse pas, trouvons plutôt une solution.\n ... Ce n'est pas un jeu, là.\"",
+            "\\C[3]Keiji observa attentivement l'adversaire\nsous toutes ses coutures.",
+            "\"Vous le savez déjà, mais...\n Les parties rouges de son corps sont électrifiées.\"",
+            "\\.\"J'imagine qu'il faut d'abord tenter de détruire\n la partie de l'armure qu'on peut toucher sans \n se prendre de décharge électrique...\"",
+            "\"Désolé, miaou... Je n'ai rien pu trouver, ouaf...\"",
+            "\\.\"On va devoir faire avec ce qu'on a...\""
         ]
     },
     "map107": {
@@ -24921,7 +24992,7 @@
         ],
         "22-6-message": [
             "\"...! Quel est ce bruit...?\"",
-            "\\.\"... Et merde. On dirait qu'ils sont en avance...\"",
+            "\\.\"... Oh, merde. On dirait qu'il a pris de l'avance...\"",
             "\\.\"...?\"",
             "\\.\"Un monstre est venu nous attaquer.\""
         ]
@@ -40507,7 +40578,7 @@
             "\"Un... Un monstre...!!\"",
             "\"Eh oui. Vous finirez en charpie si vous\n n'vous battez pas correctement, compris ?\"",
             "\"Miaouuuu ?! Mais c'est absurde, punk musclé !\n On peut pas se battre contre un truc pareil, ouaf !\"",
-            "\\.\"C'est vrai... Je ne pense pas qu'on arrive\n à faire grand-chose si on se bat à la loyale.",
+            "\\.\"T'as raison... Je pense pas qu'on arrive\n à faire grand-chose si on se bat à la loyale.",
             "\\.\"... Alors, faites tourner vos méninges.\"",
             "\\.\"Nous allons réfléchir à une façon de l'éloigner,\n puis nous \\C[2]choisirons l'idée de quelqu'un\\C[0].\"",
             "\\.\"Si on en discute tous ensemble...\n On pourra p't'être \\C[2]trouver son point faible\\C[0] !\"",
