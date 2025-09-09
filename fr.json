@@ -22856,7 +22856,7 @@
         "1036-0-message": [
             "\"... Ça ne marche pas.\n Le feu n'a aucun effet contre cette armure.\"",
             "\\.\\C[4](Il faut trouver un truc contre cette armure...)",
-            "\"Ahem... Sara-senpai ?\n On a pas d'arme vraiment utile, là...\n Tu le sais bien, non ?\"",
+            "\"Ahem... Sara-senpai?\n On a pas d'arme vraiment utile, là...\n Tu le sais pourtant bien, non ?\"",
             "\\.\"D-Désolée...!\"",
             "\\.\"Ne t'excuse pas, trouvons plutôt une solution.\n ... Ce n'est pas un jeu, là.\"",
             "\\C[3]Keiji observa attentivement l'adversaire\nsous toutes ses coutures.",
@@ -22886,7 +22886,37 @@
             "\"Difficile de trouver une ouverture...\"",
             "\\.\"Hé, que quelqu'un attire son attention.\n Ensuite, je le brûlerai par derrière...\"",
             "\\.\\C[3]Le monstre est imperturbable.",
-            "\"Hein ? Ça n'a fait aucun dégât...\""
+            "\"Hein ? Ça n'a fait aucun dégât...\"",
+            "\\.\"Ah... Peut-être que ce monstre ne ressent pas\n la douleur. Il vaudrait mieux le brûler, je pense.\"",
+            "\"Ahem... Sara-senpai?\n On a pas d'arme vraiment utile, là...\n Tu le sais pourtant bien, non ?\"",
+            "\\.\"D-Désolée...!\"",
+            "\\.\"Ne t'excuse pas, trouvons plutôt une solution.\n ... On est pas dans un jeu, là.\"",
+            "\\.\\C[3]Le monstre est imperturbable.",
+            "\"Quoi...?! Tu bronches même pas après\n t'être pris ma droite en pleine poire ?!\"",
+            "\\.\"Tss, quelle poupée mal foutue...\n C'est pas l'moment d'la maltraiter.\"",
+            "\\C[3]Le monstre se méfie du feu.",
+            "\"Aaah... Kanna ne peut pas s'approcher comme ça...\"",
+            "\\.\"Hé, ça marchera pas si tu forces trop.\n Sers-toi de tes pions correctement, Sara.\"",
+            "\\.\"Ne les appelle pas des « pions » s'il te plaît...!\"",
+            "\\C[3]Le monstre se méfie du feu.",
+            "\"Pas d'ouvertures... Difficile de prendre un risque\n quand il n'y a aucune chance de victoire.\"",
+            "\\.\"Allez, y t'suffit d'foncer dedans, non ?\n T'es si faible, ma parole.\"",
+            "\\.\"... Je n'ai pas l'intention de me disputer avec toi.\"",
+            "\\C[3]Keiji observa attentivement l'adversaire\nsous toutes ses coutures.",
+            "\"Ce truc rouge sur son torse a attiré mon attention...\"",
+            "\\.\"Si c'est un point faible... et qu'on le détruit \n avec une arme, y'a moyen que ça l'arrête.\"",
+            "\\.\\C[3]Le monstre se retourna rapidement.",
+            "\"Pas de chance... Normal qu'il te remarque\n quand t'essaies de lui brûler le visage.\"",
+            "\\.\"Ce serait pas mieux de lui infliger un grand coup\n sec au niveau du truc rouge sur son torse ?\""
+        ],
+        "1037-0-message": [
+            "\\C[3]Keiji observa attentivement l'adversaire\nsous toutes ses coutures.",
+            "\"Ces zones rouges de son corps\n font un bruit de craquement...\"",
+            "\\.\"On dirait qu'elles sont électrifiées ou un truc\n de ce genre. Ce serait dangereux de les toucher.\"",
+            "\\.\"Les os violets sont un genre d'armure.\n Ceux-là, on peut y toucher sans risque...\"",
+            "\\.\"... Faudrait trouver une arme ou détruire\n l'armure. C'est l'seul moyen de le combattre.\"",
+            "\"Aiiiieee !! Nom de nom, c'est quoi c'bordel ?!\n J'me suis bouffé une décharge électrique !!\"",
+            "\\.\"Il est électrifié...?!\""
         ]
     },
     "map107": {
