@@ -22876,7 +22876,17 @@
             "\\C[3]Keiji observa attentivement l'adversaire\nsous toutes ses coutures.",
             "\"... Ahh, j'ai compris.\"",
             "\\.\"Ces bandages ont l'air assez inflammables.\n Si on trouve un moyen d'les enflammer,\n ça lui ferait de gros dégâts.\"",
-            "\\.\\C[3]Le monstre est imperturbable."
+            "\\.\\C[3]Le monstre est imperturbable.",
+            "\"Quoi...! Tu vas faire genre que t'as rien ?!\"",
+            "\\.\"Il ressent pas la douleur ou quoi ?\n On est mal... Faut trouver son point faible.\"",
+            "\\.\\C[3]Le monstre est imperturbable.",
+            "\"Quel est ton problème, vilain monstre ?!\n Je t'ai pourtant frappé en pleine tête ?!\"",
+            "\\.\"Ne ressent-il pas la douleur ?!\n Où pourrait être son point faible ?!\"",
+            "\\C[3]Le monstre se méfie du feu.",
+            "\"Difficile de trouver une ouverture...\"",
+            "\\.\"Hé, que quelqu'un attire son attention.\n Ensuite, je le brûlerai par derrière...\"",
+            "\\.\\C[3]Le monstre est imperturbable.",
+            "\"Hein ? Ça n'a fait aucun dégât...\""
         ]
     },
     "map107": {
