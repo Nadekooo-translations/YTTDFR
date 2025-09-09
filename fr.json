@@ -22808,7 +22808,7 @@
             "Les gens forts\nLes gens gentils\nJe n'arrive pas à trouver"
         ],
         "1020-0-message": [
-            "\"Faudrait qu'on observe cet adversaire...\""
+            "\"Faudrait peut-être observer cet adversaire...\""
         ],
         "1021-0-message": [
             "\"J'vais l'choper puis lui faire un plaquage !\""
@@ -22854,7 +22854,7 @@
             "\"A... Attends !! Laisse-moi sortiiiir !!\""
         ],
         "1036-0-message": [
-            "\"... Ça marche pas.\n Le feu n'a aucun effet contre cette armure.\"",
+            "\"... Ça ne marche pas.\n Le feu n'a aucun effet contre cette armure.\"",
             "\\.\\C[4](Il faut trouver un truc contre cette armure...)",
             "\"Ahem... Sara-senpai ?\n On a pas d'arme vraiment utile, là...\n Tu le sais bien, non ?\"",
             "\\.\"D-Désolée...!\"",
@@ -22870,7 +22870,13 @@
             "\\.\"Hmpf... Quel bon à rien.\n Nous n'avons d'autre choix que d'utiliser\n ce que l'on possède déjà sous la main.\"",
             "\"Fait chier !! Cette armure...\n Mes poings peuvent pas la briser !\"",
             "\\.\"T... Tout va bien ?\n Tu ne t'es pas blessé...?\"",
-            "\\.\"Hah, tu te prends déjà pour ma partenaire ?\n J'suis p't'être faible, mais pas au point où\n une gamine devrait s'inquiéter pour moi.\""
+            "\\.\"Hah, tu te prends déjà pour ma partenaire ?\n J'suis p't'être faible, mais pas au point où\n une gamine devrait s'inquiéter pour moi.\"",
+            "\\.\"Ce n'est pas un peu imprudent ?\n Tu risques de te blesser les poignets...\"",
+            "\\.\"Hé, t'es sérieux là ?\n J'ai un corps mécanique, t'sais ?\"",
+            "\\C[3]Keiji observa attentivement l'adversaire\nsous toutes ses coutures.",
+            "\"... Ahh, j'ai compris.\"",
+            "\\.\"Ces bandages ont l'air assez inflammables.\n Si on trouve un moyen d'les enflammer,\n ça lui ferait de gros dégâts.\"",
+            "\\.\\C[3]Le monstre est imperturbable."
         ]
     },
     "map107": {
@@ -24812,7 +24818,7 @@
             "\"... Choisis un autre nom.\"",
             "\"\\C[2]\\N[4]\\C[0]... C'est un bon nom.\n Tu es sûre de vouloir m'appeler comme ça ?\"",
             "\"Merci. Je suis ravi d'avoir un nom aussi merveilleux !\"",
-            "\\.\"Et donc ? Qu'est-ce que tu vas\n nous faire faire cette fois...?\"",
+            "\\.\"Et donc ? Qu'est-ce qu'on va faire cette fois...?\"",
             "\\.\"Ahaha, tu ne tiens plus en place, hein ?\"",
             "\\.\"Détends-toi ! C'est un simple jeu bonus !\"",
             "\\.\"Vous devez coopérer afin d'\\C[10]assassiner\\C[0]\n une certaine cible, tout simplement.\n On peut dire que c'est une partie de chasse !\"",
