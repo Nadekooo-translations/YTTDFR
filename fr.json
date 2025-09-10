@@ -1048,7 +1048,7 @@
     },
     "map193": {
         "24-1-message": [
-            "\\C[3]Le cercueil où \\N[4] reposait."
+            "\\C[3]\\N[4] était dans ce cercueil."
         ],
         "2-1-message": [
             "\\.\"Haa... Haa... Vous m'avez sauvée... Merci...\"",
@@ -1162,7 +1162,55 @@
             "\"Je suivrai vos ordres...\n Cela vous conviendra, n'est-ce pas...?\""
         ],
         "13-1-message": [
-            "\"Voilà une porte qui ne s’ouvre même pas...\n Pourquoi explorer un endroit aussi bizarre ?\""
+            "\"On a une porte qui ne s’ouvre même pas...\n Pourquoi fouiller un endroit aussi bizarre ?\"",
+            "\\.\"Bah... Keiji, c'est mon boss, donc je vais lui obéir.\""
+        ],
+        "14-1-message": [
+            "\"On dirait qu'y a pas mal de déchets par ici.\"",
+            "\\.\"Tout est lourd et difficile à discerner dans le noir...\n Vaudrait mieux modérer les recherches par ici.\""
+        ],
+        "18-1-message": [
+            "\\C[3]Anzu était dans ce cercueil.\nIl est complètement détruit.",
+            "\\.\\C[4](Je suis désolée...)"
+        ],
+        "18-2-message": [
+            "\\C[3]Anzu était dans ce cercueil."
+        ],
+        "19-1-message": [
+            "\\C[3]Hayasaka était dans ce cercueil."
+        ],
+        "20-1-message": [
+            "\\C[3]Mai était dans ce cercueil."
+        ],
+        "20-3-message": [
+            "\\C[3]Mai était dans ce cercueil."
+        ],
+        "21-1-message": [
+            "\\C[3]Kurumada était dans ce cercueil."
+        ],
+        "22-1-message": [
+            "\\C[3]Ranmaru était dans ce cercueil."
+        ],
+        "22-4-message": [
+            "\\C[3]Ranmaru était dans ce cercueil."
+        ],
+        "23-1-message": [
+            "\\C[3]Hinako était dans ce cercueil."
+        ],
+        "52-1-message": [
+            "\"Hé, costard-binocles ! Reste près de moi, miaou.\"",
+            "\\.\"Oui, je sais. Mon rôle est de vous protéger...\n N'est-ce pas...?\"",
+            "\\.\"Mais qu'est-ce que tu racontes, miaou ?!\n T'as l'air faible, alors c'est moi qui te protège,\n ouaf !!\"",
+            "\\.\"Argh... je vous remercie...\""
+        ],
+        "60-1-message": [
+            "\"J'pensais qu'y s'était p't'être faufilé sous nos yeux\n pour revenir dans son cercueil, mais apparemment,\n c'est pas l'cas...\""
+        ],
+        "60-2-message": [
+            "\"Yo, Sara. T'as trouvé des trucs ?\"",
+            "\\.\\C[4](Maintenant que j'y pense, Kurumada demandait Q-taro...)",
+            "\\.\"Q-taro !\n On a besoin de ta force...!\"",
+            "\\.\"J'sais pas d'quoi tu parles, mais j'm'en charge !\n C'parti, Mai ! On y va !\""
         ]
     },
     "map5": {
