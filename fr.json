@@ -22922,7 +22922,79 @@
             "\\.\"Ouaip, c'est ça !\n P'tain... J'aurais bien aimé l'remarquer \n avant d'foncer dans l'tas !\"",
             "\"Ouuuille !! C'est quoi ce délire ?!\n Ce bidule est électrifié !!\"",
             "\\.\"... À quel endroit l'as tu frappé ?\"",
-            "\\.\"Dans l'épaule, pardi ?!\n Cette armure a l'air trop solide pour la\n casser avec simple coup d'poing !\""
+            "\\.\"Dans l'épaule, pardi ?!\n Cette armure a l'air trop solide pour la\n casser avec simple coup d'poing !\"",
+            "\\.\"Alors... Il semblerait que les parties rouges de son\n corps sont chargées en électricité.\"",
+            "\\.\"T'veux dire qu'ça sert à rien d'attaquer\n quoi qu'ce soit à part l'armure ?\"",
+            "\\.\"J'aurais dû l'remarquer avant d'le frapper, putain !\"",
+            "\\.\\C[4](Tu n'avais qu'à pas être si imprudent...)"
+        ],
+        "1038-0-message": [
+            "\"On a de la chance...\n J'ai trouvé une grande pelle dans l'obscurité.\"",
+            "\\.\\C[3]Longue pelle obtenue.",
+            "\\.\"... On dirait bien qu'ils l'ont posée ici exprès...\"",
+            "\\.\"C'est un peu bizarre, mais utilisons-la.\n Je ne pense pas que ce soit un piège.\"",
+            "\\.\"Bah quoi ? Profitons-en pour s'en servir...\""
+        ],
+        "1039-0-message": [
+            "\"Y'a un bâton enflammé accroché au mur, miaou !\"",
+            "\\.\\C[4](Une torche murale...?!)",
+            "\\.\\C[3]Bâton enflammé obtenu.",
+            "\\.\"Hmm... Pas sûr que ça puisse servir d'arme.\n Mais on peut sûrement brûler le monstre avec,\n si on s'approche et qu'on trouve une ouverture ?\"",
+            "\\.\"T'es plutôt violente, ouaf...\""
+        ],
+        "1045-0-message": [
+            "\"Fiou... après ça, il devrait plus se relever.\"",
+            "\"Alors... nous l'avons fait.\"",
+            "\"... Voilà, c'est fini.\"",
+            "\\C[10]Monstre détruit."
+        ],
+        "1040-0-message": [
+            "\"Et v'là l'travail !\n J'ai explosé l'casque qui protégait sa tête !\"",
+            "\\.\"Yiiiiih ! Trop cooooool !\"",
+            "\\.\"Ouais, ouais, j'ai capté !\n Faut surtout pas lâcher l'adversaire du r'gard !\"",
+            "\"... Voilà. Ça fera l'affaire, non ?\"",
+            "\\.\"Détruire un casque avec une pelle...\n T'es pas croyable, toi.\"",
+            "\\.\"... Mon bras picote un peu, quand même.\"",
+            "\"Hahah...!\n J'lui ai fait sauter son casque tout moche.\"",
+            "\\.\"En plein dans les dents !\n T'es bougrement terrifiant, comme voyou...!\"",
+            "\\.\"J'suis un boxeur, putain d'merde !\""
+        ],
+        "1041-0-message": [
+            "\"Vwalààà !\n J'ai détruit c't'armure qui protégait son corps !\"",
+            "\\.\"Eh, pas mal du tout, le vieux catcheur !\"",
+            "\\.\"Hé, pour ta gouverne, j'suis un jeune baseballeur !!\n Bah, laisse béton, trouvons vite la prochaine strat'!\"",
+            "\"... Voilà. Ça fera l'affaire, non ?\"",
+            "\\.\"Détruire l'armure avec une pelle...\n T'es vraiment pas croyable.\"",
+            "\\.\"... Mon bras picote un peu, quand même.\""
+        ],
+        "1042-0-message": [
+            "\"Q-taro, s'il te plaît ! On a besoin de ta force !\"",
+            "\\.\"D'ac, j'ai capté ! Laissez-moi faire !\"",
+            "\\.\"Yiiiiih ! Trop cooooool !!\"",
+            "\\.\"Tu m'déprimes, là !\"\n T'veux bien prendre ça plus au sérieux ?!"
+        ],
+        "1043-0-message": [
+            "\\C[3]Le monstre a perdu l'équilibre et est tombé.",
+            "\"Waouh ! Ça a vraiment marché ?!\"",
+            "\\.\"Hah ! T’as fait ça toi-même et là t'es surpris !?\"",
+            "\\.\"Tss... La ferme...\n L'important, c'est que j'ai été utile, non ?\"",
+            "\\C[3]Sara s'est jetée sur le monstre.",
+            "\"N-Non... Ça va pas ! J'ai pas assez de force...\n Il me repousse tout de suite !\"",
+            "\\.\"Par pitié ! Tenez boooon...!!\"",
+            "\\C[3]Q-taro a violemment projeté le monstre.",
+            "\"Vite ! Faut l'détruire avant qu’il s'rélève !\"",
+            "\\.\"Par pitié ! Tenez boooon...!!\""
+        ],
+        "1044-0-message": [
+            "\"Haa...! Haa...!\n Kanna a réussi !\"",
+            "\\.\"Maintenant, on peut voir ce qu'il y a\n sous les bandages, miaou !\"",
+            "\\.\"Ce truc rouge sur son torse... Ça m'intrigue...\"",
+            "\"Hmpf... Ça brûle bien, hein ?\"",
+            "\\.\"Maintenant, on peut voir ce qu'il y a\n sous les bandages, miaou !\"",
+            "\\.\"Ce truc rouge sur son torse... Ça m'intrigue...\"",
+            "\"Ah, on a réussi...\"",
+            "\\.\"Maintenant, on peut voir ce qu'il y a\n sous les bandages, miaou !\"",
+            "\\.\"Ce truc rouge sur son torse... Ça m'intrigue...\""
         ]
     },
     "map107": {
