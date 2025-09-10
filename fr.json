@@ -1122,7 +1122,7 @@
         "1-1-message": [
             "\\C[3]Le chemin se poursuit au-delà du monument en pierre.",
             "\\C[4](Qu'est-ce que c'est...? Je vois une sorte de porte.)",
-            "\"Est-ce qu'on se trouve à l'intérieur,\n ou à l'extérieur...?\""
+            "\"J'arrive pas à déterminer si on est à l'intérieur,\n ou à l'extérieur...\""
         ],
         "1-1-choice": [
             "Procéder\nAnnuler"
@@ -1160,6 +1160,9 @@
         ],
         "11-2-message": [
             "\"Je suivrai vos ordres...\n Cela vous conviendra, n'est-ce pas...?\""
+        ],
+        "13-1-message": [
+            "\"Voilà une porte qui ne s’ouvre même pas...\n Pourquoi explorer un endroit aussi bizarre ?\""
         ]
     },
     "map5": {
@@ -22954,7 +22957,7 @@
         "1040-0-message": [
             "\"Et v'là l'travail !\n J'ai explosé l'casque qui protégait sa tête !\"",
             "\\.\"Yiiiiih ! Trop cooooool !\"",
-            "\\.\"Ouais, ouais, j'ai capté !\n Faut surtout pas lâcher l'adversaire du r'gard !\"",
+            "\\.\"Ouais, ouais, c'est bon, j'ai compris !\n Lâchez surtout pas l'adversaire du r'gard !\"",
             "\"... Voilà. Ça fera l'affaire, non ?\"",
             "\\.\"Détruire un casque avec une pelle...\n T'es pas croyable, toi.\"",
             "\\.\"... Mon bras picote un peu, quand même.\"",
