@@ -543,7 +543,7 @@
         "name_ハンナキー": "Lara",
         "name_受付人形": "Poupée Réceptionniste",
         "name_フードの女子": "Fille Encapuchonnée",
-        "name_大きな帽子の女性": "Femme au Gros Chapeau",
+        "name_大きな帽子の女性": "Femme au Grand Chapeau",
         "name_怪物？": "Monstre ?",
         "name_女性": "Femme",
         "name_モニターの女": "Femme à l'Écran",
@@ -1087,7 +1087,7 @@
             "\\.\"*snif*...\"",
             "\\.\"La vache...\"",
             "\\.\"Travaillons ensemble, Sara.\"",
-            "\\.\"... Puis-je vraiment te faire confiance ?\"",
+            "\\.\"... Puis-je vraiment vous faire confiance ?\"",
             "\\.\"Nous non plus, on ne veut pas finir comme ça...\"",
             "\\.\"J'veux dire... nous aussi, on veut survivre...\"",
             "\\.\"Voir Anzu subir un truc pareil juste devant mes yeux...\n Franchement, j'en suis encore désemparé...\"",
@@ -1157,6 +1157,9 @@
         ],
         "11-1-choice": [
             "Tu devrais la prendre\nLaisse-la ici"
+        ],
+        "11-2-message": [
+            "\"Je suivrai vos ordres...\n Cela vous conviendra, n'est-ce pas...?\""
         ]
     },
     "map5": {
@@ -22712,7 +22715,7 @@
         "876-0-message": [
             "\\.\"T-Tu peux me poser n'importe quelle question !\n ... Tant que je suis capable d'y répondre, bien sûr.\"",
             "\"Donc tu es Sara, c'est ça ?\"",
-            "\\.\"O-... Ouais.\"",
+            "\\.\"Euh... Ouais.\"",
             "\\.\"Oh ! Soyons amies !\n On a presque le même âge, pas vrai ?\"",
             "\\.\"... Erk ! T'es en train de juger ma tenue, là ?!\n Tu te dis que... j'suis bizarre !\"",
             "\\.\"Non, je veux dire...\"",
@@ -22802,7 +22805,7 @@
             "\\.\"Soyons honnêtes... C'est impardonnable.\n Nous faire subir une telle chose...\"",
             "\\.\"Donc... Je veux moi aussi faire de mon mieux...\n Et pour ça j'ai également besoin de ton aide, Sara.\n Je t'en prie.\"",
             "\\.\"D... D'accord...\"",
-            "\\.\"Merciiiii, Sara !\n On est pas une paire, mais faisons de notre mieux !\""
+            "\\.\"Merciiiii, Sara !\n On est pas associées, mais faisons de notre mieux !\""
         ],
         "872-0-choice": [
             "Les gens forts\nLes gens gentils\nJe n'arrive pas à trouver"
@@ -22811,7 +22814,7 @@
             "\"Faudrait peut-être observer cet adversaire...\""
         ],
         "1021-0-message": [
-            "\"J'vais l'choper puis lui faire un plaquage !\""
+            "\"J'vais l'choper puis l'balancer par terre !\""
         ],
         "1022-0-message": [
             "\"Je vais flairer tout autour de nous pour\n trouver des trucs, miaou !\""
@@ -22929,7 +22932,7 @@
             "\\.\\C[4](Tu n'avais qu'à pas être si imprudent...)"
         ],
         "1038-0-message": [
-            "\"On a de la chance...\n J'ai trouvé une grande pelle dans l'obscurité.\"",
+            "\"Nous avons de la chance...\n J'ai trouvé une grande pelle dans l'obscurité.\"",
             "\\.\\C[3]Longue pelle obtenue.",
             "\\.\"... On dirait bien qu'ils l'ont posée ici exprès...\"",
             "\\.\"C'est un peu bizarre, mais utilisons-la.\n Je ne pense pas que ce soit un piège.\"",
@@ -22944,9 +22947,9 @@
         ],
         "1045-0-message": [
             "\"Fiou... après ça, il devrait plus se relever.\"",
-            "\"Alors... nous l'avons fait.\"",
+            "\"Ouf... J'y suis parvenu.\"",
             "\"... Voilà, c'est fini.\"",
-            "\\C[10]Monstre détruit."
+            "\\C[10]Le monstre a été détruit."
         ],
         "1040-0-message": [
             "\"Et v'là l'travail !\n J'ai explosé l'casque qui protégait sa tête !\"",
@@ -22960,8 +22963,8 @@
             "\\.\"J'suis un boxeur, putain d'merde !\""
         ],
         "1041-0-message": [
-            "\"Vwalààà !\n J'ai détruit c't'armure qui protégait son corps !\"",
-            "\\.\"Eh, pas mal du tout, le vieux catcheur !\"",
+            "\"Voilààà !\n J'ai détruit c't'armure qui protégait son corps !\"",
+            "\\.\"Pas mal du tout, l'vieux catcheur !\"",
             "\\.\"Hé, pour ta gouverne, j'suis un jeune baseballeur !!\n Bah, laisse béton, trouvons vite la prochaine strat'!\"",
             "\"... Voilà. Ça fera l'affaire, non ?\"",
             "\\.\"Détruire l'armure avec une pelle...\n T'es vraiment pas croyable.\"",
@@ -22979,21 +22982,21 @@
             "\\.\"Hah ! T’as fait ça toi-même et là t'es surpris !?\"",
             "\\.\"Tss... La ferme...\n L'important, c'est que j'ai été utile, non ?\"",
             "\\C[3]Sara s'est jetée sur le monstre.",
-            "\"N-Non... Ça va pas ! J'ai pas assez de force...\n Il me repousse tout de suite !\"",
-            "\\.\"Par pitié ! Tenez boooon...!!\"",
+            "\"N-Non... Ça va pas ! J'ai pas assez de force...\n Il va me repousser tout de suite !\"",
+            "\\.\"Par pitié ! Tiens boooon...!!\"",
             "\\C[3]Q-taro a violemment projeté le monstre.",
             "\"Vite ! Faut l'détruire avant qu’il s'rélève !\"",
-            "\\.\"Par pitié ! Tenez boooon...!!\""
+            "\\.\"Par pitié ! Tiens boooon...!!\""
         ],
         "1044-0-message": [
             "\"Haa...! Haa...!\n Kanna a réussi !\"",
-            "\\.\"Maintenant, on peut voir ce qu'il y a\n sous les bandages, miaou !\"",
+            "\\.\"Maintenant, on peut voir ce qu'il y a\n sous ses bandages, miaou !\"",
             "\\.\"Ce truc rouge sur son torse... Ça m'intrigue...\"",
             "\"Hmpf... Ça brûle bien, hein ?\"",
-            "\\.\"Maintenant, on peut voir ce qu'il y a\n sous les bandages, miaou !\"",
+            "\\.\"Maintenant, on peut voir ce qu'il y a\n sous ses bandages, miaou !\"",
             "\\.\"Ce truc rouge sur son torse... Ça m'intrigue...\"",
             "\"Ah, on a réussi...\"",
-            "\\.\"Maintenant, on peut voir ce qu'il y a\n sous les bandages, miaou !\"",
+            "\\.\"Maintenant, on peut voir ce qu'il y a\n sous ses bandages, miaou !\"",
             "\\.\"Ce truc rouge sur son torse... Ça m'intrigue...\""
         ]
     },
@@ -24858,7 +24861,7 @@
             "\\.\"D'accord. J'comprends rien à la situation...\n Mais enchantée.\"",
             "\\.\"Houlà, je suis partenaire avec un meurtrier ?!\n \\!J-... Je m'appelle \\C[2]Anzu\\C[0]... Sois gentil... Ahaha...\"",
             "\\.\"...Hmpf. Meurtrier...?\n Me le dire en face, ça me blesse... Alors arrête.\"",
-            "\\.\"Mon nom est \\C[2]Hayasaka\\C[0].\n H... Houlàlà... Un gosse, alors...\"",
+            "\\.\"Mon nom est \\C[2]Hayasaka\\C[0].\n H... Houlàlà... Un enfant, alors...\"",
             "\\.\"C'est plutôt moi qui suis inquiet, là, ouaf !!\"",
             "\\.\"... Euh, Sara, c'est bien ça ?\n Moi c'est \\C[2]Ranmaru\\C[0]. Je suis au lycée, comme toi.\"",
             "\\.\\C[4](Un lycéen...)",
@@ -24962,7 +24965,7 @@
             "\\.\"Attends, quoi...?\"",
             "\\.\"Ahaha, non, non, je ne le dirais pas deux fois !\"",
             "\\.\"Maintenant, que le \\C[2]Mini-Jeu du Meurtrier\\C[0] commence !\n ... J'ai hâte de voir votre soif de sang.\"",
-            "\\.\"A... Attends ! L'explication est finie ?!\"",
+            "\\.\"A... Attends ! L'explication est déjà finie ?!\"",
             "\\.\"On va devoir... tuer cet homme...?\"",
             "\\.\"Tuer Sou Hiyori...\n Non, tuer \\N[4]...\"",
             "\\.\"Bouahah... Tout va bien ? Là, c'était sûrement\n notre meilleure occase, vous trouvez pas ?\"",
@@ -24970,7 +24973,7 @@
             "\\.\"... Je parie que ce type s'est enfui vers\n les confins les plus éloignés de cet étage.\"",
             "\\.\"On ne peut rien y faire. D'abord, je propose\n que l'on partage tous nos informations...\"",
             "\\.\"Hmm ? Il y a encore des infos...?\"",
-            "\\.\"Ah oui, c'est vrai ! Il trouve ça trop chiant,\n alors il a dit que ce serait à nous donner\n le reste des explications !\"",
+            "\\.\"Ah oui, c'est vrai ! Il trouve ça trop chiant,\n alors il a dit que ce serait à nous de donner\n le reste des explications !\"",
             "\\.\"On devrait leur demander les détails, Sara.\"",
             "\\.\"OK...\""
         ],
@@ -36917,6 +36920,11 @@
             null,
             null,
             "\\.\"...\""
+        ],
+        "2-2-message": [
+            null,
+            null,
+            "\\C[3]Le monstre tente de se relever, sans se défendre."
         ]
     },
     "map229": {
@@ -37004,6 +37012,11 @@
             null,
             null,
             "\\.\"...\""
+        ],
+        "3-2-message": [
+            null,
+            null,
+            "\\C[3]Le monstre tente de se relever, sans se défendre."
         ]
     },
     "map238": {
@@ -37506,6 +37519,11 @@
         ],
         "5-2-choice": [
             "Examiner\nAnnuler"
+        ],
+        "2-3-message": [
+            null,
+            null,
+            "\\C[3]Le monstre tente de se relever, sans se défendre."
         ]
     },
     "map52": {
@@ -40742,9 +40760,9 @@
             "\\.\\C[4](Ce truc rouge sur son torse...\n C'est quoi, exactement ? Un point faible...?)"
         ],
         "3-2-message": [
-            "\\C[3]Le monstre tente de se relever sans défense.",
+            "\\C[3]Le monstre tente de se relever, sans se défendre.",
             "\\C[3]Le monstre est immobilisé et incapable de bouger.",
-            "\\C[3]Le monstre tente de se relever sans défense.",
+            "\\C[3]Le monstre tente de se relever, sans se défendre.",
             "\\C[3]Le monstre s'est relevé !",
             "\\C[3]Le monstre s'est libéré de sa prise !",
             "\\C[3]Le monstre s'est relevé !"
@@ -40761,6 +40779,18 @@
             "\\C[3]Le monstre nous observe un par un,\ncomme s'il nous évaluait.",
             "\\C[3]Le monstre fixe \\C[2]Hayasaka\\C[3] du regard.",
             "\\.\\C[10]\"JE T'AI TROUVÉ... J'AI TROUVÉ... TU ES LA CIBLE...\""
+        ]
+    },
+    "map210": {
+        "4-2-message": [
+            null,
+            null,
+            "\\C[3]Le monstre tente de se relever, sans se défendre."
+        ]
+    },
+    "map211": {
+        "2-2-message": [
+            "\\C[3]Le monstre tente de se relever, sans se défendre."
         ]
     }
 }
