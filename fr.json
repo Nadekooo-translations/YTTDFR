@@ -36810,6 +36810,23 @@
             null,
             null,
             "\"...\""
+        ],
+        "1-1-message": [
+            "\\C[3]Il y a un morceau de papier accroché à la porte.",
+            "\\.\\C[4](Il y a des dessins dessus...)",
+            "\\.\"Est-ce que c'est la carte de l'étage...?\"",
+            "\\.\"Comme c'est généreux.\n On a jamais eu ce genre de truc auparavant...\"",
+            "\\.\"Ce type, \\N[4]...\n On dirait qu'il est sacrément sûr qu'on va perdre.\"",
+            "\\.\"Hmpf... Il doit être plutôt confiant dans l'idée\n que nous ne parviendrons pas à le tuer...\"",
+            "\\.\"Je me demande où nous sommes, actuellement...?\"",
+            "\\.\"Hmm...\"",
+            "\\.\"... Non, ce n'est pas ça.\"",
+            "\\.\"Il veut s'amuser... \\N[4]...\"",
+            "\\.\"...\n ...\n ...\"",
+            "\\.\"Au fait... On se situe où, là ?\"",
+            "\\.\"Si je me fie à la carte...\"",
+            "\\.\"Il semblerait que nous soyons ici.\"",
+            "\\.\"P'tain... Y'a des pièces qu'ont l'air\n vraiment dangereuses.\""
         ]
     },
     "map200": {
