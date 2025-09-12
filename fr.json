@@ -1210,7 +1210,24 @@
             "\"Yo, Sara. T'as trouvé des trucs ?\"",
             "\\.\\C[4](Maintenant que j'y pense, Kurumada demandait Q-taro...)",
             "\\.\"Q-taro !\n On a besoin de ta force...!\"",
-            "\\.\"J'sais pas d'quoi tu parles, mais j'm'en charge !\n C'parti, Mai ! On y va !\""
+            "\\.\"J'sais pas d'quoi tu parles, mais compte sur moi !\n Allez, c'parti, Mai !\"",
+            "\\.\"On a besoin de quelqu'un avec longs bras...!\"",
+            "\\.\"... Qu'est-ce 'tu veux dire ?\n C'est vrai, ch'uis grand, j'ai les bras longs, mais...\"",
+            "\\.\"Bah, peu importe, j'vais t'filer un coup'd'main !\"",
+            "\\.\"Allez, c'parti, Mai !\"",
+            "\\.\"Ne pose pas de questions, viens avec moi !\"",
+            "\\.\"Euh, tu pourrais au moins lui donner\n une explication rapide, non ?!\"",
+            "\\.\"Quoi...? T'es venue m'faire ton sketch ?\"",
+            "\\.\"Non, en fait...\"",
+            "\\.\"Ah, si c'est qu'ça !\n Allez, c'parti, Mai !\"",
+            "\\.\"Allez, c'partiiii !\""
+        ],
+        "60-2-choice": [
+            "On a besoin de toi, Q-taro\nOn a besoin de quelqu'un aux bras longs\nPose pas de questions, viens avec moi !\nOn se reparle plus tard"
+        ],
+        "68-2-message": [
+            "\"On va finir par le trouver, Sara!\n Je te promets de faire de mon mieux !\"",
+            "\"... Et pour Ranmaru, aussi !\""
         ]
     },
     "map5": {
@@ -36583,11 +36600,11 @@
             "\\.\"...\""
         ],
         "2-3-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\.\"Waouh ! Sara, matte ça !\n Les ascenceurs fonctionnent...\"",
+            "\\.\"Gin...?! Il s'est passé quoi ?!\"",
+            "\\.\"Gin...?! Hé, qu'est-ce qu'y a ?!\"",
+            "\\.\"Attends, Hayasaka, ne me dis pas que...!!\"",
+            "\\.\"Hayasaka... Tu n'as quand même pas...\"",
             null,
             null,
             null,
@@ -36673,6 +36690,12 @@
             null,
             null,
             "\\.\\C[4](...\n ...\n ...)"
+        ],
+        "2-1-message": [
+            "\\.\"...Hmm ? Des ascenceurs ?\"",
+            "\\.\"Jusqu'où est-ce qu'ils mènent, miaou...?\"",
+            "\\.\"Ah ? On dirait qu'ils ne fonctionnent pas...\"",
+            "\\.\"Bon... Ils ne fonctionnent pas.\""
         ]
     },
     "map195": {
