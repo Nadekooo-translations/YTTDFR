@@ -36826,7 +36826,12 @@
             "\\.\"Au fait... On se situe où, là ?\"",
             "\\.\"Si je me fie à la carte...\"",
             "\\.\"Il semblerait que nous soyons ici.\"",
-            "\\.\"P'tain... Y'a des pièces qu'ont l'air\n vraiment dangereuses.\""
+            "\\.\"En tout cas... Y'a des pièces qu'ont l'air\n vraiment dangereuses.\"",
+            "\\.\"Mais grâce à ça, on ne se perdra pas!\n Vois le bon côté des choses, Q-taro !",
+            "\\.\"Hm... Ouais, c'est vrai !\"",
+            "\\.\"Ça ne sert à rien d’avoir peur.\n Exploitons cette information au mieux.\"",
+            "\\.\"O... Ouais !\"",
+            "\\.\\C[3]Carte de l'Étage obtenue."
         ]
     },
     "map200": {
