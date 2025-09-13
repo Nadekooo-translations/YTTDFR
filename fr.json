@@ -36832,6 +36832,22 @@
             "\\.\"Ça ne sert à rien d’avoir peur.\n Exploitons cette information au mieux.\"",
             "\\.\"O... Ouais !\"",
             "\\.\\C[3]Carte de l'Étage obtenue."
+        ],
+        "3-1-message": [
+            "\\C[4](La porte est ouverte...!)",
+            "\\C[3]La grande porte est fermée.",
+            "\\.\\C[4](Elle est peut-être verrouillée...?)"
+        ],
+        "3-1-choice": [
+            "Entrer\nAnnuler"
+        ],
+        "4-1-message": [
+            "\\C[3]On peut lire :\n\"Lorsque les morts seront rassemblés,\n le banquet pourra commencer.\"",
+            "\\C[4](Le banquet...?)"
+        ],
+        "27-1-message": [
+            "\\C[3]Les poteaux jaunes sont électrifiés.",
+            "\\.\\C[4](Impossible de l'escalader...)"
         ]
     },
     "map200": {
@@ -36964,14 +36980,32 @@
     },
     "map206": {
         "2-2-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\"...\""
+            "\\C[3]Il y a un symbole qui ressemble à une personne.",
+            "\\.\"Est-ce que ce sont vraiment des toilettes...?\"",
+            "\\.\"A première vue, ça y ressemble...\"",
+            "\\.\"Mais la porte ne s'ouvre pas.\n Si ce sont bien des toilettes, \n ça veut dire qu'elles ont été bloquées...\"",
+            "\\.\"Tu marques un point...\"",
+            "\\C[4](Hm ? Attends, ce symbole...)",
+            "\\.\\C[4](On dirait presque qu'ils se tiennent la main...)",
+            "\\.\"...\"",
+            "\\.\\C[4](Non, laisse tomber...)",
+            "\\.\\C[4](C'est sûrement un indice pour ouvrir la porte ?)",
+            "\\.\\C[3]J'ai pris la main de Ranmaru.",
+            "\"?!\"",
+            "\\C[4](C'est ouvert !)",
+            "\\.\"Waouh ! Quoi ?! Pourquoi ?!\""
+        ],
+        "1-1-message": [
+            "\\.\"J'me demande où on est...?\"",
+            "\\.\"... J'crois que ce sont des toilettes ?\"",
+            "\\.\"C'est un peu louche, miaou. J'veux pas entrer, ouaf.\"",
+            "\\.\"Ehh ? Se retenir, c'est mauvais pour la santé !\"",
+            "\\.\"Ah ! Mais nous, on a plus besoin d'y aller,\n quelle chance !\"",
+            "\\.\"A-Arrête d'dire des trucs comme ça...\n J'sais pas quoi t'répondre, c'est gênant...\""
+        ],
+        "2-1-message": [
+            "\\C[3]Il y a un symbole qui ressemble à une personne.",
+            "\\C[4](Ce sont des toilettes...?)"
         ]
     },
     "map207": {
