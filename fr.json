@@ -23066,6 +23066,9 @@
             "\"Ah, on a réussi...\"",
             "\\.\"Maintenant, on peut voir ce qu'il y a\n sous ses bandages, miaou !\"",
             "\\.\"Ce truc rouge sur son torse... Ça m'intrigue...\""
+        ],
+        "1404-0-message": [
+            "\\C[3]Feuilles où figurent les noms de 16 participants,\nsur les 20 du Jeu Mortel Démocratique."
         ]
     },
     "map107": {
@@ -32554,7 +32557,7 @@
     },
     "map196": {
         "1-3-message": [
-            null,
+            "\\.\"Haa... Haa...\"",
             null,
             null,
             null,
@@ -32632,6 +32635,57 @@
             null,
             null,
             "\\.\"...\""
+        ],
+        "1-1-message": [
+            "\"... Argh ?! Cet endroit...?!\"",
+            "\\.\"Q-Quel est le problème ?!\"",
+            "\\.\"Qu'est-ce qu'il y a...?\"",
+            "\\.\"On dirait... la salle de sport où j'avais\n l'habitude d'aller.\"",
+            "\\.\"Est-ce une simple coïncidence, miaou...?\"",
+            "\\.\"... J'sais pas.\"",
+            "\\.\"Mais si un autre monstre s'ramène, je l'attends...!\n Aucune chance que j'perde en un-contre-un ici !\"",
+            "\\.\"Alors ça titille ton esprit de boxeur...?\"",
+            "\\.\"Pfff... Les boxeurs sont vraiment trop sanguins...\"",
+            "\\.\"J'étais craint sous le surnom de\n Décapotable de la Destruction...\"",
+            "\\.\"Ce quoi ce surnom... Tu étais harcelé, hein ?\"",
+            "\\.\"... Hein ? Comment ça ?\"",
+            "\\.\"Euh, non, rien ! Allez, explorons !\"",
+            "\\.\"Quel surnom pourrave...\"",
+            "\\.\"Ramène-toi sur le ring, Ranmaru.\"",
+            "\\.\"A-Allez, explorons...\""
+        ],
+        "3-1-message": [
+            "\\C[3]Un trou ayant la taille d'une fenêtre.",
+            "\\.\\C[4](C'est sombre à l'intérieur... Je n'y vois rien.)"
+        ],
+        "4-1-message": [
+            "\\C[3]Un trou ayant la taille d'une fenêtre.",
+            "\\.\\C[4](C'est sombre à l'intérieur... Je n'y vois rien.)"
+        ],
+        "5-1-message": [
+            "\\C[3]Il y a un passage de l'autre côté.",
+            "\\.\\C[4](Que devrais-je faire...?)",
+            "\\C[4](Quoi ?! Le passage...!!)",
+            "\\.\"H-Hé ! L'entrée aussi a disparu !!\"",
+            "\\.\"On s'est faits enfermer ?!\"",
+            "\\.\"Vous voulez dire que nous sommes enfermééés ?!\"",
+            "\\.\"Quelque chose se trame... Attention, tout le monde.\"",
+            "\\.\"Pas d'problème... J'vais lui exploser la tronche !\"",
+            "\\.\"Ouah !! Les lumières !!\"",
+            "\\.\"J-J'entends quelque chose qui vient des murs !!\"",
+            "\\.\"J'entends quelque chose... Ça vient des murs...!\"",
+            "\\.\"Tout le monde ! Montez vite sur le tapis !!\""
+        ],
+        "5-1-choice": [
+            "Emprunter le passage\nAnnuler"
+        ],
+        "24-1-message": [
+            null,
+            "\\C[3]Des cordes colorées entourent le ring.",
+            "\\.\"Ma salle de sport était pas aussi flashy...\""
+        ],
+        "24-2-message": [
+            "\\C[3]Des cordes colorées entourent le ring."
         ]
     },
     "map197": {
@@ -36993,7 +37047,13 @@
             "\\.\\C[3]J'ai pris la main de Ranmaru.",
             "\"?!\"",
             "\\C[4](C'est ouvert !)",
-            "\\.\"Waouh ! Quoi ?! Pourquoi ?!\""
+            "\\.\"Waouh ! Quoi ?! Pourquoi ?!\"",
+            "\\.\"Comme je le pensais... Le symbole était un indice.\"",
+            "\\.\"Cette pièce est peut-être faite pour que seules\n deux personnes puissent y entrer... \"",
+            "\\.\"S-Sérieux ? Quelle intuition, Sara...\"",
+            "\\.\"Tu es trop tendu, Ranmaru. Tu vas gâcher\n ta batterie à force de trembler comme ça.\"",
+            "\\.\"E-Et à qui la faute...\"",
+            "\\.\"...?\""
         ],
         "1-1-message": [
             "\\.\"J'me demande où on est...?\"",
@@ -37006,6 +37066,31 @@
         "2-1-message": [
             "\\C[3]Il y a un symbole qui ressemble à une personne.",
             "\\C[4](Ce sont des toilettes...?)"
+        ],
+        "2-2-choice": [
+            "Se tenir la main\nAnnuler"
+        ],
+        "2-3-message": [
+            "\\C[3]Il y a un symbole qui ressemble à une personne."
+        ],
+        "3-1-message": [
+            "\\C[3]La porte est solidement fermée.",
+            "\\.\"E-Elle s'ouvre pas ?!\"",
+            "\\.\"Hein ?! C'est problématique, ça !\"",
+            "\\.\"Ha ! C'est con pour vous, les humains.\"",
+            "\\.\"Ça ne s'ouvre pas...?\"",
+            "\\.\"On fait quoi ?! Ça pose problème, nan ?!\"",
+            "\\.\"Il faut le dire... Cette pièce est étrange.\"",
+            "\\C[4](Des toilettes... j'imagine ?)"
+        ],
+        "3-2-message": [
+            "\\C[3]La porte est solidement fermée.",
+            "\\.\\C[4](Ce symbole me rend curieuse...)"
+        ],
+        "3-3-message": [
+            "\\C[3]La porte est ouverte.",
+            "\\.\\C[4](Devrais-je entrer...?)",
+            "\\.\"Allons-y...\""
         ]
     },
     "map207": {
@@ -40976,6 +41061,28 @@
     "map211": {
         "2-2-message": [
             "\\C[3]Le monstre tente de se relever, sans se défendre."
+        ]
+    },
+    "map208": {
+        "1-1-message": [
+            "\"Mia...?!\"",
+            "\\.\"Mais qu'est-ce que...?! C'est quoi, ce bordel ?!\"",
+            "\\.\"Mais que...?! Quelle est cette chose ?!\"",
+            "\\.\\C[4](Il y a du liquide qui coule par ces fenêtres...!)",
+            "\\.\"C'est du magma, ouaf !!\n On va finir fondus, miaou !!\"",
+            "\\.\"Putain, tu te fous de moi...!!\n C'est pas un monstre qui devait arriver ?!\"",
+            "\\.\\C[4](Qu'est-ce qu'on peut bien faire face à ça...?!)",
+            "\\.\"... On dirait que c’est ton domaine, Sara.\"",
+            "\\.\"Hein ?\"",
+            "\\.\"Allez, jette un œil autour de la pièce...\"",
+            "\\.\"Utilise ton regard perçant pour\n \\C[2]identifier ce qui paraît suspect\\C[0].\"",
+            "\\.\"Ce qui paraît suspect...?!\"",
+            "\\.\"Ensuite, Monsieur Policier et compagnie seront\n tes bras et tes jambes pour résoudre ce puzzle.\"",
+            "\\.\"Compris ! Je vais essayer...!\""
+        ],
+        "2-1-message": [
+            "\\C[3]Le liquide s'infiltre avec force sous le ring.",
+            "\\C[3]Le niveau du liquide monte petit à petit."
         ]
     }
 }
