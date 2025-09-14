@@ -50,7 +50,7 @@ jobs:
       #   run: node tools/apply-animation-patch.mjs
 
       - name: Copy Animations.json
-        run: cp Animations.json yttd/www/data/Animations.json
+        run: cp assets/Animations.json yttd/www/data/Animations.json
 
       - name: Patching images
         run: node tools/crypt.js
