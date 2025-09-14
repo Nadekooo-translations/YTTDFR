@@ -32686,6 +32686,17 @@
         ],
         "24-2-message": [
             "\\C[3]Des cordes colorées entourent le ring."
+        ],
+        "31-1-message": [
+            "\\C[3]Le sol du ring est robuste.",
+            "\\.\\C[4](Rien de suspect par ici...)"
+        ],
+        "31-2-message": [
+            "\\C[3]Le sol du ring est robuste."
+        ],
+        "112-1-message": [
+            "\\C[3]Des débris sont tombés sur le ring.",
+            "\\.\\C[4](C'est pas passé loin...)"
         ]
     },
     "map197": {
@@ -37034,7 +37045,7 @@
     },
     "map206": {
         "2-2-message": [
-            "\\C[3]Il y a un symbole qui ressemble à une personne.",
+            "\\C[3]Il y a un symbole qui ressemble à des personnes.",
             "\\.\"Est-ce que ce sont vraiment des toilettes...?\"",
             "\\.\"A première vue, ça y ressemble...\"",
             "\\.\"Mais la porte ne s'ouvre pas.\n Si ce sont bien des toilettes, \n ça veut dire qu'elles ont été bloquées...\"",
@@ -37064,14 +37075,14 @@
             "\\.\"A-Arrête d'dire des trucs comme ça...\n J'sais pas quoi t'répondre, c'est gênant...\""
         ],
         "2-1-message": [
-            "\\C[3]Il y a un symbole qui ressemble à une personne.",
+            "\\C[3]Il y a un symbole qui ressemble à des personnes.",
             "\\C[4](Ce sont des toilettes...?)"
         ],
         "2-2-choice": [
             "Se tenir la main\nAnnuler"
         ],
         "2-3-message": [
-            "\\C[3]Il y a un symbole qui ressemble à une personne."
+            "\\C[3]Il y a un symbole qui ressemble à des personnes."
         ],
         "3-1-message": [
             "\\C[3]La porte est solidement fermée.",
