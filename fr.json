@@ -41093,7 +41093,11 @@
         ],
         "2-1-message": [
             "\\C[3]Le liquide s'infiltre avec force sous le ring.",
-            "\\C[3]Le niveau du liquide monte petit à petit."
+            "\\C[3]Le niveau du liquide monte petit à petit.",
+            "\"Merde...! Ça monte de plus en plus !!\n Qu’est-ce qu’on doit faire ?!\"",
+            "\"Pff... Un piège pour tous nous tuer d'un coup...\n Je ne peux pas mourir dans un endroit pareil !!\"",
+            "\\C[3]Le niveau du liquide monte petit à petit.",
+            "\"Ne t'inquiète pas, Sara. Je suis sûr que\n tu peux résoudre l'énigme de cette pièce.\""
         ]
     }
 }
