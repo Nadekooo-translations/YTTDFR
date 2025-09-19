@@ -41112,7 +41112,13 @@
             "\\C[3]Le niveau du liquide monte petit à petit.",
             "\\C[3]Le liquide déborde excessivement.",
             "\"Un peu plus et nous aurons des problèmes !!\n Finissez-en, mademoiselle Sara !!\"",
-            "\\.\\C[4](Trois des quatre poteaux ont changé de couleur...\n Et les couleurs de ces cordes qui ne sont pas coupées...!\n Ça doit être la clé pour résoudre cette énigme !)"
+            "\\.\\C[4](Trois des quatre poteaux ont changé de couleur...\n Et les couleurs de ces cordes pas coupées...!\n Ça doit être la clé pour résoudre cette énigme !)",
+            "\\.\\C[4](Trois des quatre poteaux ont changé de couleur, donc...\n Il y a quelque chose à faire avec le poteau restant ?)",
+            "\\.\\C[4](Il faut que \\C[2]j'identifie tout endroit suspect\\C[4]...\n Je suis sûre que j'aurai une réalisation !!)"
+        ],
+        "2-2-message": [
+            "\\C[3]Le niveau du liquide monte petit à petit.",
+            "\\C[3]Le niveau du liquide monte petit à petit."
         ]
     }
 }
