@@ -41097,7 +41097,22 @@
             "\"Merde...! Ça monte de plus en plus !!\n Qu’est-ce qu’on doit faire ?!\"",
             "\"Pff... Un piège pour tous nous tuer d'un coup...\n Je ne peux pas mourir dans un endroit pareil !!\"",
             "\\C[3]Le niveau du liquide monte petit à petit.",
-            "\"Ne t'inquiète pas, Sara. Je suis sûr que\n tu peux résoudre l'énigme de cette pièce.\""
+            "\"Ne t'inquiète pas, Sara. Je suis sûr que\n tu peux résoudre l'énigme de cette pièce.\"",
+            "\\.\"Pointes tout ce qui te paraît suspect.\n ... Toi seule peut motiver les troupes.\"",
+            "\\C[3]Le niveau du liquide monte petit à petit.",
+            "\\C[3]Le liquide déborde sur la scène.",
+            "\"Le niveau a monté... Hahaha... C'est pas bon...\"",
+            "\\C[3]Le niveau du liquide monte petit à petit.",
+            "\"Merde...!! On fait quoi face à ce foutu truc ?!\"",
+            "\\C[3]Le niveau du liquide monte petit à petit.",
+            "\\C[3]Le niveau du liquide monte petit à petit.",
+            "\"Il doit bien y avoir un indice pour résoudre\n ce mécanisme dans cette salle...!\"",
+            "\\C[3]Le liquide a débordé sur la scène.",
+            "\"Miaouuuuuu...!! Ça arrive jusqu'à mes pieds, ouaf !\"",
+            "\\C[3]Le niveau du liquide monte petit à petit.",
+            "\\C[3]Le liquide déborde excessivement.",
+            "\"Un peu plus et nous aurons des problèmes !!\n Finissez-en, mademoiselle Sara !!\"",
+            "\\.\\C[4](Trois des quatre poteaux ont changé de couleur...\n Et les couleurs de ces cordes qui ne sont pas coupées...!\n Ça doit être la clé pour résoudre cette énigme !)"
         ]
     }
 }
