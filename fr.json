@@ -23069,6 +23069,13 @@
         ],
         "1404-0-message": [
             "\\C[3]Feuilles où figurent les noms de 16 participants,\nsur les 20 du Jeu Mortel Démocratique."
+        ],
+        "1415-0-message": [
+            null,
+            null,
+            "\\.\\C[4](Est-ce que les cordes de différentes couleurs \n sont un indice pour résoudre l'énigme...?)",
+            "\\.\\C[4](Je vais y toucher fermement et voir ce que ça donne !)",
+            "\\.\\C[4](Quoi ? Le poteau arrière-gauche\n a une sorte de câble d'alimentation...!)"
         ]
     },
     "map107": {
@@ -41119,6 +41126,29 @@
         "2-2-message": [
             "\\C[3]Le niveau du liquide monte petit à petit.",
             "\\C[3]Le niveau du liquide monte petit à petit."
+        ],
+        "3-1-message": [
+            "\\C[3]Le liquide continue de se déverser.",
+            "\\.\\C[4](Le liquide n’était finalement pas du magma.\n Il semble qu’il n’est pas dangereux au toucher.)",
+            "\\.\\C[4](Si c'est vraiment du magma, comme le prétend Gin,\n alors ça devrait éclairer une pièce assombrie...)"
+        ],
+        "57-1-choice": [
+            "Inspecter\nAnnuler"
+        ],
+        "57-2-message": [
+            "\\.\\C[3]Un câble d'alimentation blanc est branché au poteau\nsitué à l'arrière-gauche.",
+            "\\.\\C[4](Si le liquide atteint la scène...\n ce sera vraiment dangereux...)"
+        ],
+        "59-1-message": [
+            "\\.\\C[3]Il ne reste que les cordes dures.",
+            "\\.\\C[4](On a coupé toutes les cordes molles avec le couteau.\n On progresse sur l'énigme, c’est sûr...!)",
+            "\\.\\C[3]Des cordes colorées entourent le ring.",
+            "\\.\\C[4](Des cordes dures et des cordes souples...\n On dirait qu'il y a un mélange de deux types !)",
+            "\\.\\C[3]Des cordes colorées entourent le ring.",
+            "\\.\\C[4](Hmm... Ces couleurs ont-elles une signification ?\n Peut-être que je devrais les toucher pour vérifier...)"
+        ],
+        "59-1-choice": [
+            "Inspecter\nAnnuler"
         ]
     }
 }
