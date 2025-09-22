@@ -23162,7 +23162,7 @@
             "\"Mouahaha... Il semble que l'écoulement du\n liquide se soit interrompu...\"",
             "\\.\"Grâce à ça, la montée du liquide va ralentir !\"",
             "\\.\"C'est ton tour, Sara Chidouin !\n Résous l'énigme en moins de 10 secondes !!\"",
-            "\"Voilà, je l'ai bien découpé, Sara !\"",
+            "\"Voilà, j'ai bien découpé comme il faut, Sara !\"",
             "\\.\\C[4](Elle a l'air nonchalante, mais elle travaille vite...)",
             "\\.\\C[4](Hein ? Les quatre poteaux sont colorés...?)",
             "\\.\"On dirait que les cordes en elles-mêmes sont des\n câbles d’alimentation... En coupant celles qui étaient\n superflues, les bonnes couleurs se sont allumées.\"",
@@ -41281,6 +41281,99 @@
         ],
         "59-1-choice": [
             "Inspecter\nAnnuler"
+        ],
+        "7-1-message": [
+            "\\C[3]Il y a une ombre étrange sur le sol.",
+            "\\.\\C[4](Un couteau accroché au plafond...\n Est-ce un indice pour résoudre l'énigme ?)",
+            "\\.\\C[4](Quelle est cette ombre ?\n Est-ce qu'il y a quelque chose accroché au plafond ?)"
+        ],
+        "5-1-choice": [
+            "Inspecter\nAnnuler"
+        ],
+        "3-1-choice": [
+            "Inspecter\nAnnuler"
+        ],
+        "3-2-message": [
+            "\\C[3]Le liquide continue de se déverser.",
+            "\\.\\C[4](Le liquide n’était finalement pas du magma.\n Il semble qu’il n’est pas dangereux au toucher.)",
+            "\\.\\C[4](Si c'est vraiment du magma, comme le prétend Gin,\n alors ça devrait éclairer une pièce assombrie...)"
+        ],
+        "3-2-choice": [
+            "Inspecter\nAnnuler"
+        ],
+        "3-3-message": [
+            "\\C[3]Le liquide continue de se déverser.",
+            "\\.\\C[4](Le liquide n’était finalement pas du magma.\n Il semble qu’il n’est pas dangereux au toucher.)",
+            "\\.\\C[4](Si c'est vraiment du magma, comme le prétend Gin,\n alors ça devrait éclairer une pièce assombrie...)"
+        ],
+        "3-3-choice": [
+            "Inspecter\nAnnuler"
+        ],
+        "4-1-message": [
+            "\\C[3]Le liquide continue de se déverser.",
+            "\\.\\C[4](Le liquide n’était finalement pas du magma.\n Il semble qu’il n’est pas dangereux au toucher.)",
+            "\\.\\C[4](Si c'est vraiment du magma, comme le prétend Gin,\n alors ça devrait éclairer une pièce assombrie...)"
+        ],
+        "4-1-choice": [
+            "Inspecter\nAnnuler"
+        ],
+        "4-2-message": [
+            "\\C[3]Le liquide continue de se déverser.",
+            "\\.\\C[4](Le liquide n’était finalement pas du magma.\n Il semble qu’il n’est pas dangereux au toucher.)",
+            "\\.\\C[4](Si c'est vraiment du magma, comme le prétend Gin,\n alors ça devrait éclairer une pièce assombrie...)"
+        ],
+        "4-2-choice": [
+            "Inspecter\nAnnuler"
+        ],
+        "4-3-message": [
+            "\\C[3]Le liquide continue de se déverser.",
+            "\\.\\C[4](Le liquide n’était finalement pas du magma.\n Il semble qu’il n’est pas dangereux au toucher.)",
+            "\\.\\C[4](Si c'est vraiment du magma, comme le prétend Gin,\n alors ça devrait éclairer une pièce assombrie...)"
+        ],
+        "4-3-choice": [
+            "Inspecter\nAnnuler"
+        ],
+        "5-1-message": [
+            "\\C[3]Trois lumières éclairent faiblement la pièce.",
+            "\\.\\C[4](Un couteau accroché au plafond...\n Est-ce un indice pour résoudre l'énigme ?)",
+            "\\.\\C[4](Hein ? Ces lumières... ont quelque chose d'étrange.\n Je me demande ce que c'est...?)"
+        ],
+        "7-1-choice": [
+            "Inspecter\nAnnuler"
+        ],
+        "45-1-message": [
+            "\\C[3]Il y a un poteau allumé à l'arrière-gauche.",
+            "\\.\\C[4](J'ai demandé à Ranmaru de vérifier ça...!)",
+            "\\C[3]Il y a un poteau noir à l'arrière-gauche.",
+            "\\.\\C[4](Ce poteau a l'air différent des autres...)"
+        ],
+        "45-1-choice": [
+            "Inspecter\nAnnuler"
+        ],
+        "48-1-message": [
+            "\\C[3]Le poteau arrière-droit.",
+            "\\.\\C[4](Il n'a pas l'air inhabituel, mais...)"
+        ],
+        "48-1-choice": [
+            "Inspecter\nAnnuler"
+        ],
+        "51-1-message": [
+            "\\.\\C[3]Le poteau avant-droit.",
+            "\\.\\C[4](Il n'a pas l'air inhabituel, mais...)"
+        ],
+        "51-1-choice": [
+            "Inspecter\nAnnuler"
+        ],
+        "52-1-message": [
+            "\\.\\C[3]Le poteau avant-gauche.",
+            "\\.\\C[4](Il n'a pas l'air inhabituel, mais...)"
+        ],
+        "52-1-choice": [
+            "Inspecter\nAnnuler"
+        ],
+        "57-1-message": [
+            "\\C[3]Une sorte de câble blanc.",
+            "\\.\\C[4](Un câble...?\n Il est branché au poteau arrière-gauche...)"
         ]
     }
 }
