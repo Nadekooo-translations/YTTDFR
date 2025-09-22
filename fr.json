@@ -7527,7 +7527,7 @@
             "Oui\nNon"
         ],
         "1420-0-choice": [
-            null,
+            "Blanc\nBleu\nRose\nJaune",
             "Oui\nNon"
         ],
         "1531-0-choice": [
@@ -23071,8 +23071,8 @@
             "\\C[3]Feuilles où figurent les noms de 16 participants,\nsur les 20 du Jeu Mortel Démocratique."
         ],
         "1415-0-message": [
-            null,
-            null,
+            "\\.\\C[4](Si c'était du magma, il ferait beaucoup\n plus chaud dans toute la pièce...!)",
+            "\\.\\C[4](Voyons ce qu'est vraiment ce liquide !)",
             "\\.\\C[4](Est-ce que les cordes de différentes couleurs \n sont un indice pour résoudre l'énigme...?)",
             "\\.\\C[4](Je vais y toucher fermement et voir ce que ça donne !)",
             "\\.\\C[4](Quoi ? Le poteau arrière-gauche\n a une sorte de câble d'alimentation...!)",
@@ -23091,7 +23091,7 @@
             "\\.\"Ahhhh...!!!!\"",
             "\\C[3]Le liquide remplit progressivement la pièce.",
             "\\.\\C[3]Nous sommes montés, à la recherche d’air.",
-            "\\.\\C[3]Quand tout fut rempli, l’espoir disparut peu à peu."
+            "\\.\\C[3]Quand tout fut rempli, tout espoir disparut."
         ],
         "1418-0-message": [
             "\"Désolé, grande sœur Sara, miaou...\n Le sol n'a rien de spécial, ouaf...\"",
@@ -23149,7 +23149,65 @@
         "1420-0-message": [
             "\"Et hop... Je te tiens, couteau.\"",
             "\\.\"T-Tu viens vraiment de le prendre comme ça ?!\"",
-            "\\.\"Eh, pas mal du tout !\n Réussir à s'élancer aussi loin avec des cordes\n aussi pourries niveau élasticité...\""
+            "\\.\"Eh, pas mal du tout !\n Réussir à s'élancer aussi loin avec des cordes\n aussi pourries niveau élasticité...\"",
+            "\\.\"Ah ouais ? Je voyais pas ça comme ça.\n Je m'attendais à ce qu'elles rebondissent bien.\"",
+            "\\.\"Maintenant, la question est de savoir\n comment utiliser ce couteau...\"",
+            "\\.\"Va falloir trouver une idée... Après tout,\n Sara nous a permis d'avoir cet objet précieux.\"",
+            "\"Y a un interrupteur au mur !! Je vais l'actionner !\"",
+            "\"Super ! Le liquide du côté gauche s'est arrêté !\"",
+            "\\.\"Grâce à ça, la montée du liquide va ralentir !\"",
+            "\\.\"Oui, voilà ! C'est pas la solution définitive,\n mais ça nous fait gagner un peu de temps !\"",
+            "\\.\"J'compte sur toi, Sara ! Pour tout ce qui demande\n des efforts physiques, laisse-moi m'en charger !\"",
+            "\"Hmpf ! Tout comme je l'avais prévu, j'ai découvert\n un interrupteur sur le mur ! Et je VAIS l'actionner !\"",
+            "\"Mouahaha... Il semble que l'écoulement du\n liquide se soit interrompu...\"",
+            "\\.\"Grâce à ça, la montée du liquide va ralentir !\"",
+            "\\.\"C'est ton tour, Sara Chidouin !\n Résous l'énigme en moins de 10 secondes !!\"",
+            "\"Voilà, je l'ai bien découpé, Sara !\"",
+            "\\.\\C[4](Elle a l'air nonchalante, mais elle travaille vite...)",
+            "\\.\\C[4](Hein ? Les quatre poteaux sont colorés...?)",
+            "\\.\"On dirait que les cordes en elles-mêmes sont des\n câbles d’alimentation... En coupant celles qui étaient\n superflues, les bonnes couleurs se sont allumées.\"",
+            "\\.\"Je comprends paaas ! Qu'est-ce que ça veut dire ?\"",
+            "\\.\"... Cela signifie que l'on se rapproche certainement\n de la solution à cette énigme...\"",
+            "\\.\\C[4](Exact... Ces poteaux, et cette énigme...)",
+            "\\.\\C[4](Les couleurs doivent cacher la réponse...!)",
+            "\"On dirait que si on appuie sur cet interrupteur,\n on peut changer la couleur du poteau...\"",
+            "\\.\\C[4](À quelle couleur devrait-il le changer ?)",
+            "\\.\\C[4](Est-ce la bonne couleur...?)",
+            "\\.\"Merci, Ranmaru. Ça fera l'affaire.\"",
+            "\"Bien reçu.\""
+        ],
+        "1422-0-message": [
+            "\"Je vais renifler toute odeur suspecte, miaou !\""
+        ],
+        "1423-0-message": [
+            "\"Ce bruit parasite m'dérange trop...!\n J'vais d'abord trouver d'où il vient !\""
+        ],
+        "1424-0-message": [
+            "\"Je ne parviens pas à réfléchir avec ce bruit...!\n Bon, très bien. Je vais localiser la source avec\n mon ouïe fine !\""
+        ],
+        "1407-0-message": [
+            "\"E-Euh...! Je sais, miaou !\n Je vais inspecter le sol de près, ouaf !\""
+        ],
+        "1408-0-message": [
+            "\"Mais oui ! On est sur un ring de boxe, non ?!\n Et si on essayait de se foutre sur la gueule,\n ça résoudrait sûrement l'énigme ?!\""
+        ],
+        "1409-0-message": [
+            "\"Un couteau sur le plafond...\n Je peux sûrement l'atteindre si je m'élance\n avec les cordes.\""
+        ],
+        "1410-0-message": [
+            "\"Si le liquide est sans danger, alors je vais\n descendre et examiner le mur pour voir\n s'il cache quelque chose de bizarre !\""
+        ],
+        "1411-0-message": [
+            "\"Si le liquide n'est pas du magma,\n je vais sortir du ring et vérifier les murs !\""
+        ],
+        "1412-0-message": [
+            "\"Des cordes molles ? Je vais me servir du couteau\n pour les trancher comme du pain !\""
+        ],
+        "1413-0-message": [
+            "\"S’il y a un couteau au plafond...\n Je vais le faire tomber en jetant ma chaussure !\""
+        ],
+        "1414-0-message": [
+            "\"Sara ! Il y a un interrupteur sur le poteau\n arrière-gauche ! Devrais-je appuyer dessus ?\""
         ]
     },
     "map107": {
