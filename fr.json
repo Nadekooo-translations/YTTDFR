@@ -23127,7 +23127,29 @@
             "\\.\"Alors, est-ce qu'on devrait déchirer la corde\n pour voir ce qu'il y a à l'intérieur ?\"",
             "\\.\"Eh bien... Je doute que l'on puisse couper les cordes\n dures, même avec quelque chose de tranchant...\"",
             "\\.\"Nous devrions certainement essayer de couper\n les cordes molles, au moins !\"",
-            "\\.\"Je parie qu'il y a une différence dans leur contenu...\""
+            "\\.\"Je parie qu'il y a une différence dans leur contenu...\"",
+            "\\.\"À ce stade, autant couper celles que l'on peut,\n pour voir ce qu'il y a l'intérieur.\"",
+            "\\.\\C[4](Ça devrait être faisable, avec le bon outil...)",
+            "\"W-Waouh ?! Le poteau s'est allumé ?!\"",
+            "\\.\"Je vois... Il est éclairé de l'intérieur !\"",
+            "\\.\"Les autres poteaux brillent de la même façon...\n Ça, c'est quand même assez bizarre !\"",
+            "\\.\"C'est vrai...\"",
+            "\\.\"Bon... Je vais continuer d'examiner ce poteau, Sara.\n Essaie de trouver une solution pendant ce temps !\"",
+            "\"Il y a un couteau accroché au plafond...!\"",
+            "\"Ah oui, c’est vrai ! Si ça nous tombe dessus,\n ce sera dangereux ! Est-ce que c'est un piège ?!\"",
+            "\\.\"Au contraire, t'penses pas qu'on en a besoin pour\n résoudre c't'énigme ?!\"",
+            "\"Pourquoi y a un couteau là-haut, miaou ?\"",
+            "\\.\"Il est peut-être nécessaire pour résoudre l'énigme...\"",
+            "\\.\"C'est possible...!\"",
+            "\\.\"Mais même Q-taro n'est pas assez grand\n pour l'atteindre !\"",
+            "\\.\"Y a pas quelqu'un qui a une idée ?!\"",
+            "\\.\"Hmm... Faut trouver un moyen de le prendre.\"",
+            "\\.\"Bon... Monsieur le Policier va se lancer...\""
+        ],
+        "1420-0-message": [
+            "\"Et hop... Je te tiens, couteau.\"",
+            "\\.\"T-Tu viens vraiment de le prendre comme ça ?!\"",
+            "\\.\"Eh, pas mal du tout !\n Réussir à s'élancer aussi loin avec des cordes\n aussi pourries niveau élasticité...\""
         ]
     },
     "map107": {
