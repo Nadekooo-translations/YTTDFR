@@ -23091,7 +23091,7 @@
             "\\.\"Ahhhh...!!!!\"",
             "\\C[3]Le liquide remplit progressivement la pièce.",
             "\\.\\C[3]Nous sommes montés, à la recherche d’air.",
-            "\\.\\C[3]Quand tout fut rempli, tout espoir disparut."
+            "\\.\\C[3]Au moment où tout fut rempli,\ntout espoir de survie se referma."
         ],
         "1418-0-message": [
             "\"Désolé, grande sœur Sara, miaou...\n Le sol n'a rien de spécial, ouaf...\"",
@@ -23165,7 +23165,7 @@
             "\"Voilà, j'ai bien découpé comme il faut, Sara !\"",
             "\\.\\C[4](Elle a l'air nonchalante, mais elle travaille vite...)",
             "\\.\\C[4](Hein ? Les quatre poteaux sont colorés...?)",
-            "\\.\"On dirait que les cordes en elles-mêmes sont des\n câbles d’alimentation... En coupant celles qui étaient\n superflues, les bonnes couleurs se sont allumées.\"",
+            "\\.\"Il semblerait que les cordes en elles-mêmes sont des\n câbles d’alimentation... En coupant celles qui étaient\n superflues, les bonnes couleurs se sont allumées.\"",
             "\\.\"Je comprends paaas ! Qu'est-ce que ça veut dire ?\"",
             "\\.\"... Cela signifie que l'on se rapproche certainement\n de la solution à cette énigme...\"",
             "\\.\\C[4](Exact... Ces poteaux, et cette énigme...)",
@@ -23189,7 +23189,7 @@
             "\"E-Euh...! Je sais, miaou !\n Je vais inspecter le sol de près, ouaf !\""
         ],
         "1408-0-message": [
-            "\"Mais oui ! On est sur un ring de boxe, non ?!\n Et si on essayait de se foutre sur la gueule,\n ça résoudrait sûrement l'énigme ?!\""
+            "\"Je sais ! On est sur un ring de boxe, non ?!\n Et si on essayait d'se foutre sur la gueule,\n ça résoudrait sûrement l'énigme ?!\""
         ],
         "1409-0-message": [
             "\"Un couteau sur le plafond...\n Je peux sûrement l'atteindre si je m'élance\n avec les cordes.\""
@@ -32713,7 +32713,7 @@
             "\\.\"Hé, je me demandais...\"",
             "\\.\"Et si les Pantins n'avaient pas tous\n reçu les mêmes informations...?\"",
             "\\.\"...\"",
-            "\\.\"Hé, t'as une minute ?\"",
+            "\\.\"Hé, vous avez une minute ?\"",
             "\\.\"J'ai bien l'impression que vous avez\n pas tous reçus les mêmes informations...\"",
             "\\.\"Oh ? Maintenant que tu le dis...\"",
             "\\.\"Pourquoi ça...? On a pourtant écouté\n \\N[4] tous ensemble...\"",
@@ -32725,7 +32725,7 @@
             "\\.\"Sérieux ?! Bah arrêtez de les cacher, putain !!\n Balancez les infos !!\"",
             "\\.\"Je veux bien, mais comment on peut savoir\n quelle info est spéciale ?\"",
             "\\.\"... Certes. Pour l’instant, le mieux est de faire\n semblant de ne pas savoir.\"",
-            "\\.\"Chacun d'entre nous a acquis une raison d’être,\n une valeur unique... C’est bien ça, Sara-senpai?\"",
+            "\\.\"Chacun d'entre nous a acquis une raison d’être,\n une valeur unique... J'ai vu juste, Sara-senpai ?\"",
             "\\.\"...!\"",
             "\\.\"Une valeur unique...? Hinako, on ne vous juge\n pas avec un regard calculateur comme ça...\"",
             "\\.\"...\"",
@@ -32738,7 +32738,7 @@
             "\\.\"Même si vous n'aviez pas ce genre d’informations...\n Vos vies auraient certainement de la valeur...\"",
             "\\.\"On est tous victimes du même sort, non ?\n Humain ou poupée, c'est du pareil au même...\"",
             "\\.\"...!\"",
-            "\\.\"Héhé... Plutôt cool, ton maître, hein ?\"",
+            "\\.\"Héhé... Plutôt cool, comme maître, hein ?\"",
             "\\.\"...\"",
             "\\.\"Et sinon, jusqu'à quand comptez-vous\n poireauter dans cette salle ?\"",
             "\\.\"E-Euh... Ne devrait-on pas se rendre\n dans la pièce suivante ?\"",
