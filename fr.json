@@ -32731,15 +32731,19 @@
             "\\.\"...\"",
             "\\.\"Je suppose que tu as raison...\"",
             "\\.\"...\"",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\"...\""
+            "\\.\"Si ça permet de rassurer les Pantins...\n Faites attention à votre info respective.\"",
+            "\\.\"... On ne vous prend pas pour des outils.\"",
+            "\\.\"Je ne suis pas sûre de ça...\"",
+            "\\.\"...!\"",
+            "\\.\"Même si vous n'aviez pas ce genre d’informations...\n Vos vies auraient certainement de la valeur...\"",
+            "\\.\"On est tous victimes du même sort, non ?\n Humain ou poupée, c'est du pareil au même...\"",
+            "\\.\"...!\"",
+            "\\.\"Héhé... Plutôt cool, ton maître, hein ?\"",
+            "\\.\"...\"",
+            "\\.\"Et sinon, jusqu'à quand comptez-vous\n poireauter dans cette salle ?\"",
+            "\\.\"E-Euh... Ne devrait-on pas se rendre\n dans la pièce suivante ?\"",
+            "\\.\"En effet... Il ne reste rien à voir ici. Allons-y.\"",
+            "\\.\"Ouais, pas vraiment le temps se reposer...\n Allez, on se bouge.\""
         ],
         "25-2-message": [
             null,
@@ -32836,6 +32840,17 @@
         "112-1-message": [
             "\\C[3]Des débris sont tombés sur le ring.",
             "\\.\\C[4](C'est pas passé loin...)"
+        ],
+        "1-3-choice": [
+            "Je ne juge pas selon la valeur\nC'est exactement ça\nJe ne suis pas sûre de ça"
+        ],
+        "5-2-message": [
+            null,
+            "\\C[3]Il y a un passage de l'autre côté.",
+            "\\.\\C[4](Que devrais-je faire...?)"
+        ],
+        "5-2-choice": [
+            "Emprunter le passage\nAnnuler"
         ]
     },
     "map197": {
@@ -33128,6 +33143,20 @@
         "19-4-message": [
             null,
             "\\.\\C[4](...)"
+        ],
+        "15-1-message": [
+            "\\.\"Urgh...!!\"",
+            "\\.\"...!!\"",
+            "\\.\"Bah tiens, encore un truc sordide.\n C'est vraiment de mauvais goût.\""
+        ],
+        "19-1-message": [
+            "\\C[3]Une peinture de Joe.",
+            "\\C[3]Une peinture d'un garçon dont le corps est transpercé.",
+            "\"... Sara, regarde pas...\"",
+            "\\.\"Je... vais bien.\"",
+            "\\.\"Ce genre de chose ne m'atteindra plus jamais.\"",
+            "\\.\"Mais même... Je veux pas que tu regardes...\"",
+            "\\.\"D... D'accord.\""
         ]
     },
     "map198": {
