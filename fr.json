@@ -86,7 +86,7 @@
             "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles."
         ],
         "53-1-message": [
-            "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
+            "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, on peut y lire \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
         ],
         "50-1-message": [
             "\\C[3]Une bouteille pour transporter des liquides."
@@ -148,7 +148,7 @@
     },
     "map33": {
         "29-1-message": [
-            "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
+            "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, on peut y lire \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
         ],
         "4-1-message": [
             "\\C[3]Un briquet Zippo chic."
@@ -784,7 +784,7 @@
             "Nous avons aussi rencontré un meurtrier qui\nétait resté caché, du nom d'\\C[2]Alice Yabusame\\C[0]...",
             "Et nous avons commencé un vote mettant\nnos vies en jeu...\n\nLe \\C[2]Jeu Principal\\C[0].",
             "Deux cartes ont scellé nos sorts...\nLe \\C[3]Sage\\C[0], et le \\C[10]Sacrifice\\C[0].",
-            "Leurs détenteurs étaient...\n\n\\C[2]Kai Satou\\C[0], mon stalkeur qui semblait détenir\nune sorte d'élément clé à ces jeux mortels, et...",
+            "Leurs détenteurs étaient...\n\n\\C[2]Kai Satou\\C[0], mon stalkeur qui semblait détenir\nune sorte d'élément clé à ce Jeu Mortel, et...",
             "Mon meilleur ami... Joe.",
             "Et c'est ainsi que Joe fut tué...\nDe la plus cruelle des manières.",
             "Tandis que mon cœur s'effondrait...\nLa voix de quelqu'un résonna.",
@@ -929,7 +929,7 @@
             "\\.\\C[4](Mais désormais...)",
             "\\.\\C[4](Je n'y prêterai plus attention...)",
             "\\.\\C[4](J'irai de l'avant...!)",
-            "\\.\\C[4](Et je mettrai un terme à ce Jeu Mortel\n Démocratique !!)",
+            "\\.\\C[4](Et je mettrai un terme à ce Jeu Mortel !!)",
             "\\.\"Sara !\"",
             "\\.\"Sara...!\"",
             "\\.\"... Ça va mieux, maintenant.\"",
@@ -939,7 +939,7 @@
             "\\.\"On ne va plus s'entretuer.\"",
             "\\.\"...!\"",
             "\\.\"Plus jamais, ils ne nous feront faire ça...!\"",
-            "\\.\"Je vais mettre un terme au Jeu Mortel\n Démocratique...!!\"",
+            "\\.\"Je vais mettre un terme au Jeu Mortel...!!\"",
             "\\.\"... Bahaha...\"",
             "\\.\"Ça me va.\n Ils peuvent être aussi fourbes qu'ils veulent...\n Ils y arriveront pas.\"",
             "\\.\"Moi aussi, j'vais résister !!\"",
@@ -958,7 +958,7 @@
             "\\.\"Tu es...\"",
             "\\.\"Ton cher père est ravi de te voir en vie...\"",
             "\\.\"Allez, et maintenant, entamons...\"",
-            "\\.\\sp[12]\"... Le dernier jeu mortifère.\"",
+            "\\.\\sp[12]\"... Le Jeu Mortel final.\"",
             "À suivre dans le Chapitre Final\\.\\."
         ]
     },
@@ -2160,7 +2160,7 @@
             "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles."
         ],
         "51-1-message": [
-            "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
+            "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, on peut y lire \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
         ],
         "27-1-message": [
             "\\C[3]Une bouteille pour transporter des liquides."
@@ -3640,7 +3640,7 @@
             "\\C[3]Une carte portant l'inscription \"Maître des Clés\".\nElle indique : \"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe."
         ],
         "46-1-message": [
-            "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
+            "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, on peut y lire \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
         ],
         "34-1-message": [
             "\\C[3]Le réfrigérateur bleu est vide."
@@ -3721,7 +3721,7 @@
             "\\C[3]Une carte portant l'inscription \"Maître des Clés\".\nElle indique : \"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe."
         ],
         "98-1-message": [
-            "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
+            "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, on peut y lire \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
         ],
         "1-1-message": [
             "\\C[3]Il y a un trou dans le plafond.\nOn peut insérer quelque chose à l'intérieur.",
@@ -4596,7 +4596,7 @@
             "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles."
         ],
         "48-1-message": [
-            "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
+            "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, on peut y lire \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
         ],
         "16-1-message": [
             "\\C[3]Une poupée qui me ressemble remarquablement."
@@ -4773,7 +4773,7 @@
             "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles."
         ],
         "75-1-message": [
-            "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
+            "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, on peut y lire \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
         ],
         "45-1-message": [
             "\\C[3]Une bouteille pour transporter des liquides."
@@ -4908,7 +4908,7 @@
             "\\C[3]La salle du fond semble être un espace fumeur."
         ],
         "57-1-message": [
-            "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
+            "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, on peut y lire \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
         ],
         "12-1-message": [
             "\\C[3]Une bouteille pour transporter des liquides."
@@ -4967,7 +4967,7 @@
             "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles."
         ],
         "68-1-message": [
-            "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
+            "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, on peut y lire \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
         ],
         "16-1-message": [
             "\\C[3]Une bouteille pour transporter des liquides."
@@ -5086,7 +5086,7 @@
             "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles."
         ],
         "49-1-message": [
-            "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
+            "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, on peut y lire \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
         ],
         "18-1-message": [
             "\\C[3]Une bouteille pour transporter des liquides."
@@ -5133,7 +5133,7 @@
             "\\.\"C'est...\"",
             "\\.\"... Une poupée...\"",
             "\\.\\C[4](Impossible de voir derrière ses habits, mais tout\n est tellement détaillé que... ça en est perturbant.)",
-            "\\.\\C[3]Sur la main de la poupée, il est écrit :\n\"Cet objet est à votre libre disposition.\"",
+            "\\.\\C[3]Sur la main de la poupée, on peut lire :\n\"Cet objet est à votre libre disposition.\"",
             "\\.\"... À ma libre disposition...\"",
             "\\.\\C[4](Même les habits... sont exactement les mêmes...)",
             "\\.\\C[4](Oh-hisse...! Elle est lourde...\n Elle doit faire le même poids que Kanna...)",
@@ -5178,7 +5178,7 @@
             "\\C[3]Un révolver. Une arme à feu.\nSa chambre cylindrique peut charger jusqu'à 9 balles."
         ],
         "76-1-message": [
-            "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
+            "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, on peut y lire \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
         ],
         "20-5-message": [
             "\\C[3]Une bouteille pour transporter des liquides."
@@ -5576,7 +5576,7 @@
             "\\C[3]Une porte rouge \"Sp\"."
         ],
         "82-1-message": [
-            "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
+            "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, on peut y lire \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
         ],
         "2-1-choice": [
             "Interroger Keiji\nLe questionner à propos de Nao",
@@ -5674,7 +5674,7 @@
             "\\C[3]Une carte portant l'inscription \"Maître des Clés\".\nElle indique : \"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe."
         ],
         "73-1-message": [
-            "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
+            "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, on peut y lire \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
         ],
         "2-1-message": [
             "\\.\\C[4](Elle n'est pas là...!)"
@@ -5886,7 +5886,7 @@
             "\\C[3]Une carte portant l'inscription \"Maître des Clés\".\nElle indique : \"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe."
         ],
         "27-1-message": [
-            "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
+            "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, on peut y lire \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
         ],
         "1-1-message": [
             "\\C[3]Quelque chose est posé sur le bureau.",
@@ -6133,7 +6133,7 @@
             "\\C[3]Une carte portant l'inscription \"Maître des Clés\".\nElle indique : \"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe."
         ],
         "54-1-message": [
-            "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
+            "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, on peut y lire \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
         ],
         "25-1-message": [
             "\\.\"...\n ...\n ...\"",
@@ -6228,7 +6228,7 @@
             "\\C[3]Une carte portant l'inscription \"Maître des Clés\".\nElle indique : \"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe."
         ],
         "48-1-message": [
-            "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
+            "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, on peut y lire \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
         ],
         "2-1-message": [
             "\\C[3]J'entends un léger bruit...",
@@ -9626,7 +9626,7 @@
             "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"... Je te suis pas trop, là...\n Désolée.\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            "\"16 humains et 4 poupées...\n C'est ça, la vérité secrète du Jeu Mortel\n Démocratique...!\"",
+            "\"16 humains et 4 poupées...\n C'est ça, la vérité secrète de ce Jeu Mortel...!\"",
             "\"Sou a l'air de penser que ces probas sont exactes...\"",
             "\\.\"Mais, et les quatre qui ne sont pas listés, alors ?!\"",
             "\\.\"Je veux dire, leurs actions pourraient influer\n sur les chances de victoire des 16 autres !\"",
@@ -9670,7 +9670,7 @@
             "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"Une remarque futile...\n En quoi prouve-t-elle quoi que ce soit ?\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
-            "\"En d'autres mots, ces quatre poupées avaient pour\n objectif de rendre ce Jeu Mortel Démocratique\n plus excitant !\"",
+            "\"En d'autres mots, ces quatre poupées avaient pour\n objectif de rendre ce Jeu Mortel plus excitant !\"",
             "\"Shin Tsukimi ici présent a déclaré que les\n probabilités notées sont remarquablement fiables...\"",
             "\\.\"Mais, et les quatre qui ne sont pas listés, alors ?!\"",
             "\\.\"Vous ne pensez pas que leurs actions pourraient\n influencer les probabilités des 16 listés ?!\"",
@@ -9760,7 +9760,7 @@
             "\"Ahahah, euh... C'est censé contrer quoi que ce soit ?\"",
             "\\.\\C[4](Mince...! Je me suis trompée !)",
             "\"C'est ce que j'ai compris des emails.\"",
-            "\\.Comme prévu, 17 personnes ont été saisies.\nJuste au cas où, il n'y a pas d'erreur quant à la\ndate du \\C[2]Jeu Mortel Démocratique\\C[0], n'est-ce pas ?\n\nTout se passe sans encombres.",
+            "\\.Comme prévu, 17 personnes ont été saisies.\nJuste au cas où, il n'y a pas d'erreur quant à la\ndate du \\C[2]Jeu Mortel\\C[0], n'est-ce pas ?\n\nTout se passe sans encombres.",
             "\\.Je suis aussi profondément attaché à Mademoiselle Sara.\nJe la protégerai coûte que coûte.\n\nJe suis prêt à consacrer ma vie aux Chidouins.",
             "\\.L'heure est bientôt venue.\n\nOsez blesser Sara Chidouin et je serai votre ennemi.\nJe vous ferai face, même à vous.",
             "\\.Mademoiselle Sara est impatiente à l'idée\nd'y participer.\nDe même, son \\C[2]ami\\C[0] y prendra sûrement part.",
@@ -9769,13 +9769,13 @@
             "\\.\"Mais toutes les adresses étaient différentes.\n Elles étaient illisibles et elles ressemblaient à\n des codes...\"",
             "\\.\"J'imagine que c'était un système de sécurité qui\n permettait de cacher l'identité du récepteur de\n ces messages.\"",
             "\\.\"Je vous les récite en partant du plus\n vieux, d'accord ?\"",
-            "\\.Comme prévu, 17 personnes ont été saisies.\nJuste au cas où, il n'y a pas d'erreur quant à la\ndate du \\C[2]Jeu Mortel Démocratique\\C[0], n'est-ce pas ?\n\nTout se passe sans encombres.",
+            "\\.Comme prévu, 17 personnes ont été saisies.\nJuste au cas où, il n'y a pas d'erreur quant à la\ndate du \\C[2]Jeu Mortel\\C[0], n'est-ce pas ?\n\nTout se passe sans encombres.",
             "\\.Je suis aussi profondément attaché à Mademoiselle Sara.\nJe la protégerai coûte que coûte.\n\nJe suis prêt à consacrer ma vie aux Chidouins.",
             "\\.Il est bientôt temps.\n\nOsez blesser Sara Chidouin et je serai votre ennemi.\nJe vous ferai face, même à vous.",
             "\\.Mademoiselle Sara est impatiente à l'idée\nd'y participer.\nDe même, son \\C[2]ami\\C[0] y prendra sûrement part.",
             "\"... Voilà ce qu'ils disaient.\"",
             "\\.\\C[4](Mais... Qu'est-ce que c'est que ça...?)",
-            "\\.\"Le Jeu Mortel Démocratique...?\n Nan, pas possible !\n Ça parle de ce qu'on fait !!\"",
+            "\\.\"Le Jeu Mortel...? Nan, pas possible !\n C'est clairement ce qu'on est en train de vivre !!\"",
             "\\.\"K-Kai ! Dis-moi qu'c'pas vrai ?!\n T'es pas avec les kidnappeurs, hein ?!\"",
             "\\.\"Voyez-vous cela...\n Le scélérat au tablier et Sara Chidouin se\n connaitraient donc ?\"",
             "\\.\\C[4](Je ne dirais pas vraiment qu'on se \"connait\"...!)",
@@ -9783,7 +9783,7 @@
             "\\.\"Hum... Ne me dites pas que l'ami en question,\n c'est... Joe...?\"",
             "\\.\"Hein ? M-Moi ?\"",
             "\\.\"C'est ce que je me dis.\"",
-            "\\.\"Kai était au courant pour le Jeu Mortel Démocratique.\n C'est un fait.\n Il est du côté des kidnappeurs...\"",
+            "\\.\"Kai était au courant pour ce Jeu Mortel. C'est un fait.\n Il est du côté des kidnappeurs...\"",
             "\\.\"Mais le plus terrifiant...\"",
             "\\.\"C'est que Sara et Joe sont aussi avec eux.\"",
             "\\.\\C[4](Comment oses-tu...?!)",
@@ -17171,7 +17171,7 @@
         ],
         "369-0-message": [
             "Gin Ibushi\nUn collégien plutôt insolent qui finit ses phrases\npar \"ouaf\" et \"miaou\".\"",
-            "\\.Il adore sa \"grande sœur Sara\".\nIl a fait son dur à cuire lors des épreuves, mais après\navoir été piégé dans une cage, il a été terrorisé.",
+            "\\.Il adore sa « grande sœur Sara ».\nIl a fait son dur à cuire lors des épreuves, mais après\navoir été piégé dans une cage, il a été terrorisé.",
             "\\.La note que Gin a trouvée dans la déchiqueteuse\na révélé qu'Alice Yabusame était un meurtrier."
         ],
         "370-0-message": [
@@ -17661,7 +17661,7 @@
             "\\.\"Et là... j'ai vu... mes probabilités...\"",
             "\\C[10]\"0%...\"",
             "\\.\\sp[15]\\C[10]\"... Une mort certaine.\"",
-            "\\.\"Je n'ai absolument aucune chance de survivre\n au Jeu Mortel Démocratique...\"",
+            "\\.\"Je n'ai absolument aucune chance de survivre\n à ce Jeu Mortel...\"",
             "\\.\"C'est pourquoi... j'ai dû m'abandonner « moi »...!!\"",
             "\\C[4](Je ne veux pas mourir...)",
             "\\.\\C[4](Je n'arrête pas de trembler...)",
@@ -20552,7 +20552,7 @@
             "\\.\"Désolée... Je suis désolée...\"",
             "\\.\"C'est pas la faute de Nao !!\n C'est Gashu, le méchant dans cette histoire !!\"",
             "\\.\"Hé ! Arrête de blâmer Nao !!\n C'est plutôt Gashu qu'on devrait blâmer, non ?!\"",
-            "\\.\"Réponds-moi, Gashu.\n Les « candidats »... Ce Jeu Mortel Démocratique...\n Qu'est-ce que tout ça signifie ?\"",
+            "\\.\"Réponds-moi, Gashu.\n Les « Candidats »... Ce Jeu Mortel...\n Qu'est-ce que tout ça signifie ?\"",
             "\\.\"...\"",
             "\\.\"Je ne dirai qu'une seule chose...\"",
             "\\.\"Vous tous, n'avez-vous jamais éprouvé\n de doutes quant à \\C[2]votre éducation\\C[0] ?\"\\.",
@@ -21016,7 +21016,7 @@
             "\\.\\C[3]Je suis fatiguée...",
             "\\.\\C[3]Je ne veux pas mourir...",
             "\\.\\C[3]Je veux juste rentrer chez moi...",
-            "\\.\\C[3]J'en ai assez... de ce Jeu Mortel Démocratique...",
+            "\\.\\C[3]J'en ai assez... de jouer à ce Jeu Mortel...",
             "\\.\\sp[18]\\C[10]Même si c'est au prix de vos vies...",
             "\\.\\C[3]Et maintenant...",
             "\\.\\C[3]... Adieu...",
@@ -21900,7 +21900,7 @@
             "\\.\"Hé ben... Tout était vrai.\"",
             "\\.\"J'pas encore parlé d'ma Première Épreuve, ouais ?\"",
             "\\.\"Vous pouvez m'croire quand j'vous dis\n que ç'faisait ni queue ni tête...\"",
-            "\\.\"On m'a dit...\n « Mets en place les accessoires du Jeu Principal »...\"",
+            "\\.\"On m'a dit...\n « Mets en place les accessoires du Jeu Mortel » ...\"",
             "\\.\"C'était vrai, alors ?\n Tu es celui qui a placé les cartes ?!\"",
             "\\.\"Ouais...\n Après, j'savais pas encore c'que tout ça signifiait...\"",
             "\\.\"Mais quand j'ai tout appris, \n j'compris qu'Kai était fichu...!!\"",
@@ -22730,10 +22730,10 @@
             "\\.\"Hayasaka...\"",
             "\\.\"Tu me connais déjà... n'est-ce pas ?\"",
             "\\.\"M-Mais de quoi parlez-vous...?\"",
-            "\\.\"Peut-être que tu es au courant quelque chose\n à propos de ce Jeu Mortel Démocratique ?\"",
+            "\\.\"Peut-être que tu es au courant quelque chose\n à propos de ce Jeu Mortel ?\"",
             "\\.\"Tu sais quelque chose, pas vrai ?\"",
             "\\.\"J-Je ne comprends pas ce que vous insinuez...\"",
-            "\\.\"Ne joue pas les idiots avec moi.\n Je parle du Jeu Mortel Démocratique.\"",
+            "\\.\"Ne joue pas les idiots avec moi.\n Je parle de ce Jeu Mortel.\"",
             "\\.\"...\n ...\n ...\"",
             "\\.\"Vous avez regardé ma vidéo de victime, je suppose...?\"",
             "\\.\"...\"",
@@ -22852,7 +22852,7 @@
             "\\.\"Euh, hmm... Les gens forts, j'imagine ?\"",
             "\\.\"Je vois, je voiiiiis !\n C'est vrai que c'est agréable d'avoir quelqu'un\n capable de nous soutenir !\"",
             "\\.\"C-C'est vrai.\"",
-            "\\.\"... Mais Sara, c'est toi la personne la plus forte\n dans ce Jeu Mortel Démocratique, n'est-ce pas ?",
+            "\\.\"... Mais Sara, c'est toi la personne la plus forte\n dans ce Jeu Mortel, n'est-ce pas ?\"",
             "\\.\\C[4](Est-ce qu'elle connaît les taux de victoire...?)",
             "\\.\"Euh, je dirais... Les personnes gentilles ?\"",
             "\\.\"Je comprends totalement !\n Les gens qui sont foncièrement gentils sont\n les meilleurs, après tout !\"",
@@ -23068,7 +23068,7 @@
             "\\.\"Ce truc rouge sur son torse... Ça m'intrigue...\""
         ],
         "1404-0-message": [
-            "\\C[3]Feuilles où figurent les noms de 16 participants,\nsur les 20 du Jeu Mortel Démocratique."
+            "\\C[3]Listes où figurent les noms de 16 participants,\nsur les 20 du Jeu Mortel Démocratique."
         ],
         "1415-0-message": [
             "\\.\\C[4](Si c'était du magma, il ferait beaucoup\n plus chaud dans toute la pièce...!)",
@@ -24243,7 +24243,7 @@
             "\\.\"Cela dit, ce n'est pas pour autant que je vais te\n laisser t'en tirer comme ça.\"",
             "\"P-Peut-être qu'il parlait d'autre chose !\n De jeux vidéo, de sports !\"",
             "\\.\"Ahahah, tu pourrais continuer la liste à l'infini,\n mais...\"",
-            "\\.\"... Au début, il est écrit qu'ils parlent du\n Jeu Mortel Démocratique.\n Logique de partir du principe qu'ils parlent\n de ça, non ?\"",
+            "\\.\"... Le terme Jeu Mortel est employé au début.\n Logique de partir du principe qu'ils parlent\n de celui-là, non ?\"",
             "\"M-Mais même...!\"",
             "\\.\"Ahahah, ouiiii ? Je ne t'entends pas.\"",
             "\\.\\C[4](Ça n'a pas marché...!)",
@@ -24666,7 +24666,7 @@
             "\\.\\C[4](Moi non plus, mais au moins j'essaye...!)",
             "\\.\"Mais bon, je suis tout même ravi.\n J'ai sincèrement envie qu'on se réconcilie, Sara.\"",
             "\\.\"Je ne veux plus que les kidnappeurs continuent de\n nous faire danser dans leurs mains comme des pantins.\"",
-            "\\.\"Je veux mettre fin à ce ridicule Jeu Mortel\n Démocratique.\n Il faut à tout prix qu'on s'échappe d'ici.\"",
+            "\\.\"Je veux mettre fin à ce Jeu Mortel ridicule.\n Il faut à tout prix qu'on s'échappe d'ici.\"",
             "\\.\"Et quand je dis « on »,\n je parle bien de nous tous...!\"",
             "\\.\"Quel discours émouvant.\"",
             "\\.\"Je suis très sérieux, Keiji.\"",
@@ -25734,7 +25734,7 @@
             "\\C[3]Une carte portant l'inscription \"Maître des Clés\".\nElle indique : \"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe."
         ],
         "43-1-message": [
-            "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
+            "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, on peut y lire \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
         ],
         "4-2-message": [
             "\\C[3]Une déchiqueteuse électrique.",
@@ -25807,7 +25807,7 @@
             "\\C[3]Une carte portant l'inscription \"Maître des Clés\".\nElle indique : \"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe."
         ],
         "7-1-message": [
-            "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
+            "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, on peut y lire \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
         ]
     },
     "map65": {
@@ -26364,10 +26364,10 @@
             "\\.\"Keiji.\"",
             "\\.\"...?\"",
             "\\.\"Je me demandais...\"",
-            "\\.\"Y a-t-il déjà eu une affaire similaire à ce\n Jeu Mortel Démocratique, dans le passé...?\"",
+            "\\.\"Y a-t-il déjà eu une affaire similaire à ce\n Jeu Mortel, dans le passé...?\"",
             "\\.\"...\"",
             "\\.\"... Ouais.\"",
-            "\\.\"Tu es policier.\n N'aurais-tu pas une idée d'organisation qui \n aurait pu réaliser un tel Jeu Mortel Démocratique ?\"",
+            "\\.\"Tu es policier.\n N'aurais-tu pas une idée d'organisation qui \n aurait pu réaliser un tel Jeu Mortel ?\"",
             "\\.\"...\"",
             "\\.\"... J'ai peut-être ma petite idée.\"",
             "\\.\"Quoi...?!\"",
@@ -28137,7 +28137,7 @@
             "\\.\\sw[324]\"... Pardonnez-moi de ne pas pouvoir\n plus vous assister.\"\\sw[325]",
             "\\.\"Que savez-vous du Jeu Mortel Démocratique ?\"",
             "\\.\\sw[324]\"Hmm... J'avais oublié.\"\\sw[325]",
-            "\\.\\sw[324]\"Maintenant que nous en parlons...\n Je n'y avais pas plus réfléchi que ça, mais...\n Vous êtes obligés de participer à ces jeux, correct ?\"\\sw[325]",
+            "\\.\\sw[324]\"Maintenant que nous en parlons...\n Je n'y avais pas plus réfléchi que ça, mais...\n Vous êtes obligés de jouer à ce Jeu Mortel, correct ?\"\\sw[325]",
             "\\.\\sw[324]\"C'est une situation... absolument scandaleuse.\"\\sw[325]",
             "\\.\\sw[324]\"Si seulement vous aviez une piste...\n Moi... Je ne sais rien...\"\\sw[325]",
             "\\.\\sw[324]\"... Pardonnez-moi de ne pas pouvoir\n plus vous assister.\"\\sw[325]",
@@ -28583,7 +28583,7 @@
             "\\C[3]Une carte portant l'inscription \"Maître des Clés\".\nElle indique : \"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe."
         ],
         "18-1-message": [
-            "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
+            "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, on peut y lire \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
         ],
         "14-1-message": [
             "\\C[3]La poubelle est vide."
@@ -28738,7 +28738,7 @@
             "\\.\\C[4](Le registre des mails...\n Sou s'est mis à se méfier de Kai après les avoir lus.)",
             "\\.\\C[4](Nous devons savoir si c'était vrai ou faux...!)",
             "\\.\\C[3]J'ouvre les mails que Kai a envoyés.",
-            "\\.Comme prévu, 17 personnes ont été saisies.\nJuste au cas où, il n'y a pas d'erreur quant à la\ndate du Jeu Mortel Démocratique, n'est-ce pas ?\nTout se passe sans encombres.",
+            "\\.Comme prévu, 17 personnes ont été saisies.\nJuste au cas où, il n'y a pas d'erreur quant à la\ndate du Jeu Mortel, n'est-ce pas ?\nTout se passe sans encombres.",
             "\\.Je suis aussi profondément attaché à Mademoiselle Sara.\nJe la protégerai coûte que coûte.\n\nJe suis prêt à consacrer ma vie aux Chidouins.",
             "\\.L'heure est bientôt venue.\n\nOsez blesser Sara Chidouin et je serai votre ennemi.\nJe vous ferai face, même à vous.",
             "\\.Mademoiselle Sara est impatiente à l'idée\nd'y participer.\nDe même, son \\C[2]ami\\C[0] y prendra sûrement part.",
@@ -28787,7 +28787,7 @@
             "\\.\"Calmez-vous ! Continuez d'lire...!\"",
             "\\.Groupe de Mails N°4",
             "\\.\\C[10]Êtes-vous le messager ?\nVous ne devez pas utiliser cette adresse.\nVous devriez le savoir.\nDonnez-moi le rapport, mais suivez les règles désormais.",
-            "\\.Comme prévu, 17 personnes ont été saisies.\nJuste au cas où, il n'y a pas d'erreur quant à la\ndate du Jeu Mortel Démocratique, n'est-ce pas ?\nTout se passe sans encombres.",
+            "\\.Comme prévu, 17 personnes ont été saisies.\nJuste au cas où, il n'y a pas d'erreur quant à la\ndate du Jeu Mortel, n'est-ce pas ?\nTout se passe sans encombres.",
             "\\.\\C[10]Très bien. Vous avez fait du bon travail.",
             "\\.\\C[10]... En vain.",
             "\\.\\C[10]Pensiez-vous pouvoir vous faire passer pour\nmon messager et perturber les choses... Kai ?",
@@ -29094,7 +29094,7 @@
             "\\.\"... Je...\"",
             "\\.\"... ne suis pas une personne égoïste.\"",
             "\\.\"Je comptais me faire pardonner pour mon crime...!\n Auprès de la famille de la personne que j'ai tué !!\n Et de la mienne...!!\"",
-            "\\.\"Si seulement...\n Il y avait pas eu ce fichu Jeu Mortel\n Démocratique...!!\"",
+            "\\.\"Si seulement...\n Il y avait pas eu ce fichu Jeu Mortel...!!\"",
             "\\.\"J'ai... pas le temps de régler tout ça\n dans le bon ordre...\"",
             "\\.\"Alors avant de mourir, je...\"",
             "\\.\"Je veux m'excuser auprès de Reko...\"",
@@ -32140,7 +32140,7 @@
             "\\.\\sp[15]\"Ceux que je dois vraiment tuer, ce sont...\"",
             "\\.\\C[4](Alice...)",
             "\\.\\C[3]Ses yeux... brûlaient de vengeance.",
-            "\\.\\C[3]De vengeance envers l'ennemi qui a organisé\nce Jeu Mortel Démocratique.",
+            "\\.\\C[3]De vengeance envers l'ennemi qui a organisé\nle Jeu Mortel Démocratique.",
             "\\.\\C[3]La colère, la haine...\nVoilà la seule voie qu'Alice qu'emprunterait\nmaintenant.",
             "\\.\\C[3]Et moi, quelle voie vais-je emprunter...?",
             "\\.\\C[4](... La question ne se pose même pas.)",
@@ -32352,14 +32352,14 @@
             "\\.\\C[5]Celle de vous protéger et de prendre soin de vous\ndepuis les ombres.",
             "\\.\\C[5]À vrai dire, je n'avais initialement que\npeu d'intérêt pour cette tâche.",
             "\\.\\C[5]Pas jusqu'à ce que les plans du Jeu Mortel Démocratique\nne commencent à réellement prendre forme.",
-            "\\.\\C[5]J'ignore moi-même l'objectif de cette conspiration.",
+            "\\.\\C[5]J'ignore moi-même l'objectif de ce Jeu Mortel.",
             "\\.\\C[5]Cependant, et bien que cela ne soit que\nmon impression...",
             "\\.\\C[5]Mademoiselle Sara.\nIl est probable que tout cela tourne autour de vous.",
             "\\.\\C[5]Bien sûr, je crois aussi au fait que vous n'êtes\nqu'une victime, Mademoiselle Sara.",
             "\\.\\C[5]Néanmoins, l'organisation a besoin de vous.",
             "\\.\\C[5]Et ils n'hésiteront pas à employer tous les\nmoyens nécessaires pour arriver à leurs fins.",
             "\\.\\C[5]Le nom de l'organisation en question est \\C[2]ASU-NARO\\C[5].\n\nIl s'agit d'une organisation secrète à la technologie\nsurdéveloppée dans une multitude de domaines.",
-            "\\.\\C[5]Ce Jeu Mortel Démocratique ne sert ni plaisir,\nni vengeance.",
+            "\\.\\C[5]Ce Jeu Mortel ne sert ni plaisir, ni vengeance.",
             "\\.\\C[5]À leurs yeux, cette mission est inéluctable.\n... Telle est la conviction de mon père.",
             "\\.\\C[5]Cette organisation a conduit mon père à la folie.\nVous pourriez être amenée à le confronter.",
             "\\.\\C[5]L'heure venue, je vous en prie...\nVainquez mon père, Gashu.",
@@ -32395,7 +32395,7 @@
             "\\.\"T-Tu m'as fait peur... Que t'arrives t-il ?\"",
             "\\.\"C'est l'même nom qu'mon orphelinat !!\"",
             "\\.\"... Calme-toi. Reprenons là où on en était.\"",
-            "\\.\\C[5]Ce Jeu Mortel Démocratique ne sert ni plaisir,\nni vengeance.",
+            "\\.\\C[5]Ce Jeu Mortel ne sert ni plaisir, ni vengeance.",
             "\\.\\C[5]À leurs yeux, cette mission est inéluctable.\n... Telle est la conviction de mon père.",
             "\"Son père...?\"",
             "\\C[5]Cette organisation a conduit mon père à la folie.\nVous pourriez être amenée à le confronter.",
@@ -32944,9 +32944,9 @@
             "\\.\\sw[324]\"... Hmm ?\"\\sw[325]",
             "\\.\"C'est toi, le cerveau derrière ce Jeu Mortel...?\"",
             "\\.\\sw[324]\"Shin...\"\\sw[325]",
-            "\\.\\sw[324]\"Ahaha. À toi de saisir la vérité de tes propres mains...\n Je te l'ai pourtant appris, non...?\"\\sw[325]",
+            "\\.\\sw[324]\"Ahaha. Saisis la vérité de tes propres mains...\n C'est ce que je t'ai enseigné, non...?\"\\sw[325]",
             "\\.\"...\"",
-            "\\.\\sw[324]\"Ahh... Ne sois pas si triste.\n Je n'ai pas l'intention de le cacher...\"\\sw[325]",
+            "\\.\\sw[324]\"Ahh... Ne prends pas cet air si triste.\n Je n'ai pas l'intention de le cacher...\"\\sw[325]",
             "\\.\"Bientôt... Je veux que vous soyez tous au courant.\"",
             "\\.\"Au... Au courant de quoi ?!\"",
             "\\.\"Au courant de quoi...?!\"",
@@ -36254,7 +36254,7 @@
             "\\.\\C[3]Une sortie...",
             "\\.\\C[3]S'il y a bien une sortie comme Sou l'affirme...",
             "\\.\\C[3]Sommes-nous sauvés...?",
-            "\\.\\C[3]Sauvés... de ce Jeu Mortel Démocratique...",
+            "\\.\\C[3]Sauvés... de ce Jeu Mortel...",
             "\\.\"Dis, grande sœur Sara...\"",
             "\\.\"Qu'est-ce qu'il y a, Gin ?\"",
             "\\.\"Quand on sera rentrés chez nous...\n On se reverra, miaou ?\"",
@@ -38073,7 +38073,7 @@
             "\\.\"Hein...?\""
         ],
         "36-1-message": [
-            "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
+            "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, on peut y lire \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
         ],
         "2-1-message": [
             "\"Sara !!\"",
@@ -38170,7 +38170,7 @@
             "\\C[3]Une carte portant l'inscription \"Maître des Clés\".\nElle indique : \"Il s'agit d'une clé vers la sortie.\"\nJe mourrai si quelqu'un apprend qu'elle existe."
         ],
         "40-1-message": [
-            "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, il est écrit \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
+            "\\C[3]Une boîte avec une note sur laquelle est inscrit\n\"Cet objet est à votre libre disposition\".\nÀ l'intérieur, on peut y lire \"\\C[7]3\\C[0] 6 1\\C[7] 8 0\\C[0] 2\\C[3]\"."
         ],
         "2-2-message": [
             "\\C[3]Un extravagant festin.",
@@ -38545,7 +38545,7 @@
             "\\.\\sw[560]\"J'en ai aucune idée...\"\\sw[565]",
             "\\.\\C[4](Ce qu'ils ont en commun...?\n Je me demande si ça existe...)",
             "\\.\\sw[560]\"Que tu le croies ou non...\n Je pense que c'est important, la famille. Pas toi ?\n Je veux montrer à mes parents que je les apprécie.\"\\sw[565]",
-            "\\.\\sw[560]\"Mais genre, là de suite...\n La moi originale est dans ce Jeu Mortel Démocratique,\n c'est ça ?\"\\sw[565]",
+            "\\.\\sw[560]\"Mais genre, là de suite...\n La moi originale est dans ce Jeu Mortel, c'est ça ?\"\\sw[565]",
             "\\.\\sw[560]\"Si elle meurt, elle... pourra rien faire.\n Du coup, dit comme ça, c'est ma propre vie\n le plus important, non ?\"\\sw[565]",
             "\\.\"... Et tes instruments, alors ?\"",
             "\\.\\sw[560]\"Mes instruments...?\"\\sw[565]",
@@ -38590,7 +38590,7 @@
             "\\.\"... Aimerais-tu les rencontrer ?\"",
             "\\.\\sw[562]\"Si on pouvait papoter, rigoler tranquillou un peu,\n en mode 'Quelle vie géniale'...\n Ce serait l'rêve.\"\\sw[566]",
             "\\.\\C[4](Q-taro...)",
-            "\\.\\sw[562]\"Oh, c'est vrai.\n Z'êtes coincés dans l'Jeu Mortel Démocratique,\n c'ça...?\"\\sw[566]",
+            "\\.\\sw[562]\"Oh, c'est vrai.\n Z'êtes coincés dans l'Jeu Mortel, c'ça...?\"\\sw[566]",
             "\\.\\sw[562]\"Me connaissant, j'crois pas que j'ai pensé\n à mourir une seule seconde.\"\\sw[566]",
             "\\.\\sw[562]\"J'dirais même qu'pour les remplaçants comme moi...\n Ma vie est aussi en jeu avec l'baseball !\n Comme l'Jeu Mortel Démocratique !\"\\sw[566]",
             "\\.\\C[4](Ne parle pas de ça aussi légèrement...)",
