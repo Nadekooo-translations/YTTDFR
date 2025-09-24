@@ -32855,14 +32855,14 @@
     },
     "map197": {
         "20-1-message": [
-            null,
+            "\\C[3]Une peinture de Sou avec un grand sourire.",
             "\\.\\C[4](Sou...)",
-            null,
-            null,
-            null,
-            null,
+            "\\.\\C[4](Cette peinture... qu'est-ce que...?)",
+            "\\.\"Cette peinture... Je me demande ce qu'elle fait là...\"",
+            "\\.\"Kanna...\"",
+            "\\.\"... Kanna aurait tellement aimé le voir\n avec une telle expression...\"",
             "\\.\"...\"",
-            null,
+            "\\.\"C'est dégoûtant...\n Pourquoi ils exposent un truc pareil ?\"",
             "\\.\"...\""
         ],
         "106-3-message": [
@@ -32999,18 +32999,18 @@
             "\\.\"...\""
         ],
         "89-1-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\C[3]Une peinture représentant un paysage.",
+            "\\.\\C[4](Je crois qu’il y a aussi une peinture d’une école\n dans la salle des casiers...)",
+            "\"Trop haut pour vérifier... Qu'est-ce qu'on fait ?\"",
+            "\\.\\C[4](Hmm...)",
+            "\"Trouvons quelque chose sur lequel on peut monter...\n Tiens, il y a ces canapés, juste ici.\"",
+            "\\.\"Mais ils sont fixés au sol, tu vois ?\"",
+            "\\.\"Hmm...\"",
+            "\\.\"Si Keiji était là pour que je monte sur son dos,\n je pourrais certainement l'atteindre...\"",
+            "\"On peut l'atteindre en montant sur un dos ?\"",
+            "\\.\"M-Monter sur le dos ?!\"",
+            "\\.\"Si Keiji était là, ce serait possible, mais...\"",
+            "\"Une pyramide humaine !\n Est-ce qu'on peut faire comme si c'était un exercice\n collectif de gymnastique ?\"",
             null,
             null,
             null,
@@ -33104,9 +33104,9 @@
             "\\.\"...\""
         ],
         "19-3-message": [
-            null,
-            null,
-            null,
+            "\\.\\C[4](Tiens...? Cet espace est vide...\n Est-ce que ça a toujours été le cas ?)",
+            "\\C[3]Une peinture de Joe.",
+            "\\C[3]Une peinture d'un garçon dont le corps est transpercé.",
             "\"...\""
         ],
         "106-1-message": [
@@ -33141,7 +33141,7 @@
             "\\.\\C[4](...\n ...)"
         ],
         "19-4-message": [
-            null,
+            "\\C[3]Une peinture de Joe.",
             "\\.\\C[4](...)"
         ],
         "15-1-message": [
@@ -33156,7 +33156,48 @@
             "\\.\"Je... vais bien.\"",
             "\\.\"Ce genre de chose ne m'atteindra plus jamais.\"",
             "\\.\"Mais même... Je veux pas que tu regardes...\"",
-            "\\.\"D... D'accord.\""
+            "\\.\"D... D'accord.\"",
+            "\\.\\C[4](Le visage est caché dans l'ombre...\n Mais qui cela peut-il bien être...?)"
+        ],
+        "19-2-message": [
+            "\\C[3]Une peinture de Joe.",
+            "\\C[3]Une peinture d'un garçon dont le corps est transpercé.",
+            "\"... On y va.\"",
+            "\\.\"Oui...\""
+        ],
+        "20-2-message": [
+            "\\C[3]Une peinture de Sou avec un grand sourire."
+        ],
+        "21-1-message": [
+            "\\C[3]Une peinture d'une femme effondrée\ndans une mare de sang.",
+            "\\.\\C[4](Étrangement, ça me dit quelque chose...)"
+        ],
+        "22-1-message": [
+            "\\C[3]Une toile très douloureuse à regarder,\nmontrant quelqu’un effondré au sol."
+        ],
+        "23-1-message": [
+            "\\C[3]Une peinture représentant un paysage."
+        ],
+        "24-1-message": [
+            "\\C[3]Une peinture d'une main, d’où le sang coule abondamment.",
+            "\\.\\C[4](...\n ...\n ...)"
+        ],
+        "25-1-message": [
+            "\\C[3]Une peinture d'une exécution.",
+            "\\.\\C[4](C'est le même dispositif qui a été employé pour\n ma Première Épreuve, ainsi que celle de Kanna...!)",
+            "\\.\\C[4](C'est le même dispositif qui a été employé\n pour ma Première Épreuve..!)",
+            "\"...\n ...\n ...\"",
+            "\\.\"... Non, ne regarde pas, Kanna.\n Viens plutôt par ici...\"",
+            "\\.\"D... D'accord...\"",
+            "\\.\\C[4](Maintenant que j'y pense...\n À ce moment-là, comment j'ai fait pour...?)",
+            "\\.\\C[4](... Non, ce n’est pas le moment d’y penser...)"
+        ],
+        "72-4-message": [
+            "\\C[3]Derrière le tableau, il y a un interrupteur\nportant l’inscription “Casier Secret”.",
+            "\\C[3]Il y a un genre d'interrupteur derrière le tableau."
+        ],
+        "72-7-message": [
+            "\\C[3]Derrière le tableau, il y a un interrupteur\nportant l’inscription “Casier Secret”."
         ]
     },
     "map198": {
