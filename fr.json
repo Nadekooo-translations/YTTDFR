@@ -32951,12 +32951,12 @@
             "\\.\"Au... Au courant de quoi ?!\"",
             "\\.\"Au courant de quoi...?!\"",
             "\\.\\sw[324]\"Oh, d'absolument tout.\"\\sw[325]",
-            "\\.\\sw[324]\"Vos souvenirs perdus avec moi, et...\"\\sw[325]",
-            "\\.\\sw[324]\"La raison pour laquelle Asunaro\n vous force à vous entretuer, aussi...\"\\sw[325]",
+            "\\.\\sw[324]\"De vos souvenirs perdus avec moi, et...\"\\sw[325]",
+            "\\.\\sw[324]\"De la raison pour laquelle Asunaro\n vous force à vous entretuer, aussi...\"\\sw[325]",
             "\\.\"...!\"",
-            null,
-            null,
-            null,
+            "\\.\"Hmpf...! Eh bien vas-y, crache le morceau !\n J'exige une bonne explication !!\"",
+            "\\.\"Eh bah dépêche-toi de le dire !\n Je veux une bonne explication !!\"",
+            "\\.\\sw[324]\"Ahaha, si je vous le dis, ça serait du gâchis.\"\\sw[325]",
             null,
             null,
             null,
@@ -32992,10 +32992,10 @@
             "\\.\"...\""
         ],
         "14-2-message": [
-            null,
-            null,
-            null,
-            null,
+            "\\C[3]Un portrait de Nao.",
+            "\"... C'était aussi une de vos alliées, c'est ça...?\"",
+            "\\.\"Oui... C'est pour ça... que je ne veux pas regarder...\"",
+            "\\.\"Excuse-moi...\n Pas moyen de t'y habituer, hein...\"",
             "\\.\"...\""
         ],
         "89-1-message": [
@@ -33223,7 +33223,8 @@
             "\"Comment osent-ils faire une chose pareille...?!\"",
             "\\.\"Alice...\"",
             "\\.\"J'ai toujours regretté mon meurtre...\"",
-            "\\.\"Et pourtant...!! Quelqu'un capable de concevoir\n une telle abomination... mérite de crever !!\""
+            "\\.\"Et pourtant...!! Quelqu'un capable de concevoir\n une telle abomination... mérite de crever !!\"",
+            "\\.\"Je t'enterrerai encore et encore !!\n \\N[4]...!!\""
         ]
     },
     "map198": {
