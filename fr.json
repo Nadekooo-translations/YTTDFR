@@ -32855,10 +32855,10 @@
     },
     "map197": {
         "20-1-message": [
-            "\\C[3]Une peinture de Sou avec un grand sourire.",
+            "\\C[3]Un portrait de Sou avec un grand sourire.",
             "\\.\\C[4](Sou...)",
-            "\\.\\C[4](Cette peinture... qu'est-ce que...?)",
-            "\\.\"Cette peinture... Je me demande ce qu'elle fait là...\"",
+            "\\.\\C[4](Ce portrait... qu'est-ce que...?)",
+            "\\.\"Ce portrait... je me demande ce qu'il fait là...\"",
             "\\.\"Kanna...\"",
             "\\.\"... Kanna aurait tellement aimé le voir\n avec une telle expression...\"",
             "\\.\"...\"",
@@ -33168,11 +33168,11 @@
             "\\.\"Oui...\""
         ],
         "20-2-message": [
-            "\\C[3]Une peinture de Sou avec un grand sourire."
+            "\\C[3]Un portrait de Sou avec un grand sourire."
         ],
         "21-1-message": [
             "\\C[3]Une peinture d'une femme effondrée\ndans une mare de sang.",
-            "\\.\\C[4](Étrangement, ça me dit quelque chose...)"
+            "\\.\\C[4](Curieusement, ça me dit quelque chose...)"
         ],
         "22-1-message": [
             "\\C[3]Une toile très douloureuse à regarder,\nmontrant quelqu’un effondré au sol."
@@ -33185,11 +33185,11 @@
             "\\.\\C[4](...\n ...\n ...)"
         ],
         "25-1-message": [
-            "\\C[3]Une peinture d'une exécution.",
+            "\\C[3]Une toile qui représente une exécution.",
             "\\.\\C[4](C'est le même dispositif qui a été employé pour\n ma Première Épreuve, ainsi que celle de Kanna...!)",
             "\\.\\C[4](C'est le même dispositif qui a été employé\n pour ma Première Épreuve..!)",
             "\"...\n ...\n ...\"",
-            "\\.\"... Non, ne regarde pas, Kanna.\n Viens plutôt par ici...\"",
+            "\\.\"... Non, Kanna.\n Viens plutôt par ici...\"",
             "\\.\"D... D'accord...\"",
             "\\.\\C[4](Maintenant que j'y pense...\n À ce moment-là, comment j'ai fait pour...?)",
             "\\.\\C[4](... Non, ce n’est pas le moment d’y penser...)"
@@ -33212,6 +33212,18 @@
             "\"Oh, Sara ! Te voilà.\"",
             "\\.\"Ranmaru...\"",
             "\"Tu t'es bien reposé ?\""
+        ],
+        "14-1-message": [
+            "\\C[3]Un portrait de Nao.",
+            "\\.\\C[4](C'est une photo retouchée...\n Mais pourquoi faire une chose pareille...?!)",
+            "\"Putain...!!\"",
+            "\\.\"Ne regarde pas, Reko...\n C'est fait pour nous provoquer !\"",
+            "\\.\"... Je sais bien.\n Mais... je peux pas laisser passer ça...!!\"",
+            "\\.\"Ça vous fait marrer d'afficher un truc pareil ?!\n J'vais tout faire pour que vous lui demandiez pardon\n auprès d'elle dans l'autre monde, bande d'enfoirés !!\"",
+            "\"Comment osent-ils faire une chose pareille...?!\"",
+            "\\.\"Alice...\"",
+            "\\.\"J'ai toujours regretté mon meurtre...\"",
+            "\\.\"Et pourtant...!! Quelqu'un capable de concevoir\n une telle abomination... mérite de crever !!\""
         ]
     },
     "map198": {
