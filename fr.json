@@ -23214,7 +23214,8 @@
             "\\.\"Sara, t'as fini de chercher ici ?\"",
             "\\.\"Oui. Je ne vois rien d'autre de notable...\"",
             "\\.\"Dans z'cas... Ça veut dire qu'on a fouillé\n toutes les pièces sur la carte de l'étage.\"",
-            "\\.\"Tss... Où se cache ce \\N[4] ?\""
+            "\\.\"Tss... Où se cache ce \\N[4] ?\"",
+            "\\.\"Salaud de \\N[4]...\n Il est introuvable !\""
         ]
     },
     "map107": {
