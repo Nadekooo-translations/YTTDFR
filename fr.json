@@ -32956,37 +32956,44 @@
             "\\.\"...!\"",
             "\\.\"Hmpf...! Eh bien vas-y, crache le morceau !\n J'exige une bonne explication !!\"",
             "\\.\"Eh bah dépêche-toi de le dire !\n Je veux une bonne explication !!\"",
-            "\\.\\sw[324]\"Ahaha, si je vous le dis, ça serait du gâchis.\"\\sw[325]",
+            "\\.\\sw[324]\"Ahaha, si je vous l'expliquais, ça serait du gâchis.\"\\sw[325]",
             "\\.\"Miaouuu ?! Faut savoir, ouaf ?!\"",
             "\\.\\sw[324]\"Je ne vous l'ai pas dit ?\n À vous de le découvrir par vos propres moyens...\"\\sw[325]",
-            "\\.\\sw[324]\"Je vous l’ai déjà dit, non ?\n À vous de le découvrir par vos propres moyens...\"\\sw[325]",
+            "\\.\\sw[324]\"Je viens de vous le dire, non ?\n À vous de le découvrir par vos propres moyens...\"\\sw[325]",
             "\\.\\sw[324]\"Pas d'inquiétude... J’ai préparé des indices.\"\\sw[325]",
             "\\.\\sw[324]\"À cet étage, j’ai recréé plusieurs lieux\n qui vous rappelleront de forts souvenirs.\"\\sw[325]",
             "\\.\\sw[324]\"La clé, c'est de vous souvenir de votre passé...\"\\sw[325]",
             "\\.\"Grrrrrr...!\"",
             "\\.\\sw[324]\"Ah, d'ailleurs. Ce Mini-Jeu du Meurtrier est\n évidemment limité dans le temps, aussi.\"\\sw[325]",
             "\\.\"MiaaaOUUU ?!\"",
-            "\\.\\sw[324]\"La limite, c'est jusqu'à ce que les Pantins\n n'aient plus de batterie ! En d'autres termes,\n c'est leur durée de vie !\"\\sw[325]",
-            "\\.\"C-Combien d'heures avons-nous...?\n Si elle se décharge, est-ce que nos vies...\"",
-            "\\.\\sw[324]\"Je place de grands espoirs en vous. Bonne chance !\"\\sw[325]",
+            "\\.\\sw[324]\"La limite, c'est jusqu'à ce que les Pantins\n n'aient plus de batterie !\n En d'autres termes, c'est leur durée de vie !\"\\sw[325]",
+            "\\.\"C-Combien d'heures nous reste-t-il...?\n Si elle se décharge, est-ce que nous allons...\"",
+            "\\.\\sw[324]\"Je place de grands espoirs en vous.\n Bonne chance !\"\\sw[325]",
             "\\.\"H-Hé, minute !!\"",
             "\\.\\C[3]Le portrait a cessé de bouger.",
             "\\.\"Tss !! C'est purement absurde...!\"",
             "\\.\"Fait chier !! Il s'fout de notre gueule...!\"",
-            "\\.\"Au moins... c'est confirmé.\"",
+            "\\.\"Au moins... ça confirme nos doutes.\"",
             "\\.\"L'organisation qui nous a kidnappés... est Asunaro.\"",
             "\\.\"Asunaro...\"",
-            "\\.\"L'orphelinat d'mon enfance s'appelait aussi Asunaro.\n Alors... y a sûrement un lien, nan ?\"",
-            "\\.\"Qui sait... T'as remarqué des trucs bizarres, là-bas ?\"",
+            "\\.\"Mon orphelinat s'appelait aussi Asunaro.\n Donc... y a sûrement un lien, nan ?\"",
+            "\\.\"Qui sait...\n T'as remarqué des trucs bizarres, là-bas ?\"",
             "\\.\"J'sais pas... Tout l'monde était sympa.\n Ça, j'peux vous l'garantir...\"",
             "\\.\\C[4](Je préfère ne pas y penser... Le fait que toutes\n les bonnes personnes de mon entourage puissent\n être impliquées dans ce Jeu Mortel...)",
             "\\.\"Commençons les recherches...!\n Il y a des indices cachés dans cet étage !\"",
-            "\\.\"T'as raison... Au lieu de cogiter, faut agir.\"",
+            "\\.\"T'as raison... Au lieu de cogiter, mieux vaut agir.\"",
             "\\.\"Kanna aussi, aimerait savoir...\n \\N[4] a l'air de connaître Sou, après tout...\"",
             "\\.\"Ouais...\"",
-            "\\.\"Hé, Sou ! Dis-nous !\n \\N[4], y fait partie d'Asunaro ?!\n Toi, tu l'connais, pas vrai ?!\"",
+            "\\.\"Hé, Sou ! Dis-nous !\n \\N[4], y fait partie d'Asunaro ?!\n Vous vous connaissez, pas vrai ?!\"",
             "\\.\"...\"",
-            "\\.\"Bon... il est temps qu'on sache.\n C'était quoi, votre relation ?\""
+            "\\.\"Il est temps qu'on comprenne\n la nature de votre relation...\"",
+            "\\.\"Quand il était en vie... on était souvent ensemble.\"",
+            "\\.\"...!\"",
+            "\\.\"Mais ça n'a pas d'importance, pour l'instant.\"",
+            "\\.\"Je vous l'ai déjà dit. Ce n'est qu'un ennemi.\n Il ne montrera aucune pitié, même envers moi.\"",
+            "\\.\"D'ailleurs, il risque même d'être encore\n plus enflammé à mon encontre...\"",
+            "\\.\"Je vois...\"",
+            "\\.\\C[4](Sou... a l’air de savoir à quel point\n \\N[4] peut être effrayant...)"
         ],
         "4-1-message": [
             null,
@@ -33216,7 +33223,7 @@
         ],
         "14-1-message": [
             "\\C[3]Un portrait de Nao.",
-            "\\.\\C[4](C'est une photo retouchée...\n Mais pourquoi faire une chose pareille...?!)",
+            "\\.\\C[4](C'est une photo retouchée...\n Mais dans quel but ont-ils fait ça...?!)",
             "\"Putain...!!\"",
             "\\.\"Ne regarde pas, Reko...\n C'est fait pour nous provoquer !\"",
             "\\.\"... Je sais bien.\n Mais... je peux pas laisser passer ça...!!\"",
@@ -33226,6 +33233,17 @@
             "\\.\"J'ai toujours regretté mon meurtre...\"",
             "\\.\"Et pourtant...!! Quelqu'un capable de concevoir\n une telle abomination... mérite de crever !!\"",
             "\\.\"Je t'enterrerai encore et encore !!\n \\N[4]...!!\""
+        ],
+        "1-2-message": [
+            "\\C[3]Le portrait de \\N[4] est immobile."
+        ],
+        "3-1-message": [
+            "\\C[3]Un tableau dont une partie n'est pas peinte.",
+            "\\.\"Ces contours sombres...\n On dirait presque un dessin à colorier.\""
+        ],
+        "3-2-message": [
+            "\\C[3]Un tableau dont une partie n'est pas peinte.",
+            "\\.\"Ces contours sombres...\n On dirait presque un dessin à colorier.\""
         ]
     },
     "map198": {
@@ -37021,7 +37039,7 @@
             "\"Dépêchons ! La salle de contrôle !\""
         ],
         "2-1-message": [
-            "\\.\"...Hmm ? Des ascenceurs ?\"",
+            "\\.\"...Hmm ? Des ascenseurs ?\"",
             "\\.\"Jusqu'où est-ce qu'ils mènent, miaou...?\"",
             "\\.\"Ah ? On dirait qu'ils ne fonctionnent pas...\"",
             "\\.\"Bon... Ils ne fonctionnent pas.\""
