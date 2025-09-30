@@ -23208,6 +23208,13 @@
         ],
         "1414-0-message": [
             "\"Sara ! Il y a un interrupteur sur le poteau\n arrière-gauche ! Devrais-je appuyer dessus ?\""
+        ],
+        "1087-0-message": [
+            "\\.\\C[4](Je devrais chercher encore un peu, ici...)",
+            "\\.\"Sara, t'as fini de chercher ici ?\"",
+            "\\.\"Oui. Je ne vois rien d'autre de notable...\"",
+            "\\.\"Dans z'cas... Ça veut dire qu'on a fouillé\n toutes les pièces sur la carte de l'étage.\"",
+            "\\.\"Tss... Où se cache ce \\N[4] ?\""
         ]
     },
     "map107": {
@@ -33376,6 +33383,64 @@
             null,
             null,
             "\\.\\C[4](...)"
+        ],
+        "2-1-message": [
+            "\\.\"...!\"",
+            "\\.\"C'est des casiers, miaou ?\"",
+            "\\.\"C't'endroit est vraiment louche, j'vous l'dis...\"",
+            "\\.\"... Sois prudente lorsque tu cherches par ici, Sara.\"",
+            "\\.\"Hein...? D-D'accord !\""
+        ],
+        "2-3-message": [
+            "\\.\"Hé, Sara.\""
+        ],
+        "16-1-message": [
+            "\\C[3]Il y a une tache noire au sol.",
+            "\\.\\C[4](Est-ce que quelque chose a coulé à cet endroit ?)"
+        ],
+        "21-1-message": [
+            "\\C[3]Il y a une tache rouge sur le plafond.",
+            "\\.\\C[4](Est-ce que c'est une trace de sang...?!)",
+            "\\.\"Ça fait aucun doute...\"",
+            "\\.\"Keiji !\"",
+            "\\.\"Toi aussi, tu l'as remarquée ?\"",
+            "\\.\"Ouaip... Y a encore une légère odeur.\"",
+            "\\.\"On dirait qu'elle a été nettoyée une fois...\n et que quelque temps s'est écoulé depuis.\"",
+            "\\.\"Pourquoi y a-t-il du sang sur le plafond...?!\"",
+            "\\.\"J'sais pas... Mais là, il ne fait pas de gouttes.\"",
+            "\\.\"Ça a sûrement été nettoyé, et depuis quelque temps.\"",
+            "\\.\"Cette pièce est dangereuse !\n On ferait peut-être mieux de partir...!\"",
+            "\\.\"Je dirais plutôt qu'elle \"était\" dangereuse.\"",
+            "\\.\"On dirait qu'elle a été un peu nettoyée...\n Et que pas mal de temps s'est écoulé depuis.\"",
+            "\\.\"*snif*... Il s'est passé quoi ici, miaou...?\"",
+            "\\.\"Je parie qu'un piège s'est déjà activé ici...\"",
+            "\\.\\C[4](Quelqu'un serait-il venu dans cette pièce ?\n Et depuis quelque temps, apparemment...)",
+            "\"Ne me dites pas... que \\N[4] a déclenché le piège\n par erreur... et qu'il s'est ensuite enfui ?!\"",
+            "\\.\"... Dans ce cas, il serait au bord de la mort...\n Ça serait une aubaine pour le mini-jeu bonus.\"",
+            "\\.\"Ouais, mais... rappelez-vous,\n les poupées ne saignent pas.\"",
+            "\\.\\C[4](Ah, c'est vrai... Alors, qu'est-ce qui\n a pu se passer, dans cette pièce ?)",
+            "\"Est-ce que cette pièce a été utilisée\n pour une Première Épreuve ?\"",
+            "\\.\"... Possible.\"",
+            "\\.\"Mais malgré ça, les Pantins\n n'y réagissent pas vraiment.\"",
+            "\\.\"Je pensais que l'un d'eux réagirait, mais bon...\"",
+            "\\.\\C[4](En effet... N'importe qui serait choqué\n en voyant l'endroit de sa propre mort.)",
+            "\\.\"Miaouuu... Je veux pas être ici, ouaf...\""
+        ],
+        "21-1-choice": [
+            "Tu l'as remarquée ?\nPourquoi sur le plafond ?\nC'est dangereux, ici !",
+            "\\N[4]...?\nLa Première Épreuve...?"
+        ],
+        "21-2-message": [
+            "\\C[3]Il y a une tache rouge sur le plafond.",
+            "\\.\\C[4](Keiji a dit que c'était une tache de sang\n qui a été nettoyée il y a quelque temps...)"
+        ],
+        "3-1-message": [
+            "\\C[3]Le casier est ouvert.",
+            "\\.\\C[4](Rien à l'intérieur...)"
+        ],
+        "27-1-message": [
+            "\\C[3]Des rebords qui ressemblent à des étagères.",
+            "\\.\\C[4](Je me demande s'il y avait quelque chose dessus ?)"
         ]
     },
     "map199": {
@@ -36920,7 +36985,7 @@
             "\\.\"...\""
         ],
         "2-3-message": [
-            "\\.\"Waouh ! Sara, matte ça !\n Les ascenceurs fonctionnent...\"",
+            "\\.\"Waouh ! Sara, matte ça !\n Les ascenseurs fonctionnent...\"",
             "\\.\"Gin...?! Il s'est passé quoi ?!\"",
             "\\.\"Gin...?! Hé, qu'est-ce qu'y a ?!\"",
             "\\.\"Attends, Hayasaka, ne me dis pas que...!!\"",
@@ -37071,6 +37136,14 @@
         ],
         "3-4-choice": [
             "Fermer tout de suite\nAttendre jusqu'au dernier instant"
+        ],
+        "4-1-message": [
+            "\\C[3]Les boutons ne font rien.",
+            "\\.\\C[4](Ils ne sont pas alimentés...?)"
+        ],
+        "42-1-message": [
+            "\\C[3]Le chiffre 4 est marqué sur le mur.",
+            "\\.\\C[4](Donc, nous sommes au quatrième étage ?)"
         ]
     },
     "map195": {
