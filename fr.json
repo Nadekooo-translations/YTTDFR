@@ -14783,11 +14783,11 @@
             "\\.\"Hé, la p'tite !\n Arrête de bouder et viens avec nous, miaou !\"",
             "\\.\"Vous avez oublié la règle de la \\C[2]paire de colliers\\C[0] ?\n Si je suis \\C[2]trop loin\\C[0] de Keiji, mon collier \\C[2]explose\\C[0].\"",
             "\\.\\C[4](Ah oui, Hinako est de paire avec Keiji...)",
-            "\\.\"Au final, on est des esclaves privés de notre liberté...\"",
-            null,
-            null,
-            null,
-            null,
+            "\\.\"Au bout du compte, ne nous sommes rien d'autre que\n des esclaves à qui on a arraché la liberté...\"",
+            "\\.\"Nous devons tuer nos maîtres...\n ou nous ne serons jamais libres.\"",
+            "\\.\"...\"",
+            "\"Grande sœur Sara, on peut pas\n chercher un peu plus, miaou ?\"",
+            "\\.\\C[4](J'imagine qu'il a raison...)",
             null,
             null,
             null,
@@ -33598,6 +33598,20 @@
         "27-1-message": [
             "\\C[3]Des rebords qui ressemblent à des étagères.",
             "\\.\\C[4](Je me demande s'il y avait quelque chose dessus ?)"
+        ],
+        "60-1-choice": [
+            "Entrer\nAnnuler",
+            "Entrer\nAnnuler"
+        ],
+        "60-2-choice": [
+            "Entrer\nAnnuler"
+        ],
+        "60-5-choice": [
+            "Entrer\nAnnuler",
+            "Entrer\nAnnuler"
+        ],
+        "60-6-choice": [
+            "Entrer\nAnnuler"
         ]
     },
     "map199": {
@@ -37586,7 +37600,27 @@
         "3-3-message": [
             "\\C[3]La porte est ouverte.",
             "\\.\\C[4](Devrais-je entrer...?)",
-            "\\.\"Allons-y...\""
+            "\\.\"Allons-y...\"",
+            "\\.\"Une fois entrés, on va devoir faire face à ce\n qu'il y a dedans nous-mêmes. Faut s'y préparer...\"",
+            "\\.\"Oui...\"",
+            "\"Ce... C'est quoi cet endroit ?\"",
+            "\\C[4](C'est une pièce sacrément soyeuse...)",
+            "\"Bonjour...\"",
+            "\"Hihihi... Mettez-vous à votre aise...\"",
+            "\\.\"Argh...!! Va-t'en, Sara !\n C'est un Obstructeur...!!\"",
+            "\\.\"Je vais chercher du thé !\"",
+            "\"H-Hein ? Elle n'attaque pas...\"",
+            "\"Ce n'est pas une ennemie...?\"",
+            "\\.\"Je ne sais pas, mais...\"",
+            "\"En tout cas... Fouillons cette pièce\n avant qu'elle revienne.\"",
+            "\"On ne devrait pas agir de suite...\n Attendons patiemment.\"",
+            "\\.\"Je veux dire, qui sait quand elle passera à l'attaque ?\n Essayons de trouver une arme ou un truc du genre !\"",
+            "\\.\"H-Hé, Ranmaru...!\"",
+            "\\.\\C[4](Pff, je te jure...)",
+            "\"Tu penses qu'on devrait partir, là ?\""
+        ],
+        "3-3-choice": [
+            "Entrer\nAnnuler"
         ]
     },
     "map207": {
@@ -37741,6 +37775,12 @@
             null,
             null,
             "\\.\\C[4](...\n ...\n ...)"
+        ],
+        "6-4-choice": [
+            "Entrer\nAnnuler"
+        ],
+        "6-5-choice": [
+            "Entrer\nAnnuler"
         ]
     },
     "map232": {
@@ -39657,6 +39697,13 @@
             null,
             null,
             "\\.\"...\r\n ...\r\n ...\""
+        ],
+        "13-1-choice": [
+            "Entrer\nAnnuler"
+        ],
+        "13-2-choice": [
+            null,
+            "Entrer\nAnnuler"
         ]
     },
     "map178": {
