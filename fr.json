@@ -37659,7 +37659,8 @@
             "\\.\"Miaou ?! Je vais tellement pas les enlever, ouaf !\"",
             "\\C[3]Mais la porte est restée fermée.",
             "\\.\"Pourquoi, ouaf ?!\"",
-            "\\.\"Hmm... Peut-être \\C[2]qu'une seule paire\\C[0] peut entrer...\""
+            "\\.\"Hmm...\n J'me demande si seulement \\C[2]une paire\\C[0] peut entrer...\"",
+            "\\.\"Eh ?!\n Alors on doit se battre qu'avec deux personnes...?\""
         ]
     },
     "map207": {
