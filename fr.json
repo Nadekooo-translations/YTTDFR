@@ -37617,10 +37617,49 @@
             "\\.\"Je veux dire, qui sait quand elle passera à l'attaque ?\n Essayons de trouver une arme ou un truc du genre !\"",
             "\\.\"H-Hé, Ranmaru...!\"",
             "\\.\\C[4](Pff, je te jure...)",
-            "\"Tu penses qu'on devrait partir, là ?\""
+            "\"Tu ne penses pas qu'on ferait mieux de partir, là ?\"",
+            "\\.\"Pourquoi tu te dégonfles maintenant ?\n Je t'ai pas dit qu'on devait être prêts ?\"",
+            "\\.\"Qui sait quand elle pourrait attaquer...\n Essayons de trouver une arme ou un truc du genre !\"",
+            "\\.\"H-Hé, Ranmaru...!\"",
+            "\\.\\C[4](Pff, je te jure...)"
         ],
         "3-3-choice": [
-            "Entrer\nAnnuler"
+            "Entrer\nAnnuler",
+            "Fouillons avant qu'elle revienne\nAttendons sagement\nDevrions-nous partir ?"
+        ],
+        "3-6-message": [
+            "\\C[3]La porte est solidement fermée.",
+            "\\.\\C[4](Ce symbole me rend curieuse...)"
+        ],
+        "3-7-message": [
+            "\\C[3]La porte est solidement fermée.",
+            "\\.\\C[4](Maple...\n Si mon hypothèse est bonne, elle est là-dedans...)",
+            "\\C[4](Je dois m'y préparer...)",
+            "\\C[4](Tant que j'y pense, Shin a mentionné un livre\n de la bibliothèque sur comment battre Maple...)",
+            "\"Sara... Me dis pas... qu'elle est là...?\"",
+            "\"Hé, attends, ne me dis pas... qu'elle est là...?\"",
+            "\\.\"Si...\"",
+            "\\.\"Z'te porte est ouverte, même...?\"",
+            "\\.\\C[4](Oh, c'est vrai, aucun d'eux ne sait...)",
+            "\\.\"Cette porte s'ouvre si une paire se tient la main.\"",
+            "\\.\"Ouah...! Une méthode mignonne qui te fait palpiter !\"",
+            "\\.\"Sérieux...?\"",
+            "\\.\"Allez ! On se dépêche pour se tenir les mains, miaou !\"",
+            "\"... Ça t'va, comme ça ?\"",
+            "\\.\"On est prêts !\"",
+            "\"S'comme si j'faisais du baby-sitting...\"",
+            "\\.\"Ne me traite pas comme une enfant, je te prie !\"",
+            "\"Tss... Se t'nir la main avec toi, hein...\"",
+            "\\.\"... Hé, tu peux contrôler un peu ta poigne ?\n Ça fait mal, là...\"",
+            "\"Wow, tes doigts sont super beaux, cheffe !\"",
+            "\\.\"H-Hé, ça chatouille...\"",
+            "\"... Hum, mon cœur palpite de la mauvaise façon, là...\"",
+            "\\.\"Tu as encore peur de moi, hmm...?\"",
+            "\"... Est-ce que ça va tout de même fonctionner\n malgré le fait que tu portes de gants ?\"",
+            "\\.\"Miaou ?! Je vais tellement pas les enlever, ouaf !\"",
+            "\\C[3]Mais la porte est restée fermée.",
+            "\\.\"Pourquoi, ouaf ?!\"",
+            "\\.\"Hmm... Peut-être \\C[2]qu'une seule paire\\C[0] peut entrer...\""
         ]
     },
     "map207": {
