@@ -37660,7 +37660,13 @@
             "\\C[3]Mais la porte est restée fermée.",
             "\\.\"Pourquoi, ouaf ?!\"",
             "\\.\"Hmm...\n J'me demande si seulement \\C[2]une paire\\C[0] peut entrer...\"",
-            "\\.\"Eh ?!\n Alors on doit se battre qu'avec deux personnes...?\""
+            "\\.\"Eh ?!\n Alors on doit se battre qu'avec deux personnes...?\"",
+            "\\.\"Non, on devrait avoir une discussion avec elle\n afin qu'elle nous remette la carte d'identification.\"",
+            "\\.\"En d'autres termes, on doit lui voler la carte\n d'identification avec seulement deux personnes...\"",
+            "\\.\"Non, on devrait avoir une discussion avec elle\n afin qu'elle nous remette la carte d'identification.\"",
+            "\\.\"Merde... Bon, qui s'y colle ?\"",
+            "\\.\"Mais... qui va y aller ?\"",
+            "\\.\"Qui voudrait faire quelque chose d'aussi dangereux...?\""
         ]
     },
     "map207": {
