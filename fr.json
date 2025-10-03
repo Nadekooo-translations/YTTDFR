@@ -1151,7 +1151,7 @@
             "\\.\"...!\"",
             "\\.\"Bouahaha...\"",
             "\\.\"Si on ne nous fait pas confiance,\n c'en sera fini de nous...\"",
-            "\\.\"Je sais...\n Haha... On est vraiment en bas de l'échelle.\"",
+            "\\.\"Je sais...\n Haha... Nous sommes vraiment en bas de l'échelle.\"",
             "\\.\"Miaou ! T'inquiète, costard-binocles !\n Que t'aies une arme ou pas, tu peux toujours \n compter sur moi, ouaf !\"",
             "\\.\"O-Oh, vraiment... Comme c'est rassurant...\n Hahaha...\""
         ],
@@ -23082,7 +23082,7 @@
             "\\.\\C[4](Je vais jeter un œil au plafond...!)"
         ],
         "1417-0-message": [
-            "\\C[3]Le liquide a commencé à envahir le ring.",
+            "\\C[3]Le liquide a enfin commencé à envahir le ring.",
             "\"Argh...! Je n’arrive plus à réfléchir...!\"",
             "\"Et merde !! Attends, qu'est-ce qui va nous arriver ?!\"",
             "\\.\"Le liquide...! Ça monte si vite !!\"",
@@ -33391,7 +33391,7 @@
             "\"Putain...!!\"",
             "\\.\"Ne regarde pas, Reko...\n C'est fait pour nous provoquer !\"",
             "\\.\"... Je sais bien.\n Mais... je peux pas laisser passer ça...!!\"",
-            "\\.\"Ça vous fait marrer d'afficher un truc pareil ?!\n J'vais tout faire pour que vous lui demandiez pardon\n auprès d'elle dans l'autre monde, bande d'enfoirés !!\"",
+            "\\.\"Ça vous fait marrer d'afficher un truc pareil ?!\n J'vais tout faire pour que vous lui demandiez\n pardon dans l'autre monde, bande d'enfoirés !!\"",
             "\"Comment osent-ils faire une chose pareille...?!\"",
             "\\.\"Alice...\"",
             "\\.\"J'ai toujours regretté mon meurtre...\"",
@@ -33612,6 +33612,12 @@
         ],
         "60-6-choice": [
             "Entrer\nAnnuler"
+        ],
+        "25-1-message": [
+            "\"Juste au cas où, examine bien les casiers\n qui ne s'ouvrent pas, aussi !\"",
+            "\\.\"Faites bien attention aux pièges dangereux, d'accord ?\"",
+            "\\.\"Bien sûr ! Je n'ai pas envie de me faire détruire !\"",
+            "\\.\"Et sinon... votre solidité, elle est comment ?\n Vous êtes plus costauds qu'nous, ou quoi ?\""
         ]
     },
     "map199": {
@@ -37755,6 +37761,50 @@
             null,
             null,
             "\\.\"...\""
+        ],
+        "19-1-message": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.\"Pour le moment, fouillons cette pièce...\""
+        ],
+        "20-1-message": [
+            "\\C[3]Un livre rouge vif.",
+            "\\.\\C[3]Sur la quatrième de couverture, on peut lire :\n\"Merci de le rendre dans les délais\".",
+            "\\.\\C[4](Est-ce un livre emprunté...?)"
+        ],
+        "20-2-message": [
+            "\\C[3]Un livre rouge vif.",
+            "\\.\\C[3]Sur la quatrième de couverture, on peut lire :\n\"Merci de le rendre dans les délais\".",
+            "\\.\"Ce ne serait pas un livre de la bibliothèque ?\"",
+            "\\.\"On dirait bien...\"",
+            "\\.\\C[3]Livre Rouge obtenu."
+        ],
+        "20-2-choice": [
+            "Le prendre\nAnnuler"
+        ],
+        "60-1-message": [
+            "\"Ah ! Sara, Ranmaru !\n Je suis contente que vous soyez revenus !\"",
+            "\\.\"S-Salut...\"",
+            "\\.\"Je vais préparer du thé.\n Parlez-moi un peu de vous deux !\"",
+            "\"Bon... pour l'instant, discutons avec elle...\n mais \\C[2]attention à ne surtout pas l’énerver\\C[0]...\"",
+            "\\.\"Compris...\"",
+            "\"Tout est prêt ! Discutons tranquillement, hihi.\"",
+            "\\.\\C[4](Parlons à Maple une fois préparés...)"
+        ],
+        "60-3-message": [
+            "\\.\"J-Je ne peux pas...\"",
+            "\\.\\C[4](Elle agit encore de manière étrange...!)",
+            "\\.\"Je vais vous tuer...! Non...!!\"",
+            "\\.\"Fuyez, tout le monde...!!\"",
+            "\\.\"C'est foutu ! On peut pas s'enfuir...!!\""
         ]
     },
     "map212": {
@@ -41693,7 +41743,7 @@
             "\\C[3]Le niveau du liquide monte petit à petit.",
             "\\C[3]Le niveau du liquide monte petit à petit.",
             "\"Il doit bien y avoir un indice pour résoudre\n l'énigme de cette salle...!\"",
-            "\\C[3]Le liquide déborde sur toute la scène.",
+            "\\C[3]Le liquide déborde un peu plus sur la scène.",
             "\"Miaouuuuuu...!! Ça arrive jusqu'à mes pieds, ouaf !\"",
             "\\C[3]Le niveau du liquide monte petit à petit.",
             "\\C[3]Le liquide déborde excessivement.",
