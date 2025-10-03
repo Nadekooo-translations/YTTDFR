@@ -33423,6 +33423,22 @@
             "Hein, l'ascenseur est réparé ?\"",
             "\\.\"J'en ai marre d'surveiller la gamine,\n alors j'veux aller chercher \\N[4].\"",
             "\\.\"Bah, ça dépend d'lui. J'peux pas bouger tout seul...\""
+        ],
+        "7-1-message": [
+            "\"Quand je pense à Nao... Je suis prête à tout.\n Je pourrais même devenir un démon...!\"",
+            "\\.\"Il faut qu'on se venge...!\n On n'a pas d'autre choix !!\""
+        ],
+        "7-2-message": [
+            "\"J'ai profondément mal au cœur\n quand je vois cette peinture...\"",
+            "\\.\"... S'il le faut,\n je deviendrai un véritable meurtrier...\""
+        ],
+        "7-3-message": [
+            "\"Quoi...? L'ascenseur ?\"",
+            "\\.\"Compris... Le combat approche.\""
+        ],
+        "7-4-message": [
+            "\"Comment...! L'ascenseur ?!\"",
+            "\\.\"Hmpf... Il se pourrait que notre bataille commence\n plus tôt qu’on ne l'ait prévu...\""
         ]
     },
     "map198": {
