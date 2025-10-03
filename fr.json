@@ -33408,6 +33408,21 @@
         "3-2-message": [
             "\\C[3]Un tableau dont une partie n'est pas peinte.",
             "\\.\"Ces contours sombres...\n On dirait presque un dessin à colorier.\""
+        ],
+        "6-1-message": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\"Hé, vous trouvez pas qu'ce gars-là, Sou,\n il a l'air d'être à fond sur \\N[4] ?\"",
+            "\\.\\C[4](Pas faux... Il n'arrête pas de le fixer...)"
+        ],
+        "6-2-message": [
+            "Hein, l'ascenseur est réparé ?\"",
+            "\\.\"J'en ai marre d'surveiller la gamine,\n alors j'veux aller chercher \\N[4].\"",
+            "\\.\"Bah, ça dépend d'lui. J'peux pas bouger tout seul...\""
         ]
     },
     "map198": {
@@ -33572,7 +33587,7 @@
             "\\.\"Ouaip... Y a encore une légère odeur.\"",
             "\\.\"On dirait qu'elle a été nettoyée une fois...\n et que quelque temps s'est écoulé depuis.\"",
             "\\.\"Pourquoi y a-t-il du sang sur le plafond...?!\"",
-            "\\.\"J'sais pas... Mais là, il ne fait pas de gouttes.\"",
+            "\\.\"J'sais pas... Mais là, il fait pas de gouttes.\"",
             "\\.\"Ça a sûrement été nettoyé, et depuis quelque temps.\"",
             "\\.\"Cette pièce est dangereuse !\n On ferait peut-être mieux de partir...!\"",
             "\\.\"Je dirais plutôt qu'elle \"était\" dangereuse.\"",
@@ -33641,21 +33656,21 @@
             "\\.\"Hum... Je crois qu'on ferait mieux de...\"",
             "\\.\"Alleeeez, encore un petit peu ! Yiiiiih !\"",
             "\\.\\C[4](Seigneur...)",
-            "\\.\"Non merci, ça va.\"",
-            "\\.\"*snif*... Sara... Tu me détestes, non...?\"",
+            "\\.\"Non, ça ira.\"",
+            "\\.\"*snif*... Sara... Tu me détestes, ou quoi...?\"",
             "\\.\"Non, c'est pas ça...\"",
             "\\.\"Est-ce que tu veux toucher à sa place, M. Q-taro ?\"",
-            "\\.\"Nan, ça va !\"",
-            "\\.\"D'accord, je vais les masser.\"",
+            "\\.\"Nan merci, ça va !\"",
+            "\\.\"Très bien, je vais les masser.\"",
             "\\.\"Ah ! Pas là...!\"",
             "\\.\"C'est vrai ! Tes épaules sont vraiment détendues...!\"",
             "\\.\"Incroyaaable ! Je suis en meilleure santé qu'à \n l'époque où j'étais humaine ?!\"",
-            "\\.\"Maintenant que tu le dis, on ne vieillira plus,\n et ne tombera plus malade, hein...\"",
+            "\\.\"Maintenant que j'y pense, on ne risque plus\n de vieillir ou de tomber malade, hein...\"",
             "\\.\"Waouh ! C’est trop bien ! Être une poupée,\n c’est pas si mal que ça, finalement !\"",
             "\\.\\C[4](Quel état d'esprit positif...)"
         ],
         "25-1-choice": [
-            "Toucher\nNe pas toucher\nMasser sa joue"
+            "Toucher\nNe pas toucher\nLui faire un massage"
         ],
         "25-2-message": [
             "\"Juste au cas où, examine bien les casiers\n qui ne s'ouvrent pas, aussi !\""
