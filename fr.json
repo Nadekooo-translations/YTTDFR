@@ -33479,12 +33479,20 @@
             "\\.\"...\""
         ],
         "26-1-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\"...\""
+            "\"Parfois, quand j’suis tout seul avec Mai,\n j'baisse ma garde sans m’en rendre compte...\"",
+            "\\.\"Q-taro...\"",
+            "\\.\"Fais de ton mieux. Ta survie en dépend.\"",
+            "\\.\"Ouais ! T'as raison ! J'vais faire gaffe !\"",
+            "\\.\"Maîîître ! Tu veux me porter sur ton dos\n pour que je vérifie ceux d'en haut ?!\"",
+            "\\.\"...\"",
+            "\\.\"Ça ne te plaît pas d'être appairé avec Mai...?\"",
+            "\\.\"Nan, c'pas ça.\n Mai a pas l'air d'être quelqu'un d'mauvais.\"",
+            "\\.\"C'est juste... qu'j'aurais aimé qu'on s'rencontre dans\n un cadre normal. Parce que dans un moment pareil,\n c'est vraiment très dur, t'vois...\"",
+            "\\.\\C[4](Ça doit être dur de basculer entre “on” et “off\"...)",
+            "\\.\"Ne flirte pas avec elle, s'il te plaît.\"",
+            "\\.\"Moi, j'ferai jamais ça !!\n Va dire ça à Mai !!\"",
+            "\\.\"Maître, arrête de papoter !\n Tu dois chercher sérieusement, hein !",
+            "\\.\"Ghhhhh...!!\""
         ],
         "60-3-message": [
             null,
@@ -33619,7 +33627,41 @@
             "\\.\"Bien sûr ! Je n'ai pas envie de me faire détruire !\"",
             "\\.\"Bon... et vos corps, y sont solides comment ?\n Vous êtes plus costauds qu'nous, ou quoi ?\"",
             "\\.\"Aucune idée... Et j'ai pas vraiment envie de tester.\"",
-            "\\.\"S'ils nous avaient fabriqué en super-alliage,\n on n'aurait pas à s'inquiéter de notre survie...\""
+            "\\.\"S'ils nous avaient fabriqué en super-alliage,\n on n'aurait pas à s'inquiéter de notre survie...\"",
+            "\\.\"Ehh ? Je n'aurais pas envie d'être toute raiiide !\"",
+            "\\.\"Regarde, ma peau est toute douce et moelleuse !\n Vas-y, Sara, touche ma joue pour voir !\"",
+            "\\.\"Euh...?\"",
+            "\\.\"Bon, alors... je me lance...\"",
+            "\\.\"Vas-y, je t'en prie !\"",
+            "\\.\\C[3]La joue de Mai était tout aussi\ndouce que celle d'une humaine.",
+            "\\.\\C[4](Incroyable...\n Je ne peux même pas discerner que c'est une poupée...)",
+            "\\.\"Et maintenant, fais voir ta joue, Sara ?\"",
+            "\\.\"Hein ? Ah...\"",
+            "\\.\"Yiiiih, c'est tout douuuuux !\n Voilà, c'est ça, la peau d'une adolescente !\"",
+            "\\.\"Hum... Je crois qu'on ferait mieux de...\"",
+            "\\.\"Alleeeez, encore un petit peu ! Yiiiiih !\"",
+            "\\.\\C[4](Seigneur...)",
+            "\\.\"Non merci, ça va.\"",
+            "\\.\"*snif*... Sara... Tu me détestes, non...?\"",
+            "\\.\"Non, c'est pas ça...\"",
+            "\\.\"Est-ce que tu veux toucher à sa place, M. Q-taro ?\"",
+            "\\.\"Nan, ça va !\"",
+            "\\.\"D'accord, je vais les masser.\"",
+            "\\.\"Ah ! Pas là...!\"",
+            "\\.\"C'est vrai ! Tes épaules sont vraiment détendues...!\"",
+            "\\.\"Incroyaaable ! Je suis en meilleure santé qu'à \n l'époque où j'étais humaine ?!\"",
+            "\\.\"Maintenant que tu le dis, on ne vieillira plus,\n et ne tombera plus malade, hein...\"",
+            "\\.\"Waouh ! C’est trop bien ! Être une poupée,\n c’est pas si mal que ça, finalement !\"",
+            "\\.\\C[4](Quel état d'esprit positif...)"
+        ],
+        "25-1-choice": [
+            "Toucher\nNe pas toucher\nMasser sa joue"
+        ],
+        "25-2-message": [
+            "\"Juste au cas où, examine bien les casiers\n qui ne s'ouvrent pas, aussi !\""
+        ],
+        "26-1-choice": [
+            "Fais de ton mieux\nTu ne l'aimes pas ?\nNe flirte pas, STP"
         ]
     },
     "map199": {
@@ -37687,7 +37729,7 @@
     },
     "map207": {
         "7-1-message": [
-            null,
+            "\\C[3]Une commode compacte.",
             null,
             null,
             null,
@@ -37807,6 +37849,9 @@
             "\\.\"Je vais vous tuer...! Non...!!\"",
             "\\.\"Fuyez, tout le monde...!!\"",
             "\\.\"C'est foutu ! On peut pas s'enfuir...!!\""
+        ],
+        "7-2-message": [
+            "\\C[3]Une commode compacte."
         ]
     },
     "map212": {
