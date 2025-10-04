@@ -22843,7 +22843,7 @@
         ],
         "872-0-message": [
             "\"Nous sommes morts lors de la Première Épreuve...\n On nous a montré les vidéos de nos derniers instants.\n ... Impardonnable, hein ?\"",
-            "\"Yiiiiih ! C'est Sara, le p'tit bout d'chou !\n Tu veux venir papoter avec moi ?!\"",
+            "\"Kyaaaah ! C'est Sara, le p'tit bout d'chou !\n Tu veux venir papoter avec moi ?!\"",
             "\\.\"Je ne cherche pas à papoter. \n J'ai juste besoin de tes infos...\"",
             "\\.\"Oh, comme mes mensurations ?\"",
             "\\.\"N-Non, je veux dire à propos\n du Jeu Mortel Démocratique...!\"",
@@ -23021,7 +23021,7 @@
         ],
         "1040-0-message": [
             "\"Et v'là l'travail !\n J'ai explosé l'casque qui protégait sa tête !\"",
-            "\\.\"Yiiiiih ! Trop cooooool !\"",
+            "\\.\"Kyaaaah ! Trop cooooool !\"",
             "\\.\"Ouais, ouais, c'est bon, j'ai compris !\n Lâchez surtout pas l'adversaire du r'gard !\"",
             "\"... Voilà. Ça fera l'affaire, non ?\"",
             "\\.\"Détruire un casque avec une pelle...\n T'es pas croyable, toi.\"",
@@ -23041,7 +23041,7 @@
         "1042-0-message": [
             "\"Q-taro, s'il te plaît ! On a besoin de ta force !\"",
             "\\.\"D'ac, j'ai capté ! Laissez-moi faire !\"",
-            "\\.\"Yiiiiih ! Trop cooooool !!\"",
+            "\\.\"Kyaaaah ! Trop cooooool !!\"",
             "\\.\"Tu m'déprimes, là !\"\n T'veux bien prendre ça plus au sérieux ?!"
         ],
         "1043-0-message": [
@@ -25211,7 +25211,7 @@
             "\\.\"A-Attends ! Des soutiens ?\n Ne sont-ils pas plutôt des...?!\"",
             "\\.\"Ahaha, je vais vous les présenter.\n On les appelle les \\C[2]Pantins\\C[0].\"",
             "\\.\"Ce sont les victimes qui ont tragiquement perdu la vie\n avant d'avoir pu rencontrer qui que ce soit...\"",
-            "\\.\"Yiiiiih ! Sara, t'es vraiment trop choupiiiie !\n Détendez-vous ! On est de votre côté !\"",
+            "\\.\"Kyaaaah ! Sara, t'es vraiment trop choupiiiie !\n Détendez-vous ! On est de votre côté !\"",
             "\\.\\C[4](Elle sait comment je m'appelle...!)",
             "\\.\"Bien sûr, ce sont des poupées...\n Elles ont donc reçu les infos nécessaires à l'avance.\"",
             "\\.\"Ce... C'est de la profanation des morts...\n Laissez-moi rentrer chez moi...\"",
@@ -25227,7 +25227,7 @@
             "\\.\"A... Aah...\"",
             "\\.\"Bouahaha... Ravi d'te rencontrer.\n ... J'm'appelle \\C[2]Kurumada\\C[0].\"",
             "\\.\"... De même.\"",
-            "\\.\"Yiiiiih ! Alors c'est Q-taro mon maître !\n Moi, c'est \\C[2]Mai\\C[0] ! On va bien s'entendre !\"",
+            "\\.\"Kyaaah ! Alors c'est Q-taro mon maître !\n Moi, c'est \\C[2]Mai\\C[0] ! On va bien s'entendre !\"",
             "\\.\"O-Ouais, ç'marche...\n T'crois qu'c'est l'bon état d'esprit...?\"",
             "\\.\"... \\C[2]Hinako\\C[0].\"",
             "\\.\"T'es collégienne, non ?\n Ça doit pas être facile...\"",
@@ -33160,7 +33160,7 @@
             "\\.\\C[4](Sou... a l’air de savoir à quel point\n \\N[4] peut être effrayant...)"
         ],
         "4-1-message": [
-            null,
+            "\\.\\C[3]Sou fixe intensément \\N[4] du regard.",
             "\\.\"...\""
         ],
         "14-2-message": [
@@ -33410,12 +33410,12 @@
             "\\.\"Ces contours sombres...\n On dirait presque un dessin à colorier.\""
         ],
         "6-1-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\"Quelle corvée, d'surveiller une gamine dans \n un musée. Ça m'donne envie d'pioncer.\"",
+            "\\.\"Vas-y, pionce. On partira sans toi.\"",
+            "\\.\"Ouuuh, flippant.\"",
+            "\"Hmpf... Tu ne sais même pas apprécier l'art ?\"",
+            "\\.\"On n’est pas là pour s’amuser. Va explorer.\"",
+            "\\.\"Tsss...!! Ton insolence est carrément artistique !!\"",
             "\"Hé, vous trouvez pas qu'ce gars-là, Sou,\n il a l'air d'être à fond sur \\N[4] ?\"",
             "\\.\\C[4](Pas faux... Il n'arrête pas de le fixer...)"
         ],
@@ -33439,6 +33439,25 @@
         "7-4-message": [
             "\"Comment...! L'ascenseur ?!\"",
             "\\.\"Hmpf... Il se pourrait que notre bataille commence\n plus tôt qu’on ne l'ait prévu...\""
+        ],
+        "4-2-message": [
+            "\\.\"Je vois... L'ascenseur fonctionne, maintenant...\"",
+            "\\.\"... Je vous rejoins dès que\n j’ai fini d’examiner par ici.\""
+        ],
+        "5-1-message": [
+            "\"\\N[4] a bien dit qu’on devait retrouver\n nos souvenirs, n’est-ce pas...?\"",
+            "\\.\"Je me demande si on nous a effacé la mémoire...?\"",
+            "\\.\\C[4](En temps normal, ça serait purement inconcevable...)",
+            "\\.\\C[4](Mais... Safalin avait cette fameuse machine.)",
+            "\\.\\C[4](Donc, je suppose que c'est possible...)"
+        ],
+        "5-2-message": [
+            "\"Si ses souvenirs ont vraiment été effacés...\n Kanna veut les récupérer...\""
+        ],
+        "5-3-message": [
+            "\"Hé ?! Vous avez remis en marche l'ascenseur ?!\"",
+            "\\.\"Oui. Quand tu auras fini d'explorer par ici,\n rassemblons-nous.\"",
+            "\\.\"D'accord !\""
         ]
     },
     "map198": {
@@ -33668,9 +33687,9 @@
             "\\.\\C[4](Incroyable...\n Je ne peux même pas discerner que c'est une poupée...)",
             "\\.\"Et maintenant, fais voir ta joue, Sara ?\"",
             "\\.\"Hein ? Ah...\"",
-            "\\.\"Yiiiih, c'est tout douuuuux !\n Voilà, c'est ça, la peau d'une adolescente !\"",
+            "\\.\"Kyaaaah, c'est tout douuuuux !\n Voilà, c'est ça, la peau d'une adolescente !\"",
             "\\.\"Hum... Je crois qu'on ferait mieux de...\"",
-            "\\.\"Alleeeez, encore un petit peu ! Yiiiiih !\"",
+            "\\.\"Alleeeez, encore un petit peu ! Kyaaaah !\"",
             "\\.\\C[4](Seigneur...)",
             "\\.\"Non, ça ira.\"",
             "\\.\"*snif*... Sara... Tu me détestes, ou quoi...?\"",
@@ -37761,12 +37780,12 @@
     "map207": {
         "7-1-message": [
             "\\C[3]Une commode compacte.",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\.\\C[4](Devrais-je ouvrir le tiroir...?)",
+            "\\C[3]Tiroir ouvert.",
+            "\\.\"C'est... un pinceau, et de la peinture...?\"",
+            "\\.\\C[3]Pinceau et peinture obtenus.",
+            "\"Que faites-vous ?\"",
+            "\\.\"...!!\"",
             null,
             null,
             null,
