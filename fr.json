@@ -33407,7 +33407,13 @@
         ],
         "3-2-message": [
             "\\C[3]Un tableau dont une partie n'est pas peinte.",
-            "\\.\"Ces contours sombres...\n On dirait presque un dessin à colorier.\""
+            "\\.\"Ces contours sombres...\n On dirait presque un dessin à colorier.\"",
+            "\\.\"OK, essayons de le peindre.\"",
+            "\\.\\C[4](Super ! C'est bien réussi...!)",
+            "\\.\"... Ouah...\"",
+            "\\.\\C[4](La partie que j'ai peinte... s'est ouverte !)",
+            "\"Pas mal ! Il y avait sûrement un appareil\n permettant de réagir à la peinture !\"",
+            "\\.\\C[4](Mes efforts de peinture, envolés...)"
         ],
         "6-1-message": [
             "\"Quelle corvée, d'surveiller une gamine dans \n un musée. Ça m'donne envie d'pioncer.\"",
@@ -33458,6 +33464,22 @@
             "\"Hé ?! Vous avez remis en marche l'ascenseur ?!\"",
             "\\.\"Oui. Quand tu auras fini d'explorer par ici,\n rassemblons-nous.\"",
             "\\.\"D'accord !\""
+        ],
+        "3-2-choice": [
+            "Utiliser la peinture\nAnnuler"
+        ],
+        "3-4-message": [
+            "\\C[3]Il y a un appareil semblable à un disjoncteur.",
+            "\"Tu penses que ça permet d'alimenter les ascenseurs ?\"",
+            "\\.\"Allez, abaissons-le.\"",
+            "\"... On dirait que c'était pas piégé.\"",
+            "\\.\\C[4](Allons vérifier les ascenseurs...)"
+        ],
+        "3-5-message": [
+            "\\C[3]Le disjoncteur est positionné sur \"on\"."
+        ],
+        "3-7-message": [
+            "\\C[3]Le disjoncteur est positionné sur \"off\"."
         ]
     },
     "map198": {
@@ -33537,8 +33559,8 @@
             "\\.\"...\"",
             "\\.\"Ça ne te plaît pas d'être appairé avec Mai...?\"",
             "\\.\"Nan, c'pas ça.\n Mai a pas l'air d'être quelqu'un d'mauvais.\"",
-            "\\.\"C'est juste... qu'j'aurais aimé qu'on s'rencontre dans\n un cadre normal. Parce que dans un moment pareil,\n c'est vraiment très dur, t'vois...\"",
-            "\\.\\C[4](Ça doit être dur de basculer entre “on” et “off\"...)",
+            "\\.\"C'est juste... qu'j'aurais aimé qu'on s'rencontre dans\n un cadre normal. Parce que dans un moment pareil,\n c'est vraiment dur, t'vois...\"",
+            "\\.\\C[4](Ça doit être dur de souvent changer d'attitude...)",
             "\\.\"Ne flirte pas avec elle, s'il te plaît.\"",
             "\\.\"Moi, j'ferai jamais ça !!\n Va dire ça à Mai !!\"",
             "\\.\"Maître, arrête de papoter !\n Tu dois chercher sérieusement, hein !",
@@ -33607,7 +33629,11 @@
             "\\.\"Hein...? D-D'accord !\""
         ],
         "2-3-message": [
-            "\\.\"Hé, Sara.\""
+            "\\.\"Hé, Sara.\"",
+            "\\.\"Keiji ! Alors, vous étiez là.\"",
+            "\\.\"Ouaip. Vu que Gin commençait à s'impatienter...\"",
+            "\\.\"Ahem ! C'est moi le chef, alors je dois bien chercher\n et garder un œil sur mes subordonnés, miaou !\"",
+            "\\.\"Gin ? Tes... subordonnés ?\""
         ],
         "16-1-message": [
             "\\C[3]Il y a une tache noire au sol.",
@@ -33673,11 +33699,11 @@
         ],
         "25-1-message": [
             "\"Juste au cas où, examine bien les casiers\n qui ne s'ouvrent pas, aussi !\"",
-            "\\.\"Faites bien attention aux pièges dangereux, d'accord ?\"",
-            "\\.\"Bien sûr ! Je n'ai pas envie de me faire détruire !\"",
-            "\\.\"Bon... et vos corps, y sont solides comment ?\n Vous êtes plus costauds qu'nous, ou quoi ?\"",
+            "\\.\"Faites un peu plus attention aux pièges, d'accord ?\"",
+            "\\.\"Évidemment ! Je n'ai pas envie de me faire détruire !\"",
+            "\\.\"D'ailleurs... vos corps, y sont solides comment ?\n Vous êtes plus costauds qu'nous, non ?\"",
             "\\.\"Aucune idée... Et j'ai pas vraiment envie de tester.\"",
-            "\\.\"S'ils nous avaient fabriqué en super-alliage,\n on n'aurait pas à s'inquiéter de notre survie...\"",
+            "\\.\"Si seulement on était faits en superalliage,\n on n'aurait pas à s'inquiéter de mourir...\"",
             "\\.\"Ehh ? Je n'aurais pas envie d'être toute raiiide !\"",
             "\\.\"Regarde, ma peau est toute douce et moelleuse !\n Vas-y, Sara, touche ma joue pour voir !\"",
             "\\.\"Euh...?\"",
@@ -33705,7 +33731,7 @@
             "\\.\\C[4](Quel état d'esprit positif...)"
         ],
         "25-1-choice": [
-            "Toucher\nNe pas toucher\nLui faire un massage"
+            "Toucher\nNe pas toucher\nLes lui masser"
         ],
         "25-2-message": [
             "\"Juste au cas où, examine bien les casiers\n qui ne s'ouvrent pas, aussi !\""
@@ -37701,7 +37727,7 @@
             "\\C[3]La porte est ouverte.",
             "\\.\\C[4](Devrais-je entrer...?)",
             "\\.\"Allons-y...\"",
-            "\\.\"Une fois entrés, on va devoir faire face à ce\n qu'il y a dedans nous-mêmes. Faut s'y préparer...\"",
+            "\\.\"Une fois entrés, on va devoir faire face à ce\n qu'il y a dedans. Faut qu'on soit prêts à tout...\"",
             "\\.\"Oui...\"",
             "\"Ce... C'est quoi cet endroit ?\"",
             "\\C[4](C'est une pièce sacrément soyeuse...)",
@@ -37811,26 +37837,26 @@
             "\\.\\C[4](...)",
             "\\.\\C[4](Toujours en présence de mes alliés, hein...)",
             "\\.\\C[3]Elle avait sûrement raison.",
-            "\\.\\C[3]Je n’ai pas vraiment eu le temps\n de me poser et réfléchir seule.",
+            "\\.\\C[3]Je n’ai pas vraiment eu le temps de me poser\net de réfléchir seule, dans le calme.",
             "\\.\\C[3]Parce qu'au fond de moi, je savais qu'au moindre signe\nde faiblesse, mon cœur serait envahi par le désespoir.",
             "\\.\\C[4](Mais... c'est différent, maintenant.)",
             "\\.\\C[3]Il n'y a... pas un chat ici.",
             "\\.\\C[4](Je...)",
-            "\\C[4](Après tout... je veux m’échapper avec tout le monde...)",
+            "\\C[4](Après tout...\n Je veux m'échapper avec tout le monde...)",
             "\\C[4](Je ne veux pas mourir...)",
             "\\.\\C[4](Mais... les autres aussi, pensent la même chose.)",
             "\\.\\C[4](Donc je veux qu'on s'échappe tous ensemble...)",
             "\\.\\C[4](J'étais tourmentée par des hallucinations de Joe...\n Mais ce n'était pas vraiment ça, au final.)",
-            "\\.\\C[4](C’était ma propre voix... J'avais fait dire à Joe\n toutes les pensées que j'avais refoulées.)",
-            "\\C[10]Est-ce la vérité...?",
+            "\\.\\C[4](C’était ma propre voix... Je faisais dire à un Joe\n imaginaire toutes les pensées que j'avais refoulées.)",
+            "\\C[10]Est-ce bien la vérité...?",
             "\\.\\C[4](... Ce sont tous de précieux alliés...)",
-            "\\C[10]\"Alliés\", encore une fois.",
+            "\\C[10]Encore avec le mot \"Alliés\", hein.",
             "\\.\"La \\C[2]victoire\\C[0] est en jeu, pas vrai ?\"",
             "\\.\"La victoire...?\"",
-            "\\.\"Une seule personne survivra...\n Alors, le Jeu Mortel prendra fin.\"",
+            "\\.\"Une seule personne survivra...\n Alors, le Jeu Mortel Démocratique prendra fin.\"",
             "\\C[10]Prendra fin...?",
             "\\.\"C’est vraiment terrifiant...\"",
-            "\\.\"Minute... Donc, il n'y a vraiment qu'une seule\n personne qui peut s'en sortir, après tout ?!\"",
+            "\\.\"Minute... Alors, il n'y a vraiment qu'une seule\n personne qui peut s'en sortir, après tout ?!\"",
             "\\.\"Oui...\"",
             "\\.\"Six personnes restantes... La décision est proche.\"",
             "\\.\"Ce sera peut-être aujourd'hui...\"",
@@ -37841,12 +37867,12 @@
             "\\.\"... T'es capable de tuer \\N[4] ?\"",
             "\\.\"...!!\"",
             "\\.\"Je ne pourrais jamais sympathiser avec un type pareil,\n mais...\"",
-            "\\.\"Quand je vois quelqu'un qui se déplace...\n J'imagine que je ne peux pas voir cette personne\n autrement qu'un être humain...\"",
+            "\\.\"Quand je vois quelqu'un qui bouge, comme ça...\n J'imagine que je ne peux pas voir cette personne\n autrement qu'un être humain...\"",
             "\\.\"...\"",
             "\\.\"... Je peux le tuer...\"",
             "\\C[10]Tuer.",
             "\\.\"Si ça permet de protéger mes alliés...\n Je vais le tuer...!!\"",
-            "\\C[10]Faux. C'est pour moi.",
+            "\\C[10]Faux. C'est pour moi-même que je le ferais.",
             "\\.\"... Je ne sais pas.\"",
             "\\C[10]Est-ce que ça a un sens ?",
             "\\.\"Je ne sais pas, mais...! Je...!!\"",
@@ -37854,12 +37880,15 @@
             "\\.\"Je vais mettre un terme à ce Jeu Mortel...!!\"",
             "\\C[10]Si je gagne... ce sera fini.",
             "\\.\"Sara...\"",
-            "\\.\"Haa...!! Ghhh...!!\"",
+            "\\.\"Haa...!! Ghh...!!\"",
             "\\.\"Et toi, Ranmaru ?\"",
             "\\.\"Hein...?\"",
-            null,
-            null,
-            "\\.\"...\""
+            "\\.\"Êtes-vous ensemble juste pour atteindre l'objectif ?\n Ou êtes-vous de vrais partenaires ?\"",
+            "\\.\"Toi aussi, tu peux te regarder à nouveau.\"",
+            "\\.\"...\"",
+            "\\.\"... Revenez me voir tous les deux, d'accord ?\"",
+            "\\.\"Parce qu'ici, c'est un endroit\n pour se trouver soi-même...\"",
+            "\\.\\C[4](Je suis exténuée...)"
         ],
         "19-1-message": [
             null,
@@ -37907,6 +37936,30 @@
         ],
         "7-2-message": [
             "\\C[3]Une commode compacte."
+        ],
+        "5-1-message": [
+            "\\C[3]Un sofa confortable.",
+            "\"Toute la pièce est embaumée d'un doux parfum...\""
+        ],
+        "2-1-message": [
+            "\\C[3]Un lit douillet.",
+            "\"On dirait vraiment une chambre de fille...\"",
+            "\\.\\C[4](... C'est vraiment très différent de ma chambre...)"
+        ],
+        "4-1-message": [
+            "\\C[3]La lumière brille à travers la fenêtre.",
+            "\"J'pense pas que ça vienne du soleil...\""
+        ],
+        "6-1-message": [
+            "\\C[3]Des fleurs rouges.",
+            "\"Franchement, devoir arroser les fleurs,\n c'est pénible, non ?\"",
+            "\\.\"Si tu aimes tes fleurs, même arroser devient amusant.\""
+        ],
+        "7-1-choice": [
+            "Ouvrir\nAnnuler",
+            "Boire le thé\nNe pas le boire",
+            "Envie de m'échapper avec les autres\nPas envie de mourir",
+            "Je peux le tuer\nJe ne sais pas"
         ]
     },
     "map212": {
