@@ -33426,7 +33426,7 @@
             "\\.\\C[4](Pas faux... Il n'arrête pas de le fixer...)"
         ],
         "6-2-message": [
-            "Hein, l'ascenseur est réparé ?\"",
+            "\"Hein, les ascenseurs sont réparés ?\"",
             "\\.\"J'en ai marre d'surveiller la gamine,\n alors j'veux aller chercher \\N[4].\"",
             "\\.\"Bah, ça dépend d'lui. J'peux pas bouger tout seul...\""
         ],
@@ -33439,15 +33439,15 @@
             "\\.\"... S'il le faut,\n je deviendrai un véritable meurtrier...\""
         ],
         "7-3-message": [
-            "\"Quoi...? L'ascenseur ?\"",
+            "\"Quoi...? Les ascenseurs ?\"",
             "\\.\"Compris... Le combat approche.\""
         ],
         "7-4-message": [
-            "\"Comment...! L'ascenseur ?!\"",
+            "\"Comment...! Les ascenseurs ?!\"",
             "\\.\"Hmpf... Il se pourrait que notre bataille commence\n plus tôt qu’on ne l'ait prévu...\""
         ],
         "4-2-message": [
-            "\\.\"Je vois... L'ascenseur fonctionne, maintenant...\"",
+            "\\.\"Je vois... Les ascenseurs fonctionnent, maintenant...\"",
             "\\.\"... Je vous rejoins dès que\n j’ai fini d’examiner par ici.\""
         ],
         "5-1-message": [
@@ -33461,7 +33461,7 @@
             "\"Si ses souvenirs ont vraiment été effacés...\n Kanna veut les récupérer...\""
         ],
         "5-3-message": [
-            "\"Hé ?! Vous avez remis en marche l'ascenseur ?!\"",
+            "\"Hé ?! Vous avez remis en marche les ascenseurs?!\"",
             "\\.\"Oui. Quand tu auras fini d'explorer par ici,\n rassemblons-nous.\"",
             "\\.\"D'accord !\""
         ],
@@ -33632,8 +33632,15 @@
             "\\.\"Hé, Sara.\"",
             "\\.\"Keiji ! Alors, vous étiez là.\"",
             "\\.\"Ouaip. Vu que Gin commençait à s'impatienter...\"",
-            "\\.\"Ahem ! C'est moi le chef, alors je dois bien chercher\n et garder un œil sur mes subordonnés, miaou !\"",
-            "\\.\"Gin ? Tes... subordonnés ?\""
+            "\\.\"Ahem ! C'est moi le chef, alors je dois bien chercher\n tout en gardant un œil sur mon subordonné, miaou !\"",
+            "\\.\"Gin ? Ton... subordonné ?\"",
+            "\\.\"Hahaha... C'est moi.\n La relation s'est rapidement inversée...\"",
+            "\\.\"Et sinon... Vous avez trouvé quelque chose ?\"",
+            "\\.\"Non, absolument rien...\"",
+            "\\.\"Bon, rendez-vous aux ascenseurs.\n Nous les avons remis en marche.\"",
+            "\\.\"Ça, c'est notre Sara bien aimée... J'y serais.\"",
+            "\\.\"Costard-binocles ! Toi aussi, tu viens, miaou !\"",
+            "\\.\"D-D'accord, attendez-moi...\""
         ],
         "16-1-message": [
             "\\C[3]Il y a une tache noire au sol.",
@@ -37841,7 +37848,7 @@
             "\\.\\C[3]Parce qu'au fond de moi, je savais qu'au moindre signe\nde faiblesse, mon cœur serait envahi par le désespoir.",
             "\\.\\C[4](Mais... c'est différent, maintenant.)",
             "\\.\\C[3]Il n'y a... pas un chat ici.",
-            "\\.\\C[4](Je...)",
+            "\\.\\C[4](J'ai...)",
             "\\C[4](Après tout...\n Je veux m'échapper avec tout le monde...)",
             "\\C[4](Je ne veux pas mourir...)",
             "\\.\\C[4](Mais... les autres aussi, pensent la même chose.)",
@@ -37858,7 +37865,7 @@
             "\\.\"C’est vraiment terrifiant...\"",
             "\\.\"Minute... Alors, il n'y a vraiment qu'une seule\n personne qui peut s'en sortir, après tout ?!\"",
             "\\.\"Oui...\"",
-            "\\.\"Six personnes restantes... La décision est proche.\"",
+            "\\.\"Six personnes restantes... Le verdict est proche.\"",
             "\\.\"Ce sera peut-être aujourd'hui...\"",
             "\\.\"...!!\"",
             "\\C[10]Seulement une personne peut survivre.",
