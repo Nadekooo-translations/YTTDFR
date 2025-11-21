@@ -1086,7 +1086,7 @@
             "\\.\"Mettre nos idées en commun,\n et parfois faire prendre des risques à quelqu'un...\n C'est tout ce que nous pouvons faire.\"",
             "\\.\"*snif*...\"",
             "\\.\"La vache...\"",
-            "\\.\"Travaillons ensemble, Sara.\"",
+            "\\.\"Unissons nos forces, Sara.\"",
             "\\.\"... Puis-je vraiment vous faire confiance ?\"",
             "\\.\"Nous non plus, on ne veut pas finir comme ça...\"",
             "\\.\"J'veux dire... nous aussi, on veut survivre...\"",
@@ -14270,7 +14270,7 @@
             "\\.\\C[4](...\n ...\n ...)"
         ],
         "1450-0-message": [
-            null,
+            "\\C[3]Soudain, il y eut un bruit mécanique.",
             null,
             null,
             null,
@@ -22819,7 +22819,7 @@
             "\\.\"Hmm...\"",
             "\\.\"Évidemment. On est sûrement au même niveau scolaire...\"",
             "\\.\"T'en es sûre ? Tu vas pas revenir sur ce que t'as\n dit pour ensuite me dire que t'es l'aînée ?\"",
-            "\\.\\C[4](Je ne pense pas que ce soit le moment\n de s'inquiéter des relations cadet-aîné...)",
+            "\\.\\C[4](Je ne pense pas que ce soit le moment\n de s'inquiéter sur qui est l'aîné...)",
             "\\.\"On vient de se rencontrer, alors appelle-moi Chidouin.\n Compris, Ranmaru ?\"",
             "\\.\"Non, attends, pourquoi toi, tu peux m'appeler\n par mon prénom ?! C'est bizarre, non ?!\"",
             "\\.\"... Et bien, je n'ai entendu que Ranmaru...\"",
@@ -23372,6 +23372,12 @@
             "Un des Pantins ?\nUn des humains ?\nIl n'y en a qu'un ?",
             "Y a-t-il un endroit qu'on a pas exploré ?\nEst-ce qu'il nous a croisé puis est descendu ?",
             "On est devenus amis\nOn est alliés\nC'est juste ordinaire\nJe ne l'apprécie pas vraiment"
+        ],
+        "1446-0-message": [
+            "\"Il n’y a aucun moyen de le sauver !\n On... on est totalement impuissants...!\""
+        ],
+        "1447-0-message": [
+            "\"On devrait peut-être appuyer de nouveau\n sur l'interrupteur au sol ?!\""
         ]
     },
     "map107": {
@@ -32875,7 +32881,7 @@
             "\\.\"Hein ? \n \\N[4] ne vous l'a pas dit...?\"",
             "\\.\"...\"",
             "\\.\"Hé, je me demandais...\"",
-            "\\.\"Et si les Pantins n'avaient pas tous\n reçu les mêmes informations...?\"",
+            "\\.\"Et si chacun des Pantins avaient\n reçu des infos différentes ?\"",
             "\\.\"...\"",
             "\\.\"Hé, vous avez une minute ?\"",
             "\\.\"J'ai bien l'impression que vous avez\n pas tous reçus les mêmes informations...\"",
@@ -33624,7 +33630,7 @@
         "2-1-message": [
             "\\.\"...!\"",
             "\\.\"C'est des casiers, miaou ?\"",
-            "\\.\"C't'endroit est vraiment louche, j'vous l'dis...\"",
+            "\\.\"C'est louche, c't'endroit, j'vous l'dis...\"",
             "\\.\"... Sois prudente lorsque tu cherches par ici, Sara.\"",
             "\\.\"Hein...? D-D'accord !\""
         ],
@@ -33640,7 +33646,16 @@
             "\\.\"Bon, rendez-vous aux ascenseurs.\n Nous les avons remis en marche.\"",
             "\\.\"Ça, c'est notre Sara bien aimée... J'y serais.\"",
             "\\.\"Costard-binocles ! Toi aussi, tu viens, miaou !\"",
-            "\\.\"D-D'accord, attendez-moi...\""
+            "\\.\"D-D'accord, attendez-moi...\"",
+            "\\.\\C[3]J'ai entendu un \"clic\" près de mon pied.",
+            "\\.\"Hm...? J'ai marché sur quelque chose...\"",
+            "\\.\"Gahh...?!\"",
+            "\\.\"Mia...?\n Costard-binocles... Tu flottes, ouaf ?\"",
+            "\\.\"Gargh...?!\"",
+            "\\.\"Gah... argh...?!\"",
+            "\\.\"Costard-binocles ?! Qu'est-ce qui se passe, miaou ?!\"",
+            "\\.\"C'est quoi ce piège...?!\"",
+            "\\.\"Il... Il faut qu'on le sauve !!\""
         ],
         "16-1-message": [
             "\\C[3]Il y a une tache noire au sol.",
@@ -33745,6 +33760,14 @@
         ],
         "26-1-choice": [
             "Fais de ton mieux\nTu ne l'aimes pas ?\nNe flirte pas, STP"
+        ],
+        "2-5-message": [
+            "\"Mai devait se rendre ici, c'est ça...?\"",
+            "\\.\\C[4](Je ne la vois nulle part...)",
+            "\"Alors, Mai se rendait ici...\"",
+            "\\.\\C[4](Je ne la vois nulle part...)",
+            "\\.\\C[4](Quelque chose cloche...)",
+            "\\.\\C[4](Comment puis-je mieux examiner cette pièce ?)"
         ]
     },
     "map199": {
@@ -37185,7 +37208,7 @@
             "\\.Quelque chose... de très, très important...",
             "Hé, Keiji, dis-moi ce que c'est.",
             "\"...T'en fais pas. C'est parfaitement normal.\"",
-            "Vraiment... ?",
+            "Vraiment...?",
             "\"...T'es juste fatiguée. Faut que tu t'reposes.\"",
             "Non, mon esprit semble parfaitement clair...",
             "\"A... Alors y'a pas d'quoi s'inquiéter, pas vrai ?\"",
@@ -37894,7 +37917,7 @@
             "\\.\"Toi aussi, tu peux te regarder à nouveau.\"",
             "\\.\"...\"",
             "\\.\"... Revenez me voir tous les deux, d'accord ?\"",
-            "\\.\"Parce qu'ici, c'est un endroit\n pour se trouver soi-même...\"",
+            "\\.\"Parce qu'ici, c'est un endroit pour se retrouver...\"",
             "\\.\\C[4](Je suis exténuée...)"
         ],
         "19-1-message": [
@@ -41816,7 +41839,7 @@
         "3-1-message": [
             "\\C[3]Le monstre nous regarde sans rien faire.",
             "\\C[3]Le monstre regarde autour de lui,\ncomme pour évaluer la marchandise.",
-            "\"Argh...! Tu regardes quoi, là ?!\"",
+            "\"Argh...! Tu regardes quoi, comme ça ?!\"",
             "\"Hmpf... Tu cherches ta proie idéale ?\"",
             "\\C[3]Le monstre s'est tourné vers \\C[2]Hayasaka\\C[3].",
             "\\.\\C[10]\\sp[15]\"JE T'AI TROUVÉ... JE T'AI TROUVÉ...\"",
