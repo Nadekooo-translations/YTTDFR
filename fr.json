@@ -1115,7 +1115,7 @@
             "\\.\"Bah... c'est une bonne chose, j'imagine.\n Plus on est nombreux, plus on a de force de frappe.\"",
             "\\.\"Exact. Suffit d'y penser simplement.\"",
             "\\.\\C[4](Pas besoin de les suspecter tout de suite...)",
-            "\\.\"Alors, euh... Continuons sur cette lancée, Sara.\"",
+            "\\.\"Alors, euh... Comptons les uns sur les autres, Sara.\"",
             "\\.\"Oui... Tu as raison.\"",
             "\\.\"Bon, très bien. Tout d'abord...\n Partons à la recherche de \\N[4].\""
         ],
@@ -23042,7 +23042,7 @@
             "\"Q-taro, s'il te plaît ! On a besoin de ta force !\"",
             "\\.\"D'ac, j'ai capté ! Laissez-moi faire !\"",
             "\\.\"Kyaaaah ! Trop cooooool !!\"",
-            "\\.\"Tu m'déprimes, là !\"\n T'veux bien prendre ça plus au sérieux ?!"
+            "\\.\"Tu m'déprimes, là !\n T'veux bien prendre ça plus au sérieux ?!\""
         ],
         "1043-0-message": [
             "\\C[3]Le monstre a perdu l'équilibre et est tombé.",
@@ -23124,7 +23124,7 @@
             "\"Y a deux types de cordes, miaou ?!\n Mais pourquoi, ouaf ?!\"",
             "\\.\"Ça, je n'en sais rien...\"",
             "\\.\"Hmm, peut-être qu'il y a quelque chose à l'intérieur ?\"",
-            "\\.\"Alors, est-ce qu'on devrait déchirer la corde\n pour voir ce qu'il y a à l'intérieur ?\"",
+            "\\.\"Alors, est-ce qu'on devrait déchirer la corde\n pour voir ce qu'il y a dedans ?\"",
             "\\.\"Eh bien... Je doute que l'on puisse couper les cordes\n dures, même avec quelque chose de tranchant...\"",
             "\\.\"Nous devrions certainement essayer de couper\n les cordes molles, au moins !\"",
             "\\.\"Je parie qu'il y a une différence dans leur contenu...\"",
@@ -23313,8 +23313,8 @@
             "\\.\"Désolé de te tracasser avec ça...\"",
             "\\.\"Mais je devais te le dire maintenant,\n tant que c'était encore possible.\"",
             "\\.\"J-Je comprends...\"",
-            "\\.\"Je connais rien de toi, Sara, mais...\"",
-            "\\.\"Le fait qu'on ne soit que de simples partenaires...\n Ça ne me plaît pas vraiment...\"",
+            "\\.\"J'te connais pas bien, Sara, mais...\"",
+            "\\.\"Le fait qu'on soit que de simples partenaires...\n Ça me plaît pas vraiment...\"",
             "\\.\"...\"",
             "\\.\"Sara... Juste une dernière chose...\"",
             "\\.\"... Quoi ?\"",
@@ -23384,6 +23384,9 @@
         ],
         "1445-0-message": [
             "\"Il est sûrement tiré par un fil de pêche, miaou !\n On doit simplement le détacher, ouaf !\""
+        ],
+        "1451-0-message": [
+            "\"Si c’est comme les fois d'avant...\n Il doit bien y avoir  des outils quelque part\n pour désamorcer ce piège...\""
         ]
     },
     "map107": {
@@ -32999,7 +33002,7 @@
             "Emprunter le passage\nAnnuler"
         ],
         "24-1-message": [
-            null,
+            "\\C[3]Plusieurs cordes colorées entourent le ring.",
             "\\C[3]Des cordes colorées entourent le ring.",
             "\\.\"Ma salle de sport était pas aussi flashy...\""
         ],
@@ -33027,6 +33030,20 @@
         ],
         "5-2-choice": [
             "Emprunter le passage\nAnnuler"
+        ],
+        "22-1-message": [
+            "\\C[3]Il y a des poteaux installés aux quatre coins.",
+            "\\.\\C[4](On dirait qu'ils sont allumés de l'intérieur...)"
+        ],
+        "22-2-message": [
+            "\\C[3]Il y a des poteaux installés aux quatre coins."
+        ],
+        "23-1-message": [
+            "\\C[3]Il y a des poteaux installés aux quatre coins.",
+            "\\.\\C[4](Celui-ci est sombre, contrairement aux autres...)"
+        ],
+        "23-2-message": [
+            "\\C[3]Il y a des poteaux installés aux quatre coins."
         ]
     },
     "map197": {
@@ -33106,7 +33123,7 @@
             "\\.\\sw[324]\"Comment tu te sens, Sara ?\"\\sw[325]",
             "\\.\\sw[324]\"Tiens ? Je ne vois pas Anzu.\n Ne me dites pas qu'elle est déjà morte ?\"\\sw[325]",
             "\\.\"Encore une IA, je parie ?\"",
-            "\\.\\sw[324]\"Loooupé ! Un simple appel vidéo !\"\\sw[325]",
+            "\\.\\sw[324]\"Loupééé ! C'est un simple appel vidéo !\"\\sw[325]",
             "\\.\\sw[324]\"J'observe tous les étages !\"\\sw[325]",
             "\\.\"T'es vraiment qu'un lâche ! Montre-toi !\"",
             "\\.\\sw[324]\"Toujours aussi bête que ton frère, Reko...\n Moi aussi, je veux gagner, tu sais ?\"\\sw[325]",
@@ -37749,7 +37766,7 @@
             "\\C[3]La porte est solidement fermée.",
             "\\.\"E-Elle s'ouvre pas ?!\"",
             "\\.\"Hein ?! C'est problématique, ça !\"",
-            "\\.\"Haha ! Ça, c'est con pour les humains.\"",
+            "\\.\"Haha ! Ça, c'est ballot pour les humains.\"",
             "\\.\"Ça ne s'ouvre pas...?\"",
             "\\.\"On fait quoi ?! Ça pose problème, nan ?!\"",
             "\\.\"Il faut le dire... Cette pièce est étrange.\"",
@@ -37776,7 +37793,7 @@
             "\\.\"Je ne sais pas, mais...\"",
             "\"En tout cas... Fouillons cette pièce\n avant qu'elle revienne.\"",
             "\"On ne devrait pas agir de suite...\n Attendons patiemment.\"",
-            "\\.\"Je veux dire, qui sait quand elle passera à l'attaque ?\n Essayons de trouver une arme ou un truc du genre !\"",
+            "\\.\"Oui, mais qui sait quand elle passera à l'attaque ?\n Essayons de trouver une arme ou un truc du style !\"",
             "\\.\"H-Hé, Ranmaru...!\"",
             "\\.\\C[4](Pff, je te jure...)",
             "\"Tu ne penses pas qu'on ferait mieux de partir, là ?\"",
@@ -37855,7 +37872,7 @@
             "\\.\"...!!\"",
             "\\.\"Ehéhé. Si tu les veux, je te les donne.\n Voilà votre thé.\"",
             "\\.\"A-Ah... Merci...\"",
-            "\\.\"H-Hé, toi... Tu n'es pas un Obstructeur...?\"",
+            "\\.\"H-Hé, toi... T'es pas un Obstructeur...?\"",
             "\\.\"Ah, si, je suis un Obstructeur.\n Mais... je n’aime pas me battre...\"",
             "\\.\"J’aime bien écouter les gens parler, ici.\n Nous sommes dans la Salle de Discussion.\"",
             "\\.\"La Salle de Discussion...?\"",
@@ -41931,7 +41948,7 @@
             "\\.\"Mais que...?! Quelle est cette chose ?!\"",
             "\\.\\C[4](Il y a du liquide qui coule par ces fenêtres...!)",
             "\\.\"C'est du magma, ouaf !!\n On va finir fondus, miaou !!\"",
-            "\\.\"Putain, tu te fous de moi...!!\n C'est pas un monstre qui devait arriver ?!\"",
+            "\\.\"Putain, tu te fous de moi...!!\n C'est pas un monstre qui devait débarquer ?!\"",
             "\\.\\C[4](Qu'est-ce qu'on peut bien faire face à ça...?!)",
             "\\.\"... On dirait que c’est ton domaine, Sara.\"",
             "\\.\"Hein ?\"",
