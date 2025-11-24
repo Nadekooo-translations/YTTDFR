@@ -23314,9 +23314,9 @@
             "\\.\"Mais je devais te le dire maintenant,\n tant que c'était encore possible.\"",
             "\\.\"J-Je comprends...\"",
             "\\.\"Je connais rien de toi, Sara, mais...\"",
-            "\\.\"Être juste une paire... ça me plaît pas tellement...\"",
+            "\\.\"Le fait qu'on ne soit que de simples partenaires...\n Ça ne me plaît pas vraiment...\"",
             "\\.\"...\"",
-            "\\.\"Sara, une dernière chose...\"",
+            "\\.\"Sara... Juste une dernière chose...\"",
             "\\.\"... Quoi ?\"",
             "\\.\"...\n ...\n ...\"",
             "\\.\"Nan, pardon, oublie. C'est rien...\"",
@@ -23378,6 +23378,9 @@
         ],
         "1447-0-message": [
             "\"On devrait peut-être appuyer de nouveau\n sur l'interrupteur au sol ?!\""
+        ],
+        "1444-0-message": [
+            "\"D’abord, observons pour comprendre ce qui se passe...!\""
         ]
     },
     "map107": {
@@ -33569,7 +33572,7 @@
             "\\.\\C[4](Ça doit être dur de souvent changer d'attitude...)",
             "\\.\"Ne flirte pas avec elle, s'il te plaît.\"",
             "\\.\"Moi, j'ferai jamais ça !!\n Va dire ça à Mai !!\"",
-            "\\.\"Maître, arrête de papoter !\n Tu dois chercher sérieusement, hein !",
+            "\\.\"Maître, arrête de papoter !\n Tu dois chercher sérieusement !\"",
             "\\.\"Ghhhhh...!!\""
         ],
         "60-3-message": [
@@ -33723,9 +33726,9 @@
             "\"Juste au cas où, examine bien les casiers\n qui ne s'ouvrent pas, aussi !\"",
             "\\.\"Faites un peu plus attention aux pièges, d'accord ?\"",
             "\\.\"Évidemment ! Je n'ai pas envie de me faire détruire !\"",
-            "\\.\"D'ailleurs... vos corps, y sont solides comment ?\n Vous êtes plus costauds qu'nous, non ?\"",
+            "\\.\"D'ailleurs... vos corps, y sont solides comment ?\n Vous êtes plus costauds qu'nous, nan ?\"",
             "\\.\"Aucune idée... Et j'ai pas vraiment envie de tester.\"",
-            "\\.\"Si seulement on était faits en superalliage,\n on n'aurait pas à s'inquiéter de mourir...\"",
+            "\\.\"S'ils nous avaient fabriqués en superalliage,\n on n'aurait pas à s'inquiéter de notre sort...\"",
             "\\.\"Ehh ? Je n'aurais pas envie d'être toute raiiide !\"",
             "\\.\"Regarde, ma peau est toute douce et moelleuse !\n Vas-y, Sara, touche ma joue pour voir !\"",
             "\\.\"Euh...?\"",
@@ -41892,7 +41895,30 @@
     },
     "map211": {
         "2-2-message": [
-            "\\C[3]Le monstre tente de se relever, sans se défendre."
+            "\\C[3]Le monstre tente de se relever, sans se défendre.",
+            "\\C[3]Le monstre est plaqué au sol et ne peut plus bouger."
+        ],
+        "1-1-message": [
+            "\"J... je peux... pas... respi...! Qu'est... ce que...?!\"",
+            "\"Costard-binocles...!!\"",
+            "\\.\"C'est quoi ça...!! Ce piège...?!\"",
+            "\\.\"Du calme...! Gardons la tête froide...!\""
+        ],
+        "2-1-message": [
+            "\\C[3]Hayasaka est pendu au plafond.",
+            "\\C[3]Hayasaka se débat.",
+            "\"Mon cou... j'ai mal au cou...!!\"",
+            "\\.\"À l'aide... quelqu'un...!!\"",
+            "\\C[3]Hayasaka se débat.",
+            "\"Je vais te tirer de là, miaou ! Costard-binocles !!\"",
+            "\\C[3]Gin entra de nouveau dans la pièce.",
+            "\"Miaaah...?!\"",
+            "\"G... Gin!!\"",
+            "\"C'est pas bon ! Cette pièce est dangereuse !!\"",
+            "\\.\"C'est du magnétisme...! Leurs colliers sont attirés...\n par la plaque noire au plafond !!\"",
+            "\\C[4](Mais alors...!! C'est pratiquement...)",
+            "\\.\\C[4](Comme s'ils étaient pendus...!!)",
+            "\\.\\C[4](Je suis perdue...!\n Qu’est-ce que je suis censée faire...?!)"
         ]
     },
     "map208": {
