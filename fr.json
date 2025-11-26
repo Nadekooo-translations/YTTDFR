@@ -14277,13 +14277,29 @@
             "\\C[6]\"Euh... Allô ? Vous me recevez...?\"",
             "\"\\N[4]...?!\"",
             "\\C[6]\"Désolééé ! Le piège de cette salle, là...\n C’était pour une exécution, en fait...\"",
-            "\\.\\C[6]\"Je n’avais pas prévu de m’en servir,\n mais on dirait que ça s’est déclenché par erreur.\"",
+            "\\.\\C[6]\"Je n’avais pas prévu de m’en servir,\n mais on dirait qu'il a dysfonctionné.\"",
             "\\.\\C[6]\"J’ai fait au plus vite pour l’arrêter, mais...\n Est-ce qu'ils sont tous les deux sains et saufs ?\"",
             "\"Gin... s'est évanoui...\"",
             "\\C[6]\"Alors, il est vivant ! Oh, chouette !\n On va encore pouvoir s'amuser un peu !\"",
             "\"...\"",
             "\\.\"Argh... Quel homme abject...!\"",
-            "\\.\"Comment va Gin...?\""
+            "\\.\"Comment va Gin...?\"",
+            "\\.\"Il s'est cogné la tête très fort contre le plafond...\n Mais grâce à sa capuche, la blessure est légère.\"",
+            "\\.\"S'il avait été pendu plus longtemps,\n il aurait commencé à suffoquer...\"",
+            "\\.\\C[4](Il en serait mort...)",
+            "\\.\"Ce n'était pas un dysfonctionnement...\n Il ciblait... uniquement les Pantins...\"",
+            "\\.\"Hein ?\"",
+            "\\.\"Hé, on fait quoi de ce gamin ?\n On le laisse quelque part ?\"",
+            "\\.\"Non !!\n Si un Obstructeur le trouve, il va...!!\"",
+            "\\.\"...\"",
+            "\\.\"Hayasaka, tu vas le porter.\"",
+            "\\.\"... Moi...?\"",
+            "\\.\"Gin, c'est ton patron, pas vrai ?\"",
+            "\\.\"...\"",
+            "\\.\"Très bien... Je vais porter Gin et venir avec vous.\"",
+            "\\.\"... Et puis, rester groupés, c'est plus sûr.\"",
+            "\\.\"Compris...\"",
+            "\\.\"...\n ...\n ...\""
         ],
         "1529-0-message": [
             null,
@@ -23388,7 +23404,26 @@
             "\"Il est sûrement tiré par un fil de pêche, miaou !\n On doit simplement le détacher, ouaf !\""
         ],
         "1451-0-message": [
-            "\"Si c’est comme les fois d'avant...\n Il doit bien y avoir  des outils quelque part\n pour désamorcer ce piège...\""
+            "\"Si c’est comme les fois d'avant...\n Il doit bien y avoir des outils quelque part\n pour désamorcer ce piège...\"",
+            "\\.\"Mais cette fois... j'ai beau regarder,\n je n'en vois aucun.\"",
+            "\\.\"Je sais que les casiers ne s’ouvrent pas non plus...\n Alors, qu’est-ce que ça veut dire...?\"",
+            "\"Je vous... en prie... dépêchez-vooouuus...!!\"",
+            "\"Je vais te tirer de là, miaou ! Costard-binocles !!\"",
+            "\\C[3]Gin entra de nouveau dans la pièce.",
+            "\"Miaaah...?!\"",
+            "\"G... Gin!!\"",
+            "\"C'est pas bon ! Cette pièce est dangereuse !!\"",
+            "\\.\"C'est du magnétisme...! Leurs colliers sont attirés...\n par la plaque noire au plafond !!\"",
+            "\\C[4](Mais alors...!! C'est pratiquement...)",
+            "\\.\\C[4](Comme s'ils étaient pendus...!!)",
+            "\"Et merde ! Il est où cet interrupteur...?!\n Je cherche partout, mais il n'y a rien !\"",
+            "\\.\"Et qui sait ce qui peut m'arriver si j'entre\n trop loin dans la pièce...  Fait chier !!\"",
+            "\"Je vous le répète ! On ne peut rien y faire...!\"",
+            "\\.\"Jusqu’ici, on n’a jamais baissé les bras !\n Si on y réfléchit, on trouvera forcément...!\"",
+            "\\.\"Tu as beau dire ça, ça ne change rien...!\""
+        ],
+        "1453-0-message": [
+            "\\.\"...!!\""
         ]
     },
     "map107": {
@@ -33679,7 +33714,7 @@
             "\\.\"Gargh...?!\"",
             "\\.\"Gah... argh...?!\"",
             "\\.\"Costard-binocles ?! Qu'est-ce qui se passe, miaou ?!\"",
-            "\\.\"C'est quoi ce piège...?!\"",
+            "\\.\"C'est quoi... ce piège...?!\"",
             "\\.\"Il... Il faut qu'on le sauve !!\""
         ],
         "16-1-message": [
@@ -41923,7 +41958,7 @@
         "1-1-message": [
             "\"J... je peux... pas... respi...! Qu'est... ce que...?!\"",
             "\"Costard-binocles...!!\"",
-            "\\.\"C'est quoi ça...!! Ce piège...?!\"",
+            "\\.\"Mais qu'est-ce que...!! Ce piège...!?\"",
             "\\.\"Du calme...! Gardons la tête froide...!\""
         ],
         "2-1-message": [
