@@ -34804,7 +34804,7 @@
             "\\.\"...\""
         ],
         "4-1-message": [
-            "\\C[3]Il y a des papiers sur le sol.",
+            "\\C[3]Il y a des papiers en vrac par terre.",
             "\\.\"Qu'est-ce que c'est...?\"",
             "\\.\\C[6]Chers tous, j'espère que tout le monde va bien ?\nJe m’ennuyais beaucoup, alors j’ai écrit cette lettre.\nUne carte y est jointe, alors venez vite me trouver !\nBien cordialement, \\N[4].",
             "\\.\\C[4](Bizarre, cette lettre...\n Par « carte », est-ce qu'il parle de...?)",
@@ -37390,7 +37390,7 @@
             "\\.\"Pas de quoi s'inquiéter.\n Concentrons-nous sur les ascenceurs...\"",
             "\\.\"Ils ont l'air de fonctionner, mais...\n Est-ce vraiment une bonne idée de s'en servir ?\"",
             "\\.\"... C'est vrai. Ça ira, il en a vu d'autres.\n Dépêchons-nous d'y aller.\"",
-            "\\.\"Hé, mais attendez, là !\n C'vraiment pas dangereux d'les prendre ?!\"",
+            "\\.\"Hé, 'tendez, là !\n C'vraiment pas dangereux d'monter d'dans ?!\"",
             "\\.\"Y en a deux...\n Me dites pas que l'un des deux est piégé ?!\"",
             "\\.\"En effet ! L'ascenceur de gauche, et de droite...\n Il est possible que l'un d'eux soit piégé...!\"",
             "\\.\"Hah ! Montez dans celui qu'vous voulez.\n Tentez votre chance !\"",
@@ -37423,7 +37423,7 @@
             "\\.\"Pas de quoi s'inquiéter.\n Concentrons-nous sur les ascenceurs...\"",
             "\\.\"Ils ont l'air de marcher, mais...\n Est-ce vraiment prudent de les emprunter...?\"",
             "\\.\"... C'est vrai. Ça ira, il en a vu d'autres.\n Dépêchons-nous d'y aller.\"",
-            "\\.\"Hé, mais attendez, là !\n C'vraiment pas dangereux d'les prendre ?!\"",
+            "\\.\"Hé, 'tendez, là !\n C'vraiment pas dangereux d'monter d'dans ?!\"",
             "\\.\"Y en a deux...\n Me dites pas que l'un d'eux est piégé...?\"",
             "\\.\"En effet ! L'ascenceur de gauche, et de droite...\n Il est possible que l'un d'eux soit piégé...!",
             "\\.\"Hah ! Montez dans celui qu'vous voulez.\n Tentez votre chance !\"",
@@ -37844,7 +37844,7 @@
             "\\.\\C[4](Pff, je te jure...)",
             "\"Tu ne penses pas qu'on ferait mieux de partir, là ?\"",
             "\\.\"Pourquoi tu te dégonfles maintenant ?\n Je t'ai pas dit qu'on devait être prêts ?\"",
-            "\\.\"Qui sait quand elle pourrait attaquer...\n Essayons de trouver une arme ou un truc du genre !\"",
+            "\\.\"Qui sait quand elle pourrait attaquer...\n Essayons de trouver une arme ou un truc du style !\"",
             "\\.\"H-Hé, Ranmaru...!\"",
             "\\.\\C[4](Pff, je te jure...)"
         ],
