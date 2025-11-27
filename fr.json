@@ -34518,7 +34518,7 @@
             "\\.\\C[4](Joe...?)",
             "\\.\\C[4](Qui ça peut bien être...?)",
             "\\.\\C[3]Étrangement... je n'ai pas vraiment envie de savoir.",
-            "\\.\\C[3]C'est comme si... mon cerveau mettait un couvercle.",
+            "\\.\\C[3]C'est comme si... mon cerveau se mettait en veille.",
             "\\.\"... Donne-moi ça.\n Et ne prononce plus jamais ce nom...\"",
             "\\.\"D-D'accord, très bien...\n Arrête de me lancer un regard aussi terrifiant...\"",
             "\\.\\C[4](Est-ce que Keiji est en colère...?)"
@@ -34749,6 +34749,45 @@
         ],
         "5-2-message": [
             "\\C[3]Un livre vert est posé ici."
+        ],
+        "12-1-message": [
+            "\\C[3]Il y a un morceau de papier collé au tableau.",
+            "\\.\"C'est quoi...?\"",
+            "\\.\"Formulaire de consentement...?\"",
+            null,
+            "\\.\"Ce papier...?!\"",
+            "\\.\"...!!\"",
+            "\\.\"...!!\"",
+            "\\.\"Q-Qu'est-ce qu'il y a ?!\"",
+            "\\.\"Ça m'dit quelq'chose...!!\"",
+            "\\.\"Attend, mais...?!\n Z'tait où, qu'j'avais vu un bidule pareil ?!\"",
+            "\\.\"...\n ...\n ...\"",
+            "\\.\"J'ai signé... en mon nom...?\"",
+            "\\.\"Keiji...!\"",
+            "\\.\"A... Ahh...\"",
+            "\\.\"C'est... vrai...\n Kanna aussi... l'a signé...\"",
+            "\\.\"... Je vois...\n Ça remonte... à tellement longtemps...\"",
+            "\\.\"Alors c'était... pour ça...?\"",
+            "\\.\\C[4](Attend, quoi...?!\n Tout le monde, sauf moi, est...!)",
+            "\\.\\C[4](Est-ce qu'ils se remémorent leur passé...?\n Leurs souvenirs avec \\N[4]...?)",
+            "\\.\\C[4](Dans ce cas, pourquoi pas moi...?!)",
+            "\\.\"Grah, je suis à ça de me souvenir clairement...\"",
+            "\\.\"Je suis à un pas de... me rappeler quelque chose...\"",
+            "\\.\"Mais les parties importantes sont toutes floues...!\"",
+            "\\.\"Peut-être... qu'on découvrira en continuant...\"",
+            "\\.\"... Oui...\"",
+            "\\.\"... C'est peut-être l'enfer, que l'on découvrira...\""
+        ],
+        "12-2-message": [
+            "\\C[3]Il y a un morceau de papier collé au tableau.",
+            "\\.\\C[4](Pourquoi suis-je la seule qui\n ne se souvient de rien...?)"
+        ],
+        "12-3-message": [
+            "\\C[3]Il y a un formulaire de consentement douteux\naccroché au tableau.",
+            "\\.\\C[4](Comme si j'allais signer ça...)"
+        ],
+        "12-4-message": [
+            "\\C[3]Il y a un formulaire de consentement douteux\naccroché au tableau."
         ]
     },
     "map205": {
@@ -40114,6 +40153,18 @@
         "13-2-choice": [
             null,
             "Entrer\nAnnuler"
+        ],
+        "4-1-message": [
+            "\\.\"Hii...! Pas encore...!!\"",
+            "\\.\"Hein...? C'est exactement comme dans l'autre pièce.\"",
+            "\\.\"Hmm...? Il y avait la même pièce en dessous...\"",
+            "\\.\"... Soyez prudents, tout le monde.\"",
+            "\\.\"Elle a l'air plus prop' qu'c'elle d'en bas.\"",
+            "\\.\\C[4](Ouais... On dirait presque qu'elle est inutilisée.)"
+        ],
+        "10-1-message": [
+            "\"A-Alors ces casiers s'ouvrent avec\n la carte ID, miaou...?\"",
+            "\\.\"Pas de signe de Kanna et Kurumada...\""
         ]
     },
     "map178": {
