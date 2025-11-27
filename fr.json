@@ -32914,7 +32914,7 @@
             null,
             null,
             null,
-            "\\C[3]Et silencieusement, l'ascenseur c'est arrêté."
+            "\\C[3]Et silencieusement, l'ascenseur s'est arrêté."
         ]
     },
     "map196": {
@@ -34481,24 +34481,24 @@
     },
     "map203": {
         "4-1-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\\C[4](...\n ...\n ...)",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\C[3]Un sac est posé sur le bureau.",
+            "\\.\"C'est... mon cartable...\"",
+            "\\.\"Sérieux...?\n On regarde ce qu'il y a dedans ?\"",
+            "\\.\\C[3]Ranmaru a ouvert le sac.",
+            "\\.\"Oh... c’est quoi ce petit chien tout mou...?\"",
+            "\\.\\C[4](C'est...)",
+            "\\.\\C[4](...)",
+            "\\.\"Ranmaru... Tu peux me remettre ça...?\"",
+            "\\.\"Hein ?\n B-Bah quoi... C'est un truc important ?\"",
+            "\\.\"... C'est bon, Keiji.\"",
+            "\\.\"...?\"",
+            "\\.\"C'est... un souvenir que mon meilleur ami portait.\"",
+            "\\.\"Qu-...\"",
+            "\\.\"Franchement, c’est cruel de leur part d'en avoir\n créé une copie...\"",
+            "\\.\"Est-ce que tu parles de... Joe...?\"",
+            "\\.\"Ah, tu étais au courant...?\"",
+            "\\.\"J'en ai juste... entendu parler un petit peu.\"",
+            "\\.\"Je vois...\"",
             "\\.\"...\"",
             null,
             null,
@@ -34720,6 +34720,10 @@
         ],
         "17-5-message": [
             "\"...\""
+        ],
+        "2-1-message": [
+            "\\.\"Euh... c'est une école ?\"",
+            "\\.\"J’ai l’impression que mes années d’école\n sont déjà très, très loin derrière moi...\""
         ]
     },
     "map205": {
@@ -34818,6 +34822,19 @@
             "\\.\"Je m'en doutais, c'est une carte de cet étage.\"",
             "\\.\\C[4](On est actuellement situés ici...)",
             "\\C[3]La fonction permettant de changer de carte d’étage\nest maintenant disponible."
+        ],
+        "3-1-message": [
+            "\\C[3]L'ascenseur ne semble que pouvoir descendre."
+        ],
+        "3-4-message": [
+            "\\C[3]L'ascenseur ne semble que pouvoir descendre."
+        ],
+        "2-1-message": [
+            "\\C[3]Le chiffre « 5 » est marqué sur le mur.",
+            "\\.\\C[4](Alors, on est au cinquième étage ?)"
+        ],
+        "3-2-message": [
+            "\"...\n ...\n ...\""
         ]
     },
     "map209": {
@@ -37394,7 +37411,7 @@
             "\\.\"Attends, Hayasaka, ne me dis pas que...!!\"",
             "\\.\"Hayasaka... Tu n'as quand même pas...\"",
             "\\.\"C-Calmez-vous, d'accord ?\n Gin s'est juste évanouï...\"",
-            "\\.\"Pas de quoi s'inquiéter.\n Concentrons-nous sur les ascenceurs...\"",
+            "\\.\"Pas de quoi s'inquiéter.\n Concentrons-nous sur les ascenseurs...\"",
             "\\.\"Ils ont l'air de fonctionner, mais...\n Est-ce vraiment une bonne idée de s'en servir ?\"",
             "\\.\"... C'est vrai. Ça ira, il en a vu d'autres.\n Dépêchons-nous d'y aller.\"",
             "\\.\"Hé, 'tendez, là !\n C'vraiment pas dangereux d'monter d'dans ?!\"",
@@ -37421,13 +37438,13 @@
             "\\.\"D'accord...!\""
         ],
         "2-5-message": [
-            "\\.\"Waouh ! Sara, matte ça !\n Les ascenceurs fonctionnent...\"",
+            "\\.\"Waouh ! Sara, matte ça !\n Les ascenseurs fonctionnent...\"",
             "\\.\"Gin...?! Il s'est passé quoi ?!\"",
             "\\.\"Gin...?! Hé, qu'est-ce qu'y a ?!\"",
             "\\.\"Attends, Hayasaka, ne me dis pas que...!!\"",
             "\\.\"Hayasaka... Tu n'as quand même pas...\"",
             "\\.\"C-Calmez-vous, d'accord ?\n Gin s'est juste évanouï...\"",
-            "\\.\"Pas de quoi s'inquiéter.\n Concentrons-nous sur les ascenceurs...\"",
+            "\\.\"Pas de quoi s'inquiéter.\n Concentrons-nous sur les ascenseurs...\"",
             "\\.\"Ils ont l'air de marcher, mais...\n Est-ce vraiment prudent de les emprunter...?\"",
             "\\.\"... C'est vrai. Ça ira, il en a vu d'autres.\n Dépêchons-nous d'y aller.\"",
             "\\.\"Hé, 'tendez, là !\n C'vraiment pas dangereux d'monter d'dans ?!\"",
@@ -37442,7 +37459,7 @@
             "\\.\"Dans ce cas, je prends l'autre.\"",
             "\"...\"",
             "\\.\"Prenez n'importe lequel !\n Allez, on se bouge.\"",
-            "\\.\\C[3]Alors que nous étions encore terrifiés,\nl'ascenceur a commencé à bouger.",
+            "\\.\\C[3]Alors que nous étions encore terrifiés,\nl'ascenseur a commencé à bouger.",
             "\\.\\C[4](... On dirait que nous sommes arrivés sans accroc.)",
             "\\.\"... Hé. Ça fait une paie.\"",
             "\\.\"Ouf... Vous êtes vous aussi bien arrivés.\"",
@@ -37465,7 +37482,7 @@
             "\\.\\C[4](...\n ...\n ...)"
         ],
         "3-9-message": [
-            null,
+            "\\C[3]L'ascenseur semble fonctionner.",
             null,
             null,
             null,
@@ -37491,7 +37508,7 @@
             "\\.\"Arrête de déconner...!\"",
             "\\C[3]Hinako appuya de force sur le bouton de fermeture.",
             "\\.\"Ahh... Aaahhhhhh...!!\"",
-            "\\.\\C[3]L'ascenceur... se referma lentement.",
+            "\\.\\C[3]L'ascenseur... se referma lentement.",
             "\\.\\C[3]Et il quitta silencieusement l'Étage 4.",
             "\\.\\C[4](Q-taro... Mai...)",
             "\\.\"*snif*... *snif*... Bouhouhou...\"",
@@ -37513,17 +37530,17 @@
             "\\.\"Bon... Ils ne fonctionnent pas.\""
         ],
         "2-3-choice": [
-            "L'ascenceur de droite\nL'ascenceur de gauche"
+            "L'ascenseur de droite\nL'ascenseur de gauche"
         ],
         "2-5-choice": [
-            "L'ascenceur de droite\nL'ascenceur de gauche"
+            "L'ascenseur de droite\nL'ascenseur de gauche"
         ],
         "3-1-message": [
             "\\C[3]Les portes sont solidement verrouillées.",
             "\\.\\C[4](Impossible de forcer leur ouverture...)"
         ],
         "3-2-message": [
-            "\\C[3]L'ascenceur n'émet aucun son.",
+            "\\C[3]L'ascenseur n'émet aucun son.",
             "\\.\\C[4](A-t-il été remis en route...?)",
             "\\.\\C[4](Ce bouton ne réagit pas...)",
             "\\.\\C[4](Ça fonctionne...!)",
@@ -37535,7 +37552,7 @@
             "Appuyer sur le bouton \"monter\"\nAppuyer sur le bouton \"descendre\"\nAnnuler"
         ],
         "3-3-message": [
-            "\\C[3]L'ascenceur ne semble que pouvoir monter."
+            "\\C[3]L'ascenseur ne semble que pouvoir monter."
         ],
         "3-4-choice": [
             "Fermer tout de suite\nAttendre jusqu'au dernier instant"
@@ -37545,8 +37562,11 @@
             "\\.\\C[4](Ils ne sont pas alimentés...?)"
         ],
         "42-1-message": [
-            "\\C[3]Le chiffre 4 est marqué sur le mur.",
+            "\\C[3]Le chiffre « 4 » est marqué sur le mur.",
             "\\.\\C[4](Donc, nous sommes au quatrième étage ?)"
+        ],
+        "3-8-message": [
+            "\\C[3]L'ascenseur ne semble que pouvoir monter."
         ]
     },
     "map195": {
