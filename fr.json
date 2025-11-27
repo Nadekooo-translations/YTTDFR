@@ -34500,13 +34500,28 @@
             "\\.\"J'en ai juste... entendu parler un petit peu.\"",
             "\\.\"Je vois...\"",
             "\\.\"...\"",
-            null,
-            null,
-            null,
-            null,
+            "\\.\\C[4](Joe... Je vais porter ton fardeau jusqu'au bout...)",
+            "\\.\"Ranmaru...\"",
+            "\\.\"...\n ...\n ...\"",
+            "\\.\"Je peux pas accepter ça... Impossible.\"",
             "\\.\"...\"",
-            null,
-            "\\.\"...\""
+            "\\.\"Keiji...\"",
+            "\\.\"...\"",
+            "\\.\"... D'accord. Je le prends.\"",
+            "\\.\"Allez, dépêche-toi...\"",
+            "\\.\"Qu'est-ce que c'est exactement ?\"",
+            "\\.\"...\n ...\n ...\"",
+            "\\.\"Si c'est pas à Sara... alors peut-être que c'est...\"",
+            "\\.\"À ce gars, là, Joe...?\"",
+            "\\.\"Comment tu connais ce nom...?\"",
+            "\\.\"Hein ?! Eh bah, euh...\n C'est juste \\N[4] qui en a un peu parlé...\"",
+            "\\.\\C[4](Joe...?)",
+            "\\.\\C[4](Qui ça peut bien être...?)",
+            "\\.\\C[3]Étrangement... je n'ai pas vraiment envie de savoir.",
+            "\\.\\C[3]C'est comme si... mon cerveau mettait un couvercle.",
+            "\\.\"... Donne-moi ça.\n Et ne prononce plus jamais ce nom...\"",
+            "\\.\"D-D'accord, très bien...\n Arrête de me lancer un regard aussi terrifiant...\"",
+            "\\.\\C[4](Est-ce que Keiji est en colère...?)"
         ],
         "17-10-message": [
             null,
@@ -34724,6 +34739,16 @@
         "2-1-message": [
             "\\.\"Euh... c'est une école ?\"",
             "\\.\"J’ai l’impression que mes années d’école\n sont déjà très, très loin derrière moi...\""
+        ],
+        "4-1-choice": [
+            "Le mettre dans ma poche\nLe donner à Ranmaru\nLe donner à Keiji"
+        ],
+        "5-1-message": [
+            "\\C[3]Un livre vert est posé ici.",
+            "\\.\\C[4](Il ressort vachement...)"
+        ],
+        "5-2-message": [
+            "\\C[3]Un livre vert est posé ici."
         ]
     },
     "map205": {
