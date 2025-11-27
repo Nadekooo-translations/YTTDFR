@@ -32907,7 +32907,14 @@
         "1-2-message": [
             null,
             null,
-            "\\.\"...\""
+            "\\.\"...\"",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\C[3]Et silencieusement, l'ascenseur c'est arrêté."
         ]
     },
     "map196": {
