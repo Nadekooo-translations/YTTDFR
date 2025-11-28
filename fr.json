@@ -32914,7 +32914,13 @@
             null,
             null,
             null,
-            "\\C[3]Et silencieusement, l'ascenseur s'est arrêté."
+            "\\C[3]Et silencieusement, l'ascenseur s'est arrêté.",
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.\"Les gens, \\N[4] est peut-être à cet étage.\n Soyez prudent...\"\n\npas sûr du \"les gens\""
         ]
     },
     "map196": {
