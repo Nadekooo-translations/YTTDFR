@@ -34371,32 +34371,64 @@
             "\\.\"T'es un sacré gaillard, Gin ! \n Viens par là, que j'regarde ta blessure !\"",
             "\\.\"Tiens, c'est vrai, j’ai un peu mal à la tête, miaou !\n Fais quelque chose, gorille musclé !\"",
             "\\.\"Fiou... J'ai failli me faire réduire en pièces\n par mes propres alliés, là...\"",
-            "\\.\"Tout ça grâce à Gin...\n Il a l'air de beaucoup t'aimer.\"",
+            "\\.\"Tout ça, c'est grâce à Gin...\n Il a l'air de beaucoup tenir à toi.\"",
             "\\.\"Est-ce vraiment le cas...?\n Alors qu'il m'appelle « costard-binocles »...?\"",
-            "\\.\"Oui... C'est même pour ça, d'ailleurs.\"",
+            "\\.\"Oui... C'est peut-être même pour ça, d'ailleurs.\"",
             "\\.\"...?\"",
-            "\\.\"Au début, quand nous sommes arrivés ici...\n Il y avait quelqu’un en costume et avec des lunettes.\"",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\.\"Au début, quand nous sommes arrivés ici...\n Il y avait quelqu’un d'autre qui portait\n un costume avec des lunettes.\"",
+            "\\.\"C'était un professeur, Monsieur Mishima.\"",
+            "\\.\"C'était bref, mais Gin et lui ont fait équipe.\"",
+            "\\.\"Mais... il est mort...?\"",
+            "\\.\"Ouaip. Il a été tué via son collier...\"",
+            "\\.\"...!\"",
+            "\\.\"Même aujourd’hui, sa tête reste introuvable.\"",
+            "\\.\"S-Saperlipopette...\"",
+            "\\.\"Mets-toi à la place de Gin.\n C’était la première fois qu’une personne à qui\n il avait adressé la parole mourait sous ses yeux.\"",
+            "\\.\"... « Est-ce qu'on aurait pu le sauver ? »\n Il éprouve sûrement ce genre de regrets en lui...\"",
             "\\.\"...\"",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\"...\""
+            "\\.\"Est-ce que Gin me voit comme lui...?\"",
+            "\\.\"Et c'est pourquoi il tenait tant à me protéger...\"",
+            "\\.\"Qui sait...\"",
+            "\\.\"Quel idiot... Il a failli mourir pour moi,\n alors qu’il ne me connaît même pas...!\"",
+            "\\.\"Alors... que je ne suis même plus un être humain...!!\"",
+            "\\.\"Bouahaha... C'est pas ça l'important, pour Gin.\"",
+            "\\.\"...\"",
+            "\\.\"Allez, on y va...\n Mieux vaut ne pas s’éloigner des autres.\"",
+            "\\.\"Bien...\""
         ],
         "3-1-message": [
             "\\.\"Ouuh...?!\"",
             "\\.\"Bah quoi ? J'suppose que c'est Hayasaka\n qui reconnaît l'endroit, cette fois-ci ?\""
+        ],
+        "4-1-choice": [
+            "Le confronter\nLui demander calmement"
+        ],
+        "4-2-message": [
+            "\\C[3]Seul cet ordinateur est allumé.",
+            "\\.\\C[4](Urgh... J'aimerais au moins cacher cet écran...)",
+            "\\.\"Si tu espères pouvoir le pirater, c'est futile.\"",
+            "\\.\"Et je ne dis pas ça juste par méchanceté.\n ... C'est simplement trop bien sécurisé.\""
+        ],
+        "4-3-message": [
+            "\\C[3]Des informations personnelles sont affichées à l'écran.",
+            "\\.\\C[4](Urgh... J'aimerais au moins cacher cet écran...)"
+        ],
+        "8-1-message": [
+            "\\C[3]L'écran d'ordinateur est complètement noir.",
+            "\\.\\C[4](Il n'est pas allumé...)"
+        ],
+        "25-1-message": [
+            "\\C[3]Un tableau blanc.",
+            "\\.\\C[4](Pas d'indices ici...)"
+        ],
+        "35-1-message": [
+            "\\C[3]Les étagères débordent de documents et produits médiaux."
+        ],
+        "35-2-message": [
+            "\\C[3]Les étagères débordent de documents et produits médiaux.",
+            "\\.\"Il y a bel et bien des médicaments ici...!\"",
+            "\"Ouf, tant mieux...\n Prenons tout ce qui pourrait servir.\"",
+            "\\.\"Je vais vous aider, miaou !\""
         ]
     },
     "map202": {
@@ -34674,7 +34706,7 @@
             null,
             null,
             null,
-            null,
+            "\\.\\C[3]J’accepte d’offrir ma dévotion à Asunaro\npour l’accomplissement de mon vœu.",
             null,
             null,
             null,
@@ -34799,6 +34831,10 @@
         ],
         "12-4-message": [
             "\\C[3]Il y a un formulaire de consentement douteux\naccroché au tableau."
+        ],
+        "12-6-message": [
+            null,
+            "\\.\\C[3]On peut lire : \"J’accepte d’offrir ma dévotion à Asunaro\npour l’accomplissement de mon vœu.\""
         ]
     },
     "map205": {
@@ -40176,6 +40212,22 @@
         "10-1-message": [
             "\"A-Alors ces casiers s'ouvrent avec\n la carte ID, miaou...?\"",
             "\\.\"Pas de signe de Kanna et Kurumada...\""
+        ],
+        "2-1-message": [
+            "\\.\\C[3]Quelque chose est posé ici.",
+            "\\.\"C’est un talkie-walkie...\"",
+            "\\.\\C[3]Talkie-walkie obtenu.",
+            "\\.\"Si on avait l’autre, on pourrait sûrement\n s’en servir pour rester en contact...\"",
+            "\\.\"Ici Mai ! Vous me recevez ?!\n ... Enfin, un truc qui sonne un peu comme ça !\"",
+            "\\.\\C[6]\"Ici \\N[4], reçu cinq sur cinq !\n Vous avez trouvé un moyen de me tuer ?\"",
+            "\\.\"Ouaaah...?!\"",
+            "\\.\\C[6]\"Hiihiihi... À toute à l'heuuure.\"",
+            "\\.\"J'ai cru faire une crise cardiaque...\"",
+            "\\.\"On dirait que c'est \\N[4]\n qui a l'autre talkie-walkie.\""
+        ],
+        "3-1-message": [
+            "\\.\\C[3]Un petit haut-parleur est installé ici.",
+            "\\.\"On peut l'enlever...\""
         ]
     },
     "map178": {
