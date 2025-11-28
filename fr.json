@@ -34329,7 +34329,7 @@
             "\\.\\C[4](Hayasaka... Il sait de quoi il s’agit...!)",
             "\"Hayasaka ! C’est quoi cette histoire, enfin ?!\"",
             "\\.\"A-Attendez ! Écoutez-moi !\n Je n'ai pas mené ces recherches par plaisir...!\"",
-            "\\.\"Attens, c'est ton ordi, ça ?!\n Dans quel but t'as fait ça, sale pervers ?!\"",
+            "\\.\"Attends, c'est ton ordi, ça ?!\n Dans quel but t'as fait ça, sale pervers ?!\"",
             "\\.\"Hoho... Ainsi, c'était bel et bien toi qui\n a fouillé ces informations, ordure...\"",
             "\\.\"A-Ah, flûte...!\"",
             "\"Hayasaka, je t'en prie, réponds.\n Qu’est-ce que ça signifie ?\"",
@@ -34373,22 +34373,22 @@
             "\\.\"Fiou... J'ai failli me faire réduire en pièces\n par mes propres alliés, là...\"",
             "\\.\"Tout ça, c'est grâce à Gin...\n Il a l'air de beaucoup tenir à toi.\"",
             "\\.\"Est-ce vraiment le cas...?\n Alors qu'il m'appelle « costard-binocles »...?\"",
-            "\\.\"Oui... C'est peut-être même pour ça, d'ailleurs.\"",
+            "\\.\"Ouais... C'est peut-être même pour ça, d'ailleurs.\"",
             "\\.\"...?\"",
-            "\\.\"Au début, quand nous sommes arrivés ici...\n Il y avait quelqu’un d'autre qui portait\n un costume avec des lunettes.\"",
+            "\\.\"Au début, quand on est arrivés ici...\n Y avait quelqu’un d'autre qui portait\n un costume avec des lunettes.\"",
             "\\.\"C'était un professeur, Monsieur Mishima.\"",
             "\\.\"C'était bref, mais Gin et lui ont fait équipe.\"",
             "\\.\"Mais... il est mort...?\"",
-            "\\.\"Ouaip. Il a été tué via son collier...\"",
+            "\\.\"Ouaip. Tué via son collier...\"",
             "\\.\"...!\"",
             "\\.\"Même aujourd’hui, sa tête reste introuvable.\"",
-            "\\.\"S-Saperlipopette...\"",
+            "\\.\"L-La vache...\"",
             "\\.\"Mets-toi à la place de Gin.\n C’était la première fois qu’une personne à qui\n il avait adressé la parole mourait sous ses yeux.\"",
             "\\.\"... « Est-ce qu'on aurait pu le sauver ? »\n Il éprouve sûrement ce genre de regrets en lui...\"",
             "\\.\"...\"",
             "\\.\"Est-ce que Gin me voit comme lui...?\"",
             "\\.\"Et c'est pourquoi il tenait tant à me protéger...\"",
-            "\\.\"Qui sait...\"",
+            "\\.\"C'est possible...\"",
             "\\.\"Quel idiot... Il a failli mourir pour moi,\n alors qu’il ne me connaît même pas...!\"",
             "\\.\"Alors... que je ne suis même plus un être humain...!!\"",
             "\\.\"Bouahaha... C'est pas ça l'important, pour Gin.\"",
@@ -34422,13 +34422,21 @@
             "\\.\\C[4](Pas d'indices ici...)"
         ],
         "35-1-message": [
-            "\\C[3]Les étagères débordent de documents et produits médiaux."
+            "\\C[3]Les étagères débordent de documents\net de produits médicaux."
         ],
         "35-2-message": [
             "\\C[3]Les étagères débordent de documents et produits médiaux.",
             "\\.\"Il y a bel et bien des médicaments ici...!\"",
             "\"Ouf, tant mieux...\n Prenons tout ce qui pourrait servir.\"",
             "\\.\"Je vais vous aider, miaou !\""
+        ],
+        "52-1-message": [
+            "\\C[3]Un livre jaune.",
+            "\\.\\C[3]Sur la quatrième de couverture, on peut lire :\n\"Merci de le rendre dans les délais\"."
+        ],
+        "52-2-message": [
+            "\\C[3]Un livre jaune.",
+            "\\.\\C[3]Sur la quatrième de couverture, on peut lire :\n\"Merci de le rendre dans les délais\"."
         ]
     },
     "map202": {
@@ -34797,7 +34805,7 @@
             "\\C[3]Il y a un morceau de papier collé au tableau.",
             "\\.\"C'est quoi...?\"",
             "\\.\"Formulaire de consentement...?\"",
-            null,
+            "\\.\"Ce truc...?!\"",
             "\\.\"Ce papier...?!\"",
             "\\.\"...!!\"",
             "\\.\"...!!\"",
@@ -34928,7 +34936,7 @@
         "4-1-message": [
             "\\C[3]Il y a des papiers en vrac par terre.",
             "\\.\"Qu'est-ce que c'est...?\"",
-            "\\.\\C[6]Chers tous, j'espère que tout le monde va bien ?\nJe m’ennuyais beaucoup, alors j’ai écrit cette lettre.\nUne carte y est jointe, alors venez vite me trouver !\nBien cordialement, \\N[4].",
+            "\\.\\C[6]Chers tous, j'espère que tout le monde va bien ?\nJe m’ennuyais beaucoup, alors j’ai écrit cette lettre.\nUne carte y est jointe, venez vite me trouver !\nBien cordialement, \\N[4].",
             "\\.\\C[4](Bizarre, cette lettre...\n Par « carte », est-ce qu'il parle de...?)",
             "\\.\"Je m'en doutais, c'est une carte de cet étage.\"",
             "\\.\\C[4](On est actuellement situés ici...)",
@@ -34950,27 +34958,27 @@
     },
     "map209": {
         "3-1-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\C[3]Une voiture de police est garée.",
+            "\\.\"Pas d'carburant, visiblement...\n Mais les portières peuvent s'ouvrir.\"",
+            "\\.\"Hein ? Y a un permis de conduire sur le siège.\"",
+            "\\.\"Hm ? Il y a un permis de conduire sur le siège...\"",
+            "\\.\"Quoi...?\"",
+            "\\.\"...!!\"",
+            "\\.\"Keiji...?\"",
             "\\.\"...\"",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\.\"Ouais, aucun doute...\n Ça doit être \"l'endroit des souvenirs\"\n de votre ami le policier.\"",
+            "\\.\"Hein ?\"",
+            "\\.\"Si ces souvenirs sont importants...\n J'imagine qu'il faut que je vous les raconte.\"",
+            "\\.\"Vous vous souvenez de la fois où je vous ai\n expliqué pourquoi j'ai voulu devenir policier...?\"",
+            "\\.\"Aïe...\"",
+            "\"Yo, le gamin ! Tu t'es encore fait bobo ?\"",
+            "\\.\"Ah... C'est ce vieux croûton qui patrouille...\"",
+            "\\.\"Je préfère mieux \"M. le Policier\", OK ?\n Je suis pas un vieux croûton !\"",
+            "\\.\"Laisse-moi tranquille... Je suis juste tombé.\"",
+            "\\.\"Héhé, petit menteur.\n Tu t'es battu, pas vrai ? J'ai tout vu.\"",
+            "\\.\"Argh...\"",
+            "\\.\"Passe me voir au poste ! On a du bon café.\"",
+            "\\.\"Oh... Alors c’est pour ça que tu t’es mis à frapper ?",
             null,
             null,
             null,
@@ -35033,6 +35041,11 @@
             "\\.\\C[4](...\n ...\n ...)",
             null,
             "\\.\"Grande sœur Sara...\""
+        ],
+        "2-1-message": [
+            "\\.\"...!!\"",
+            "\\.\"Tch... Un poste de police ?\"",
+            "\\.\"Ça me rend nerveuse de passer par là...\""
         ]
     },
     "map228": {
@@ -37903,6 +37916,36 @@
             null,
             null,
             "\\.\"Grande sœur Sara...\""
+        ],
+        "2-1-message": [
+            "\\.\"Y a tellement d'livres... C'est une bibliothèque ?\"",
+            "\\.\"L’agencement est plutôt complexe.\n On pourrait croire à un labyrinthe...\"",
+            "\\.\"Suivez bien la carte et n'allez pas n'importe où,\n comme ça vous vous paumerez pas, d'accord ?.\"",
+            "\\.\"Si vous ne voulez pas vous perdre, suivez la carte...\n Évitez simplement les détours à l'improviste.\""
+        ],
+        "3-1-message": [
+            "\\C[3]Un interstice anormal se trouve entre les livres rouges."
+        ],
+        "3-2-message": [
+            "\\C[3]Il y a un interstice anormal entre les livres rouges."
+        ],
+        "4-1-message": [
+            "\\C[3]Il y a un interstice anormal entre les livres verts."
+        ],
+        "4-2-message": [
+            "\\C[3]Il y a un interstice anormal entre les livres verts."
+        ],
+        "14-1-message": [
+            "\\C[3]Il y a un interstice anormal entre les livres jaunes."
+        ],
+        "14-2-message": [
+            "\\C[3]Il y a un interstice anormal entre les livres jaunes."
+        ],
+        "15-1-message": [
+            "\\C[3]Il y a un interstice anormal entre les livres bleus."
+        ],
+        "15-2-message": [
+            "\\C[3]Il y a un interstice anormal entre les livres bleus."
         ]
     },
     "map206": {
@@ -40227,7 +40270,24 @@
         ],
         "3-1-message": [
             "\\.\\C[3]Un petit haut-parleur est installé ici.",
-            "\\.\"On peut l'enlever...\""
+            "\\.\"On peut l'enlever...\"",
+            "\\.\"Hm...? Attends, c'est un enregistreur vocal, non ?\n Je l’ai déjà vu quelque part !\"",
+            "\\.\"Ce serait pas un enregistreur vocal ?\"",
+            "\\.\"Hein...? Dans z'cas, y a p't'être déjà\n une voix enregistrée dessus.\"",
+            "\\.\"Il y a un bouton à l'arrière...\n Je vais appuyer dessus.\"",
+            "\\.\"Il y a un bouton à l'arrière...\n Est-ce que j'appuie dessus ?\"",
+            "\\.\"Vas-y...\"",
+            "\\C[3]Bouton à l'arrière du haut-parleur enclenché.",
+            "\\C[5]\"... Début de la Première Épreuve.\"",
+            "\"...!!\"",
+            "\\C[5]\"Vous disposez de 5 minutes.\n Si vous ne vous échappez pas à temps, vous mourrez.\"",
+            "\\.\\C[5]\"Vous n'êtes pas la seule personne impliquée.\n Votre destin est lié à une autre personne invisible.\"",
+            "\\.\\C[5]\"Toutefois, si vous refusez cette liaison\n et que vous préférez trahir cette personne,\n vous pourrez partir en toute sécurité.\"",
+            "\\.\\C[5]\"Suivez la voix de votre cœur.\"",
+            "\"... Voilà, c'est tout.\"",
+            "\\.\\C[4](Comme je le pensais, cette pièce a été\n utilisée pour une Première Épreuve...)",
+            "\\.\\C[4](Le premier jeu auquel on a été forcé\n de jouer après avoir été amenés ici...)",
+            "\\.\"Une épreuve coopérative...\n C'est la première fois que j'entends parler de ça.\""
         ]
     },
     "map178": {
