@@ -34571,7 +34571,7 @@
             "\\.\\C[3]Étrangement... je n'ai pas vraiment envie de savoir.",
             "\\.\\C[3]C'est comme si... mon cerveau se mettait en veille.",
             "\\.\"... Donne-moi ça.\n Et ne prononce plus jamais ce nom...\"",
-            "\\.\"D-D'accord, très bien...\n Arrête de me lancer un regard aussi terrifiant...\"",
+            "\\.\"D-D'accord, très bien...\n Arrête de me fixer avec un air aussi terrifiant...\"",
             "\\.\\C[4](Est-ce que Keiji est en colère...?)"
         ],
         "17-10-message": [
@@ -34975,21 +34975,21 @@
             "\\.\"Ah... C'est ce vieux croûton qui patrouille...\"",
             "\\.\"Je préfère mieux \"M. le Policier\", OK ?\n Je suis pas un vieux croûton !\"",
             "\\.\"Laisse-moi tranquille... Je suis juste tombé.\"",
-            "\\.\"Héhé, petit menteur.\n Tu t'es battu, pas vrai ? J'ai tout vu.\"",
+            "\\.\"Héhé, petit cachottier.\n Tu t'es battu, pas vrai ? J'ai tout vu.\"",
             "\\.\"Argh...\"",
             "\\.\"Passe me voir au poste ! On a du bon café.\"",
-            "\\.\"Oh... Alors c’est pour ça que tu t’es mis à frapper ?",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\.\"Oh... Alors c’est pour ça que tu t’es mis à frapper ?\"",
+            "\\.\"Bah oui, ces gars-là se moquaient de moi...\"",
+            "\\.\"Le poing de la justice, hein...\n J’aime bien, mais faut pas faire ça.\"",
+            "\\.\"Pourquoi ça...? C'est moi qui avais raison, pas vrai ?\"",
+            "\\.\"... Et c'est ça le problème. Plus tu as raison, \n moins tu as envie de retenir ton coup, tu vois ?\"",
+            "\\.\"Mais les flics utilisent bien la force\n pour arrêter les criminels, pourtant...?!\"",
+            "\\.\"Parfois, oui, mais...\"",
+            "\\.\"Bah alors, gamin...\n Tu veux devenir policier, c'est ça ?\"",
+            "\\.\"... Ouais, et alors ?\"",
+            "\\.\"Oh là ! Bah alors ? Tu croises ton ami le policier,\n et ça te donne envie d'en devenir un ? Gahaha !\"",
+            "\\.\"... Ça te dérange, tête d'orange ?\"",
+            "\\.\"Hein...?!\"",
             "\\.\"...\"",
             "\\.\"...\"",
             null,
@@ -35046,6 +35046,10 @@
             "\\.\"...!!\"",
             "\\.\"Tch... Un poste de police ?\"",
             "\\.\"Ça me rend nerveuse de passer par là...\""
+        ],
+        "1-1-message": [
+            "\\C[3]L'intérieur du poste de police est bien sombre.",
+            "\"Même pas un bureau... C'est complètement vide.\""
         ]
     },
     "map228": {
@@ -37924,7 +37928,7 @@
             "\\.\"Si vous ne voulez pas vous perdre, suivez la carte...\n Évitez simplement les détours à l'improviste.\""
         ],
         "3-1-message": [
-            "\\C[3]Un interstice anormal se trouve entre les livres rouges."
+            "\\C[3]Il y a un interstice anormal entre les livres rouges."
         ],
         "3-2-message": [
             "\\C[3]Il y a un interstice anormal entre les livres rouges."
@@ -40287,7 +40291,28 @@
             "\"... Voilà, c'est tout.\"",
             "\\.\\C[4](Comme je le pensais, cette pièce a été\n utilisée pour une Première Épreuve...)",
             "\\.\\C[4](Le premier jeu auquel on a été forcé\n de jouer après avoir été amenés ici...)",
-            "\\.\"Une épreuve coopérative...\n C'est la première fois que j'entends parler de ça.\""
+            "\\.\"Une épreuve coopérative...\n C'est la première fois que j'entends parler de ça.\"",
+            "\\.\"Argh...!!\"",
+            "\\.\"Sara...!\"",
+            "\\.\\C[3]Qu’est-ce que c’est ? Quand j'essaie de m'en souvenir,\nune douleur aiguë me traverse le crâne.",
+            "\\.\\C[4](Je ne peux pas fuir...\n Il... faut que... quelqu'un d'autre...)",
+            "\\.\\C[4](Non ! Ma tête... me fait si mal...!)",
+            "\\.\"Ne tire pas sur la corde, Sara.\"",
+            "\\.\"Keiji...\"",
+            "\\.\\C[4](C'est pas bon... laisser ça dans le flou...)",
+            "\\.\"... Excusez-moi, les Pantins !\n Est-ce que cet enregistrement vous parle...?!\"",
+            "\\.\"Hé, les Pantins... Est-ce que l'un de vous\n a entendu cet enregistrement auparavant ?\"",
+            "\\.\"Nan, pas du tout.\n On a juste vu le moment de nos morts, tu vois ?\"",
+            "\\.\"Ouais, les débuts de nos épreuves\n ont été coupés dans les vidéos.\"",
+            "\\.\"J’ai zéro souvenir de ce qui s’est passé\n juste avant que je meure...\"",
+            "\\.\"Ah, d'accord...\"",
+            "\\.\"Ah, je vois...\"",
+            "\\.\"...\n ...\n ...\"",
+            "\\.\"Qu’est-ce qu’y t’prend, Alice ?\"",
+            "\\.\"... Non, ce n'est rien.\n C'est certainement mon imagination...\"",
+            "\\.\\C[4](Si ça peut être un indice\n pour retrouver nos souvenirs...)",
+            "\\.\\C[4](Alors, il faudrait peut-être qu'on ait une\n nouvelle discussion sur nos Premières Épreuves...)",
+            "\\.\\C[3]Enregistreur Vocal obtenu."
         ]
     },
     "map178": {
