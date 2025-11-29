@@ -15,7 +15,7 @@ const posts = (await getCollection("blog")).reverse();
 	<div class="posts-container">
 		{
 			posts.map(post => (
-				<a href={`/blog/${post.id}`} class="post">
+				<a href={`/blog/${post.id}/`} class="post">
 					<article>
 						{
 							post.data.image
