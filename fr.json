@@ -34330,7 +34330,7 @@
             "\"Hayasaka ! C’est quoi cette histoire, enfin ?!\"",
             "\\.\"A-Attendez ! Écoutez-moi !\n Je n'ai pas mené ces recherches par plaisir...!\"",
             "\\.\"Attends, c'est ton ordi, ça ?!\n Dans quel but t'as fait ça, sale pervers ?!\"",
-            "\\.\"Hoho... Ainsi, c'était bel et bien toi qui\n a fouillé ces informations, ordure...\"",
+            "\\.\"Oh... Ainsi, c'est bel et bien toi qui\n a fouillé ces informations, ordure...\"",
             "\\.\"A-Ah, flûte...!\"",
             "\"Hayasaka, je t'en prie, réponds.\n Qu’est-ce que ça signifie ?\"",
             "\\.\"Argh... En fait, c'est, euh...\"",
@@ -34387,7 +34387,7 @@
             "\\.\"... « Est-ce qu'on aurait pu le sauver ? »\n Il éprouve sûrement ce genre de regrets en lui...\"",
             "\\.\"...\"",
             "\\.\"Est-ce que Gin me voit comme lui...?\"",
-            "\\.\"Et c'est pourquoi il tenait tant à me protéger...\"",
+            "\\.\"Et ce serait pour ça qu'il\n tenait tant à me protéger...\"",
             "\\.\"C'est possible...\"",
             "\\.\"Quel idiot... Il a failli mourir pour moi,\n alors qu’il ne me connaît même pas...!\"",
             "\\.\"Alors... que je ne suis même plus un être humain...!!\"",
@@ -34432,11 +34432,11 @@
         ],
         "52-1-message": [
             "\\C[3]Un livre jaune.",
-            "\\.\\C[3]Sur la quatrième de couverture, on peut lire :\n\"Merci de le rendre dans les délais\"."
+            "\\.\\C[3]Sur la quatrième de couverture, on peut lire :\n\"Merci de rendre ce livre dans les délais\"."
         ],
         "52-2-message": [
             "\\C[3]Un livre jaune.",
-            "\\.\\C[3]Sur la quatrième de couverture, on peut lire :\n\"Merci de le rendre dans les délais\"."
+            "\\.\\C[3]Sur la quatrième de couverture, on peut lire :\n\"Merci de rendre ce livre dans les délais\"."
         ]
     },
     "map202": {
@@ -34966,7 +34966,7 @@
             "\\.\"...!!\"",
             "\\.\"Keiji...?\"",
             "\\.\"...\"",
-            "\\.\"Ouais, aucun doute...\n Ça doit être \"l'endroit des souvenirs\"\n de votre ami le policier.\"",
+            "\\.\"Ouais, aucun doute...\n Ça doit être « l'endroit des souvenirs »\n de votre ami le policier.\"",
             "\\.\"Hein ?\"",
             "\\.\"Si ces souvenirs sont importants...\n J'imagine qu'il faut que je vous les raconte.\"",
             "\\.\"Vous vous souvenez de la fois où je vous ai\n expliqué pourquoi j'ai voulu devenir policier...?\"",
@@ -34987,18 +34987,18 @@
             "\\.\"Parfois, oui, mais...\"",
             "\\.\"Bah alors, p'tit gars...\n Tu veux devenir policier, c'est ça ?\"",
             "\\.\"... Ouais, et alors ?\"",
-            "\\.\"Oh ! Bah alors ? Tu croises ton ami le policier,\n et ça te donne envie d'en devenir un ? Gahaha !\"",
+            "\\.\"Oh ! Bah dis donc ? Tu croises ton ami le policier,\n et ça te donne envie d'en devenir un ? Gahaha !\"",
             "\\.\"... Ça te dérange, tête d'orange ?\"",
             "\\.\"Hein...?!\"",
             "\\.\"...\"",
             "\\.\"...\"",
-            "\\.\"P'tit gars... Nan, Keiji.\n J'ai quelque chose pour toi.\"",
+            "\\.\"P'tit gars... Nan, Keiji.\n J'ai un petit cadeau pour toi.\"",
             "\\.\"Hein...?\"",
             "\\.\"C'est le porte-bonheur de M. le Policier.\"",
             "\\.\"Ce machin que t’as tout le temps sur toi ?\n C’est pas un truc important...?\"",
             "\\.\"Ouais, je serais bien embêté si je le paumais...\"",
-            "\\.\"Alors, j’en veux pas !\n Et puis, c'est un truc qui permet de prier\n pour une naissance sans problème, non...?!\"",
-            "\\.\"Ouaip ! Vu que M. le Policier va être bientôt papa.\"",
+            "\\.\"Alors, j’en veux pas !\n Et puis, c'est pas un truc qui permet de prier\n pour un accouchement facile, à la base...?!\"",
+            "\\.\"Ouaip ! Vu que M. le Policier va bientôt être papa.\"",
             "\\.\"... Hmpf.\"",
             null,
             null,
@@ -38189,12 +38189,12 @@
         ],
         "20-1-message": [
             "\\C[3]Un livre rouge vif.",
-            "\\.\\C[3]Sur la quatrième de couverture, on peut lire :\n\"Merci de le rendre dans les délais\".",
+            "\\.\\C[3]Sur la quatrième de couverture, on peut lire :\n\"Merci de rendre ce livre dans les délais\".",
             "\\.\\C[4](Est-ce un livre emprunté...?)"
         ],
         "20-2-message": [
             "\\C[3]Un livre rouge vif.",
-            "\\.\\C[3]Sur la quatrième de couverture, on peut lire :\n\"Merci de le rendre dans les délais\".",
+            "\\.\\C[3]Sur la quatrième de couverture, on peut lire :\n\"Merci de rendre ce livre dans les délais\".",
             "\\.\"Ce ne serait pas un livre de la bibliothèque ?\"",
             "\\.\"On dirait bien...\"",
             "\\.\\C[3]Livre Rouge obtenu."
@@ -40286,7 +40286,7 @@
             "\"...!!\"",
             "\\C[5]\"Vous disposez de 5 minutes.\n Si vous ne vous échappez pas à temps, vous mourrez.\"",
             "\\.\\C[5]\"Vous n'êtes pas la seule personne impliquée.\n Votre destin est lié à une autre personne invisible.\"",
-            "\\.\\C[5]\"Toutefois, si vous refusez cette liaison\n et que vous préférez trahir cette personne,\n vous pourrez partir en toute sécurité.\"",
+            "\\.\\C[5]\"Toutefois, si vous refusez cette liaison\n et que vous préférez trahir cette personne,\n vous pouvez partir en toute sécurité.\"",
             "\\.\\C[5]\"Suivez la voix de votre cœur.\"",
             "\"... Voilà, c'est tout.\"",
             "\\.\\C[4](Comme je le pensais, cette pièce a été\n utilisée pour une Première Épreuve...)",
