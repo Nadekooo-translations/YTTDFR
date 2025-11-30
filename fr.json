@@ -23388,7 +23388,7 @@
             "Cherchons séparément\nOn devrait tous rester groupés",
             "Dis-moi\nJe n'ai pas envie d'écouter\nMe confesseriez-vous votre amour ?",
             "Un des Pantins ?\nUn des humains ?\nIl n'y en a qu'un ?",
-            "Y a-t-il un endroit qu'on a pas exploré ?\nEst-ce qu'il nous a croisé puis est descendu ?",
+            "Y a-t-il un endroit pas exploré ?\nIl nous a croisé puis il est descendu ?",
             "On est devenus amis\nOn est alliés\nC'est juste ordinaire\nJe ne l'apprécie pas vraiment"
         ],
         "1446-0-message": [
@@ -23424,6 +23424,11 @@
         ],
         "1453-0-message": [
             "\\.\"...!!\""
+        ],
+        "1085-0-message": [
+            "\\.\\C[4](Le voilà...!)",
+            "\"C'est exactement la même disposition que\n le 4e étage, mais sans la pièce au milieu...\"",
+            "\"Peut-être... qu'elle n'est simplement\n pas dessinée dessus.\""
         ]
     },
     "map107": {
@@ -34972,8 +34977,8 @@
             "\\.\"Vous vous souvenez de la fois où je vous ai\n expliqué pourquoi j'ai voulu devenir policier...?\"",
             "\\.\"Aïe...\"",
             "\"Yo, p'tit gars ! Tu t'es encore fait bobo ?\"",
-            "\\.\"Ah... C'est ce vieux croûton qui patrouille...\"",
-            "\\.\"Je préfère mieux \"M. le Policier\", OK ?\n Je suis pas un vieux croûton !\"",
+            "\\.\"Ah... C'est ce vieux schnock qui patrouille...\"",
+            "\\.\"Je préfère mieux \"M. le Policier\", OK ?\n Je suis pas un vieux schnock !\"",
             "\\.\"Laisse-moi tranquille... Je suis juste tombé.\"",
             "\\.\"Héhé, petit cachottier.\n Tu t'es battu, pas vrai ? J'ai tout vu.\"",
             "\\.\"Argh...\"",
@@ -35000,22 +35005,26 @@
             "\\.\"Alors, j’en veux pas !\n Et puis, c'est pas un truc qui permet de prier\n pour un accouchement facile, à la base...?!\"",
             "\\.\"Ouaip ! Vu que M. le Policier va bientôt être papa.\"",
             "\\.\"... Hmpf.\"",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\.\"On va faire comme ça. Keiji, quand tu seras\n devenu policier, viens me rendre cet objet.\"",
+            "\\.\"Quoi...?\"",
+            "\\.\"Allez, le devoir m'appelle ! Repasse me voir, Keiji.\n Et la prochaine fois, finis ton café !\"",
+            "\\.\"H-Hé ! Je peux rien te promettre !\"",
+            "\\.\"Je compte sur toi !\"",
+            "\"... Donc, voilà.\"",
             "\\.\"...\"",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\"...\""
+            "\\.\"Haha... J'aurais jamais cru raconter ça\n à quelqu'un, un jour...\"",
+            "\\.\"Keiji...\"",
+            "\"C’est la première fois que tu nous partages\n spontanément quelque chose sur toi-même...\"",
+            "\\.\"... Je suppose, oui.\"",
+            "\\.\"Au fond, peut-être que je voulais\n que tu le saches, Sara...\"",
+            "\"Tu dois associer cet endroit à de bons souvenirs...\"",
+            "\\.\"... Ouais.\n C'est un endroit... important.\"",
+            "\"C'était sacrément long, comme histoire.\"",
+            "\\.\"...\"",
+            "\\.\"Oh, bah zut...\n La prochaine fois, je prendrai le temps\n de creuser les sujets qui te plaisent, Sara.\"",
+            "\\.\"Ah, tiens... J'aurais pu jurer que cet endroit est la\n copie conforme de là où je me suis fait embarquer\n après avoir commis mon délit de violence.\"",
+            "\\.\"Houlà, quel souvenir atroce, en comparaison...\"",
+            "\\.\"Ça sonne pas comme une belle histoire...\""
         ],
         "1-2-message": [
             null,
@@ -35050,6 +35059,15 @@
         "1-1-message": [
             "\\C[3]L'intérieur du poste de police est bien sombre.",
             "\"Même pas un bureau... C'est complètement vide.\""
+        ],
+        "3-1-choice": [
+            "Tu t'es ouvert à nous, pour une fois\nÇa doit être un bon souvenir\nC'était long"
+        ],
+        "3-2-message": [
+            "\\C[3]Une voiture de police est garée."
+        ],
+        "3-3-message": [
+            "\\C[3]Une voiture de police est garée."
         ]
     },
     "map228": {
