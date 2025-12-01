@@ -23348,7 +23348,7 @@
             "\\.\\C[4](Est-ce qu'on a croisé \\N[4] sans le voir,\n et qu'il est descendu à l'étage inférieur...?)",
             "\\.\\C[4](Il y a deux ascenseurs,\n alors ce n'est pas impossible...)",
             "\\.\\C[4](Mais... attends...)",
-            "\\.\\C[4](Quand j'y pense, je trouve que la carte du 5ᵉ Étage\n est \\C[2]étrange comparée à celle du 4ᵉ Étage\\C[4]...)",
+            "\\.\\C[4](Quand j'y pense, je trouve que la carte de l'Étage 5\n est \\C[2]étrange comparée à celle de l'Étage 4\\C[4]...)",
             "\\.\\C[4](C'est cet endroit, juste-là...!)",
             "\\.\"... Cherchons un petit peu plus, Sara.\"",
             "\"Quel dommage... Vous vous en allez déjà ?\"",
@@ -23427,8 +23427,12 @@
         ],
         "1085-0-message": [
             "\\.\\C[4](Le voilà...!)",
-            "\"C'est exactement la même disposition que\n le 4e étage, mais sans la pièce au milieu...\"",
-            "\"Peut-être... qu'elle n'est simplement\n pas dessinée dessus.\""
+            "\"C'est exactement la même disposition que\n l'Étage 4, mais sans la pièce au milieu...\"",
+            "\"Peut-être... qu'elle existe, mais qu'elle\n n'est simplement pas indiquée dessus.\"",
+            "\\.\"C'est possible ! Sinon, pourquoi ils\n auraient foutu une structure pareille ?\"",
+            "\\.\"Hmpf... C’est une bonne hypothèse...\n On dirait bien le genre de numéro que nous\n sortiraient ces maniaques de casse-têtes...\"",
+            "\\.\"Si la structure est la même qu'à l'Étage 4,\n il n’y a qu’une pièce qui mène à la salle centrale.\"",
+            "\\.\"La bibliothèque...!\""
         ]
     },
     "map107": {
@@ -34316,6 +34320,11 @@
         ],
         "107-1-choice": [
             "Examiner\nAnnuler"
+        ],
+        "2-1-message": [
+            "\\.\"Il y a vraiment une pièce ici...!\"",
+            "\\.\"Il y a bel et bien une pièce secrète...\"",
+            "\\.\"\\N[4] est pas là...?\""
         ]
     },
     "map201": {
@@ -35022,7 +35031,7 @@
             "\"C'était sacrément long, comme histoire.\"",
             "\\.\"...\"",
             "\\.\"Oh, bah zut...\n La prochaine fois, je prendrai le temps\n de creuser les sujets qui te plaisent, Sara.\"",
-            "\\.\"Ah, tiens... J'aurais pu jurer que cet endroit est la\n copie conforme de là où je me suis fait embarquer\n après avoir commis mon délit de violence.\"",
+            "\\.\"Hmm... J'étais certain que c'était l'endroit\n où je me suis fait coffrer après avoir commis\n mon délit de violence.\"",
             "\\.\"Houlà, quel souvenir atroce, en comparaison...\"",
             "\\.\"Ça sonne pas comme une belle histoire...\""
         ],
@@ -35053,7 +35062,7 @@
         ],
         "2-1-message": [
             "\\.\"...!!\"",
-            "\\.\"Tch... Un poste de police ?\"",
+            "\\.\"Tss... Un comico ?\"",
             "\\.\"Ça me rend nerveuse de passer par là...\""
         ],
         "1-1-message": [
@@ -37942,7 +37951,7 @@
         "2-1-message": [
             "\\.\"Y a tellement d'livres... C'est une bibliothèque ?\"",
             "\\.\"L’agencement est plutôt complexe.\n On pourrait croire à un labyrinthe...\"",
-            "\\.\"Suivez bien la carte et n'allez pas n'importe où,\n comme ça vous vous paumerez pas, d'accord ?.\"",
+            "\\.\"Suivez bien la carte et n'allez pas n'importe où,\n comme ça vous vous paumerez pas, d'accord ?\"",
             "\\.\"Si vous ne voulez pas vous perdre, suivez la carte...\n Évitez simplement les détours à l'improviste.\""
         ],
         "3-1-message": [
@@ -37968,6 +37977,9 @@
         ],
         "15-2-message": [
             "\\C[3]Il y a un interstice anormal entre les livres bleus."
+        ],
+        "2-3-message": [
+            "\\.\\C[4](S'il y a une pièce centrale dans un endroit\n aussi labyrinthique... ça doit être par là !)"
         ]
     },
     "map206": {
