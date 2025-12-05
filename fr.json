@@ -34329,7 +34329,23 @@
         "8-1-message": [
             "\\C[3]Les écrans projettent toutes les zones que nous avons\ndéjà visitées, comme le cimetière ou le poste de police.",
             "\"Aah ! C’est des images de caméras de surveillance !\n Comme c'est glauuuque !\"",
-            "\"Ça vient de caméras de surveillance, miaou...?\""
+            "\"Ça vient de caméras de surveillance, miaou...?\"",
+            "\\.\"On dirait que c'est la pièce du Maître d'Étage...\""
+        ],
+        "8-2-message": [
+            "\\C[3]Les écrans projettent toutes les zones que nous avons\ndéjà visitées, comme le cimetière ou le poste de police.",
+            "\\.\\C[4](Je ne vois \\N[4] nulle part...!)"
+        ],
+        "8-3-message": [
+            "\\C[3]Les écrans projettent toutes les zones que nous avons\ndéjà visitées, comme le cimetière ou le poste de police."
+        ],
+        "88-1-message": [
+            "\\C[3]Du texte est affiché à l'écran.",
+            "\\.\\C[6]Système de Contrôle des Cercueils\nBleu 　………　Humain\nRouge　………　Poupée\nJaune　………　Vacant",
+            "\\.\\C[4](Qu'est-ce que... c'est que ça...?)"
+        ],
+        "88-2-message": [
+            "\\C[3]L'écran affiche « Système de Contrôle des Cercueils »."
         ]
     },
     "map201": {
