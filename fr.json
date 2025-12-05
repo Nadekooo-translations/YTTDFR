@@ -34325,6 +34325,11 @@
             "\\.\"Il y a vraiment une pièce ici...!\"",
             "\\.\"Il y a bel et bien une pièce secrète...\"",
             "\\.\"\\N[4] est pas là...?\""
+        ],
+        "8-1-message": [
+            "\\C[3]Les écrans projettent toutes les zones que nous avons\ndéjà visitées, comme le cimetière ou le poste de police.",
+            "\"Aah ! C’est des images de caméras de surveillance !\n Comme c'est glauuuque !\"",
+            "\"Ça vient de caméras de surveillance, miaou...?\""
         ]
     },
     "map201": {
@@ -35031,7 +35036,7 @@
             "\"C'était sacrément long, comme histoire.\"",
             "\\.\"...\"",
             "\\.\"Oh, bah zut...\n La prochaine fois, je prendrai le temps\n de creuser les sujets qui te plaisent, Sara.\"",
-            "\\.\"Hmm... J'étais certain que c'était l'endroit\n où je me suis fait coffrer après avoir commis\n mon délit de violence.\"",
+            "\\.\"Ah, chelou... J'aurais pu jurer que c'est l'endroit\n où j'me suis fait coffrer après avoir déclenché\n une énorme baston.\"",
             "\\.\"Houlà, quel souvenir atroce, en comparaison...\"",
             "\\.\"Ça sonne pas comme une belle histoire...\""
         ],
