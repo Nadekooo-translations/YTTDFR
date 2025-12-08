@@ -19,6 +19,10 @@ Tech stack :
 
 Translations are stored in monolingual deep JSON files in the root of the repository.
 
+#### Contributing images
+
+Image translations are to be pushed into a branch whose name follows the `image/*`.
+
 #### Setting up a website developpment workspace
 
 A .env is required to build the website. The .env.example files has most of the variables already defined.
