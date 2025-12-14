@@ -73,7 +73,18 @@ import Layout from "../layouts/Layout.astro";
 		Le gestionnaire de sauvegardes n&apos;enregistre aucune donnée sur notre SI, et
 		toute donnée reste sur votre client.
 	</p>
+	<p>
+		Adresse de contact : <a id="email"></a>
+	</p>
 </Layout>
+
+<script>
+	const email = "em.121hecniv@dtty".split("").reverse().join("");
+	const emailAnchor = document.getElementById("email") as HTMLAnchorElement;
+
+	emailAnchor.href = "mailto:" + email;
+	emailAnchor.text = email;
+</script>
 
 <style lang="scss">
 	@import "@phosphor-icons/web/duotone";
