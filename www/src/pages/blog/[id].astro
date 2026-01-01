@@ -1,4 +1,5 @@
 ---
+import type { BlogPosting } from 'schema-dts';
 import type {  GetStaticPaths } from "astro";
 import { getCollection, render } from "astro:content";
 import Layout from "../../layouts/Layout.astro";
@@ -22,6 +23,21 @@ export const getStaticPaths = (async () => {
 const { post } = Astro.props;
 const { Content } = await render(post);
 const hero = post.data.image ? await getImage({src: post.data.image, format: 'webp'}) : undefined;
+
+// FIXME dupecode with BaseLayout
+let site = Astro.site?.toString();
+site = site?.substring(0, site.length - 1); // remove trailing /
+
+const schemaPost: BlogPosting = {
+	'@id': post.id,
+	'@type': 'BlogPosting',
+	author: {
+		'@id': site + "/#organization"
+	},
+	headline: post.data.title,
+	image: hero?.src,
+	datePublished: post.data.date.toISOString(),
+};
 ---
 
 <Layout
@@ -29,6 +45,9 @@ const hero = post.data.image ? await getImage({src: post.data.image, format: 'we
 	description={post.data.description}
 	heroUrl={hero?.src}
 	activeNav={"/blog/"}
+	extraSchemas={[
+		schemaPost,
+	]}
 >
 	<article>
 		{

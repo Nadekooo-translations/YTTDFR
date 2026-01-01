@@ -1,4 +1,6 @@
 ---
+import type { Graph, Thing, ListItem } from 'schema-dts';
+
 interface Props {
 	title: string;
 	/**
@@ -6,16 +8,17 @@ interface Props {
 	 */
 	description: string;
 	heroUrl?: string;
+	extraSchemas?: Thing[];
 }
 
-const { title, description, heroUrl } = Astro.props;
+const { title, description, heroUrl, extraSchemas } = Astro.props;
 
 let site = Astro.site?.toString();
 site = site?.substring(0, site.length - 1); // remove trailing /
 
 const path = Astro.url.pathname;
 
-const jsonld = {
+const jsonld: Graph = {
 	"@context": "https://schema.org",
 	"@graph": [
 		{
@@ -44,23 +47,23 @@ const jsonld = {
 			"@type": "BreadcrumbList",
 			"@id": `${site}${path}#breadcrumb`,
 			itemListElement: [
-				...[
-					{
-						"@type": "ListItem",
-						position: 1,
-						name: "Accueil",
-						item: site,
-					},
-				],
-				...(path === "/"
+				{
+					"@type": "ListItem",
+					position: 1,
+					name: "Accueil",
+					item: site,
+				},
+				...(
+					path === "/"
 					? []
 					: [
 							{
 								"@type": "ListItem",
 								position: 2,
 								name: title,
-							},
-						]),
+							} as ListItem,
+						]
+				),
 			],
 		},
 		{
@@ -84,6 +87,7 @@ const jsonld = {
 			url: site,
 			sameAs: ["https://x.com/YTTDFR", "https://discord.gg/PXyEMNEV4J"],
 		},
+		...extraSchemas ?? []
 	],
 };
 ---
