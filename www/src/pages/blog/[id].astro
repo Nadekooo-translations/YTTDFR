@@ -1,6 +1,6 @@
 ---
-import type { BlogPosting } from 'schema-dts';
-import type {  GetStaticPaths } from "astro";
+import type {BlogPosting, ListItem} from 'schema-dts';
+import type { GetStaticPaths } from "astro";
 import { getCollection, render } from "astro:content";
 import Layout from "../../layouts/Layout.astro";
 import dayjs from "dayjs";
@@ -8,6 +8,7 @@ import localizedFormat from "dayjs/plugin/localizedFormat";
 import "dayjs/locale/fr";
 import { getImage } from "astro:assets";
 import { Picture } from "astro:assets";
+import {schemaSite} from "../../utils.ts";
 dayjs.extend(localizedFormat);
 dayjs.locale("fr");
 
@@ -24,9 +25,7 @@ const { post } = Astro.props;
 const { Content } = await render(post);
 const hero = post.data.image ? await getImage({src: post.data.image, format: 'webp'}) : undefined;
 
-// FIXME dupecode with BaseLayout
-let site = Astro.site?.toString();
-site = site?.substring(0, site.length - 1); // remove trailing /
+const site = schemaSite(Astro.site);
 
 const schemaPost: BlogPosting = {
 	'@id': post.id,
@@ -38,6 +37,18 @@ const schemaPost: BlogPosting = {
 	image: hero?.src,
 	datePublished: post.data.date.toISOString(),
 };
+
+const blogItem: ListItem = {
+	'@type': 'ListItem',
+	position: 2,
+	name: 'Blog',
+	item: {
+		'@id': site + '/blog#blog',
+		'@type': 'Blog',
+		name: 'Blog YTTD.FR',
+	},
+};
+
 ---
 
 <Layout
@@ -47,6 +58,9 @@ const schemaPost: BlogPosting = {
 	activeNav={"/blog/"}
 	extraSchemas={[
 		schemaPost,
+	]}
+	extraBreadcrumbs={[
+		blogItem,
 	]}
 >
 	<article>
