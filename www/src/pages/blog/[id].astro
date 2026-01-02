@@ -79,7 +79,7 @@ const blogItem: ListItem = {
 	</article>
 </Layout>
 
-<style lang="scss">
+<style lang="scss" is:global>
 	@import "../../styles/_colors.scss";
 
 	article {
@@ -95,6 +95,10 @@ const blogItem: ListItem = {
 
 		figure {
 			text-align: center;
+
+			figcaption {
+				color: $textMuted;
+			}
 		}
 
 		h1 {
