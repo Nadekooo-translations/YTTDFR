@@ -1,5 +1,6 @@
 ---
-import type {  GetStaticPaths } from "astro";
+import type {BlogPosting, ListItem} from 'schema-dts';
+import type { GetStaticPaths } from "astro";
 import { getCollection, render } from "astro:content";
 import Layout from "../../layouts/Layout.astro";
 import dayjs from "dayjs";
@@ -7,6 +8,7 @@ import localizedFormat from "dayjs/plugin/localizedFormat";
 import "dayjs/locale/fr";
 import { getImage } from "astro:assets";
 import { Picture } from "astro:assets";
+import {schemaSite} from "../../utils.ts";
 dayjs.extend(localizedFormat);
 dayjs.locale("fr");
 
@@ -22,6 +24,31 @@ export const getStaticPaths = (async () => {
 const { post } = Astro.props;
 const { Content } = await render(post);
 const hero = post.data.image ? await getImage({src: post.data.image, format: 'webp'}) : undefined;
+
+const site = schemaSite(Astro.site);
+
+const schemaPost: BlogPosting = {
+	'@id': post.id,
+	'@type': 'BlogPosting',
+	author: {
+		'@id': site + "/#organization"
+	},
+	headline: post.data.title,
+	image: (site ?? '') + hero?.src,
+	datePublished: post.data.date.toISOString(),
+};
+
+const blogItem: ListItem = {
+	'@type': 'ListItem',
+	position: 2,
+	name: 'Blog',
+	item: {
+		'@id': site + '/blog#blog',
+		'@type': 'Blog',
+		name: 'Blog YTTD.FR',
+	},
+};
+
 ---
 
 <Layout
@@ -29,6 +56,12 @@ const hero = post.data.image ? await getImage({src: post.data.image, format: 'we
 	description={post.data.description}
 	heroUrl={hero?.src}
 	activeNav={"/blog/"}
+	extraSchemas={[
+		schemaPost,
+	]}
+	extraBreadcrumbs={[
+		blogItem,
+	]}
 >
 	<article>
 		{
@@ -46,7 +79,7 @@ const hero = post.data.image ? await getImage({src: post.data.image, format: 'we
 	</article>
 </Layout>
 
-<style lang="scss">
+<style lang="scss" is:global>
 	@import "../../styles/_colors.scss";
 
 	article {
@@ -62,6 +95,10 @@ const hero = post.data.image ? await getImage({src: post.data.image, format: 'we
 
 		figure {
 			text-align: center;
+
+			figcaption {
+				color: $textMuted;
+			}
 		}
 
 		h1 {

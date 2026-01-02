@@ -68,6 +68,11 @@ h2 {
 	text-wrap: pretty;
 }
 
+blockquote {
+	border-left: solid 1px $gold;
+	padding-left: 1ch;
+}
+
 .warning {
 	color: $red;
 }
