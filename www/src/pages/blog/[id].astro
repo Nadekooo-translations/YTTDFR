@@ -34,7 +34,7 @@ const schemaPost: BlogPosting = {
 		'@id': site + "/#organization"
 	},
 	headline: post.data.title,
-	image: hero?.src,
+	image: (site ?? '') + hero?.src,
 	datePublished: post.data.date.toISOString(),
 };
 
