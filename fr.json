@@ -34001,7 +34001,7 @@
             "\\.\\C[4](Malgré tout, je veux en tirer le maximum...!)",
             "\\.\\C[4](Qu'est-ce qu'on peut lui demander...?)",
             "\\.\"Shin Tsukimi... Pourrais-tu nous expliquer\n plus en détail qui tu es ?\"",
-            "\\.\\sw[324]\"M-Moi...? Je ne suis pas vraiment...\n J-Je suis une personne tout à fait ordinaire.\"\\sw[325]",
+            "\\.\\sw[324]\"M-Moi...? Je suis juste...\n J-Je suis juste une personne ordinaire.\"\\sw[325]",
             "\\.\\sw[324]\"Je ne suis qu'un simple intérimaire\n qui travaille dans des konbini...\n Éhéhé... C'est tout à fait banal, non ?\"\\sw[325]",
             "\\.\\C[4](Est-ce vrai...?)",
             "\\.\"Pourquoi cette question...?\"",
@@ -34039,7 +34039,7 @@
             "\\.\"Hmpf... C'est un collier pour les morts.\n Il est construit différemment que les vôtres...\"",
             "\\.\"Haa... Bon, je suppose que je vais en mettre un autre.\"",
             "\\.\"Tu te l'es attaché toi-même ?\n T'es complètement taré, mec...\"",
-            "\\.\"Tu es vraiment prétentieux...\n Tu n'as pas peur d'entrer en territoire ennemi ?\"",
+            "\\.\"T'es vraiment prétentieux...\n T'as pas peur d'entrer en territoire ennemi ?\"",
             "\\.\"...Oh oui, j'ai peur. C'est pour ça que j'ai un colt.\n Il est chargé de quatre munitions...\"",
             "\\.\"Répète ça...?!\"",
             "\\.\"Que...?!\"",
@@ -34410,6 +34410,14 @@
         "89-2-message": [
             "\\C[3]L'écran est figé.",
             "\\.\\C[4](L'IA de Sou ne se montre pas...)"
+        ],
+        "89-3-choice": [
+            "À propos de \\N[4]\nÀ propos de la carte ID\nAnnuler",
+            "Répète-le\nDis juste l'essentiel\nAnnuler",
+            "Répète-le\nDis juste l'essentiel\nAnnuler"
+        ],
+        "9-1-choice": [
+            "Le prendre\nAnnuler"
         ]
     },
     "map201": {
@@ -37933,9 +37941,9 @@
             "\\.\"...\""
         ],
         "2-5-message": [
-            null,
-            null,
-            null,
+            "\\.\"Tout va bien, costard-binocles ?\"",
+            "\\.\"Oui, je vais bien.\n Mais sinon... où est \\N[4]...?\"",
+            "\\.\"Il s'est enfui...\"",
             null,
             null,
             null,
@@ -38065,6 +38073,17 @@
         ],
         "2-3-message": [
             "\\.\\C[4](S'il y a une pièce centrale dans un endroit\n aussi labyrinthique... ça doit être par là !)"
+        ],
+        "2-4-message": [
+            "\\.\"T'es passé où, miaou ?! Tête d'aaaalgue !!\"",
+            "\\.\"Taisez-vous, tous ! Tendons l'oreille et écoutons\n ses bruits de pas pour savoir où il va !\"",
+            "\\.\"Écoutez ses bruits de pas !\n Comme ça on saura où il s'est enfuit !\"",
+            "\\.\"Rah, c'est fort...! C'est quoi ce bruit ?!\n J'arrive pas à écouter ce qui se passe !!\"",
+            "\\.\"Quel est ce bruit ?!\n C'est si fort qu'on ne peut rien discerner !\"",
+            "\\.\"Hé, je me demande ce que c'est ?\"",
+            "\\.\"T'as vu \\N[4] quelq'part ?!\"",
+            "\\.\"Non, regardez, là-bas...\"",
+            "\\.\"Quelque chose... se... rappro...\""
         ]
     },
     "map206": {
