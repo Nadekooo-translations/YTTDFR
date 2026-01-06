@@ -42339,9 +42339,56 @@
     },
     "map210": {
         "4-2-message": [
-            null,
-            null,
+            "\\C[3]Les livres regardent Hayasaka de façon menaçante.",
+            "\\C[3]Le monstre est immobilisé.",
             "\\C[3]Le monstre tente de se relever, sans se défendre."
+        ],
+        "1-1-message": [
+            "\"Un... Un livre nous attaque...?!\"",
+            "\"Grahhh ! Et c'est tellement bruyant, là-dedans !\n C'est quoi ce bordel !!\"",
+            "\"Argh, seigneur ! Et dans une pièce aussi bruyante ?!\n On nage en plein délire !!\"",
+            "\\.\"Tout va bien... C'est qu'un bouquin.\n On le neutralise calmement puis on traque \\N[4].\"",
+            "\\C[4](Pour l'instant, nous devons nous concentrer\n sur l'Obstructeur en face de nous...!)"
+        ],
+        "4-1-message": [
+            "\\C[3]Le livre flotte dans les airs.",
+            "\\C[3]Le livre fait des bruits de froissement.",
+            "\\.\\C[3]Le livre a commencé à tournoyer dans l'air.",
+            "\\C[3]Un autre livre a commencé à flotter.",
+            "\"Ils... Ils s'multiplient ?!\"",
+            "\"H-Hé...! Ils se multiplient !\"",
+            "\\.\"Je vois... Là, on rencontre un pépin.\"",
+            "\\C[3]Les livres claquent fortement leurs dents.",
+            "\\.\\C[3]Les livres ont commencé à tournoyer dans l'air.",
+            "\\C[3]Un livre de plus a commencé à flotter.",
+            "\"Ils continuent de se multiplier...!!\"",
+            "\"Ne me dites pas que tous les livres de cette pièce\n peuvent devenir des ennemis... Impossible, hein ?\"",
+            "\\C[3]Les livres voltigent comme pour frimer.",
+            "\\.\\C[3]Tous les livrent attaquent \\C[2]Hayasaka\\C[3] !",
+            "\"P... Pourquoi toujours moi ?!\"",
+            "\\C[3]Hayasaka s'est rapidement caché derrière\nune étagère pour échapper au danger.",
+            "\\C[3]Les livres imitent les oiseaux en battant\nde leur couverture.",
+            "\\.\\C[3]Les livres ont commencé à tournoyer dans l'air.",
+            "\\C[3]Un livre de plus a commencé à flotter.",
+            "\"Grah...! Ça aussi, ce serait galère, j'te le dis...!!\"",
+            "\\.\"Quels livres énervants, miaou ! Descendez\n et combattez gorille musclé à la loyale, miaou !!\"",
+            "\\.\"J'pense pas qu'ce soit une bonne solution, ça...!!\"",
+            "\\C[3]Les livres volent doucement, comme s'ils\nsurveillaient leurs environs.",
+            "\\.\\C[3]Les livres ont commencé à tournoyer dans l'air.",
+            "\\C[3]Un livre de plus a commencé à flotter.",
+            "\"J'ai pas l'impression qu'on puisse\n gagner par la force brute...\"",
+            "\\.\"C'est une bibliothèque, après tout...\n Peut-être qu'on doit respecter les bonnes manières.\"",
+            "\\C[3]Les livrent flottent silencieusement,\nen se regardant les uns des autres.",
+            "\"Voilà d'étranges mouvements...\n On ferait pas mieux de s'inquiéter ?\"",
+            "\\.\\C[4](Les parties rouges du monstre sont électrifiées !\n On doit toucher uniquement son armure...!)",
+            "\\.\\C[4](Le monstre est insensible à la douleur !\n Si on veut utiliser la torche, on doit d'abord\n attirer son attention ou l'immobiliser...!)",
+            "\\.\\C[4](Ce truc rouge sur son torse...\n C'est quoi, exactement ? Un point faible...?)"
+        ],
+        "5-1-message": [
+            "\\C[3][Réveil]\nUne horloge qui émet un bruit strident\ndans le but de réveiller quelqu'un."
+        ],
+        "6-1-message": [
+            "\\C[3][Alarme de Smartphone]\nL'écran affiche \"Alarme.\" Elle émet un long son\nde temps en temps, à très haut volume."
         ]
     },
     "map211": {
