@@ -23433,6 +23433,30 @@
             "\\.\"Hmpf... C’est une bonne hypothèse...\n On dirait bien le genre de numéro que nous\n sortiraient ces maniaques de casse-têtes...\"",
             "\\.\"Si la structure est la même qu'à l'Étage 4,\n il n’y a qu’une pièce qui mène à la salle centrale.\"",
             "\\.\"La bibliothèque...!\""
+        ],
+        "1425-0-message": [
+            "\"Qui a peur d'un bouquin ?\n J'ai qu'à tout détruire avec mes poings !\""
+        ],
+        "1426-0-message": [
+            "\"Je vais pousser une étagère\n pour qu'elle tombe dessus !\""
+        ],
+        "1427-0-message": [
+            "\"Kanna sait d'où provient le bruit...!\n Elle va aller chercher la source !\""
+        ],
+        "1428-0-message": [
+            "\"Mes tympans me font mal...\n Faut qu'on trouve ce qui fait ce bruit.\""
+        ],
+        "1429-0-message": [
+            "\"Combattre le livre par le livre !\n J'vais les abattre en leur balançant des bouquins !\""
+        ],
+        "1430-0-message": [
+            "\"Nous ne devons pas nous laisser faire...!\n Je vais les attraper et les remettre à leur place\n dans les étagères !\""
+        ],
+        "1431-0-message": [
+            "\"Si vous avez des trucs qui font du bruit,\n je vais les détruire !\""
+        ],
+        "1432-0-message": [
+            "\"Argh, c'est chiant...! Passe-moi ça !\n Je vais pulvériser ce truc bruyant !\""
         ]
     },
     "map107": {
@@ -42388,7 +42412,10 @@
             "\\C[3][Réveil]\nUne horloge qui émet un bruit strident\ndans le but de réveiller quelqu'un."
         ],
         "6-1-message": [
-            "\\C[3][Alarme de Smartphone]\nL'écran affiche \"Alarme.\" Elle émet un long son\nde temps en temps, à très haut volume."
+            "\\C[3][Alarme de Smartphone]\nL'écran affiche « Alarme ». Elle émet un son\nà très haut volume de temps en temps."
+        ],
+        "7-1-message": [
+            "\\C[3][Feu d'Artifice Portable]\nContrairement à ceux vendus dans le commerce,\ncelui-ci est immensément lourd. Il produirait sûrement\nd'énormes déflagrations si on l'allumait."
         ]
     },
     "map211": {
