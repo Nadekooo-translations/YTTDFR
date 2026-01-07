@@ -23198,7 +23198,7 @@
             "\"Je vais renifler toute odeur suspecte, miaou !\""
         ],
         "1423-0-message": [
-            "\"Ce bruit parasite m'dérange trop...!\n J'vais d'abord trouver d'où il vient !\""
+            "\"Ce bruit parasite me dérange trop...!\n J'vais d'abord trouver d'où ça vient !\""
         ],
         "1424-0-message": [
             "\"Je ne parviens pas à réfléchir avec ce bruit...!\n Bon, très bien. Je vais localiser la source avec\n mon ouïe fine !\""
@@ -23441,22 +23441,100 @@
             "\"Je vais pousser une étagère\n pour qu'elle tombe dessus !\""
         ],
         "1427-0-message": [
-            "\"Kanna sait d'où provient le bruit...!\n Elle va aller chercher la source !\""
+            "\"Kanna sait d'où provient le bruit...!\n Elle peut y aller !\""
         ],
         "1428-0-message": [
-            "\"Mes tympans me font mal...\n Faut qu'on trouve ce qui fait ce bruit.\""
+            "\"J'ai sacrément mal aux tympans...\n Faut qu'on localise la source de ce bruit.\""
         ],
         "1429-0-message": [
-            "\"Combattre le livre par le livre !\n J'vais les abattre en leur balançant des bouquins !\""
+            "\"Combattre le livre par le livre !\n J'vais les abattre en leur balançant des bouquins\n en pleine poire !\""
         ],
         "1430-0-message": [
-            "\"Nous ne devons pas nous laisser faire...!\n Je vais les attraper et les remettre à leur place\n dans les étagères !\""
+            "\"Plutôt que de les laisser nous attaquer...!\n Je vais les attraper et les remettre à leur place\n dans les étagères !\""
         ],
         "1431-0-message": [
-            "\"Si vous avez des trucs qui font du bruit,\n je vais les détruire !\""
+            "\"Si t'as un truc qui fait du bruit,\n je vais le réduire en miettes !\""
         ],
         "1432-0-message": [
-            "\"Argh, c'est chiant...! Passe-moi ça !\n Je vais pulvériser ce truc bruyant !\""
+            "\"Rah, quel tintamarre...! Passe-moi ça !\n Je vais pulvériser cette nuisance sonore !\""
+        ],
+        "1433-0-message": [
+            "\"Euh... Est-ce qu'on devrait allumer le feu d'artifice ?\n Ce n'est pas dangereux, de jouer avec le feu, ici...?\""
+        ],
+        "1434-0-message": [
+            "\"Taisez-vous. C'est une bibliothèque.\n Faisons régner le silence...\""
+        ],
+        "1437-0-message": [
+            "\\C[3]Les livres se jetèrent tous en même temps sur Hayasaka.",
+            "\"Ça craint ! Cours...!!\"",
+            "\"O... Ouahhhh !! Arrêtez...!!\""
+        ],
+        "1438-0-message": [
+            "\"Allez ! J't'ai eu !\"",
+            "\"Quoooi ?! Il a pas bronché...?!\"",
+            "\"Et l'bouquin qu'j'ai jeté est devenu un ennemi,\n lui aussi ?!\"",
+            "\\.\"Et merde...\"",
+            "\"Et l'bouquin qu'j'ai jeté est devenu un ennemi,\n lui aussi ?!\"",
+            "\\.\"Et merde...\"",
+            "\"Et l'bouquin qu'j'ai jeté est devenu un ennemi,\n lui aussi ?!\"",
+            "\\.\"Et merde...\"",
+            "\"Attends... Tu veux que je détruise quoi, là ?\n Tu dois d'abord avoir un truc à détruire...\"",
+            "\"Dépêche-toi de me ramener un truc bruyant !\n Je brûle d'envie de pulvériser quelque chose !\"",
+            "\"Hah ! J'savais qu'il ferait pas l'poids.\"",
+            "\"C’est quoi ce bordel...! \n Y a un autre livre qui débarque...!\"",
+            "\"Aïeeeeee !! Ça fait maaaaal !!\"",
+            "\\.\"Anzu ?! Ça va ?!\"",
+            "\\.\"Je suis navrée... Ça s'est pas du tout \n passé comme prévu...!\"",
+            "\\.\"H-Hé !! Rien de cassé...?!\"",
+            "\\.\"Hii...! Désolée !!\n Ça s'est pas passé comme prévu !!\""
+        ],
+        "1439-0-message": [
+            "\"Miaou !! Je sens une trace de poudre à canon, ouaf !\"",
+            "\\.\"De la poudre à canon...?!\"",
+            "\\.\"J'ai trouvé, miaou !\n Grande sœur Sara ! Ça vient de là, ouaf !\"",
+            "\\.\\C[3]Feu d'artifice portable obtenu.",
+            "\\.\\C[4](Ce serait catastrophique, d'utiliser ça ici, non...?!)",
+            "\"Hahaha...! J'ai réussi, Gin !\n Je l'ai rangé dans l'étagère !\"",
+            "\\.\"T'es génial, miaou !!\n Maintenant, range les autres livres, ouaf !\"",
+            "\\.\"Hein...?! Laisse-moi souffler !\n Je suis déjà au bout du rouleau...!\"",
+            "\\.\\C[4](Au moins, ça nous a fait gagner un peu de temps...!)",
+            "\\C[3]La pièce prit feu.",
+            "\"I-Impossible ! Pourquoi le feu se propage autant...?!\"",
+            "\\.\"On... On ne peut même pas se battre,\n dans des conditions pareilles...!!\"",
+            "\\C[3]Les flammes se mirent à dévorer toute la pièce.",
+            "\"Ce... C'est pas bon ! Je voulais pas çaaaa !!\"",
+            "\\.\"Y a aucune issue...!!\"",
+            "\\.\"Pas ici... pas comme ça...!!\"",
+            "\\.\"N... NoooooOOOOON !!\""
+        ],
+        "1440-0-message": [
+            "\\.\\C[3]Au signal de Keiji, tout le monde se tut.",
+            "\\C[3]Les livres retournèrent à leur place.",
+            "\"Silence dans la bibliothèque... Je suppose.\"",
+            "\\C[10]Le silence régna dans la bibliothèque.",
+            "\"Je l'ai trouvé...! Le voilà !\"",
+            "\\.\\C[3]Kanna sortit un réveil de l'arrière d'une étagère.",
+            "\\.\\C[3]Réveil obtenu.",
+            "\"Hein ?! Comment on l'arrête...?!\"",
+            "\"... Le voilà.\"",
+            "\\.\\C[3]Sou sortit un réveil de l'arrière d'une étagère.",
+            "\\.\\C[3]Réveil obtenu.",
+            "\"C'est bruyant, alors je te le donne, Sara...\"",
+            "\"Je l'ai entendu...! Juste là !\"",
+            "\\.\\C[3]Reko prit un smartphone d'en dessous d'une étagère.",
+            "\\.\\C[3]Smartphone bruyant obtenu.",
+            "\"Tss ! Inutilisable, comme d'hab'...!\"",
+            "\"Là-bas...!!\"",
+            "\\.\\C[3]Alice prit un smartphone d'en dessous d'une étagère.",
+            "\\.\\C[3]Smartphone bruyant obtenu.",
+            "\"Mouahaha... Sais-tu le nombre de fois où j'ai fait\n sonner un téléphone perdu pour le retrouver ?!\n J'ai bien plus d'expérience que quiconque...!\"",
+            "\"Et pourtant, on ne peut pas l'utiliser ?!\n C'est un canular ?!\"",
+            "\\.\\C[3]Le smartphone se cassa et ne fit plus un bruit.",
+            "\\.\\C[3]Le réveil se cassa et ne fit plus un bruit.",
+            "\"Et voilà le travail... C'est en miettes, maintenant...\"",
+            "\\.\\C[3]Le smartphone se cassa et ne fit plus un bruit.",
+            "\\.\\C[3]Le réveil se cassa et ne fit plus un bruit.",
+            "\"Je suis soulagée, maintenant...\""
         ]
     },
     "map107": {
@@ -34084,15 +34162,15 @@
             "\\.\"Fixons des règles... et battons-nous pour survivre.\"",
             "\"Il n'y a pas d'autres moyens...?\"",
             "\\.\"Hein...?\"",
-            "\\.\"Seras-tu vraiment satisfait avec\n de la simple violence, \\N[4]...?\"",
+            "\\.\"Seras-tu réellement satisfait avec\n de la violence pure et simple, \\N[4]...?\"",
             "\\.\"...\"",
             "\\.\\C[4](On dirait que ça l'a perturbé...)",
-            "\\.\"Mettons en place des règles pour ce combat...\n Ton Jeu Mortel est « sacré », n'est-ce pas...?\"",
+            "\\.\"Mettons en place des règles pour ce combat...\n Après tout, ton Jeu Mortel est « sacré », non...?\"",
             "\\.\"Ha...\"",
-            "\\.\"Ahaha !! HahaHAHAHAHA !!\"",
+            "\\.\"...Hahaha...\nAhaha !! HahaHAHAHAHA !!\"",
             "\\.\"Tu es vraiment la meilleure, Sara...!!\n La crème de la crème !!\"",
             "\\.\\C[4](...!!)",
-            "\\.\"D'accord, très bien...\"",
+            "\\.\"Bon, très bien...\"",
             "\\.\"Dans ce cas... pourquoi ne pas jouer à chat ?\"",
             "\\.\\C[3]\\N[4] prit quelque chose dans sa poche,\net appuya sur un bouton.",
             "\\.\"Ah...?\"",
@@ -34101,13 +34179,13 @@
             "\\.\"Au bout d'une heure, la dernière personne qui est\n le chat a perdu... Simple et efficace, pas vrai ?\"",
             "\\.\"Si vous ne voulez pas perdre en étant le chat...\n Touchez simplement quelqu'un.\"",
             "\\.\"A-Attends...!!\"",
-            "\\.\"... Des questions ?\"",
+            "\\.\"... D'autres questions ?\"",
             "\\.\"Euhh...! Hmm...!\"",
-            "\\.\"Dis-nous clairement !\n Lorsque le chat touche quelqu'un, ça le transfère ?\n Ça ne multiplie pas le nombre de chats...?!\"",
-            "\\.\"Ahaha... Je vous laisse essayer, d'accord ?\"",
+            "\\.\"Quand le chat touche quelqu'un, il le donne ?\n Ça ne multiplie pas le nombre de chats...?!\n Dis-le clairement !\"",
+            "\\.\"Ahaha... Vous n'avez qu'à essayer !\"",
             "\\.\"U-Une seconde...!\"",
             "\\.\"Rattrapons-le, Sara !!\"",
-            "\\.\"Faut pas le laisser s'enfuir...! Sara !!\"",
+            "\\.\"Il prend la poudre d'escampette...! Sara !!\"",
             "\\.\\C[4](Nous devons le pourchasser !!)"
         ],
         "89-6-message": [
@@ -42394,9 +42472,9 @@
             "\\C[3]Les livres imitent les oiseaux en battant\nde leur couverture.",
             "\\.\\C[3]Les livres ont commencé à tournoyer dans l'air.",
             "\\C[3]Un livre de plus a commencé à flotter.",
-            "\"Grah...! Ça aussi, ce serait galère, j'te le dis...!!\"",
-            "\\.\"Quels livres énervants, miaou ! Descendez\n et combattez gorille musclé à la loyale, miaou !!\"",
-            "\\.\"J'pense pas qu'ce soit une bonne solution, ça...!!\"",
+            "\"Grah...!\n T'crois vraiment qu’on peut s’en tirer\n en cognant comme des bourrins...!?\"",
+            "\\.\"Quels livres énervants, miaou ! Descendez\n et affrontez gorille musclé à la loyale, miaou !!\"",
+            "\\.\"J'pense pas qu'ce soit la bonne solution, ça...!!\"",
             "\\C[3]Les livres volent doucement, comme s'ils\nsurveillaient leurs environs.",
             "\\.\\C[3]Les livres ont commencé à tournoyer dans l'air.",
             "\\C[3]Un livre de plus a commencé à flotter.",
