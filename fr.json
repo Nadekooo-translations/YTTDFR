@@ -35036,7 +35036,15 @@
             null,
             "\"Wow ! Il y a des choses écrites dedans !\"",
             "\\.\"Vraiment...?!\"",
-            "\\.\"Attends, ne me dis pas que c'est\n des infos sur notre passé...!\""
+            "\\.\"Attends, ne me dis pas que c'est\n des infos sur notre passé...!\"",
+            "\\.\"Nan... C'est pas ça. Regarde.\"",
+            "\\.\"Vu qu'on est dans une école...\n Est-ce un manuel ?\"",
+            "\\.\"Pas du tout.\n ... Enfin, ça peut toujours nous apprendre des trucs.\"",
+            "\\.\"Ne regarde pas dedans ! C'est un piège...!\"",
+            "\\.\"S-Sérieux ?!\n Compris ! Je vais le remettre !\"",
+            "\\.\"Je t'ai eu... Le piège, c'était ma phrase.\"",
+            "\\.\"... Bon, lis-le, d'accord ?\"",
+            "\\.\\C[6]Salut la compagnie ! C'est moi !\nChers participants nationaux du Jeu Mortel,\nvous qui êtes si troublés par les Obstructeurs,\nje vous apporte de bonnes nouvelles !"
         ],
         "12-1-message": [
             "\\C[3]Il y a un morceau de papier collé au tableau.",
