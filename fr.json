@@ -34534,6 +34534,9 @@
         "4-1-message": [
             "\"Tss... Y a des caméras de surveillance partout,\n et pourtant je vois toujours pas \\N[4]...!\"",
             "\\.\"Je parie qu'il se déplace dans leurs angles morts...!\""
+        ],
+        "11-1-message": [
+            "\"Si je repère \\N[4] sur ces caméras,\n je vous le signalerai à travers le micro !\""
         ]
     },
     "map201": {
@@ -34659,7 +34662,13 @@
         ],
         "52-2-message": [
             "\\C[3]Un livre jaune.",
-            "\\.\\C[3]Sur la quatrième de couverture, on peut lire :\n\"Merci de rendre ce livre dans les délais\"."
+            "\\.\\C[3]Sur la quatrième de couverture, on peut lire :\n\"Merci de rendre ce livre dans les délais\".",
+            "\\.\\C[4](On dirait que ce livre provient de la bibliothèque...)",
+            "\\C[3]Livre Jaune Obtenu.",
+            "\"Ahh... Ce livre résume les trucs d'examens de santé\n qui étaient affichés sur l'écran de l'ordinateur.\""
+        ],
+        "65-1-message": [
+            "\"Ohh... Cet ordinateur s'allume aussi, alors ?\""
         ]
     },
     "map202": {
@@ -35022,7 +35031,12 @@
             "\\.\\C[4](Il ressort vachement...)"
         ],
         "5-2-message": [
-            "\\C[3]Un livre vert est posé ici."
+            "\\C[3]Un livre vert est posé ici.",
+            null,
+            null,
+            "\"Wow ! Il y a des choses écrites dedans !\"",
+            "\\.\"Vraiment...?!\"",
+            "\\.\"Attends, ne me dis pas que c'est\n des infos sur notre passé...!\""
         ],
         "12-1-message": [
             "\\C[3]Il y a un morceau de papier collé au tableau.",
@@ -35289,6 +35303,68 @@
         ],
         "3-3-message": [
             "\\C[3]Une voiture de police est garée."
+        ],
+        "7-1-message": [
+            "\"J’aurais dû mémoriser son odeur\n quand j’en avais l’occasion, ouaf !\"",
+            "\"Je ne lui pardonnerai jamais, miaou !\n Je vais tout faire pour qu'il s'excuse, ouaf...!\""
+        ],
+        "6-1-message": [
+            "\"Keiji... Même quand il est dos à moi,\n j'ai l'impression qu'il me surveille...\"",
+            "\\.\"À croire qu'il a des yeux derrière la tête...\""
+        ],
+        "8-1-message": [
+            "\"Ce lieu est plutôt ouvert, donc je n'imagine pas\n qu'il y ait beaucoup d'endroits pour se cacher...\""
+        ],
+        "18-1-message": [
+            "\"J’aurais dû mémoriser son odeur\n quand j’en avais l’occasion, ouaf !\"",
+            "\"Je ne lui pardonnerai jamais, miaou !\n Je vais tout faire pour qu'il s'excuse, ouaf...!\""
+        ],
+        "19-1-message": [
+            "\"Ce lieu est plutôt ouvert, donc je n'imagine pas\n qu'il y ait beaucoup d'endroits pour se cacher...\""
+        ],
+        "91-1-message": [
+            "\"Il fait noir... mais j'utilise ma vision nocturne\n pour inspecter chaque recoin, miaou !\"",
+            "\\.\\C[4](Il arrive vraiment à fouiller frénétiquement...)",
+            "\"Attention Gin, la sécurité avant tout !\"",
+            "\\.\"T'inquiète pas pour moi, oua... euh, miaou !!\"",
+            "\\.\\C[4](Mignon.)",
+            "\"Gin, est-ce que tu cherches seul ? Fais attention.\"",
+            "\\.\"T'inquiète, miaou !\n Je farfouille en mode chat, miaou !\"",
+            "\\.\"Oh...? En mode chat ?\"",
+            "\\.\"Ouais, miaou ! Quand un chat ressent un danger,\n il peut s'échapper avec sa super agilité, miaou !\"",
+            "\\.\\C[4](Ahh, je vois...!)",
+            "\\.\"Mais en revanche ! Comme ils sont capricieux,\n c'est pas trop leur truc de chercher, miaou !\"",
+            "\\.\\C[4](... Plutôt handicapant, comme point faible...)",
+            "\\.\"Grande soeur Sara, toi aussi, tu devrais\n t'en servir dans certaines situations, ouaf !!\"",
+            "\\.\\C[4](... Il vient juste de faire \"ouaf\"...)",
+            "\\C[4](... Je devrais lui laisser un peu de répit...)"
+        ],
+        "5-1-message": [
+            "\"Pas par là, hein...\"",
+            "\\.\\C[4](La vie de Keiji est en jeu...\n Il faut à tout prix que je le trouve...)",
+            "\\.\"T'as vraiment la classe avec cet air sérieux...\n Mais ne te mets pas trop la pression.\"",
+            "\\.\"Il ne va pas être facile à retrouver, hein...\"",
+            "\\.\"Tiens, tant que j'y pense, Sara...\n T'aurais pas vu traîner des livres de bibliothèque ?\"",
+            "\\.\"Ah... C'est quelque chose d'important ?\"",
+            "\\.\"Ça a un peu tiqué ma curiosité...\n Je crois en avoir aperçu quelques-uns...\"",
+            "\\.\\C[4](Hmm...)",
+            "\\.\"Dans la salle de classe, je crois...\"",
+            "\\.\"Bien vu... T'as bonne mémoire.\"",
+            "\\.\\C[4](Héhé...)",
+            "\\.\"Dans la Salle de Discussion, je crois...\"",
+            "\\.\"La Salle de Discussion...?\"",
+            "\\.\"Vous ne vous êtes pas encore\n tenus la main, avec Hinako ?\"",
+            "\\.\"... Malgré les apparences, ton ami le policier\n est plutôt timide avec les filles, crois-le ou non.\"",
+            "\\.\\C[4](Pff... Je fais l'effort d'être sérieuse, là...)",
+            "\\.\"Dans le bureau, je crois...\"",
+            "\\.\"Bien vu... T'as bonne mémoire.\"",
+            "\\.\\C[4](Héhé...)",
+            "\\.\"Je n'en ai aucune idée.\"",
+            "\\.\"Chapeau, Sara...\n Même quand tu sais pas, tu l'avoues franchement.\"",
+            "\\.\\C[4](Quoi que je dise, il me couvre d'éloges...)"
+        ],
+        "5-1-choice": [
+            "Dans la salle de classe\nDans la Salle de Discussion\nDans le bureau\nJe ne sais pas"
         ]
     },
     "map228": {
@@ -38227,6 +38303,11 @@
         ],
         "6-3-message": [
             "\\C[3]Hayasaka gît là, ses composants internes exposés."
+        ],
+        "4-4-message": [
+            null,
+            null,
+            "\\C[3]Livre Vert Obtenu."
         ]
     },
     "map206": {
