@@ -22736,7 +22736,7 @@
             "\\.\"Il va me falloir un peu de temps avant de devenir\n vraiment « amies » ... Je suis timide, tu vois.\"",
             "\\C[10]\"Mouahaha... Tu m'as démasquée.\"",
             "\\.\"... Tu ferais une très mauvaise actrice, Sara-senpai.\"",
-            "\\.\"Grrrh...!\"",
+            "\\.\"Grhhh...!\"",
             "\\.\"Haha... Je te dirais quand je te ferai confiance.\""
         ],
         "873-0-choice": [
@@ -23613,7 +23613,7 @@
             "\\.\"Argh...!!\"",
             "\"C-C'est impensable !!\n Je suis la vraie Sara !!\"",
             "\\.\"Et moi, je suis la vraie Reko !!\n Parce qu'on est toutes les deux allées à la\n Chambre des Tromperies !!\"",
-            "\\.\"Mrgh...!!\"",
+            "\\.\"Grmbl...!!\"",
             "\\.\\C[4](Ça n'a pas marché...!)"
         ],
         "3-2-message": [
@@ -24743,7 +24743,7 @@
             "\\.\"Gh...!!\"",
             "\"C-C'est impensable !!\n Je suis la vraie Sara !!\"",
             "\\.\"Et moi, je suis la vraie Reko !!\n Parce qu'on est toutes les deux allées à la\n Chambre des Tromperies !!\"",
-            "\\.\"Mrgh...!!\"",
+            "\\.\"Grmbl...!!\"",
             "\\.\\C[4](Ça n'a pas marché...!)"
         ],
         "4-2-message": [
@@ -33020,7 +33020,7 @@
             null,
             "\\.\"...\"",
             null,
-            null,
+            "\\.\\C[4](Keiji...)",
             null,
             null,
             null,
@@ -33318,7 +33318,7 @@
             "\\.\\sw[324]\"Pas d'inquiétude... J’ai préparé des indices.\"\\sw[325]",
             "\\.\\sw[324]\"À cet étage, j’ai recréé plusieurs lieux\n qui vous rappelleront de forts souvenirs.\"\\sw[325]",
             "\\.\\sw[324]\"La clé, c'est de vous souvenir de votre passé...\"\\sw[325]",
-            "\\.\"Grrrrrr...!\"",
+            "\\.\"Grrmbl...!\"",
             "\\.\\sw[324]\"Ah, d'ailleurs. Ce Mini-Jeu du Meurtrier est\n évidemment limité dans le temps, aussi.\"\\sw[325]",
             "\\.\"MiaaaOUUU ?!\"",
             "\\.\\sw[324]\"La limite, c'est jusqu'à ce que les Pantins\n n'aient plus de batterie !\n En d'autres termes, c'est leur durée de vie !\"\\sw[325]",
@@ -34475,7 +34475,7 @@
         "7-1-message": [
             "\\C[3]Il y a une vraie pagaille de boutons et de molettes.",
             "\"... Pas touche, minouche.\"",
-            "\\.\\C[4](Argh...)",
+            "\\.\\C[4](Grhh...)",
             "\\.\"Hmm...\"",
             "\"Zut... On dirait qu'il ne se passera rien\n à moins de s'en servir correctement.\"",
             "\"H-hé, Sara !\n Et si t'avais activé un piège, en faisant ça ?!\"",
@@ -34520,6 +34520,20 @@
         ],
         "9-1-choice": [
             "Le prendre\nAnnuler"
+        ],
+        "118-2-message": [
+            null,
+            null,
+            null,
+            null,
+            "\\.\\C[4](Grhh...)",
+            null,
+            null,
+            "\\.\\C[4](Grhh...)"
+        ],
+        "4-1-message": [
+            "\"Tss... Y a des caméras de surveillance partout,\n et pourtant je vois toujours pas \\N[4]...!\"",
+            "\\.\"Je parie qu'il se déplace dans leurs angles morts...!\""
         ]
     },
     "map201": {
@@ -35052,6 +35066,9 @@
         "12-6-message": [
             null,
             "\\.\\C[3]On peut lire : \"J’accepte d’offrir ma dévotion à Asunaro\npour l’accomplissement de mon vœu.\""
+        ],
+        "35-1-choice": [
+            "Procéder\nAnnuler"
         ]
     },
     "map205": {
@@ -35511,6 +35528,9 @@
             null,
             null,
             "\\.\\C[4](...)"
+        ],
+        "15-1-choice": [
+            "Procéder\nAnnuler"
         ]
     },
     "map234": {
@@ -36930,7 +36950,7 @@
             "\\.\\C[4](Ça n'a pas marché...!)",
             "\"Ce n'est pas bizarre du tout !\n Ce sont deux cas différents !!\"",
             "\\.\"Tu crois que ce que t'as envie de croire...\n C'est pas logique.\"",
-            "\\.\"Mgh...\"",
+            "\\.\"Grhh...\"",
             "\\.\\C[4](Ça n'a pas marché...!)",
             "\"Il y a bien une différence entre les deux.\"",
             "\\.\"L'enregistrement des caméras de surveillance...\n N'avait pas de son.\"",
@@ -38055,7 +38075,7 @@
             "\\.\"Bon sang...!! Ne vous approchez pas de moi !!\"",
             "\\.\"Haa..! Haa...!!\"",
             "\\.\"Ouah...! A-Aïeee...!!\"",
-            "\\.\"Arrêteeez !!\n Je ne... suis pas de la nourriture...!!\"",
+            "\\.\"Arrêteeez !!\n Je ne... suis pas à manger...!!\"",
             "\\.\"ARRÊTEEEEEEEEEEEEEEEEEEEEEEEZ !!\"\\|\\|\\^",
             "\\.\"A... Ahh...\"",
             "\\.\"Costard... binocles...?\"",
@@ -38064,14 +38084,14 @@
             "\\.\"Gin...!\"",
             "\\.\\C[3]Gin tremblait faiblement.",
             "\\.\"... Je...\"",
-            "\\.\"*snif*... Je peux protéger... personne, miaou...\"",
+            "\\.\"*snif*... Je suis incapable...\n de protéger mes amis, miaou...\"",
             "\\.\"Non, c'est pas vrai !! Gin, tu...!!\"",
-            "\\.\\C[3]Je n'ai pas le droit de lui faire un câlin.",
+            "\\.\\C[3]Je n'ai même pas le droit de lui faire un câlin.",
             "\\.\\C[3]Car si je touche Gin, il deviendra le chat.",
-            "\\.\\C[4](Je... J'en ai assez...\n Assez...!! De cet horrible de jeu de mort...!!)",
-            "\\.\\C[3]Humain ou poupée, ça ne change rien.\nNous sommes massacrés, sans la moindre distinction,\ncomme si nos vies n'avaient aucune valeur.",
+            "\\.\\C[4](Je... J'en ai assez...\n Assez...!! De cet horrible jeu mortel...!!)",
+            "\\.\\C[3]Humain ou poupée, ça ne change rien.\nNous sommes massacrés, comme Hayasaka juste devant moi.\nC'est comme si nos vies n'avaient aucune valeur.",
             "\\.\\C[4](Et ça compte également pour le jeu du chat...\n Si \\N[4] nous échappe encore...)",
-            "\\C[3]Hein ? C'est moi, ou mon collier se resserre...?",
+            "\\C[3]Hein ? Mon collier se resserre...?",
             "\"Haa...! Hahh...!!\"",
             "\\.\"Sara ?!\"",
             "\\.\"Que se passe-t-il ?! Sara Chidouin...!!\"",
@@ -38082,13 +38102,13 @@
             "\\.\\C[4](...\n ...\n ...)",
             "\\.\\C[4](...)",
             "\\.\\C[4](Je ne veux pas... mourir...)",
-            "\\C[10]Assez. Je n'en... peux plus.",
+            "\\C[10]Assez... Je n'en peux plus.",
             "\\.\\C[4](Personne au monde... ne pourrait s'habituer\n à des conditions pareilles...)",
             "\\.\"Haaa...! Haaa...!!\"",
-            "\\C[10]Pourquoi ?\nPourquoi ça tombe toujours sur moi...",
+            "\\C[10]Pourquoi ça tombe toujours sur moi...",
             "\\.\\C[4](NON...! Je ne dois pas paraître faible !!)",
             "\\.\\C[4](Mes alliés me regardent !)",
-            "\\C[10]Mais justement... c'est parce que J'AI des alliés...",
+            "\\C[10]C'est justement... parce que J'AI des alliés...",
             "\\.\\C[4](Je suis... celle qui soutient tout le monde...\n alors je ne dois pas...!)",
             "\\.\"HAHHH...!!!! HAHHH...!!!!\"",
             "\\.\"Je t'en prie... Partage ce fardeau avec Kanna.\"",
@@ -38103,23 +38123,23 @@
             "\\.\\C[3]Keiji posa gentiment sa main sur l'épaule de Kanna.",
             "\\.\"Ah...!\"",
             "\\.\"... À l'Ancien Policier d'entrer en scène.\n C'est mon dada, de coffrer les méchants...\"",
-            "\\.\"Ahh, v'là qui est bien parlé, Keiji !!\"",
+            "\\.\"V'là qui est bien parlé, Keiji !!\"",
             "\\.\\C[4](Keiji...)",
             "\\.\"Haha... Ce serait pas classe qu'un adulte laisse\n un gosse faire le sale boulot à sa place.\"",
             "\\.\"Grmbl...\"",
             "\\.\"M. le Policieeer...\"",
             "\\.\"... Hé, Sara.\n On dirait que c'est plus toi le chat.\"",
             "\\.\"...!\"",
-            "\\.\\C[3]J'ai enlacé Gin en serrant de toutes mes forces.",
+            "\\.\\C[3]J'ai pris Gin dans les bras en le\nserrant de toutes mes forces.",
             "\\.\"Grande sœur Sara...\"",
-            "\\.\"Gin...! Ne pleure pas, d'accord ?!\n T'es un grand garçon, courageux et fort...!!\"",
-            "\\.\"... Miaou... Ouais...\"",
+            "\\.\"Gin...! Ne pleure plus, d'accord ?!\n T'es un grand garçon, fort et courageux...!!\"",
+            "\\.\"... Ouais...\"",
             "\\.\"Allons chercher tête d'algue, miaou !!\"",
-            "\\.\"On va avoir besoin de l'aide de tout le monde.\n Dispersons-nous une fois de plus et cherchons.\"",
+            "\\.\"Bon, il faut que tout le monde y mette du sien.\n Dispersons-nous une fois de plus et cherchons.\"",
             "\\.\"Ouais !! On va le trouver et en finir\n une bonne fois pour toutes !!\"",
             "\\.\"Hmpf...! Vous pouvez compter sur moi !\n L'état d'esprit d'un fugitif, ça me connaît...!\"",
-            "\\.\"On va finir par le trouver, c'est certain...!!\"",
-            "\\.\"Si c'est pour mettre \\N[4] hors d'état de nuire...\n Je vais faire tout mon possible.\"",
+            "\\.\"On réussira à le trouver, c'est certain...!!\"",
+            "\\.\"Eh bien, si c'est pour vaincre \\N[4]...\n Je m'en occupe.\"",
             "\\.\"Groarrrr !! Alors on y va, ouaf !!\"",
             "\\.\\C[4](Tout le monde...)",
             "\\.\\C[4](Merci du fond du cœur...)",
@@ -38132,24 +38152,24 @@
             "\\.\"La ferme... Je fais ce que je veux, non ?\"",
             "\\.\"Bouahaha...\"",
             "\\.\"Euh...\n On m'a coupé l'herbe sous le pied, là.\"",
-            "\\.\"Keiji... on a complété la carte.\n En tant que flic, tu sais mener une chasse à l'homme,\n je me trompe ?\"",
+            "\\.\"Keiji... On a complété toute la carte.\n En tant que policier, tu sais comment mener\n une chasse à l'homme, je me trompe ?\"",
             "\\.\"... Un peu, mon neveu.\"",
             "\\.\"Allez... C'est pas comme si je voulais me sacrifier !\"",
             "\\.\"Dacodac...\n Faut coffrer le criminel.\"",
             "\\.\"C'est maintenant ou jamais, les gars !!\n On n’a plus le choix, faut y aller !\"",
             "\\.\"M. le Policieeer...\"",
-            "\\.\"... Coucou, Sara.\n On dirait que c'est plus toi le chat.\"",
+            "\\.\"... Hé, Sara.\n On dirait que c'est plus toi le chat.\"",
             "\\.\"...!\"",
-            "\\.\\C[3]J'ai enlacé Gin en serrant de toutes mes forces.",
+            "\\.\\C[3]J'ai pris Gin dans les bras en le\nserrant de toutes mes forces.",
             "\\.\"Grande sœur Sara...\"",
-            "\\.\"Gin...! Ne pleure pas, d'accord ?!\n T'es un grand garçon, courageux et fort...!!\"",
-            "\\.\"... Miaou... Ouais...\"",
+            "\\.\"Gin...! Ne pleure plus, d'accord ?!\n T'es un grand garçon, fort et courageux...!!\"",
+            "\\.\"... Ouais...\"",
             "\\.\"Allons chercher tête d'algue, miaou !!\"",
             "\\.\"On va avoir besoin de l'aide de tout le monde.\n Dispersons-nous une fois de plus et cherchons.\"",
             "\\.\"Ouais !! On va le trouver et en finir\n une bonne fois pour toutes !!\"",
             "\\.\"Hmpf...! Vous pouvez compter sur moi !\n L'état d'esprit d'un fugitif, ça me connaît...!\"",
             "\\.\"On va finir par le trouver, c'est certain...!!\"",
-            "\\.\"Si c'est pour mettre \\N[4] hors d'état de nuire...\n Je vais faire tout mon possible.\"",
+            "\\.\"Eh bien, si c'est pour vaincre \\N[4]...\n Je m'en occupe.\"",
             "\\.\"Groarrrr !! Alors on y va, ouaf !!\"",
             "\\.\\C[4](Tout le monde...)",
             "\\.\\C[4](Merci du fond du cœur...)"
@@ -38200,6 +38220,13 @@
         ],
         "2-7-message": [
             "\\.\"C'est quoi, ça ?!\""
+        ],
+        "6-1-message": [
+            "\\C[3]Hayasaka gît là, ses composants internes exposés.",
+            "\"Bon Dieu... Hayasaka...!\""
+        ],
+        "6-3-message": [
+            "\\C[3]Hayasaka gît là, ses composants internes exposés."
         ]
     },
     "map206": {
@@ -40075,7 +40102,7 @@
             "\\.\"Plus important encore, accepterais-tu d'être\n l’interlocutrice de Kanna Kizuchi à ma place ?\"",
             "\\.\"Celle-ci me traite tel un ami.\n A-t-elle oublié que je suis un meurtrier...?\"",
             "\\.\"Je suis pressée, donc...\"",
-            "\\.\"... Argh...\""
+            "\\.\"... Grhh...\""
         ],
         "4-1-message": [
             "\\C[3]Kanna discute calmement.",
@@ -42699,6 +42726,20 @@
         "57-1-message": [
             "\\C[3]Une sorte de câble blanc.",
             "\\.\\C[4](Un câble...?\n Il est branché au poteau arrière-gauche...)"
+        ]
+    },
+    "map230": {
+        "2-2-message": [
+            null,
+            "\\.\\C[4](Keiji...)"
+        ],
+        "2-2-choice": [
+            "Procéder\nAnnuler"
+        ]
+    },
+    "map218": {
+        "2-2-choice": [
+            "Procéder\nAnnuler"
         ]
     }
 }
