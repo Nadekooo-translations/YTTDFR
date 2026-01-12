@@ -35044,7 +35044,9 @@
             "\\.\"S-Sérieux ?!\n Compris ! Je vais le remettre !\"",
             "\\.\"Je t'ai eu... Le piège, c'était ma phrase.\"",
             "\\.\"... Bon, lis-le, d'accord ?\"",
-            "\\.\\C[6]Salut la compagnie ! C'est moi !\nChers participants nationaux du Jeu Mortel,\nvous qui êtes si troublés par les Obstructeurs,\nje vous apporte de bonnes nouvelles !"
+            "\\.\\C[6]Salut la compagnie ! C'est bibi !\nChers participants nationaux du Jeu Mortel,\nvous qui êtes si troublés par les Obstructeurs,\nje vous apporte de bonnes nouvelles !",
+            "\\.\\C[6]Eh oui, mesdames et messieurs ! \nAujourd'hui, je vous dévoile la faiblesse de Maple,\nla plus forte des poupées parmi les Obstructeurs !",
+            "\\.\\C[6]C'est le petit espace dans son dos !\nSouvenez-vous-en, et vous pourrez fanfaronner : \n« Les Obstructeurs, on les mange au p'tit-déj ! »"
         ],
         "12-1-message": [
             "\\C[3]Il y a un morceau de papier collé au tableau.",
