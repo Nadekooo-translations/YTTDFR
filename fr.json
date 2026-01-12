@@ -1211,8 +1211,8 @@
             "\\.\\C[4](Maintenant que j'y pense, Kurumada demandait Q-taro...)",
             "\\.\"Q-taro !\n On a besoin de ta force...!\"",
             "\\.\"J'sais pas d'quoi tu parles, mais compte sur moi !\n Allez, c'parti, Mai !\"",
-            "\\.\"On a besoin de quelqu'un avec longs bras...!\"",
-            "\\.\"... Qu'est-ce 'tu veux dire ?\n C'est vrai, ch'uis grand, j'ai les bras longs, mais...\"",
+            "\\.\"On a besoin de quelqu'un qui a le bras long !\n ... Au sens propre, bien sûr.\"",
+            "\\.\"... Qu'est-ce 'tu veux dire ?\n C'est vrai, ch'uis grand et j'ai d'longs bras, mais...\"",
             "\\.\"Bah, peu importe, j'vais t'filer un coup'd'main !\"",
             "\\.\"Allez, c'parti, Mai !\"",
             "\\.\"Ne pose pas de questions, viens avec moi !\"",
@@ -1223,10 +1223,10 @@
             "\\.\"Allez, c'partiiii !\""
         ],
         "60-2-choice": [
-            "On a besoin de toi, Q-taro\nOn a besoin de quelqu'un aux bras longs\nPose pas de questions, viens avec moi !\nOn se reparle plus tard"
+            "On a besoin de toi, Q-taro\nOn a besoin de bras longs\nPose pas de questions, viens !\nOn se reparle plus tard"
         ],
         "68-2-message": [
-            "\"On va finir par le trouver, Sara!\n Je te promets de faire de mon mieux !\"",
+            "\"On va finir par le trouver, Sara !\n Je te promets de faire de mon mieux !\"",
             "\"... Et pour Ranmaru, aussi !\""
         ]
     },
@@ -33087,30 +33087,30 @@
             "\\.\"Ouais, pas vraiment le temps se reposer...\n Allez, on se bouge.\""
         ],
         "25-2-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\C[3]Kurumada a la tête enfoncée dans un trou.",
+            "\"T'es à la bourre, comme d’hab...\n Vas-y, prends-le, et fissa.\"",
+            "\\.\"C'est quoi c'te façon d'me causer ?!\"",
+            "\\C[3]Q-taro plongea son bras dans le trou,\npuis en retira le livre.",
+            "\\.\\C[3]Livre Bleu obtenu.",
+            "\"Argh, c’est tout mouillé, putain...\"",
+            "\\.\"Ouais... mais y a moyen d'en tirer deux-trois lignes.\"",
+            "\\.\"Voyons-voiiir...\"",
+            "\\.\"... « Aujourd’hui encore, lorsque Shin m’aperçoit,\n il se fend d’un sourire radieux, prend une pose\n ridicule, et ne me lâche qu'un simple \"bonjour\" »...\"",
+            "\\.\"...!\"",
+            "\\.\"...!!\"",
+            "\\.\"... C’est quoi ce bouquin flippant ?\n Un journal intime ?\"",
+            "\\.\"... Shin...\"",
+            "\\.\"Sara ! Regarde, sur la tranche, il y a marqué : \n « Shin Tsukimi - données de test IA » !\"",
+            "\\.\"Données de test IA...?!\"",
+            "\\.\\C[4](Pas possible... Ce truc-là...\n serait un journal d’expériences écrit par \\N[4] ?)",
+            "\\.\"Euh... Sara !\"",
+            "\"Ce livre-là...\n Est-ce que Kanna peut l’examiner aussi...!?\"",
+            "\\.\"Hein...?\"",
+            "\"Je t'en supplie...! Je veux... je veux en savoir\n plus sur Sou, ne serait-ce qu’un peu...!\"",
+            "\\.\"Kanna... ne sait quasiment rien de Sou...!\"",
+            "\\.\"Pourquoi Sou a-t-il risqué sa vie pour protéger\n Kanna... Elle veut... connaître la vraie raison !!\"",
             "\\.\"...\"",
-            null,
+            "\\.\"... Protéger Kanna...?\"",
             null,
             null,
             null,
@@ -33206,6 +33206,15 @@
         ],
         "23-2-message": [
             "\\C[3]Il y a des poteaux installés aux quatre coins."
+        ],
+        "25-1-message": [
+            "\\C[3]Kurumada a la tête enfoncée dans un trou.",
+            "\\.\"Dépêche-toi d’aller me chercher l'vieux catcheur !\"",
+            "\\.\"Tss... Y a clairement un machin tout au fond... \n Mais j’peux pas l’attraper...\"",
+            "\\.\"Y a quelque chose là-dedans ?\"",
+            "\\.\"C'est un bouquin bleu...\n Y a marqué un truc à propos d'un délai de rendu.\"",
+            "\\.\"Si tu veux ce bouquin...\n Ramène-moi le vieux-catcheur ici.\"",
+            "\\.\\C[4](Q-taro, hein...\n Où est-ce qu’il était déjà...?)"
         ]
     },
     "map197": {
