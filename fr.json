@@ -35046,7 +35046,10 @@
             "\\.\"... Bon, lis-le, d'accord ?\"",
             "\\.\\C[6]Salut la compagnie ! C'est bibi !\nChers participants nationaux du Jeu Mortel,\nvous qui êtes si troublés par les Obstructeurs,\nje vous apporte de bonnes nouvelles !",
             "\\.\\C[6]Eh oui, mesdames et messieurs ! \nAujourd'hui, je vous dévoile la faiblesse de Maple,\nla plus forte des poupées parmi les Obstructeurs !",
-            "\\.\\C[6]C'est le petit espace dans son dos !\nSouvenez-vous-en, et vous pourrez fanfaronner : \n« Les Obstructeurs, on les mange au p'tit-déj ! »"
+            "\\.\\C[6]C'est le petit espace dans son dos !\nSouvenez-vous-en, et vous pourrez fanfaronner : \n« Les Obstructeurs, on les mange au p'tit-déj ! »",
+            "\\.\\C[4](La faiblesse d'un des Obstructeurs...?)",
+            "\"Sa façon d'écrire est insupportable, mais faut\n avouer que c’est une info bien utile.\"",
+            "\\.\\C[4](Ouais... c’est pas faux...\n Mais « l'Obstructeur le plus fort »...\n je préfère ne jamais tomber dessus...)"
         ],
         "12-1-message": [
             "\\C[3]Il y a un morceau de papier collé au tableau.",
@@ -35093,6 +35096,9 @@
         ],
         "35-1-choice": [
             "Procéder\nAnnuler"
+        ],
+        "5-2-choice": [
+            "Des infos sur notre passé ?\nC'est un manuel d'école ?\nLe lui prendre"
         ]
     },
     "map205": {
@@ -38276,7 +38282,9 @@
             "\\C[3]Il y a un interstice anormal entre les livres verts."
         ],
         "4-2-message": [
-            "\\C[3]Il y a un interstice anormal entre les livres verts."
+            "\\C[3]Il y a un interstice anormal entre les livres verts.",
+            "\\.\\C[4](Des livres verts... moi aussi, j’en ai un...)",
+            "\\C[3]J’ai glissé le livre dans la fente."
         ],
         "14-1-message": [
             "\\C[3]Il y a un interstice anormal entre les livres jaunes."
@@ -38315,9 +38323,15 @@
             "\\C[3]Hayasaka gît là, ses composants internes exposés."
         ],
         "4-4-message": [
-            null,
-            null,
+            "\\C[3]Les livres verts sont impeccablement alignés.",
+            "\\.\"C’est ce livre.\n Celui où ils ont noté le talon d’Achille de Maple.\"",
             "\\C[3]Livre Vert Obtenu."
+        ],
+        "4-2-choice": [
+            "Insérer dans l'espace\nAnnuler"
+        ],
+        "4-3-message": [
+            "\\C[3]Les livres verts sont impeccablement alignés."
         ]
     },
     "map206": {
