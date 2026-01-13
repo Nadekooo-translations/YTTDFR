@@ -23535,6 +23535,26 @@
             "\\.\\C[3]Le smartphone se cassa et ne fit plus un bruit.",
             "\\.\\C[3]Le réveil se cassa et ne fit plus un bruit.",
             "\"Je suis soulagée, maintenant...\""
+        ],
+        "1402-0-message": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\\.\\C[6]Salut la compagnie ! C'est bibi !\nChers participants nationaux du Jeu Mortel,\nvous qui êtes si troublés par les Obstructeurs,\nje vous apporte de bonnes nouvelles !",
+            "\\.\\C[6]Eh oui, mesdames et messieurs ! \nAujourd'hui, je vous dévoile la faiblesse de Maple,\nla plus forte des poupées parmi les Obstructeurs !",
+            "\\.\\C[6]C'est le petit espace dans son dos !\nSouvenez-vous-en, et vous pourrez fanfaronner : \n« Les Obstructeurs, on les mange au p'tit-déj ! »",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "Un livre vert trouvé dans la salle de classe.\nSur la quatrième de couverture, on peut lire :\n« Merci de rendre ce livre dans les délais ».",
+            "\\.\\C[6]Salut la compagnie ! C'est bibi !\nChers participants nationaux du Jeu Mortel,\nvous qui êtes si troublés par les Obstructeurs,\nje vous apporte de bonnes nouvelles !",
+            "\\.\\C[6]Eh oui, mesdames et messieurs ! \nAujourd'hui, je vous dévoile la faiblesse de Maple,\nla plus forte des poupées parmi les Obstructeurs !",
+            "\\.\\C[6]C'est le petit espace dans son dos !\nSouvenez-vous-en, et vous pourrez fanfaronner : \n« Les Obstructeurs, on les mange au p'tit-déj ! »"
         ]
     },
     "map107": {
@@ -33121,7 +33141,7 @@
             "\\.\"...\"",
             "\\.\"Mais... c'est Sou qui lui a appris...\"",
             "\\.\"Qu'il est hors de question de perdre...!!\"",
-            "\\.\"Qu'il faut y croire...\n Sinon, aucune route ne se tracera !\"",
+            "\\.\"Qu'il faut y croire... Sinon, aucun espoir ne naîtra !\"",
             "\\.\"...\n ...\n ...\"",
             "\\.\"Bouahaha... T'es vraiment bête, ma parole...\"",
             "\\.\"Espèce de...!\"",
@@ -33138,7 +33158,7 @@
             "\\.\"Kanna...\"",
             "\\.\"Pour l'instant... je ne peux pas te le donner...\"",
             "\\.\"Sara...\"",
-            "\\.\"Désolée... On en a certainement besoin\n pour résoudre une énigme.\"",
+            "\\.\"Désolé... On en a certainement besoin\n pour résoudre une énigme.\"",
             "\\.\"Je comprends...\"",
             "\\.\"Mais plus tard, quand ce jeu du chat sera terminé...\n Je veux que tu l'examines toi-même, Kanna.\"",
             "\\.\"Afin que l'on puisse gagner...!\"",
@@ -33731,10 +33751,10 @@
             "\\.\\C[4](Allons vérifier les ascenseurs...)"
         ],
         "3-5-message": [
-            "\\C[3]Le disjoncteur est positionné sur \"on\"."
+            "\\C[3]Le disjoncteur est positionné sur \"ON\"."
         ],
         "3-7-message": [
-            "\\C[3]Le disjoncteur est positionné sur \"off\"."
+            "\\C[3]Le disjoncteur est positionné sur \"OFF\"."
         ]
     },
     "map198": {
@@ -34722,13 +34742,13 @@
         ],
         "52-1-message": [
             "\\C[3]Un livre jaune.",
-            "\\.\\C[3]Sur la quatrième de couverture, on peut lire :\n\"Merci de rendre ce livre dans les délais\"."
+            "\\.\\C[3]Sur la quatrième de couverture, on peut lire :\n« Merci de rendre de livre dans les délais »."
         ],
         "52-2-message": [
             "\\C[3]Un livre jaune.",
-            "\\.\\C[3]Sur la quatrième de couverture, on peut lire :\n\"Merci de rendre ce livre dans les délais\".",
+            "\\.\\C[3]Sur la quatrième de couverture, on peut lire :\n« Merci de rendre de livre dans les délais ».",
             "\\.\\C[4](On dirait que ce livre provient de la bibliothèque...)",
-            "\\C[3]Livre Jaune Obtenu.",
+            "\\C[3]Livre Jaune obtenu.",
             "\"Ahh... Ce livre résume les trucs d'examens de santé\n qui étaient affichés sur l'écran de l'ordinateur.\""
         ],
         "65-1-message": [
@@ -35113,7 +35133,7 @@
             "\\.\\C[6]C'est le petit espace dans son dos !\nSouvenez-vous-en, et vous pourrez fanfaronner : \n« Les Obstructeurs, on les mange au p'tit-déj ! »",
             "\\.\\C[4](La faiblesse d'un des Obstructeurs...?)",
             "\"Sa façon d'écrire est insupportable, mais faut\n avouer que c’est une info bien utile.\"",
-            "\\.\\C[4](Ouais... c’est pas faux...\n Mais « l'Obstructeur le plus fort »...\n je préfère ne jamais tomber dessus...)"
+            "\\.\\C[4](Ouais, c’est pas faux...\n Mais bon, « l'Obstructeur le plus fort »...\n J'espère qu'on ne tombera jamais dessus...)"
         ],
         "12-1-message": [
             "\\C[3]Il y a un morceau de papier collé au tableau.",
@@ -38389,7 +38409,7 @@
         "4-4-message": [
             "\\C[3]Les livres verts sont impeccablement alignés.",
             "\\.\"C’est ce livre.\n Celui où ils ont noté le talon d’Achille de Maple.\"",
-            "\\C[3]Livre Vert Obtenu."
+            "\\C[3]Livre Vert obtenu."
         ],
         "4-2-choice": [
             "Insérer dans l'espace\nAnnuler"
@@ -38635,12 +38655,12 @@
         ],
         "20-1-message": [
             "\\C[3]Un livre rouge vif.",
-            "\\.\\C[3]Sur la quatrième de couverture, on peut lire :\n\"Merci de rendre ce livre dans les délais\".",
+            "\\.\\C[3]Sur la quatrième de couverture, on peut lire :\n« Merci de rendre de livre dans les délais ».",
             "\\.\\C[4](Est-ce un livre emprunté...?)"
         ],
         "20-2-message": [
             "\\C[3]Un livre rouge vif.",
-            "\\.\\C[3]Sur la quatrième de couverture, on peut lire :\n\"Merci de rendre ce livre dans les délais\".",
+            "\\.\\C[3]Sur la quatrième de couverture, on peut lire :\n« Merci de rendre ce livre dans les délais ».",
             "\\.\"Ce ne serait pas un livre de la bibliothèque ?\"",
             "\\.\"On dirait bien...\"",
             "\\.\\C[3]Livre Rouge obtenu."
@@ -39310,7 +39330,10 @@
             "\\.\\C[6]Comprendre ses émotions et\ndevenir un bon ami est la clé à la paix."
         ],
         "7-1-message": [
-            "\\C[3]Les livres verts de la bibliothèque.\nIls parlent de la poupée la plus forte, Maple."
+            "\\C[3]Les livres verts de la bibliothèque.\nIls parlent de la poupée la plus forte, Maple.",
+            "\\.\\C[6]Salut la compagnie ! C'est bibi !\nChers participants nationaux du Jeu Mortel,\nvous qui êtes si troublés par les Obstructeurs,\nje vous apporte de bonnes nouvelles !",
+            "\\.\\C[6]Eh oui, mesdames et messieurs ! \nAujourd'hui, je vous dévoile la faiblesse de Maple,\nla plus forte des poupées parmi les Obstructeurs !",
+            "\\.\\C[6]C'est le petit espace dans son dos !\nSouvenez-vous-en, et vous pourrez fanfaronner : \n« Les Obstructeurs, on les mange au p'tit-déj ! »"
         ],
         "5-2-choice": [
             "Examiner\nAnnuler"
