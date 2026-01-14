@@ -615,7 +615,11 @@
         "blackboardname_koku4-2_x": "426",
         "blackboardname_koku4-2_y": "391",
         "blackboardname_koku4-3_x": "338",
-        "blackboardname_koku4-3_y": "476"
+        "blackboardname_koku4-3_y": "476",
+        "itemdesc186": "Un livre vert trouvé dans la salle de classe.\\nSur la quatrième de couverture, on peut lire :\\n« Merci de rendre ce livre dans les délais ».",
+        "itemdesc190": "Un livre bleu trouvé par Kurumada.\\nSur la quatrième de couverture, on peut lire :\\n« Merci de rendre ce livre dans les délais ».",
+        "itemdesc188": "Un livre jaune provenant du bureau.\\nSur la quatrième de couverture, on peut lire :\\n« Merci de rendre ce livre dans les délais ».",
+        "itemdesc180": "Un livre rouge provenant de la Salle de Discussion.\\nSur la quatrième de couverture, on peut lire :\\n« Merci de rendre ce livre dans les délais »."
     },
     "items-16": {
         "name": "??????????????",
@@ -23201,7 +23205,7 @@
             "\"Ce bruit parasite me dérange trop...!\n J'vais d'abord trouver d'où ça vient !\""
         ],
         "1424-0-message": [
-            "\"Je ne parviens pas à réfléchir avec ce bruit...!\n Bon, très bien. Je vais localiser la source avec\n mon ouïe fine !\""
+            "\"Ce vacarme m'empêche de me concentrer...!\n Très bien, je vais localiser la source\n en me servant de mon ouïe fine !\""
         ],
         "1407-0-message": [
             "\"E-Euh...! Je sais, miaou !\n Je vais inspecter le sol de près, ouaf !\""
@@ -23538,10 +23542,10 @@
         ],
         "1402-0-message": [
             null,
-            null,
-            null,
-            null,
-            null,
+            "\\C[3][Livre Rouge]\nUn livre rouge provenant de la Salle de Discussion.\nSur la quatrième de couverture, on peut lire :\n« Merci de rendre ce livre dans les délais ».",
+            "\\C[3][Livre Jaune]\nUn livre jaune provenant du bureau.\nSur la quatrième de couverture, on peut lire :\n« Merci de rendre ce livre dans les délais ».",
+            "\\C[3][Livre Bleu]\nUn livre bleu trouvé par Kurumada.\nSur la quatrième de couverture, on peut lire :\n« Merci de rendre ce livre dans les délais ».",
+            "\\C[3][Livres Verts]\nLes livres verts de la bibliothèque.\nIls parlent de la poupée la plus forte, Maple.",
             "\\.\\C[6]Salut la compagnie ! C'est bibi !\nChers participants nationaux du Jeu Mortel,\nvous qui êtes si troublés par les Obstructeurs,\nje vous apporte de bonnes nouvelles !",
             "\\.\\C[6]Eh oui, mesdames et messieurs ! \nAujourd'hui, je vous dévoile la faiblesse de Maple,\nla plus forte des poupées parmi les Obstructeurs !",
             "\\.\\C[6]C'est le petit espace dans son dos !\nSouvenez-vous-en, et vous pourrez fanfaronner : \n« Les Obstructeurs, on les mange au p'tit-déj ! »",
@@ -23923,22 +23927,26 @@
         "name": "Tablette"
     },
     "items-179": {
-        "name": "Livre Rouge"
+        "name": "Livre Rouge",
+        "description": "Un livre rouge provenant de la Salle de Discussion.\nSur la quatrième de couverture, on peut lire :\n« Merci de rendre ce livre dans les délais »."
     },
     "items-180": {
         "name": "Livre Rouge"
     },
     "items-185": {
-        "name": "\\I[16]Livre Vert"
+        "name": "\\I[16]Livre Vert",
+        "description": "Un livre vert trouvé dans la salle de classe.\nSur la quatrième de couverture, on peut lire :\n« Merci de rendre ce livre dans les délais »."
     },
     "items-187": {
-        "name": "Livre Jaune"
+        "name": "Livre Jaune",
+        "description": "Un livre jaune provenant du bureau.\nSur la quatrième de couverture, on peut lire :\n« Merci de rendre ce livre dans les délais »."
     },
     "items-188": {
         "name": "Livre Jaune"
     },
     "items-189": {
-        "name": "Livre Bleu"
+        "name": "Livre Bleu",
+        "description": "Un livre bleu trouvé par Kurumada.\nSur la quatrième de couverture, on peut lire :\n« Merci de rendre ce livre dans les délais »."
     },
     "items-190": {
         "name": "Livre Bleu"
@@ -33290,6 +33298,11 @@
             "\\.\"Euh... Sara...\n Il y a un truc qui me trotte dans la tête...\"",
             "\\.\"Le couteau qui était dans cette pièce...\n Je ne le vois nulle part. Il a disparu...\"",
             "\\.\\C[4](Quoi...? Ça veut dire que quelqu’un l’a pris...?)"
+        ],
+        "19-1-message": [
+            "\\.\"Il y a un truc qui cloche...\"",
+            "\\.\"Le couteau qu'on a utilisé lors de cette énigme...\n Je ne le vois nulle part. Il est introuvable...\"",
+            "\\.\\C[4](Quoi...? Ça veut dire que quelqu’un l’a pris...?)"
         ]
     },
     "map197": {
@@ -34179,17 +34192,17 @@
             "\\.\"Que veux-tu dire...?\"",
             "\\.\"Attends, quoi...?\"",
             "\\.\"Les IA peuvent être rapprochées des vraies personnes\n en actualisant leurs savoirs et leurs personnalités.\"",
-            "\\.\"Donc en gros, le Sou qu'on regarde, là, c'est celui\n d'avant le Jeu Mortel, qui savait rien de toute cette histoire...\"",
+            "\\.\"Pour faire simple, le Sou qu'on regarde est celui\n d'avant le Jeu Mortel, qui sait rien de tout ça...\"",
             "\\.\"Ou plutôt... Shin Tsukimi,\n avant même qu'il prenne un alias...?\"",
             "\\.\\sw[324]\"Vous parlez de quoi, depuis tout à l'heure...?\"\\sw[325]",
-            "\\.\"Hmpf, ridicule. Ça ne nous mène à rien...\"",
+            "\\.\"Hmpf... Inutile. Ça ne mène à rien...\"",
             "\\.\"Je doute qu'il ait des infos pour nous, alors.\"",
             "\\.\\C[4](Malgré tout, je veux en tirer le maximum...!)",
             "\\.\\C[4](Qu'est-ce qu'on peut lui demander...?)",
             "\\.\"Shin Tsukimi... Pourrais-tu nous expliquer\n plus en détail qui tu es ?\"",
-            "\\.\\sw[324]\"M-Moi...? Je suis juste...\n J-Je suis juste une personne ordinaire.\"\\sw[325]",
+            "\\.\\sw[324]\"M-Moi...? Je ne suis pas vraiment...\n J-Je suis juste une personne ordinaire.\"\\sw[325]",
             "\\.\\sw[324]\"Je ne suis qu'un simple intérimaire\n qui travaille dans des konbini...\n Éhéhé... C'est tout à fait banal, non ?\"\\sw[325]",
-            "\\.\\C[4](Est-ce vrai...?)",
+            "\\.\\C[4](Est-ce la vérité...?)",
             "\\.\"Pourquoi cette question...?\"",
             "\\.\"\\N[4]... Je veux dire, le vrai Sou Hiyori.\n Peux-tu... nous parler de lui ?\"",
             "\\.\\sw[324]\"Ce « Sou » dont vous parlez...\n J'imagine que c'est Hiyori, hein...\"\\sw[325]",
@@ -34214,12 +34227,12 @@
             "\\.\"Que faites-vouuuuus ?\"",
             "\\.\"Yo ! Alors, vous avez soif de sang ?\"",
             "\\.\"\\N[4]...!!\"",
-            "\\.\"Ahaha. Ça m'appartient, vous savez...?\n Hé, arrête de faire ami-ami avec eux, compris ?\"",
+            "\\.\"Ahaha. Cette chose m'appartient, vous savez...?\n Hé, arrête de faire ami-ami avec eux, d'accord ?\"",
             "\\.\\sw[324]\"D-Désolé...! Je m'éteins tout de suite !\"\\sw[325]",
             "\\.\"Bon, alors...\n Pourriez-vous... me rendre ce collier ?\"",
             "\\.\"Héhé... Tu veux pas le perdre, je suppose ?\"",
             "\\.\"Eh bien, c'est le collier que je portais.\"",
-            "\\.\"Ce serait dommage que je sois le seul en sécurité !\"",
+            "\\.\"Je me sentirais si seul si j'étais\n l'unique personne en sécurité !\"",
             "\\.\"Nous n'avons aucune raison de le lui rendre...\n Le fait qu'il ait pu le retirer signifie certainement\n que l'on pourrait faire de même, si on l'analyse !\"",
             "\\.\"Aucune raison de lui rendre.\n S'il a pu l'enlever, on pourrait peut-être\n piger comment retirer les notres aussi !\"",
             "\\.\"Hmpf... C'est un collier pour les morts.\n Il est construit différemment que les vôtres...\"",
@@ -34231,7 +34244,7 @@
             "\\.\"Que...?!\"",
             "\\.\"Pas d'inquiétude.\n Si vous gagnez, vous pouvez tranquillement\n accéder à l'étage supérieur !\"",
             "\\.\"Mais je vais m'efforcer de faire une balle, un mort...\n Je veux emmener au moins quatre personnes\n avec moi dans la tombe...\"",
-            "\\.\"Alors... On y va ?!\"",
+            "\\.\"Alors... À vos marques ?!\"",
             "\\.\"...\"",
             "\\.\"...\"",
             "\\.\"...\"",
@@ -34244,14 +34257,14 @@
             "\\.\"Hein...?\"",
             "\\.\"À quoi bon recourir à la violence ?\"",
             "\\.\"Fixons des règles... et battons-nous pour survivre.\"",
-            "\"Il n'y a pas d'autres moyens...?\"",
+            "\"Il n'y a pas d'autre façon de faire...?\"",
             "\\.\"Hein...?\"",
             "\\.\"Seras-tu réellement satisfait avec\n de la violence pure et simple, \\N[4]...?\"",
             "\\.\"...\"",
             "\\.\\C[4](On dirait que ça l'a perturbé...)",
             "\\.\"Mettons en place des règles pour ce combat...\n Après tout, ton Jeu Mortel est « sacré », non...?\"",
             "\\.\"Ha...\"",
-            "\\.\"Ahaha !! HAHAHAHAHAHA !!\"",
+            "\\.\"Ahaha !! AhahAHAHAHA !!\"",
             "\\.\"Tu es vraiment la meilleure, Sara...!!\n La crème de la crème !!\"",
             "\\.\\C[4](...!!)",
             "\\.\"Bon, très bien...\"",
@@ -34755,11 +34768,11 @@
         ],
         "52-1-message": [
             "\\C[3]Un livre jaune.",
-            "\\.\\C[3]Sur la quatrième de couverture, on peut lire :\n« Merci de rendre de livre dans les délais »."
+            "\\.\\C[3]Sur la quatrième de couverture, on peut lire :\n« Merci de rendre ce livre dans les délais »."
         ],
         "52-2-message": [
             "\\C[3]Un livre jaune.",
-            "\\.\\C[3]Sur la quatrième de couverture, on peut lire :\n« Merci de rendre de livre dans les délais ».",
+            "\\.\\C[3]Sur la quatrième de couverture, on peut lire :\n« Merci de rendre ce livre dans les délais ».",
             "\\.\\C[4](On dirait que ce livre provient de la bibliothèque...)",
             "\\C[3]Livre Jaune obtenu.",
             "\"Ahh... Ce livre résume les trucs d'examens de santé\n qui étaient affichés sur l'écran de l'ordinateur.\""
@@ -38373,7 +38386,8 @@
             "\\C[3]Il y a un interstice anormal entre les livres rouges."
         ],
         "3-2-message": [
-            "\\C[3]Il y a un interstice anormal entre les livres rouges."
+            "\\C[3]Il y a un interstice anormal entre les livres rouges.",
+            "\\.\\C[4](Moi aussi, j'ai un livre rouge...)"
         ],
         "4-1-message": [
             "\\C[3]Il y a un interstice anormal entre les livres verts."
@@ -38387,13 +38401,15 @@
             "\\C[3]Il y a un interstice anormal entre les livres jaunes."
         ],
         "14-2-message": [
-            "\\C[3]Il y a un interstice anormal entre les livres jaunes."
+            "\\C[3]Il y a un interstice anormal entre les livres jaunes.",
+            "\\.\\C[4](Moi aussi, j'ai un livre jaune...)"
         ],
         "15-1-message": [
             "\\C[3]Il y a un interstice anormal entre les livres bleus."
         ],
         "15-2-message": [
-            "\\C[3]Il y a un interstice anormal entre les livres bleus."
+            "\\C[3]Il y a un interstice anormal entre les livres bleus.",
+            "\\.\\C[4](Moi aussi, j'ai un livre bleu...)"
         ],
         "2-3-message": [
             "\\.\\C[4](S'il y a une pièce centrale dans un endroit\n aussi labyrinthique... ça doit être par là !)"
@@ -38422,13 +38438,37 @@
         "4-4-message": [
             "\\C[3]Les livres verts sont impeccablement alignés.",
             "\\.\"C’est ce livre.\n Celui où ils ont noté le talon d’Achille de Maple.\"",
-            "\\C[3]Livre Vert obtenu."
+            "\\C[3]Livre Vert obtenu.",
+            null,
+            null,
+            "\\C[3]Tous les Livres Verts ont été obtenus."
         ],
         "4-2-choice": [
             "Insérer dans l'espace\nAnnuler"
         ],
         "4-3-message": [
             "\\C[3]Les livres verts sont impeccablement alignés."
+        ],
+        "4-7-message": [
+            "\\C[3]Les livres verts sont impeccablement alignés."
+        ],
+        "15-3-message": [
+            "\\C[3]Les livres bleus sont impeccablement alignés."
+        ],
+        "15-4-message": [
+            "\\C[3]Les livres bleus sont impeccablement alignés."
+        ],
+        "14-3-message": [
+            "\\C[3]Les livres jaunes sont impeccablement alignés."
+        ],
+        "14-4-message": [
+            "\\C[3]Les livres jaunes sont impeccablement alignés."
+        ],
+        "3-3-message": [
+            "\\C[3]Les livres rouges sont impeccablement alignés."
+        ],
+        "3-4-message": [
+            "\\C[3]Les livres rouges sont impeccablement alignés."
         ]
     },
     "map206": {
@@ -38668,7 +38708,7 @@
         ],
         "20-1-message": [
             "\\C[3]Un livre rouge vif.",
-            "\\.\\C[3]Sur la quatrième de couverture, on peut lire :\n« Merci de rendre de livre dans les délais ».",
+            "\\.\\C[3]Sur la quatrième de couverture, on peut lire :\n« Merci de rendre ce livre dans les délais ».",
             "\\.\\C[4](Est-ce un livre emprunté...?)"
         ],
         "20-2-message": [
@@ -42705,7 +42745,7 @@
             "\\C[3]Un autre livre a commencé à flotter.",
             "\"Ils... Ils s'multiplient ?!\"",
             "\"H-Hé...! Ils se multiplient !\"",
-            "\\.\"Je vois... Là, on rencontre un pépin.\"",
+            "\\.\"Je vois... Là, ça devient problématique.\"",
             "\\C[3]Les livres claquent fortement leurs dents.",
             "\\.\\C[3]Les livres ont commencé à tournoyer dans l'air.",
             "\\C[3]Un livre de plus a commencé à flotter.",
