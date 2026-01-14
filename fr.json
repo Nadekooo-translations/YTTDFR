@@ -34160,11 +34160,11 @@
             "\\.\\sw[324]\"Ah... Bonjour...\n Euh, qui êtes vous...?\"\\sw[325]",
             "\"Hein...?\"",
             "\\.\\sw[324]\"Ah... Bonjour...\n Hein ? Pourquoi je me vois...?\"\\sw[325]",
-            "\\.\"Ne m’effraie pas...! Serais-tu... une IA...?!\"",
+            "\\.\"Ne m’effraie pas comme ça...!\n Serais-tu... une IA...?!\"",
             "\\.\"C'est quoi ce gars  ?! Une IA...?!\"",
-            "\\.\\sw[324]\"Je suis Shin Tsukimi...\n Éhéhé. Ravi de vous rencontrer.\"\\sw[325]",
+            "\\.\\sw[324]\"Je m'appelle Shin Tsukimi...\n Éhéhé. Ravi de vous rencontrer.\"\\sw[325]",
             "\\.\\C[4](Shin Tsukimi... Le vrai nom de Sou.)",
-            "\\.\\sw[324]\"Euh... Vous avez besoin de quelque chose ?\n C'est embarrassant que vous me fixiez tous comme ça...\"\\sw[325]",
+            "\\.\\sw[324]\"Euh... Je peux vous être utile ?\n C'est gênant d'être dévisagé par autant de gens...\"\\sw[325]",
             "\\.\"Aaah... Sou...\"",
             "\\.\"Tu sais qui est Kanna...?\n Sou...!\"",
             "\\.\\sw[324]\"D-Désolé, je ne comprends pas vraiment...\n Qui es-tu...?\"\\sw[325]",
@@ -34179,7 +34179,7 @@
             "\\.\"Que veux-tu dire...?\"",
             "\\.\"Attends, quoi...?\"",
             "\\.\"Les IA peuvent être rapprochées des vraies personnes\n en actualisant leurs savoirs et leurs personnalités.\"",
-            "\\.\"En d'autres termes, le Sou qu'on regarde\n n'est autre que le Sou d'avant le Jeu Mortel,\n qui savait rien de toute cette histoire...\"",
+            "\\.\"Donc en gros, le Sou qu'on regarde, là, c'est celui\n d'avant le Jeu Mortel, qui savait rien de toute cette histoire...\"",
             "\\.\"Ou plutôt... Shin Tsukimi,\n avant même qu'il prenne un alias...?\"",
             "\\.\\sw[324]\"Vous parlez de quoi, depuis tout à l'heure...?\"\\sw[325]",
             "\\.\"Hmpf, ridicule. Ça ne nous mène à rien...\"",
@@ -34580,14 +34580,23 @@
             "\\.\\C[4](Un collier...?!)",
             "\\.\\C[4](Je ne devrais pas prendre un objet aussi suspect...)",
             "\\.\\C[3]Collier obtenu.",
-            "\"Ce... C'est peut-être un piège ?! Et s'il explose ?!\"",
+            "\"Ce... C'est peut-être un piège ?!\n Ça ne risque pas d'exploser ?!\"",
             "\\.\"Fais pas ta poule mouillée. On l'prend.\"",
-            "\\.\"Si on parvient à le démonter,\n on pourrait trouver un moyen de les retirer...\"",
-            "\\.\"Et si c'est ÇA qui le faisait exploser...?\"",
+            "\\.\"Si on parvenait à le démonter et à l'analyser,\n on pourrait trouver un moyen de retirer ces trucs...\"",
+            "\\.\"Et si c'est ÇA qui le ferait exploser...?\"",
             "\\.\" \\{BOUM !!\\} \"",
-            "\\.\"Gyaaaah ?! Arrête tes bêtises, abruti !!\"",
+            "\\.\"Gwaaaah ?! Arrête tes bêtises, abruti !!\"",
             "\\.\"On n'a pas l'temps d'faire mumuse, là !!\"",
-            "\\.\"Euh... Bon, pour l’instant, c’est un peu risqué,\n alors laissez votre ami le policier le prendre,\n d’accord ?\""
+            "\\.\"Euh... Bon, c’est dangereux pour l'instant,\n alors laissez votre ami policier le prendre, OK ?\"",
+            "\"Tu es sûre qu'on peut y toucher, Sara...?!\"",
+            "\\.\"Ouais. Ça ne va pas exploser...\"",
+            "\\.\"Ouf... Alors, on le prend avec nous ?\"",
+            "\\.\"... Ben voyons, tu n'as pas froid aux yeux.\n C'est sûrement celui de \\N[4], non...?\"",
+            "\\.\\C[4](Vu comme ça, j'ai envie de m'en débarrasser...)",
+            "\\.\"... Bah, autant l'embarquer, au cas où.\n Même si ça sent le piège...\"",
+            "\\.\"Si on parvenait à le démonter et à l'analyser,\n on pourrait trouver un moyen de retirer ces trucs...\"",
+            "\\.\"Faites vraiment gaffe, j'vous l'dis...!\"",
+            "\\.\"... Bon, en tout cas, laissez M. le Policier gérer\n les objets trouvés. Faudrait pas qu'on l'égare...\""
         ],
         "89-1-choice": [
             "À propos de Shin Tsukimi\nÀ propos de \\N[4]",
@@ -34621,6 +34630,10 @@
         ],
         "11-1-message": [
             "\"Si je repère \\N[4] sur ces caméras,\n je vous le signalerai à travers le micro !\""
+        ],
+        "10-1-message": [
+            "\"Cette salle pilote tout, l'Étage 4 comme l'Étage 5.\n Un lieu important, forcément...\"",
+            "\\.\"Il est hors de question de laisser \\N[4]\n s'en emparer... Alors je reste ici.\""
         ]
     },
     "map201": {
