@@ -34783,48 +34783,48 @@
     },
     "map202": {
         "2-1-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\"\\N[4]...!!\"",
+            "\"Ahah ! Vous voilà !\"",
+            "\\.\"Alors ? Vous avez fini votre petite guéguerre\n de passation de ce vilain rôle de « chat » ?\"",
+            "\\.\"Grr...!!\"",
+            "\\.\"Tu n'y es pas du tout !!\n Il n'y a jamais eu de « jeu du chat » entre nous...\n Parce qu'on est... tous dans le même camp !!\"",
+            "\\.\"Oh, vraiment ! Alors ça, pour une surprise !\n C'est tout simplement MAGNIFIQUE !!\"",
+            "\\.\"Oh que oui, tu aurais aimé voir ça...!!\"",
+            "\\.\"Ohh ?! Allez, raconte-moi les détails !\n J'ai besoin de TOUT savoir !! Ahaha !\"",
+            "\\.\"Mais sinon, j'aimerais vérifier un truc...\"",
+            "\\.\"Un flingue, ça va à l'encontre des règles\n du jeu du chat, n'est-ce pas ?\"",
+            "\\.\"... Oui. À condition que vous aussi,\n vous suiviez les règles, bien sûr.\"",
+            "\\.\"On était impatients de te voir, \\N[4]...\"",
+            "\\.\"M-Maintenant, c'est fini... Tu ne peux plus fuir...!\"",
+            "\\.\"...\n ...\n ...\"",
+            "\\.\"Toujours à nous tourner en bourrique...!\"",
+            "\\.\"Toujours à nous tourner en bourrique...!\"",
+            "\\.\"Hmpf... Ta misérable vie de fugitif s'arrête ici...\"",
+            "\\.\"Hmpf... Ta misérable vie de fugitif s'arrête ici...\"",
+            "\\.\"Même si tu t'excuses, je te pardonnerai pas, miaou !\"",
+            "\\.\"Jamais je ne te pardonnerai. JAMAIS, MIAOU...!!\"",
+            "\\.\"Ouh là là, ça sent le roussi...\"",
+            "\\.\"T'as l'air sacrément détendu, dis donc...\"",
+            "\\.\"Non, je suis vraiment dans le pétrin...\"",
+            "\\.\"Parce que bon... jouer à chat, d'accord, mais...\n Moi, je n'ai même pas de collier, tu vois...?\"",
+            "\\.\"Ah...\"",
+            "\\.\"On fait quoi, miaou !?\n Là, même si on le touche, ça sert à rien, ouaf !!\"",
+            "\\.\"C-C'est impossible...!!\"",
+            "\\.\"Sérieux...?!\"",
+            "\\.\"Je vous demande pardon ?!\"",
+            "\"Ahaha. Voilà pourquoi je vous ai dit\n de me rendre mon collier, vous voyez ?\"",
+            "\\.\"Alors, qu'allez-vous faire ?\n Si vous me le rendez, je le rattache.\"",
+            "\\.\"Mais évidemment, que lorsque vous sortirez d'ici...\n Tout doucement... sans gestes brusques...\"",
             "\\.\"...\"",
             "\\.\"...\"",
             "\\.\"...\"",
-            null,
-            null,
-            null,
-            null,
+            "\\.\"Ou alors, vous préférez qu'on règle ça par un massacre, \n à travers de la bête violence, après tout ?\"",
+            "\\.\"Allez... décide-toi, Sara.\"",
+            "\\.\\C[4](...!!)",
+            "\\.\"Ça suffit...\"",
             "\\.\"...\"",
-            null,
-            null,
+            "\\.\"Qu'est-ce qu'il y a, Keiji...?\"",
+            "\\.\"Que se passe-t-il, Keiji ?!\"",
             null,
             null,
             null,
@@ -37958,7 +37958,7 @@
     "map194": {
         "55-1-message": [
             null,
-            null,
+            "\\.\"\\N[4]...!!\"",
             null,
             null,
             null,
@@ -38387,7 +38387,8 @@
         ],
         "3-2-message": [
             "\\C[3]Il y a un interstice anormal entre les livres rouges.",
-            "\\.\\C[4](Moi aussi, j'ai un livre rouge...)"
+            "\\.\\C[4](Moi aussi, j'ai un livre rouge...)",
+            "\\C[3]J’ai glissé le livre dans la fente."
         ],
         "4-1-message": [
             "\\C[3]Il y a un interstice anormal entre les livres verts."
@@ -38402,14 +38403,16 @@
         ],
         "14-2-message": [
             "\\C[3]Il y a un interstice anormal entre les livres jaunes.",
-            "\\.\\C[4](Moi aussi, j'ai un livre jaune...)"
+            "\\.\\C[4](Moi aussi, j'ai un livre jaune...)",
+            "\\C[3]J’ai glissé le livre dans la fente."
         ],
         "15-1-message": [
             "\\C[3]Il y a un interstice anormal entre les livres bleus."
         ],
         "15-2-message": [
             "\\C[3]Il y a un interstice anormal entre les livres bleus.",
-            "\\.\\C[4](Moi aussi, j'ai un livre bleu...)"
+            "\\.\\C[4](Moi aussi, j'ai un livre bleu...)",
+            "\\C[3]J’ai glissé le livre dans la fente."
         ],
         "2-3-message": [
             "\\.\\C[4](S'il y a une pièce centrale dans un endroit\n aussi labyrinthique... ça doit être par là !)"
@@ -38426,7 +38429,17 @@
             "\\.\"Quelque chose... se... rappro...\""
         ],
         "2-7-message": [
-            "\\.\"C'est quoi, ça ?!\""
+            "\\.\"C'est quoi, ça ?!\"",
+            "\\.\"Ça a fait un boucan pas possible...\"",
+            "\\.\"C'est quoi, ce truc ? Un escalier...?\"",
+            "\\.\"\\N[4] est peut-être là-haut...\"",
+            "\\.\"Sara-senpai...! Partez devant ! On se charge de faire\n une annonce avec le micro pour rameuter la troupe !\"",
+            "\\.\"Bien. Allez, on y va, Sara.\"",
+            "\\.\"Abruti...! Ma tête va finir par sauter !\"",
+            "\\.\"Reste ici pour bloquer \\N[4] jusqu'à la fin\n de l'annonce ! Pas question qu'il se fasse la malle !\"",
+            "\\.\"Bien reçu...\"",
+            "\\.\"Nous, on va devoir y aller, Sara...\"",
+            "\\.\"Ouais...! Cette fois, c'est la bonne !\n On ne va pas le laisser s'échapper...!\""
         ],
         "6-1-message": [
             "\\C[3]Hayasaka gît là, ses composants internes exposés.",
@@ -38469,6 +38482,31 @@
         ],
         "3-4-message": [
             "\\C[3]Les livres rouges sont impeccablement alignés."
+        ],
+        "3-2-choice": [
+            "Insérer dans l'espace\nAnnuler"
+        ],
+        "14-2-choice": [
+            "Insérer dans l'espace\nAnnuler"
+        ],
+        "15-2-choice": [
+            "Insérer dans l'espace\nAnnuler"
+        ],
+        "5-1-message": [
+            "\\C[3]Un escalier se dessine le long des étagères."
+        ],
+        "5-2-message": [
+            "\\C[3]Un escalier se dessine le long des étagères.",
+            "\\.\\C[4](Il n'y a aucune trace de \\N[4]\n dans les autres pièces, alors...!)"
+        ],
+        "5-3-message": [
+            "\\C[3]Un escalier se dessine le long des étagères."
+        ],
+        "5-2-choice": [
+            "Y aller\nAnnuler"
+        ],
+        "5-3-choice": [
+            "Monter\nAnnuler"
         ]
     },
     "map206": {
@@ -38699,11 +38737,11 @@
             "\\.\"Ouais. « Donc \\N[4] est forcément ailleurs »,\n c'est ça que tu veux dire ?\"",
             "\\.\"Je me suis dit qu'il essaierait peut-être\n de nous la faire à l'envers, sur ce coup-là...\"",
             "\\.\"Ah... Ouais, j'imagine qu'un Maître d'Étage\n peut vraiment tout se permettre...\"",
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\.\"Quand tu dis « Maître d'Étage »,\n tu parles de Hiyori...?\"",
+            "\\.\"Hein...? Euh... Ouais.\n T'aurais des infos sur lui ?\"",
+            "\\.\"Hiyori...\"",
+            "\\.\"Hiyori... Hiyori...\"",
+            "\\.\"N-Non mais... qu'est-ce qu'il lui arrive, là...?\"",
             "\\.\"Pour le moment, fouillons cette pièce...\""
         ],
         "20-1-message": [
