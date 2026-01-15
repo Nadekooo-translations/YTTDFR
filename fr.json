@@ -33121,7 +33121,7 @@
             "\\C[3]Q-taro plongea son bras dans le trou,\npuis en retira le livre.",
             "\\.\\C[3]Livre Bleu obtenu.",
             "\"Argh, c’est tout mouillé...\"",
-            "\\.\"Ouais... mais on peut sûrement\n lire deux, trois lignes, au moins !\"",
+            "\\.\"Ouais... mais on peut sûrement en tirer\n deux, trois lignes, au moins !\"",
             "\\.\"Voyons-voiiir...\"",
             "\\.\"... « Aujourd’hui encore, lorsque Shin m’aperçoit,\n il se fend d’un sourire radieux, prend une pose\n ridicule, et ne me lâche qu'un simple \"bonjour\" »...\"",
             "\\.\"...!\"",
@@ -34775,7 +34775,7 @@
             "\\.\\C[3]Sur la quatrième de couverture, on peut lire :\n« Merci de rendre ce livre dans les délais ».",
             "\\.\\C[4](On dirait que ce livre provient de la bibliothèque...)",
             "\\C[3]Livre Jaune obtenu.",
-            "\"Ahh... Ce livre résume les trucs d'examens de santé\n qui étaient affichés sur l'écran de l'ordinateur.\""
+            "\"Ahh... Ce livre résume les trucs d'examens de santé\n qui étaient affichés à l'écran d'ordinateur.\""
         ],
         "65-1-message": [
             "\"Ohh... Cet ordinateur s'allume aussi, alors ?\""
@@ -34814,7 +34814,7 @@
             "\\.\"Je vous demande pardon ?!\"",
             "\\.\"Ahaha. Voilà pourquoi je vous ai dit\n de me rendre mon collier, vous voyez ?\"",
             "\\.\"Alors, qu'allez-vous faire ?\n Si vous me le rendez, je le rattache.\"",
-            "\\.\"Mais évidemment, que lorsque vous sortirez d'ici...\n Tout doucement... sans gestes brusques...\"",
+            "\\.\"Mais évidemment, seulement si vous sortez d'ici...\n Touuut doucement... sans faire de gestes brusques...\"",
             "\\.\"...\"",
             "\\.\"...\"",
             "\\.\"...\"",
@@ -38346,7 +38346,7 @@
             "\\.\"M. le Policieeer...\"",
             "\\.\"... Hé, Sara.\n On dirait que c'est plus toi le chat.\"",
             "\\.\"...!\"",
-            "\\.\\C[3]J'ai pris Gin dans les bras en le\nserrant de toutes mes forces.",
+            "\\.\\C[3]J'ai pris Gin dans les bras\nen serrant de toutes mes forces.",
             "\\.\"Grande sœur Sara...\"",
             "\\.\"Gin...! Ne pleure plus, d'accord ?!\n T'es un grand garçon, fort et courageux...!!\"",
             "\\.\"... Ouais...\"",
@@ -38746,7 +38746,7 @@
             "\\.\\C[4](Je suis exténuée...)"
         ],
         "19-1-message": [
-            "\\.\"Ah, bienvenus ! Vous êtes revenus me voir.\"",
+            "\\.\"Ah, bienvenue ! Vous êtes revenus me voir, finalement.\"",
             "\\.\"Sara... Cette salle est réservée aux paires,\n c'est bien ça...?\"",
             "\\.\"Ouais. « Donc \\N[4] est forcément ailleurs »,\n c'est ça que tu veux dire ?\"",
             "\\.\"Je me suis dit qu'il essaierait peut-être\n de nous la faire à l'envers, sur ce coup-là...\"",
@@ -42810,7 +42810,7 @@
             "\\C[3]Les livres imitent les oiseaux en battant\nde leur couverture.",
             "\\.\\C[3]Les livres ont commencé à tournoyer dans l'air.",
             "\\C[3]Un livre de plus a commencé à flotter.",
-            "\"Grah...!\n T'crois vraiment qu’on peut s’en tirer\n en cognant comme des bourrins...!?\"",
+            "\"Grah...!\n Y vont finir par tous nous attaquer d'front,\n ça risque d'être vraiment ingérable, nan...?!\"",
             "\\.\"Quels livres énervants, miaou ! Descendez\n et affrontez gorille musclé à la loyale, miaou !!\"",
             "\\.\"J'pense pas qu'ce soit la bonne solution, ça...!!\"",
             "\\C[3]Les livres volent doucement, comme s'ils\nsurveillaient leurs environs.",
