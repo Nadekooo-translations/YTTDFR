@@ -6385,15 +6385,15 @@
             "\\.\"T'es stupide ?! Pourquoi t'es aussi indulgent...?!\"",
             "\\.\"Elle avait vraiment l'intention de t'ôter la vie...!!\"",
             "\\.\"C'pas c'qu'elle pense vraiment !!\"",
-            "\\.\"Qu-...\"",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\.\"Que...\"",
+            "\\.\"Vous êtes tous pareils, pas vrai...?\"",
+            "\\.\"Votre destin est entre les mains de \\N[4]...\n Donc z'êtes obligés d'lui obéir, pas vrai !?\"",
+            "\\.\"...!!\"",
+            "\\.\"...!!\"",
+            "\\.\"...!!\"",
+            "\\.\"C'pareil pour nous !! On est dans l'même bateau,\n vous commes nous...!!\"",
+            "\\.\"Q-taro...\"",
+            "\\.\"Q-taro...\"",
             "\\.\"...\"",
             null,
             null,
@@ -23430,7 +23430,7 @@
             "\\.\"...!!\""
         ],
         "1085-0-message": [
-            "\\.\\C[4](Le voilà...!)",
+            "\\.\\C[4](La voilà...!)",
             "\"C'est exactement la même disposition que\n l'Étage 4, mais sans la pièce au milieu...\"",
             "\"Peut-être... qu'elle existe, mais qu'elle\n n'est simplement pas indiquée dessus.\"",
             "\\.\"C'est possible ! Sinon, pourquoi ils\n auraient foutu une structure pareille ?\"",
@@ -23559,6 +23559,16 @@
             "\\.\\C[6]Salut la compagnie ! C'est bibi !\nChers participants nationaux du Jeu Mortel,\nvous qui êtes si troublés par les Obstructeurs,\nje vous apporte de bonnes nouvelles !",
             "\\.\\C[6]Eh oui, mesdames et messieurs ! \nAujourd'hui, je vous dévoile la faiblesse de Maple,\nla plus forte des poupées parmi les Obstructeurs !",
             "\\.\\C[6]C'est le petit espace dans son dos !\nSouvenez-vous-en, et vous pourrez fanfaronner : \n« Les Obstructeurs, on les mange au p'tit-déj ! »"
+        ],
+        "1067-0-message": [
+            "\\C[3]Nous courûmes de toutes nos forces.",
+            "\\.\\C[3]Nous nous ruâmes vers le cimetière où se tenait Q-taro,\naussi nous manquâmes de trébucher à chaque pas.",
+            "\\.\\C[3]Un grand couteau lui transperça le dos.",
+            "\\.\\C[3]La mare de sang qui s'en déversa se grava\nau fer rouge dans ma mémoire.",
+            "\\C[4](Tout ira bien...!! S'il y a bien quelqu'un qui\n peut survivre à ça... c'est Q-taro...!!)"
+        ],
+        "1082-0-message": [
+            "\"Ouaaah... aaah...!!\""
         ]
     },
     "map107": {
@@ -34572,7 +34582,15 @@
             "\\.\"Espèce de...!\"",
             "\\.\"J’y pensais depuis un bail...\n À quel moment je devais le faire...\"",
             "\\.\"Bor...del... pourquoi... tu...!!\"",
-            "\\.\"Hiiihihihi...\""
+            "\\.\"Hiiihihihi...\"",
+            "\\.\"Je vais t’expliquer...\n Notre véritable objectif, à nous les Pantins...\"",
+            "\\.\\C[10]\"Tuer notre partenaire avant la mort de \\N[4]...\n C'est notre seul moyen de survivre...\"",
+            "\\.\"A... Ahh...\"",
+            "\\.\"Donc depuis le départ, les Pantins...\n guettaient cette ouverture...?\"",
+            "\\.\"Haha... C’est une règle immonde, pas vrai...?\"",
+            "\\.\"Grande soeur Sara...!! Vite, faut qu’on y aille...!!\"",
+            "\\.\"Ouais...!! On file rejoindre Q-taro...!!\"",
+            "\\.\"Vous croyez qu'on va arriver à temps...?\""
         ],
         "88-1-message": [
             "\\C[3]Du texte est affiché à l'écran.",
@@ -34660,6 +34678,16 @@
         "10-1-message": [
             "\"Cette salle pilote tout, l'Étage 4 comme l'Étage 5.\n Un lieu important, forcément...\"",
             "\\.\"Il est hors de question de laisser \\N[4]\n s'en emparer... Alors je reste ici.\""
+        ],
+        "8-4-message": [
+            "\\C[3]À l’écran, on voit Q-taro et Mai.",
+            "\\.\\C[4](Il faut qu'on se dépêche...!!)"
+        ],
+        "8-5-message": [
+            "\\C[3]Les écrans projettent toutes les zones que nous avons\ndéjà visitées, comme le cimetière ou le poste de police."
+        ],
+        "8-6-message": [
+            "\\C[3]Les moniteurs n'affichent rien."
         ]
     },
     "map201": {
