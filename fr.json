@@ -34559,7 +34559,20 @@
             "\\.\\C[4](Je ne vois \\N[4] nulle part...!)"
         ],
         "8-3-message": [
-            "\\C[3]Les écrans projettent toutes les zones que nous avons\ndéjà visitées, comme le cimetière ou le poste de police."
+            "\\C[3]Les écrans projettent toutes les zones que nous avons\ndéjà visitées, comme le cimetière ou le poste de police.",
+            "\\.\"Il est où...?! Où est Q-taro ?!\"",
+            "\"Grande sœur... Sara...\"",
+            "\\.\"Au niveau du... cimetière...\"",
+            "\\.\"...!!\"",
+            "\\.\\C[3]Je levai les yeux vers l'écran montrant le cimetière.",
+            "\"Guargh...!!\"",
+            "\"Q-taro...!!\"",
+            "\\.\"Urgh...!\"",
+            "\\.\"Ahaha... Désolééée, très cher maître...\"",
+            "\\.\"Espèce de...!\"",
+            "\\.\"J’y pensais depuis un bail...\n À quel moment je devais le faire...\"",
+            "\\.\"Bor...del... pourquoi... tu...!!\"",
+            "\\.\"Hiiihihihi...\""
         ],
         "88-1-message": [
             "\\C[3]Du texte est affiché à l'écran.",
@@ -34802,17 +34815,17 @@
             "\\.\"Hmpf... Ta misérable vie de fugitif s'arrête ici...\"",
             "\\.\"Hmpf... Ta misérable vie de fugitif s'arrête ici...\"",
             "\\.\"Même si tu t'excuses, je te pardonnerai pas, miaou !\"",
-            "\\.\"Jamais je ne te pardonnerai. JAMAIS, MIAOU...!!\"",
+            "\\.\"Jamais je ne te pardonnerai. Jamais, miaou...!!\"",
             "\\.\"Ouh là là, ça sent le roussi...\"",
             "\\.\"T'as l'air sacrément détendu, dis donc...\"",
             "\\.\"Non, je suis vraiment dans le pétrin...\"",
             "\\.\"Parce que bon... jouer à chat, d'accord, mais...\n Moi, je n'ai même pas de collier, vous voyez...?\"",
             "\\.\"Ah...\"",
-            "\\.\"On fait quoi, miaou !?\n Là, même si on le touche, ça sert à rien, ouaf !!\"",
+            "\\.\"On fait quoi, miaou !? Là, même si on parvient\n à le toucher, ça sert à rien, ouaf !!\"",
             "\\.\"C-C'est impossible...!!\"",
             "\\.\"Sérieux...?!\"",
             "\\.\"Je vous demande pardon ?!\"",
-            "\\.\"Ahaha. Voilà pourquoi je vous ai dit\n de me rendre mon collier, vous voyez ?\"",
+            "\\.\"Ahaha. Je vous ai pourtant dit qu'il fallait\n me rendre mon collier, n'est-ce pas ?\"",
             "\\.\"Alors, qu'allez-vous faire ?\n Si vous me le rendez, je le rattache.\"",
             "\\.\"Mais évidemment, seulement si vous sortez d'ici...\n Touuut doucement... sans faire de gestes brusques...\"",
             "\\.\"...\"",
@@ -34831,8 +34844,8 @@
             "\\.\"Manigancé, dis-tu...?!\"",
             "\\.\"...\"",
             "\\.\"Cette course-poursuite est clairement inutile...\n C’est du vent. Juste un moyen de gagner du temps...\"",
-            "\\.\"\\N[4]... J'ai comme l'impression que...\n Tu es en train d'attendre quelque chose.\"",
-            "\\.\"Comme si t'attendais que l'un d'entre nous\n agisse de l'intérieur pour te sauver...\"",
+            "\\.\"\\N[4]... J'ai comme l'impression que...\n Tu es en train d'attendre...",
+            "\\.\"Que l'un d'entre nous agisse de l'intérieur...\"",
             "\\.\"De l'intérieur...?\"",
             "\\.\"Nos alliés...?\"",
             "\\.\"À l'intérieur... de nos corps ?\"",
@@ -38409,7 +38422,7 @@
         ],
         "4-2-message": [
             "\\C[3]Il y a un interstice anormal entre les livres verts.",
-            "\\.\\C[4](Des livres verts... moi aussi, j’en ai un...)",
+            "\\.\\C[4](Moi aussi, j’ai un livre vert...)",
             "\\C[3]J’ai glissé le livre dans la fente."
         ],
         "14-1-message": [
@@ -38507,7 +38520,8 @@
             "Insérer dans l'espace\nAnnuler"
         ],
         "5-1-message": [
-            "\\C[3]Un escalier se dessine le long des étagères."
+            "\\C[3]Un escalier se dessine le long des étagères.",
+            "\\.\\C[4](Il n'y a aucune trace de \\N[4]\n dans les autres pièces, alors...!)"
         ],
         "5-2-message": [
             "\\C[3]Un escalier se dessine le long des étagères.",
@@ -38521,6 +38535,9 @@
         ],
         "5-3-choice": [
             "Monter\nAnnuler"
+        ],
+        "5-1-choice": [
+            "Y aller\nAnnuler"
         ]
     },
     "map206": {
