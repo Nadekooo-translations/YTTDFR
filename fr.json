@@ -6300,9 +6300,10 @@
     },
     "map215": {
         "50-3-choice": [
-            null,
-            null,
-            "Continuer\nRetourner à l'écran titre"
+            "J'en suis incapable\nToucher Keiji",
+            "Quel vœu ?\n...",
+            "Continuer\nRetourner à l'écran titre",
+            "Oui\nY réfléchir à nouveau"
         ],
         "50-3-message": [
             "\\.\"Tout le monde, éloignez-vous...!!\n Surtout, laissez pas \\N[4] vous toucher...!!\"",
@@ -6357,17 +6358,18 @@
             "\"... J'ai juste besoin que tu signes\n ce formulaire de consentement.\"",
             "\\.\"...?!\"",
             "\"Cette feuille... est la dernière...\"",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\C[3]Êtes-vous sûr de vouloir retourner à l'écran titre ?"
+            "\\.\"Une fois que tu l'auras signée, ce sera terminé...\"",
+            "\\.\\C[4](La dernière...?)",
+            "\\.\\C[3]C’en fut certain... quelque chose se tramait...",
+            "\\.\\C[3]Cependant... avais-je seulement une autre option ?",
+            "\\.\\C[3]Il n’y eut pas d’autre moyen... de sauver Keiji.",
+            "\\.\"Maintenant, tout dépend de ton choix.\"",
+            "\\.\"Sauver Keiji en accédant à ma requête...?\"",
+            "\\.\"Ou tuer Keiji en restant fidèle à toi-même...?\"",
+            "\"Choisis la voie que tu désires... \\.\\. Sara.\"",
+            "\\C[3]Souhaitez-vous poursuivre à la prochaine section ?",
+            "\\C[3]Êtes-vous sûr de vouloir retourner à l'écran titre ?",
+            "\\C[3]Merci d'avoir joué jusqu'ici."
         ],
         "50-1-message": [
             "\\.\"Haa... Haa...! Q-taro !!\"",
@@ -6552,6 +6554,19 @@
         ],
         "8-1-message": [
             "\\C[3]Mai était dans ce cercueil."
+        ],
+        "52-1-message": [
+            "\"Aïïïïeee...\"",
+            "\\.\\C[4](Je me doutais bien que ce traitement\n de fortune serait insuffisant...)",
+            "\\.\"... T'inquiète pas, Sara.\"",
+            "\\.\\C[4](Q-taro...)",
+            "\"\\N[4]...!!\"",
+            "\\.\"Ne tire pas sur la corde...!\"",
+            "\\.\"Ouais...\""
+        ],
+        "53-1-message": [
+            "\\C[3]Mai est complètement immobile.",
+            "\\.\\C[4](Même dans cet état-là...\n J'ai l'impression qu'elle est humaine...)"
         ]
     },
     "map180": {
@@ -23455,7 +23470,9 @@
             "\\.\"Tu as beau dire ça, ça ne change rien...!\""
         ],
         "1453-0-message": [
-            "\\.\"...!!\""
+            "\\.\"...!!\"",
+            "\\.\"Tss... Un comico ?\"",
+            "\\.\"Ça me rend nerveuse de passer par là...\""
         ],
         "1085-0-message": [
             "\\.\\C[4](La voilà...!)",
