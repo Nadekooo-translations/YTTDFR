@@ -6567,6 +6567,9 @@
         "53-1-message": [
             "\\C[3]Mai est complètement immobile.",
             "\\.\\C[4](Même dans cet état-là...\n J'ai l'impression qu'elle est humaine...)"
+        ],
+        "56-1-message": [
+            "\"Ohhh bah alors ?\n Qu'est-ce qu'il nous fait Keiji, là ?\""
         ]
     },
     "map180": {
@@ -23415,12 +23418,12 @@
             "\\.\"Je ne l'apprécie pas vraiment...\"",
             "\\.\"Argh...!!\n M'apprécier ou pas, c'est pas le sujet, là !\"",
             "\\.\"Je suis sûre que vous pouvez mieux vous entendre.\n Revenez me voir !\"",
-            "\"Ah... Pas besoin de chercher.\"",
-            "\"... Le cache-cache est terminé.\"",
+            "\"Ah... Nul besoin de chercher.\"",
+            "\"... La partie est terminée.\"",
             "\\.\\C[4](Il a mis un collier de rechange...?!)",
             "\\.\"Tu débarques toujours comme si de rien n'était...\n Tu vas encore nous brandir ton flingue ?\"",
             "\\.\"Vous ne me faites vraiment pas confiance hein ?\n Très bien, je vais vous le donner.\"",
-            "\\.\\C[3]\\N[4] a sorti un objet de sa poche\net l'a jeté en direction de Keiji.",
+            "\\.\\C[3]\\N[4] sortit un objet de sa poche\net le jeta en direction de Keiji.",
             "\\.\"...?\"",
             "\\.\"...\n ...\n ...\"",
             "\\.\"...!!\"",
@@ -23428,7 +23431,7 @@
             "\"Ghhh...!!\"",
             "\\.\"C'est mon...\"",
             "\\.\"Pourquoi... t'as celui... de ce jour-là...?!\"",
-            "\\C[3]Soudain, Keiji a commencé à se tordre de douleur.",
+            "\\C[3]Soudain, Keiji commença à se tordre de douleur.",
             "\\.\"Q-Qu'est-ce qu'il y a...?!\""
         ],
         "1087-0-choice": [
@@ -34628,11 +34631,11 @@
             "\\.\"J’y pensais depuis un bail...\n À quel moment je devais le faire...\"",
             "\\.\"Bor...del... pourquoi... tu...!!\"",
             "\\.\"Hiiihihihi...\"",
-            "\\.\"Je vais t’expliquer...\n Notre véritable objectif, à nous les Pantins...\"",
-            "\\.\\C[10]\"Tuer notre partenaire avant la mort de \\N[4]...\n C'est notre seul moyen de survivre...\"",
+            "\\.\"Je vais t’expliquer.\n Notre véritable objectif, à nous les Pantins, c'est...\"",
+            "\\.\\C[10]\"Tuer notre partenaire avant la mort de \\N[4]...\n C'est l'unique moyen qui nous permette survivre...\"",
             "\\.\"A... Ahh...\"",
             "\\.\"Donc depuis le départ, les Pantins...\n guettaient cette ouverture...?\"",
-            "\\.\"Haha... C’est une règle immonde, pas vrai...?\"",
+            "\\.\"Haha... Une règle bien immonde, pas vrai...?\"",
             "\\.\"Grande soeur Sara...!! Vite, faut qu’on y aille...!!\"",
             "\\.\"Ouais...!! On file rejoindre Q-taro...!!\"",
             "\\.\"Vous croyez qu'on va arriver à temps...?\""
