@@ -6494,7 +6494,7 @@
             "\\.\\sp[20]\"Je vois... C'était donc ça...\"",
             "\\.\"...\"",
             "\\.\\C[10]\"... Je vais te tuer.\"",
-            "\\.\\C[10]\"Je... vais te... BUTER...!!\"",
+            "\\.\\C[10]\"Je vais... TE BUTEEER...!!!!\"",
             "\\.\"Eh bah, t'as l'air motivé, au moins... Ahaha.\""
         ],
         "54-1-message": [
@@ -23482,7 +23482,7 @@
         ],
         "1453-0-message": [
             "\\.\"...!!\"",
-            "\\.\"Tss... Un comico ?\"",
+            "\\.\"Peuh... Un comico ?\"",
             "\\.\"Ça me rend nerveuse de passer par là...\""
         ],
         "1085-0-message": [
@@ -23625,6 +23625,9 @@
         ],
         "1082-0-message": [
             "\"Ouaaah... aaah...!!\""
+        ],
+        "1456-0-message": [
+            "\"Je vais essayer de trouver un truc\n qui puisse servir d'arme, miaou !\""
         ]
     },
     "map107": {
@@ -35525,7 +35528,7 @@
         ],
         "2-1-message": [
             "\\.\"...!!\"",
-            "\\.\"Tss... Un comico ?\"",
+            "\\.\"Peuh... Un comico ?\"",
             "\\.\"Ça me rend nerveuse de passer par là...\""
         ],
         "1-1-message": [
@@ -38920,26 +38923,74 @@
     },
     "map212": {
         "2-1-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\"...\""
+            "\\C[3]\\N[4] et Keiji se fusillent du regard.",
+            "\"Du calme, Keiji !! On doit coopérer\n pour le coincer tous ensemble !!\"",
+            "\"Hé ! Ne t'affole pas, Keiji Shinogi !!\n Faisons usage de notre supériorité numérique\n afin de le coincer !!\"",
+            "\\C[3]Keiji est à terre, incapable de bouger correctement.",
+            "\\C[3]\\N[4] et Keiji se fusillent du regard.",
+            "\"E-Euh... Les Pantins, aidez-nous, s'il vous plaît...\"",
+            "\\.\"Hé, minute... ! Si \\N[4] crève vraiment pendant\n cette partie de chat, on devient quoi, nous... ?!\"",
+            "\\.\"Hein...?! E-Euh, eh bien...!\"",
+            "\\.\"Tss... Vous avez beau dire qu'on est unis,\n Keiji cherche sérieusement à le tuer, là...\"",
+            "\\.\"M-Mais... Si on perd, Keiji va...!\"",
+            "\"On va l'acculer dans une seule direction...\n Les Pantins, contournez par là-bas...\"",
+            "\\.\"Hé, minute... ! Si \\N[4] crève vraiment pendant\n cette partie de chat, on devient quoi, nous... ?!\"",
+            "\\.\"Mais de quoi tu parles ? C'est juste une tactique\n pour nous faire perdre du temps, ça...\"",
+            "\\.\"Tu crois vraiment que j'vais avaler ça..?\"",
+            "\\.\"...\"",
+            "\\C[3]Keiji est à terre, incapable de bouger correctement.",
+            "\\C[3]\\N[4] et Keiji se fusillent du regard.",
+            "\"Allons, allons... tu crois vraiment\n pouvoir me tuer dans cet état-là ?\"",
+            "\\.\\C[4](Je dois aider Keiji à se relever...!!)",
+            "\"Keiji, si tu te laisses emporter par ta colère,\n ça ne te donnera rien de bon, tu sais.\"",
+            "\\C[3]\\N[4] envoya valser d'un coup de pied la tête\nd'une poupée qui traînait, droit vers Keiji.",
+            "\\.\\C[3]Touché de plein fouet, Keiji perdit l'équilibre.",
+            "\\.\"K-Keiji...!\"",
+            "\\.\"Putain de merde...!! \\N[4]...!!\"",
+            "\\.\\C[4](Keiji n'est pas dans son état normal...!\n Il faut que je le ramène à la raison...!)",
+            "\\C[3]Keiji est à terre, incapable de bouger correctement.",
+            "\\C[3]\\N[4] et Keiji se fusillent du regard.",
+            "\"Ça suffit maintenant, les Pantins !!\n Battez-vous avec nous, miaou !!\"",
+            "\\.\"...\n ...\n ...\"",
+            "\\.\"Costard-binooocles...\"",
+            "\\.\"Ne te fous pas de nous...! Et nos vies, alors ?!\n On devient quoi, nous, hein ?!\"",
+            "\\.\"Miaaa...!!\"",
+            "\\C[3]Keiji est à terre, incapable de bouger correctement.",
+            "\\C[3]\\N[4] et Keiji se fusillent du regard.",
+            "\"Poruquoi ne pas abandonner, Keiji ?\n Tu devrais toucher Sara, c'est plus facile...\"",
+            "\\.\"...!\"",
+            "\\C[3]Keiji est à terre, incapable de bouger correctement.",
+            "\\C[3]\\N[4] et Keiji se fusillent du regard.",
+            "\\.\"Je le savais... On ne pourra jamais coopérer...\"",
+            "\\.\"Je ne veux pas mourir !\n Tout le monde... arrêtez ça...!\"",
+            "\\.\"Anzu...!\"",
+            "\\.\"Anzu...!\"",
+            "\\C[3]Keiji est à terre, incapable de bouger correctement.",
+            "\\C[3]\\N[4] et Keiji se fusillent du regard.",
+            "\"Le temps est presque écoulé, vous savez ?\n Que vas-tu faire, Keiji...?\"",
+            "\\.\"...!\"",
+            "\\C[3]Keiji est à terre, incapable de bouger correctement.",
+            "\\C[3]\\N[4] et Keiji se fusillent du regard.",
+            "\"Haa... Alors, c'est déjà la fin de notre petite\n partie de chat... Dommage... Allez, salut Keiji.\"",
+            "\\.\"Attends...!\"",
+            "\\.\\C[4](Les parties rouges du monstre sont électrifiées !\n On ne doit toucher que son armure...!)",
+            "\\.\\C[4](Le monstre est insensible à la douleur !\n Si on veut utiliser la torche, on doit d'abord\n attirer son attention ou l'immobiliser...!)",
+            "\\.\\C[4](Ce truc rouge sur son torse...\n C'est quoi, exactement ? Un point faible...?)"
         ],
         "2-2-message": [
-            null,
-            null,
+            "\\C[3]Q-taro agrippe les jambes de \\N[4].",
+            "\\C[3]Le monstre est immobilisé.",
             "\\C[3]Le monstre tente de se relever, sans se défendre."
+        ],
+        "1-1-message": [
+            "\\C[10]\"C'est tellement génial, la haine...\n Elle me permet d'envahir une personne à 100%...\"",
+            "\\.\"Tu vas crever, \\N[4]...!!\"",
+            "\\.\"Ranmaru, passe-moi le chat...! Touche-moi !\"",
+            "\\.\"Aïïïe !\"",
+            "\\.\"Tu vas crever, \\N[4]...!!\"",
+            "\\.\"Ahahaha ! Jouons sur la plus belle des scènes !!\"",
+            "\"\"H... Hé... C'est quoi, ça...?!\"",
+            "\\.\\C[10]\"Le cimetière... des Pantins brisés...!!\""
         ]
     },
     "map229": {
@@ -42777,8 +42828,11 @@
     },
     "map213": {
         "1-1-message": [
-            null,
+            "\\C[3]L'histoire s'arrête ici pour l'instant.\nSauvegarder votre progression ?",
             "\\C[3]Merci d'avoir joué !"
+        ],
+        "1-1-choice": [
+            "Sauvegarder\nNe pas sauvegarder"
         ]
     },
     "map184": {
