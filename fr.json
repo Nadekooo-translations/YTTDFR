@@ -6456,7 +6456,7 @@
             "\\.\"Hahh...! Hahh...!!\"",
             "\\C[6]\"Appel à toutes les unités !\n Le suspect est armé d'un pistolet !\"",
             "\\.\\C[6]\"Aucun civil dans la zone ! Vous avez l'autorisation\n d'ouvrir le feu ! Il ne doit pas fuir le périmètre !\"",
-            "\\.\"T'as nulle part où fuir ! Lâche ton arme !\"",
+            "\\.\"T'as nulle part où t'enfuir ! Lâche ton arme !\"",
             "\\.\"Ooooohhh...!! Ahhhhhhhhh...!!\"",
             "\\.\"Et merde...! Il pète les plombs !\"",
             "\\.\"Je vais faire un tir d'avertissement...!\n Il faut qu'on l'arrête à tout prix !\"",
@@ -6523,7 +6523,7 @@
             "\\.\"Ouais... Mais si tu veux un conseil,\n évite de te mêler à ses histoires.\"",
             "\\.\"Hein...?\"",
             "\\.\"Je suis pas censé t'en parler ici, mais...\"",
-            "\\.\"Il a voulu révéler au grand jour des affaires\n bien sombres cachées au sein de la police...\n Résultat des courses, il s'est fait virer...\"",
+            "\\.\"Il a voulu révéler au grand jour une affaire\n bien sombre cachée au sein de la police...\n Résultat des courses, il s'est fait virer...\"",
             "\\.\"...!!\"",
             "\\.\"Il était toujours dévoué à faire régner la justice,\n parce qu'il voulait que son gosse soit fier de lui...\n Mais ça a fini par le rattraper...\"",
             "\\.\"Une affaire sombre...? C'était quoi, exactement ?\"",
@@ -23628,6 +23628,45 @@
         ],
         "1456-0-message": [
             "\"Je vais essayer de trouver un truc\n qui puisse servir d'arme, miaou !\""
+        ],
+        "1457-0-message": [
+            "\"Et la torche accrochée au mur, on pourrait pas\n s'en servir comme arme, miaou ?!\""
+        ],
+        "1458-0-message": [
+            "\"Miaouuu !!\n Dans ce cas, je vais l'attaquer avec la pelle, ouaf !!\""
+        ],
+        "1459-0-message": [
+            "\"Pas de pitié ! Vas-y, tire, Keiji...!!\""
+        ],
+        "1460-0-message": [
+            "\"Déchaîne-toi, Keiji Shinogi !!\n Descends cet homme...!!\""
+        ],
+        "1461-0-message": [
+            "\"Je vais empêcher Hinako de te gêner...!\n Alors tire encore une fois, Keiji !!\""
+        ],
+        "1462-0-message": [
+            "\"Tch...!! Je peux au moins bloquer\n les échappatoires de \\N[4]...!\n Tire une seconde fois, Keiji !!\""
+        ],
+        "1463-0-message": [
+            "\"La vache...! Hors de question qu'il nous le pique !\n C'est moi qui vais ramasser le pistolet...!\""
+        ],
+        "1464-0-message": [
+            "\"Grr...! Quel ramollo !\n J'vais ramasser le flingue et tirer...!\""
+        ],
+        "1465-0-message": [
+            "\"Keiji ! Kanna se charge de l'empêcher de fuir !\n Je t'en prie, touche vite \\N[4] !!\""
+        ],
+        "1466-0-message": [
+            "\"\\N[4]...\n Je vais t'attraper moi-même...!\""
+        ],
+        "1467-0-message": [
+            "\"Kurumada, aide-moi à attraper \\N[4],\n s'il te plaît !\""
+        ],
+        "1468-0-message": [
+            "\"Keiji ! On l'prend en tenailles !\n Attrapons-le ensemble...!\""
+        ],
+        "1469-0-message": [
+            "\"*snif*... Pitié, Keiji !\n Trouve un moyen de l'attraper !\""
         ]
     },
     "map107": {
@@ -38957,7 +38996,7 @@
             "\\.\"Miaaa...!!\"",
             "\\C[3]Keiji est à terre, incapable de bouger correctement.",
             "\\C[3]\\N[4] et Keiji se fusillent du regard.",
-            "\"Poruquoi ne pas abandonner, Keiji ?\n Tu devrais toucher Sara, c'est plus facile...\"",
+            "\"Poruquoi ne pas abandonner, Keiji ?\n Tu devrais toucher Sara et la laisser faire...\n Même elle s'en sortirait bien mieux que toi...\"",
             "\\.\"...!\"",
             "\\C[3]Keiji est à terre, incapable de bouger correctement.",
             "\\C[3]\\N[4] et Keiji se fusillent du regard.",
@@ -38984,13 +39023,13 @@
         ],
         "1-1-message": [
             "\\C[10]\"C'est tellement génial, la haine...\n Elle me permet d'envahir une personne à 100%...\"",
-            "\\.\"Tu vas crever, \\N[4]...!!\"",
+            "\\.\"Et maintenant, crève, \\N[4]...!!\"",
             "\\.\"Ranmaru, passe-moi le chat...! Touche-moi !\"",
             "\\.\"Aïïïe !\"",
-            "\\.\"Tu vas crever, \\N[4]...!!\"",
+            "\\.\"Et maintenant, crève, \\N[4]...!!\"",
             "\\.\"Ahahaha ! Jouons sur la plus belle des scènes !!\"",
             "\"\"H... Hé... C'est quoi, ça...?!\"",
-            "\\.\\C[10]\"Le cimetière... des Pantins brisés...!!\""
+            "\\.\\C[10]\"Le cimetière des poupées brisées...!!\""
         ]
     },
     "map229": {
