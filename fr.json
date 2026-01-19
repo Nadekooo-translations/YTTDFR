@@ -23667,6 +23667,30 @@
         ],
         "1469-0-message": [
             "\"*snif*... Pitié, Keiji !\n Trouve un moyen de l'attraper !\""
+        ],
+        "1470-0-message": [
+            "\"Argh... Keiji ! Démerde-toi pour l'attraper...!!\n Peu importe comment, on s'en fout...!!\""
+        ],
+        "1471-0-message": [
+            "\"\\N[4] n'fait pas attention à moi...!\n J'vais m'faufiler dans son angle mort...!\""
+        ],
+        "1472-0-message": [
+            "\"Me v'là assez proche de \\N[4]...!\n J'vais lui bondir dessus et l'choper par la jambe !!\""
+        ],
+        "1473-0-message": [
+            "\"Haa...!! Haa...!!\""
+        ],
+        "1473-0-choice": [
+            "Tenter de l'apaiser\nAnnuler"
+        ],
+        "1477-0-message": [
+            "\"Et merde...! J'm'en fous, j'recommencerai\n autant d'fois qu'il faudra, pardi !\"",
+            "\\C[3]Le collier de Keiji commença à agir différemment.",
+            "\"Ce son...!!\"",
+            "\"...!!\""
+        ],
+        "1478-0-message": [
+            "\"Haa... Haaa... Merci...\n J'peux encore tenir !\""
         ]
     },
     "map107": {
