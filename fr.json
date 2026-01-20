@@ -759,10 +759,10 @@
             "Chapitre Final, Partie Une (A)\nChapitre 2, Partie Deux\nChapitre 2, Partie Une\nChapitre 1, Partie Deux\nChapitre 1, Partie Une\nAnnuler"
         ],
         "1-1-message": [
-            "\\.Choisissez un chapitre où commencer.\n\\C[2](Chapitre 3 Partie 1-A en cours de traduction !)\\C[0]"
+            "\\.Choisissez un chapitre où commencer.\n\\C[2](Chapitre 3 Partie 1-B en cours de traduction !)\\C[0]"
         ],
         "2-1-message": [
-            "\\.Choisissez un chapitre où commencer.\n\\C[2](Chapitre 3 Partie 1-A en cours de traduction !)\\C[0]"
+            "\\.Choisissez un chapitre où commencer.\n\\C[2](Chapitre 3 Partie 1-B en cours de traduction !)\\C[0]"
         ],
         "2-1-choice": [
             "Chapitre 2, deuxième partie\nChapitre 2, première partie\nChapitre 1, deuxième partie\nChapitre 1, première partie\n\\C[2]Sous-jeu (Nouveau !)\nAnnuler"
@@ -37063,7 +37063,20 @@
             "\\.\\C[4](Qu'est-ce que nous pouvons faire ?!)"
         ],
         "60-3-message": [
-            "\"Ah...\""
+            "\"Ah...\"",
+            "\\C[4](Mai... Es-tu réveillée...?)"
+        ],
+        "1-1-message": [
+            "\\C[3]Il y a une écriture sur le monument en pierre."
+        ],
+        "2-1-message": [
+            "\"Grande soeur Sara ! Qu'est-ce qu'on fait, miaou ?!\n Il faut sauver M. le Policier...!\"",
+            "\"...\n ...\n ...\"",
+            "\"Grande sœur Sara... Moi non plus, je voulais\n pas que tu signes cette feuille bizarre, miaou...\"",
+            "\\.\"Alors... Sauvons M. le Policier ensemble, ouaf !\""
+        ],
+        "3-1-message": [
+            "\\C[3]Hinako était dans ce cercueil."
         ]
     },
     "map155": {
