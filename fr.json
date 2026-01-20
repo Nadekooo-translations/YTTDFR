@@ -25951,8 +25951,8 @@
             "Le véritable \\C[2]Sou Hiyori\\C[0]...\\!\\SE[poka01,90]\\sw[324]\nCelui que nous croyions décédé,\ntué par le meurtrier Alice Yabusame.",
             "D'ailleurs... Par quel nom l'as-tu appelé ?",
             "Non... Ce n'était certainement pas cela.",
-            "\\C[2]\\N[4]\\C[0]...\n C'est bien cela ?",
-            "Bref... Revenons à nos moutons.",
+            "\\C[2]\\N[4]\\C[0]...\nC'est bien cela ?",
+            "Bien... Revenons à nos moutons.",
             "Les cercueils continrent également 6 autres\npersonnes connues sous le nom des \\C[2]Pantins\\C[0]...",
             "\\.Des poupée-copies de ceux qui moururent avant\nqu'ils ne rencontrèrent qui que ce soit.\\|\\|",
             "\\.Collaborer avec eux afin de \\C[2]tuer \\N[4]\\C[0]...",
@@ -43387,7 +43387,17 @@
             "\\.\\C[3]Où est-ce... que je suis ?",
             null,
             null,
-            "\\C[3]Je veux sortir d'ici..."
+            "\\C[3]Je veux sortir d'ici...",
+            "\"Pourquoi ai-je rejoint la police...?\"",
+            "\\.\"Eh bien... Disons que je cherchais\n quelque chose de bien précis.\"",
+            "\\.\\C[3]Laissez-moi sortir... de cette cage...",
+            "\"Comment vais-je appeler mon gosse quand il sera né ?\"",
+            "\\.\"Hmm... Faut que ce soit un nom bien viril,\n sur lequel on peut compter ! Gahahaha !\"",
+            "\\.\\C[3]Sortez-moi de ces ténèbres... tout de suite...",
+            "\\.\"Laissez-moi sortir...!!\"",
+            "\\.\"Sortez-moi d'ici...!!\"",
+            "\\.\\C[10]\"Allons, calme-toi, Keiji...\"",
+            "\\.\"... Eurk...\""
         ]
     }
 }
