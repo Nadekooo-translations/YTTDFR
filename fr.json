@@ -25860,7 +25860,7 @@
             "\\C[4](Je vais essayer de le toucher...)",
             "\\C[4](Y a-t-il quelque chose d'intéressant...?)",
             "\\.\\C[3]J'ai lentement ouvert le couvercle.\\.\\.",
-            "\\C[4](Y a-t-il des endroits qui semblent louches... ?!)",
+            "\\C[4](Y a-t-il des endroits qui semblent louches...?!)",
             "\"YaaahhhHHH ?!\"\\.",
             "\"Grande sœur Sara !! Qu'est-ce qui se passe, ouaf ?!\"",
             "\\.\"Reculez...! Cette personne... a bougé !!\""
@@ -25956,7 +25956,7 @@
             "Les cercueils continrent également 6 autres\npersonnes connues sous le nom des \\C[2]Pantins\\C[0]...",
             "\\.Des poupée-copies de ceux qui moururent avant\nqu'ils ne rencontrèrent qui que ce soit.\\|\\|",
             "\\.Collaborer avec eux afin de \\C[2]tuer \\N[4]\\C[0]...",
-            "\\.Voilà le but du \\C[2]Jeu du Meurtrier\\C[0].",
+            "\\.Voilà le but du \\C[2]Mini-Jeu du Meurtrier\\C[0].",
             "Cependant... L'objectif secret des Pantins\nétait de \\C[2]tuer les survivants\\C[0]...",
             "Ces poupées pitoyables furent conçues pour trahir.",
             "\\C[2]Q-taro Burgerberg\\C[0] fut poignardé dans le dos,\nmais décida malgré tout de croire en les Pantins...",
@@ -37052,6 +37052,18 @@
             null,
             null,
             "\\.\\C[4](...)"
+        ],
+        "60-1-message": [
+            "\"Son exécution doit sacrément le terrifier... Haha.\"",
+            "\\.\\C[4](Comment cela a-t-il pu se produire ?!)",
+            "\\.\\C[4](Keiji... a perdu le combat face à \\N[4]...)",
+            "\\.\\C[4](Et maintenant, il est coincé dans ce cercueil...!)",
+            "\\.\\C[4](Les Pantins n'ont pas pu nous venir en aide,\n puisque leurs vies étaient mises en jeu...)",
+            "\\.\\C[4](... Il y a désormais une rupture entre eux et nous,\n à cause de tout cela...)",
+            "\\.\\C[4](Qu'est-ce que nous pouvons faire ?!)"
+        ],
+        "60-3-message": [
+            "\"Ah...\""
         ]
     },
     "map155": {
@@ -43397,7 +43409,21 @@
             "\\.\"Laissez-moi sortir...!!\"",
             "\\.\"Sortez-moi d'ici...!!\"",
             "\\.\\C[10]\"Allons, calme-toi, Keiji...\"",
-            "\\.\"... Eurk...\""
+            "\\.\"... Eurk...\"",
+            "\\.\\C[10]\"N'aie pas si vite recours à la violence.\n Je pensais t'avoir inculqué ça...?\"",
+            "\\.\\C[10]\"Pas vrai... Keiji ?\"",
+            "\\.\"...!!\"",
+            "\\.\\C[3]Le cercueil devint silencieux.",
+            "\\.\"La vache... Tu t'es enfin décidé à te calmer.\""
+        ]
+    },
+    "map224": {
+        "18-1-message": [
+            "\\C[3]Anzu était dans ce cercueil.\nIl est complètement détruit.",
+            "\\.\\C[4](Je suis désolée...)"
+        ],
+        "18-2-message": [
+            "\\C[3]Anzu était dans ce cercueil."
         ]
     }
 }
