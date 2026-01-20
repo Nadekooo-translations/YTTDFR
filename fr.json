@@ -36726,31 +36726,31 @@
             "\\.\"...\""
         ],
         "27-1-message": [
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\C[3]\\N[4] porte un regard joyeux vers nous.",
+            "\\.\"Ahaha. Et vous qui prétendiez pouvoir vous\n entendre avec les Pantins... C'est risible.\"",
+            "\\.\\C[4](...\n ...\n ...)",
+            "\"Laisse-le... Laisse Keiji SORTIR de ce cercueil...!!\"",
+            "\\.\"Je te le répète...\n Il n'existe qu'un seul moyen de le sauver.\"",
+            "\\.\"Signe simplement ça... et je te le dirais.\"",
+            "\"Mais... attends ! Je ne...\n Je ne sais même pas ce qui est écrit !\"",
+            "\"As-tu le temps de te préoccuper d'un tel détail ?\"",
+            "\\.\"Le \\C[2]minuteur d'exécution\\C[0] du cercueil est déjà lancé.\"",
+            "\"Une fois que le dernier grain de sable chute...\n Il sera brûlé vif.\"",
+            "\\.\"Vous pourrez sentir un délicieux steak de Keiji !\"",
+            "\"A... ARRÊTE !!\"",
+            "\"Ahh, j'en peux plus d'attendre...\n C'est la première fois que j'utilise ce\n nouveau cercueil.\"",
+            "\\.\"Je suis si curieux... Comment va-t-il mourir...?\"",
+            "\"Je ne vais PAS te laisser l'exécuter, tu m'entends !!\"",
+            "\\.\"Tu.... tu ne peux pas...\"",
+            "\"Hahaha... Dans ce cas, donne-moi ta réponse.\"",
+            "\\.\"Alors, que vas-tu faire, hmm ?\"",
+            "\\C[4](\\N[4]... il est très sérieux.)",
+            "\\.\\C[4](Ce formulaire de consentement...)",
+            "\\.\\C[4](C'est certainement un contrat esclavagiste qui\n mentionne que le signataire accepte les conditions\n \\C[2]qui sont écrites dedans, quelles qu'elles soient\\C[4]...)",
+            "\\.\\C[4](...\n ...\n ...)\\.",
+            "\"D'a... ccord...\"",
+            "\\.\"Je vais le signer... alors dépêche-toi\n de sauver Keiji sur le champ...!!\"",
+            "\\C[4](C'est le seul choix que je puisse faire...)",
             null,
             null,
             null,
@@ -37077,6 +37077,39 @@
         ],
         "3-1-message": [
             "\\C[3]Hinako était dans ce cercueil."
+        ],
+        "4-1-message": [
+            "\\C[3]Hayasaka était dans ce cercueil."
+        ],
+        "5-1-message": [
+            "\\C[3]Ranmaru était dans ce cercueil."
+        ],
+        "6-1-message": [
+            "\\C[3]Anzu était dans ce cercueil.\nIl est complètement détruit."
+        ],
+        "6-2-message": [
+            "\\C[3]Anzu était dans ce cercueil."
+        ],
+        "6-7-message": [
+            "\\C[3]Anzu était dans ce cercueil.\nIl est complètement détruit."
+        ],
+        "6-8-message": [
+            "\\C[3]Anzu était dans ce cercueil."
+        ],
+        "6-9-message": [
+            "\\C[3]Anzu était dans ce cercueil.\nIl est complètement détruit."
+        ],
+        "6-10-message": [
+            "\\C[3]Anzu était dans ce cercueil."
+        ],
+        "7-1-message": [
+            "\\C[3]Kurumada était dans ce cercueil."
+        ],
+        "8-1-message": [
+            "\\C[3]Mai était dans ce cercueil."
+        ],
+        "22-2-message": [
+            "\\C[3]Un sablier fut posé par-dessus le cercueil."
         ]
     },
     "map155": {
