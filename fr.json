@@ -36751,23 +36751,25 @@
             "\"D'a... ccord...\"",
             "\\.\"Je vais le signer... alors dépêche-toi\n de sauver Keiji sur le champ...!!\"",
             "\\C[4](C'est le seul choix que je puisse faire...)",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\.\\C[4](S'il suffit de signer ce papier pour l'aider...\n Alors, je vais...)",
+            "\\.\\C[4](...\n ...\n ...)",
+            "\\C[3]L'abandonner...?",
+            "\\.\\C[4](Non...!! Je ne pourrais jamais\n faire une chose pareille...!!)",
+            "\\.\\C[4](Non... Je ne devrais pas...)",
+            "\\.\\C[4](Mais bon... faire ce que me demande l'ennemi\n sans broncher...)",
+            "\\.\\C[4](...\n ...\n ...)",
+            "\"Hahaha... Pourquoi cette hésitation ?\"",
+            "\\.\\C[4](...\n ...\n ...)",
             "\\.\\C[4](...)",
             null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\"...\""
+            "\"Quoi...?!\"\\|",
+            "\\.\"Je ne peux pas te laisser faire...\"",
+            "\\.\"Ranmaru...?!\"",
+            "\\.\"Tu... Tu viens vraiment de le DÉCHIRER ?! RANMARU !!\"",
+            "\\.\"V-Viens-tu vraiment de le déchirer ?! Imbécile...!\"",
+            "\\.\"...\"",
+            "\\.\"M... M. le... Policier...\"",
+            "\\.\"...\n ...\n ...\""
         ],
         "66-5-message": [
             null,
@@ -37110,6 +37112,41 @@
         ],
         "22-2-message": [
             "\\C[3]Un sablier fut posé par-dessus le cercueil."
+        ],
+        "27-1-choice": [
+            "Parler\nSe préparer",
+            "Demander comment sauver Keiji",
+            "Signer le formulaire de consentement\nAbandonner Keiji"
+        ],
+        "27-2-message": [
+            "\"... Ohh, zut... quel dommage. Le formulaire...\""
+        ],
+        "56-1-message": [
+            "\"Ohhh bah alors ?\n Qu'est-ce qu'il nous fait Keiji, là ?\""
+        ],
+        "27-4-message": [
+            "\"...Hmpf. Vous vous montez le bourrichon...\""
+        ],
+        "62-1-message": [
+            "\\C[3]Mai est complètement immobile."
+        ],
+        "90-1-message": [
+            "\"Si seulement les Pantins nous avaient aidés...\n On serait pas dans une telle situation, bordel...!\""
+        ],
+        "90-2-message": [
+            "\"Si seulement les Pantins avaient apporté leur aide...\n Nous ne nous serions certainement pas retrouvés\n dans cette situation...\""
+        ],
+        "64-1-message": [
+            "\"Tsk...! Comment on en est arrivés là ?!\""
+        ],
+        "71-2-message": [
+            "\"À ce rythme-là, Keiji va vraiment se faire exécuter !\""
+        ],
+        "81-1-message": [
+            "\"Hmpf... On y est pour rien...\""
+        ],
+        "79-1-message": [
+            "\"Ce n'est pas comme si nous désirions vous\n contrarier... mais...\""
         ]
     },
     "map155": {
