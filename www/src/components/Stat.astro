@@ -1,0 +1,26 @@
+---
+const {value, description} = Astro.props;
+---
+
+<div class="stat">
+	<div class="value">{value}</div>
+	<div class="description">{description}</div>
+</div>
+
+<style lang="scss">
+  @import "../styles/colors";
+
+	.stat {
+	  .value {
+        color: $gold;
+		font-size: larger;
+		font-weight: bold;
+		text-align: center;
+	  }
+
+	  .description {
+        text-align: center;
+		font-weight: lighter;
+	  }
+	}
+</style>

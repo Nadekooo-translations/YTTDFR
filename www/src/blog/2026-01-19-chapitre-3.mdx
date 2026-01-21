@@ -4,6 +4,7 @@ description: "Nankidai publie des captures d'écran et la progression du dernier
 brief: "Nankidai publie des captures d'écran et la progression du dernier chapitre"
 date: '2026-01-19T23:30:00.000Z'
 ---
+import Stat from "../components/Stat.astro";
 
 Bonjour à tous&nbsp;!
 
@@ -18,4 +19,10 @@ afin de corriger les lignes comportant des erreurs (comme des manques de traduct
 Nous comptons donc sur vous&nbsp;!
 Si vous désirez nous aider dans cette démarche, veuillez consulter notre serveur discord dans lequel nous vous expliquerons comment remonter vos suggestions. 
 
-Merci pour votre lecture, et bon jeu ! 
+Merci pour votre lecture, et bon jeu !
+
+<div class="stat-container">
+    <Stat value="984" description="Répliques traduites" />
+    <Stat value="125 858" description="Caractères" />
+    <Stat value="2" description="Contributeurs" />
+</div>
