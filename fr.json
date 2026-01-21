@@ -33317,6 +33317,9 @@
             null,
             "\\.\"Les gars, \\N[4] est peut-être à cet étage.\n Soyez prudents...\"",
             "\\.\"D'accord...!\""
+        ],
+        "1-1-choice": [
+            "Sauvegarder\nNe pas sauvegarder"
         ]
     },
     "map196": {
@@ -36743,7 +36746,7 @@
             "\"Je ne vais PAS te laisser l'exécuter, tu m'entends !!\"",
             "\\.\"Tu.... tu ne peux pas...\"",
             "\"Hahaha... Dans ce cas, donne-moi ta réponse.\"",
-            "\\.\"Alors, que vas-tu faire, hmm ?\"",
+            "\\.\"Que vas-tu faire, hmm ?\"",
             "\\C[4](\\N[4]... il est très sérieux.)",
             "\\.\\C[4](Ce formulaire de consentement...)",
             "\\.\\C[4](C'est certainement un contrat esclavagiste qui\n mentionne que le signataire accepte les conditions\n \\C[2]qui sont écrites dedans, quelles qu'elles soient\\C[4]...)",
