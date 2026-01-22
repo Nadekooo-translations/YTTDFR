@@ -39106,13 +39106,16 @@
             "\"Si seulement les Pantins avaient apporté leur aide...\n Nous ne nous serions certainement pas retrouvés\n dans cette situation...\""
         ],
         "64-1-message": [
-            "\"Tsk...! Comment on en est arrivés là ?!\""
+            "\"Tsk...! Comment on en est arrivés là ?!\"",
+            "\"Putain, Ranmaru... C'est quoi ton souci...?\""
         ],
         "71-2-message": [
-            "\"À ce rythme-là, Keiji va vraiment se faire exécuter !\""
+            "\"À ce rythme-là, Keiji va vraiment se faire exécuter !\"",
+            "\"... Eh bah. Je ne m'attendais vraiment pas\n à ce qu'il déchire le formulaire...\""
         ],
         "81-1-message": [
-            "\"Hmpf... On y est pour rien...\""
+            "\"Hmpf... On y est pour rien...\"",
+            "\"Q-Qu'est-ce que tu veux que j'y fasse !\n Tu crois qu'on a le choix ? C'est stupide...!\""
         ],
         "79-1-message": [
             "\"Ce n'est pas comme si nous désirions vous\n contrarier... mais...\""
@@ -39177,6 +39180,10 @@
             null,
             "\\C[3]Keiji est coincé à l'intérieur du cercueil central.",
             "\\.\\C[4](Non...! Je n'arrive pas à l'ouvrir...!)"
+        ],
+        "61-1-message": [
+            null,
+            "\"Rah... les gars !!\n Faut qu'on fasse équipe, là, pas l'inverse !!\""
         ]
     },
     "map155": {
