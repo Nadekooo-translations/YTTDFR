@@ -38561,12 +38561,12 @@
         "68-2-message": [
             "\"Je vous prie de nous expliquer votre comportement !\n Parce que là, c'est... purement cruel...!!\"",
             "\\.\"Vous ne vous préoccupez pas du sort de Keiji ?!\"",
-            "\"Vous allez devoir vous expliquer.\n Pourquoi avez-vous fait une chose pareille...?\"",
-            "\\.\"Vous vous fichez carrément\n du sort de Keiji, c'est ça ?\"",
+            "\"Tu vas devoir t'expliquer.\n Pourquoi as-tu fait une chose pareille...?\"",
+            "\\.\"Les Pantins... Vous vous fichez carrément\n du sort de Keiji, c'est ça ?\"",
             "\\.\"Peut-être bien...\"",
             "\\.\"Si vous \\C[2]tuiez \\N[4]\\C[0] maintenant,\n \\C[2]nous, les Pantins, mourrions\\C[0]. Objectif inatteint...\"",
             "\\.\"Mais tout à l'heure, Keiji a choisi de se battre\n en sachant pertinemment ce fait, n'est-ce pas ?\"",
-            "\\.\"Ouais... Il récolte ce qu'il a semé !\n Ce débile dangereux...!\"",
+            "\\.\"Ouais... Il récolte ce qu'il a semé !\n C'est ce que ce débile dangereux mérite...!\"",
             "\\.\"Grr ! Espèce de...!!\"",
             "\\.\"Ah ouais, d'accord. Donc vous voulez qu'il reste\n gentiment là-dedans, à attendre son exécution ?!\n Non, mais, vous vous foutez de la gueule de qui ?!\"",
             "\\.\"Comme je le craignais... nos groupes sont tout\n bonnement incompatibles...!\"",
@@ -38589,20 +38589,20 @@
             "\\.\"Je croyais pouvoir le venger... alors j'ai...\"",
             "\\.\"...\"",
             "\\.\"Non, c'est pas ça non plus...\"",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\.\"J'ai tenté de blâmer \\N[4]...\n pour tout ce qu'il s'est passé.\"",
+            "\"Non seulement pour le fait\n que j'ai fusillé mon idole...\"",
+            "\\.\"Mais également... quand je n'ai pas sauvé\n Megumi pendant la Première Épreuve.\"",
+            "\\.\"Même lorsque ces actions étaient de mon fait...\"",
+            "\\.\"Q-taro a mis sa vie en jeu pour bâtir des liens\n avec les Pantins... tandis que moi...\"",
+            "\\.\"J'ai...\"",
             "\"...\"",
-            null,
-            null,
+            "\"J'imagine que...  je n'aurai pas...\n le droit de me plaindre si je meurs ici...\"",
+            "\"Q-Que... Qu'ess'tu racontes, là ?! Keiji...!!\"",
             "\\.\"...\n ...\n ...\"",
-            null,
-            null,
-            null,
-            null,
+            "\\.\"... J'te laisserai pas crever ici.\"",
+            "\\.\"Hein...?\"",
+            "\\.\"On va te tirer de là et te sauver... nous-mêmes.\"",
+            "\\.\"Sans signer ce putain de contrat de\n \\N[4] !!\"",
             null,
             null,
             null,
@@ -39080,7 +39080,7 @@
             "\\C[3]Mai était dans ce cercueil."
         ],
         "22-2-message": [
-            "\\C[3]Un sablier fut posé par-dessus le cercueil."
+            "\\C[3]Un sablier fut placé au-dessus du cercueil."
         ],
         "27-1-choice": [
             "Parler\nSe préparer",
@@ -39118,10 +39118,12 @@
             "\"Q-Qu'est-ce que tu veux que j'y fasse !\n Tu crois qu'on a le choix ? C'est stupide...!\""
         ],
         "79-1-message": [
-            "\"Ce n'est pas comme si nous désirions vous\n contrarier... mais...\""
+            "\"Ce n'est pas comme si nous désirions vous\n contrarier... mais...\"",
+            "\"C-C'est franchement ridicule !\n Il n'y avait aucune nécessité de faire cela...!!\""
         ],
         "80-1-message": [
-            "\"J'ai vraiment envie qu'on s'entende bien, nous tous...\n Mais c'est impossible...!\""
+            "\"J'ai vraiment envie qu'on s'entende bien, nous tous...\n Mais c'est impossible...!\"",
+            "\"Pourquoi t'as fait ça ?! Ranmaru...!!\""
         ],
         "68-1-message": [
             "\"...\n ...\n ...\""
