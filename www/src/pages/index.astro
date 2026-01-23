@@ -66,12 +66,14 @@ const translationPercent = await fetchTranslationPercentage();
 			<Image src={chapter2a} alt="" {...chapterSizes} />
 			<figcaption>Chapitre 2, partie une</figcaption>
 		</figure>
-		<figure title={chapterNotTranslated}>
+		<figure>
 			<Image src={chapter2b} alt="" {...chapterSizes} />
 			<figcaption>Chapitre 2, partie deux</figcaption>
 		</figure>
-		<figure class="not-translated" title={chapterNotTranslated}>
-			<Image src={chapter3a} alt="" {...chapterSizes} />
+		<figure title="Récemment traduit">
+			<div class="shiny-wrapper">
+				<Image src={chapter3a} alt="" {...chapterSizes} />
+			</div>
 			<figcaption class="pixel">Chapitre 3, partie une, section A</figcaption>
 		</figure>
 		<figure class="not-translated" title={chapterNotTranslated}>
@@ -127,9 +129,12 @@ const translationPercent = await fetchTranslationPercentage();
 		figure {
 			display: flex;
 			flex-direction: column;
+			align-items: center;
+
+			$imgWidth: 15ch;
 
 			img {
-				width: 15ch;
+				width: $imgWidth;
 			}
 
 			figcaption {
@@ -157,6 +162,41 @@ const translationPercent = await fetchTranslationPercentage();
 					color: $lightGray;
 				}
 			}
+
+			.shiny-wrapper {
+				display: flex;
+				flex-direction: column;
+
+				width: fit-content;
+				height: fit-content;
+
+				margin-top: 2em;
+
+				animation: 2s shineRotate infinite;
+
+				background: linear-gradient(var(--shine-rotation), $gold, $brown, $red);
+
+				img {
+					margin: 4px;
+
+					width: calc($imgWidth - 8px);
+				}
+			}
+		}
+	}
+
+	@property --shine-rotation {
+		syntax: '<angle>';
+		initial-value: 0deg;
+		inherits: false;
+	}
+
+	@keyframes shineRotate {
+		0% {
+			--shine-rotation: 0deg;
+		}
+		100% {
+			--shine-rotation: 360deg;
 		}
 	}
 </style>
