@@ -25860,7 +25860,7 @@
             "\\C[4](Je vais essayer de le toucher...)",
             "\\C[4](Y a-t-il quelque chose d'intéressant...?)",
             "\\.\\C[3]J'ai lentement ouvert le couvercle.\\.\\.",
-            "\\C[4](Y a-t-il des endroits qui semblent louches... ?!)",
+            "\\C[4](Y a-t-il des endroits qui semblent louches...?!)",
             "\"YaaahhhHHH ?!\"\\.",
             "\"Grande sœur Sara !! Qu'est-ce qui se passe, ouaf ?!\"",
             "\\.\"Reculez...! Cette personne... a bougé !!\""
@@ -25935,16 +25935,39 @@
         ],
         "3-5-message": [
             "La victime suivante fut la collégienne \\C[2]Kanna Kizuchi\\C[0].",
-            null,
-            null,
-            null,
-            null,
+            "Et \\C[2]Sou Hiyori\\C[0], qui échoua à protéger Kanna,\neut une haine incommensurable envers Sara.",
+            "Alors, il démarra une IA malveillante de Joe, et...",
+            "Sara oublia l'existence même de son meilleur ami...\\|",
+            "\\.Le Jeu Mortel Démocratique... n'est pas encore terminé.",
             "La victime suivante fut l'intérimaire \\C[2]Sou Hiyori\\C[0].",
             "Après avoir retiré son collier,\nil usa de ses dernières forces...",
             "... pour démarrer une IA de Joe.",
             "\\.Sara et son meilleur ami furent enfin\nréunis, et s'éveilla de son long cauchemar.",
             "Le Jeu Mortel Démocratique... n'est pas encore terminé.",
-            "\n\n                        \\C[10]6 Restants"
+            "\n\n                        \\C[10]6 Restants",
+            "Excellent... Maintenant, essaie de\nte souvenir un peu plus.",
+            "Après cela... un nouveau jeu démarra.",
+            "Le lieu : un cimetière.\nÀ l'intérieur de l'un des 7 cercueils, il y eut...",
+            "Le véritable \\C[2]Sou Hiyori\\C[0]...\\!\\SE[poka01,90]\\sw[324]\nCelui que nous croyions décédé,\ntué par le meurtrier Alice Yabusame.",
+            "D'ailleurs... Par quel nom l'as-tu appelé ?",
+            "Non... Ce n'était certainement pas cela.",
+            "\\C[2]\\N[4]\\C[0]...\nC'est bien cela ?",
+            "Bien... Revenons à nos moutons.",
+            "Les cercueils continrent également 6 autres\npersonnes connues sous le nom des \\C[2]Pantins\\C[0]...",
+            "\\.Des poupée-copies de ceux qui moururent avant\nqu'ils ne rencontrèrent qui que ce soit.\\|\\|",
+            "\\.Collaborer avec eux afin de \\C[2]tuer \\N[4]\\C[0]...",
+            "\\.Voilà le but du \\C[2]Mini-Jeu du Meurtrier\\C[0].",
+            "Cependant... L'objectif secret des Pantins\nétait de \\C[2]tuer les survivants\\C[0]...",
+            "Ces poupées pitoyables furent conçues pour trahir.",
+            "\\C[2]Q-taro Burgerberg\\C[0] fut poignardé dans le dos,\nmais décida malgré tout de croire en les Pantins...",
+            "Or, la situation prit une tournure toute autre\nlorsque la lumière fut faite quant à l'implication\nde \\N[4] dans le passé \\C[2]Keiji Shinogi\\C[0].",
+            "Réalisant qu'il fut manipulé afin de tuer\nson mentor de ses propres mains...",
+            "\\.Keiji essaya de tuer \\N[4]\ndans un déchaînement de rage.",
+            "Mais puisque les Pantins refusèrent de coopérer...\nil échoua.",
+            "L'exécution de Keiji fut de mise...",
+            "En revanche... il exista un seul moyen de le sauver.",
+            "Sara... tu devais signer ce formulaire de consentement.",
+            "Bien, maintenant... reprenons l'histoire."
         ],
         "3-3-message": [
             "La victime suivante fut\nl'autrice-compositrice \\C[2]Reko Yabusame\\C[0].",
@@ -25956,11 +25979,11 @@
         ],
         "3-1-message": [
             "\\C[5]\"Salut, toi. Est-ce que tu m'entends ?\"",
-            null,
+            "\\C[5]\"Eh bien, quel est le problème...? Es-tu confuse ?\"",
             "\\C[5]\"Hahaha. Flûte, alors.\"",
             "\\.\\C[5]\"... J'aimerais que tu me racontes ce qu'il s'est passé\n durant le Jeu Mortel dans lequel tu étais impliquée.\"",
-            null,
-            null,
+            "\\C[5]\"Allons bon... Est-ce vraiment le cas ?\"",
+            "\\.\\C[5]\"Il semblerait que j'ai envie de réécouter\n ton histoire, encore et encore...\"",
             "\\.\\C[5]\"Ça ne devrait pas être trop difficile, pas vrai ?\n Allez, je t'en supplie...\"",
             "\\C[5]\"... Merci.\"",
             "\\C[5]\"Compris. Une autre fois, alors.\"",
@@ -25978,8 +26001,8 @@
             "\\C[5]Laquelle de ces deux personnes trouva la mort ?"
         ],
         "3-1-choice": [
-            null,
-            null,
+            "Hein...?\nNon",
+            "Je t'ai déjà raconté\nCompris",
             "Se remémorer\nPartir"
         ]
     },
@@ -37029,6 +37052,18 @@
             null,
             null,
             "\\.\\C[4](...)"
+        ],
+        "60-1-message": [
+            "\"Son exécution doit sacrément le terrifier... Haha.\"",
+            "\\.\\C[4](Comment cela a-t-il pu se produire ?!)",
+            "\\.\\C[4](Keiji... a perdu le combat face à \\N[4]...)",
+            "\\.\\C[4](Et maintenant, il est coincé dans ce cercueil...!)",
+            "\\.\\C[4](Les Pantins n'ont pas pu nous venir en aide,\n puisque leurs vies étaient mises en jeu...)",
+            "\\.\\C[4](... Il y a désormais une rupture entre eux et nous,\n à cause de tout cela...)",
+            "\\.\\C[4](Qu'est-ce que nous pouvons faire ?!)"
+        ],
+        "60-3-message": [
+            "\"Ah...\""
         ]
     },
     "map155": {
@@ -43356,6 +43391,39 @@
     "map218": {
         "2-2-choice": [
             "Procéder\nAnnuler"
+        ]
+    },
+    "map223": {
+        "1-1-message": [
+            "\\C[3]Il fait tout noir...",
+            "\\.\\C[3]Où est-ce... que je suis ?",
+            null,
+            null,
+            "\\C[3]Je veux sortir d'ici...",
+            "\"Pourquoi ai-je rejoint la police...?\"",
+            "\\.\"Eh bien... Disons que je cherchais\n quelque chose de bien précis.\"",
+            "\\.\\C[3]Laissez-moi sortir... de cette cage...",
+            "\"Comment vais-je appeler mon gosse quand il sera né ?\"",
+            "\\.\"Hmm... Faut que ce soit un nom bien viril,\n sur lequel on peut compter ! Gahahaha !\"",
+            "\\.\\C[3]Sortez-moi de ces ténèbres... tout de suite...",
+            "\\.\"Laissez-moi sortir...!!\"",
+            "\\.\"Sortez-moi d'ici...!!\"",
+            "\\.\\C[10]\"Allons, calme-toi, Keiji...\"",
+            "\\.\"... Eurk...\"",
+            "\\.\\C[10]\"N'aie pas si vite recours à la violence.\n Je pensais t'avoir inculqué ça...?\"",
+            "\\.\\C[10]\"Pas vrai... Keiji ?\"",
+            "\\.\"...!!\"",
+            "\\.\\C[3]Le cercueil devint silencieux.",
+            "\\.\"La vache... Tu t'es enfin décidé à te calmer.\""
+        ]
+    },
+    "map224": {
+        "18-1-message": [
+            "\\C[3]Anzu était dans ce cercueil.\nIl est complètement détruit.",
+            "\\.\\C[4](Je suis désolée...)"
+        ],
+        "18-2-message": [
+            "\\C[3]Anzu était dans ce cercueil."
         ]
     }
 }
