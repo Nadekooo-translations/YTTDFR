@@ -23896,7 +23896,9 @@
             "Un livre vert trouvé dans la salle de classe.\nSur la quatrième de couverture, on peut lire :\n« Merci de rendre ce livre dans les délais ».",
             "\\.\\C[6]Salut la compagnie ! C'est bibi !\nChers participants nationaux du Jeu Mortel,\nvous qui êtes si troublés par les Obstructeurs,\nje vous apporte de bonnes nouvelles !",
             "\\.\\C[6]Eh oui, mesdames et messieurs ! \nAujourd'hui, je vous dévoile la faiblesse de Maple,\nla plus forte des poupées parmi les Obstructeurs !",
-            "\\.\\C[6]C'est le petit espace dans son dos !\nSouvenez-vous-en, et vous pourrez fanfaronner : \n« Les Obstructeurs, on les mange au p'tit-déj ! »"
+            "\\.\\C[6]C'est le petit espace dans son dos !\nSouvenez-vous-en, et vous pourrez fanfaronner : \n« Les Obstructeurs, on les mange au p'tit-déj ! »",
+            "\\C[3][Talkie-walkie]\nUn appareil de communication à batterie.\nDevrait fonctionner si les deux sont proches.",
+            "\\C[3][Magnétophone]\nUn magnétophone, probablement utilisé lors d'une\nPremière Épreuve. Il donne des instructions sur la\ncoopération avec un partenaire."
         ],
         "1067-0-message": [
             "\\C[3]Nous courûmes de toutes nos forces.",
@@ -38619,12 +38621,12 @@
             "\\.\"Mais tout à l'heure, Keiji a choisi de se battre\n en sachant pertinemment ce fait, n'est-ce pas ?\"",
             "\\.\"Ouais... Il récolte ce qu'il a semé !\n C'est ce que ce débile dangereux mérite...!\"",
             "\\.\"Grr ! Espèce de...!!\"",
-            "\\.\"Ah ouais, d'accord. Donc vous voulez qu'il reste\n gentiment là-dedans, à attendre son exécution ?!\n Non, mais, vous vous foutez de la gueule de qui ?!\"",
+            "\\.\"Ah ouais, d'accord, donc vous voulez qu'il reste\n gentiment là-dedans, à attendre son exécution ?!",
             "\\.\"Comme je le craignais... nos groupes sont tout\n bonnement incompatibles...!\"",
             "\\.\"Il n'existe... plus aucun avenir dans\n lequel nous coopérons, maintenant...\"",
             "\\C[3]L'atmosphère fut glaciale...",
             "\\.\\C[3]Nous nous fîmes déchirer...\nTellement que plus aucun compromis\nne fut possible entre nous, désormais.",
-            "\\.\\C[3]Mais à cet instant précis, ce ne fut pas ça\nqui occupa le plus clair de mon esprit.",
+            "\\.\\C[3]Mais à cet instant précis, ce ne fut pas cela\nqui occupa le plus clair de mon esprit.",
             "\\.\\C[10]J'eus besoin de savoir pourquoi il fit une telle chose.",
             "\\.\\C[4](Ranmaru...!)",
             "\"... Ne les laisse pas t'embrigader, Sara.\"",
@@ -38686,7 +38688,7 @@
             "\\.\"Mais bon, vous savez...\n Je pense que ce sera trop difficile\n pour des gens comme vous.\"",
             "\\.\"Je suis sûr et certain que Keiji va mourir...\"",
             "\\.\"... J'en suis vraiment impatient. Ahaha...\"",
-            "\\C[3]Il a quitté la pièce...",
+            "\\C[3]Il quitta la pièce...",
             "\"Bon, eh bien... Nous ne pouvons qu'agir, désormais.\"",
             "\"À ce niveau-là... il y a plus qu'à, hein.\"",
             "\\.\"Ça va aller, miaou !\n On a encore du temps, ouaf !\"",
@@ -39152,30 +39154,44 @@
             "\\C[3]Mai est complètement immobile."
         ],
         "90-1-message": [
-            "\"Si seulement les Pantins nous avaient aidés...\n On serait pas dans une telle situation, bordel...!\""
+            "\"Si seulement les Pantins nous avaient aidés...\n On serait pas dans une telle situation, bordel...!\"",
+            "\"Qu'est-ce 'tu fous ?! Ranmaru...!!\"",
+            "\"J'reprends un peu du poil de la bête...\"",
+            "\\.\"J'espère juste qu'on regrettera pas ce choix...\""
         ],
         "90-2-message": [
-            "\"Si seulement les Pantins avaient apporté leur aide...\n Nous ne nous serions certainement pas retrouvés\n dans cette situation...\""
+            "\"Si seulement les Pantins avaient apporté leur aide...\n Nous ne nous serions certainement pas retrouvés\n dans cette situation...\"",
+            "\"Cet acte purement stupide nous a fait perdre tous\n les moyens de sauver Keiji Shinogi...!!\"",
+            "\"Assez de querelles pour l'instant...\"",
+            "\\.\"Nous ne sommes pas vraiment ennemis,\n avec les Pantins...\""
         ],
         "64-1-message": [
             "\"Tsk...! Comment on en est arrivés là ?!\"",
-            "\"Putain, Ranmaru... C'est quoi ton souci...?\""
+            "\"Putain, Ranmaru... C'est quoi ton souci...?\"",
+            "\"... Fait chier...\""
         ],
         "71-2-message": [
             "\"À ce rythme-là, Keiji va vraiment se faire exécuter !\"",
-            "\"... Eh bah. Je ne m'attendais vraiment pas\n à ce qu'il déchire le formulaire...\""
+            "\"... Eh bah. Je ne m'attendais vraiment pas\n à ce qu'il déchire le formulaire...\"",
+            "\"On parle de \\N[4], quand même...\n La limite de temps doit être vraiment serrée.\"",
+            "\\.\"Héhé... Dépassons ses attentes.\""
         ],
         "81-1-message": [
             "\"Hmpf... On y est pour rien...\"",
-            "\"Q-Qu'est-ce que tu veux que j'y fasse !\n Tu crois qu'on a le choix ? C'est stupide...!\""
+            "\"Q-Qu'est-ce que tu veux que j'y fasse !\n Tu crois qu'on a le choix ? C'est stupide...!\"",
+            "\"... Si vous avez autant envie de le sauver,\n faites comme bon vous semble.\""
         ],
         "79-1-message": [
             "\"Ce n'est pas comme si nous désirions vous\n contrarier... mais...\"",
-            "\"C-C'est franchement ridicule !\n Il n'y avait aucune nécessité de faire cela...!!\""
+            "\"C-C'est franchement ridicule !\n Il n'y avait aucune nécessité de faire cela...!!\"",
+            "\"J-Je me demande ce que nous devrions faire...?\"",
+            "\\.\"Ranmaru nous a fait un superbe discours,\n d'accord, mais...\""
         ],
         "80-1-message": [
             "\"J'ai vraiment envie qu'on s'entende bien, nous tous...\n Mais c'est impossible...!\"",
-            "\"Pourquoi t'as fait ça ?! Ranmaru...!!\""
+            "\"Pourquoi t'as fait ça ?! Ranmaru...!!\"",
+            "\"Moi non plus, je suis pas un jouet... Je suis humaine.\"",
+            "\\.\"C'est pour ça que je veux pas mourir...\n J'aimerais que tu le comprennes, Sara...\""
         ],
         "68-1-message": [
             "\"...\n ...\n ...\""
@@ -39214,37 +39230,49 @@
             "\\.\\C[4](Non...! Je n'arrive pas à l'ouvrir...!)"
         ],
         "66-2-message": [
+            "\\C[3]J'entendis faiblement la voix de Keiji à l'intérieur.",
             null,
             null,
             null,
             null,
             null,
             null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\"Keiji, comment tu te sens...?\"",
+            "\"C'est plutôt sombre et étroit...\"",
+            "\\C[4](Sa voix... ressemble plus à celle de d'habitude.)",
+            "\"Tu sais...\"",
+            "\\.\"Je crois que j'ai trouvé un\n moyen d'ouvrir ce cercueil.\"",
+            "\"Hein...?!\"",
+            "\"Ouvre la carte...\"",
+            "\"Regarde l'Étage 5...\"",
+            "\"Au centre... se trouve la \\C[2]salle de contrôle\\C[0].\"",
+            "\"Tu te rappelles choses intéressantes, là-bas ?\"",
             null,
             "\\C[3]Keiji est coincé à l'intérieur du cercueil central.",
             "\\.\\C[4](Non...! Je n'arrive pas à l'ouvrir...!)"
         ],
         "61-1-message": [
             "\"Keiji...!\"",
-            "\"Rah... les gars !!\n Faut qu'on fasse équipe, là, pas l'inverse !!\""
+            "\"Rah... les gars !!\n Faut qu'on fasse équipe, là, pas l'inverse !!\"",
+            "\"Faut trouver un moyen d'sauver Keiji...\"",
+            "\\.\"Gorille musclé... Tu devrais te reposer, miaou...\"",
+            "\\.\"Argh...\""
         ],
         "68-2-choice": [
             "Compris\nQuel autre moyen y a-t-il ?"
         ],
         "71-1-message": [
             "\"À ce rythme-là... Keiji va vraiment être exécuté...!!\"",
-            "\"C'est ignoble ! Déchirer le formulaire...?!\""
+            "\"C'est ignoble ! Déchirer le formulaire...?!\"",
+            "\"C'est vrai... Ce n'est pas le moment de se disputer.\"",
+            "\\.\"Kanna va faire de son mieux pour trouver\n une idée de comment le sortir de là...!\""
+        ],
+        "68-3-message": [
+            "\"\\N[4] ne nous sauvera pas...\"",
+            "\\.\"Kurumada et les autres...\n Je suis certain qu'ils en ont conscience.\""
+        ],
+        "66-2-choice": [
+            "Lui parler\nExaminer le cercueil\nSecouer le cerceuil\nAnnuler"
         ]
     },
     "map155": {
@@ -43650,8 +43678,8 @@
         "3-1-message": [
             "\\.\\C[3]Un petit haut-parleur est installé ici.",
             "\\.\"On peut l'enlever...\"",
-            "\\.\"Hm...? Attends, c'est un enregistreur vocal, non ?\n Je l’ai déjà vu quelque part !\"",
-            "\\.\"Ce serait pas un enregistreur vocal ?\"",
+            "\\.\"Hm...? Attends, c'est un magnétophone, non ?\n Je l’ai déjà vu quelque part !\"",
+            "\\.\"Ce serait pas un magnétophone ?\"",
             "\\.\"Hein...? Dans z'cas, y a p't'être déjà\n une voix enregistrée dessus.\"",
             "\\.\"Il y a un bouton à l'arrière...\n Je vais appuyer dessus.\"",
             "\\.\"Il y a un bouton à l'arrière...\n Est-ce que j'appuie dessus ?\"",
@@ -43687,7 +43715,7 @@
             "\\.\"... Non, ce n'est rien.\n C'est certainement mon imagination...\"",
             "\\.\\C[4](Si ça peut être un indice\n pour retrouver nos souvenirs...)",
             "\\.\\C[4](Alors, il faudrait peut-être qu'on ait une\n nouvelle discussion sur nos Premières Épreuves...)",
-            "\\.\\C[3]Enregistreur Vocal obtenu."
+            "\\.\\C[3]Magnétophone obtenu."
         ],
         "29-1-message": [
             "\"...\n ...\n ...\"",
