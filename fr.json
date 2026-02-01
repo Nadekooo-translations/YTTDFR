@@ -36519,7 +36519,10 @@
             "\\.\\C[4](Qu'est-ce que... c'est que ça...?)"
         ],
         "88-2-message": [
-            "\\C[3]L'écran affiche « Système de Contrôle des Cercueils »."
+            "\\C[3]L'écran affiche « Système de Contrôle des Cercueils ».",
+            null,
+            "\"Très bien...! Prends les commandes, Sara Chidouin !!\"",
+            "\\.\"M-Moi...?\""
         ],
         "7-1-message": [
             "\\C[3]Il y a une vraie pagaille de boutons et de molettes.",
@@ -39086,9 +39089,9 @@
             null,
             null,
             null,
-            null,
-            null,
-            null,
+            "\"Désolé... j'peux pas bouger tout d'suite.\n Remplace-moi pour l'instant, OK, Sara...?\"",
+            "\\.\\C[4](Il a l'air en souffrance...\n Je veux qu'il reçoive des soins appropriés...)",
+            "\\.\\C[4](Il a l'air en souffrance...)",
             null,
             null,
             null,
@@ -39226,7 +39229,7 @@
             "\"...\n ...\n ...\""
         ],
         "81-3-message": [
-            null,
+            "\"Regardez la vérité en face, vous autres...\"",
             "\\.\"...\n ...\n ...\""
         ],
         "95-2-message": [
@@ -39320,7 +39323,14 @@
             "\"O-Oh ouais ?\n Bah, dis-nous s'il commence à faire chaud...!\"",
             "\\.\\C[4](Je pense que ce sera trop tard, à ce moment-là...)",
             "\"Keiji, ça va comment, là-dedans ?\"",
-            "\"Je sens que je pourrais dormir comme un bébé...\""
+            "\"Je sens que je pourrais dormir comme un bébé...\"",
+            "\\C[4](Ça remédierait sûrement à ses poches sous ses yeux...)"
+        ],
+        "66-3-choice": [
+            "Lui parler\nExaminer le cercueil\nSecouer le cerceuil\nAnnuler"
+        ],
+        "66-4-message": [
+            "\"H... Hé... grande sœur Sara...\""
         ]
     },
     "map155": {
