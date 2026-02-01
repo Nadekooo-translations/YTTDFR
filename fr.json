@@ -25377,7 +25377,7 @@
         "1102-0-message": [
             null,
             "\"Ce... collier ?\"",
-            "\\.\"Tu parles \\C[2]du collier que \\N[4] portait au début.\\C[0].\"",
+            "\\.\"Tu parles \\C[2]du collier que\n \\N[4] portait au début.\\C[0].\"",
             "\\.\\C[4](On l'a récupéré, donc c'est Keiji qui l'a...)",
             "\\.\"Désolé, mais... c'est pas de ça dont je parle.\"",
             "\\.\"... J'ai mal tourné ma phrase.\n Un certain \\C[2]écran\\C[0] a attiré mon attention.\""
@@ -39182,7 +39182,7 @@
             "\"À ce rythme-là, Keiji va vraiment se faire exécuter !\"",
             "\"... Eh bah. Je ne m'attendais vraiment pas\n à ce qu'il déchire le formulaire...\"",
             "\"On parle de \\N[4], quand même...\n La limite de temps doit être vraiment serrée.\"",
-            "\\.\"Héhé... Dépassons ses attentes.\""
+            "\\.\"Heh... Faisons en sorte de dépasser ses attentes.\""
         ],
         "81-1-message": [
             "\"Hmpf... On y est pour rien...\"",
@@ -39198,7 +39198,7 @@
         "80-1-message": [
             "\"J'ai vraiment envie qu'on s'entende bien, nous tous...\n Mais c'est impossible...!\"",
             "\"Pourquoi t'as fait ça ?! Ranmaru...!!\"",
-            "\"Moi non plus, je suis pas un jouet... Je suis humaine.\"",
+            "\"Moi non plus, je suis pas un jouet... \n Je suis une humaine.\"",
             "\\.\"C'est pour ça que je veux pas mourir...\n J'aimerais que tu le comprennes, Sara...\""
         ],
         "68-1-message": [
@@ -39254,7 +39254,7 @@
             "\"Ouvre la carte...\"",
             "\"Regarde l'Étage 5...\"",
             "\"Au centre... se trouve la \\C[2]salle de contrôle\\C[0].\"",
-            "\"Tu te rappelles choses intéressantes, là-bas ?\"",
+            "\"Tu te rappelles de choses intéressantes, là-bas ?\"",
             "\\C[4](À quoi fait-il référence ?\n Je vais pointer tout ce qui semble prometteur...)",
             "\\C[3]Keiji est coincé à l'intérieur du cercueil central.",
             "\\.\\C[4](Non...! Je n'arrive pas à l'ouvrir...!)"
