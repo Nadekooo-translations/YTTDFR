@@ -21037,11 +21037,11 @@
             null,
             null,
             null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\C[5]\"... Début de la Première Épreuve.\"",
+            "\\.\\C[5]\"Vous avez 5 minutes. Si vous ne vous échappez\n pas à temps, vous perdrez la vie.\"",
+            "\\.\\C[5]\"Vous n'êtes pas la seule personne impliquée.\n Votre destin est lié à une autre personne invisible.\"",
+            "\\.\\C[5]\"Toutefois, si vous refusez cette liaison\n et que vous préférez trahir cette personne,\n vous pouvez partir en toute sécurité.\"",
+            "\\.\\C[5]\"Suivez la voix de votre cœur.\"",
             "\"...\n ...\n ...\"",
             null,
             null,
@@ -23898,7 +23898,12 @@
             "\\.\\C[6]Eh oui, mesdames et messieurs ! \nAujourd'hui, je vous dévoile la faiblesse de Maple,\nla plus forte des poupées parmi les Obstructeurs !",
             "\\.\\C[6]C'est le petit espace dans son dos !\nSouvenez-vous-en, et vous pourrez fanfaronner : \n« Les Obstructeurs, on les mange au p'tit-déj ! »",
             "\\C[3][Talkie-walkie]\nUn appareil de communication à batterie.\nDevrait fonctionner si les deux sont proches.",
-            "\\C[3][Magnétophone]\nUn magnétophone, probablement utilisé lors d'une\nPremière Épreuve. Il donne des instructions sur la\ncoopération avec un partenaire."
+            "\\C[3][Magnétophone]\nUn magnétophone, probablement utilisé lors d'une\nPremière Épreuve. Il donne des instructions sur la\ncoopération avec un partenaire.",
+            "\\C[5]\"... Début de la Première Épreuve.\"",
+            "\\.\\C[5]\"Vous avez 5 minutes. Si vous ne vous échappez\n pas à temps, vous perdrez la vie.\"",
+            "\\.\\C[5]\"Vous n'êtes pas la seule personne impliquée.\n Votre destin est lié à une autre personne invisible.\"",
+            "\\.\\C[5]\"Toutefois, si vous refusez cette liaison\n et que vous préférez trahir cette personne,\n vous pouvez partir en toute sécurité.\"",
+            "\\.\\C[5]\"Suivez la voix de votre cœur.\""
         ],
         "1067-0-message": [
             "\\C[3]Nous courûmes de toutes nos forces.",
@@ -25380,7 +25385,23 @@
             "\\.\"Tu parles \\C[2]du collier que\n \\N[4] portait au début.\\C[0].\"",
             "\\.\\C[4](On l'a récupéré, donc c'est Keiji qui l'a...)",
             "\\.\"Désolé, mais... c'est pas de ça dont je parle.\"",
-            "\\.\"... J'ai mal tourné ma phrase.\n Un certain \\C[2]écran\\C[0] a attiré mon attention.\""
+            "\\.\"... J'ai mal tourné ma phrase.\n Un certain \\C[2]écran\\C[0] a attiré mon attention.\"",
+            "\\.\\C[4](Un écran...)"
+        ],
+        "1098-0-message": [
+            "\\C[4](Cet écran...)",
+            "\\C[3]Je me souviens de cet écran...",
+            "\\C[3]Il indiquait... \\C[2]Système de Contrôle des Cercueils\\C[3].",
+            "\\.\\C[4](Est-ce que ce serait...)",
+            "\\.\\C[4](Un écran qui contrôle les cercueils de cet étage...?)",
+            "\"Peut-être que ça permet d'ouvrir les cercueils !\"",
+            "\"Il est même possible que ça ouvre les cercueils...\"",
+            "\"Ouaip. Ça vaut le coup d'y jeter un oeil, non ?\"",
+            "\"Mais oui ! Bonne mémoire !\"",
+            "\"Hmpf... T'as l'air sacrément présomptueux...!\"",
+            "\\.\"Vaut mieux qu'on aille vérifier ça, j'imagine...\"",
+            "\"S'il te plaît, Keiji... tiens bon.\"",
+            "\"Je compte sur toi, partenaire.\""
         ]
     },
     "map107": {
@@ -39239,12 +39260,12 @@
         ],
         "66-2-message": [
             "\\C[3]J'entendis faiblement la voix de Keiji à l'intérieur.",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\C[4](C'est le cercueil dans lequel \\N[4]\n était au début. Il n'a rien de suspect, mais...)",
+            "\\C[4](Lorsque tout le sable sera tombé...\n La fonction de crémation s'activera.)",
+            "\\.\\C[4](Je... ne peux pas laisser cela se produire.)",
+            "\\C[4](Ngh...)",
+            "\"... Sara ?\"",
+            "\\C[4](Grillée...)",
             "\"Keiji, comment tu te sens...?\"",
             "\"C'est plutôt sombre et étroit...\"",
             "\\C[4](Sa voix... ressemble plus à celle de d'habitude.)",
@@ -39281,6 +39302,25 @@
         ],
         "66-2-choice": [
             "Lui parler\nExaminer le cercueil\nSecouer le cerceuil\nAnnuler"
+        ],
+        "66-3-message": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\"Ahh... J'ai un peu la nausée...\"",
+            "\"Keiji, comment tu te sens ?\"",
+            "\"J'ferai n'importe quoi pour avoir un coussin...\"",
+            "\"Une fois qu'on l'ouvre, je te laisserai\n dormir sur mon coussin Mew-chan, miaou !\"",
+            "\"Quoi...! Alors, tu me la prêtes enfin ?\"",
+            "\\C[4](A-t-il déjà essayé de lui emprunter, auparavant...?)",
+            "\"Keiji, comment tu te sens ?\"",
+            "\"Pour l'instant... je me sens bien, il fait frais.\"",
+            "\"O-Oh ouais ?\n Bah, dis-nous s'il commence à faire chaud...!\"",
+            "\\.\\C[4](Je pense que ce sera trop tard, à ce moment-là...)",
+            "\"Keiji, ça va comment, là-dedans ?\"",
+            "\"Je sens que je pourrais dormir comme un bébé...\""
         ]
     },
     "map155": {
