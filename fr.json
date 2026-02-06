@@ -25382,10 +25382,10 @@
         "1102-0-message": [
             null,
             "\"Ce... collier ?\"",
-            "\\.\"Tu parles \\C[2]du collier que\n \\N[4] portait au début.\\C[0].\"",
+            "\\.\"Tu parles \\C[2]du collier que \\N[4]\n portait au tout début\\C[0].\"",
             "\\.\\C[4](On l'a récupéré, donc c'est Keiji qui l'a...)",
             "\\.\"Désolé, mais... c'est pas de ça dont je parle.\"",
-            "\\.\"... J'ai mal tourné ma phrase.\n Un certain \\C[2]écran\\C[0] a attiré mon attention.\"",
+            "\\.\"... Je crois que j'ai mal tourné ma phrase.\n En fait, un certain \\C[2]écran\\C[0] a attiré mon attention.\"",
             "\\.\\C[4](Un écran...)"
         ],
         "1098-0-message": [
