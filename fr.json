@@ -36522,7 +36522,8 @@
             "\\C[3]L'écran affiche « Système de Contrôle des Cercueils ».",
             null,
             "\"Très bien...! Prends les commandes, Sara Chidouin !!\"",
-            "\\.\"M-Moi...?\""
+            "\\.\"M-Moi...?\"",
+            "\\.\"Ça ne me gêne pas, mais... Il vaudrait mieux laisser\n faire quelqu'un qui s'y connait bien en machines...\""
         ],
         "7-1-message": [
             "\\C[3]Il y a une vraie pagaille de boutons et de molettes.",
@@ -39262,7 +39263,7 @@
             "\\.\\C[4](Non...! Je n'arrive pas à l'ouvrir...!)"
         ],
         "66-2-message": [
-            "\\C[3]J'entendis faiblement la voix de Keiji à l'intérieur.",
+            "\\C[3]J'entends faiblement la voix de Keiji à l'intérieur.",
             "\\C[4](C'est le cercueil dans lequel \\N[4]\n était au début. Il n'a rien de suspect, mais...)",
             "\\C[4](Lorsque tout le sable sera tombé...\n La fonction de crémation s'activera.)",
             "\\.\\C[4](Je... ne peux pas laisser cela se produire.)",
@@ -39278,7 +39279,7 @@
             "\"Ouvre la carte...\"",
             "\"Regarde l'Étage 5...\"",
             "\"Au centre... se trouve la \\C[2]salle de contrôle\\C[0].\"",
-            "\"Tu te rappelles de choses intéressantes, là-bas ?\"",
+            "\"As-tu souvenir de choses intéressantes, là-bas...?\"",
             "\\C[4](À quoi fait-il référence ?\n Je vais pointer tout ce qui semble prometteur...)",
             "\\C[3]Keiji est coincé à l'intérieur du cercueil central.",
             "\\.\\C[4](Non...! Je n'arrive pas à l'ouvrir...!)"
@@ -39307,7 +39308,7 @@
             "Lui parler\nExaminer le cercueil\nSecouer le cerceuil\nAnnuler"
         ],
         "66-3-message": [
-            "\\C[3]J'entendis faiblement la voix de Keiji à l'intérieur.",
+            "\\C[3]J'entends faiblement la voix de Keiji à l'intérieur.",
             "\\C[4](C'est le cercueil dans lequel \\N[4]\n était au début. Il n'a rien de suspect, mais...)",
             "\\C[4](Lorsque tout le sable sera tombé...\n La fonction de crémation s'activera.)",
             "\\.\\C[4](Je... ne peux pas laisser cela se produire.)",
