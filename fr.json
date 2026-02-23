@@ -36529,7 +36529,19 @@
             "\\.\"H-Haha...\"",
             "\\.\\C[3]Hayasaka manipule la machine d’une main incertaine.",
             "\\.\"Que...?\"",
-            "\\.\"Quoi, qu'est-ce qu'il y a ?!\""
+            "\\.\"Quoi, qu'est-ce qu'il y a ?!\"",
+            "\\.\"... Pourriez-vous jeter un œil à la machine centrale,\n s'il vous plaît ?\"",
+            "\\.\"Laisse faire Kanna, s'il te plaît...!\"",
+            "\\.\\C[3]Kanna manipule la machine d'une main hésitante.",
+            "\\.\"... Ah...\"",
+            "\\.\"Q-Qu'est-ce qu'il y a ?!\"",
+            "\\.\"Euh...! Garde un oeil sur la machine centrale,\n s'il te plaît !\"",
+            "\\.\"... Fais voir ça.\"",
+            "\\.\"Vas-y, je t'en prie...!\"",
+            "\\.\\C[3]Sou hocha la tête tout en manipulant la machine.",
+            "\\.\"... Ça ne marche pas.\"",
+            "\\.\"Eh...?\"",
+            "\\.\"Viens voir. Tu peux surveiller la machine centrale ?\""
         ],
         "7-1-message": [
             "\\C[3]Il y a une vraie pagaille de boutons et de molettes.",
@@ -36661,7 +36673,7 @@
             "\\.\\C[4](...\n ...\n ...)"
         ],
         "88-5-message": [
-            null,
+            "\\C[3]L'écran affiche « Système de Contrôle des Cercueils ».",
             null,
             null,
             null,
@@ -36677,6 +36689,17 @@
             null,
             null,
             "\\C[4](Keiji...!)"
+        ],
+        "88-3-message": [
+            "\\C[3]L'écran affiche « Système de Contrôle des Cercueils »."
+        ],
+        "88-4-message": [
+            "\\C[3]L'écran affiche « Système de Contrôle des Cercueils »."
+        ],
+        "93-1-message": [
+            null,
+            "\\.\\C[4](Hein...? Qu'est-ce que...)",
+            "\\C[5][Sécurité des Dispositifs]\n\\C[5]Niveau 0 ... \\C[3]Déverrouillé\n\\C[5]Niveau 1 ... \\C[10]Verrouillé\n\\C[5]Niveau 2 ... \\C[10]Verrouillé"
         ]
     },
     "map201": {
