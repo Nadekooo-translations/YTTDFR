@@ -36523,7 +36523,13 @@
             null,
             "\"Très bien...! Prends les commandes, Sara Chidouin !!\"",
             "\\.\"M-Moi...?\"",
-            "\\.\"Ça ne me gêne pas, mais... Il vaudrait mieux laisser\n faire quelqu'un qui s'y connait bien en machines...\""
+            "\\.\"Ça ne me gêne pas, mais... Il vaudrait mieux laisser\n faire quelqu'un qui s'y connait bien en machines...\"",
+            "\\.\"Je vais tenter le coup. Pourvu que mon expérience\n de travail serve à quelque chose...\"",
+            "\\.\"Tu... vas vraiment lui filer un coup d'main ?\"",
+            "\\.\"H-Haha...\"",
+            "\\.\\C[3]Hayasaka manipule la machine d’une main incertaine.",
+            "\\.\"Que...?\"",
+            "\\.\"Quoi, qu'est-ce qu'il y a ?!\""
         ],
         "7-1-message": [
             "\\C[3]Il y a une vraie pagaille de boutons et de molettes.",
