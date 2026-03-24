@@ -11,9 +11,10 @@ interface Props {
 	heroUrl?: string;
 	extraSchemas?: Thing[];
 	extraBreadcrumbs?: ListItem[];
+	enableSentry?: boolean;
 }
 
-const { title, description, heroUrl, extraSchemas, extraBreadcrumbs } = Astro.props;
+const { title, description, heroUrl, extraSchemas, extraBreadcrumbs, enableSentry } = Astro.props;
 
 const site = schemaSite(Astro.site);
 const path = Astro.url.pathname;
