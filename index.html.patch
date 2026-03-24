@@ -4,7 +4,7 @@
 >         <script type="text/javascript" src="js/libs/sentry-console.js"></script>
 >         <script>
 >             Sentry.init({
->                 dsn: "https://d52f42fec3ac47feb2b0d8b8ee8371e3@glitchtip.vinceh121.me/2",
+>                 dsn: "https://08cae5a9ff6d45a8808bed0320cc6f97@glitchtip.vinceh121.me/1",
 >                 tracesSampleRate: 1,
 >                 integrations: [Sentry.captureConsoleIntegration({ levels: ["warn", "error"] }), Sentry.httpClientIntegration()],
 >             });
