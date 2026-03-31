@@ -36233,7 +36233,7 @@
             "\\.\"Grande sœur Sara...\""
         ],
         "93-3-message": [
-            null,
+            "\\C[5][Sécurité des Dispositifs]\n\\C[5]Niveau 0 ... \\C[3]Déverrouillé\n\\C[5]Niveau 1 ... \\C[3]Déverrouillé\n\\C[5]Niveau 2 ... \\C[10]Verrouillé",
             null,
             null,
             "\\.\"...\"",
@@ -36536,7 +36536,7 @@
             "\\.\"... Ah...\"",
             "\\.\"Q-Qu'est-ce qu'il y a ?!\"",
             "\\.\"Euh...! Garde un oeil sur la machine centrale,\n s'il te plaît !\"",
-            "\\.\"... Fais voir ça.\"",
+            "\\.\"... Fais-moi voir ça.\"",
             "\\.\"Vas-y, je t'en prie...!\"",
             "\\.\\C[3]Sou hocha la tête tout en manipulant la machine.",
             "\\.\"... Ça ne marche pas.\"",
@@ -36717,13 +36717,63 @@
             "\"Si on arrive à désactiver la sécurité...\"",
             "\\.\"Oui ! On pourrait sûrement ouvrir les\n cerceuils du cimetière !\"",
             "\"Des dispositifs, hein...\n Ça désigne certainement tous les appareils.\"",
-            "\\.\"On dirait que plus l'appareil est important,\n plus son niveau de sécurité est élevé.",
+            "\\.\"On dirait que plus l'appareil est important,\n plus son niveau de sécurité est élevé.\"",
             "\\.\"Donc, si je résume...\"",
             "\"... Il suffit de bousiller cette machine centrale ?\"",
-            "\\.\"... Ça ressemblerait juste à l'intérieur\n de ta tête, si on faisait ça, Sara.",
+            "\\.\"... Ça ressemblerait juste à l'intérieur\n de ta tête, si on faisait ça, Sara.\"",
             "\\.\"Je te dis que si on désactive la sécurité,\n on pourrait certainement ouvrir les cercueils\n du cimetière...\"",
             "\"Si on arrive à désactiver la sécurité...\"",
-            "\\.\"On pourrait sûrement ouvrir les cercueils\n du cimetière...\""
+            "\\.\"On pourrait sûrement ouvrir les cercueils\n du cimetière...\"",
+            "\\.\"Ouais, mais comment on peut faire ?\"",
+            "\\.\"Pff... Encore faut-il trouver cette méthode...\"",
+            "\\.\"L'une des possibilités... ce serait cela, je suppose.\"",
+            "\\.\"Euh... Ce ne serait pas ça...?\"",
+            "\\.\"L'une des possibilités... c'est peut-être ça.\"",
+            "\"Mais c'est...!\"",
+            "\"Un scanner d'empreintes !\n Si on pose le bon index sur ce panneau...\"",
+            "\"Eh bien, pas mal du tout...\n On commence enfin à y voir un peu plus clair...!\"",
+            "\"Un scanner rétinien !\n Si on présente le bon globe oculaire sur ce panneau...\"",
+            "\"Quelle horreur !\n T'as vraiment des idées étranges, Sara...\"",
+            "\\.\"C'est sûrement... un scanner d'empreintes, non ?\"",
+            "\\.\"Ce design...\n Je suspecte que c'est un scanner d'empreintes !\"",
+            "\"Posons tous nos doigts dessus, miaou !\"",
+            "\\.\\C[3]Toutes les personnes présentes posèrent\nleur doigt, mais il n'y eut aucune réaction.",
+            "\"Tch ! Logiquement, la bonne empreinte,\n c'est forcément celle de \\N[4]...\"",
+            "\"Grah...! À bien réfléchir...\n La clé, c'est l'empreinte de \\N[4] !\"",
+            "\\.\"On n'en sait rien, pour l'instant, miaou !\n Laissons d'abord gorille musclé et les autres\n qui sont au cimetière essayer, ouaf !\"",
+            "\\.\"Non, Q-taro est gravement blessé.\n Il n'est pas en capacité de se déplacer...\"",
+            "\\.\"Maintenant que j'y pense, il est possible qu'une trousse\n de premier secours pouvant soigner sa blessure se trouve\n dans le \\C[2]bureau\\C[0]...\"",
+            "\\.\"Miaou ?! Vraiment, costard-binocles ?!\"",
+            "\\.\"Eh bien, j'ai travaillé dans une entreprise\n d'équipement médical, alors...\"",
+            "\\.\\C[4](Le \\C[2]bureau\\C[4]... Allons vérifier.)",
+            "\\.\"Eh, au fait... Hayasaka a dit qu'il était salarié\n dans une boîte d'équipements médicaux...\"",
+            "\\.\"En se rendant au \\C[2]bureau\\C[0], on trouvera peut-être\n des trucs de premier secours à utiliser !\"",
+            "\\.\"Allons jeter un œil, miaou !\"",
+            "\\.\"À ce propos... C'était bien Hayasaka, c'est cela ?\n Cet homme a dit qu'il a œuvré pour une société\n du secteur médical...\"",
+            "\\.\"Alors, si nous allions au \\C[2]bureau\\C[0]...?\n Il y a sûrement un kit de premier secours, là-bas ?\"",
+            "\\.\"Allons jeter un œil, miaou !\""
+        ],
+        "93-1-choice": [
+            "On détruit la machine ?\nSi on peut la désactiver...",
+            "On détruit la machine ?\nSi on peut la désactiver...",
+            "On détruit la machine ?\nSi on peut la désactiver...",
+            "Un scanner d'empreintes\nUn scanner rétinien"
+        ],
+        "93-2-message": [
+            "\\C[5][Sécurité des Dispositifs]\n\\C[5]Niveau 0 ... \\C[3]Déverrouillé\n\\C[5]Niveau 1 ... \\C[3]Déverrouillé\n\\C[5]Niveau 2 ... \\C[10]Verrouillé",
+            "\\.\\C[4](Le niveau 1 a été désactivé...)",
+            "\\C[5][Sécurité des Dispositifs]\n\\C[5]Niveau 0 ... \\C[3]Déverrouillé\n\\C[5]Niveau 1 ... \\C[10]Verrouillé\n\\C[5]Niveau 2 ... \\C[10]Verrouillé",
+            "\"Un scanner d'empreintes, hein... À nous d'l'essayer.\"",
+            "\\C[3]Q-taro posa son index sur le capteur.",
+            "\\.\\C[3]Mais la machine ne montra aucune réponse.",
+            "\"Ça vaut que tchi, ces empreintes !!\"",
+            "\\.\\C[4](Je m'en doutais, ça ne marche pas...)",
+            "\\.\"Bon, je suppose que je vais essayer, moi aussi...\"",
+            "\\.\\C[3]Mai posa son index sur le capteur.",
+            "\\.\"Euh...?\"",
+            "\\C[6]Reconnaissance d'empreinte réussie.",
+            "\"P-Pourquoi mon empreinte...?\"",
+            "\\C[4](Les écrans...!)"
         ]
     },
     "map201": {
@@ -37062,9 +37112,16 @@
             "\\.\"...\n ...\n ...\""
         ],
         "3-1-message": [
-            null,
-            null,
-            "\\.\"...\""
+            "\"Salut, Sara. J'ai une bonne nouvelle.\"",
+            "\\.\"J'ai réparé le formulaire de consentement !\n Si l'envie te prend de le signer,\n tu n'as qu'un mot à dire !\"",
+            "\\.\"...\"",
+            "\"Je n'ai aucune intention de signer.\"",
+            "\\.\"... Hm. Quel dommage.\"",
+            "\"Pourquoi ne pas le signer toi-même, \\N[4] !\"",
+            "\\.\"Dois-je considérer cela comme « tu peux le signer\n en mon nom » ?\"",
+            "\\.\"Sara... !! T'es en train de te passer\n la corde autour du cou !\"",
+            "\\.\"Je plaisante, bien sûr.\"",
+            "\\.\"Haha... Tu dois le signer de ta propre main.\n J'ai vraiment hâte de te voir céder...\""
         ],
         "3-4-message": [
             null,
@@ -37367,6 +37424,18 @@
         ],
         "17-3-message": [
             "\\C[4](...\n ...\n ...)"
+        ],
+        "3-1-choice": [
+            "Pas l'intention de faire ça\nSigne-le toi-même\nL'ignorer"
+        ],
+        "3-3-message": [
+            "\"Oh ? As-tu besoin du formulaire de consentement ?\"",
+            "\\.\"\\N[4]...!!\"",
+            "\\.\"Hm ? Quel est le problème ?\"",
+            "\\.\"Reko ! Du calme...!\"",
+            "\\.\"Je sais bien...! Mais, regarde !\"",
+            "\\.\"Il faut absolument que je lui demande...\n par rapport à cette photo !\"",
+            "\\.\"\\N[4]...!\""
         ]
     },
     "map205": {
