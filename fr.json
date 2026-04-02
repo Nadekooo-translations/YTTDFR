@@ -36691,13 +36691,14 @@
             "\\C[4](Keiji...!)"
         ],
         "88-3-message": [
-            "\\C[3]L'écran affiche « Système de Contrôle des Cercueils »."
+            "\\C[3]L'écran affiche « Système de Contrôle des Cercueils ».",
+            "\\.\\C[4](Il faut d'abord passer par la reconnaissance de\n l'empreinte digitale avant de pouvoir l'utiliser.)"
         ],
         "88-4-message": [
             "\\C[3]L'écran affiche « Système de Contrôle des Cercueils »."
         ],
         "93-1-message": [
-            null,
+            "\\C[5][Sécurité des Dispositifs]\n\\C[5]Niveau 0 ... \\C[3]Déverrouillé\n\\C[5]Niveau 1 ... \\C[10]Verrouillé\n\\C[5]Niveau 2 ... \\C[10]Verrouillé",
             "\\.\\C[4](Hein...? Qu'est-ce que...)",
             "\\C[5][Sécurité des Dispositifs]\n\\C[5]Niveau 0 ... \\C[3]Déverrouillé\n\\C[5]Niveau 1 ... \\C[10]Verrouillé\n\\C[5]Niveau 2 ... \\C[10]Verrouillé",
             "\\.\"Il semblerait que ce soit le système de sécurité\n des différents mécanismes...\"",
@@ -36721,11 +36722,11 @@
             "\\.\"Donc, si je résume...\"",
             "\"... Il suffit de bousiller cette machine centrale ?\"",
             "\\.\"... Ça ressemblerait juste à l'intérieur\n de ta tête, si on faisait ça, Sara.\"",
-            "\\.\"Je te dis que si on désactive la sécurité,\n on pourrait certainement ouvrir les cercueils\n du cimetière...\"",
+            "\\.\"Je pense que si on arrive à désactiver la sécurité,\n on pourrait certainement ouvrir les cercueils\n du cimetière...\"",
             "\"Si on arrive à désactiver la sécurité...\"",
             "\\.\"On pourrait sûrement ouvrir les cercueils\n du cimetière...\"",
             "\\.\"Ouais, mais comment on peut faire ?\"",
-            "\\.\"Pff... Encore faut-il trouver cette méthode...\"",
+            "\\.\"Pff... Encore faut-il trouver un moyen de le faire...\"",
             "\\.\"L'une des possibilités... ce serait cela, je suppose.\"",
             "\\.\"Euh... Ce ne serait pas ça...?\"",
             "\\.\"L'une des possibilités... c'est peut-être ça.\"",
@@ -36737,12 +36738,12 @@
             "\\.\"C'est sûrement... un scanner d'empreintes, non ?\"",
             "\\.\"Ce design...\n Je suspecte que c'est un scanner d'empreintes !\"",
             "\"Posons tous nos doigts dessus, miaou !\"",
-            "\\.\\C[3]Toutes les personnes présentes posèrent\nleur doigt, mais il n'y eut aucune réaction.",
+            "\\.\\C[3]Toutes les personnes présentes posèrent leur index\ndessus, mais il n'y eut aucune réaction.",
             "\"Tch ! Logiquement, la bonne empreinte,\n c'est forcément celle de \\N[4]...\"",
-            "\"Grah...! À bien réfléchir...\n La clé, c'est l'empreinte de \\N[4] !\"",
+            "\"Ghh...! À bien y réfléchir... la clé, c'est\n sûrement l'empreinte de \\N[4] !\"",
             "\\.\"On n'en sait rien, pour l'instant, miaou !\n Laissons d'abord gorille musclé et les autres\n qui sont au cimetière essayer, ouaf !\"",
             "\\.\"Non, Q-taro est gravement blessé.\n Il n'est pas en capacité de se déplacer...\"",
-            "\\.\"Maintenant que j'y pense, il est possible qu'une trousse\n de premier secours pouvant soigner sa blessure se trouve\n dans le \\C[2]bureau\\C[0]...\"",
+            "\\.\"Maintenant que j'y pense, il est possible qu'une\n trousse de premier secours pouvant soigner sa\n blessure se trouve dans le \\C[2]bureau\\C[0]...\"",
             "\\.\"Miaou ?! Vraiment, costard-binocles ?!\"",
             "\\.\"Eh bien, j'ai travaillé dans une entreprise\n d'équipement médical, alors...\"",
             "\\.\\C[4](Le \\C[2]bureau\\C[4]... Allons vérifier.)",
@@ -36774,6 +36775,12 @@
             "\\C[6]Reconnaissance d'empreinte réussie.",
             "\"P-Pourquoi mon empreinte...?\"",
             "\\C[4](Les écrans...!)"
+        ],
+        "93-4-message": [
+            "\\C[5][Sécurité des Dispositifs]\n\\C[5]Niveau 0 ... \\C[3]Déverrouillé\n\\C[5]Niveau 1 ... \\C[3]Déverrouillé\n\\C[5]Niveau 2 ... \\C[10]Verrouillé"
+        ],
+        "93-5-message": [
+            "\\C[5][Sécurité des Dispositifs]\n\\C[5]Niveau 0 ... \\C[3]Déverrouillé\n\\C[5]Niveau 1 ... \\C[3]Déverrouillé\n\\C[5]Niveau 2 ... \\C[3]Déverrouillé"
         ]
     },
     "map201": {
@@ -36891,7 +36898,10 @@
             "\\C[3]Les étagères débordent de documents et produits médiaux.",
             "\\.\"Il y a bel et bien des médicaments ici...!\"",
             "\"Ouf, tant mieux...\n Prenons tout ce qui pourrait servir.\"",
-            "\\.\"Je vais vous aider, miaou !\""
+            "\\.\"Je vais vous aider, miaou !\"",
+            null,
+            null,
+            "\\C[3]Kit de Premier Secours obtenu."
         ],
         "52-1-message": [
             "\\C[3]Un livre jaune.",
@@ -37115,13 +37125,13 @@
             "\"Salut, Sara. J'ai une bonne nouvelle.\"",
             "\\.\"J'ai réparé le formulaire de consentement !\n Si l'envie te prend de le signer,\n tu n'as qu'un mot à dire !\"",
             "\\.\"...\"",
-            "\"Je n'ai aucune intention de signer.\"",
+            "\"Je n'ai aucune intention de faire cela.\"",
             "\\.\"... Hm. Quel dommage.\"",
             "\"Pourquoi ne pas le signer toi-même, \\N[4] !\"",
             "\\.\"Dois-je considérer cela comme « tu peux le signer\n en mon nom » ?\"",
-            "\\.\"Sara... !! T'es en train de te passer\n la corde autour du cou !\"",
+            "\\.\"Sara...!! T'es en train de te passer\n la corde autour du cou, là !\"",
             "\\.\"Je plaisante, bien sûr.\"",
-            "\\.\"Haha... Tu dois le signer de ta propre main.\n J'ai vraiment hâte de te voir céder...\""
+            "\\.\"Haha... Il faut que tu le signes de ta propre main.\n J'ai vraiment hâte de te voir céder à la tentation...\""
         ],
         "3-4-message": [
             null,
@@ -38718,29 +38728,29 @@
             null,
             null,
             "\"...\"",
-            null,
-            null,
+            "\\.\"Mai...\"",
+            "\"Alors, tu es réveillée...\"",
             "\\.\"...\"",
-            null,
-            null,
-            null,
+            "\\.\"... Si seulement je ne m'étais jamais réveillée...\"",
+            "\\.\"Quel échec cuisant... Au fond de moi, je savais\n que j'en étais tout bonnement incapable...\"",
+            "\\.\"En plus de ça, je me suis même démenée pour\n jouer le rôle de la fille inoffensive...\"",
             "\\.\"...\"",
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\.\"Va pas la blâmer pour ça, Sara.\"",
+            "\"Comment tu te sens ?\"",
+            "\\.\"... Je touche le fond...\"",
+            "\\.\"J'ai échoué... Tout est fini...\"",
+            "\\.\"En plus de ça, je me suis même démenée pour\n jouer le rôle de la fille inoffensive...\"",
             "\\.\"...\"",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\.\"Va pas la blâmer pour ça, Sara.\"",
+            "\"Maintenant, présente tes excuses.\"",
+            "\\.\"... Urgh...\"",
+            "\\.\"Commettre un tel acte... est une chose que\n je ne pourrais jamais pardonner.\"",
+            "\\.\"Ouh...\"",
+            "\\.\"Je suis furieuse !! Mai !!\"",
+            "\\.\"Hiiiiii...!!\"",
+            "\\.\"Arrête, Sara !!\"",
+            "\\.\"La blâme pas pour ça... J't'en supplie.\"",
+            "\\.\"... Q-taro...\"",
             null,
             "\\.\"...\"",
             null,
