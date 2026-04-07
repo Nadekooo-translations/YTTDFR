@@ -38770,11 +38770,13 @@
             "\\.\"J'en ai juste... pas eu l'occase.\"",
             "\\.\\C[3]Nous sommes tous... pareils.",
             "\\.\\C[3]Nos cœurs ont été réduits en bouillie.",
-            null,
-            null,
-            null,
-            null,
-            "\\.\"...\""
+            "\\.\\C[3]Étant au bord du précipice,\nnous pouvions à peine envisager l'idée d'être alliés.",
+            "\\.\\C[3]C'est... tout ce que c'est.",
+            "\\.\"Alors, j'vais te l'faire regretter...\"",
+            "\\.\"Tu vas regretter d'nous avoir\n donné d'nouveaux alliés, pardi !!\"",
+            "\\.\"...\"",
+            "\\.\"Peu importe comment tu essaies de me l'expliquer... \n Je n'y comprends rien... \"",
+            "\\.\\C[4](Mai...)"
         ],
         "68-2-message": [
             "\"Je te prie de nous expliquer ton comportement !\n Parce que là, c'est... purement cruel...!!\"",
@@ -39464,6 +39466,9 @@
         ],
         "66-4-message": [
             "\"H... Hé... grande sœur Sara...\""
+        ],
+        "62-2-choice": [
+            "Tu t'es réveillée, hein ?\nComment tu te sens ?\nAllez, excuse-toi"
         ]
     },
     "map155": {
