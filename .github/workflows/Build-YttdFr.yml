@@ -18,6 +18,9 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 22
 
       - name: Downloading English YTTD build
         run: curl -Lo yttd.zip https://cdn.vinceh121.me/YourTurnToDie-2023-09-12-01f89eddf5a0e204422984ab574a631c25f3b098fda068bb3eaaa77155e932ac.zip
