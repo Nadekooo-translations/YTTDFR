@@ -36309,33 +36309,38 @@
             "\\.\\C[4](Ranmaru...)",
             "\\.\"Qu’est-ce que ça change...? Rien, pas vrai ?\"",
             "\\.\"... Euh...?\"",
-            null,
-            null,
-            null,
-            null,
+            "\\.\"Est-ce que les poupées chialent\n pour des trucs pareils...?\"",
+            "\\.\"Se dire qu’on a abandonné,\n mais garder quand même de l’espoir ?\n C’est ça, être humain...\"",
+            "\\.\"Les humains se battent toujours,\n aux prises avec des sentiments contradictoires,\n pas vrai ?\"",
+            "\\.\"À mes yeux... tu es bien un être humain.\"",
             "\\.\"...\"",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\.\"Alors sois fier, tu veux bien ?\"",
+            "\\.\"Tu es vivant, Ranmaru...!\"",
+            "\\.\"Hmph... Quelle futilité...\"",
+            "\\.\"... Euh...?\"",
+            "\\.\"Les poupées... ne devraient pas pleurer\n pour de telles bagatelles.\"",
+            "\\.\"Garder espoir même quand on se dit\n qu’on a abandonné... C’est ce qui fait\n de nous des êtres humains.\"",
+            "\\.\"Avoir des émotions contradictoires...\n cela nous fait souffrir.\"",
+            "\\.\"Ne pourrait-on pas dire que tu es\n terriblement humain en ce moment ?\"",
             "\\.\"...\"",
-            null,
-            null,
-            null,
-            null,
+            "\\.\"Alors... ne laisse pas de telles futilités t'attrister.\"",
+            "\\.\"Puisque tu es en vie... !\n Ranmaru Kageyama !\"",
+            "\\.\"...!!\"",
+            "\\.\"Reko...\"",
             "\\.\"...\r\n ...\r\n ...\"",
-            null,
-            null,
+            "\\.\"Alors arrête de faire ta mauviette et bouge-toi.\"",
+            "\\.\"Alice...\"",
             "\\.\"...\n ...\n ...\"",
-            null,
+            "\\.\"... Lève-toi donc. Nous n’avons pas le temps.\"",
             "\\.\"...\"",
-            null,
-            null,
-            "\\.\"...\""
+            "\\.\"Tu peux te lever, Ranmaru...?\"",
+            "\\.\"Hé... Peux-tu te relever, Ranmaru...?\"",
+            "\\.\"...\"",
+            "\\.\"J-Je vais bien...\"",
+            "\\.\"Quel homme tu fais, à pleurnicher par terre...\"",
+            "\\.\"Hein ? Je ne pleurais pas...\"",
+            "\\.\"Haha... C’est un peu fort de café...\"",
+            "\\.\"On n’y croit pas une seconde, miaou !\""
         ],
         "2-8-message": [
             null,
@@ -36425,7 +36430,7 @@
             "\\.\"...\""
         ],
         "107-1-message": [
-            null,
+            "\\C[3]On peut y lire \"Système de Contrôle\ndes Colliers Mortels\".",
             null,
             null,
             null,
@@ -36466,10 +36471,12 @@
             "\\.\"...\n ...\n ...\""
         ],
         "96-2-choice": [
-            "Examiner\nAnnuler"
+            "Examiner\nAnnuler",
+            "À propos de l’autonomie de la batterie\nÀ propos des pièces de mise à niveau\nPréférences\nAnnuler"
         ],
         "96-1-choice": [
-            "Examiner\nAnnuler"
+            "Examiner\nAnnuler",
+            "À propos de l’autonomie de la batterie\nÀ propos des pièces de mise à niveau\nPréférences\nAnnuler"
         ],
         "107-1-choice": [
             "Examiner\nAnnuler"
@@ -36781,6 +36788,19 @@
         ],
         "93-5-message": [
             "\\C[5][Sécurité des Dispositifs]\n\\C[5]Niveau 0 ... \\C[3]Déverrouillé\n\\C[5]Niveau 1 ... \\C[3]Déverrouillé\n\\C[5]Niveau 2 ... \\C[3]Déverrouillé"
+        ],
+        "96-2-message": [
+            "\\C[3]On peut y lire \"Système de Contrôle des Pantins\".",
+            "\"Vous consultez actuellement les informations\n concernant Ranmaru Kageyama !\"",
+            "\"Alors, qu’est-ce que vous voulez savoir ?\"",
+            "\"La tête et le torse ont tous deux\n encore un peu de charge.\"",
+            "\\.\"Si la batterie de l’un ou de l’autre vient à manquer,\n c’est fini, alors faites attention !\"",
+            "\"Sa main droite est équipée de pièces standard,\n et sa main gauche l’est également.\"",
+            "\\.\"Espérons que vous trouverez de bonnes pièces\n pour l’améliorer !\"",
+            "\"Pose-moi la question directement, d'accord ?!\""
+        ],
+        "96-3-message": [
+            "\\C[3]On peut y lire \"Système de Contrôle des Pantins\"."
         ]
     },
     "map201": {
