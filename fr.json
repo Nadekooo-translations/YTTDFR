@@ -36256,7 +36256,7 @@
             "\\.\"...\""
         ],
         "96-1-message": [
-            "\\C[3]On peut y lire \"Système de Contrôle des Pantins\".",
+            "\\C[3]L'écran affiche « Système de Contrôle des Pantins ».",
             "\"Vous consultez actuellement les informations\n concernant Ranmaru Kageyama !\"",
             "\"Alors, qu’est-ce que vous voulez savoir ?\"",
             "\"La tête et le torse ont tous deux\n encore une bonne réserve d’énergie.\"",
@@ -36278,7 +36278,7 @@
             "\"Et les volets de droite et de gauche\n affichent ici vos \\C[2]Pièces d'Amélioration\\C[0].\"",
             "\"Des Pièces d'Amélioration...? C’est quoi ces machins ?\"",
             "\"Des Pièces d'Amélioration ? Que sont-elles donc...?\"",
-            "\"De plus, s’il y a des informations person-\n nelles qui vous intéressent, telles que ses\n préférences, ses connaissances acquises,\n ou les personnes qu’il aime...\"",
+            "\"De plus, s’il y a des informations person-\n nelles qui vous intéressent, comme ses\n préférences, ses connaissances acquises,\n ou les personnes qu’il aime...\"",
             "\"Continuez à penser aux Pièces d'Amélioration,\n tout le monde !!\"",
             "\\C[4](Hmm...)",
             "\"Euh... Si ce sont des pièces pour les mains...\n alors j'imagine que tu voudrais, disons,\n les attacher à quelque chose, c’est ça ?\"",
@@ -36430,7 +36430,7 @@
             "\\.\"...\""
         ],
         "107-1-message": [
-            "\\C[3]On peut y lire \"Système de Contrôle des Colliers\".",
+            "\\C[3]L'écran affiche\n« Système de Contrôle des Colliers de Défunts ».",
             null,
             null,
             null,
@@ -36780,7 +36780,7 @@
             "\\.\\C[3]Mai posa son index sur le capteur.",
             "\\.\"Euh...?\"",
             "\\C[6]Reconnaissance d'empreinte réussie.",
-            "\"P-Pourquoi mon empreinte...?\"",
+            "\"P-Pourquoi mon empreinte à...?\"",
             "\\C[4](Les écrans...!)"
         ],
         "93-4-message": [
@@ -36790,7 +36790,7 @@
             "\\C[5][Sécurité des Dispositifs]\n\\C[5]Niveau 0 ... \\C[3]Déverrouillé\n\\C[5]Niveau 1 ... \\C[3]Déverrouillé\n\\C[5]Niveau 2 ... \\C[3]Déverrouillé"
         ],
         "96-2-message": [
-            "\\C[3]On peut y lire \"Système de Contrôle des Pantins\".",
+            "\\C[3]L'écran affiche « Système de Contrôle des Pantins ».",
             "\"Vous consultez actuellement les infos\n concernant Ranmaru Kageyama !\"",
             "\"Alors, qu’est-ce que vous voulez savoir ?\"",
             "\"La tête et le torse ont tous deux\n encore un peu de charge.\"",
@@ -36800,7 +36800,7 @@
             "\"Pose-moi la question directement, d'accord ?!\""
         ],
         "96-3-message": [
-            "\\C[3]On peut y lire \"Système de Contrôle des Pantins\"."
+            "\\C[3]L'écran affiche « Système de Contrôle des Pantins »."
         ]
     },
     "map201": {
@@ -39268,7 +39268,7 @@
             "\\.\"Je vous en prie... je...\"",
             "\\.\"Bien reçu !\n Mai, laisse-moi m’appuyer sur ton épaule !\"",
             "\\.\"D-D'accord...!\"",
-            "\\.\"Ça fait plaisir à voir...\n Même après t'avoir poignardé...\"",
+            "\\.\"Ça fait plaisir à voir...\n Même après t'être fait poignarder...\"",
             "\\.\"Tu comptes faire ami-ami avec le monstre\n momie de 't-à-l'heure, alors ?\"",
             "\\.\"La ferme !\"",
             "\\.\"Gorille musclé est costaud, alors si t'es fatiguée,\n on peut se relayer, miaou !\"",
