@@ -36257,12 +36257,12 @@
         ],
         "96-1-message": [
             "\\C[3]L'écran affiche « Système de Contrôle des Pantins ».",
-            "\"Vous consultez actuellement les informations\n concernant Ranmaru Kageyama !\"",
+            "\"Vous consultez actuellement les infos\n concernant Ranmaru Kageyama !\"",
             "\"Alors, qu’est-ce que vous voulez savoir ?\"",
             "\"La tête et le torse ont tous deux\n encore une bonne réserve d’énergie.\"",
-            "\\.\"Si la batterie de l’un ou de l’autre vient à manquer,\n c’est fini, alors faites attention !\"",
-            "\"Sa main droite est équipée de pièces standard,\n et sa main gauche l’est également.\"",
-            "\\.\"Espérons que vous trouverez de bonnes pièces\n pour l’améliorer !\"",
+            "\\.\"Si la batterie de l’un ou de l’autre\n vient à manquer, c’est fini,\n alors faites attention !\"",
+            "\"Sa main droite est équipée de pièces\n standard, et sa main gauche l'est\n également.\"",
+            "\\.\"Espérons que vous trouverez de bonnes\n pièces pour l’améliorer !\"",
             "\"Je te répondrai à ça plus tard, d’accord ?!\"",
             "\\C[4](Hmm...?)",
             "\\.\"Sur cet écran, vous pouvez vérifier l’état\n corporel des Pantins !\"",
@@ -36270,7 +36270,7 @@
             "\\.\"C'est l'IA de Shin...!\"",
             "\\.\"P... Pourquoi mon IA a-t-elle soudainement...\"",
             "\\.\"On dirait qu’il va nous expliquer, hein...?\"",
-            "\\.\"... Il semble qu’il va nous l’expliquer.\"",
+            "\\.\"... Il semble qu’il va nous expliquer.\"",
             "\\.\"Les informations actuellement affichées\n concernent \\C[2]Ranmaru Kageyama\\C[0].\"",
             "\\.\"Au centre, vous pouvez voir la charge\n restante de la batterie de la tête\n et du torse.\"",
             "\"La batterie...?!\n Elle est déjà à ce point déchargée ?!\"",
@@ -36431,44 +36431,46 @@
         ],
         "107-1-message": [
             "\\C[3]L'écran affiche\n« Système de Contrôle des Colliers de Défunts ».",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\C[4](Mais qu’est-ce que c’est que tout ça...?)",
+            "\\.\"Cet écran vous permet de\n modifier les fonctions des\n colliers des Pantins !\"",
+            "\\.\\C[4](Ouah ?! Qu’est-ce que...?!)",
+            "\"C'est l'IA de Shin...!\"",
+            "\"P... Pourquoi mon IA a-t-elle soudainement...\"",
+            "\\.\"On dirait qu'il va nous expliquer, hein...?",
+            "\\.\"... Il semble qu’il va nous expliquer.\"",
+            "\\.\"La \\C[2]fonction d’Appariement\\C[0] fait exploser\n les colliers s’ils s’éloignent trop\n d’un survivant désigné.\"",
+            "\\.\"La fonction \\C[2]Capteur de Vie\\C[0] permet\n aux pantins d’exploser lorsqu’ils\n \\C[2]sont à court de batterie\\C[0].\"",
+            "\"Putain, quoi ?! J'n'ai jamais entendu parler d'ça !\"",
+            "\"Sans ça, les Pantins pourraient juste\n \\C[2]se recharger\\C[0] pour revenir à la vie,\n vous voyez...\"",
+            "\"Se recharger...?\"",
+            "\"Se recharger, hein...\"",
+            "\"Alors, quelle fonction\n allez-vous modifier ?\"",
+            "\"La fonction d’Appariement est\n actuellement \\C[2]désactivée\\C[0].\n Qu'allez-vous faire ?\"",
+            "\\.\\C[4](... Plus besoin de s'en occuper.)",
+            "\"Désolé, mais vous ne pouvez\n pas désactiver la fonction\n Capteur de Vie !\"",
+            "\"La fonction d’Appariement est\n actuellement \\C[2]activée\\C[0].\n Qu'allez-vous faire ?\"",
             "\\C[4](...\n ...\n ...)",
-            null,
-            null,
+            "\"... T'es sérieuse ?\"",
+            "\\.\"Tu vas nous laisser faire ce qu’on veut...?\"",
             "\\.\"...\n ...\n ...\"",
             "\\.\"...\n ...\n ...\"",
-            null,
-            null,
+            "\\.\"Hinako sera ravie d'l’apprendre...\"",
+            "\\.\"Car ça nous facilitera la tâche pour vous tuer...\"",
             "\\.\\C[4](...\n ...\n ...)",
-            null,
+            "\\.\"Si ça te pose pas d'problème... vas-y, fais-le.\"",
             "\\.\"...\"",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            "\\.\"...\n ...\n ...\""
+            "\\.\\C[4](... Kurumada.)",
+            "\\.\\C[4](Tu veux être sûr...)",
+            "\\.\\C[4](... que tu peux vraiment nous faire confiance,\n n'est-ce pas ?)",
+            "\\.\\C[4](Dans ce cas... nous devrions te le prouver.)",
+            "\\.\\C[4](Les lignes rouges qui nous distinguent\n en tant que maître et serviteur...)",
+            "\\.\\C[4](Les chaînes qui nous entravent\n afin que nous nous entretuions...)",
+            "\\.\\C[4](Rien de tout cela n'est nécessaire.)",
+            "\\.\\C[4](Car je sais que nous sommes plus forts\n lorsque nous pouvons nous faire confiance...)",
+            "\"Alors... l'appariement est maintenant désactivé,\n c’est ça...?\"",
+            "\\.\"...\n ...\n ...\"",
+            "\\.\"... Bon, on ferait mieux d’aller le dire à Hinako.\"",
+            "\\.\"Tous ensemble !\""
         ],
         "96-2-choice": [
             "Examiner\nAnnuler",
@@ -36479,7 +36481,9 @@
             "À propos de l’autonomie de la batterie\nÀ propos des pièces de mise à niveau\nPréférences\nAnnuler"
         ],
         "107-1-choice": [
-            "Examiner\nAnnuler"
+            "Examiner\nAnnuler",
+            "Appariement\nCapteur de Vie\nAnnuler",
+            "Désactiver\nAnnuler"
         ],
         "2-1-message": [
             "\\.\"Il y a vraiment une pièce ici...!\"",
@@ -36681,9 +36685,9 @@
         ],
         "88-5-message": [
             "\\C[3]L'écran affiche « Système de Contrôle des Cercueils ».",
-            null,
-            null,
-            null,
+            "\\.\\C[4](Pour ouvrir les cercueils,\n il faut passer le contrôle de carte ID.)",
+            "\"Quelle fonction souhaitez-vous ?\"",
+            "\"Le rideau est actuellement \\C[2]\\V[999]\\C[0].\n Que comptez-vous faire ?\"",
             null,
             null,
             null,
@@ -36699,10 +36703,36 @@
         ],
         "88-3-message": [
             "\\C[3]L'écran affiche « Système de Contrôle des Cercueils ».",
-            "\\.\\C[4](Il faut d'abord passer par la reconnaissance de\n l'empreinte digitale avant de pouvoir l'utiliser.)"
+            "\\.\\C[4](Il faut d'abord passer par la reconnaissance de\n l'empreinte digitale avant de pouvoir l'utiliser.)",
+            "\"Ça montre plus de choses qu'avant...!\"",
+            "\"Regardez ! Il y a de nouvelles choses sur cet écran !\"",
+            "\\.\\C[4](On peut s’en servir, maintenant...!)",
+            "\\.\"OK ! Gardons un œil sur les caméras\n et voyons ce qu’on peut faire !\"",
+            "\\C[6]Qu'aimeriez-vous faire ?",
+            "\\.\"Allez, on l’ouvre...!\"",
+            "\\C[4](Hein ? Il ne s’est rien passé...?)",
+            "\\.\"Et maintenant, miaou ? Tu essaies autre chose, ouaf ?\"",
+            "\\.\\C[4](Argh ! Allez, marche, je t'en supplie...!)",
+            "\\.\"Allez, essayons de fermer...!\"",
+            "\\.\"Allez, essayons de fermer...!\"",
+            "\\C[4](Quoi...?\n Ce n'est pas pour les cercueils, c'est l'entrée !)",
+            "\"Ça va pas nous empêcher d’aller au cimetière ?!\"",
+            "\"Bon sang...!\n On ne peut pas aller au cimetière, à présent ?!\"",
+            "\\.\\C[4](Essayons de le rouvrir...!)",
+            "\"O-Ouf...! Ce n’était donc pas un piège !\"",
+            "\"Ah... haha... On l’a échappé belle.\"",
+            "\\C[4](Mais c’est étrange... C’est censé être\n le Système de Contrôle des Cercueils...)",
+            "\"Il semble... que nous devrons désactiver\n la sécurité de \\C[2]Niveau 2\\C[0], alors...\"",
+            "\"Je me demande si... nous allons devoir\n désactiver la sécurité de \\C[2]Niveau 2\\C[0]...\"",
+            "\"Je suppose... qu’il faudrait peut-être\n désactiver la sécurité de \\C[2]Niveau 2\\C[0].\"",
+            "\\.\"L’empreinte digitale ne suffisait pas, miaou ?!\"",
+            "\\.\"Pff ! Ils ne peuvent pas faire en sorte\n que ce soit simple, hein ?!\"",
+            "\\.\"Hmph ! Comme je m’y attendais,\n ça ne sera pas si simple...!\"",
+            "\\.\\C[4](N’abandonne pas... Il doit bien y avoir un moyen...)"
         ],
         "88-4-message": [
-            "\\C[3]L'écran affiche « Système de Contrôle des Cercueils »."
+            "\\C[3]L'écran affiche « Système de Contrôle des Cercueils ».",
+            "\\.\\C[4](Pour ouvrir les cercueils,\n il faut désactiver le Niveau 2 de sécurité.)"
         ],
         "93-1-message": [
             "\\C[5][Sécurité des Dispositifs]\n\\C[5]Niveau 0 ... \\C[3]Déverrouillé\n\\C[5]Niveau 1 ... \\C[10]Verrouillé\n\\C[5]Niveau 2 ... \\C[10]Verrouillé",
@@ -36787,7 +36817,8 @@
             "\\C[5][Sécurité des Dispositifs]\n\\C[5]Niveau 0 ... \\C[3]Déverrouillé\n\\C[5]Niveau 1 ... \\C[3]Déverrouillé\n\\C[5]Niveau 2 ... \\C[10]Verrouillé"
         ],
         "93-5-message": [
-            "\\C[5][Sécurité des Dispositifs]\n\\C[5]Niveau 0 ... \\C[3]Déverrouillé\n\\C[5]Niveau 1 ... \\C[3]Déverrouillé\n\\C[5]Niveau 2 ... \\C[3]Déverrouillé"
+            "\\C[5][Sécurité des Dispositifs]\n\\C[5]Niveau 0 ... \\C[3]Déverrouillé\n\\C[5]Niveau 1 ... \\C[3]Déverrouillé\n\\C[5]Niveau 2 ... \\C[3]Déverrouillé",
+            "\\.\\C[4](Nous avons ouvert tous les verrous...)"
         ],
         "96-2-message": [
             "\\C[3]L'écran affiche « Système de Contrôle des Pantins ».",
@@ -36801,6 +36832,22 @@
         ],
         "96-3-message": [
             "\\C[3]L'écran affiche « Système de Contrôle des Pantins »."
+        ],
+        "107-2-message": [
+            "\\C[3]L'écran affiche\n« Système de Contrôle des Colliers de Défunts »."
+        ],
+        "118-1-message": [
+            "\"Sara...! C'est terrible !\"",
+            "\\.\"J’étais en train d'inspecter\n le matériel de diffusion...\"",
+            "\\.\"Mais l’IA de Shin qui était sur cet écran...!\"",
+            "\\.\"... Oui.\n Il a probablement été tué par \\N[4]...\"",
+            "\\.\"Alors tu savais...?\"",
+            "\\.\"Je veux me venger, mais...\"",
+            "\\.\"Je sais... Faisons ce qu’on peut...\""
+        ],
+        "88-3-choice": [
+            "Ouvrir le rideau\nFermer le rideau",
+            "Fermer le rideau"
         ]
     },
     "map201": {
