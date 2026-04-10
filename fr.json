@@ -23903,7 +23903,8 @@
             "\\.\\C[5]\"Vous avez 5 minutes. Si vous ne vous échappez\n pas à temps, vous perdrez la vie.\"",
             "\\.\\C[5]\"Vous n'êtes pas la seule personne impliquée.\n Votre destin est lié à une autre personne invisible.\"",
             "\\.\\C[5]\"Toutefois, si vous refusez cette liaison\n et que vous préférez trahir cette personne,\n vous pouvez partir en toute sécurité.\"",
-            "\\.\\C[5]\"Suivez la voix de votre cœur.\""
+            "\\.\\C[5]\"Suivez la voix de votre cœur.\"",
+            "\\C[3][Kit de Premier Secours]\nContient le matériel nécessaire\nau traitement des blessures."
         ],
         "1067-0-message": [
             "\\C[3]Nous courûmes de toutes nos forces.",
@@ -36432,26 +36433,26 @@
         "107-1-message": [
             "\\C[3]L'écran affiche\n« Système de Contrôle des Colliers de Défunts ».",
             "\\C[4](Mais qu’est-ce que c’est que tout ça...?)",
-            "\\.\"Cet écran vous permet de\n modifier les fonctions des\n colliers des Pantins !\"",
+            "\\.\"Cet écran vous permet de modifier les\n fonctions des colliers des Pantins !\"",
             "\\.\\C[4](Ouah ?! Qu’est-ce que...?!)",
             "\"C'est l'IA de Shin...!\"",
             "\"P... Pourquoi mon IA a-t-elle soudainement...\"",
             "\\.\"On dirait qu'il va nous expliquer, hein...?",
             "\\.\"... Il semble qu’il va nous expliquer.\"",
             "\\.\"La \\C[2]fonction d’Appariement\\C[0] fait exploser\n les colliers s’ils s’éloignent trop\n d’un survivant désigné.\"",
-            "\\.\"La fonction \\C[2]Capteur de Vie\\C[0] permet\n aux pantins d’exploser lorsqu’ils\n \\C[2]sont à court de batterie\\C[0].\"",
+            "\\.\"La fonction \\C[2]Capteur Vital\\C[0] permet\n aux pantins d’exploser lorsqu’ils\n \\C[2]tombent à court de batterie\\C[0].\"",
             "\"Putain, quoi ?! J'n'ai jamais entendu parler d'ça !\"",
             "\"Sans ça, les Pantins pourraient juste\n \\C[2]se recharger\\C[0] pour revenir à la vie,\n vous voyez...\"",
             "\"Se recharger...?\"",
             "\"Se recharger, hein...\"",
             "\"Alors, quelle fonction\n allez-vous modifier ?\"",
             "\"La fonction d’Appariement est\n actuellement \\C[2]désactivée\\C[0].\n Qu'allez-vous faire ?\"",
-            "\\.\\C[4](... Plus besoin de s'en occuper.)",
-            "\"Désolé, mais vous ne pouvez\n pas désactiver la fonction\n Capteur de Vie !\"",
+            "\\.\\C[4](... Plus besoin d'y toucher.)",
+            "\"Désolé, mais vous ne pouvez\n pas désactiver la fonction\n Capteur Vital !\"",
             "\"La fonction d’Appariement est\n actuellement \\C[2]activée\\C[0].\n Qu'allez-vous faire ?\"",
             "\\C[4](...\n ...\n ...)",
             "\"... T'es sérieuse ?\"",
-            "\\.\"Tu vas nous laisser faire ce qu’on veut...?\"",
+            "\\.\"Tu vas nous rendre notre liberté...?\"",
             "\\.\"...\n ...\n ...\"",
             "\\.\"...\n ...\n ...\"",
             "\\.\"Hinako sera ravie d'l’apprendre...\"",
@@ -36482,7 +36483,7 @@
         ],
         "107-1-choice": [
             "Examiner\nAnnuler",
-            "Appariement\nCapteur de Vie\nAnnuler",
+            "Appariement\nCapteur Vital\nAnnuler",
             "Désactiver\nAnnuler"
         ],
         "2-1-message": [
@@ -36810,7 +36811,7 @@
             "\\.\\C[3]Mai posa son index sur le capteur.",
             "\\.\"Euh...?\"",
             "\\C[6]Reconnaissance d'empreinte réussie.",
-            "\"P-Pourquoi mon empreinte à...?\"",
+            "\"P-Pourquoi mon empreinte a...?\"",
             "\\C[4](Les écrans...!)"
         ],
         "93-4-message": [
@@ -36848,6 +36849,10 @@
         "88-3-choice": [
             "Ouvrir le rideau\nFermer le rideau",
             "Fermer le rideau"
+        ],
+        "2-4-message": [
+            "\\C[4](C’est peut-être tout ce qu’il y a à vérifier ici...)",
+            "\\.\\C[4](Je retourne au cimetière pour l’instant.\n Hinako attend.)"
         ]
     },
     "map201": {
