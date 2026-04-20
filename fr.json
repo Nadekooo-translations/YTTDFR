@@ -36440,7 +36440,7 @@
             "\\.\"On dirait qu'il va nous expliquer, hein...?",
             "\\.\"... Il semble qu’il va nous expliquer.\"",
             "\\.\"La \\C[2]fonction d’Appariement\\C[0] fait exploser\n les colliers s’ils s’éloignent trop\n d’un survivant désigné.\"",
-            "\\.\"La fonction \\C[2]Capteur Vital\\C[0] permet\n aux pantins d’exploser lorsqu’ils\n \\C[2]tombent à court de batterie\\C[0].\"",
+            "\\.\"La fonction \\C[2]Capteur Vital\\C[0] permet\n aux Pantins d’exploser lorsqu’ils\n \\C[2]tombent à court de batterie\\C[0].\"",
             "\"Putain, quoi ?! J'n'ai jamais entendu parler d'ça !\"",
             "\"Sans ça, les Pantins pourraient juste\n \\C[2]se recharger\\C[0] pour revenir à la vie,\n vous voyez...\"",
             "\"Se recharger...?\"",
@@ -38937,7 +38937,7 @@
             "\\.\\C[4](Peu importe... D'abord, il nous faut des pistes...)"
         ],
         "81-4-message": [
-            null,
+            "\"Hé, toi ! Écoute ça !\"",
             null,
             null,
             null,
