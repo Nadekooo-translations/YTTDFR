@@ -619,7 +619,9 @@
         "itemdesc186": "Un livre vert trouvé dans la salle de classe.\\nSur la quatrième de couverture, on peut lire :\\n« Merci de rendre ce livre dans les délais ».",
         "itemdesc190": "Un livre bleu trouvé par Kurumada.\\nSur la quatrième de couverture, on peut lire :\\n« Merci de rendre ce livre dans les délais ».",
         "itemdesc188": "Un livre jaune provenant du bureau.\\nSur la quatrième de couverture, on peut lire :\\n« Merci de rendre ce livre dans les délais ».",
-        "itemdesc180": "Un livre rouge provenant de la Salle de Discussion.\\nSur la quatrième de couverture, on peut lire :\\n« Merci de rendre ce livre dans les délais »."
+        "itemdesc180": "Un livre rouge provenant de la Salle de Discussion.\\nSur la quatrième de couverture, on peut lire :\\n« Merci de rendre ce livre dans les délais ».",
+        "itemdesc196": "Une carte d’identité sur laquelle figure le visage de\\n\\N[4] (de son vrai nom Sou Hiyori).",
+        "itemdesc184": "Un magnétophone, apparemment utilisé lors d'une\\nPremière Épreuve. Il donne des instructions sur la\\ncoopération avec un partenaire."
     },
     "items-16": {
         "name": "??????????????",
@@ -14992,10 +14994,10 @@
             "\\.\"...\"",
             "\"Grande sœur Sara, on peut pas\n chercher un peu plus, miaou ?\"",
             "\\.\\C[4](J'imagine qu'il a raison...)",
-            null,
-            null,
-            null,
-            null,
+            "\"Ce satané \\N[4]...\n Il a laissé le formulaire ici, mais où est-il passé ?\"",
+            "\\.\"Je me demande s’il a laissé des indices\n derrière lui, miaou ?\"",
+            "\"Grande sœur Sara !\n Tu vas pas lui poser des questions, miaou?!\"",
+            "\\.\\C[4](C'est vrai...)",
             null,
             null,
             null,
@@ -23898,13 +23900,16 @@
             "\\.\\C[6]Eh oui, mesdames et messieurs ! \nAujourd'hui, je vous dévoile la faiblesse de Maple,\nla plus forte des poupées parmi les Obstructeurs !",
             "\\.\\C[6]C'est le petit espace dans son dos !\nSouvenez-vous-en, et vous pourrez fanfaronner : \n« Les Obstructeurs, on les mange au p'tit-déj ! »",
             "\\C[3][Talkie-walkie]\nUn appareil de communication à batterie.\nDevrait fonctionner si les deux sont proches.",
-            "\\C[3][Magnétophone]\nUn magnétophone, probablement utilisé lors d'une\nPremière Épreuve. Il donne des instructions sur la\ncoopération avec un partenaire.",
+            "\\C[3][Magnétophone]\nUn magnétophone, apparemment utilisé lors d'une\nPremière Épreuve. Il donne des instructions sur la\ncoopération avec un partenaire.",
             "\\C[5]\"... Début de la Première Épreuve.\"",
             "\\.\\C[5]\"Vous avez 5 minutes. Si vous ne vous échappez\n pas à temps, vous perdrez la vie.\"",
             "\\.\\C[5]\"Vous n'êtes pas la seule personne impliquée.\n Votre destin est lié à une autre personne invisible.\"",
             "\\.\\C[5]\"Toutefois, si vous refusez cette liaison\n et que vous préférez trahir cette personne,\n vous pouvez partir en toute sécurité.\"",
             "\\.\\C[5]\"Suivez la voix de votre cœur.\"",
-            "\\C[3][Kit de Premier Secours]\nContient le matériel nécessaire\nau traitement des blessures."
+            "\\C[3][Kit de Premier Secours]\nContient le matériel nécessaire\nau traitement des blessures.",
+            null,
+            "\\C[3][Carte d’identité]\nUne carte d’identité sur laquelle figure le visage de\n\\N[4] (de son vrai nom Sou Hiyori).",
+            "\\C[3][Carte d’identité]\nUne carte d’identité sur laquelle figure le visage de\n\\N[4] (de son vrai nom Sou Hiyori)."
         ],
         "1067-0-message": [
             "\\C[3]Nous courûmes de toutes nos forces.",
@@ -25403,6 +25408,11 @@
             "\\.\"Vaut mieux qu'on aille vérifier ça, j'imagine...\"",
             "\"S'il te plaît, Keiji... tiens bon.\"",
             "\"Je compte sur toi, partenaire.\""
+        ],
+        "1402-0-choice": [
+            null,
+            null,
+            "Écouter l'enregistrement\nAnnuler"
         ]
     },
     "map107": {
@@ -36235,10 +36245,10 @@
         ],
         "93-3-message": [
             "\\C[5][Sécurité des Dispositifs]\n\\C[5]Niveau 0 ... \\C[3]Déverrouillé\n\\C[5]Niveau 1 ... \\C[3]Déverrouillé\n\\C[5]Niveau 2 ... \\C[10]Verrouillé",
-            null,
-            null,
+            "\"Utilisons cette carte d’identité qu'on a trouvée...!\"",
+            "\\.\"Il y a un emplacement pour une carte juste ici !\"",
             "\\.\"...\"",
-            null,
+            "\\.\"D'accord, allons-y...!\"",
             null,
             null,
             null,
@@ -37523,6 +37533,18 @@
         "17-1-message": [
             "\"Hein ? Où est passé \\N[4]...?\n J’aurais juré qu’il était là...\"",
             "\\.\"Argh, allez !\n On a besoin de cette carte d’identité...!\""
+        ],
+        "19-1-message": [
+            "\\C[3]Il y a quelque chose sur le bureau.",
+            "\\.\\C[3]Talkie-walkie obtenu.",
+            "\\.\\C[4](L'un des talkies-walkies, et...)",
+            "\\C[4](Ça...!)",
+            "\\C[3]Carte d'identité obtenue.",
+            "\\.\"Sérieusement ?! C’est pas ça ?!\"",
+            "\\.\"Qu’est-ce qui se passe...?\n Il est parti ailleurs en laissant ses affaires ici ?\"",
+            "\\.\"C’est étrange, n’est-ce pas...?\"",
+            "\\.\"... Bizarre...\"",
+            "\\C[4](C’est curieux... Hmm...)"
         ]
     },
     "map205": {
@@ -42553,6 +42575,9 @@
             null,
             null,
             "\\C[3]Le monstre tente de se relever, sans se défendre."
+        ],
+        "10-1-message": [
+            "\\C[3][Carte d’identité]\nUne carte d’identité sur laquelle figure le visage de\n\\N[4] (de son vrai nom Sou Hiyori)."
         ]
     },
     "map52": {
@@ -46355,5 +46380,14 @@
             null,
             "\\.\"...\n ...\n ...\""
         ]
+    },
+    "items-195": {
+        "description": "Une carte d’identité sur laquelle figure le visage de\n\\N[4] (de son vrai nom Sou Hiyori)."
+    },
+    "items-197": {
+        "description": "Une carte d’identité sur laquelle figure le visage de\n\\N[4] (de son vrai nom Sou Hiyori)."
+    },
+    "items-183": {
+        "description": "Un magnétophone, apparemment utilisé lors d'une\nPremière Épreuve. Il donne des instructions sur la\ncoopération avec un partenaire."
     }
 }
