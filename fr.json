@@ -11951,7 +11951,7 @@
             "\\.\"Urgh...!\n C'est que t'aimes vraiment me faire répéter...!\n Espèce de sadique...!\"",
             "\\.\\C[4](C'est plutôt marrant...)",
             "\"Tu pourrais me dire comment tu t'appelles,\n s'il te plaît ?\"",
-            "\\.\"... Selon les règles de politesse, tu dois te\n présenter en première.\"",
+            "\\.\"... Selon les règles de politesse, tu dois te\n présenter en premier.\"",
             "\\.\"Moi, c'est Sara.\n Sara Chidouin.\"",
             "\\.\"... Je m'appelle...\"",
             "\\.\"... Go... \\C[2]Gonbee Yamada\\C[0]...\"",
@@ -18558,7 +18558,7 @@
         "354-0-choice": [
             "Fais ce que tu veux\nJe t'accompagne",
             "Se réconcilier\nFaire semblant de se réconcilier",
-            "Kanna l'a eue en première\nSou l'a eue en premier\nKeiji, tu en penses quoi ?"
+            "Kanna l'a eue en premier\nSou l'a eue en premier\nKeiji, tu en penses quoi ?"
         ],
         "378-0-choice": [
             "Discuter\nAvoir un résumé\nAnnuler",
@@ -29329,7 +29329,7 @@
             "\\.\"Il fait totalement noir.\n Tu as jeté un œil à l'intérieur ?\"",
             "\\.\"... Non. Kanna et Sou... n'avaient pas le courage...\"",
             "\\.\"D'accord...\"",
-            "\\.\"J'y vais en première...\n Rejoins-moi si ce n'est pas dangereux.\"",
+            "\\.\"J'y vais en premier...\n Rejoins-moi si ce n'est pas dangereux.\"",
             "\\.\"Hein...? Cette salle...?\"",
             "\\.\\C[4](C'est bizarre...\n J'ai l'impression d'avoir déjà été ici.)",
             "\\.\"Kanna, c'est bon. Viens.\"",
@@ -30933,7 +30933,7 @@
             "\\.\"Ç-Ça va !\n Je connais le mot de passe...!!\"",
             "\\.\\C[4](Sou l'a donné durant le Jeu Principal...!)",
             "\\.\\C[4](Le mot de passe est \\C[2]Chidouin\\C[4]...\n C'est mon nom de famille !)",
-            "\\.\\C[3]Je rentre le mot de passe.",
+            "\\.\\C[3]J'entre le mot de passe.",
             "\\.\\C[5]... ... ...",
             "\\.\\C[5]Mot de passe incorrect.",
             "\\.\"Hein...?\"",
@@ -43369,7 +43369,7 @@
             "\"Je suis le seul à pouvoir protéger grande sœur\n Sara, miaou !\""
         ],
         "6-1-message": [
-            "\\.\"J'y vais en première...!\"",
+            "\\.\"J'y vais en premier...!\"",
             "\\.\"Donne tout ce que tu as, Sara...!\"",
             "\\.\"Donne tout ce que tu as, Sara...!\"",
             "\\.\"D-D'accord...\"",
@@ -43567,7 +43567,7 @@
             "\\.\"Sara !! Ça va mieux ?\"",
             "\\.\"Ouais...\n Je n'étais pas dans mon assiette, tout à l'heure.\n Rien de plus.\"",
             "\\.\"N'hésite pas à t'asseoir ! Vraiment, je t'en prie !\"",
-            "\\.\"Nan, c'est bon... Tu étais assise là en première.\"",
+            "\\.\"Nan, c'est bon... Tu étais assise là la première.\"",
             "\\.\"J-Je peux toujours m'asseoir sur tes genoux, Sara !\"",
             "\\.\"Non merci...\n Sinon, qu'est-ce que vous disiez sur Sou ?\"",
             "\\{\"KANNA !!\"",
@@ -44616,7 +44616,7 @@
             "\"L'a tendance à se charger en premier, mais c'pas\n toujours le cas. L'est globalement imprédictible.\""
         ],
         "25-1-message": [
-            "\\.\"J'y vais en première...!\"",
+            "\\.\"J'y vais en premier...!\"",
             "\\.\"Je te surveille.\"",
             "\\.\"À toi d'jouer, Sara !\"",
             "\\.\"Miaou !\n Bonne chance, grande sœur Sara !\n Je t'encourage, ouaf !!\"",
@@ -44633,7 +44633,7 @@
     },
     "map97": {
         "6-1-message": [
-            "\\.\"J'y vais en première...!\"",
+            "\\.\"J'y vais en premier...!\"",
             "\\.\"B-Bonne chance à toi !\"",
             "\\.\"Tu es tellement courageuse, Sara !\"",
             "\\.\"T'es trop cool, miaou...!\n Mais fais attention à toi, ouaf...\"",
@@ -44689,7 +44689,7 @@
     },
     "map99": {
         "22-1-message": [
-            "\\.\"J'y vais en première...!\"",
+            "\\.\"J'y vais en premier...!\"",
             "\\.\"Bonne chance à toi, Sara.\"",
             "\\.\"Vas-y ! Démonte-les !\"",
             "\\.\"Je te souhaite bonne chance, Sara !\"",
@@ -44737,7 +44737,7 @@
     },
     "map103": {
         "27-1-message": [
-            "\\.\"J'y vais en première...!\"",
+            "\\.\"J'y vais en premier...!\"",
             "\\.\"Restons vigilants.\"",
             "\\.\"B-Bonne chance à toi !\"",
             "\\.\"Hmph. Faisons preuve de prudence et cachons-nous !\"",
@@ -44774,7 +44774,7 @@
     },
     "map105": {
         "23-1-message": [
-            "\\.\"J'y vais en première...!\"",
+            "\\.\"J'y vais en premier...!\"",
             "\\.\"O-Ouuuh... Même des fantômes suffisent pas\n à te décourager, hein...\"",
             "\\.\"Ça fait peur, mais... Des fantômes...\n Je me demande comment ils les ont fait...!\"",
             "\\.\"...\n ...\n ...\"",
@@ -44812,7 +44812,7 @@
     },
     "map108": {
         "19-1-message": [
-            "\\.\"J'y vais en première...!\"",
+            "\\.\"J'y vais en premier...!\"",
             "\\.\"Hmph... Voyons de quoi tu es capable.\"",
             "\\.\"Ça ne devrait pas être compliqué pour toi, Sara.\"",
             "\\.\"Crois en toi, Sara !\"",
@@ -44853,7 +44853,7 @@
             "\"Je ne peux plus... que t'encourager...!\""
         ],
         "19-1-message": [
-            "\\.\"J'y vais en première...!\"",
+            "\\.\"J'y vais en premier...!\"",
             "\\.\"T'as ton ami le policier à tes côtés.\n Reste tranquille.\"",
             "\\.\"T'as la motiv' ?!\n Montre-leur d'quoi t'es capable !\"",
             "\\.\"Hmph...\n J'observerai la puissance de tes maigres bras.\n Montre-moi leur plein potentiel.\"",
