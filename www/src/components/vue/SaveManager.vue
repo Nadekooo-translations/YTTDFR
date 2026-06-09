@@ -6,6 +6,10 @@ import JSZip from 'jszip';
 const modal = reactive<{ text: null | string }>({ text: null });
 const index = reactive(readSaveIndex());
 
+window.addEventListener('storage', (e) => {
+	location.reload();
+});
+
 watch(index, (newValue) => {
 	writeSaveIndex(newValue);
 });
