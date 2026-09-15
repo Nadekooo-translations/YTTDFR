@@ -23800,7 +23800,7 @@
             "\"Si t'as un truc qui fait du bruit,\n je vais le réduire en miettes !\""
         ],
         "1432-0-message": [
-            "\"Rah, quel tintamarre...! Passe-moi ça !\n Je vais pulvériser cette nuisance sonore !\""
+            "\"Rah, quel boucan...! Donne-moi ça !\n Je vais pulvériser tous les trucs bruyants !\""
         ],
         "1433-0-message": [
             "\"Euh... Est-ce qu'on devrait allumer le feu d'artifice ?\n Ce n'est pas dangereux, de jouer avec le feu, ici...?\""
@@ -39605,6 +39605,14 @@
         ],
         "62-2-choice": [
             "Tu t'es réveillée, hein ?\nComment tu te sens ?\nAllez, excuse-toi"
+        ],
+        "94-1-message": [
+            "\"J'ai fini par chercher toute seule, au final...\"",
+            "\"Y a encore une sorte d'odeur de brûlé...\""
+        ],
+        "95-1-message": [
+            "\"Pourquoi est-ce que je m'occupe d'Hinako...?\"",
+            "\"Pourquoi est-ce que je m'occupe d'Hinako... ?\n J'ai mes propres affaires à régler...\""
         ]
     },
     "map155": {
