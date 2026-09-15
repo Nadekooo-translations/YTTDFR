@@ -23,6 +23,10 @@ export const call = async (path: string, method: string = 'GET', data?: any, aut
 		headers.append("Authorization", "Token " + token);
 	}
 
+	if (data) {
+		headers.append("Content-Type", "application/json");
+	}
+
 	const options: RequestInit = {
 		method,
 		headers
@@ -30,7 +34,6 @@ export const call = async (path: string, method: string = 'GET', data?: any, aut
 
 	if (data) {
 		options.body = JSON.stringify(data);
-		options.headers?.append("Content-Type", "application/json");
 	}
 
 	const res = await fetch(import.meta.env.WEBLATE_BASE_URL + path, options);
