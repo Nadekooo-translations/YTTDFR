@@ -30,6 +30,7 @@ export const call = async (path: string, method: string = 'GET', data?: any, aut
 
 	if (data) {
 		options.body = JSON.stringify(data);
+		options.headers?.append("Content-Type", "application/json");
 	}
 
 	const res = await fetch(import.meta.env.WEBLATE_BASE_URL + path, options);
@@ -48,10 +49,26 @@ export const fetchTranslationPercentage = async (): Promise<number> => {
 };
 
 export const fetchCredits = async (): Promise<CreditsEntry[]> => {
-	// TODO update in 2023 lol
-	const res = await call("/components/your-turn-to-die/yttd-fr/credits/?start=2021-01-01&end=2030-01-01&lang=fr");
+	const createRes = await call("/reports/", "POST", {
+		kind: "credits",
+		component: "your-turn-to-die/yttd-fr",
+		start: "2021-01-01",
+		end: "2030-01-01",
+	});
+	const {task_url: taskUri} = createRes;
+	const taskUuid = taskUri.substring(11, 47);
 
-	return res[0]["French"] as CreditsEntry[];
+	let task: {completed: boolean, result: {url: string}} = {completed: false, result: {url: ""}};
+
+	while (!task.completed) {
+		task = await call(`/tasks/${taskUuid}/`);
+	}
+
+	const reportId = task.result.url.substring(13, task.result.url.length - 1);
+
+	const report = await call(`/reports/${reportId}/json/`);
+
+	return report.find((e: any) => "French" in e)["French"] as CreditsEntry[];
 };
 
 export const adjustCredits = async (credits: CreditsEntry[]) => {
