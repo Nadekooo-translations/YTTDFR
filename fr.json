@@ -6285,7 +6285,8 @@
         "name": "Billet de 1 000 yens"
     },
     "items-80": {
-        "name": "Billet de 1 000 yens"
+        "name": "Billet de 1 000 yens",
+        "description": "Billet de banque utilisable au Japon"
     },
     "system": {
         "currency": "yen",
@@ -42461,6 +42462,9 @@
         "999": {
             "開いてる": "ouvert",
             "閉じてる": "Fermé"
+        },
+        "988": {
+            "マイ": "Mai"
         }
     },
     "map142": {
@@ -46429,5 +46433,8 @@
     },
     "items-183": {
         "description": "Un magnétophone, apparemment utilisé lors d'une\nPremière Épreuve. Il donne des instructions sur la\ncoopération avec un partenaire."
+    },
+    "actors-1": {
+        "name": "Sara Chidouin"
     }
 }
