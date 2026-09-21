@@ -6286,7 +6286,7 @@
     },
     "items-80": {
         "name": "Billet de 1 000 yens",
-        "description": "Billet de banque utilisable au Japon"
+        "description": "Billet de banque utilisable au Japon."
     },
     "system": {
         "currency": "yen",
@@ -42458,32 +42458,32 @@
             "緑の本": "Livre Vert",
             "灯ろう": "Lanterne",
             "何かのメモ": "Note",
-            "救急キット": "Kit de premier secours",
-            "ランクアップパーツ": "Parties améliorées"
+            "救急キット": "Kit de Premier Secours",
+            "ランクアップパーツ": "Pièces d'Amélioration"
         },
         "999": {
             "開いてる": "ouvert",
-            "閉じてる": "Fermé"
+            "閉じてる": "fermé"
         },
         "988": {
             "マイ": "Mai"
         },
         "854": {
-            "おしゃれなカップ": "Tasse Fantaisiste",
-            "ボクシンググローブ": "Gant de boxe",
-            "ドクロ": "Squelette",
+            "おしゃれなカップ": "Tasse Élégante",
+            "ボクシンググローブ": "Gant de Boxe",
+            "ドクロ": "Crâne",
             "スクールバッグ": "Cartable",
             "本": "Livre",
-            "赤いランプ": "Girophare",
-            "パソコン": "Ordinateur portable",
-            "パンダのぬいぐるみ": "Panda en peluche",
+            "赤いランプ": "Gyrophare",
+            "パソコン": "Ordinateur Portable",
+            "パンダのぬいぐるみ": "Panda en Peluche",
             "ベル": "Cloche",
             "フランスパン": "Baguette",
             "消火器": "Extincteur",
             "テニスボール": "Balle de Tennis",
-            "トランプカード": "Jeu de cartes",
-            "トロフィー": "Trophé",
-            "魚の剥製": "Poisson empaillé"
+            "トランプカード": "Cartes à Jouer",
+            "トロフィー": "Trophée",
+            "魚の剥製": "Poisson Empaillé"
         }
     },
     "map142": {
@@ -45492,6 +45492,9 @@
             null,
             null,
             "\\.\"...\n ...\n ...\""
+        ],
+        "2-1-message": [
+            "\\C[3][Tasse Élégante]\nLe genre de tasse raffinée que les filles ont tendance\nà aimer. Elle semble fragile et susceptible de se briser\nsi on la manipulait sans aucune délicatesse."
         ]
     },
     "map71": {
