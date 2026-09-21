@@ -622,8 +622,8 @@
         "itemdesc180": "Un livre rouge provenant de la Salle de Discussion.\\nSur la quatrième de couverture, on peut lire :\\n« Merci de rendre ce livre dans les délais ».",
         "itemdesc196": "Une carte d’identité sur laquelle figure le visage de\\n\\N[4] (de son vrai nom Sou Hiyori).",
         "itemdesc184": "Un magnétophone, apparemment utilisé lors d'une\\nPremière Épreuve. Il donne des instructions sur la\\ncoopération avec un partenaire.",
-        "itemdesc209": "Une petite clé que Mapple gardait sur elle",
-        "itemdesc207": "Une tête de poupée trouvée dans une boîte. \\nFonctionnera si elle est chargée. \\Une lettre précise que son oeil gauche à été réparé"
+        "itemdesc209": "Une petite clé que Maple avait sur elle.",
+        "itemdesc207": "Une tête de poupée trouvée dans une boîte.\\nElle fonctionnera une fois rechargée.\\nUne lettre précise que son œil gauche a été réparé."
     },
     "items-16": {
         "name": "??????????????",
@@ -28840,7 +28840,7 @@
             "\\.\"Hein...?\"",
             "\\.\"Je suis tombée sur un truc bizarre ici.\"",
             "\\.\"Quelque chose de bizarre...?\"",
-            "\\.\"C'est difficile à remarquer dans ce noir, mais...\n Regarde ce mur.\""
+            "\\.\"C'est difficile à remarquer dans le noir, mais...\n Regarde ce mur.\""
         ],
         "13-8-choice": [
             "Tu fais trop confiance aux autres\nC'est bien",
@@ -28874,7 +28874,7 @@
         ],
         "14-8-message": [
             "\\.\"...\n ...\n ...\"",
-            "\\.\\C[4](On dirait qu'elle est perdue dans ses pensées...)"
+            "\\.\\C[4](À quoi peut-elle bien penser...?)"
         ],
         "14-10-message": [
             "\"Et merde...\n On a beau chercher, toujours pas de sortie en vue...\"",
@@ -31836,7 +31836,7 @@
             "\\.\"Dacodac. J'y crois à moitié...\n Mais j'irai dans le hall quand j'aurai fini ici.\"",
             "Sniff sniff...",
             "\\.\"Tu fabriques quoi...?\"",
-            "\\.\"Ça empeste le tombeur de femme, miaou !\"",
+            "\\.\"Ça empeste le bourreau des cœurs, miaou !\"",
             "\\.\"Où c'est que t'as appris cette expression, toi ?\""
         ],
         "2-5-message": [
@@ -43778,7 +43778,7 @@
             "\\.\"J'ai mal... au cou...\"",
             "\\.\"Juste à l'instant, des graines de Fleurs Humaines\n ont été injectées via votre collier dans votre corps.\"",
             "\\.\"Lara, arrête...!! Qu'est-ce que tu fabriques ?!\"",
-            "\\.\"... Ne soyez pas alarmés.\n Elle ne souffrira pas comme Nao.\"",
+            "\\.\"Ne vous inquiétez pas...\n Elle ne souffrira pas comme Nao.\"",
             "\\.\"Des racines vont pousser dans son corps...\n Et dans une berçante torpeur...\n Elle mourra gracieusement...\"",
             "\\.\"Et maintenant, elles vont germer...\"",
             "\\C[10]Kanna s'est éteinte.",
