@@ -34949,7 +34949,9 @@
             "Sauvegarder\nNe pas sauvegarder"
         ],
         "1-1-message": [
-            "\\.\"Hey. Tu fait de ton mieux à ce que je vois.\""
+            "\\.\"Hey. Tu fait de ton mieux à ce que je vois.\"",
+            null,
+            "\\.\"La prochaine partie est prévue d'être\n\n mis à jour demain, \\C[2]26 Février\\C[0]...\""
         ]
     },
     "map196": {
