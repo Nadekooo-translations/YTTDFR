@@ -42483,7 +42483,29 @@
             "テニスボール": "Balle de Tennis",
             "トランプカード": "Cartes à Jouer",
             "トロフィー": "Trophée",
-            "魚の剥製": "Poisson Empaillé"
+            "魚の剥製": "Poisson Empaillé",
+            "錠前": "Cadenas"
+        },
+        "921": {
+            "カンナ": "Kanna",
+            "ソウ": "Sou",
+            "Qタロウ": "Q-taro",
+            "レコ": "Reko",
+            "アリス": "Alice",
+            "ギン": "Gin",
+            "ヒナコ": "Hinako",
+            "クルマダ": "Kurumada",
+            "マイ": "Mai",
+            "アンズ": "Anzu",
+            "ハヤサカ": "Hayasaka",
+            "ランマルは": "Ranmaru"
+        },
+        "922": {
+            "【勧誘】": "Invitation",
+            "【挑発】": "Provocation",
+            "【威圧】": "Intimidation",
+            "【鉄拳】": "Poings",
+            "【投刃】": "Lancé de couteau"
         }
     },
     "map142": {
