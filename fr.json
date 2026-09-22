@@ -623,7 +623,8 @@
         "itemdesc196": "Une carte d’identité sur laquelle figure le visage de\\n\\N[4] (de son vrai nom Sou Hiyori).",
         "itemdesc184": "Un magnétophone, apparemment utilisé lors d'une\\nPremière Épreuve. Il donne des instructions sur la\\ncoopération avec un partenaire.",
         "itemdesc209": "Une petite clé que Maple avait sur elle.",
-        "itemdesc207": "Une tête de poupée trouvée dans une boîte.\\nElle fonctionnera une fois rechargée.\\nUne lettre précise que son œil gauche a été réparé."
+        "itemdesc207": "Une tête de poupée trouvée dans une boîte.\\nElle fonctionnera une fois rechargée.\\nUne lettre précise que son œil gauche a été réparé.",
+        "itemdesc192": "Une petite lanterne avec un interrupteur. \\nQue se passe-t-il si on l'allume ?"
     },
     "items-16": {
         "name": "??????????????",
@@ -42505,7 +42506,13 @@
             "【挑発】": "Provocation",
             "【威圧】": "Intimidation",
             "【鉄拳】": "Poings",
-            "【投刃】": "Lancé de couteau"
+            "【投刃】": "Lancé de couteau",
+            "【冗談】": "Blagues",
+            "【謝罪】": "Excuses"
+        },
+        "983": {
+            "ハヤサカ": "Hayasaka",
+            "クルマダ": "Kurumada"
         }
     },
     "map142": {
