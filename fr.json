@@ -1133,7 +1133,7 @@
         "1-1-message": [
             "\\C[3]Le chemin se poursuit au-delà du monument en pierre.",
             "\\C[4](Qu'est-ce que c'est...? Je vois une sorte de porte.)",
-            "\"J'arrive pas à déterminer si on est à l'intérieur,\n ou à l'extérieur...\""
+            "\"J'arrive même plus à déterminer si\n on est à l'intérieur ou à l'extérieur...\""
         ],
         "1-1-choice": [
             "Procéder\nAnnuler"
@@ -1747,7 +1747,7 @@
             "\\.\\C[3]Je commençais enfin à reprendre mes esprits.",
             "\\.\\C[4](Il y a \\C[2]11 personnes\\C[4] ici, moi incluse...)",
             "\\.\\C[4](Et nous portons tous des \\C[2]colliers\\C[4]...)",
-            "\\.\\C[4](Joe...?)",
+            "\\.\\C[4](...)",
             "\\.\\C[4](... Mais pourquoi est-ce que Joe\n ne vient-il donc pas me voir ?)",
             "\\.\\C[4](N'a-t-il pas remarqué que je me suis réveillée ?)",
             "\\.\"Joe !\"",
@@ -34932,16 +34932,16 @@
             "\\.\"...\"",
             null,
             "\\.\\C[4](Keiji...)",
-            "\"N'est-ce pas.... !\"",
-            "\\.\"Hahaha...\"",
-            "\"Quoi, exactement...?\"",
+            "\"Oui...!\"",
+            "\\.\"Bouahaha...\"",
+            "\"Quoi, qu'est-ce qu'il y a...?\"",
             "\\.\"Tu mets toujours la pression, hein, Sara ?\"",
             "\\C[3]Et silencieusement, l'ascenseur s'est arrêté.",
-            "\\.\\C[4](...On dirait qu'on est arrivés sans problème.)",
-            "\\.\"...Salut. Ça faisait longtemps.\"",
+            "\\.\\C[4](... On dirait que nous sommes arrivés sans encombre.)",
+            "\\.\"... Yo. Ça fait une paye.\"",
+            "\\.\"Ouf... Vous êtes bien arrivés, vous aussi.\"",
             null,
-            null,
-            null,
+            "\\.\"Dommage qu'il ne se soit rien passé, hein...?\"",
             "\\.\"Les gars, \\N[4] est peut-être à cet étage.\n Soyez prudents...\"",
             "\\.\"D'accord...!\""
         ],
@@ -34956,6 +34956,9 @@
             "\\.\"Désolé pour cette demande égoïste. Mais merci !\"",
             "\\.\"Je sais ! Tu veux sauvegarder ici ?\n Tu pourras commencer d'ici après la mise à jour !\"",
             "\\.\"Eh bien... On se revoit dans une autre partie!\""
+        ],
+        "1-2-choice": [
+            "D'accord...!\nQu'est-ce qui est bon ?"
         ]
     },
     "map196": {
@@ -40878,9 +40881,9 @@
             "\\.\\C[3]Alors que nous étions terrifiés et tétanisés,\nles portes de l’ascenseur se sont refermées.",
             "\\.\\C[3]Et puis, lentement, nous sommes sortis.",
             "\\.\\C[3]Incertains de ce qui nous attendait,\nnous sommes allés de l'avant.",
-            "\\.\\C[4](... On dirait que nous sommes arrivés sans accroc.)",
-            "\\.\"... Hé. Ça fait une paie.\"",
-            "\\.\"Ouf... Vous êtes vous aussi bien arrivés.\"",
+            "\\.\\C[4](... On dirait que nous sommes arrivés sans encombre.)",
+            "\\.\"... Yo. Ça fait une paye.\"",
+            "\\.\"Ouf... Vous êtes bien arrivés, vous aussi.\"",
             "\\.\"Quel soulagement !\"",
             "\\.\"Dommage qu'il ne se soit rien passé, hein...?\"",
             "\\.\"Les gars, \\N[4] est peut-être à cet étage.\n Soyez prudents...\"",
@@ -40918,9 +40921,9 @@
             "\\.\"D'accord...!\""
         ],
         "3-6-message": [
-            null,
+            "\"C'est bon, tout le monde ! Montez vite !\"",
             "\\.\"...\n ...\n ...\"",
-            null,
+            "\\.\"Ça... c'est vraiment bizarre !\"",
             null,
             null,
             null,
@@ -46021,7 +46024,7 @@
     "map189": {
         "1-1-message": [
             "\"Un... Un monstre...!!\"",
-            "\"Eh oui. Vous finirez en charpie si vous\n n'vous battez pas correctement, compris ?\"",
+            "\"Eh oui. Vous finirez en charpie si vous\n vous battez pas correctement, compris ?\"",
             "\"Miaouuuu ?! Mais c'est absurde, punk musclé !\n On peut pas se battre contre un truc pareil, ouaf !\"",
             "\\.\"C'est vrai... Je pense pas qu'on arrive\n à faire grand-chose si on se bat à la loyale.\"",
             "\\.\"... Alors, faites tourner vos méninges.\"",
@@ -46074,7 +46077,7 @@
         "3-1-message": [
             "\\C[3]Le monstre nous observe un par un,\ncomme s'il nous évaluait.",
             "\\C[3]Le monstre fixe \\C[2]Hayasaka\\C[3] du regard.",
-            "\\.\\C[10]\"JE T'AI TROUVÉ... J'AI TROUVÉ... TU ES LA CIBLE...\""
+            "\\.\\C[10]\"JE T'AI TROUVÉ... JE T'AI TROUVÉ... TU ES LA CIBLE...\""
         ]
     },
     "map210": {
