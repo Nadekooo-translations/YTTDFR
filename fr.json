@@ -624,9 +624,9 @@
         "itemdesc184": "Un magnétophone, apparemment utilisé lors d'une\\nPremière Épreuve. Il donne des instructions sur la\\ncoopération avec un partenaire.",
         "itemdesc209": "Une petite clé que Maple avait sur elle.",
         "itemdesc207": "Une tête de poupée trouvée dans une boîte.\\nElle fonctionnera une fois rechargée.\\nUne lettre précise que son œil gauche a été réparé.",
-        "itemdesc192": "Une petite lanterne avec un interrupteur. \\nQue se passe-t-il si on l'allume ?",
-        "itemdesc194": "Une note imprimée. \\nlt reads: \" Début du jeu : Bleu 1, Rouge 6, Jaune 0",
-        "itemdesc203": "Nécessaire pour aquarelle, \\nTrouvé dans la Chambre de Discussion."
+        "itemdesc192": "Une petite lanterne avec un interrupteur.\\nQue pourrait-il se passer quand tu l'allumes ?",
+        "itemdesc194": "Une note imprimée.\\nOn peut y lire : « Début de la partie : Bleu 1, Rouge 6, Jaune 0 »",
+        "itemdesc203": "Matériel nécessaire à la peinture à l'aquarelle,\\ntrouvé dans la Salle de Discussion."
     },
     "items-16": {
         "name": "??????????????",
@@ -34949,12 +34949,12 @@
             "Sauvegarder\nNe pas sauvegarder"
         ],
         "1-1-message": [
-            "\\.\"Hey. Tu fait de ton mieux à ce que je vois.\"",
-            "\\.\"C'est un peu tôt, mais c'est tout pour aujourd'hui...\n Que diriez vous d'une petite pause?\"",
-            "\\.\"La prochaine partie est prévue d'être\n\n mis à jour demain, \\C[2]26 Février\\C[0]...\"",
-            "\\.\"Alors... J'espère que tu attendra un peu en attendant.\"",
-            "\"Désolé pour cette demande égoïste. Mais merci !\"",
-            "\\.\"Je sais! Tu veux sauvegarder ici?\n Tu pourras commencer d'ici après la mise a jour!\""
+            "\\.\"Salut. Je vois que tu fais de ton mieux.\"",
+            "\\.\"C'est un peu tôt, mais c'est tout pour aujourd'hui...\n Que diriez-vous d'une petite pause ?\"",
+            "\\.\"La prochaine partie est prévue d'être\n mise à jour demain, le \\C[2]26 février\\C[0]...\"",
+            "\\.\"Alors... J'espère que vous saurez attendre.\"",
+            "\\.\"Désolé pour cette demande égoïste. Mais merci !\"",
+            "\\.\"Je sais ! Tu veux sauvegarder ici ?\n Tu pourras commencer d'ici après la mise à jour !\""
         ]
     },
     "map196": {
@@ -42516,7 +42516,7 @@
             "【挑発】": "Provocation",
             "【威圧】": "Intimidation",
             "【鉄拳】": "Poings",
-            "【投刃】": "Lancé de couteau",
+            "【投刃】": "Lancer de Couteau",
             "【冗談】": "Blagues",
             "【謝罪】": "Excuses"
         },
