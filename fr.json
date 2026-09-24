@@ -34908,7 +34908,7 @@
             "\\.\\C[5]Pour la première fois, j'avais une raison de vivre.",
             "\\.\\C[5]Je suis sincèrement comblé d'avoir pu\nrencontrer les Chidouin.",
             "\\.\\C[5]Mademoiselle Sara, vous avez toute ma gratitude.",
-            "\\.\\C[5]Bonjour, c'est Kai.",
+            "\\C[5]Bonjour, c'est Kai.",
             "\\.\\C[5]Je tiens à m'excuser, car ce message n'a absolument\nrien à voir avec le Jeu Mortel Démocratique.",
             "\\.\\C[5]Mademoiselle Sara, je souhaite vous faire part\nde ma reconnaissance envers vous.",
             "\\.\\C[5]Je dois énormément à la famille Chidouin.",
@@ -34927,21 +34927,21 @@
     },
     "map188": {
         "1-2-message": [
-            "On retenait notre souffle, en attendant dans l'ascenseur.",
-            "\\C[3] Tout le monde avait le même regard nerveux.",
+            "\\C[3]En retenant notre souffle, nous avons attendu dans l'ascenseur.",
+            "\\C[3]Tout le monde avait le même regard nerveux.",
             "\\.\"...\"",
             "\\.\"...C'est bon.\"",
             "\\.\\C[4](Keiji...)",
             "\"Oui...!\"",
             "\\.\"Bahaha...\"",
             "\"Quoi, qu'est-ce qu'il y a...?\"",
-            "\\.\"Toujours sous pression, hein, Sara?\"",
+            "\\.\"Tu mets toujours la pression, hein, Sara ?\"",
             "\\C[3]Et silencieusement, l'ascenseur s'est arrêté.",
             "\\.\\C[4](... On dirait que nous sommes arrivés sans encombre.)",
-            "\\.\"...Hey. Ça fait un bail.\"\n\nJe sais pas si \"Hey\" est utilisé en fr.\nVu que c'est Q-Taro j'ai essayé avec \"Salut/'Slut\"\nà la place mais ça rend pas bien je trouve",
-            "\\.\"Vous êtes arrivés en toute sécurité... Tant mieux.\"",
+            "\\.\"... Yo. Ça fait une paye.\"",
+            "\\.\"Ouf... Vous êtes bien arrivés, vous aussi.\"",
             "\\.\"Quel soulagement !\"",
-            "\\.\"Si seulement quelque chose était arrivé, hein... ?\"",
+            "\\.\"Dommage qu'il ne se soit rien passé, hein...?\"",
             "\\.\"Les gars, \\N[4] est peut-être à cet étage.\n Soyez prudents...\"",
             "\\.\"D'accord...!\""
         ],
@@ -34958,7 +34958,7 @@
             "\\.\"Dans ce cas... On se revoit dans l'autre partie !\""
         ],
         "1-2-choice": [
-            "D'accord...!\nQu'est ce qui est ok?"
+            "D'accord...!\nQu'est-ce qui est bon ?"
         ]
     },
     "map196": {
@@ -40921,14 +40921,14 @@
             "\\.\"D'accord...!\""
         ],
         "3-6-message": [
-            "\"Ok, tout le monde! Montez vite!\"",
+            "\"C'est bon, tout le monde ! Montez vite !\"",
             "\\.\"...\n ...\n ...\"",
             "\\.\"Ça... c'est vraiment bizarre !\"",
             "\\.\"Ça, c'est peut-être un piège destiné\n à attirer Kanna et les autres...?!\"",
             "\\.\"Ça me semble vraiment bizarre...\"",
             "\"Ça, ce serait peut-être un piège\n destiné à tous nous attirer ici...?\"",
             "\\.\"Pourquoi est-ce que tu dis ça ? Croyons en Keiji !\"",
-            "\\.\"on pourrait toujours ne pas y aller...\n On n'a pas non plus trouvé Q-taro ...\"",
+            "\\.\"Ne pas y aller, c'est aussi une option...\n Vu qu'on a pas trouvé Q-taro non plus...\"",
             null,
             null,
             "\\.\\C[4](...\n ...\n ...)"
@@ -42552,7 +42552,7 @@
             "\\.\"J'en vois deux.\"",
             "\\.\\C[4](Et l'une des deux... est Rillante ?)",
             "\\.\\C[3]Je les entends discuter à voix basse.",
-            "\"Est-ce que tu les laissés s'échapper...?\"",
+            "\"Tu les as laissés s'échapper...?\"",
             "\"Mes excuses...\"",
             "\\.\"...?\n La clé qui était posée ici, elle...\"",
             "\"N'est plus là...?\n Haaa... Sérieusement, laisse tomber.\"",
@@ -42989,7 +42989,7 @@
             "\\C[3]J'aperçois l'entrée du premier étage."
         ],
         "12-1-message": [
-            "\\C[3]De grands escaliers menant à l'étage."
+            "\\C[3]Un grand escalier qui monte."
         ]
     },
     "items-54": {
