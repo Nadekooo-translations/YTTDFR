@@ -36271,17 +36271,17 @@
             "\\C[3]J’ai inséré la carte d’identité dans la machine.",
             "\\sw[324]\\{\"N’utilisez pas ça...!!\"\\}\\sw[325]",
             "\\.\"Hein ?!\"",
-            "\\.\\sw[324]\"Cette carte... est un faux!!\"\\sw[325]",
+            "\\.\\sw[324]\"Cette carte... est une fausse !!\"\\sw[325]",
             "\\.\\sw[324]\"Éloignez-vous !! C’est un piège...!!\"\\sw[325]",
             "\\C[4](...?)",
             "\\.\\C[3]De nombreux visages souriants sont affichés.",
-            "\\.\\sw[324]\"Argh...! Qu’est-ce que c’est que ça ?!\n Faites les disparaître !\"\\sw[325]",
-            "\"... C’est tout ?\"",
+            "\\.\\sw[324]\"Argh...! Qu’est-ce que c’est que ça ?!\n Faites-les disparaître !\"\\sw[325]",
+            "\"... Quoi, c’est tout ?\"",
             "\"... C’est tout...?\"",
             "\\.\"Ouf... On dirait que c’était un piège inoffensif...\"",
-            "\\.\\C[3]J’ai sorti la carte d’identité et je l’ai posée.",
+            "\\.\\C[3]J’ai sorti la carte d’identité, puis je l’ai posée.",
             "\\.\"Une attaque psychologique... Bordel...!\"",
-            "\\.\\C[3]Sou a sorti la carte d’identité et l’a déchirée.",
+            "\\.\\C[3]Sou a sorti la carte d’identité, puis l’a déchirée.",
             "\\.\"...\"",
             "\\.\"C’étaient de belles photos... avec de beaux sourires.\"",
             "\\.\"... gggh...!!\"",
@@ -36293,7 +36293,7 @@
             "\\.\"Mais quand même...\"",
             "\\sw[324]\"N'utilisez pas ça...\"\\sw[325]",
             "\\.\\C[4](L'IA de Sou... non, de Shin...)",
-            "\\.\\sw[324]\"Cette carte est un faux...\n Si vous l’insérez dans la machine,\n cela déclenchera un piège.\"\\sw[325]",
+            "\\.\\sw[324]\"Cette carte est fausse...\n Si vous l’insérez dans la machine,\n cela déclenchera un piège.\"\\sw[325]",
             "\"Alors, on a vraiment failli tomber dans un piège...?!\"",
             "\\.\\C[4](On l’a échappé belle...)",
             "\\.\\C[3]J'ai posé la carte d'identité.",
@@ -36301,7 +36301,7 @@
             "\\.\\C[3]Sou a déchiré la carte d’identité.",
             "\\.\"H-Hé, je ne pense pas qu’il était\n nécessaire de la déchirer...\"",
             "\\sw[324]\"... Je vais parler, si vous voulez...\"\\sw[325]",
-            "\\.\\sw[324]\"Les choses semblent assez\n difficiles pour vous, après tout...\"\\sw[325]"
+            "\\.\\sw[324]\"Les choses semblent déjà assez\n difficiles pour vous, après tout...\"\\sw[325]"
         ],
         "96-1-message": [
             "\\C[3]L'écran affiche « Système de Contrôle des Pantins ».",
@@ -36436,13 +36436,13 @@
             "\\.\\sw[324]\"Qu’est-ce qui leur fait mal...?\n Qu’est-ce qui les fait souffrir...?\"\\sw[325]",
             "\\.\\sw[324]\"Qu’est-ce qui leur cause une douleur physique...?\n Qu’est-ce qui leur cause une douleur mentale...?\"\\sw[325]",
             "\\.\\sw[324]\"Qu’apprennent-ils... ? De quoi se souviennent-ils... ?\n Qu’oublient-ils... ?\"\\sw[325]",
-            "\\.\\sw[324]\"Il jouait avec les humains avec qu'il connaissait...\n jusqu’à ce qu’il les épuise, semble-t-il...\"\\sw[325]",
+            "\\.\\sw[324]\"Il jouait avec les humains qu'il connaissait...\n jusqu’à ce qu’il les épuise, semble-t-il...\"\\sw[325]",
             "\"H-Hé... T’es sérieux ?!\"",
             "\"H... Hé ! Tu es vraiment sérieux ?!\"",
             "\\sw[324]\"Jour après jour...\n il faisait de nombreux humains ses cobayes.\"\\sw[325]",
             "\\.\\sw[324]\"En faisant cela... il semble qu’il ait appris\n des techniques pour manipuler la mémoire...\"\\sw[325]",
             "\"C'est possib', un truc pareil ?!\"",
-            "\\.\\sw[324]\"Cela ne semble pas facile, bien sûr, mais...\"\\sw[325]",
+            "\\.\\sw[324]\"Ce n'est pas une tâche aisée, bien sûr, mais...\"\\sw[325]",
             "\\.\\sw[324]\"Avec les conditions et l'équipement adéquats...\n c'est possible dans une certaine mesure...\"\\sw[325]",
             "\\.\\C[4](...)",
             "\\.\"Si nos souvenirs disparaissaient...\n comment on s’en souviendrait, ouaf ?\"",
@@ -36458,20 +36458,20 @@
             "\\.\\sw[324]\"... Ne dites à personne que je vous l’ai dit,\n d’accord...?\"\\sw[325]",
             "\\.\\sw[324]\"C’était il y a quelque temps, mais...\n Hiyori sifflait en travaillant sur une machine...\"\\sw[325]",
             "\\.\\sw[324]\"Ses yeux brillaient, comme s’il se disait :\n « Je me demande si tout le monde s’amuse bien ? »\"\\sw[325]",
-            "\\.\\sw[324]\"C’est alors que \\C[2]Mme Maple\\C[0] est arrivée. »\\sw[325]",
+            "\\.\\sw[324]\"C’est alors que \\C[2]Mme Maple\\C[0] est arrivée.\"\\sw[325]",
             "\\.\"Maple...?\"",
-            "\\.\\sw[324]\"Mme Maple a crié, pleuré et ri...\"\\sw[325]",
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
-            null,
+            "\\.\\sw[324]\"Mme Maple a crié, pleuré, et ri...\"\\sw[325]",
+            "\\.\\sw[324]\"Et elle le supplia, en lui disant qu'elle\n voulait être avec lui pour toujours.\"\\sw[325]",
+            "\\.\\sw[324]\"Il semble que même Hiyori a dû céder...\"\\sw[325]",
+            "\\.\\sw[324]\"Il écrivit donc une lettre à contrecœur.\"\\sw[325]",
+            "\\.\\sw[324]\"Mais même après lui avoir donné,\n Mme Maple ne voulait pas partir...\"\\sw[325]",
+            "\\.\\sw[324]\"N'ayant donc pas d'autre choix,\n il lui a donné sa carte d'identité.\"\\sw[325]",
+            "\\.\"Alors, \\C[2]Maple\\C[0] a la carte d'identité maintenant...?\"",
+            "\\.\"Est-ce qu'elle nous la donnerait...?\"",
+            "\\.\\sw[324]\"Ahaha... Je pense que c'est impossible.\"\\sw[325]",
+            "\\.\\sw[324]\"Elle va sûrement se fâcher... Puis vous tuer.\n Vous feriez mieux d'abandonner cette idée...\"\\sw[325]",
+            "\\C[4](Ça a l'air plutôt dangereux...)",
+            "\\C[4](Bon, on lui a posé toutes les questions possibles...)",
             null,
             null,
             null,
@@ -36522,11 +36522,11 @@
         ],
         "96-2-choice": [
             "Examiner\nAnnuler",
-            "À propos de l’autonomie de la batterie\nÀ propos des pièces de mise à niveau\nPréférences\nAnnuler"
+            "À propos de l’autonomie de la batterie\nÀ propos des pièces de mise à niveau\nÀ propos de ses préférences\nAnnuler"
         ],
         "96-1-choice": [
             "Examiner\nAnnuler",
-            "À propos de l’autonomie de la batterie\nÀ propos des pièces de mise à niveau\nPréférences\nAnnuler"
+            "À propos de l’autonomie de la batterie\nÀ propos des pièces de mise à niveau\nÀ propos de ses préférences\nAnnuler"
         ],
         "107-1-choice": [
             "Examiner\nAnnuler",
@@ -37543,7 +37543,7 @@
         ],
         "12-3-message": [
             "\\C[3]Il y a un formulaire de consentement douteux\naccroché au tableau.",
-            "\\.\\C[4](Comme si j'allais signer ça...)"
+            "\\.\\C[4](Comme si j'allais signer un truc pareil...)"
         ],
         "12-4-message": [
             "\\C[3]Il y a un formulaire de consentement douteux\naccroché au tableau."
