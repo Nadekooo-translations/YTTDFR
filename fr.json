@@ -14388,7 +14388,7 @@
             "\\.\"Tout va bien ?! Et Gin, aussi...!\"",
             "\\C[6]\"Euh... Allô ? Vous me recevez...?\"",
             "\"\\N[4]...?!\"",
-            "\\C[6]\"Désolééé ! Le piège de cette salle, là...\n C’était pour une exécution, en fait...\"",
+            "\\C[6]\"Désooolé ! Le piège des vestiaires, là...\n C’était pour une exécution, en fait...\"",
             "\\.\\C[6]\"Je n’avais pas prévu de m’en servir,\n mais on dirait qu'il a dysfonctionné.\"",
             "\\.\\C[6]\"J’ai fait au plus vite pour l’arrêter, mais...\n Est-ce qu'ils sont tous les deux sains et saufs ?\"",
             "\"Gin... s'est évanoui...\"",
@@ -35216,6 +35216,7 @@
             "\\.\"...\""
         ],
         "106-3-message": [
+            "\"Les vestiaires... celui du milieu, à gauche...\n Le mot de passe, c'est 1620...\"",
             null,
             null,
             null,
@@ -35247,8 +35248,7 @@
             null,
             null,
             null,
-            null,
-            null,
+            "\"Dans les vestiaires...\n vérifie... \\C[2]celui du milieu, à gauche\\C[0]...\"",
             "\\.\"Le mot de passe... est 1620...\"",
             null,
             "\\.\\SP[12]\"...\n ...\n ...\"",
@@ -35259,7 +35259,8 @@
             "\\.\"...\"",
             null,
             null,
-            "\\.\"...\""
+            "\\.\"...\"",
+            "\\.\"Allons... aux vestiaires.\n Il faut qu'on trouve quelque chose !\""
         ],
         "106-4-message": [
             null,
@@ -35358,7 +35359,7 @@
         ],
         "89-1-message": [
             "\\C[3]Une peinture représentant un paysage.",
-            "\\.\\C[4](Je crois qu’il y a aussi une peinture d’une école\n dans la salle des casiers...)",
+            "\\.\\C[4](Je crois qu’il y a aussi une peinture\n d’une école dans les vestiaires...)",
             "\"Trop haut pour vérifier... Qu'est-ce qu'on fait ?\"",
             "\\.\\C[4](Hmm...)",
             "\"Trouvons quelque chose sur lequel on peut monter...\n Tiens, il y a ces canapés, juste ici.\"",
@@ -35679,7 +35680,7 @@
     },
     "map198": {
         "62-1-message": [
-            null,
+            "\\C[3]Quand je suis arrivé aux vestiaires,\n j'ai aperçu quelque chose avant même d'y entrer.",
             null,
             null,
             null,
@@ -35707,8 +35708,8 @@
             null,
             null,
             null,
-            null,
-            null,
+            "\"Ils s'en sont pris à Reko, qui était\n seule dans les vestiaires...!\"",
+            "\"Ils s'en sont pris à Alice, qui était\n seule dans les vestiaires...!\"",
             null,
             null,
             null,
@@ -35842,7 +35843,7 @@
         ],
         "2-1-message": [
             "\\.\"...!\"",
-            "\\.\"C'est des casiers, miaou ?\"",
+            "\\.\"C'est des vestiaires, miaou ?\"",
             "\\.\"C'est louche, c't'endroit, j'vous l'dis...\"",
             "\\.\"... Sois prudente lorsque tu cherches par ici, Sara.\"",
             "\\.\"Hein...? D-D'accord !\""
@@ -36472,10 +36473,17 @@
             "\\.\\sw[324]\"Elle va sûrement se fâcher... Puis vous tuer.\n Vous feriez mieux d'abandonner cette idée...\"\\sw[325]",
             "\\C[4](Ça a l'air plutôt dangereux...)",
             "\\C[4](Bon, on lui a posé toutes les questions possibles...)",
-            null,
-            null,
-            null,
-            "\\.\"...\""
+            "\\.\\sw[324]\"Ah oui... à propos de Mme Maple.\"\\sw[325]",
+            "\\.\\sw[324]\"Il y a peut-être un livre qui explique\n comment la vaincre à la \\C[2]bibliothèque\\C[0]...\"\\sw[325]",
+            "\\.\"On doit encore s'battre...?\"",
+            "\\.\"...\"",
+            "\\.\\sw[324]\"... Si vous pouviez obtenir une mise à niveau...\"\\sw[325]",
+            "\\.\"Hm...?\"",
+            "\\.\"... Pardon ?\"",
+            "\\.\\sw[324]\"Oh... ce n'est rien.\"\\sw[325]",
+            "\\.\\sw[324]\"Je vous ai prévenu... alors ne m'en voulez pas...\"\\sw[325]",
+            "\\C[4](Ah...)",
+            "\\.\\C[4](Il n'y a pas d'autre choix.\n On va devoir trouver une solution pour Maple...)"
         ],
         "107-1-message": [
             "\\C[3]L'écran affiche\n« Système de Contrôle des Colliers de Défunts ».",
@@ -36696,6 +36704,27 @@
             "\\C[3]Les moniteurs n'affichent rien."
         ],
         "89-5-message": [
+            "\\sw[324]\"Je vais voir s'il y a un moyen de\n contrôler l'ascenseur depuis l'ordinateur.\"\\sw[325]",
+            "\\.\\sw[324]\"Allez chercher le chargeur dans les vestiaires !\"\\sw[325]",
+            "\\sw[324]\"Tout le monde est prêt...? Écoutez...\"\\sw[325]",
+            "\\.\\sw[324]\"Il... y a un moyen de garder Kurumada en vie.\"\\sw[325]",
+            "\\.\"Quoi...!!\"",
+            "\\.\"Comment ça ?! Dis-nous...!\"",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\"...\n ...\n ...\"",
             null,
             null,
             null,
@@ -36711,12 +36740,9 @@
             null,
             null,
             null,
+            "\"Et dans les vestiaires, alors ?\"",
             null,
-            null,
-            null,
-            null,
-            null,
-            "\"...\n ...\n ...\""
+            "\\.\"Non, pas la pièce.\n Je veux dire \\C[2]ce qu'il y a dans les casiers\\C[0].\""
         ],
         "89-7-message": [
             null,
@@ -36907,6 +36933,9 @@
         "93-3-choice": [
             "OK, allons-y\nC'est trop louche",
             "C’étaient de belles photos\n... Où est la vraie carte d’identité ?"
+        ],
+        "89-5-choice": [
+            "Au poste de police\nÀ la salle de classe\nÀ la bibliothèque\nDans les vestiaires"
         ]
     },
     "map201": {
@@ -37245,7 +37274,14 @@
             null,
             null,
             null,
-            "\\.\"...\n ...\n ...\""
+            "\\.\"...\n ...\n ...\"",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "\"Les vestiaires, à l'étage du dessous !\n Dépêchez-vous...!!\""
         ],
         "3-1-message": [
             "\"Salut, Sara. J'ai une bonne nouvelle.\"",
@@ -44153,6 +44189,9 @@
             null,
             null,
             "\\.\"...\n ...\n ...\""
+        ],
+        "13-2-message": [
+            "\\C[3]Au-delà des casiers, un passage\n mène à la salle de recharge."
         ]
     },
     "map178": {
