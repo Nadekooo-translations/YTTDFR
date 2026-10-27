@@ -41380,7 +41380,8 @@
             "\\.\"Tout ce qu'on a, c'est un nom ! Nngh...\"",
             "\\.\\C[4](Même avec juste un nom...\n Quelqu'un me vient à l'esprit.)",
             "\\C[4](Cette fille dans la \\C[2]Salle de Discussion\\C[4]...)",
-            "\\.\\C[4](Elle n'avait pas l'air d'une\n Obstructrice violente, mais...)"
+            "\\.\\C[4](Elle n'avait pas l'air d'un\n Obstructeur violent, mais...)",
+            "\\C[4](Je suppose... il ne nous reste plus qu'à aller voir.)"
         ],
         "4-2-choice": [
             "Insérer dans l'espace\nAnnuler"
@@ -41437,6 +41438,18 @@
         ],
         "5-1-choice": [
             "Y aller\nAnnuler"
+        ],
+        "4-5-message": [
+            "\\C[3]Il y a un espace entre les livres."
+        ],
+        "4-6-message": [
+            "\\C[3]Il y a un espace entre les livres."
+        ],
+        "4-8-message": [
+            "\\C[3]Il y a un espace entre les livres."
+        ],
+        "4-9-message": [
+            "\\C[3]Il y a un espace entre les livres."
         ]
     },
     "map206": {
@@ -41530,14 +41543,14 @@
         ],
         "3-7-message": [
             "\\C[3]La porte est solidement fermée.",
-            "\\.\\C[4](Maple...\n Si mon hypothèse est bonne, elle est là-dedans...)",
-            "\\C[4](Je dois m'y préparer...)",
+            "\\.\\C[4](Maple...\n Si mon hypothèse est juste, elle est là-dedans...)",
+            "\\C[4](Je dois d'abord me préparer...)",
             "\\C[4](Tant que j'y pense, Shin a mentionné un livre\n de la bibliothèque sur comment battre Maple...)",
             "\"Sara... Me dis pas... qu'elle est là...?\"",
             "\"Hé, attends, ne me dis pas... qu'elle est là...?\"",
             "\\.\"Si...\"",
-            "\\.\"Z'te porte est ouverte, même...?\"",
-            "\\.\\C[4](Oh, c'est vrai, aucun d'eux ne sait...)",
+            "\\.\"Elle s'ouvre, c'te porte, même...?\"",
+            "\\.\\C[4](Oh, c'est vrai, aucun d'eux n'est au courant...)",
             "\\.\"Cette porte s'ouvre si une paire se tient la main.\"",
             "\\.\"Ouah...! Une méthode mignonne qui te fait palpiter !\"",
             "\\.\"Sérieux...?\"",
@@ -41558,13 +41571,13 @@
             "\\.\"Pourquoi, ouaf ?!\"",
             "\\.\"Hmm...\n J'me demande si seulement \\C[2]une paire\\C[0] peut entrer...\"",
             "\\.\"Eh ?!\n Alors on doit se battre qu'avec deux personnes...?\"",
-            "\\.\"Non, on devrait avoir une discussion avec elle\n afin qu'elle nous remette la carte d'identification.\"",
-            "\\.\"En d'autres termes, on doit lui voler la carte\n d'identification avec seulement deux personnes...\"",
-            "\\.\"Non, on devrait avoir une discussion avec elle\n afin qu'elle nous remette la carte d'identification.\"",
+            "\\.\"Non, on devrait avoir une discussion avec elle\n afin qu'elle nous remette la carte d'identité.\"",
+            "\\.\"En d'autres termes, on doit lui voler la carte\n d'identité avec seulement deux personnes...\"",
+            "\\.\"Non, on devrait avoir une discussion avec elle\n afin qu'elle nous remette la carte d'identité.\"",
             "\\.\"Merde... Bon, qui s'y colle ?\"",
             "\\.\"Mais... qui va y aller ?\"",
             "\\.\"Qui voudrait faire quelque chose d'aussi dangereux...?\"",
-            "\\.\"On va y entrer.\"",
+            "\\.\"On va y aller.\"",
             "\\.\\C[4](Ranmaru...)",
             "\"... Nous n'avons pas d'autre choix, j'imagine.\"",
             "\\.\"On l'a déjà rencontrée...\n Elle devrait être moins méfiante à notre égard.\"",
@@ -41576,7 +41589,20 @@
             "\\.\"C'est Sara qui a le plus envie\n de sauver Keiji, pas vrai ?\"",
             "\\.\"Mieux vaut pas avoir de regrets...\"",
             "\\.\"En effet...\"",
-            "\\.\"Ça roule... on compte sur vous.\n Si ça chauffe, sortez d'là sans hésiter !\""
+            "\\.\"Ça roule... on compte sur vous.\n Si ça chauffe, sortez d'là sans hésiter !\"",
+            "\\.\"Tch ! C'est toujours pareil, finalement...\nSi les choses tournent mal, enfuyez-vous !\"",
+            "\\.\"Compris...!\"",
+            "\\C[3]Les autres se sont éloignés de la porte.",
+            "\"Regarde... Ça s'est ouvert.\"",
+            "\\.\\C[4](On doit juste... le faire.)"
+        ],
+        "3-7-choice": [
+            "Entrer dans la pièce\nAnnuler",
+            "Pas d'autre choix\nBonne chance"
+        ],
+        "49-1-message": [
+            "\"Nnghh...!\"",
+            "\\.\"Qu'est-ce que vous faites ?! Dépêchez-vous !\""
         ]
     },
     "map207": {
