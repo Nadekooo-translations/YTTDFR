@@ -36428,16 +36428,16 @@
             "\\.\"C'est un chercheur...?\"",
             "\\.\"Un chercheur, miaou ?\"",
             "\\.\\sw[324]\"Eh bien... depuis qu’il est petit... euh...\"\\sw[325]",
-            "\\.\\sw[324]\"Il aimait vraiment... \\C[2]les humains\\C[0]...\"\\sw[325]",
-            "\\.\"Que...?\"",
+            "\\.\\sw[324]\"Il aime vraiment... \\C[2]les humains\\C[0]...\"\\sw[325]",
+            "\\.\"Quoi...?\"",
             "\\.\"Comment...?\"",
-            "\\.\\sw[324]\"Il les aimait tellement... que, euh...\"\\sw[325]",
-            "\\.\\sw[324]\"Il les brisait, apparemment...\"\\sw[325]",
+            "\\.\\sw[324]\"Il les aime tellement... qu'il, euh...\"\\sw[325]",
+            "\\.\\sw[324]\"Qu'il les brisait, apparemment...\"\\sw[325]",
             "\\.\"Mia ?!\"",
             "\\.\\sw[324]\"Qu’est-ce qui leur fait mal...?\n Qu’est-ce qui les fait souffrir...?\"\\sw[325]",
             "\\.\\sw[324]\"Qu’est-ce qui leur cause une douleur physique...?\n Qu’est-ce qui leur cause une douleur mentale...?\"\\sw[325]",
-            "\\.\\sw[324]\"Qu’apprennent-ils... ? De quoi se souviennent-ils... ?\n Qu’oublient-ils... ?\"\\sw[325]",
-            "\\.\\sw[324]\"Il jouait avec les humains qu'il connaissait...\n jusqu’à ce qu’il les épuise, semble-t-il...\"\\sw[325]",
+            "\\.\\sw[324]\"Qu’apprennent-ils...? De quoi se souviennent-ils...?\n Qu’oublient-ils...?\"\\sw[325]",
+            "\\.\\sw[324]\"Il jouait avec les humains qu'il connaissait...\n jusqu’à ce qu’ils meurent, semble-t-il...\"\\sw[325]",
             "\"H-Hé... T’es sérieux ?!\"",
             "\"H... Hé ! Tu es vraiment sérieux ?!\"",
             "\\sw[324]\"Jour après jour...\n il faisait de nombreux humains ses cobayes.\"\\sw[325]",
@@ -37612,7 +37612,7 @@
         ],
         "17-1-message": [
             "\"Hein ? Où est passé \\N[4]...?\n J’aurais juré qu’il était là...\"",
-            "\\.\"Argh, allez !\n On a besoin de cette carte d’identité...!\""
+            "\\.\"Rah, allez !\n On a besoin de cette carte d’identité...!\""
         ],
         "19-1-message": [
             "\\C[3]Il y a quelque chose sur le bureau.",
@@ -37621,7 +37621,7 @@
             "\\C[4](Ça...!)",
             "\\C[3]Carte d'identité obtenue.",
             "\\.\"Sérieusement ?! C’est pas ça ?!\"",
-            "\\.\"Qu’est-ce qui se passe...?\n Il est parti ailleurs en laissant ses affaires ici ?\"",
+            "\\.\"Qu’est-ce qu'il se passe...?\n Il est parti en laissant ses affaires ici ?\"",
             "\\.\"C’est étrange, n’est-ce pas...?\"",
             "\\.\"... Bizarre...\"",
             "\\C[4](C’est curieux... Hmm...)"
