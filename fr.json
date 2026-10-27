@@ -41368,11 +41368,19 @@
         ],
         "4-4-message": [
             "\\C[3]Les livres verts sont impeccablement alignés.",
-            "\\.\"C’est ce livre.\n Celui où ils ont noté le talon d’Achille de Maple.\"",
+            "\\.\"C'est celui-là.\n Le livre qui mentionne la faiblesse de Maple.\"",
             "\\C[3]Livre Vert obtenu.",
-            null,
-            null,
-            "\\C[3]Tous les Livres Verts ont été obtenus."
+            "\"Est-ce qu'un seul suffira ?\n Autant tous les prendre.\"",
+            "\"Hmph... Pourquoi s'arrêter à un seul ?\n Pourquoi ne pas tous les prendre tant qu'on y est ?\"",
+            "\\C[3]Tous les Livres Verts ont été obtenus.",
+            "\"L'escalier-bibliothèque s'est refermé, miaou !\"",
+            "\\.\"D-Dangereux... Si quelqu'un avait été\n pris là-dedans, ça l'aurait tué sur le coup.\"",
+            "\\.\"Il ne nous reste plus qu'à savoir où elle se trouve...\"",
+            "\\.\"Maintenant, j'aimerais juste savoir où elle est...\"",
+            "\\.\"Tout ce qu'on a, c'est un nom ! Nngh...\"",
+            "\\.\\C[4](Même avec juste un nom...\n Quelqu'un me vient à l'esprit.)",
+            "\\C[4](Cette fille dans la \\C[2]Salle de Discussion\\C[4]...)",
+            "\\.\\C[4](Elle n'avait pas l'air d'une\n Obstructrice violente, mais...)"
         ],
         "4-2-choice": [
             "Insérer dans l'espace\nAnnuler"
