@@ -17013,7 +17013,31 @@
             "\\.\\C[4](Huh...?)",
             "\\.\"Hein ? Je sens qu'il y a du monde derrière la porte...\"",
             "\\.\"Vos amis vous attendent dehors...?\"",
-            "\\.\"Ah...\""
+            "\\.\"Ah...\"",
+            "\\.\"Désolé pour cette longue conversation.\n J'espère qu'on pourra se reparler !\"",
+            "\\.\"Ah... Attends... La carte d'identité...\"",
+            "\\.\\C[3]Maple range la vaisselle.",
+            "\\.\\C[4](Oh là là...! Qu'est-ce qu'on fait ?!)",
+            "\"Sara...\"",
+            "\\.\"Regarde le dos de Maple...\"",
+            "\"La carte d'identité !\"",
+            "\"C'est notre seule chance de la saisir...!\"",
+            "\"...!\"",
+            "\\C[3]Je m'avança vers Maple.",
+            "\"Je ne peux pas...! Elle va me remarquer !\"",
+            "\"Pourquoi tu te dégonfles, Sara ?!\n Regarde...!\"",
+            "\"Arrête ! Ranmaru...!\"",
+            "\"... Quoi ?\"",
+            "\\.\"Ah, hum...!\"",
+            "\\.\"... Tu es en train de penser\n à quelque chose de méchant...?\"",
+            "\\.\"N-Non, c'est pas...!!\"",
+            "\\.\"Tch...!\"",
+            "\\.\\C[3]Ranmaru prit la lettre posée sur la table.",
+            "\\.\"S'il te plaît, Maple...!\n Donne-nous la carte d'identité !\"",
+            "\\.\"On en a besoin pour que \\N[4] puisse rédiger\n la suite de cette lettre... d'accord ?\"",
+            "\\.\"Ne touche pas à ça...\"",
+            "\\.\"Hein ?\"",
+            "\\.\"Ne touche pas à la lettre d'Hiyori !!\""
         ],
         "1321-0-message": [
             null,
@@ -25400,7 +25424,7 @@
             "\\.\\C[4](...\n ...\n ...)"
         ],
         "1102-0-message": [
-            null,
+            "\\C[4](C'est le \\C[2]collier de \\N[4]\\C[4]...\n C'est Keiji qui l'a en ce moment.)",
             "\"Ce... collier ?\"",
             "\\.\"Tu parles \\C[2]du collier que \\N[4]\n portait au tout début\\C[0].\"",
             "\\.\\C[4](On l'a récupéré, donc c'est Keiji qui l'a,\n en ce moment même...)",
@@ -25427,6 +25451,17 @@
             null,
             null,
             "Écouter l'enregistrement\nAnnuler"
+        ],
+        "1101-0-choice": [
+            "Camomille\nUn café au lait\nNe pas le boire",
+            "On est devenus amis\nNon, pas du tout\nC'est une relation indescriptible",
+            "Ce n'est pas grand-chose, en fait\nJ'aimerais connaître ton nom\nJ'aimerais parler de quelque chose",
+            "Nous le voulons\nNous ne le voulons pas",
+            "Tu as reçu un cadeau ?\nQuel mauvais goût !\nVous formez un beau couple",
+            "Montre-moi la lettre\nTu as reçu autre chose ?\nLaisse-moi la déchirer !",
+            "Je ne sais pas\nJe ne cherche pas à y arriver",
+            "Une\nDeux\nTrois",
+            "La retirer\nNe pas le faire"
         ]
     },
     "map107": {
@@ -40973,17 +41008,17 @@
             "\"Ça, ce serait peut-être un piège\n destiné à tous nous attirer ici...?\"",
             "\\.\"Pourquoi est-ce que tu dis ça ? Croyons en Keiji !\"",
             "\\.\"Ne pas y aller, c'est aussi une option...\n Vu qu'on a pas trouvé Q-taro non plus...\"",
-            "\\.\"Est ce qu'on devrait ne pas y aller?\n On peut attendre jusqu'à ce qu'on trouve l'Hamburger Cubetaro.\"",
-            "\\.\"Je te l'avais dit, Q-taro va bien ! Pour de vrai \"",
+            "\\.\"Devrions-nous renoncer, après tout ?\n Nous pouvons attendre d'avoir trouvé Cubetaro Hamburger.\"",
+            "\\.\"Je te l'ai dit, Q-taro va bien ! Pour de vrai !\"",
             "\\.\\C[4](...\n ...\n ...)",
-            "\\.\\C[4](...Je suis désolée, tout le monde!)",
-            "\\C[3] Je suis montée dans l'ascenseur toute seule.",
-            null,
-            "\"Hé!! Qu'est ce que tu..?!\"",
-            "\\.\"Promis.. Je reviendrai vite !!\"",
-            "\\C[3]Peut importe à quel point c'est suspicieux..",
-            "\\.\\C[3]Si je peut découvrir quelque chose à propos de Keiji...",
-            "\\.\\C[3] Je veux savoir."
+            "\\.\\C[4](... Je suis désolée, tout le monde !)",
+            "\\C[3]Je monta dans l'ascenseur toute seule.",
+            "\"Sara...?!\"",
+            "\"Hé !! Qu'est ce que tu..?!\"",
+            "\\.\"Promis... Je reviens vite !!\"",
+            "\\C[3]Peu importe à quel point c'est suspect...",
+            "\\.\\C[3]Si je peux découvrir quelque chose à propos de Keiji...",
+            "\\.\\C[3]Je veux savoir."
         ],
         "3-9-message": [
             "\\C[3]L'ascenseur semble fonctionner.",
