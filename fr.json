@@ -42793,7 +42793,8 @@
             "\\C[3]Les livres verts de la bibliothèque.\nIls parlent de la poupée la plus forte, Maple.",
             "\\.\\C[6]Salut la compagnie ! C'est bibi !\nChers participants nationaux du Jeu Mortel,\nvous qui êtes si troublés par les Obstructeurs,\nje vous apporte de bonnes nouvelles !",
             "\\.\\C[6]Eh oui, mesdames et messieurs ! \nAujourd'hui, je vous dévoile la faiblesse de Maple,\nla plus forte des poupées parmi les Obstructeurs !",
-            "\\.\\C[6]C'est le petit espace dans son dos !\nSouvenez-vous-en, et vous pourrez fanfaronner : \n« Les Obstructeurs, on les mange au p'tit-déj ! »"
+            "\\.\\C[6]C'est le petit espace dans son dos !\nSouvenez-vous-en, et vous pourrez fanfaronner : \n« Les Obstructeurs, on les mange au p'tit-déj ! »",
+            "\\C[6]News de dernière minute! Une nouvelle faiblesse a été\ndécouverte à propos de la poupée la plus puissante Maple!"
         ],
         "5-2-choice": [
             "Examiner\nAnnuler"
