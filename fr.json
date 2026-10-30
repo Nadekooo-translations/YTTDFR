@@ -16870,19 +16870,19 @@
             "\"C'est de la camomille.\"",
             "\\.\"Exactement ! Je suis ravie, Sara.\n Tu t'y connais en thé !\"",
             "\\.\"Haha, eh bien...\"",
-            "\\.\\C[3]J'ai bu une gorgée de thé.",
+            "\\.\\C[3]Je bus une gorgée de thé.",
             "\\.\"Bien joué, Sara...\n Continuons comme ça et restons sympas...\"",
             "\"C'est un café au lait.\"",
             "\\.\"Ce n'est pas ça. Tu voulais un café au lait ?\n Désolée, Sara...\"",
             "\\.\"S... Sara ! C'est clairement pas un café au lait !\n Réponds sérieusement, là...!\"",
             "\\.\\C[4](On dirait que mon plan pour\n détendre l'atmosphère a échoué...)",
-            "\\.\\C[3]J'ai bu une gorgée de thé.",
+            "\\.\\C[3]Je bus une gorgée de thé.",
             "\"Non... Je peux pas boire ce truc.\"",
             "\\.\"C'est triste... Tellement triste...\n Je voulais qu'on soit amies, Sara...\"",
-            "\\.\"Sara ! Faut qu'on soit sympa, là...!!\"",
+            "\\.\"Sara ! Faut qu'on soit sympas, là...!!\"",
             "\\.\\C[4](Mgh... Je vais finir par avoir le ventre tout mou...)",
-            "\\.\\C[3]J'ai bu une gorgée de thé.",
-            "\\.\"Tiens, tiens... J'avais une question\n à vous poser, tous les deux...\"",
+            "\\.\\C[3]Je bus une gorgée de thé.",
+            "\\.\"Dites, dites... J'avais une question\n à vous poser, tous les deux...\"",
             "\\.\"Êtes-vous devenus amis ?\n Je serais contente que ce soit le cas...\"",
             "\\.\\C[4](Sommes-nous devenus amis ou pas...?)",
             "\"Oui, on s'entend plutôt bien maintenant.\"",
@@ -16907,7 +16907,7 @@
             "\\.\"Je parie que vous vous sentiez éloignés\n de moi parce que je ne vous ai jamais\n donné mon nom... Je suis désolée...\"",
             "\\.\"Je suis \\C[2]Maple\\C[0]...\n Techniquement, je suis un Obstructeur...\"",
             "\"En fait, je voulais savoir comment tu t'appelles.\n Tu ne nous l'as jamais dit, pas vrai ?\"",
-            "\\.\"Je suis contente ! Alors tu t'intéresses à moi, Sara...\"",
+            "\\.\"Alors tu t'intéresses à moi, Sara...\n Ça me fait plaisir !\"",
             "\\.\"Désolée de ne pas t'avoir dit mon nom tout à l'heure.\"",
             "\\.\"Je suis \\C[2]Maple\\C[0]...\n Techniquement, je suis un Obstructeur...\"",
             "\"En fait... il y a un truc dont j'aimerais te parler !\"",
@@ -16937,7 +16937,7 @@
             "\"Tu as vraiment très mauvais goût.\"",
             "\\.\"C'est horrible de dire ça, Sara...\n Il y a des choses qu'il vaut mieux garder pour soi...\"",
             "\\.\\C[4](Zut...! Je viens de le dire sans réfléchir !!)",
-            "\\.\"O-On se fiche de ce que les autre pensent, non ?!\n L'amour, euh... c'est juste comme ça... pas vrai...?\n \\}Enfin je crois...?\\{\"",
+            "\\.\"O-On se fiche de ce que les autres pensent, non ?!\n L'amour, euh... c'est juste comme ça... pas vrai...?\n \\}Enfin je crois...?\\{\"",
             "\\.\"Je suppose que c'est vrai... Merci, Ranmaru.\"",
             "\\.\"Je suis la seule à comprendre Hiyori...\n Ce gentil Hiyori, qui m'a donné cette lettre...\"",
             "\\.\\C[4](Une lettre...)",
@@ -17002,7 +17002,7 @@
             "\\.\"Mais pour l'instant, nous sommes dans une phase bonus,\n avec des règles spéciales.\"",
             "\\.\"Donc, si vous survivez en tant que paire,\n vous pouvez gagner en tant que paire.\"",
             "\\.\"...!!\"",
-            "\\.\"Je serais plus heureuse ainsi.\n Je veux que Hiyori vive.\"",
+            "\\.\"Je serais plus heureuse ainsi.\n Je veux qu'Hiyori vive.\"",
             "\\.\"Je veux que tu gagnes, Sara.\"",
             "\\.\"...\n ...\n ...\"",
             "\\.\"...\"",
@@ -17016,7 +17016,7 @@
             "\\.\"Ah...\"",
             "\\.\"Désolé pour cette longue conversation.\n J'espère qu'on pourra se reparler !\"",
             "\\.\"Ah... Attends... La carte d'identité...\"",
-            "\\.\\C[3]Maple range la vaisselle.",
+            "\\.\\C[3]Maple se mit à ranger la vaisselle.",
             "\\.\\C[4](Oh là là...! Qu'est-ce qu'on fait ?!)",
             "\"Sara...\"",
             "\\.\"Regarde le dos de Maple...\"",
@@ -42784,7 +42784,7 @@
     },
     "map216": {
         "5-2-message": [
-            null,
+            "\\C[3][Manuel d'utilisation de Maple]\nIl explique qu'il faut \\C[2]attendre que son niveau\nd'amitié soit élevé\\C[3] pour \\C[2]se réconcilier\\C[3].",
             "\\C[6]La Poupée la plus forte, Maple, est une fille solitaire.",
             "\\.\\C[6]Vous ne devriez pas la bousculer. L'important,\nc'est de sympathiser avec elle et d'être son ami.",
             "\\.\\C[6]Comprendre ses émotions et\ndevenir un bon ami est la clé à la paix."
@@ -42794,9 +42794,10 @@
             "\\.\\C[6]Salut la compagnie ! C'est bibi !\nChers participants nationaux du Jeu Mortel,\nvous qui êtes si troublés par les Obstructeurs,\nje vous apporte de bonnes nouvelles !",
             "\\.\\C[6]Eh oui, mesdames et messieurs ! \nAujourd'hui, je vous dévoile la faiblesse de Maple,\nla plus forte des poupées parmi les Obstructeurs !",
             "\\.\\C[6]C'est le petit espace dans son dos !\nSouvenez-vous-en, et vous pourrez fanfaronner : \n« Les Obstructeurs, on les mange au p'tit-déj ! »",
-            "\\C[6]News de dernière minute! Une nouvelle faiblesse a été\ndécouverte à propos de la poupée la plus puissante Maple!",
-            "\\.\\C[6]La clé est le lien entre ses émotions et ses couleurs!\nRouge c'est la colère, bleu la tristesse, jaune la joie!\nWOAW!",
-            "\\.\\C[6]Savoir c'est déjà la moitié de la bataille!\nSouvenez-vous-en, et vous pourrez fanfaronner :\n\"Les Obstructeurs, on les mange au déjeuner!\""
+            "\\C[6]News de dernière minute ! Une nouvelle faiblesse a été\ndécouverte à propos de la poupée la plus forte, Maple!",
+            "\\.\\C[6]La clé est le lien entre ses émotions et ses couleurs !\nRouge c'est la colère, bleu la tristesse, jaune la joie !\nWOW !",
+            "\\.\\C[6]Savoir, c'est déjà la moitié du chemin !\nSouvenez-vous-en, et vous pourrez fanfaronner :\n« Les Obstructeurs ? Même pas peur ! »",
+            "\\C[6]Le secret est dévoilé ! La faiblesse jusqu'alors inconnue\n de Maple, la poupée la plus puissante, est mise à nu !"
         ],
         "5-2-choice": [
             "Examiner\nAnnuler"
@@ -42808,6 +42809,16 @@
         ],
         "10-1-message": [
             "\\C[3][Carte d’identité]\nUne carte d’identité sur laquelle figure le visage de\n\\N[4] (de son vrai nom Sou Hiyori)."
+        ],
+        "3-1-message": [
+            "\"Pas de pitié ! Rendez-la-moi ! Hiyori !!\"",
+            "\\.\"Houlà...! Elle a complètement pété les plombs !\"",
+            "\\.\\C[4](N'avons-nous donc pas d'autre choix\n que de nous battre, au final...?!)",
+            "\\.\"On n'a aucune chance, nous deux !\n Il faut qu'on trouve un moyen de s'échapper...!\"",
+            "\\C[4](Elle va nous tuer si on lui en donne l'occasion...!)"
+        ],
+        "5-1-message": [
+            "\\C[3][Lettre]\nUne lettre que Maple a reçue de \\N[4].\nLe simple fait de la toucher la met hors d'elle."
         ]
     },
     "map52": {
