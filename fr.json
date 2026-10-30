@@ -40979,7 +40979,8 @@
             "\\.\\C[4](...Je suis désolée, tout le monde!)",
             "\\C[3] Je suis montée dans l'ascenseur toute seule.",
             null,
-            "\"Hé!! Qu'est ce que tu..?!\""
+            "\"Hé!! Qu'est ce que tu..?!\"",
+            "\\.\"Promis.. Je reviendrai vite !!\""
         ],
         "3-9-message": [
             "\\C[3]L'ascenseur semble fonctionner.",
