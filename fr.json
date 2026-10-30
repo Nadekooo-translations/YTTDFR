@@ -42793,13 +42793,13 @@
             "\\C[3]Les livres verts de la bibliothèque.\nIls parlent de la poupée la plus forte, Maple.",
             "\\.\\C[6]Salut la compagnie ! C'est bibi !\nChers participants nationaux du Jeu Mortel,\nvous qui êtes si troublés par les Obstructeurs,\nje vous apporte de bonnes nouvelles !",
             "\\.\\C[6]Eh oui, mesdames et messieurs ! \nAujourd'hui, je vous dévoile la faiblesse de Maple,\nla plus forte des poupées parmi les Obstructeurs !",
-            "\\.\\C[6]C'est le petit espace dans son dos !\nSouvenez-vous-en, et vous pourrez fanfaronner : \n« Les Obstructeurs, on les mange au p'tit-déj ! »",
+            "\\.\\C[6]C'est le petit espace dans son dos !\nSouvenez-vous-en, et vous pourrez fanfaronner : \n« Les Obstructeurs, même pas peur ! »",
             "\\C[6]News de dernière minute ! Une nouvelle faiblesse a été\ndécouverte à propos de la poupée la plus forte, Maple!",
             "\\.\\C[6]La clé est le lien entre ses émotions et ses couleurs !\nRouge c'est la colère, bleu la tristesse, jaune la joie !\nWOW !",
-            "\\.\\C[6]Savoir, c'est déjà la moitié du chemin !\nSouvenez-vous-en, et vous pourrez fanfaronner :\n« Les Obstructeurs ? Même pas peur ! »",
-            "\\C[6]Le secret est révélé ! La faiblesse jusque là inconnue\nau bataillon de la poupée la plus puissante Maple\nrévélée au grand jour!\"",
-            "\\.\\C[6]\"Quand elle est heureuse, prenez du plaisir ensemble!\"\n\"Quand elle est en colère, écoutez la!\"\n\"Quand elle est triste, montrez lui de la compassion!\"",
-            "\\.\\C[6]Soyez sûr de la traiter en douceur!\nSouvenez-vous-en, et vous pourrez fanfaronner :\n\"Les Obstructeur, on les mange au dîner!\""
+            "\\.\\C[6]Savoir, c'est déjà la moitié du chemin !\nSouvenez-vous-en, et vous pourrez fanfaronner :\n« Les Obstructeurs, on connaît par cœur ! »",
+            "\\C[6]Le secret est dévoilé ! La faiblesse jusque-là inconnue\nau bataillon de la poupée la plus puissante, Maple,\nest révélée au grand jour !\"",
+            "\\.\\C[6]« Quand elle est heureuse, amusez-vous ensemble ! »\n« Quand elle est en colère, écoutez-la ! »\n« Quand elle est triste, soyez gentils ! »",
+            "\\.\\C[6]Veillez à la chouchouter en délicatesse !\nSouvenez-vous-en, et vous pourrez fanfaronner :\n« Pour les Obstructeurs, c'est nous les meilleurs ! »"
         ],
         "5-2-choice": [
             "Examiner\nAnnuler"
@@ -42821,6 +42821,50 @@
         ],
         "5-1-message": [
             "\\C[3][Lettre]\nUne lettre que Maple a reçue de \\N[4].\nLe simple fait de la toucher la met hors d'elle."
+        ],
+        "7-1-choice": [
+            "Lire le tome 1\nLire le tome 2\nLire le tome 3\nAnnuler"
+        ],
+        "9-1-message": [
+            "\\C[3][Mouchoir]\nUn joli mouchoir en dentelle.\nIl dégage un parfum agréable."
+        ],
+        "2-1-message": [
+            "\\C[3]Maple est en colère.",
+            "\\.\"C'est si méchant !!\n Je ne vous le pardonnerai jamais !!\"",
+            "\"D-Du calme...!\"",
+            "\\C[3]Maple se mit à pleurer.",
+            "\\.\"*sniff*... Pourquoi... C'est odieux...\"",
+            "\"Hein ?!\n Elle s'est mise à pleurer ?!\"",
+            "\\C[3]Maple se mit à rire.",
+            "\\.\"Hihi... Ahaha...\"",
+            "\"Q-Quoi?!\n Mais qu'est-ce qui lui prend ?!\"",
+            "\\C[4](On dirait que Maple est complètement\n déboussolée sur le plan émotionnel...!)",
+            "\\C[3]Maple se mit en colère.",
+            "\\.\"Rends-la-moi ! Rends-la-moi ! Rends-la-moi !!\"",
+            "\"L-Là... Elle est bel et bien en colère...\"",
+            "\\C[3]Maple se mit à pleurer.",
+            "\\.\"*sniff*... Pourquoi... C'est odieux...\"",
+            "\"Je me sens un peu coupable, franchement...\"",
+            "\\C[3]Maple se mit à rire.",
+            "\\.\"Hihi... Ahaha...\"",
+            "\"... C'est là qu'elle fait le plus peur.\"",
+            "\\C[3]Maple se mit en colère.",
+            "\\.\"Ça suffit !! Pas de pitié !! Pas de pitié !!\"",
+            "\"O-Oh là là...! Elle se rapproche !!\"",
+            "\\.\\C[4](Il faut bien qu'on s'en sorte\n d'une manière ou d'une autre...!)",
+            "\\.\\C[4](Maple attaque quand elle est en colère !\n Il faut la surveiller et réagir en conséquence...!)"
+        ],
+        "2-2-message": [
+            "\\C[3]Maple est en colère.",
+            "\\.\"Je ne vous pardonnerai jamais !! Aucun d'entre vous !!\"",
+            "\"C'est tellement intense...\"",
+            "\\C[3]Maple se mit à pleurer.",
+            "\\.\"Vous vous en prenez à moi...\n Vous vous en prenez tous à moi...\"",
+            "\"C'pas notre réplique, ça ?!\"",
+            "\\C[3]Maple se mit à rire.",
+            "\\.\"Hihi, hihihiii.\n Je vais te donner quelque chose de génial, hihi...\"",
+            "\\.\\C[3]Maple sorti un mouchoir d'une étagère.",
+            "\\.\"Tu ne veux pas le prendre ? Hihi.\""
         ]
     },
     "map52": {
@@ -46641,5 +46685,10 @@
     },
     "actors-1": {
         "name": "Sara Chidouin"
+    },
+    "map217": {
+        "2-1-message": [
+            "\\C[3]Le collier de Ranmaru émet un signal sonore d'alerte."
+        ]
     }
 }
