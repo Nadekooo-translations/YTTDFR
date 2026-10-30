@@ -40976,7 +40976,8 @@
             "\\.\"Est ce qu'on devrait ne pas y aller?\n On peut attendre jusqu'à ce qu'on trouve l'Hamburger Cubetaro.\"",
             "\\.\"Je te l'avais dit, Q-taro va bien ! Pour de vrai \"",
             "\\.\\C[4](...\n ...\n ...)",
-            "\\.\\C[4](...Je suis désolée, tout le monde!)"
+            "\\.\\C[4](...Je suis désolée, tout le monde!)",
+            "\\C[3] Je suis montée dans l'ascenseur toute seule."
         ],
         "3-9-message": [
             "\\C[3]L'ascenseur semble fonctionner.",
