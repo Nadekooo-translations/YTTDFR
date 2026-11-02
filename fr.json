@@ -15018,7 +15018,7 @@
             "\"Miaou...?\"",
             null,
             null,
-            "\"Impossible de partir maintenant, non...?\"",
+            "\"Impossible de partir maintenant, tu ne crois pas...?\"",
             "\"...\n ...\n ...\"",
             null,
             null,
@@ -25601,6 +25601,25 @@
         ],
         "1494-0-message": [
             ""
+        ],
+        "1495-0-message": [
+            "\"Dans des moments comme ceux-là, le mieux,\n c'est de se taire et d'écouter !\""
+        ],
+        "1496-0-message": [
+            "\"Hmph ! Pensez un peu à ce qu'elle ressent,\n bande d'imbéciles ! Ça fera bonne impression\n de vous taire et d'écouter !\""
+        ],
+        "1497-0-message": [
+            "\"Bon, je vais lui rendre la lettre ! Ça lui montrera\n qu'on n'a aucune rancune et ça apaisera les tensions !\""
+        ],
+        "1498-0-message": [
+            "\"La clé d'une bonne communication,\n c'est la conversation, n'est-ce pas ?\n Je vais papoter avec elle...\""
+        ],
+        "1499-0-message": [
+            "\"Merde...! J'peux faire quoi, à part lui\n mettre une droite ?! Lui raconter des\n blagues ou un truc comme ça ?!\""
+        ],
+        "1500-0-message": [
+            "\"C'est un joli mouchoir, mais son nom est écrit dessus.\n Remercions-la et rendons-le-lui.\"",
+            "\"Kanna pense qu'on devrait accepter le mouchoir...!\""
         ]
     },
     "map107": {
