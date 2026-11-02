@@ -15018,7 +15018,7 @@
             "\"Miaou...?\"",
             null,
             null,
-            null,
+            "\"On ne peut quand même pas déjà partir, n'est-ce pas... ?\"",
             "\"...\n ...\n ...\"",
             null,
             null,
@@ -25598,6 +25598,9 @@
         ],
         "1493-0-message": [
             "\"Très bien... Je vais observer son comportement !\""
+        ],
+        "1494-0-message": [
+            ""
         ]
     },
     "map107": {
