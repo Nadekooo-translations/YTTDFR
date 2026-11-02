@@ -16865,7 +16865,7 @@
         "1101-0-message": [
             "\"Hihi ! Bon, que diriez-vous d'un thé ?\"",
             "\\.\\C[3]Elle se mit à verser du thé dans les tasses.",
-            "\\.\"Tenez ! Pouvez-vous deviner ce que\n c'est rien qu'à l'odeur ? Hi hi...\"",
+            "\\.\"Tenez ! Pouvez-vous deviner ce que\n c'est rien qu'à l'odeur ? Hihi...\"",
             "\\.\\C[4](Cet arôme fruité, ça doit être...)",
             "\"C'est de la camomille.\"",
             "\\.\"Exactement ! Je suis ravie, Sara.\n Tu t'y connais en thé !\"",
@@ -16897,7 +16897,7 @@
             "\\.\"Ranmaru, tu l'as recraché... Tu n'aimes pas le thé...?\"",
             "\\.\"N-Non ! Ce sont mes... organes, voilà...\n Ils ont fait un court-circuit...\"",
             "\\.\\C[4](Oh là là ! Et pourtant, on discutait si bien...!)",
-            "\\.\"C... C'était de ma faute ?\"",
+            "\\.\"C... C'est de ma faute, là ?\"",
             "\\.\"Vous vous comportez tous les deux\n de manière un peu étrange...\"",
             "\\.\"Vous semblez nerveux, comme si vous vouliez\n me parler de quelque chose... Je me trompe ?\"",
             "\\.\\C[4](Argh... Faut pas qu'elle se méfie de nous...)",
@@ -16917,7 +16917,7 @@
             "\\.\"Je le savais, c'est toi le...!\n ... Euh, alors, tu t'appelles Maple ?\"",
             "\\.\"Oui ! Ça me fait plaisir que tu\n m'appelles par mon prénom, Ranmaru.\"",
             "\\.\"Tiens, vous deux, est-ce que vous...\"",
-            "\\.\"... Voulez me poser des questions à propos d'Hiyori ?\"",
+            "\\.\"... Voulez que je vous parle d'Hiyori ?\"",
             "\\.\"...!\"",
             "\"Oui... On veut savoir !\"",
             "\\.\"Dis-nous, Maple...!\"",
@@ -16970,7 +16970,7 @@
             "\\.\"Une carte...?\"",
             "\\.\"Oui ! C'est une carte absolument merveilleuse...\n Quand je l'insère, je peux sentir la présence\n d'Hiyori en moi...!\"",
             "\\.\\C[4](Serait-ce la carte d'identité ?!)",
-            "\\.\\C[4](Mais qu'est-ce qu'elle veut dire par \"insérer\"...?)",
+            "\\.\\C[4](Mais qu'est-ce qu'elle veut dire par « insérer »...?)",
             "\\.\"Héhéhé, je m'amuse tellement...\"",
             "\\.\"Désolée de ne parler que de moi.\n J'aimerais en savoir plus sur vous deux.\"",
             "\\.\"Dites, dites, vous deux...\"",
@@ -16996,7 +16996,7 @@
             "\\.\"Dans ce cas, on ne pourrait pas voter.\"",
             "\\.\"Exactement. Il y a donc \\C[2]une règle pour la finale\\C[0].\"",
             "\\.\"Les deux survivants vivent ensemble\n pendant quelque temps...\"",
-            "\\.\"Puis prêtent serment : l'un sera un \\C[2]humain\\C[0],\n et l'autre sera une \\C[2]poupée\\C[0].\"",
+            "\\.\"Puis prêtent serment. L'un sera un \\C[2]humain\\C[0],\n et l'autre sera une \\C[2]poupée\\C[0].\"",
             "\\.\"Ils prennent une décision à l'issue d'une discussion,\n puis mettent fin au rituel.\"",
             "\\.\"C-C'est vrai...?\"",
             "\\.\"Mais pour l'instant, nous sommes dans une phase bonus,\n avec des règles spéciales.\"",
@@ -17011,7 +17011,7 @@
             "\\.\"S... Sara ?\"",
             "\\.\\C[10]\"Pourquoi tu... souris...?\"\\.",
             "\\.\\C[4](Huh...?)",
-            "\\.\"Hein ? Je sens qu'il y a du monde derrière la porte...\"",
+            "\\.\"Ah ? Je sens qu'il y a du monde derrière la porte...\"",
             "\\.\"Vos amis vous attendent dehors...?\"",
             "\\.\"Ah...\"",
             "\\.\"Désolé pour cette longue conversation.\n J'espère qu'on pourra se reparler !\"",
@@ -21847,7 +21847,7 @@
             "\\C[4](Que devrais-je faire...?)"
         ],
         "1490-0-choice": [
-            null,
+            "\\C[2]Se réconcilier\nObserver la situation\nSauvegarder\nAttendre\nAnnuler",
             "Observer la situation\nSauvegarder\nAttendre\nAnnuler"
         ],
         "1443-0-message": [
@@ -25453,7 +25453,7 @@
             "Écouter l'enregistrement\nAnnuler"
         ],
         "1101-0-choice": [
-            "Camomille\nUn café au lait\nNe pas le boire",
+            "De la camomille\nUn café au lait\nNe pas le boire",
             "On est devenus amis\nNon, pas du tout\nC'est une relation indescriptible",
             "Ce n'est pas grand-chose, en fait\nJ'aimerais connaître ton nom\nJ'aimerais parler de quelque chose",
             "Nous le voulons\nNous ne le voulons pas",
@@ -25465,7 +25465,7 @@
         ],
         "1484-0-message": [
             "\"Il faut frapper à la porte et appeler à l'aide...!\"",
-            "\"Je vais me mettre derrière Maple\n et retirer la carte d'identité...!\""
+            "\"Je vais me faufiler derrière Maple\n et retirer la carte d'identité...!\""
         ],
         "1487-0-message": [
             "\\C[3]Je me précipitai vers la porte.",
@@ -25541,11 +25541,63 @@
             "\\C[3]L'objet noir et pointu transperça la porte.",
             "\\.\\C[4](Ce... C'était chaud...!)",
             "\\.\"Oooouuhhh...!!\"",
-            "\"Grande sœur Sara !! Ça va, miaou ?!\""
+            "\"Grande sœur Sara !! Ça va, miaou ?!\"",
+            "\\.\"C'est dangereux...! Ne va pas devant !\"",
+            "\\.\"Hahaha... On s'amuse bien ici, à ce que je vois ?\"",
+            "\\.\"J'me demandais quel genre d'monstre ça pouvait être...\n Mais c'est ÇA, Maple ?!\"",
+            "\\.\"Tout le monde...!\"",
+            "\\.\"Ça n'a pas marché de discuter, hein ?!\n Mais on dirait que tu as la carte d'identité...!\"",
+            "\\.\"En discuter, c'était hors de question, hmm...?!\n Mais il semble que tu as pu récupérer la carte\n d'identité, c'est cela ?!\"",
+            "\\.\"C-Courez, tout le monde !\"",
+            "\\.\"Il faut qu'on file... sinon...\"",
+            "\"Vous êtes vraiment méchants...!!\n Vous vous liguez tous contre moi pour m'harceler...\"",
+            "\\.\"T-\\.Te \\.lleeeee \\.me \\.me \\.me \\.ment...\"",
+            "\\.\"A-\\.aa-\\.ah...\"",
+            "\"\\.Triste\\. contente\\. \\C[10]pas de pitié\\C[0]...\"",
+            "\\.\"\\C[10]TUER\\. \\C[0]je ne veux pas vous tuer\\. \\C[10]JE VAIS VOUS TUER\\C[0]\"",
+            "\\.\"Fuyez\\. \\C[10]crevez\\. \\C[0]soyons amis~!\"",
+            "\"H-Hé... Elle commence à se comporter\n de manière vraiment bizarre...\"",
+            "\\.\\C[4](Les émotions de Maple... sont toutes en pagaille...)",
+            "\\.\\C[4](Je ne sais pas comment on devrait gérer ça, mais...)",
+            "\\.\\C[4](On ne devrait pas se battre contre elle...!)",
+            "\\.\\C[4](Y aurait-il... un moyen de se réconcilier ?!)",
+            "\"Pas de pardon !! Pas de pardon !! Pas de pardon !!\"",
+            "\\.\"Pourquoi !! M'avez-vous !! Pris !! Hiyori !!\"",
+            "\\.\\C[4](Urgh...)",
+            "\\.\"Sara...\"",
+            "\\.\"Es-tu en train de penser :\n « Elle ne nous ferait jamais de mal »...?\"",
+            "\\.\\C[4](Hein ?)",
+            "\\.\"Disparaissez, tout simplement !!\n Sara et Ranmaru, tous les deux !!\"",
+            "\\.\\C[3]Une chose noirâtre dépassait du dos de Maple.",
+            "\"Urgh...!!\"",
+            "\\C[3]L'objet noir perça le plafond.",
+            "\\SP[12]\"Ah...\"\\.",
+            "\"Sara...?!\"",
+            "\\.\\C[3]J'ai mal... à la tête.\\.",
+            "\\.\\C[3]Quelque chose coule de ma tête le long de ma joue.",
+            "\\.\\C[3]...Du sang.",
+            "\\.\\C[3]Est-ce que... le plafond... s'est effondré...?",
+            "\"H-Hé oh...! Sara !! Sara...!!\"",
+            "\\.\"Sara !!\"",
+            "\\C[3]Il fait chaud... J'ai mal à la tête,\nj'ai l'impression qu'elle va exploser.",
+            "\\.\"Non...! Meurs pas !! Putain, meurs pas...!!\"",
+            "\\.\\C[3]La voix de Ranmaru semble étouffée.",
+            "\\.\\C[3]Est-ce que je... suis en train de mourir...?",
+            "\\.\\C[3]Non... Je suis toujours...",
+            "\\.\\C[3]Je suis... toujours..."
         ],
         "1485-0-message": [
             "\"Maple va attaquer... Je vais faire diversion !!\n Toi, fais autre chose en attendant !\"",
             "\"Je ferai diversion autant de fois qu'il le faudra...!\""
+        ],
+        "1491-0-message": [
+            "\"C'est le moment de me servir de mon nez\n pour flairer tout ce qui est louche, miaou !\""
+        ],
+        "1492-0-message": [
+            "\"Hé ! Tu me laisserais lire la lettre\n que Ranmaru a pris...?!\""
+        ],
+        "1493-0-message": [
+            "\"Très bien... Je vais observer son comportement !\""
         ]
     },
     "map107": {
@@ -35887,7 +35939,8 @@
             null,
             null,
             null,
-            "\\.\"...\n ...\n ...\""
+            "\\.\"...\n ...\n ...\"",
+            "\\.\"Hein...?\""
         ],
         "26-1-message": [
             "\"Parfois, quand j’suis tout seul avec Mai,\n j'baisse ma garde sans m’en rendre compte...\"",
