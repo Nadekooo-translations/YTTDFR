@@ -25600,7 +25600,7 @@
             "\"Très bien... Je vais observer son comportement !\""
         ],
         "1494-0-message": [
-            ""
+            "\"J'ai trouvé ! Des imitations de joueur de baseball !\n J'vais la faire marrer à coup de home run !\""
         ],
         "1495-0-message": [
             "\"Dans des moments comme ceux-là, le mieux,\n c'est de se taire et d'écouter !\""
@@ -25620,6 +25620,13 @@
         "1500-0-message": [
             "\"C'est un joli mouchoir, mais son nom est écrit dessus.\n Remercions-la et rendons-le-lui.\"",
             "\"Kanna pense qu'on devrait accepter le mouchoir...!\""
+        ],
+        "1501-0-message": [
+            "\"Même si on a pris le mouchoir...\n Ça ne nous sert pas vraiment à grand-chose,\n alors rendons-le.\"",
+            "\"C'est un pari...\n Acceptons le mouchoir que Maple nous tend.\""
+        ],
+        "1502-0-message": [
+            "\"Hé, réconcilions-nous !\n Allez... serrons-nous la main...!\""
         ]
     },
     "map107": {
@@ -42946,7 +42953,7 @@
             "\\C[3][Manuel d'utilisation de Maple]\nIl explique qu'il faut \\C[2]attendre que son niveau\nd'amitié soit élevé\\C[3] pour \\C[2]se réconcilier\\C[3].",
             "\\C[6]La Poupée la plus forte, Maple, est une fille solitaire.",
             "\\.\\C[6]Vous ne devriez pas la bousculer. L'important,\nc'est de sympathiser avec elle et d'être son ami.",
-            "\\.\\C[6]Comprendre ses émotions et\ndevenir un bon ami est la clé à la paix."
+            "\\.\\C[6]Comprendre ses émotions et devenir\nson bon ami est la clé à la paix."
         ],
         "7-1-message": [
             "\\C[3]Les livres verts de la bibliothèque.\nIls parlent de la poupée la plus forte, Maple.",
@@ -43021,9 +43028,9 @@
             "\\.\"Vous vous en prenez à moi...\n Vous vous en prenez tous à moi...\"",
             "\"C'pas notre réplique, ça ?!\"",
             "\\C[3]Maple se mit à rire.",
-            "\\.\"Hihi, hihihiii.\n Je vais te donner quelque chose de génial, hihi...\"",
+            "\\.\"Hihi, hihihiii.\n J'ai un cadeau génial pour vous, hihi...\"",
             "\\.\\C[3]Maple sorti un mouchoir d'une étagère.",
-            "\\.\"Tu ne veux pas le prendre ? Hihi.\""
+            "\\.\"Vous n'allez pas le refuser, quand même ? Hihi.\""
         ]
     },
     "map52": {
