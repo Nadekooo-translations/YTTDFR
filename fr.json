@@ -25627,6 +25627,23 @@
         ],
         "1502-0-message": [
             "\"Hé, réconcilions-nous !\n Allez... serrons-nous la main...!\""
+        ],
+        "1505-0-message": [
+            "\"Se... récon... cilier...?\"",
+            "\"Oui... On est vraiment désolés\n de t'avoir fait un truc aussi méchant...\"",
+            "\\.\"Mais... on a juste besoin de la carte d'identité !\n C'est pour sauver la vie de Keiji...!\"",
+            "\"D'accord, Sara.\"",
+            "\\.\"Tu me le rendras plus tard, n'est-ce pas ?\n J'aurais dû te faire confiance...\"",
+            "\\.\"Je suis contente... que personne n'ait été blessé.\"",
+            "\\.\\C[4](Maple...)",
+            "\\.\\C[4](Bien... On a réussi à se réconcilier...)",
+            "\"Se réconcilier...?\n C'est vrai, on se disputait...\"",
+            "\\.\"Non... Je m'en souviens... Pas de pardon.\n Je ne te pardonnerai jamais, Sara, jamais...\"",
+            "\\.\\C[3]Le bonheur de Maple s'envola.",
+            "\\C[4](Ça ne marche pas ! Je crois qu'on n'a pas\n assez de bonne volonté pour se réconcilier...!)",
+            "\"Qu'est-ce que tu racontes ?! On ne peut pas\n se réconcilier !!  Pas de pitié pour avoir volé\n mon trésor, Sara !!\"",
+            "\\C[3]La rage de Maple s'intensifia.",
+            "\\C[4](Ça ne marche pas ! Je crois qu'on n'a pas\n assez de bonne volonté pour se réconcilier...!)"
         ]
     },
     "map107": {
@@ -42971,8 +42988,8 @@
             "Examiner\nAnnuler"
         ],
         "2-3-message": [
-            null,
-            null,
+            "\\C[3]Q-taro agrippe les jambes de \\N[4].",
+            "\\C[3]Le monstre est immobilisé et incapable de bouger.",
             "\\C[3]Le monstre tente de se relever, sans se défendre."
         ],
         "10-1-message": [
@@ -43058,7 +43075,31 @@
             "\"Oh là là là là...\"",
             "\\C[3]Maple se mit à pleurer.",
             "\\.\"Personne ne me comprend... C'est tellement cruel...\n Tellement cruel...\"",
-            "\"On... on comprendra !\n Croyez-nous, madame Maple !\""
+            "\"On... on comprendra !\n Croyez-nous, madame Maple !\"",
+            "\"Pfff... C'est vraiment pénible...\"",
+            "\\C[3]Maple se mit à rire.",
+            "\\.\"Hihi, hihihiii.\n J'ai un cadeau génial pour vous, hihi...\"",
+            "\\.\\C[3]Maple sorti un mouchoir d'une étagère.",
+            "\\.\"Vous n'allez pas le refuser, quand même ? Hihi.\"",
+            "\"C... C'est la troisième fois...\n Est-ce qu'on va l'accepter cette fois-ci ?\"",
+            "\"Rah, quel entêtée...\n Est-ce qu'on va finir par céder cette fois-ci...?\"",
+            "\"Au moins, elle n'attaque pas quand elle sourit...\"",
+            "\\C[3]Maple s'est mise en colère.",
+            "\\.\\C[3]Maple rangea rapidement le mouchoir.",
+            "\\.\"Allez, dépêchez-vous !! Je vous l'ai déjà\n dit plein de fois !! Rendez-le-moi...!!\"",
+            "\"... Il vaudrait mieux qu'on se prépare à courir.\"",
+            "\\C[3]Maple se mit à pleurer.",
+            "\\.\"Je ne veux pas vous tuer...\n Je croyais qu'on était amis...\"",
+            "\"H-Hé ! Trouvez une solution, vite... !\"",
+            "\\C[3]Maple se mit à rire.",
+            "\\.\"Héhéhé. Je veux dire au revoir avec le sourire...\"",
+            "\"Oh là là !!\n Elle va bientôt passer à l'action !\"",
+            "\"Euh... Hum ?!\n Ton sourire n'a-t-il pas l'air un peu malsain ?!\"",
+            "\\C[3]Maple s'est mise en colère.",
+            "\\.\"C'est la fin !! Je vais vous tuer...!!\"",
+            "\"C'est pas bon, Sara !!\n Il faut qu'on se réconcilie, tout de suite...!\"",
+            "\\.\\C[4](Tout le monde est là... ! Y a-t-il un moyen\n de régler ça sans en venir aux mains ?!)",
+            "\\.\\C[4](Il faut qu'on renforce notre niveau d'amitié\n avec Maple... Observons ses émotions et\n réfléchissons bien à nos actions !)"
         ]
     },
     "map52": {
