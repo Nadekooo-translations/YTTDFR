@@ -25698,10 +25698,12 @@
             "\\.\"Oh, regardez ! Cette chose sur son ventre !\n La lettre dit que c'est son « indicateur d'amitié » !\"",
             "\\.\"Bon, alors on devrait garder un œil dessus et\n \\C[2]se réconcilier quand son niveau d'amitié\n sera suffisamment élevé\\C[0] !\"",
             "\\.\"D'accord. À toi de porter le coup de grâce, Anzu !\"",
-            "\\.\"Quoiii ?! C'est à moi de m'en charger ?!\"",
+            "\\.\"Heeein ?! C'est à moi de faire la réconciliation ?!\"",
             "\\.\"Mais bien sûr que oui !!\"",
             "\\.\"B-Bon, d'accord ! Les autres, veillez à\n faire grimper la barre d'amitié, compris ?!\"",
-            "\\.\"On devrait donc \\C[2]surveiller la jauge d'amitié\\C[0]\n et \\C[2]se réconcilier quand elle est assez haute\\C[0], miaou !\""
+            "\\.\"On devrait donc \\C[2]surveiller la jauge d'amitié\\C[0]\n et \\C[2]se réconcilier quand elle est assez haute\\C[0], miaou !\"",
+            "\\.\"Hé... Pour l'étape importante de la réconciliation...\n Pourrais-je te demander de t'en charger, Sara ?!\"",
+            "\\.\"Moi...?\""
         ]
     },
     "map107": {
